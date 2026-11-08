@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
+
+{% block conteudo %}
+<article class="materia">
+  <div class="cabeca-materia">
+    <span class="chapeu">{{ ui.assine }}</span>
+    <h1>{{ pagina.titulo }}</h1>
+    {% if pagina.resumo %}<p class="linha-fina">{{ pagina.resumo }}</p>{% endif %}
+  </div>
+
+  <div class="texto texto-editorial">
+    <p class="lojas">
+      {% if assinatura.aplicativos.apple %}
+      <a class="loja" href="{{ assinatura.aplicativos.apple }}" rel="nofollow">{{ ui.loja_apple }}</a>
+      {% endif %}
+      {% if assinatura.aplicativos.google %}
+      <a class="loja" href="{{ assinatura.aplicativos.google }}" rel="nofollow">{{ ui.loja_google }}</a>
+      {% endif %}
+      {% if not assinatura.aplicativos.apple and not assinatura.aplicativos.google %}
+      <span class="lojas-pendente">{{ ui.lojas_pendente }}</span>
+      {% endif %}
+    </p>
+    {{ conteudo_html|safe }}
+  </div>
+</article>
+{% endblock %}

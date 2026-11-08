@@ -1,0 +1,134 @@
+# ============================================================
+# Sveltia CMS — painel de redação do Boreal Times
+# Edita os mesmos arquivos markdown do repositório. Cada
+# publicação vira um commit no Git, com autor e histórico.
+# ============================================================
+
+backend:
+  name: github
+  repo: app-algoritmo/theborealtimes
+  branch: main
+  site_domain: borealtimes.org
+
+publish_mode: editorial_workflow      # rascunho → revisão → publicado
+media_folder: "temas/boreal/estatico/img/upload"
+public_folder: "/estatico/img/upload"
+locale: pt
+
+collections:
+  - name: edicoes_pt
+    label: "Edições · Português"
+    label_singular: "Edição"
+    folder: "conteudo/pt/materias"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "edicoes/{{slug}}"
+    summary: "{{secao}} · {{titulo}}"
+    sortable_fields: [data, secao, titulo]
+    fields:
+      - { name: numero, label: "Número da edição", widget: string, hint: "Ex.: 001" }
+      - { name: titulo, label: "Título", widget: string, pattern: ['^.{10,90}$', 'Entre 10 e 90 caracteres'] }
+      - { name: resumo, label: "Resumo", widget: text, hint: "Uma linha: por que esta decisão importa — quem paga, onde, em que prazo." }
+      - name: secao
+        label: "Seção"
+        widget: select
+        options: ["Economia", "Ciência", "Tecnologia", "Geopolítica"]
+      - { name: autor, label: "Autor", widget: string, hint: "Nome próprio. Assinatura coletiva é bloqueada na publicação." }
+      - { name: data, label: "Data de publicação", widget: datetime, format: "YYYY-MM-DD", time_format: false }
+      - { name: apuracao, label: "Apuração encerrada em", widget: string }
+      - name: acesso
+        label: "Acesso"
+        widget: select
+        options: ["assinantes", "aberta"]
+        default: "assinantes"
+      - name: informacao
+        label: "De onde vem a informação"
+        widget: text
+        required: false
+        hint: "Registros consultados, documentos vistos, fontes ouvidas, período."
+      - { name: body, label: "Texto", widget: markdown }
+
+  - name: edicoes_en
+    label: "Issues · English"
+    label_singular: "Issue"
+    folder: "conteudo/en/materias"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: numero, label: "Issue number", widget: string }
+      - { name: titulo, label: "Headline", widget: string }
+      - { name: resumo, label: "Standfirst", widget: text }
+      - name: secao
+        label: "Section"
+        widget: select
+        options: ["Economy", "Science", "Technology", "Geopolitics"]
+      - { name: autor, label: "Writer", widget: string }
+      - { name: data, label: "Date", widget: datetime, format: "YYYY-MM-DD", time_format: false }
+      - { name: apuracao, label: "Reporting closed on", widget: string }
+      - name: acesso
+        label: "Access"
+        widget: select
+        options: ["assinantes", "aberta"]
+        default: "assinantes"
+      - { name: informacao, label: "Where this comes from", widget: text, required: false }
+      - { name: body, label: "Body", widget: markdown }
+
+  - name: paginas_pt
+    label: "Páginas · Português"
+    folder: "conteudo/pt/paginas"
+    create: true
+    fields:
+      - { name: titulo, label: "Título", widget: string }
+      - { name: resumo, label: "Resumo", widget: text, required: false }
+      - { name: olho, label: "Olho", widget: string, required: false }
+      - { name: template, label: "Modelo", widget: select, options: ["pagina", "sobre", "assinatura", "entrar"], default: "pagina" }
+      - { name: atualizado, label: "Atualizado em", widget: string, required: false }
+      - { name: body, label: "Texto", widget: markdown }
+
+  - name: paginas_en
+    label: "Pages · English"
+    folder: "conteudo/en/paginas"
+    create: true
+    fields:
+      - { name: titulo, label: "Title", widget: string }
+      - { name: resumo, label: "Summary", widget: text, required: false }
+      - { name: olho, label: "Eyebrow", widget: string, required: false }
+      - { name: template, label: "Template", widget: select, options: ["pagina", "sobre", "assinatura", "entrar"], default: "pagina" }
+      - { name: atualizado, label: "Updated", widget: string, required: false }
+      - { name: body, label: "Body", widget: markdown }
+
+  - name: configuracao
+    label: "Configuração do jornal"
+    files:
+      - name: geral
+        label: "Identidade, preços e medição"
+        file: "boreal.yaml"
+        fields:
+          - name: site
+            label: "Identidade"
+            widget: object
+            fields:
+              - { name: nome, label: "Nome", widget: string }
+              - { name: url, label: "Endereço", widget: string }
+              - { name: editora, label: "Editora", widget: string }
+              - { name: editor, label: "Editor responsável", widget: string }
+              - { name: edicao_corrente, label: "Rótulo da edição corrente", widget: string }
+          - name: medicao
+            label: "Medição"
+            widget: object
+            fields:
+              - { name: ga4, label: "Google Analytics (G-...)", widget: string, required: false }
+              - { name: gtm, label: "Google Tag Manager", widget: string, required: false }
+              - { name: verificacao_google, label: "Search Console", widget: string, required: false }
+              - { name: verificacao_bing, label: "Bing", widget: string, required: false }
+          - name: assinatura
+            label: "Assinatura"
+            widget: object
+            fields:
+              - name: aplicativos
+                label: "Lojas de aplicativo"
+                widget: object
+                fields:
+                  - { name: apple, label: "App Store", widget: string, required: false }
+                  - { name: google, label: "Google Play", widget: string, required: false }
+              - { name: paragrafos_abertos, label: "Parágrafos abertos antes do convite", widget: number, value_type: int, default: 3 }

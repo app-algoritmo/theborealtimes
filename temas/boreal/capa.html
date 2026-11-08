@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block conteudo %}
+<div class="env">
+
+{% if manchete %}
+<section class="capa">
+  <div class="col">
+    <div class="rotulo">{{ ui.ultimas }}</div>
+    {% for e in recentes %}
+    <article class="ultima">
+      <span class="hora">{{ e.data_curta }}</span>
+      <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
+    </article>
+    {% endfor %}
+  </div>
+  <div class="risco"></div>
+
+  <div class="col">
+    <article class="chamada manchete">
+      {% if manchete.imagem %}
+      <figure>
+        <img src="{{ manchete.imagem }}" alt="" width="1200" height="675">
+        {% if manchete.imagem_credito %}<figcaption class="legenda">{{ manchete.imagem_credito }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
+      <span class="chapeu">{{ manchete.secao }}</span>
+      <h2 class="titulo"><a href="{{ manchete.url }}">{{ manchete.titulo }}</a></h2>
+      <p class="olho">{{ manchete.resumo }}</p>
+      <p class="credito"><b>{{ manchete.autor }}</b> · {{ manchete.data_curta }}</p>
+    </article>
+  </div>
+  <div class="risco"></div>
+
+  <div class="col">
+    {% for e in laterais %}
+    <article class="chamada sec">
+      {% if e.imagem %}<img src="{{ e.imagem }}" alt="" width="600" height="400">{% endif %}
+      <span class="chapeu">{{ e.secao }}</span>
+      <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
+      <p class="credito"><b>{{ e.autor }}</b> · {{ e.data_curta }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% else %}
+<section style="padding:48px 0 10px;max-width:760px">
+  <h2 class="titulo" style="font-size:clamp(30px,4.2vw,50px);font-weight:700;letter-spacing:-.026em">{{ manifesto.titulo }}</h2>
+  <p class="olho" style="font-size:19px;margin-top:14px">{{ manifesto.chamada }}</p>
+</section>
+{% endif %}
+
+{% for bloco in blocos %}
+<section class="faixa">
+  <div class="faixa-cab">
+    <h2>{{ bloco.nome }}</h2>
+    <a class="tudo" href="{{ idioma.prefixo }}/{{ bloco.slug }}/">{{ ui.ver_tudo }} →</a>
+  </div>
+  {% if bloco.edicoes %}
+  <div class="quatro">
+    {% for e in bloco.edicoes %}
+    <article class="chamada">
+      {% if e.imagem %}<img src="{{ e.imagem }}" alt="" width="600" height="400">{% endif %}
+      <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
+      <p class="olho">{{ e.resumo }}</p>
+      <p class="credito"><b>{{ e.autor }}</b> · {{ e.data_curta }}</p>
+    </article>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="olho">{{ bloco.descricao }}</p>
+  {% endif %}
+</section>
+{% endfor %}
+
+</div>
+{% endblock %}

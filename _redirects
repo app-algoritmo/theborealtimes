@@ -1,0 +1,10 @@
+# Domínio canônico
+https://www.borealtimes.org/*  https://borealtimes.org/:splat  301
+
+# Atalhos
+/assine        /assinatura/      301
+/subscribe     /en/assinatura/   301
+/circulo       /assinatura/      301
+/precoreal     /preco-real/      301
+
+# Nada de redirecionamento por país: o idioma é escolha do leitor.

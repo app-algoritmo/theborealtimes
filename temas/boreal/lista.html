@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block titulo %}{{ lista.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ lista.resumo|default(t.descricao) }}{% endblock %}
+
+{% block conteudo %}
+<div class="env">
+  <section class="faixa" style="margin-top:28px">
+    <div class="faixa-cab"><h2>{{ lista.titulo }}</h2></div>
+    {% if lista.resumo %}<p class="olho" style="max-width:62ch;margin-bottom:22px">{{ lista.resumo }}</p>{% endif %}
+  </section>
+
+  {% if edicoes %}
+  <section style="max-width:860px">
+    {% for e in edicoes %}
+    <article class="chamada">
+      <span class="chapeu">{{ e.secao }}</span>
+      <h3 class="titulo" style="font-size:24px"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
+      <p class="olho">{{ e.resumo }}</p>
+      <p class="credito"><b>{{ e.autor }}</b> · {{ e.data_curta }}</p>
+    </article>
+    {% endfor %}
+  </section>
+  {% else %}
+  <p class="olho" style="padding-bottom:40px">{{ ui.vazio }}</p>
+  {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
+
+{% block conteudo %}
+<article class="materia">
+  <div class="cabeca-materia">
+    {% if pagina.olho %}<span class="chapeu">{{ pagina.olho }}</span>{% endif %}
+    <h1>{{ pagina.titulo }}</h1>
+    {% if pagina.resumo %}<p class="linha-fina">{{ pagina.resumo }}</p>{% endif %}
+    {% if pagina.atualizado %}
+    <div class="assinatura"><span>{{ ui.atualizado }} {{ pagina.atualizado }}</span></div>
+    {% endif %}
+  </div>
+  <div class="texto texto-editorial">{{ conteudo_html|safe }}</div>
+</article>
+{% endblock %}

@@ -1,0 +1,14 @@
+{
+  "name": "Boreal Times",
+  "short_name": "Boreal",
+  "description": "Economia, ciência, tecnologia e geopolítica na Europa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#15171B",
+  "theme_color": "#15171B",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/estatico/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/estatico/img/boreal-logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

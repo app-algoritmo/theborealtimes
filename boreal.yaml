@@ -1,0 +1,230 @@
+# ============================================================
+# BOREAL TIMES — configuração central
+# Português é o idioma principal. Inglês é secundário, em /en/.
+# ============================================================
+
+site:
+  nome: Boreal Times
+  url: https://borealtimes.org
+  publicacao_de: Duna Press
+  publicacao_de_url: https://dunapress.org
+  casa_desde: 2017
+  editora: DIGITAL SOLUTIONS - DE BARROS
+  organizacao_nr: "996 041 468"
+  editor: Paulo Fernando de Barros
+  fundado: 2025
+  local:
+    cidade: Larvik
+    regiao: "38"
+    pais: "NO"
+    latitude: "59.0544"
+    longitude: "10.0268"
+    endereco: "Holtebygdveien 23, 3282 Kvelde, Larvik, Noruega"
+  cobertura: Europa
+  redes:
+    facebook: https://www.facebook.com/borealtimes
+    instagram: https://www.instagram.com/borealtimes
+    threads: https://www.threads.com/@borealtimes
+    youtube: https://www.youtube.com/@borealtimes
+    x: https://x.com/borealtimes
+
+# ------------------------------------------------------------
+# Medição — consentimento negado por padrão; a CMP do AdSense atualiza
+# ------------------------------------------------------------
+medicao:
+  ga4: "G-F8DGD8SR0E"
+  verificacao_google: ""   # preencher depois do site no ar
+  verificacao_bing: ""
+
+# ------------------------------------------------------------
+# Publicidade — a web é aberta e com anúncio; o aplicativo é sem
+# ------------------------------------------------------------
+publicidade:
+  adsense: "ca-pub-7977428997189299"
+  # A mensagem de privacidade (CMP certificada) é configurada no painel do
+  # AdSense, em Privacidade e mensagens, e servida pelo próprio script.
+
+assinatura:
+  aplicativos:
+    apple: ""      # https://apps.apple.com/app/...
+    google: ""     # https://play.google.com/store/apps/details?id=...
+
+# ------------------------------------------------------------
+# Idiomas
+# ------------------------------------------------------------
+idiomas:
+  - codigo: pt-BR
+    curto: pt
+    prefixo: ""
+    rotulo: Português
+    principal: true
+  - codigo: en
+    curto: en
+    prefixo: /en
+    rotulo: English
+    principal: false
+
+# ============================================================
+# CONTEÚDO POR IDIOMA
+# ============================================================
+
+pt:
+  lema: Economia · Ciência · Tecnologia · Geopolítica
+  chamada_topo: Europa em português
+  descricao: >-
+    Jornal digital sobre economia, ciência, tecnologia e geopolítica na
+    Europa. Publicado na Noruega, em português e inglês.
+  rodape:
+    sobre: >-
+      Jornal digital sobre a Europa, publicado na Noruega em português e
+      inglês. Uma publicação da Duna Press, que edita jornalismo em português
+      desde 2017. O que sai aqui não sai lá.
+    secoes: Editorias
+    jornal: O jornal
+    legal: Legal
+    redes: Nas redes
+    privacidade: Privacidade
+    termos: Termos
+    editor: Editor responsável
+    links_jornal:
+      - { rotulo: Quem somos, url: /quem-somos/ }
+      - { rotulo: Princípios editoriais, url: /principios/ }
+      - { rotulo: Correções, url: /correcoes/ }
+      - { rotulo: Fale com a redação, url: /contato/ }
+    links_legal:
+      - { rotulo: Assinatura, url: /assinatura/ }
+      - { rotulo: Termos de uso, url: /termos/ }
+      - { rotulo: Privacidade, url: /privacidade/ }
+      - { rotulo: Cookies, url: /cookies/ }
+  interface:
+    capa: Capa
+    sobre: Sobre
+    assine: Assinar
+    ultimas: Últimas
+    ver_tudo: Ver tudo
+    arquivo: Arquivo
+    as_secoes: As editorias
+    vazio: Nenhuma matéria publicada nesta editoria ainda.
+    leitura: min de leitura
+    informacao: Reportagem humana
+    por: Por
+    atualizado: Atualizado em
+    loja_apple: Baixar na App Store
+    loja_google: Baixar no Google Play
+    lojas_pendente: Aplicativos em publicação nas lojas.
+    idioma_sugestao: This newspaper is also published in English.
+    idioma_sugestao_botao: Read in English
+  secoes:
+    - nome: Economia
+      slug: economia
+      descricao: >-
+        Orçamento público, dívida, fundos, bancos de desenvolvimento, empresas
+        listadas e contratos do Estado, inclusive o gasto militar.
+    - nome: Ciência
+      slug: ciencia
+      descricao: >-
+        Pesquisa e quem a financia. Energia nuclear, materiais, espaço, clima,
+        saúde pública e os programas europeus que pagam a conta.
+    - nome: Tecnologia
+      slug: tecnologia
+      descricao: >-
+        Data center, inteligência artificial, semicondutor, cabo submarino,
+        rede elétrica, telecomunicação e cibersegurança.
+    - nome: Geopolítica
+      slug: geopolitica
+      descricao: >-
+        Defesa, alianças, sanções, fronteiras e território. Da Noruega à
+        Rússia.
+  manifesto:
+    titulo: A Europa está gastando. Mostramos em quê, onde e com quem.
+    chamada: >-
+      Orçamentos, contratos, licenças e alianças. O Boreal Times acompanha o
+      dinheiro público e privado que está redesenhando o continente — da
+      Noruega à Rússia, do documento ao terreno.
+    origem: >-
+      <p>Toda matéria sai com nome do autor, data de encerramento da apuração
+      e a origem da informação: documento consultado, registro público,
+      licitação publicada ou fontes com conhecimento direto do assunto.</p>
+      <p>Comunicação oficial de governo, de força armada ou de empresa é
+      sempre atribuída a quem a emitiu, nunca apresentada como fato apurado.</p>
+
+en:
+  lema: Economy · Science · Technology · Geopolitics
+  chamada_topo: Europe in English
+  descricao: >-
+    A digital newspaper on economy, science, technology and geopolitics in
+    Europe. Published in Norway, in Portuguese and English.
+  rodape:
+    sobre: >-
+      A digital newspaper on Europe, published in Norway in Portuguese and
+      English. A Duna Press title; the house has published journalism in
+      Portuguese since 2017. What runs here does not run there.
+    secoes: Sections
+    jornal: The paper
+    legal: Legal
+    redes: Follow
+    privacidade: Privacy
+    termos: Terms
+    editor: Responsible editor
+    links_jornal:
+      - { rotulo: About us, url: /en/quem-somos/ }
+      - { rotulo: Editorial principles, url: /en/principios/ }
+      - { rotulo: Corrections, url: /en/correcoes/ }
+      - { rotulo: Contact the newsroom, url: /en/contato/ }
+    links_legal:
+      - { rotulo: Subscription, url: /en/assinatura/ }
+      - { rotulo: Terms of use, url: /en/termos/ }
+      - { rotulo: Privacy, url: /en/privacidade/ }
+      - { rotulo: Cookies, url: /en/cookies/ }
+  interface:
+    capa: Front page
+    sobre: About
+    assine: Subscribe
+    ultimas: Latest
+    ver_tudo: See all
+    arquivo: Archive
+    as_secoes: The sections
+    vazio: Nothing published in this section yet.
+    leitura: min read
+    informacao: Human reporting
+    por: By
+    atualizado: Updated
+    loja_apple: Download on the App Store
+    loja_google: Get it on Google Play
+    lojas_pendente: Apps are being published to the stores.
+    idioma_sugestao: Este jornal também é publicado em português.
+    idioma_sugestao_botao: Ler em português
+  secoes:
+    - nome: Economy
+      slug: economy
+      descricao: >-
+        Public budgets, debt, funds, development banks, listed companies and
+        state contracts, military spending included.
+    - nome: Science
+      slug: science
+      descricao: >-
+        Research and who funds it. Nuclear energy, materials, space, climate,
+        public health, and the European programmes that pay for them.
+    - nome: Technology
+      slug: technology
+      descricao: >-
+        Data centres, artificial intelligence, semiconductors, subsea cable,
+        the power grid, telecoms and cybersecurity.
+    - nome: Geopolitics
+      slug: geopolitics
+      descricao: >-
+        Defence, alliances, sanctions, borders and territory. From Norway to
+        Russia.
+  manifesto:
+    titulo: Europe is spending. We show on what, where and with whom.
+    chamada: >-
+      Budgets, contracts, permits and alliances. Boreal Times follows the
+      public and private money redrawing the continent — from Norway to
+      Russia, from the document to the ground.
+    origem: >-
+      <p>Every article carries the writer's name, the date reporting closed
+      and the origin of the information: documents consulted, public records,
+      published tenders, or sources with direct knowledge of the matter.</p>
+      <p>Official communication from a government, an armed force or a company
+      is always attributed to whoever issued it, never presented as verified
+      fact.</p>

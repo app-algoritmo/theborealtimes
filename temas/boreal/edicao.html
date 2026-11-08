@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
+{% block ogtipo %}article{% endblock %}
+{% block ogimagem %}{{ pagina.imagem|default(site.url ~ '/estatico/img/boreal-social.png') }}{% endblock %}
+
+{% block conteudo %}
+<article>
+  <div class="trilha">
+    <a href="{{ idioma.prefixo }}/">{{ ui.capa }}</a> ›
+    <a href="{{ idioma.prefixo }}/{{ pagina.secao_slug }}/">{{ pagina.secao }}</a>
+  </div>
+
+  <div class="materia">
+    <div class="cabeca-materia">
+      <span class="chapeu">{{ pagina.secao }}</span>
+      <h1>{{ pagina.titulo }}</h1>
+      {% if pagina.resumo %}<p class="linha-fina">{{ pagina.resumo }}</p>{% endif %}
+      <div class="assinatura">
+        <span><b>{{ ui.por }}</b> {{ pagina.autor }}</span>
+        <span class="sep">·</span>
+        <span>{{ pagina.data_longa }}</span>
+        <span class="sep">·</span>
+        <span>{{ pagina.leitura }} {{ ui.leitura }}</span>
+        {% if pagina.informacao %}<span class="sep">·</span>
+        <span class="selo">{{ ui.informacao }}</span>{% endif %}
+      </div>
+    </div>
+
+    {% if pagina.imagem %}
+    <figure class="abertura">
+      <img src="{{ pagina.imagem }}" alt="" width="1200" height="675">
+      {% if pagina.imagem_credito %}<figcaption class="legenda">{{ pagina.imagem_credito }}</figcaption>{% endif %}
+    </figure>
+    {% endif %}
+
+    <div class="texto">
+      {{ conteudo_html|safe }}
+      <span class="marca-fim"></span>
+    </div>
+
+    {% if pagina.informacao %}
+    <div class="texto" style="padding-top:0">
+      <hr>
+      <p class="credito"><b>{{ ui.informacao }}.</b> {{ pagina.informacao }}</p>
+    </div>
+    {% endif %}
+
+    {% if pagina.tags %}
+    <div class="etiquetas">
+      {% for tag in pagina.tags %}<a href="{{ idioma.prefixo }}/busca/?t={{ tag }}">{{ tag }}</a>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</article>
+{% endblock %}
