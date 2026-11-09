@@ -5,6 +5,7 @@ BOREAL TIMES — gerador do site e ferramentas de redação.
 
     python3 publicar.py construir     gera o site em site/
     python3 publicar.py nova          cria o esqueleto de uma matéria
+    python3 publicar.py imagem        prepara a foto: 1200×675 WebP
     python3 publicar.py checar        copidesque automático
     python3 publicar.py servir        http://localhost:8000
 
@@ -454,6 +455,85 @@ tags: []
 """
 
 
+# ---------------------------------------------------------------- imagem
+
+# A imagem da matéria tem uma forma só: 1200×675, WebP, abaixo de 100 KB.
+# Uma medida fixa evita que a capa fique irregular e que o repositório engorde.
+# O Git guarda toda versão para sempre, então a foto entra já no tamanho final.
+IMG_LARGURA = 1200
+IMG_ALTURA = 675
+IMG_PESO_ALVO = 100 * 1024
+IMG_DESTINO = TEMA / "estatico" / "img" / "materias"
+
+
+def preparar_imagem():
+    try:
+        from PIL import Image
+    except ImportError:
+        print("✗ Falta a biblioteca Pillow. Instale com:")
+        print("    pip install pillow")
+        return 1
+
+    if len(sys.argv) < 4:
+        print("Uso: python3 publicar.py imagem <arquivo> <apelido>")
+        print("Ex.: python3 publicar.py imagem ~/Downloads/polotno.jpeg starship-florida")
+        return 1
+
+    origem = Path(sys.argv[2]).expanduser()
+    if not origem.exists():
+        print(f"✗ Não encontrei: {origem}")
+        return 1
+
+    apelido = re.sub(r"[^a-z0-9]+", "-", sys.argv[3].lower()).strip("-")
+    if not apelido:
+        print("✗ Apelido inválido.")
+        return 1
+
+    im = Image.open(origem).convert("RGB")
+    entrada = origem.stat().st_size
+
+    # Recorta pelo centro até 16:9 antes de redimensionar, para não deformar
+    # uma foto que venha em outra proporção.
+    alvo = IMG_LARGURA / IMG_ALTURA
+    l, a = im.size
+    if abs(l / a - alvo) > 0.01:
+        if l / a > alvo:
+            nova_l = round(a * alvo)
+            margem = (l - nova_l) // 2
+            im = im.crop((margem, 0, margem + nova_l, a))
+        else:
+            nova_a = round(l / alvo)
+            margem = (a - nova_a) // 2
+            im = im.crop((0, margem, l, margem + nova_a))
+    im = im.resize((IMG_LARGURA, IMG_ALTURA), Image.LANCZOS)
+
+    IMG_DESTINO.mkdir(parents=True, exist_ok=True)
+    destino = IMG_DESTINO / f"{apelido}.webp"
+    if destino.exists():
+        print(f"✗ Já existe: {destino}")
+        print("  Trocar uma foto não libera o espaço da anterior no Git. "
+              "Use outro apelido.")
+        return 1
+
+    # Procura a maior qualidade que ainda cabe no alvo de peso. O piso de 60
+    # existe para não degradar a foto além do aceitável só para bater a meta.
+    melhor = None
+    for q in range(90, 55, -5):
+        im.save(destino, "WEBP", quality=q, method=6)
+        melhor = q
+        if destino.stat().st_size <= IMG_PESO_ALVO:
+            break
+
+    saida = destino.stat().st_size
+    print(f"✓ {destino}")
+    print(f"  {IMG_LARGURA}×{IMG_ALTURA} · qualidade {melhor} · "
+          f"{entrada/1024:.0f} KB → {saida/1024:.0f} KB")
+    print()
+    print("No front matter da matéria:")
+    print(f'  imagem: "/estatico/img/materias/{apelido}.webp"')
+    return 0
+
+
 def nova_materia():
     cfg = carregar_config()
     hoje = date.today()
@@ -488,6 +568,8 @@ if __name__ == "__main__":
         sys.exit(checar())
     elif comando == "nova":
         nova_materia()
+    elif comando == "imagem":
+        sys.exit(preparar_imagem())
     elif comando == "servir":
         servir()
     else:
