@@ -70,14 +70,25 @@ def carregar_config() -> dict:
         return yaml.safe_load(f)
 
 
+_cache_md = {}
+
+
 def ler_markdown(caminho: Path):
-    bruto = caminho.read_text(encoding="utf-8")
-    meta, corpo = {}, bruto
-    if bruto.startswith("---"):
-        _, cabeca, corpo = bruto.split("---", 2)
-        meta = yaml.safe_load(cabeca) or {}
-    md = markdown.Markdown(extensions=["tables", "attr_list", "footnotes", "smarty"])
-    return meta, md.convert(corpo.strip())
+    # O mesmo arquivo é lido duas vezes por construção: uma para montar o mapa
+    # de equivalências entre idiomas, outra para renderizar a página. Converter
+    # markdown duas vezes por matéria dobraria o tempo de build sem necessidade.
+    chave = (str(caminho), caminho.stat().st_mtime_ns)
+    if chave not in _cache_md:
+        bruto = caminho.read_text(encoding="utf-8")
+        meta, corpo = {}, bruto
+        if bruto.startswith("---"):
+            _, cabeca, corpo = bruto.split("---", 2)
+            meta = yaml.safe_load(cabeca) or {}
+        md = markdown.Markdown(
+            extensions=["tables", "attr_list", "footnotes", "smarty"])
+        _cache_md[chave] = (meta, md.convert(corpo.strip()))
+    meta, html = _cache_md[chave]
+    return dict(meta), html
 
 
 def escrever(destino: Path, texto: str):
@@ -92,6 +103,63 @@ def slug_da_secao(nome: str, secoes: list) -> str:
     return ""
 
 
+def apelido_de(arquivo: Path) -> str:
+    """O nome do arquivo sem o prefixo de data."""
+    return re.sub(r"^\d{4}-\d{2}-\d{2}-", "", arquivo.stem)
+
+
+def mapa_de_equivalencias(cfg):
+    """Para cada peça do jornal, o endereço dela em cada idioma.
+
+    Os apelidos mudam de idioma para idioma: /economia/ é /en/economy/ e
+    /privacidade/ é /en/privacy/. Sem este mapa, o seletor de idioma e as
+    etiquetas hreflang apontariam para endereços que não existem — era o que
+    acontecia com as editorias mesmo antes de as páginas serem traduzidas.
+
+    As editorias casam pela ordem em que aparecem na configuração. As páginas
+    casam pela chave do bloco `paginas`. As matérias casam pelo nome do
+    arquivo sem a data: 2026-11-09-starship.md em pt e 2026-11-10-starship.md
+    em en são a mesma peça nos dois idiomas.
+    """
+    mapa = {}
+
+    def registrar(chave, curto, url):
+        mapa.setdefault(chave, {})[curto] = url
+
+    for idioma in cfg["idiomas"]:
+        curto, pref = idioma["curto"], idioma["prefixo"]
+        t = cfg[curto]
+        registrar("capa", curto, f"{pref}/")
+        for chave, apelido in t["paginas"].items():
+            registrar(f"pagina:{chave}", curto, f"{pref}/{apelido}/")
+        for n, s in enumerate(t["secoes"]):
+            registrar(f"secao:{n}", curto, f"{pref}/{s['slug']}/")
+        for arquivo in (CONTEUDO / curto / "materias").glob("*.md"):
+            meta, _ = ler_markdown(arquivo)
+            d = meta.get("data")
+            if isinstance(d, str):
+                d = datetime.strptime(d, "%Y-%m-%d").date()
+            if not d:
+                continue
+            registrar(f"materia:{apelido_de(arquivo)}", curto,
+                      f"{pref}/{d:%Y/%m/%d}/{apelido_de(arquivo)}/")
+
+    return mapa
+
+
+def alternativas_de(mapa, chave, cfg, curto):
+    """Os outros idiomas em que esta página existe, e o endereço em cada um.
+
+    Devolve lista vazia quando a peça só existe num idioma — uma matéria sem
+    tradução não deve declarar hreflang para uma página que não existe.
+    """
+    onde = mapa.get(chave, {})
+    if curto not in onde:
+        return []
+    return [dict(i, url=onde[i["curto"]])
+            for i in cfg["idiomas"] if i["curto"] in onde]
+
+
 # ---------------------------------------------------------------- SEO
 
 def jsonld_publicacao(cfg, idioma, t):
@@ -104,9 +172,9 @@ def jsonld_publicacao(cfg, idioma, t):
         "logo": f"{s['url']}/estatico/img/boreal-logo.png",
         "description": t["descricao"],
         "foundingDate": str(s["fundado"]),
-        "publishingPrinciples": f"{s['url']}{idioma['prefixo']}/principios/",
-        "correctionsPolicy": f"{s['url']}{idioma['prefixo']}/correcoes/",
-        "ethicsPolicy": f"{s['url']}{idioma['prefixo']}/principios/",
+        "publishingPrinciples": f"{s['url']}{idioma['prefixo']}/{t['paginas']['principios']}/",
+        "correctionsPolicy": f"{s['url']}{idioma['prefixo']}/{t['paginas']['correcoes']}/",
+        "ethicsPolicy": f"{s['url']}{idioma['prefixo']}/{t['paginas']['principios']}/",
         "parentOrganization": {"@type": "Organization", "name": s["publicacao_de"],
                                "url": s["publicacao_de_url"]},
         "address": {
@@ -162,6 +230,7 @@ def construir():
 
     todas_urls = []
     total_materias = 0
+    mapa = mapa_de_equivalencias(cfg)
 
     for idioma in cfg["idiomas"]:
         curto = idioma["curto"]
@@ -198,9 +267,14 @@ def construir():
             d = meta.get("data")
             if isinstance(d, str):
                 d = datetime.strptime(d, "%Y-%m-%d").date()
-            slug = arquivo.stem
+            # O endereço é /ANO/MÊS/DIA/apelido/ — a forma que os jornais usam.
+            # A data vem do campo `data`, não do nome do arquivo, para que as
+            # duas nunca se desencontrem. A editoria fica fora do endereço de
+            # propósito: peça reclassificada não pode quebrar o link.
+            apelido = apelido_de(arquivo)
             meta.update({
-                "url": f"{pref}/{slug}/",
+                "url": f"{pref}/{d:%Y/%m/%d}/{apelido}/",
+                "chave": f"materia:{apelido}",
                 "secao_slug": slug_da_secao(meta.get("secao", ""), secoes),
                 "data_longa": data_longa(d, curto),
                 "data_curta": data_curta(d, curto),
@@ -219,6 +293,8 @@ def construir():
         for meta, html in materias:
             ctx = dict(base, pagina=meta, conteudo_html=html,
                        numero_edicao=numero,
+                       alternativas=alternativas_de(mapa, meta["chave"],
+                                                    cfg, curto),
                        jsonld=json.dumps(jsonld_materia(cfg, idioma, meta),
                                          ensure_ascii=False, indent=2))
             escrever(raiz_saida / meta["url"].replace(pref, "").strip("/") / "index.html",
@@ -240,38 +316,56 @@ def construir():
                         manchete=lista[0] if lista else None,
                         laterais=lista[1:4],
                         recentes=lista[4:11],
+                        alternativas=alternativas_de(mapa, "capa", cfg, curto),
                         blocos=blocos)
         escrever(raiz_saida / "index.html",
                  env.get_template("capa.html").render(**capa_ctx))
         todas_urls.append(f"{pref}/")
 
         # ---- páginas de editoria
-        for s in secoes:
+        for n, s in enumerate(secoes):
             da_secao = [m for m in lista if m.get("secao") == s["nome"]]
             ctx = dict(base, pagina={"url": f"{pref}/{s['slug']}/"},
                        lista={"titulo": s["nome"], "resumo": s["descricao"]},
+                       alternativas=alternativas_de(mapa, f"secao:{n}",
+                                                    cfg, curto),
                        edicoes=da_secao)
             escrever(raiz_saida / s["slug"] / "index.html",
                      env.get_template("lista.html").render(**ctx))
             todas_urls.append(f"{pref}/{s['slug']}/")
 
         # ---- arquivo
-        ctx = dict(base, pagina={"url": f"{pref}/arquivo/"},
+        arq = t["paginas"]["arquivo"]
+        ctx = dict(base, pagina={"url": f"{pref}/{arq}/"},
                    lista={"titulo": base["ui"]["arquivo"], "resumo": t["descricao"]},
+                   alternativas=alternativas_de(mapa, "pagina:arquivo",
+                                                cfg, curto),
                    edicoes=lista)
-        escrever(raiz_saida / "arquivo" / "index.html",
+        escrever(raiz_saida / arq / "index.html",
                  env.get_template("lista.html").render(**ctx))
-        todas_urls.append(f"{pref}/arquivo/")
+        todas_urls.append(f"{pref}/{arq}/")
 
         # ---- páginas fixas
+        # O nome do arquivo é o apelido no endereço. O bloco `paginas` da
+        # configuração diz qual apelido corresponde a qual página em cada
+        # idioma — é por ele que /privacidade/ e /en/privacy/ se reconhecem
+        # como a mesma página.
+        chave_da_pagina = {apelido: chave
+                           for chave, apelido in t["paginas"].items()}
         for arquivo in sorted(pasta.glob("paginas/*.md")):
             meta, html = ler_markdown(arquivo)
             slug = arquivo.stem
+            chave = chave_da_pagina.get(slug)
+            if not chave:
+                print(f"  aviso   {arquivo.name}: apelido fora do bloco "
+                      f"`paginas` de {curto} — sem equivalência entre idiomas")
             meta["url"] = f"{pref}/{slug}/"
             meta.setdefault("olho", "")
             meta.setdefault("atualizado", "")
             modelo = meta.get("template", "pagina") + ".html"
-            ctx = dict(base, pagina=meta, conteudo_html=html)
+            ctx = dict(base, pagina=meta, conteudo_html=html,
+                       alternativas=alternativas_de(
+                           mapa, f"pagina:{chave}", cfg, curto) if chave else [])
             escrever(raiz_saida / slug / "index.html",
                      env.get_template(modelo).render(**ctx))
             todas_urls.append(meta["url"])
@@ -292,7 +386,7 @@ def construir():
         escrever(SAIDA / "ads.txt",
                  f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n")
 
-    gerar_sitemap(cfg, todas_urls)
+    gerar_sitemap(cfg, todas_urls, mapa)
     escrever(SAIDA / "robots.txt",
              f"User-agent: *\nAllow: /\nDisallow: /admin/\n"
              f"Sitemap: {site['url']}/sitemap.xml\n")
@@ -323,26 +417,40 @@ def gerar_rss(site, t, idioma, materias, raiz_saida):
     escrever(raiz_saida / "rss.xml", xml)
 
 
-def gerar_sitemap(cfg, urls):
+def gerar_sitemap(cfg, urls, mapa):
     site = cfg["site"]
     ns = ('xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
           'xmlns:xhtml="http://www.w3.org/1999/xhtml"')
+
+    # Do endereço de volta à peça que ele representa, para saber qual é o
+    # equivalente no outro idioma. Trocar o prefixo /en na string não serve:
+    # /economia/ não vira /en/economia/, vira /en/economy/.
+    chave_do_url = {u: c for c, porIdioma in mapa.items()
+                    for u in porIdioma.values()}
+    principal = next(i["curto"] for i in cfg["idiomas"] if i.get("principal"))
+
     linhas, vistos = [], set()
     for u in urls:
         if u in vistos:
             continue
         vistos.add(u)
-        base_u = u[3:] if u.startswith("/en") else u
+        onde = mapa.get(chave_do_url.get(u, ""), {})
         alt = []
-        for i in cfg["idiomas"]:
-            alvo = f"{i['prefixo']}{base_u}"
-            if alvo in urls:
-                alt.append(f'    <xhtml:link rel="alternate" hreflang="{i["codigo"]}" '
-                           f'href="{site["url"]}{alvo}"/>')
-        alt.append(f'    <xhtml:link rel="alternate" hreflang="x-default" '
-                   f'href="{site["url"]}{base_u}"/>')
-        linhas.append(f"  <url>\n    <loc>{site['url']}{u}</loc>\n"
-                      + "\n".join(alt) + "\n  </url>")
+        if len(onde) > 1:
+            for i in cfg["idiomas"]:
+                if i["curto"] in onde:
+                    alt.append(
+                        f'    <xhtml:link rel="alternate" '
+                        f'hreflang="{i["codigo"]}" '
+                        f'href="{site["url"]}{onde[i["curto"]]}"/>')
+            if principal in onde:
+                alt.append(f'    <xhtml:link rel="alternate" '
+                           f'hreflang="x-default" '
+                           f'href="{site["url"]}{onde[principal]}"/>')
+        corpo = f"  <url>\n    <loc>{site['url']}{u}</loc>\n"
+        if alt:
+            corpo += "\n".join(alt) + "\n"
+        linhas.append(corpo + "  </url>")
     escrever(SAIDA / "sitemap.xml",
              f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset {ns}>\n'
              + "\n".join(linhas) + "\n</urlset>\n")
@@ -376,9 +484,9 @@ Citação de trechos curtos é permitida com atribuição a "{s['nome']}" e link
 para a página original. Reprodução integral não é autorizada.
 
 ## Páginas
-- {s['url']}/sobre/
-- {s['url']}/principios/
-- {s['url']}/quem-somos/
+- {s['url']}/{t['paginas']['sobre']}/
+- {s['url']}/{t['paginas']['principios']}/
+- {s['url']}/{t['paginas']['quem_somos']}/
 """
     escrever(SAIDA / "llms.txt", texto)
 

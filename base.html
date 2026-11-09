@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="{{ idioma.codigo }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block titulo %}{{ site.nome }} — {{ t.lema }}{% endblock %}</title>
+<meta name="description" content="{% block descricao %}{{ t.descricao }}{% endblock %}">
+{% set base_url = pagina.url|default(idioma.prefixo ~ '/') %}
+{# Os apelidos mudam de idioma para idioma, então o endereço equivalente vem
+   do mapa montado no gerador, nunca de trocar o prefixo /en nesta string.
+   Uma peça sem tradução não declara alternativa alguma. #}
+{% set alt = alternativas|default([]) %}
+{% set outro_url = (alt|selectattr('curto','equalto',outro_idioma.curto)
+                       |map(attribute='url')|first) %}
+<link rel="canonical" href="{{ site.url }}{{ base_url }}">
+
+{% if alt|length > 1 %}
+{% for i in alt %}
+<link rel="alternate" hreflang="{{ i.codigo }}" href="{{ site.url }}{{ i.url }}">
+{% endfor %}
+{% for i in alt %}{% if i.principal %}
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ i.url }}">
+{% endif %}{% endfor %}
+{% endif %}
+
+<meta property="og:site_name" content="{{ site.nome }}">
+<meta property="og:type" content="{% block ogtipo %}website{% endblock %}">
+<meta property="og:locale" content="{{ idioma.codigo|replace('-', '_') }}">
+<meta property="og:title" content="{{ self.titulo() }}">
+<meta property="og:description" content="{{ self.descricao() }}">
+<meta property="og:url" content="{{ site.url }}{{ base_url }}">
+<meta property="og:image" content="{% block ogimagem %}{{ site.url }}/estatico/img/boreal-social.png{% endblock %}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ site.nome }} — {{ t.lema }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ self.titulo() }}">
+<meta name="twitter:description" content="{{ self.descricao() }}">
+<meta name="twitter:image" content="{{ self.ogimagem() }}">
+
+<meta name="robots" content="{% block robots %}index, follow, max-image-preview:large{% endblock %}">
+{% if medicao.verificacao_google %}<meta name="google-site-verification" content="{{ medicao.verificacao_google }}">{% endif %}
+{% if medicao.verificacao_bing %}<meta name="msvalidate.01" content="{{ medicao.verificacao_bing }}">{% endif %}
+
+<meta name="geo.region" content="{{ site.local.pais }}-{{ site.local.regiao }}">
+<meta name="geo.placename" content="{{ site.local.cidade }}">
+<meta name="geo.position" content="{{ site.local.latitude }};{{ site.local.longitude }}">
+<meta name="ICBM" content="{{ site.local.latitude }}, {{ site.local.longitude }}">
+
+<link rel="icon" href="/estatico/img/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/estatico/img/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/estatico/img/apple-touch-icon.png">
+<link rel="manifest" href="/estatico/img/site.webmanifest">
+<meta name="theme-color" content="#15171B">
+
+<link rel="alternate" type="application/rss+xml" title="{{ site.nome }}" href="{{ site.url }}{{ idioma.prefixo }}/rss.xml">
+<link rel="stylesheet" href="/estatico/css/fontes.css">
+<link rel="stylesheet" href="/estatico/css/boreal.css">
+
+<script type="application/ld+json">{{ jsonld|safe }}</script>
+
+{% if medicao.ga4 %}
+{# Consentimento negado por padrão. A mensagem de privacidade configurada no
+   AdSense é uma CMP certificada pelo Google e atualiza esse estado. #}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ medicao.ga4 }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
+    analytics_storage: 'denied', wait_for_update: 500
+  });
+  gtag('js', new Date());
+  gtag('config', '{{ medicao.ga4 }}', { anonymize_ip: true });
+</script>
+{% endif %}
+
+{% if publicidade.adsense %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ publicidade.adsense }}"
+        crossorigin="anonymous"></script>
+{% endif %}
+</head>
+<body>
+
+<div class="faixa-topo"><div class="env">
+  <span><b>{{ data_longa }}</b></span>
+  <span>{{ t.chamada_topo }}</span>
+  <span>
+    <a href="{{ outro_url|default(outro_idioma.prefixo ~ '/', true) }}" hreflang="{{ outro_idioma.codigo }}">{{ outro_idioma.rotulo }}</a>
+    <a class="assine" href="{{ idioma.prefixo }}/{{ t.paginas.assinatura }}/">{{ ui.assine }}</a>
+  </span>
+</div></div>
+
+<header class="masthead"><div class="env">
+  <h1 class="marca"><a href="{{ idioma.prefixo }}/">{{ site.nome }}</a></h1>
+  <div class="linha-edicao">
+    {% if numero_edicao %}Nº {{ numero_edicao }}<i>·</i>{% endif %}{{ data_longa }}<i>·</i>{{ site.local.cidade }}
+  </div>
+</div></header>
+
+<nav class="nav"><div class="env">
+  <a href="{{ idioma.prefixo }}/">{{ ui.capa }}</a>
+  {% for s in secoes %}<a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a>{% endfor %}
+  <a href="{{ idioma.prefixo }}/{{ t.paginas.sobre }}/">{{ ui.sobre }}</a>
+</div></nav>
+
+<main>
+  {% block conteudo %}{% endblock %}
+</main>
+
+<footer class="rodape"><div class="env">
+  <div class="rodape-grade">
+    <div>
+      <div class="rodape-marca">{{ site.nome }}</div>
+      <p>{{ t.rodape.sobre }}</p>
+    </div>
+    <div><h3>{{ t.rodape.secoes }}</h3><ul>
+      {% for s in secoes %}<li><a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a></li>{% endfor %}
+    </ul></div>
+    <div><h3>{{ t.rodape.jornal }}</h3><ul>
+      {% for item in t.rodape.links_jornal %}<li><a href="{{ item.url }}">{{ item.rotulo }}</a></li>{% endfor %}
+    </ul></div>
+    <div><h3>{{ t.rodape.legal }}</h3><ul>
+      {% for item in t.rodape.links_legal %}<li><a href="{{ item.url }}">{{ item.rotulo }}</a></li>{% endfor %}
+    </ul></div>
+    <div><h3>{{ t.rodape.redes }}</h3><ul class="rodape-redes">
+      {% for nome, endereco in site.redes.items() %}
+      {% if endereco %}<li><a href="{{ endereco }}" rel="me noopener" target="_blank">{{ nome|capitalize }}</a></li>{% endif %}
+      {% endfor %}
+    </ul></div>
+  </div>
+  <div class="rodape-fim">
+    <span>© {{ ano }} {{ site.nome }} ·
+      <a href="{{ idioma.prefixo }}/{{ t.paginas.privacidade }}/">{{ t.rodape.privacidade }}</a> ·
+      <a href="{{ idioma.prefixo }}/{{ t.paginas.cookies }}/">Cookies</a> ·
+      <a href="{{ idioma.prefixo }}/{{ t.paginas.termos }}/">{{ t.rodape.termos }}</a></span>
+    <span>{{ t.rodape.editor }}: <a href="{{ idioma.prefixo }}/{{ t.paginas.principios }}/">{{ site.editor }}</a></span>
+  </div>
+</div></footer>
+
+{# Sugestão de idioma pelo navegador. Nunca redireciona, nunca lê IP. #}
+<div class="idioma-sugestao" id="idioma-sugestao" hidden>
+  <span>{{ ui.idioma_sugestao }}</span>
+  <a href="{{ outro_url|default(outro_idioma.prefixo ~ '/', true) }}">{{ ui.idioma_sugestao_botao }}</a>
+  <button aria-label="Fechar" data-fechar-idioma>&times;</button>
+</div>
+
+<script>
+(function () {
+  var ATUAL = '{{ idioma.curto }}', VISTO = 'boreal-idioma-visto';
+  var nav = (navigator.language || 'pt').slice(0, 2).toLowerCase();
+  var querPt = nav === 'pt';
+  if (((ATUAL === 'pt' && !querPt) || (ATUAL === 'en' && querPt))
+      && !sessionStorage.getItem(VISTO)) {
+    var s = document.getElementById('idioma-sugestao');
+    s.hidden = false;
+    s.querySelector('[data-fechar-idioma]').addEventListener('click', function () {
+      s.hidden = true;
+      try { sessionStorage.setItem(VISTO, '1'); } catch (e) {}
+    });
+  }
+})();
+</script>
+</body>
+</html>
