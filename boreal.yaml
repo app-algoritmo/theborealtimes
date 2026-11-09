@@ -4,7 +4,7 @@
 # ============================================================
 
 site:
-  nome: Boreal Times
+  nome: The Boreal Times
   url: https://borealtimes.org
   publicacao_de: Duna Press
   publicacao_de_url: https://dunapress.org
@@ -20,7 +20,7 @@ site:
     latitude: "59.0544"
     longitude: "10.0268"
     endereco: "Holtebygdveien 23, 3282 Kvelde, Larvik, Noruega"
-  cobertura: Europa
+  cobertura: Europa e mundo
   redes:
     facebook: https://www.facebook.com/borealtimes
     instagram: https://www.instagram.com/borealtimes
@@ -70,15 +70,15 @@ idiomas:
 
 pt:
   lema: Economia · Ciência · Tecnologia · Geopolítica
-  chamada_topo: Europa em português
+  chamada_topo: Europa e mundo, em português
   descricao: >-
     Jornal digital sobre economia, ciência, tecnologia e geopolítica na
-    Europa. Publicado na Noruega, em português e inglês.
+    Europa e no mundo. Publicado na Noruega, em português e inglês.
   rodape:
     sobre: >-
-      Jornal digital sobre a Europa, publicado na Noruega em português e
-      inglês. Uma publicação da Duna Press, que edita jornalismo em português
-      desde 2017. O que sai aqui não sai lá.
+      Jornal digital sobre a Europa e o mundo, publicado na Noruega em
+      português e inglês. Uma publicação da Duna Press, que edita jornalismo
+      em português desde 2017.
     secoes: Editorias
     jornal: O jornal
     legal: Legal
@@ -96,6 +96,20 @@ pt:
       - { rotulo: Termos de uso, url: /termos/ }
       - { rotulo: Privacidade, url: /privacidade/ }
       - { rotulo: Cookies, url: /cookies/ }
+  # Apelido de cada página institucional neste idioma. O leitor inglês lê
+  # /en/privacy/, não /en/privacidade/. Os nomes dos arquivos markdown em
+  # conteudo/<idioma>/paginas/ seguem esta mesma lista.
+  paginas:
+    arquivo: arquivo
+    sobre: sobre
+    quem_somos: quem-somos
+    principios: principios
+    correcoes: correcoes
+    contato: contato
+    assinatura: assinatura
+    termos: termos
+    privacidade: privacidade
+    cookies: cookies
   interface:
     capa: Capa
     sobre: Sobre
@@ -136,11 +150,11 @@ pt:
         Defesa, alianças, sanções, fronteiras e território. Da Noruega à
         Rússia.
   manifesto:
-    titulo: A Europa está gastando. Mostramos em quê, onde e com quem.
+    titulo: Economia, Ciência, Tecnologia e Geopolítica na Europa e no Mundo
     chamada: >-
-      Orçamentos, contratos, licenças e alianças. O Boreal Times acompanha o
-      dinheiro público e privado que está redesenhando o continente — da
-      Noruega à Rússia, do documento ao terreno.
+      O que se decide em Bruxelas, o que se assenta no fundo do Báltico, o que
+      sai de um laboratório em Grenoble — e o que chega de Washington, de
+      Pequim, do Golfo. Da Noruega à Rússia, do documento ao terreno.
     origem: >-
       <p>Toda matéria sai com nome do autor, data de encerramento da apuração
       e a origem da informação: documento consultado, registro público,
@@ -150,15 +164,15 @@ pt:
 
 en:
   lema: Economy · Science · Technology · Geopolitics
-  chamada_topo: Europe in English
+  chamada_topo: Europe and the world, in English
   descricao: >-
     A digital newspaper on economy, science, technology and geopolitics in
-    Europe. Published in Norway, in Portuguese and English.
+    Europe and the world. Published in Norway, in Portuguese and English.
   rodape:
     sobre: >-
-      A digital newspaper on Europe, published in Norway in Portuguese and
-      English. A Duna Press title; the house has published journalism in
-      Portuguese since 2017. What runs here does not run there.
+      A digital newspaper on Europe and the world, published in Norway in
+      Portuguese and English. A Duna Press title; the house has published
+      journalism in Portuguese since 2017.
     secoes: Sections
     jornal: The paper
     legal: Legal
@@ -167,15 +181,26 @@ en:
     termos: Terms
     editor: Responsible editor
     links_jornal:
-      - { rotulo: About us, url: /en/quem-somos/ }
-      - { rotulo: Editorial principles, url: /en/principios/ }
-      - { rotulo: Corrections, url: /en/correcoes/ }
-      - { rotulo: Contact the newsroom, url: /en/contato/ }
+      - { rotulo: About us, url: /en/about-us/ }
+      - { rotulo: Editorial principles, url: /en/editorial-principles/ }
+      - { rotulo: Corrections, url: /en/corrections/ }
+      - { rotulo: Contact the newsroom, url: /en/contact/ }
     links_legal:
-      - { rotulo: Subscription, url: /en/assinatura/ }
-      - { rotulo: Terms of use, url: /en/termos/ }
-      - { rotulo: Privacy, url: /en/privacidade/ }
+      - { rotulo: Subscription, url: /en/subscribe/ }
+      - { rotulo: Terms of use, url: /en/terms/ }
+      - { rotulo: Privacy, url: /en/privacy/ }
       - { rotulo: Cookies, url: /en/cookies/ }
+  paginas:
+    arquivo: archive
+    sobre: about
+    quem_somos: about-us
+    principios: editorial-principles
+    correcoes: corrections
+    contato: contact
+    assinatura: subscribe
+    termos: terms
+    privacidade: privacy
+    cookies: cookies
   interface:
     capa: Front page
     sobre: About
@@ -216,11 +241,12 @@ en:
         Defence, alliances, sanctions, borders and territory. From Norway to
         Russia.
   manifesto:
-    titulo: Europe is spending. We show on what, where and with whom.
+    titulo: Economy, Science, Technology and Geopolitics in Europe and the World
     chamada: >-
-      Budgets, contracts, permits and alliances. Boreal Times follows the
-      public and private money redrawing the continent — from Norway to
-      Russia, from the document to the ground.
+      What gets decided in Brussels, what gets laid on the Baltic seabed, what
+      comes out of a laboratory in Grenoble — and what arrives from
+      Washington, Beijing, the Gulf. From Norway to Russia, from the document
+      to the ground.
     origem: >-
       <p>Every article carries the writer's name, the date reporting closed
       and the origin of the information: documents consulted, public records,
