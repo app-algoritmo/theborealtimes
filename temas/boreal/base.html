@@ -6,13 +6,22 @@
 <title>{% block titulo %}{{ site.nome }} — {{ t.lema }}{% endblock %}</title>
 <meta name="description" content="{% block descricao %}{{ t.descricao }}{% endblock %}">
 {% set base_url = pagina.url|default(idioma.prefixo ~ '/') %}
-{% set url_neutra = base_url[3:] if base_url.startswith('/en') else base_url %}
+{# Os apelidos mudam de idioma para idioma, então o endereço equivalente vem
+   do mapa montado no gerador, nunca de trocar o prefixo /en nesta string.
+   Uma peça sem tradução não declara alternativa alguma. #}
+{% set alt = alternativas|default([]) %}
+{% set outro_url = (alt|selectattr('curto','equalto',outro_idioma.curto)
+                       |map(attribute='url')|first) %}
 <link rel="canonical" href="{{ site.url }}{{ base_url }}">
 
-{% for i in cfg.idiomas %}
-<link rel="alternate" hreflang="{{ i.codigo }}" href="{{ site.url }}{{ i.prefixo }}{{ url_neutra }}">
+{% if alt|length > 1 %}
+{% for i in alt %}
+<link rel="alternate" hreflang="{{ i.codigo }}" href="{{ site.url }}{{ i.url }}">
 {% endfor %}
-<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ url_neutra }}">
+{% for i in alt %}{% if i.principal %}
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ i.url }}">
+{% endif %}{% endfor %}
+{% endif %}
 
 <meta property="og:site_name" content="{{ site.nome }}">
 <meta property="og:type" content="{% block ogtipo %}website{% endblock %}">
@@ -77,8 +86,8 @@
   <span><b>{{ data_longa }}</b></span>
   <span>{{ t.chamada_topo }}</span>
   <span>
-    <a href="{{ outro_idioma.prefixo }}{{ url_neutra }}" hreflang="{{ outro_idioma.codigo }}">{{ outro_idioma.rotulo }}</a>
-    <a class="assine" href="{{ idioma.prefixo }}/assinatura/">{{ ui.assine }}</a>
+    <a href="{{ outro_url|default(outro_idioma.prefixo ~ '/', true) }}" hreflang="{{ outro_idioma.codigo }}">{{ outro_idioma.rotulo }}</a>
+    <a class="assine" href="{{ idioma.prefixo }}/{{ t.paginas.assinatura }}/">{{ ui.assine }}</a>
   </span>
 </div></div>
 
@@ -92,7 +101,7 @@
 <nav class="nav"><div class="env">
   <a href="{{ idioma.prefixo }}/">{{ ui.capa }}</a>
   {% for s in secoes %}<a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a>{% endfor %}
-  <a href="{{ idioma.prefixo }}/sobre/">{{ ui.sobre }}</a>
+  <a href="{{ idioma.prefixo }}/{{ t.paginas.sobre }}/">{{ ui.sobre }}</a>
 </div></nav>
 
 <main>
@@ -122,17 +131,17 @@
   </div>
   <div class="rodape-fim">
     <span>© {{ ano }} {{ site.nome }} ·
-      <a href="{{ idioma.prefixo }}/privacidade/">{{ t.rodape.privacidade }}</a> ·
-      <a href="{{ idioma.prefixo }}/cookies/">Cookies</a> ·
-      <a href="{{ idioma.prefixo }}/termos/">{{ t.rodape.termos }}</a></span>
-    <span>{{ t.rodape.editor }}: <a href="{{ idioma.prefixo }}/principios/">{{ site.editor }}</a></span>
+      <a href="{{ idioma.prefixo }}/{{ t.paginas.privacidade }}/">{{ t.rodape.privacidade }}</a> ·
+      <a href="{{ idioma.prefixo }}/{{ t.paginas.cookies }}/">Cookies</a> ·
+      <a href="{{ idioma.prefixo }}/{{ t.paginas.termos }}/">{{ t.rodape.termos }}</a></span>
+    <span>{{ t.rodape.editor }}: <a href="{{ idioma.prefixo }}/{{ t.paginas.principios }}/">{{ site.editor }}</a></span>
   </div>
 </div></footer>
 
 {# Sugestão de idioma pelo navegador. Nunca redireciona, nunca lê IP. #}
 <div class="idioma-sugestao" id="idioma-sugestao" hidden>
   <span>{{ ui.idioma_sugestao }}</span>
-  <a href="{{ outro_idioma.prefixo }}{{ url_neutra }}">{{ ui.idioma_sugestao_botao }}</a>
+  <a href="{{ outro_url|default(outro_idioma.prefixo ~ '/', true) }}">{{ ui.idioma_sugestao_botao }}</a>
   <button aria-label="Fechar" data-fechar-idioma>&times;</button>
 </div>
 
