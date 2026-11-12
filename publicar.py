@@ -416,6 +416,7 @@ def construir():
         escrever(SAIDA / "ads.txt",
                  f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n")
 
+    gerar_404(cfg)
     gerar_sitemap(cfg, todas_urls, mapa)
     escrever(SAIDA / "robots.txt",
              f"User-agent: *\nAllow: /\nDisallow: /admin/\n"
@@ -425,6 +426,47 @@ def construir():
     print(f"✓ Site gerado em {SAIDA}")
     print(f"  {total_materias} matéria(s) · {len(todas_urls)} URLs · "
           f"{len(cfg['idiomas'])} idiomas")
+
+
+def gerar_404(cfg):
+    """Página para qualquer endereço que não existe (a Cloudflare Pages serve
+    o 404.html da raiz). O endereço antigo continua respondendo 404 — é o que
+    faz o Google esquecê-lo — mas quem chega nele é levado à página inicial
+    do idioma do endereço: /en/... vai para /en/, o resto para /.
+    """
+    nome = cfg["site"]["nome"]
+    roxo = "#4B2A7B"
+    html = f"""<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="{roxo}">
+<title>{nome}</title>
+<meta http-equiv="refresh" content="3;url=/">
+<script>
+  // Imediato quando há JavaScript; o meta refresh acima cobre o resto.
+  location.replace(location.pathname.indexOf("/en/") === 0 || location.pathname === "/en" ? "/en/" : "/");
+</script>
+<style>
+  body{{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+       background:{roxo};color:#fff;font-family:Georgia,serif;text-align:center;padding:24px}}
+  h1{{font-size:clamp(34px,8vw,64px);margin:0 0 14px}}
+  p{{margin:6px 0;opacity:.85}}
+  a{{color:#fff}}
+</style>
+</head>
+<body>
+<main>
+  <h1>{nome}</h1>
+  <p>Esta página mudou de lugar. Levando você à página inicial…</p>
+  <p><a href="/">Ir para a página inicial</a> · <a href="/en/">Go to the front page</a></p>
+</main>
+</body>
+</html>
+"""
+    escrever(SAIDA / "404.html", html)
 
 
 def gerar_rss(site, t, idioma, materias, raiz_saida):
