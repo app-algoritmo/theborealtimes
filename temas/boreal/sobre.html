@@ -20,6 +20,18 @@
       {% endfor %}
     </div>
   </section>
+
+  <section class="faixa">
+    <div class="faixa-cab"><h2>{{ ui.as_naturezas }}</h2></div>
+    <div class="quatro">
+      {% for n in t.naturezas %}
+      <article class="chamada">
+        <h3 class="titulo">{{ n.nome }}</h3>
+        <p class="olho">{{ n.descricao }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
 </div>
 
 <article class="materia">

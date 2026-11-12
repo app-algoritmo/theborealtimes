@@ -1,6 +1,6 @@
-# Boreal Times
+# The Boreal Times
 
-Jornal digital da Duna Press sobre economia, ciência, tecnologia e geopolítica na Europa. Site estático em dois idiomas, gerado por um script Python. O conteúdo vive em arquivos markdown versionados no Git; a redação edita pelo painel em `/admin/`.
+Site de histórias do Norte — mitos, sagas, lendas, contos e história da Escandinávia e do mundo nórdico — elaborado por Duna Press. Textos narrados por inteligência artificial. Site estático em dois idiomas, gerado por um script Python. O conteúdo vive em arquivos markdown versionados no Git; a redação edita pelo painel em `/admin/`.
 
 ---
 
@@ -22,13 +22,13 @@ python3 publicar.py servir      # http://localhost:8000
 ## Comandos do dia a dia
 
 ```bash
-python3 publicar.py nova         # esqueleto de uma matéria
+python3 publicar.py nova         # esqueleto de um texto
 python3 publicar.py checar       # copidesque automático
 python3 publicar.py construir    # gera site/
 python3 publicar.py servir       # servidor local
 ```
 
-Publicar é `git push`. O GitHub Actions roda o copidesque e **só publica se passar**.
+Publicar é `git push`; a Cloudflare Pages constrói o site a partir do repositório. **Não há GitHub Actions neste repositório**: o `checar` roda só quando a pessoa o executa, e deve ser rodado antes de cada `git push`.
 
 ---
 
@@ -96,58 +96,55 @@ Depois disso:
 
 ```
 boreal.yaml                identidade, idiomas, planos, medição, checkout
-conteudo/pt/edicoes/       peças em português
+conteudo/pt/materias/      textos em português
 conteudo/pt/paginas/       institucionais e legais
 conteudo/en/               equivalente em inglês
 temas/boreal/              templates e CSS
 temas/boreal/estatico/img/ favicon, ícones, imagem social
-functions/                 autenticação por Stripe e entrega do conteúdo pago
-_routes.json               quais rotas passam pelas Functions
 admin/                     painel de redação (Sveltia CMS)
 _headers, _redirects       configuração da Cloudflare
 publicar.py                gerador e ferramentas de redação
 site/                      saída gerada (não versionada)
 ```
 
-## Front matter de uma peça
+## Front matter de um texto
 
 ```yaml
 ---
-numero: "001"
-titulo: "Título afirmativo, sem adjetivo"
-resumo: "Por que esta decisão importa — quem paga, onde, em que prazo."
-secao: "Economia"         # Economia | Ciência | Tecnologia | Geopolítica
-autor: "Nome próprio"          # assinatura coletiva é bloqueada
-data: 2026-09-04
-apuracao: "2026-09-02"
-acesso: assinantes             # ou: aberta
-informacao: "De onde vem: registros, documentos, fontes ouvidas, período."
+titulo: "Título afirmativo, sem adjetivo de catálogo"
+resumo: "Uma ou duas frases, entre 120 e 180 caracteres."
+secao: "Mitos e Deuses"   # Mitos e Deuses | Sagas e Reis | Era Viking | Contos e Folclore | História
+natureza: "Mito ou lenda" # História documentada | Saga ou fonte medieval | Mito ou lenda | Conto original
+autor: "Paulo Fernando de Barros"   # editor responsável; o texto é narrado por IA
+data: 2026-11-12
+imagem: ""
+imagem_credito: ""        # ex.: Ilustração gerada por inteligência artificial (Qwen)
+imagem_alt: ""            # obrigatório se houver imagem
+fontes: []                # obrigatório, exceto em "Conto original"
+tags: []
 ---
 ```
 
-**Paywall.** O corte é automático: os três primeiros parágrafos ficam abertos e o restante vai para `/restrito/`, servido só a quem tem sessão. O número de parágrafos está em `assinatura.paragrafos_abertos`.
-
-Para cortar em outro ponto, insira a marca no texto — ela tem prioridade:
-
-```
-<!-- Tudo abaixo desta marca fica atrás do paywall -->
-```
+Em inglês, as seções são `Myths & Gods`, `Sagas & Kings`, `Viking Age`, `Tales & Folklore` e `History`, e as naturezas são `Documented history`, `Saga or medieval source`, `Myth or legend` e `Original tale`. As listas oficiais ficam em `boreal.yaml`.
 
 ## O que o copidesque bloqueia
 
-- Campo obrigatório ausente
-- Assinatura coletiva ("Redação", "Equipe", "Newsroom")
-- Peça que cita valores sem indicar como a informação foi obtida
+- Campo obrigatório ausente (inclui `natureza`)
+- Seção ou natureza fora das listas do idioma
+- Natureza que exige fonte (todas, exceto conto original) sem o campo `fontes`
+- Imagem sem `imagem_credito` ou sem `imagem_alt`
+- O campo `autor` com assinatura coletiva ("Redação", "Equipe", "Newsroom", "Staff")
 
 ## O que ele apenas avisa
 
-- Superlativo de catálogo, em português e inglês
-- Citação direta acima de 25 palavras
-- Texto acima de 1.600 palavras
+- Texto fora da faixa de 400 a 1.500 palavras
+- Superlativo de catálogo
+- Citação direta acima de 40 palavras
+- Crédito de imagem que não diz se é ilustração de IA
 - Configuração pendente em `boreal.yaml`
 
 ## SEO já incluído
 
-`hreflang` nos dois idiomas, sitemap com alternativas, JSON-LD de `NewsMediaOrganization` e `NewsArticle`, marcação de paywall (`isAccessibleForFree`) que permite indexação sem risco de cloaking, Open Graph com imagem 1200×630, favicon em SVG e PNG, webmanifest, meta tags geográficas e `llms.txt` para assistentes de IA que citarem a publicação.
+`hreflang` nos dois idiomas, sitemap com alternativas, JSON-LD de `Organization` e `Article` (autoria da organização, editor responsável como `editor`, natureza como `genre`), Open Graph, favicon, webmanifest, meta tags geográficas e `llms.txt`.
 
-Ver `DECISOES.md` para o porquê de cada escolha e `FLUXO.md` para o fluxo editorial da semana.
+Ver `DECISOES.md` para o porquê de cada escolha, `FLUXO.md` para o fluxo editorial e `PROMPT.md` para o prompt que gera os textos.

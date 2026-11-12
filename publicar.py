@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-BOREAL TIMES — gerador do site e ferramentas de redação.
+THE BOREAL TIMES — gerador do site e ferramentas de redação.
 
     python3 publicar.py construir     gera o site em site/
     python3 publicar.py nova          cria o esqueleto de uma matéria
@@ -10,7 +10,7 @@ BOREAL TIMES — gerador do site e ferramentas de redação.
     python3 publicar.py servir        http://localhost:8000
 
 Automatiza a mecânica da publicação: conversão, capa, páginas de editoria,
-feeds, SEO, verificação de padrão. Não escreve reportagem.
+feeds, SEO, verificação de padrão. Não escreve os textos.
 """
 
 import json
@@ -46,7 +46,10 @@ PROIBIDAS = [
     "unmissable", "iconic", "coveted", "breathtaking", "game-changing",
 ]
 
-CAMPOS_OBRIGATORIOS = ["titulo", "resumo", "secao", "autor", "data"]
+CAMPOS_OBRIGATORIOS = ["titulo", "resumo", "secao", "natureza", "autor", "data"]
+
+# Faixa de tamanho que o copidesque considera razoável, em palavras.
+PALAVRAS_MIN, PALAVRAS_MAX = 400, 1500
 
 # Quantas matérias cada bloco de editoria mostra na capa.
 POR_BLOCO = 4
@@ -178,7 +181,7 @@ def jsonld_publicacao(cfg, idioma, t):
     s = cfg["site"]
     return {
         "@context": "https://schema.org",
-        "@type": "NewsMediaOrganization",
+        "@type": "Organization",
         "name": s["nome"],
         "url": s["url"],
         "logo": f"{s['url']}/estatico/img/boreal-logo.png",
@@ -203,16 +206,20 @@ def jsonld_materia(cfg, idioma, pagina):
     s = cfg["site"]
     dados = {
         "@context": "https://schema.org",
-        "@type": "NewsArticle",
+        "@type": "Article",
         "headline": pagina["titulo"],
         "description": pagina.get("resumo", ""),
         "datePublished": pagina["data_iso"],
         "dateModified": pagina["data_iso"],
         "inLanguage": idioma["codigo"],
         "isAccessibleForFree": True,
-        "author": {"@type": "Person", "name": pagina.get("autor", "")},
+        # O texto é narrado por IA; o nome próprio é o do editor responsável,
+        # não o de quem escreveu. Declarar Person como autor seria falso.
+        "author": {"@type": "Organization", "name": s["nome"]},
+        "editor": {"@type": "Person", "name": pagina.get("autor", "")},
+        "genre": pagina.get("natureza", ""),
         "publisher": {
-            "@type": "NewsMediaOrganization",
+            "@type": "Organization",
             "name": s["nome"],
             "logo": {"@type": "ImageObject",
                      "url": f"{s['url']}/estatico/img/boreal-logo.png"},
@@ -294,8 +301,10 @@ def construir():
                 "leitura": meta.get("leitura", max(1, len(html.split()) // 220)),
                 "imagem": meta.get("imagem", ""),
                 "imagem_credito": meta.get("imagem_credito", ""),
+                "imagem_alt": meta.get("imagem_alt", ""),
+                "natureza": meta.get("natureza", ""),
+                "fontes": meta.get("fontes") or [],
                 "tags": meta.get("tags") or [],
-                "informacao": meta.get("informacao", ""),
             })
             materias.append((meta, html))
 
@@ -474,21 +483,21 @@ def gerar_llms(cfg):
 
 > {t['descricao']}
 
-Jornal digital editado por {s['editora']}, org.nr {s['organizacao_nr']}.
+Site editado por {s['editora']}, org.nr {s['organizacao_nr']}.
 Editor responsável: {s['editor']}. Sede: {s['local']['cidade']}, Noruega.
-Cobertura: {s['cobertura']}, Rússia incluída.
+Cobertura: {s['cobertura']}.
 
-Uma publicação da {s['publicacao_de']} ({s['publicacao_de_url']}), que edita
-jornalismo em português desde {s['casa_desde']}. As duas publicações não
-compartilham conteúdo: o que sai aqui não sai lá.
+Elaborado por {s['publicacao_de']} ({s['publicacao_de_url']}), que edita
+jornalismo em português desde {s['casa_desde']}.
 
 ## Como trabalhamos
-Afirmação de fato exige registro público, documento visto pela redação ou
-duas fontes independentes com conhecimento direto do assunto. Comunicação
-oficial é sempre atribuída a quem a emitiu, nunca apresentada como fato
-apurado. Cada matéria traz autor identificado.
+Os textos são narrados por inteligência artificial; o editor responsável
+responde pela publicação. Cada texto declara a sua natureza: história
+documentada, saga ou fonte medieval, mito ou lenda, ou conto original.
+Mito e lenda nunca são apresentados como fato. Ilustrações geradas por IA
+vêm identificadas na legenda.
 
-## Editorias
+## Seções
 {chr(10).join(f"- {x['nome']}: {' '.join(x['descricao'].split())}" for x in t['secoes'])}
 
 ## Uso do conteúdo
@@ -505,38 +514,70 @@ para a página original. Reprodução integral não é autorizada.
 
 # ---------------------------------------------------------------- copidesque
 
+def corpo_sem_cabecalho(texto: str) -> str:
+    """O texto sem o front matter. As aspas do YAML não são citação."""
+    if texto.startswith("---"):
+        return texto.split("---", 2)[2]
+    return texto
+
+
 def checar() -> int:
     cfg = carregar_config()
-    validas = set()
+    validas = {}
+    naturezas = {}
     for i in cfg["idiomas"]:
-        validas.update(s["nome"] for s in cfg[i["curto"]]["secoes"])
+        c = i["curto"]
+        validas[c] = {s["nome"] for s in cfg[c]["secoes"]}
+        naturezas[c] = {n["nome"]: n.get("fonte_obrigatoria", True)
+                        for n in cfg[c]["naturezas"]}
 
     erros, avisos = [], []
     for pasta in sorted(CONTEUDO.glob("*/materias")):
+        idioma = pasta.parent.name
         for arquivo in sorted(pasta.glob("*.md")):
             meta, html = ler_markdown(arquivo)
-            nome = f"{pasta.parent.name}/{arquivo.name}"
+            nome = f"{idioma}/{arquivo.name}"
             texto = arquivo.read_text(encoding="utf-8")
+            corpo = corpo_sem_cabecalho(texto)
 
             for campo in CAMPOS_OBRIGATORIOS:
                 if not meta.get(campo):
                     erros.append(f"{nome}: falta o campo obrigatório '{campo}'")
 
-            if meta.get("secao") and meta["secao"] not in validas:
-                erros.append(f"{nome}: editoria '{meta['secao']}' não existe")
+            if meta.get("secao") and meta["secao"] not in validas.get(idioma, set()):
+                erros.append(f"{nome}: seção '{meta['secao']}' não existe")
+
+            natureza = meta.get("natureza")
+            if natureza:
+                if natureza not in naturezas.get(idioma, {}):
+                    erros.append(f"{nome}: natureza '{natureza}' não existe "
+                                 f"({' | '.join(naturezas.get(idioma, {}))})")
+                elif naturezas[idioma][natureza] and not meta.get("fontes"):
+                    erros.append(f"{nome}: natureza '{natureza}' exige o campo 'fontes'")
 
             autor = str(meta.get("autor", "")).strip().lower()
             if autor in ("redação", "redacao", "equipe", "newsroom", "staff"):
-                erros.append(f"{nome}: assinatura coletiva não é aceita — use nome próprio")
+                erros.append(f"{nome}: o campo autor leva o nome próprio do editor responsável")
 
-            if re.search(r"(R\$|US\$|€|NOK)\s?[\d.,]+", texto) and not meta.get("informacao"):
-                avisos.append(f"{nome}: cita valores sem dizer de onde veio a informação")
+            if meta.get("imagem"):
+                if not meta.get("imagem_credito"):
+                    erros.append(f"{nome}: imagem sem 'imagem_credito'")
+                if not meta.get("imagem_alt"):
+                    erros.append(f"{nome}: imagem sem 'imagem_alt' (texto alternativo)")
+                credito = str(meta.get("imagem_credito", "")).lower()
+                if "artificial" not in credito and "intelligence" not in credito:
+                    avisos.append(f"{nome}: o crédito da imagem não diz que é ilustração "
+                                  f"de IA — confira se é foto ou obra de domínio público")
+
+            palavras = len(corpo.split())
+            if palavras < PALAVRAS_MIN or palavras > PALAVRAS_MAX:
+                avisos.append(f"{nome}: {palavras} palavras (faixa de {PALAVRAS_MIN} a {PALAVRAS_MAX})")
 
             for palavra in PROIBIDAS:
-                if re.search(rf"\b{re.escape(palavra)}", texto, re.IGNORECASE):
+                if re.search(rf"\b{re.escape(palavra)}", corpo, re.IGNORECASE):
                     avisos.append(f"{nome}: superlativo de catálogo — '{palavra}'")
 
-            for aspas in re.findall(r"[“\"]([^”\"]{2,})[”\"]", texto):
+            for aspas in re.findall(r"[“\"]([^”\"]{2,})[”\"]", corpo):
                 if len(aspas.split()) > 40:
                     avisos.append(f"{nome}: citação de {len(aspas.split())} palavras — parafraseie")
 
@@ -564,11 +605,13 @@ MODELO = """---
 titulo: ""
 resumo: ""
 secao: "{secao}"
+natureza: "{natureza}"
 autor: "{autor}"
 data: {data}
 imagem: ""
 imagem_credito: ""
-informacao: ""
+imagem_alt: ""
+fontes: []
 tags: []
 ---
 
@@ -659,14 +702,16 @@ def nova_materia():
     hoje = hoje_na_redacao(cfg)
     lang = input("Idioma [pt/en]: ").strip() or "pt"
     nomes = [s["nome"] for s in cfg[lang]["secoes"]]
-    secao = input(f"Editoria [{'/'.join(nomes)}]: ").strip() or nomes[0]
+    secao = input(f"Seção [{'/'.join(nomes)}]: ").strip() or nomes[0]
+    nats = [n["nome"] for n in cfg[lang]["naturezas"]]
+    natureza = input(f"Natureza [{' / '.join(nats)}]: ").strip() or nats[0]
     apelido = input("Apelido do arquivo: ").strip() or "sem-titulo"
     destino = CONTEUDO / lang / "materias" / f"{hoje.isoformat()}-{apelido}.md"
     if destino.exists():
         print(f"✗ {destino} já existe.")
         return
     destino.parent.mkdir(parents=True, exist_ok=True)
-    destino.write_text(MODELO.format(secao=secao, autor=cfg["site"]["editor"],
+    destino.write_text(MODELO.format(secao=secao, natureza=natureza, autor=cfg["site"]["editor"],
                                      data=hoje.isoformat()), encoding="utf-8")
     print(f"✓ Criado: {destino}")
 
@@ -676,7 +721,7 @@ def servir():
     import socketserver
     os.chdir(SAIDA)
     with socketserver.TCPServer(("", 8000), http.server.SimpleHTTPRequestHandler) as s:
-        print("Boreal Times em http://localhost:8000 — Ctrl+C encerra.")
+        print("The Boreal Times em http://localhost:8000 — Ctrl+C encerra.")
         s.serve_forever()
 
 

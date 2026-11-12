@@ -49,6 +49,6 @@ Complaints may be made to the Norwegian Data Protection Authority (Datatilsynet)
 
 Encrypted transport, sessions with no stored password, restricted access to the subscriber base and logging of administrative access. Incidents carrying material risk are reported to data subjects and to the competent authorities within statutory deadlines.
 
-## 9. Protection of sources
+## 9. Messages sent to the site
 
-Communications from journalistic sources are handled separately and never enter the subscriber or marketing base. Source confidentiality is protected under Norwegian law and, for Brazilian sources, by article 5, XIV of the Brazilian Constitution.
+Messages sent to the contact addresses (corrections, topic suggestions, questions) are used only to reply and to correct content, and never enter the subscriber or marketing base.

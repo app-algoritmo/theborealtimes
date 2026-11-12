@@ -51,7 +51,7 @@
 <link rel="icon" href="/estatico/img/favicon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="/estatico/img/apple-touch-icon.png">
 <link rel="manifest" href="/estatico/img/site.webmanifest">
-<meta name="theme-color" content="#15171B">
+<meta name="theme-color" content="#4B2A7B">
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.nome }}" href="{{ site.url }}{{ idioma.prefixo }}/rss.xml">
 <link rel="stylesheet" href="/estatico/css/fontes.css">
@@ -83,7 +83,7 @@
 <body>
 
 <div class="faixa-topo"><div class="env">
-  <span><b>{{ data_longa }}</b></span>
+  <span><b>{{ ano }}</b></span>
   <span>{{ t.chamada_topo }}</span>
   <span>
     <a href="{{ outro_url|default(outro_idioma.prefixo ~ '/', true) }}" hreflang="{{ outro_idioma.codigo }}">{{ outro_idioma.rotulo }}</a>
@@ -94,12 +94,12 @@
 <header class="masthead"><div class="env">
   <h1 class="marca"><a href="{{ idioma.prefixo }}/">{{ site.nome }}</a></h1>
   <div class="linha-edicao">
-    {% if numero_edicao %}Nº {{ numero_edicao }}<i>·</i>{% endif %}{{ data_longa }}<i>·</i>{{ site.local.cidade }}
+    {{ ui.linha_edicao }}
   </div>
 </div></header>
 
 <nav class="nav"><div class="env">
-  <a href="{{ idioma.prefixo }}/">{{ ui.capa }}</a>
+  <a href="{{ idioma.prefixo }}/">{{ ui.menu_inicio }}</a>
   {% for s in secoes %}<a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a>{% endfor %}
 </div></nav>
 

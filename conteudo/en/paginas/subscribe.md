@@ -8,7 +8,7 @@ atualizado: November 2026
 
 ## What the subscription gives you
 
-Reading without advertising, in the app, with articles in both languages and the full archive.
+Reading without advertising, in the app, with texts in both languages and the full archive.
 
 Everything in the paper stays open and free on the website, without exception and without a reading limit. The subscription does not buy access: it buys quiet.
 

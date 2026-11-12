@@ -9,6 +9,7 @@
      invisível para quem só lê. */
   --tinta-4:#AEB2B8;
   --fio:#D7D8D3; --fio-2:#BFC1BB;
+  --roxo:#4B2A7B;
   --marca:#15514F; --urgente:#A02D22;
   --display:"Spectral",Georgia,serif;
   --corpo:"Source Serif 4",Georgia,serif;
@@ -29,25 +30,27 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 
 /* ── Cabeçalho ───────────────────────────────────────────── */
 .faixa-topo{
-  border-bottom:1px solid var(--fio);font-family:var(--util);
+  background:var(--roxo);border-bottom:1px solid rgba(255,255,255,.14);
+  font-family:var(--util);
   font-size:11px;letter-spacing:.09em;text-transform:uppercase;
-  color:var(--tinta-2);
+  color:rgba(255,255,255,.8);
 }
 .faixa-topo .env{display:flex;justify-content:space-between;
   align-items:center;height:34px;gap:20px}
-.faixa-topo b{font-weight:600;color:var(--tinta)}
+.faixa-topo b{font-weight:600;color:#fff}
 .assine{color:var(--marca);font-weight:600;border-bottom:1px solid var(--marca)}
 
-.masthead{text-align:center;padding:26px 0 16px}
+.masthead{text-align:center;padding:26px 0 18px;background:var(--roxo)}
 .marca{
   font-family:var(--display);font-weight:700;
   font-size:clamp(44px,8.5vw,92px);line-height:.92;
-  letter-spacing:-.022em;margin:0;
+  letter-spacing:-.022em;margin:0;color:#fff;
 }
+.marca a{color:#fff}
 .marca span{display:inline-block}
 .linha-edicao{
   margin-top:14px;font-family:var(--util);font-size:10.5px;
-  letter-spacing:.14em;text-transform:uppercase;color:var(--tinta-3);
+  letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.78);
 }
 .linha-edicao i{font-style:normal;color:var(--fio-2);padding:0 8px}
 
@@ -458,8 +461,9 @@ img{height:auto}
 
 /* Masthead clicável, sem herdar sublinhado de link. */
 .marca a{color:inherit}
-.faixa-topo a{color:var(--tinta-2)}
-.faixa-topo a:hover{color:var(--marca)}
+.faixa-topo a{color:rgba(255,255,255,.8)}
+.faixa-topo a:hover{color:#fff}
+.faixa-topo a.assine{color:#fff;border-bottom-color:#fff}
 .faixa-topo span:last-child{display:inline-flex;gap:16px;align-items:center}
 
 /* Lojas de aplicativo, na página de assinatura. */

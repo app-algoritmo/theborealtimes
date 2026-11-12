@@ -13,23 +13,23 @@
 
   <div class="materia">
     <div class="cabeca-materia">
-      <span class="chapeu">{{ pagina.secao }}</span>
+      <span class="chapeu">{{ pagina.secao }} · {{ pagina.natureza }}</span>
       <h1>{{ pagina.titulo }}</h1>
       {% if pagina.resumo %}<p class="linha-fina">{{ pagina.resumo }}</p>{% endif %}
       <div class="assinatura">
-        <span><b>{{ ui.por }}</b> {{ pagina.autor }}</span>
+        <span class="selo">{{ ui.narrado }}</span>
+        <span class="sep">·</span>
+        <span>{{ ui.editor }}: {{ pagina.autor }}</span>
         <span class="sep">·</span>
         <span>{{ pagina.data_longa }}</span>
         <span class="sep">·</span>
         <span>{{ pagina.leitura }} {{ ui.leitura }}</span>
-        {% if pagina.informacao %}<span class="sep">·</span>
-        <span class="selo">{{ ui.informacao }}</span>{% endif %}
       </div>
     </div>
 
     {% if pagina.imagem %}
     <figure class="abertura">
-      <img src="{{ pagina.imagem }}" alt="" width="1200" height="675">
+      <img src="{{ pagina.imagem }}" alt="{{ pagina.imagem_alt }}" width="1200" height="675">
       {% if pagina.imagem_credito %}<figcaption class="legenda">{{ pagina.imagem_credito }}</figcaption>{% endif %}
     </figure>
     {% endif %}
@@ -39,10 +39,13 @@
       <span class="marca-fim"></span>
     </div>
 
-    {% if pagina.informacao %}
+    {% if pagina.fontes %}
     <div class="texto" style="padding-top:0">
       <hr>
-      <p class="credito"><b>{{ ui.informacao }}.</b> {{ pagina.informacao }}</p>
+      <p class="credito"><b>{{ ui.fontes }}.</b>
+      {% if pagina.fontes is string %}{{ pagina.fontes }}{% else %}</p>
+      <ul class="credito">{% for f in pagina.fontes %}<li>{{ f }}</li>{% endfor %}</ul>{% endif %}
+      {% if pagina.fontes is string %}</p>{% endif %}
     </div>
     {% endif %}
 
