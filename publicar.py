@@ -20,6 +20,7 @@ import shutil
 import sys
 from datetime import date, datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import markdown
 import yaml
@@ -101,6 +102,17 @@ def slug_da_secao(nome: str, secoes: list) -> str:
         if s["nome"] == nome:
             return s["slug"]
     return ""
+
+
+def hoje_na_redacao(cfg) -> date:
+    """A data de hoje no fuso da redação, não no da máquina que constrói.
+
+    A Cloudflare constrói em UTC. À meia-noite e cinco de Oslo ainda são
+    23h05 em UTC, e o cabeçalho sairia com a data de ontem — justamente na
+    reconstrução noturna que existe para virar a data.
+    """
+    fuso = cfg["site"]["local"].get("fuso")
+    return datetime.now(ZoneInfo(fuso)).date() if fuso else date.today()
 
 
 def apelido_de(arquivo: Path) -> str:
@@ -218,7 +230,7 @@ def jsonld_materia(cfg, idioma, pagina):
 def construir():
     cfg = carregar_config()
     site = cfg["site"]
-    hoje = date.today()
+    hoje = hoje_na_redacao(cfg)
 
     env = Environment(loader=FileSystemLoader(str(TEMA)),
                       autoescape=select_autoescape(["html"]),
@@ -644,7 +656,7 @@ def preparar_imagem():
 
 def nova_materia():
     cfg = carregar_config()
-    hoje = date.today()
+    hoje = hoje_na_redacao(cfg)
     lang = input("Idioma [pt/en]: ").strip() or "pt"
     nomes = [s["nome"] for s in cfg[lang]["secoes"]]
     secao = input(f"Editoria [{'/'.join(nomes)}]: ").strip() or nomes[0]
