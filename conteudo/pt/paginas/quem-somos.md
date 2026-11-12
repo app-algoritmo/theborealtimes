@@ -1,29 +1,27 @@
 ---
 titulo: Quem somos
-resumo: Jornal digital sobre a Europa, publicado na Noruega em português e inglês.
-olho: O jornal
+resumo: Histórias da Escandinávia e do mundo nórdico, narradas por inteligência artificial, em português e inglês.
+olho: O site
 atualizado: novembro de 2026
 ---
 
-O Boreal Times cobre economia, ciência, tecnologia e geopolítica na Europa, Rússia incluída. A redação fica na Noruega e o jornal sai em português e em inglês.
+O The Boreal Times conta histórias do Norte: mitos, sagas, lendas, contos e história da Escandinávia e do mundo nórdico, da era viking aos nossos dias. Elas podem ser verdadeiras, lendárias ou inventadas, e cada texto diz de qual tipo é. O site sai em português e em inglês.
 
-Segue uma linha só: o dinheiro público e privado que está redesenhando o continente, e o que ele constrói onde.
+O nome vem do inglês, mas "Times" aqui quer dizer tempos: as histórias de todas as épocas.
 
 ## A casa
 
-Começou como blog em 2010. Em 2017 virou editora, com a [Duna Press](https://dunapress.org), jornal digital em português que publica diariamente desde então. O Boreal Times nasceu em 2025 como o segundo título da casa.
+O Boreal Times é elaborado por [Duna Press](https://dunapress.org), editora fundada em 2017 que publica jornalismo em português. O Boreal nasceu em 2025 como jornal de economia e geopolítica e, em novembro de 2026, foi reformulado para contar histórias. A Duna Press segue com o jornalismo diário; o Boreal Times não publica notícias.
 
-As duas publicações se tocam no assunto e não se repetem no conteúdo: **o que sai no Boreal não sai na Duna, e o contrário também vale.** Cada matéria é escrita uma vez, para um dos dois.
+## Quem escreve
 
-Estar no norte da Europa tem uma consequência prática de apuração. Boa parte do que decide o rearmamento e a corrida por energia e dados passa por documentos nórdicos — planos de aquisição, licenças de rede, filas de conexão, registros societários — que são públicos, estão em língua original e quase não são lidos fora da região.
+Os textos são narrados por inteligência artificial. O editor responsável é Paulo Fernando de Barros, que define os temas e as regras e responde pelo que vai ao ar. Os detalhes estão nos [princípios editoriais](/principios/).
 
 ## O que não fazemos
 
-Não publicamos conteúdo pago. O jornal exibe publicidade de rede, claramente separada do texto, e nenhum anunciante tem influência sobre o que é publicado.
+Não publicamos conteúdo pago nem patrocinado. O site exibe publicidade de rede, separada do texto, e nenhum anunciante tem influência sobre o que é publicado.
 
-Não recomendamos investimento e não somos consultoria. Explicamos decisão, mecanismo e efeito.
-
-Não prestamos serviço de inteligência a governo, força armada ou indústria, e não aceitamos trabalho de quem cobrimos.
+Não apresentamos mito, lenda ou ficção como fato, e não tratamos saga medieval como registro exato.
 
 ## Como ler sem publicidade
 

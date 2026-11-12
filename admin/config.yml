@@ -1,5 +1,5 @@
 # ============================================================
-# Sveltia CMS — painel de redação do Boreal Times
+# Sveltia CMS — painel de edição do The Boreal Times
 # Edita os mesmos arquivos markdown do repositório. Cada
 # publicação vira um commit no Git, com autor e histórico.
 # ============================================================
@@ -16,61 +16,60 @@ public_folder: "/estatico/img/upload"
 locale: pt
 
 collections:
-  - name: edicoes_pt
-    label: "Edições · Português"
-    label_singular: "Edição"
+  - name: textos_pt
+    label: "Textos · Português"
+    label_singular: "Texto"
     folder: "conteudo/pt/materias"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "edicoes/{{slug}}"
-    summary: "{{secao}} · {{titulo}}"
+    summary: "{{secao}} · {{natureza}} · {{titulo}}"
     sortable_fields: [data, secao, titulo]
     fields:
-      - { name: numero, label: "Número da edição", widget: string, hint: "Ex.: 001" }
       - { name: titulo, label: "Título", widget: string, pattern: ['^.{10,90}$', 'Entre 10 e 90 caracteres'] }
-      - { name: resumo, label: "Resumo", widget: text, hint: "Uma linha: por que esta decisão importa — quem paga, onde, em que prazo." }
+      - { name: resumo, label: "Resumo", widget: text, hint: "Uma ou duas frases, entre 120 e 180 caracteres. Serve de linha-fina e de descrição na busca." }
       - name: secao
         label: "Seção"
         widget: select
-        options: ["Economia", "Ciência", "Tecnologia", "Geopolítica"]
-      - { name: autor, label: "Autor", widget: string, hint: "Nome próprio. Assinatura coletiva é bloqueada na publicação." }
-      - { name: data, label: "Data de publicação", widget: datetime, format: "YYYY-MM-DD", time_format: false }
-      - { name: apuracao, label: "Apuração encerrada em", widget: string }
-      - name: acesso
-        label: "Acesso"
+        options: ["Mitos e Deuses", "Sagas e Reis", "Era Viking", "Contos e Folclore", "História"]
+      - name: natureza
+        label: "Natureza do texto"
         widget: select
-        options: ["assinantes", "aberta"]
-        default: "assinantes"
-      - name: informacao
-        label: "De onde vem a informação"
-        widget: text
-        required: false
-        hint: "Registros consultados, documentos vistos, fontes ouvidas, período."
+        options: ["História documentada", "Saga ou fonte medieval", "Mito ou lenda", "Conto original"]
+        hint: "Mito e lenda nunca são apresentados como fato. Conto original é ficção declarada."
+      - { name: autor, label: "Editor responsável", widget: string, default: "Paulo Fernando de Barros", hint: "Nome próprio. O texto é narrado por IA; aqui vai quem responde pela publicação." }
+      - { name: data, label: "Data de publicação", widget: datetime, format: "YYYY-MM-DD", time_format: false }
+      - { name: imagem, label: "Imagem", widget: string, required: false, hint: "Caminho gerado por `publicar.py imagem`." }
+      - { name: imagem_credito, label: "Crédito da imagem", widget: string, required: false, hint: "Ex.: Ilustração gerada por inteligência artificial (Qwen)." }
+      - { name: imagem_alt, label: "Texto alternativo da imagem", widget: string, required: false, hint: "Obrigatório se houver imagem." }
+      - { name: fontes, label: "Fontes", widget: list, required: false, hint: "Obras e estudos consultados. Obrigatório, exceto em conto original." }
+      - { name: tags, label: "Etiquetas", widget: list, required: false, hint: "De duas a cinco, minúsculas, sem acento, com hífen." }
       - { name: body, label: "Texto", widget: markdown }
 
-  - name: edicoes_en
-    label: "Issues · English"
-    label_singular: "Issue"
+  - name: textos_en
+    label: "Texts · English"
+    label_singular: "Text"
     folder: "conteudo/en/materias"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{secao}} · {{natureza}} · {{titulo}}"
     fields:
-      - { name: numero, label: "Issue number", widget: string }
       - { name: titulo, label: "Headline", widget: string }
       - { name: resumo, label: "Standfirst", widget: text }
       - name: secao
         label: "Section"
         widget: select
-        options: ["Economy", "Science", "Technology", "Geopolitics"]
-      - { name: autor, label: "Writer", widget: string }
-      - { name: data, label: "Date", widget: datetime, format: "YYYY-MM-DD", time_format: false }
-      - { name: apuracao, label: "Reporting closed on", widget: string }
-      - name: acesso
-        label: "Access"
+        options: ["Myths & Gods", "Sagas & Kings", "Viking Age", "Tales & Folklore", "History"]
+      - name: natureza
+        label: "Nature of the text"
         widget: select
-        options: ["assinantes", "aberta"]
-        default: "assinantes"
-      - { name: informacao, label: "Where this comes from", widget: text, required: false }
+        options: ["Documented history", "Saga or medieval source", "Myth or legend", "Original tale"]
+      - { name: autor, label: "Responsible editor", widget: string, default: "Paulo Fernando de Barros" }
+      - { name: data, label: "Date", widget: datetime, format: "YYYY-MM-DD", time_format: false }
+      - { name: imagem, label: "Image", widget: string, required: false }
+      - { name: imagem_credito, label: "Image credit", widget: string, required: false }
+      - { name: imagem_alt, label: "Image alt text", widget: string, required: false }
+      - { name: fontes, label: "Sources", widget: list, required: false }
+      - { name: tags, label: "Tags", widget: list, required: false }
       - { name: body, label: "Body", widget: markdown }
 
   - name: paginas_pt
@@ -112,7 +111,6 @@ collections:
               - { name: url, label: "Endereço", widget: string }
               - { name: editora, label: "Editora", widget: string }
               - { name: editor, label: "Editor responsável", widget: string }
-              - { name: edicao_corrente, label: "Rótulo da edição corrente", widget: string }
           - name: medicao
             label: "Medição"
             widget: object

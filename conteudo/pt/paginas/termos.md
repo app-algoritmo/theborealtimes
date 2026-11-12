@@ -9,19 +9,19 @@ atualizado: novembro de 2026
 
 ## 1. Editora e objeto
 
-O Boreal Times é uma publicação jornalística periódica da Duna Press. A representação legal e a titularidade são de Digital Solutions - De Barros, org.nr 996 041 468, registrada na Noruega. Estes termos regem o acesso ao site e ao conteúdo.
+O The Boreal Times é um site de histórias e conteúdo editorial elaborado por Duna Press. A representação legal e a titularidade são de Digital Solutions - De Barros, org.nr 996 041 468, registrada na Noruega. Estes termos regem o acesso ao site e ao conteúdo.
 
-A leitura é aberta a qualquer pessoa até o terceiro parágrafo de cada peça. O restante do texto é reservado a assinantes.
+A leitura é aberta a qualquer pessoa, sem limite. A assinatura, vendida pelo aplicativo, serve apenas para ler sem publicidade.
 
 ## 2. Natureza do conteúdo
 
-O conteúdo é jornalístico e informativo. **Não constitui recomendação de investimento, consultoria financeira, análise de valores mobiliários, aconselhamento tributário ou jurídico.** A publicação não é analista credenciado nem consultor registrado em nenhuma jurisdição. Decisões patrimoniais tomadas a partir do que é lido aqui são de responsabilidade exclusiva do leitor.
+O conteúdo é narrativo e informativo. Mistura história documentada, relatos de fontes medievais, mitos, lendas e contos originais, e cada texto declara qual é a sua natureza. **Os textos são narrados por inteligência artificial e podem conter erros.** Não substituem obra acadêmica e não devem ser citados como fonte histórica primária.
 
-## 3. Assinatura e acesso
+O conteúdo também não constitui aconselhamento de nenhuma natureza: financeiro, jurídico, médico, religioso ou outro.
 
-A assinatura é pessoal, nominal e intransferível, vinculada ao endereço de e-mail informado na contratação. Compartilhar acesso, redistribuir edições ou reproduzir conteúdo para terceiros autoriza a suspensão da assinatura.
+## 3. Assinatura
 
-O acesso é confirmado por endereço enviado ao e-mail da assinatura. Não usamos senha.
+A assinatura é pessoal e destina-se à leitura sem publicidade no aplicativo. Ela não dá acesso a conteúdo que o site não ofereça gratuitamente.
 
 ## 4. Cobrança
 
@@ -39,11 +39,11 @@ Isso não afasta os direitos de arrependimento previstos na legislação do paí
 
 ## 6. Propriedade intelectual
 
-Textos, tabelas, séries de dados e identidade visual são protegidos pela legislação autoral aplicável. É permitida a citação de trechos curtos com indicação de fonte e link. São vedadas a reprodução integral, a tradução e a criação de obra derivada sem autorização escrita.
+Textos e identidade visual são protegidos pela legislação autoral aplicável. É permitida a citação de trechos curtos com indicação de fonte e link. São vedadas a reprodução integral, a tradução e a criação de obra derivada sem autorização escrita. Mitos, sagas e obras medievais em domínio público continuam livres: a proteção recai sobre a nossa versão do texto.
 
-## 7. Conduta do assinante
+## 7. Uso do site
 
-O assinante não pode extrair conteúdo por meio automatizado, contornar controles de acesso, nem usar as séries de dados para alimentar produto concorrente.
+Não é permitido extrair o conteúdo do site em escala por meio automatizado, nem usá-lo para treinar sistema de inteligência artificial sem autorização escrita.
 
 ## 8. Disponibilidade e responsabilidade
 

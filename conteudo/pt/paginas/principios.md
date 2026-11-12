@@ -1,70 +1,52 @@
 ---
 titulo: Princípios editoriais
 resumo: As regras que o leitor pode cobrar de nós.
-olho: O jornal
+olho: O site
 atualizado: novembro de 2026
 ---
 
 ## O que somos e o que não somos
 
-Somos um jornal. Vendemos informação e nada além disso.
+Somos um site de histórias do Norte: mitos, sagas, lendas, contos e história da Escandinávia e do mundo nórdico. Não publicamos notícias, não somos fonte acadêmica e não substituímos um livro de história. Contamos, e dizemos de onde vem o que contamos.
 
-Não intermediamos negócios, não aproximamos comprador e vendedor, não recebemos comissão, permuta ou participação sobre nada que citamos. Não somos consultoria de investimento, casa de análise, assessoria de risco nem prestadora de inteligência para governo ou indústria.
+## Quem escreve
 
-O jornal se sustenta com publicidade de rede e assinatura de aplicativo. Nenhuma das duas dá a ninguém influência sobre o que publicamos.
+Os textos são narrados por inteligência artificial. O editor responsável, Paulo Fernando de Barros, define temas e regras e responde pela publicação. Cada texto é lido por ele antes de ir ao ar.
 
-## Apuração
+Sistemas de IA erram: podem trocar uma data, um nome ou uma atribuição. Por isso cada texto lista suas fontes, e qualquer erro apontado é corrigido às claras.
 
-Afirmação de fato exige registro público, documento visto pela redação ou duas fontes independentes com conhecimento direto do assunto.
+## A natureza de cada texto
 
-Quando a apuração fica incompleta, dizemos onde ela parou em vez de fechar a lacuna com suposição.
+Todo texto declara, no alto da página, uma de quatro naturezas.
 
-## Comunicação oficial não é fato apurado
+**História documentada** é o que a arqueologia, os documentos e os historiadores sustentam. Onde os especialistas divergem, o texto diz que divergem. Datas incertas aparecem como incertas.
 
-Declaração de governo, de ministério, de força armada, de aliança militar ou de empresa é sempre atribuída a quem a emitiu, com a data e o canal em que foi emitida. Nunca aparece como afirmação nossa.
+**Saga ou fonte medieval** é o que uma saga, uma crônica ou outro texto da época conta, sempre atribuído a ela. Muitas foram escritas séculos depois dos fatos, por autores com seus próprios interesses, e não as tratamos como registro exato.
 
-Isso vale igualmente para todos os lados de um conflito. Em tempo de guerra, todo governo comunica com objetivo, e um jornal que reproduz comunicado como se fosse apuração deixa de ser jornal.
+**Mito ou lenda** é a tradição de deuses, seres e heróis, contada a partir das fontes que a preservaram, como as Eddas. Nunca é apresentada como fato. Quando as fontes trazem versões diferentes, dizemos qual seguimos.
 
-Quando uma informação só existe em fonte oficial e não pôde ser verificada de modo independente, dizemos isso na própria frase.
-
-## Limites na cobertura de defesa e segurança
-
-Cobrimos orçamento, contrato, indústria, decisão política e o efeito disso no mapa.
-
-Não publicamos informação sobre posição, movimentação, prontidão ou vulnerabilidade de forças, e não agregamos fragmentos públicos até formar um retrato de capacidade operacional. Nenhuma peça nossa deve ser útil para escolher um alvo.
-
-Também não publicamos material classificado obtido por terceiros sem avaliação jurídica prévia e sem interesse público que justifique a publicação.
+**Conto original** é ficção inventada para este site, inspirada no folclore e nos mitos do Norte. Não é tradição documentada e não traz lista de fontes.
 
 ## Fontes
 
-Pessoas em cargo público, militar ou industrial falam com frequência sob condição de anonimato. Concedemos anonimato quando a exposição traria risco profissional, patrimonial ou pessoal, e quando a informação é sustentada por outra via. Nunca para permitir que alguém ataque terceiros sem se identificar.
+Todo texto que não seja conto original lista as fontes no fim: obras medievais, edições e estudos de historiadores e arqueólogos. Não inventamos citação, não atribuímos a uma fonte o que ela não diz e não reproduzimos traduções protegidas por direito autoral. Trechos entre aspas são curtos e atribuídos.
 
-Não submetemos texto à aprovação de fonte. Checamos fatos, não parágrafos.
+## Respeito
 
-## Pessoas citadas
+A mitologia nórdica ainda é religião viva para muita gente, e a tratamos com respeito. Não usamos símbolos, runas ou histórias vikings para promover supremacismo, ódio ou extremismo, e desmentimos quando o passado nórdico é distorcido para esse fim.
 
-Quando uma peça faz afirmação desfavorável sobre pessoa ou empresa identificável, procuramos essa parte antes da publicação e damos prazo razoável de resposta. A resposta entra na peça, não em nota posterior.
+## Imagens
 
-Se a parte não responde no prazo, registramos que foi procurada e não se manifestou.
-
-## Conflitos de interesse
-
-Autores não podem negociar, intermediar ou receber comissão sobre ativos, empresas ou pessoas que cobrem, nem prestar serviço a governo, força armada ou empresa de defesa enquanto a cobrirem. Participações e vínculos relevantes são declarados no pé do texto.
-
-Convites, acessos e viagens custeados por terceiros são declarados em linha própria na peça em que aparecem.
+As imagens podem ser ilustrações geradas por inteligência artificial. Quando são, a legenda diz isso. Uma ilustração não é fotografia de um fato nem retrato de uma pessoa real.
 
 ## Publicidade
 
-O site exibe publicidade de rede, servida por terceiros e separada visualmente do texto. Não escolhemos os anunciantes, eles não escolhem o conteúdo, e nenhum deles tem acesso prévio ao que publicamos.
+O site exibe publicidade de rede, servida por terceiros e separada visualmente do texto. Não escolhemos os anunciantes, eles não escolhem o conteúdo, e nenhum deles vê o que publicamos antes da publicação.
 
-Não publicamos conteúdo patrocinado, publieditorial, conteúdo de marca nem permuta. Se um dia publicarmos, virá rotulado como tal, em posição visível, e não será escrito pela redação.
+Não publicamos conteúdo patrocinado, publieditorial nem conteúdo de marca. Se um dia publicarmos, virá rotulado como tal, em posição visível.
 
-Quem prefere ler sem publicidade pode assinar pelo aplicativo. A assinatura não abre conteúdo: todo o jornal é gratuito no site.
+Quem prefere ler sem publicidade pode assinar pelo aplicativo. A assinatura não abre conteúdo: todo o site é gratuito.
 
 ## Correções
 
-Erro de fato é corrigido no mesmo endereço, com nota datada explicando o que mudou. Não removemos texto publicado; corrigimos e registramos.
-
-## Inteligência artificial
-
-Ferramentas de IA são usadas para tarefas auxiliares: revisão de texto, organização de dados, tradução de apoio, verificação de padrão editorial e geração do site. Nenhuma reportagem, entrevista, verificação de fato ou julgamento editorial é produzido por sistema automatizado. Cada peça tem autor humano responsável, e é ele quem responde pelo que está escrito.
+Erro de fato é corrigido no mesmo endereço, com nota datada explicando o que mudou. Não removemos texto publicado para esconder um erro; corrigimos e registramos.

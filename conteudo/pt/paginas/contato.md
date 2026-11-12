@@ -1,18 +1,16 @@
 ---
-titulo: Fale com a redação
-resumo: Pautas, correções, assinatura e informação sob reserva.
-olho: O jornal
-atualizado: agosto de 2026
+titulo: Fale conosco
+resumo: Correções, sugestões de tema, assinatura e outros assuntos.
+olho: O site
+atualizado: novembro de 2026
 ---
 
-**Redação e pautas** — redacao@borealtimes.org
+**Contato geral e sugestões de tema** — redacao@borealtimes.org
 
 **Correções** — correcoes@borealtimes.org
 
 **Assinaturas** — assinatura@borealtimes.org
 
-## Informação sob reserva
+## Sugestões e erros
 
-Quem quiser trazer informação sobre uma operação, uma estrutura patrimonial ou um conflito de interesse pode escrever para a redação. Preservamos a identidade da fonte segundo os princípios editoriais desta publicação.
-
-Não use e-mail corporativo nem equipamento do empregador para esse contato.
+Tem uma lenda, uma saga ou um episódio da história nórdica que gostaria de ver aqui? Escreva. Se achou um erro em algum texto, indique o endereço da página e o trecho, de preferência com a fonte que sustenta a correção.

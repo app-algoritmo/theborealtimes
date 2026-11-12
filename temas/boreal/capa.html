@@ -19,14 +19,14 @@
     <article class="chamada manchete">
       {% if manchete.imagem %}
       <figure>
-        <img src="{{ manchete.imagem }}" alt="" width="1200" height="675">
+        <img src="{{ manchete.imagem }}" alt="{{ manchete.imagem_alt }}" width="1200" height="675">
         {% if manchete.imagem_credito %}<figcaption class="legenda">{{ manchete.imagem_credito }}</figcaption>{% endif %}
       </figure>
       {% endif %}
-      <span class="chapeu">{{ manchete.secao }}</span>
+      <span class="chapeu">{{ manchete.secao }} · {{ manchete.natureza }}</span>
       <h2 class="titulo"><a href="{{ manchete.url }}">{{ manchete.titulo }}</a></h2>
       <p class="olho">{{ manchete.resumo }}</p>
-      <p class="credito"><b>{{ manchete.autor }}</b> · {{ manchete.data_curta }}</p>
+      <p class="credito">{{ manchete.data_curta }}</p>
     </article>
   </div>
   <div class="risco"></div>
@@ -34,10 +34,10 @@
   <div class="col">
     {% for e in laterais %}
     <article class="chamada sec">
-      {% if e.imagem %}<img src="{{ e.imagem }}" alt="" width="600" height="400">{% endif %}
-      <span class="chapeu">{{ e.secao }}</span>
+      {% if e.imagem %}<img src="{{ e.imagem }}" alt="{{ e.imagem_alt }}" width="600" height="400">{% endif %}
+      <span class="chapeu">{{ e.secao }} · {{ e.natureza }}</span>
       <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
-      <p class="credito"><b>{{ e.autor }}</b> · {{ e.data_curta }}</p>
+      <p class="credito">{{ e.data_curta }}</p>
     </article>
     {% endfor %}
   </div>
@@ -59,10 +59,10 @@
   <div class="quatro">
     {% for e in bloco.edicoes %}
     <article class="chamada">
-      {% if e.imagem %}<img src="{{ e.imagem }}" alt="" width="600" height="400">{% endif %}
+      {% if e.imagem %}<img src="{{ e.imagem }}" alt="{{ e.imagem_alt }}" width="600" height="400">{% endif %}
       <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
       <p class="olho">{{ e.resumo }}</p>
-      <p class="credito"><b>{{ e.autor }}</b> · {{ e.data_curta }}</p>
+      <p class="credito">{{ e.data_curta }}</p>
     </article>
     {% endfor %}
   </div>

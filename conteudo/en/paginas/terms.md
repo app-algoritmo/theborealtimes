@@ -9,19 +9,19 @@ atualizado: November 2026
 
 ## 1. Publisher and scope
 
-Boreal Times is a periodical journalistic publication from Duna Press. Legal representation and ownership rest with Digital Solutions - De Barros, org. no. 996 041 468, registered in Norway. These terms govern access to the site and its content.
+The Boreal Times is a site of stories and editorial content produced by Duna Press. Legal representation and ownership rest with Digital Solutions - De Barros, org. no. 996 041 468, registered in Norway. These terms govern access to the site and its content.
 
-Reading is open to anyone up to the third paragraph of each piece. The remainder is reserved for subscribers.
+Reading is open to anyone, without limit. The subscription, sold through the app, exists only to read without advertising.
 
 ## 2. Nature of the content
 
-The content is journalistic and informational. **It is not investment advice, securities analysis, or financial, tax or legal counsel.** The publication is not a licensed analyst or registered adviser in any jurisdiction. Decisions about assets taken on the basis of what is read here are the reader's sole responsibility.
+The content is narrative and informational. It mixes documented history, accounts from medieval sources, myths, legends and original tales, and each text states its nature. **The texts are narrated by artificial intelligence and may contain errors.** They do not replace academic work and should not be cited as a primary historical source.
 
-## 3. Subscription and access
+The content is also not advice of any kind: financial, legal, medical, religious or other.
 
-Subscriptions are personal, named and non-transferable, tied to the email address given at sign-up. Sharing access, redistributing issues or reproducing content for third parties permits suspension of the subscription.
+## 3. Subscription
 
-Access is confirmed by a link sent to the subscription email. There is no password.
+The subscription is personal and is meant for reading without advertising in the app. It gives no access to content the site does not offer free of charge.
 
 ## 4. Billing
 
@@ -39,11 +39,11 @@ This does not remove the withdrawal rights available under the law of the subscr
 
 ## 6. Intellectual property
 
-Text, tables, data series and visual identity are protected by applicable copyright law. Short quotations with attribution and a link are permitted. Full reproduction, translation and derivative works require written permission.
+Text and visual identity are protected by applicable copyright law. Short quotations with attribution and a link are permitted. Full reproduction, translation and derivative works require written permission. Myths, sagas and medieval works in the public domain remain free: the protection covers our version of the text.
 
-## 7. Subscriber conduct
+## 7. Use of the site
 
-Subscribers may not extract content by automated means, circumvent access controls, or use the data series to build a competing product.
+Extracting the site's content at scale by automated means is not permitted, nor is using it to train an artificial intelligence system without written permission.
 
 ## 8. Availability and liability
 

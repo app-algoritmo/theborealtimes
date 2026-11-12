@@ -1,5 +1,6 @@
 # ============================================================
-# BOREAL TIMES — configuração central
+# THE BOREAL TIMES — configuração central
+# Histórias do Norte: mitos, sagas, lendas, contos e história.
 # Português é o idioma principal. Inglês é secundário, em /en/.
 # ============================================================
 
@@ -23,7 +24,7 @@ site:
     # O relógio do jornal. A Cloudflare constrói em UTC; sem isto, a
     # reconstrução noturna viraria a data uma hora tarde demais.
     fuso: Europe/Oslo
-  cobertura: Europa e mundo
+  cobertura: Escandinávia e mundo nórdico
   redes:
     facebook: https://www.facebook.com/borealtimes
     instagram: https://www.instagram.com/borealtimes
@@ -70,20 +71,25 @@ idiomas:
 # ============================================================
 # CONTEÚDO POR IDIOMA
 # ============================================================
+# Cada texto declara a sua "natureza" no front matter. As quatro naturezas
+# abaixo são fixas por idioma e casam pela ordem. O copidesque (checar)
+# recusa valor fora da lista. `fonte_obrigatoria: false` dispensa o campo
+# `fontes` — só o conto original, que é ficção declarada.
 
 pt:
-  lema: Economia · Ciência · Tecnologia · Geopolítica
-  chamada_topo: Europa e mundo, em português
+  lema: Mitos · Sagas · História · Contos
+  chamada_topo: Histórias e contos escandinavos
   descricao: >-
-    Jornal digital sobre economia, ciência, tecnologia e geopolítica na
-    Europa e no mundo. Publicado na Noruega, em português e inglês.
+    Mitos, sagas, lendas, contos e história da Escandinávia e do mundo
+    nórdico, da era viking aos nossos dias. Textos narrados por inteligência
+    artificial, em português e inglês.
   rodape:
     sobre: >-
-      Jornal digital sobre a Europa e o mundo, publicado na Noruega em
-      português e inglês. Uma publicação da Duna Press, que edita jornalismo
-      em português desde 2017.
-    secoes: Editorias
-    jornal: O jornal
+      Histórias da Escandinávia e do mundo nórdico, em português e inglês.
+      Textos narrados por inteligência artificial. Elaborado por Duna Press,
+      que edita jornalismo em português desde 2017.
+    secoes: Seções
+    jornal: O site
     legal: Legal
     redes: Nas redes
     privacidade: Privacidade
@@ -93,7 +99,7 @@ pt:
       - { rotulo: Quem somos, url: /quem-somos/ }
       - { rotulo: Princípios editoriais, url: /principios/ }
       - { rotulo: Correções, url: /correcoes/ }
-      - { rotulo: Fale com a redação, url: /contato/ }
+      - { rotulo: Fale conosco, url: /contato/ }
     links_legal:
       - { rotulo: Assinatura, url: /assinatura/ }
       - { rotulo: Termos de uso, url: /termos/ }
@@ -115,69 +121,102 @@ pt:
     cookies: cookies
   interface:
     capa: Capa
+    menu_inicio: Histórias
+    linha_edicao: Edições Duna Press
     sobre: Sobre
     assine: Assinar
     ultimas: Últimas
     ver_tudo: Ver tudo
     arquivo: Arquivo
-    as_secoes: As editorias
-    vazio: Nenhuma matéria publicada nesta editoria ainda.
+    as_secoes: As seções
+    vazio: Nenhum texto publicado nesta seção ainda.
     leitura: min de leitura
-    informacao: Reportagem humana
-    por: Por
+    natureza: Natureza do texto
+    narrado: Narrado por inteligência artificial
+    editor: Editor responsável
+    fontes: Fontes
+    as_naturezas: Como ler cada texto
     atualizado: Atualizado em
     loja_apple: Baixar na App Store
     loja_google: Baixar no Google Play
     lojas_pendente: Aplicativos em publicação nas lojas.
-    idioma_sugestao: This newspaper is also published in English.
+    idioma_sugestao: This site is also published in English.
     idioma_sugestao_botao: Read in English
+  naturezas:
+    - nome: História documentada
+      fonte_obrigatoria: true
+      descricao: >-
+        Fatos, pessoas e lugares sustentados por arqueologia, documentos ou
+        estudos de historiadores. Onde os especialistas divergem, o texto diz.
+    - nome: Saga ou fonte medieval
+      fonte_obrigatoria: true
+      descricao: >-
+        O que uma saga, uma crônica ou outro texto medieval conta, atribuído a
+        ela. Muitas foram escritas séculos depois dos fatos, e o texto não as
+        trata como registro exato.
+    - nome: Mito ou lenda
+      fonte_obrigatoria: true
+      descricao: >-
+        Histórias de deuses, seres e heróis da tradição nórdica, contadas a
+        partir das fontes que as preservaram. Nunca apresentadas como fato.
+    - nome: Conto original
+      fonte_obrigatoria: false
+      descricao: >-
+        Ficção inventada para este site, inspirada no folclore e nos mitos do
+        Norte. Não é tradição documentada.
   secoes:
-    - nome: Economia
-      slug: economia
+    - nome: Mitos e Deuses
+      slug: mitos
       descricao: >-
-        Orçamento público, dívida, fundos, bancos de desenvolvimento, empresas
-        listadas e contratos do Estado, inclusive o gasto militar.
-    - nome: Ciência
-      slug: ciencia
+        Odin, Thor, Freya, Loki e os nove mundos. A mitologia nórdica como
+        chegou até nós, nas Eddas e em outras fontes.
+    - nome: Sagas e Reis
+      slug: sagas
       descricao: >-
-        Pesquisa e quem a financia. Energia nuclear, materiais, espaço, clima,
-        saúde pública e os programas europeus que pagam a conta.
-    - nome: Tecnologia
-      slug: tecnologia
+        As sagas islandesas e os reis da Noruega, da Suécia e da Dinamarca,
+        entre o que a fonte conta e o que a história confirma.
+    - nome: Era Viking
+      slug: vikings
       descricao: >-
-        Data center, inteligência artificial, semicondutor, cabo submarino,
-        rede elétrica, telecomunicação e cibersegurança.
-    - nome: Geopolítica
-      slug: geopolitica
+        Navegação, comércio, assentamentos e expedições, do fim do século VIII
+        ao século XI, e o que a arqueologia mostra.
+    - nome: Contos e Folclore
+      slug: contos
       descricao: >-
-        Defesa, alianças, sanções, fronteiras e território. Da Noruega à
-        Rússia.
+        Trolls, huldras, nisser e contos de fadas escandinavos: o folclore e as
+        histórias originais inspiradas nele.
+    - nome: História
+      slug: historia
+      descricao: >-
+        Da pré-história à Noruega de hoje: acontecimentos, pessoas e lugares
+        do mundo nórdico.
   manifesto:
-    titulo: Economia, Ciência, Tecnologia e Geopolítica na Europa e no Mundo
+    titulo: Mitos, sagas e histórias do Norte, de todos os tempos
     chamada: >-
-      O que se decide em Bruxelas, o que se assenta no fundo do Báltico, o que
-      sai de um laboratório em Grenoble — e o que chega de Washington, de
-      Pequim, do Golfo. Da Noruega à Rússia, do documento ao terreno.
+      Os deuses de Asgard, os reis das sagas, os navegantes que cruzaram o
+      Atlântico, os contos de fadas escandinavos — verdadeiros, lendários ou
+      inventados, com a natureza de cada um dita no alto da página.
     origem: >-
-      <p>Toda matéria sai com nome do autor, data de encerramento da apuração
-      e a origem da informação: documento consultado, registro público,
-      licitação publicada ou fontes com conhecimento direto do assunto.</p>
-      <p>Comunicação oficial de governo, de força armada ou de empresa é
-      sempre atribuída a quem a emitiu, nunca apresentada como fato apurado.</p>
+      <p>Cada texto declara a sua natureza: história documentada, saga ou fonte
+      medieval, mito ou lenda, ou conto original. Quando há fonte, ela vem
+      listada no fim.</p>
+      <p>Os textos são narrados por inteligência artificial. O editor
+      responsável é Paulo Fernando de Barros.</p>
 
 en:
-  lema: Economy · Science · Technology · Geopolitics
-  chamada_topo: Europe and the world, in English
+  lema: Myths · Sagas · History · Tales
+  chamada_topo: Scandinavian stories and tales
   descricao: >-
-    A digital newspaper on economy, science, technology and geopolitics in
-    Europe and the world. Published in Norway, in Portuguese and English.
+    Myths, sagas, legends, tales and history from Scandinavia and the Nordic
+    world, from the Viking Age to today. Texts narrated by artificial
+    intelligence, in Portuguese and English.
   rodape:
     sobre: >-
-      A digital newspaper on Europe and the world, published in Norway in
-      Portuguese and English. A Duna Press title; the house has published
-      journalism in Portuguese since 2017.
+      Stories of Scandinavia and the Nordic world, in English and Portuguese.
+      Texts narrated by artificial intelligence. Produced by Duna Press, which
+      has published journalism in Portuguese since 2017.
     secoes: Sections
-    jornal: The paper
+    jornal: The site
     legal: Legal
     redes: Follow
     privacidade: Privacy
@@ -187,7 +226,7 @@ en:
       - { rotulo: About us, url: /en/about-us/ }
       - { rotulo: Editorial principles, url: /en/editorial-principles/ }
       - { rotulo: Corrections, url: /en/corrections/ }
-      - { rotulo: Contact the newsroom, url: /en/contact/ }
+      - { rotulo: Contact us, url: /en/contact/ }
     links_legal:
       - { rotulo: Subscription, url: /en/subscribe/ }
       - { rotulo: Terms of use, url: /en/terms/ }
@@ -206,6 +245,8 @@ en:
     cookies: cookies
   interface:
     capa: Front page
+    menu_inicio: Stories
+    linha_edicao: Duna Press Editions
     sobre: About
     assine: Subscribe
     ultimas: Latest
@@ -214,46 +255,74 @@ en:
     as_secoes: The sections
     vazio: Nothing published in this section yet.
     leitura: min read
-    informacao: Human reporting
-    por: By
+    natureza: Nature of the text
+    narrado: Narrated by artificial intelligence
+    editor: Responsible editor
+    fontes: Sources
+    as_naturezas: How to read each text
     atualizado: Updated
     loja_apple: Download on the App Store
     loja_google: Get it on Google Play
     lojas_pendente: Apps are being published to the stores.
-    idioma_sugestao: Este jornal também é publicado em português.
+    idioma_sugestao: Este site também é publicado em português.
     idioma_sugestao_botao: Ler em português
+  naturezas:
+    - nome: Documented history
+      fonte_obrigatoria: true
+      descricao: >-
+        Facts, people and places supported by archaeology, documents or
+        historians' work. Where specialists disagree, the text says so.
+    - nome: Saga or medieval source
+      fonte_obrigatoria: true
+      descricao: >-
+        What a saga, a chronicle or another medieval text tells, attributed to
+        it. Many were written centuries after the events, and the text does not
+        treat them as exact record.
+    - nome: Myth or legend
+      fonte_obrigatoria: true
+      descricao: >-
+        Stories of gods, beings and heroes of the Norse tradition, told from
+        the sources that preserved them. Never presented as fact.
+    - nome: Original tale
+      fonte_obrigatoria: false
+      descricao: >-
+        Fiction invented for this site, inspired by the folklore and myths of
+        the North. It is not documented tradition.
   secoes:
-    - nome: Economy
-      slug: economy
+    - nome: Myths & Gods
+      slug: myths
       descricao: >-
-        Public budgets, debt, funds, development banks, listed companies and
-        state contracts, military spending included.
-    - nome: Science
-      slug: science
+        Odin, Thor, Freya, Loki and the nine worlds. Norse mythology as it
+        reached us, in the Eddas and other sources.
+    - nome: Sagas & Kings
+      slug: sagas
       descricao: >-
-        Research and who funds it. Nuclear energy, materials, space, climate,
-        public health, and the European programmes that pay for them.
-    - nome: Technology
-      slug: technology
+        The Icelandic sagas and the kings of Norway, Sweden and Denmark,
+        between what the source tells and what history confirms.
+    - nome: Viking Age
+      slug: viking-age
       descricao: >-
-        Data centres, artificial intelligence, semiconductors, subsea cable,
-        the power grid, telecoms and cybersecurity.
-    - nome: Geopolitics
-      slug: geopolitics
+        Seafaring, trade, settlement and expeditions, from the late eighth to
+        the eleventh century, and what archaeology shows.
+    - nome: Tales & Folklore
+      slug: tales
       descricao: >-
-        Defence, alliances, sanctions, borders and territory. From Norway to
-        Russia.
+        Trolls, huldrefolk, nisser and Scandinavian fairy tales: the folklore
+        and the original stories inspired by it.
+    - nome: History
+      slug: history
+      descricao: >-
+        From prehistory to Norway today: events, people and places of the
+        Nordic world.
   manifesto:
-    titulo: Economy, Science, Technology and Geopolitics in Europe and the World
+    titulo: Myths, sagas and stories of the North, from every age
     chamada: >-
-      What gets decided in Brussels, what gets laid on the Baltic seabed, what
-      comes out of a laboratory in Grenoble — and what arrives from
-      Washington, Beijing, the Gulf. From Norway to Russia, from the document
-      to the ground.
+      The gods of Asgard, the kings of the sagas, the sailors who crossed the
+      Atlantic, the Scandinavian fairy tales — true, legendary or invented,
+      with the nature of each stated at the top of the page.
     origem: >-
-      <p>Every article carries the writer's name, the date reporting closed
-      and the origin of the information: documents consulted, public records,
-      published tenders, or sources with direct knowledge of the matter.</p>
-      <p>Official communication from a government, an armed force or a company
-      is always attributed to whoever issued it, never presented as verified
-      fact.</p>
+      <p>Every text states its nature: documented history, saga or medieval
+      source, myth or legend, or original tale. Where there is a source, it is
+      listed at the end.</p>
+      <p>The texts are narrated by artificial intelligence. The responsible
+      editor is Paulo Fernando de Barros.</p>

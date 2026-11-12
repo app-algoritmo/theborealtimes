@@ -8,9 +8,9 @@ atualizado: novembro de 2026
 
 ## O que a assinatura dá
 
-Leitura sem publicidade, no aplicativo, com as matérias dos dois idiomas e o acervo completo.
+Leitura sem publicidade, no aplicativo, com os textos dos dois idiomas e o acervo completo.
 
-Todo o conteúdo do jornal continua aberto e gratuito no site, sem exceção e sem limite de leitura. A assinatura não compra acesso: compra silêncio.
+Todo o conteúdo do site continua aberto e gratuito no site, sem exceção e sem limite de leitura. A assinatura não compra acesso: compra silêncio.
 
 ## Como funciona
 

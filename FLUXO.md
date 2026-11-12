@@ -1,48 +1,37 @@
 # Fluxo editorial
 
-Quatro editorias: Economia, Ciência, Tecnologia, Geopolítica. Sem periodicidade prometida — o jornal publica quando tem matéria apurada.
+Cinco seções: Mitos e Deuses, Sagas e Reis, Era Viking, Contos e Folclore, História. Sem periodicidade prometida: o site publica quando o texto está pronto.
 
-## Publicar uma matéria
+## Publicar um texto
+
+1. Abrir uma conversa nova, colar o `PROMPT.md` e dizer o tema.
+2. Ler o texto que volta. O editor responsável lê cada texto antes de publicar; esta é a promessa que a página de princípios faz ao leitor.
+3. Conferir as fontes listadas: obra e autor existem? A atribuição é verdadeira?
+4. Salvar o arquivo em `conteudo/pt/materias/` (e, se houver versão, em `conteudo/en/materias/`).
 
 ```bash
-python3 publicar.py nova        # cria o esqueleto com a data de hoje
-# escrever
 python3 publicar.py checar      # copidesque
 python3 publicar.py construir   # gera o site
 python3 publicar.py servir      # conferir em localhost:8000
 git add . && git commit -m "..." && git push
 ```
 
-O `git push` dispara o GitHub Actions, que roda o copidesque e **só publica se passar**.
+A Cloudflare Pages constrói e publica a partir do `git push`. O `checar` não roda sozinho: rode-o antes.
 
-## Antes de publicar, cada matéria responde
+## Antes de publicar, cada texto responde
 
-Como a informação chegou — registro público, documento ou fonte.
+A natureza está certa? Mito e lenda não aparecem como fato; saga não aparece como registro exato; conto original aparece como ficção.
 
-Se há afirmação de fato sustentada por uma única fonte. Se houver, busca-se a segunda ou a frase muda de status.
+Cada fato de "História documentada" tem fonte que o sustenta? Data incerta está escrita como incerta?
 
-Se alguma declaração oficial está escrita como se fosse fato nosso. Se estiver, é atribuída a quem a emitiu, com data e canal.
+As fontes listadas existem, e dizem o que o texto atribui a elas? Nenhuma citação foi inventada.
 
-Se alguém citado desfavoravelmente teve prazo real de resposta.
+Há trecho que distorce o passado nórdico a serviço de supremacismo ou extremismo? Se houver, o trecho sai.
 
-Se a matéria deixa de descrever e passa a aconselhar. Se passa, corta-se o trecho.
+A imagem, se existir, tem crédito, texto alternativo e, quando for gerada por IA, diz isso na legenda?
 
-**E a pergunta de segurança, quando o assunto for defesa:** isto diz algo sobre posição, movimentação, prontidão ou vulnerabilidade? Seria útil para escolher um alvo? Se sim, o trecho sai — mesmo que cada informação seja pública em separado.
+## Onde a automação entra
 
-## Não repetir a Duna
+**Entra:** conversão de markdown em site, capa, páginas de seção, feeds, SEO, verificação de campos e vocabulário, publicação por `git push`.
 
-O que sai no Boreal não sai na Duna Press, e o contrário também vale. As duas publicações tocam nos mesmos assuntos e nunca no mesmo texto.
-
-Isso não é só higiene editorial: conteúdo igual em dois domínios do mesmo dono faz o Google escolher um e descartar o outro, e pode afetar a aprovação de publicidade nos dois.
-
-## Como escrever a abertura
-
-O site é aberto e sem corte de leitura. Mas o primeiro parágrafo continua sendo o que decide se alguém lê o resto, e é ele que aparece na busca e nas redes.
-
-Fato primeiro, contexto depois.
-
-## Onde a automação entra — e onde não entra
-
-**Entra:** conversão de markdown em site, capa, páginas de editoria, feeds, SEO, verificação de campos e vocabulário, publicação por `git push`.
-
-**Não entra:** apuração, entrevista, verificação de fato, julgamento editorial, redação da matéria. A página de princípios declara isso ao leitor, e ela só tem valor se for verdadeira.
+**Redação:** a IA narra. A leitura, a verificação das fontes e a decisão de publicar são do editor responsável. A página de princípios declara isso ao leitor, e ela só tem valor se for verdadeira.

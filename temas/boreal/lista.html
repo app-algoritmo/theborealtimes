@@ -13,10 +13,10 @@
   <section style="max-width:860px">
     {% for e in edicoes %}
     <article class="chamada">
-      <span class="chapeu">{{ e.secao }}</span>
+      <span class="chapeu">{{ e.secao }} · {{ e.natureza }}</span>
       <h3 class="titulo" style="font-size:24px"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
       <p class="olho">{{ e.resumo }}</p>
-      <p class="credito"><b>{{ e.autor }}</b> · {{ e.data_curta }}</p>
+      <p class="credito">{{ e.data_curta }}</p>
     </article>
     {% endfor %}
   </section>

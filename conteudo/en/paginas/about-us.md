@@ -1,29 +1,27 @@
 ---
 titulo: About us
-resumo: A digital newspaper on Europe and the world, published in Norway in Portuguese and English.
-olho: The paper
+resumo: Stories of Scandinavia and the Nordic world, narrated by artificial intelligence, in English and Portuguese.
+olho: The site
 atualizado: November 2026
 ---
 
-The Boreal Times covers economy, science, technology and geopolitics in Europe, Russia included, and in the rest of the world when the story reaches this far. The newsroom is in Norway and the paper appears in Portuguese and English.
+The Boreal Times tells stories of the North: myths, sagas, legends, tales and history from Scandinavia and the Nordic world, from the Viking Age to today. They may be true, legendary or invented, and every text says which. The site appears in English and Portuguese.
 
-It follows one thread: the decision, the money behind it, and what it builds where.
+The name comes from English, but "Times" here means ages: stories from every era.
 
 ## The house
 
-It started as a blog in 2010. In 2017 it became a publisher, with [Duna Press](https://dunapress.org), a Portuguese-language digital newspaper published daily ever since. Boreal Times was founded in 2025 as the house's second title.
+The Boreal Times is produced by [Duna Press](https://dunapress.org), a publisher founded in 2017 that publishes journalism in Portuguese. Boreal began in 2025 as a paper on economy and geopolitics and, in November 2026, was redesigned to tell stories. Duna Press continues with its daily journalism; the Boreal Times publishes no news.
 
-The two papers touch on the same subjects and never share content: **what runs in Boreal does not run in Duna, and the reverse holds too.** Every article is written once, for one of them.
+## Who writes
 
-Being in northern Europe has a practical reporting consequence. Much of what drives rearmament and the race for energy and data passes through Nordic documents — procurement plans, grid permits, connection queues, company registers — which are public, in the original language, and barely read outside the region.
+The texts are narrated by artificial intelligence. The responsible editor is Paulo Fernando de Barros, who sets the topics and the rules and answers for what goes online. The details are in the [editorial principles](/en/editorial-principles/).
 
 ## What we don't do
 
-We publish no paid content. The paper carries network advertising, clearly separated from the text, and no advertiser has any influence over what is published.
+We publish no paid or sponsored content. The site carries network advertising, separated from the text, and no advertiser has any influence over what is published.
 
-We don't recommend investments and we are not advisers. We explain the decision, the mechanism and the effect.
-
-We provide no intelligence services to any government, armed force or industry, and we take no work from those we cover.
+We do not present myth, legend or fiction as fact, and we do not treat a medieval saga as an exact record.
 
 ## Reading without advertising
 

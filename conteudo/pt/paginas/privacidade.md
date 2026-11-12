@@ -49,6 +49,6 @@ Reclamações podem ser dirigidas à autoridade norueguesa de proteção de dado
 
 Transmissão cifrada, sessão sem senha armazenada, acesso restrito à base de assinantes e registro de acessos administrativos. Incidentes com risco relevante são comunicados aos titulares e às autoridades competentes nos prazos legais.
 
-## 9. Proteção de fontes
+## 9. Mensagens enviadas ao site
 
-Comunicações recebidas de fontes jornalísticas são tratadas em ambiente separado e não integram a base de assinantes ou de marketing. O sigilo de fonte é protegido tanto pela legislação norueguesa quanto pelo artigo 5º, XIV, da Constituição brasileira.
+Mensagens enviadas aos endereços de contato (correções, sugestões de tema, dúvidas) são usadas apenas para responder e para corrigir o conteúdo, e não integram a base de assinantes nem de marketing.
