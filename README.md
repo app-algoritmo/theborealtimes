@@ -113,7 +113,7 @@ site/                      saída gerada (não versionada)
 ---
 titulo: "Título afirmativo, sem adjetivo de catálogo"
 resumo: "Uma ou duas frases, entre 120 e 180 caracteres."
-secao: "Mitos e Deuses"   # Mitos e Deuses | Sagas e Reis | Era Viking | Contos e Folclore | História
+secao: "Mitos e Deuses"   # Mitos e Deuses | Sagas e Reis | Era Viking | Contos e Folclore
 natureza: "Mito ou lenda" # História documentada | Saga ou fonte medieval | Mito ou lenda | Conto original
 autor: "Paulo Fernando de Barros"   # editor responsável; o texto é narrado por IA
 data: 2026-11-12
@@ -125,7 +125,7 @@ tags: []
 ---
 ```
 
-Em inglês, as seções são `Myths & Gods`, `Sagas & Kings`, `Viking Age`, `Tales & Folklore` e `History`, e as naturezas são `Documented history`, `Saga or medieval source`, `Myth or legend` e `Original tale`. As listas oficiais ficam em `boreal.yaml`.
+Em inglês, as seções são `Myths & Gods`, `Sagas & Kings`, `Viking Age`, `Tales & Folklore`, e as naturezas são `Documented history`, `Saga or medieval source`, `Myth or legend` e `Original tale`. As listas oficiais ficam em `boreal.yaml`.
 
 ## O que o copidesque bloqueia
 

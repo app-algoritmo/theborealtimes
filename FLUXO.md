@@ -1,6 +1,6 @@
 # Fluxo editorial
 
-Cinco seções: Mitos e Deuses, Sagas e Reis, Era Viking, Contos e Folclore, História. Sem periodicidade prometida: o site publica quando o texto está pronto.
+Quatro seções: Mitos e Deuses, Sagas e Reis, Era Viking, Contos e Folclore. História documentada entra em Era Viking ou Sagas e Reis. Sem periodicidade prometida: o site publica quando o texto está pronto.
 
 ## Publicar um texto
 

@@ -30,7 +30,7 @@ collections:
       - name: secao
         label: "Seção"
         widget: select
-        options: ["Mitos e Deuses", "Sagas e Reis", "Era Viking", "Contos e Folclore", "História"]
+        options: ["Mitos e Deuses", "Sagas e Reis", "Era Viking", "Contos e Folclore"]
       - name: natureza
         label: "Natureza do texto"
         widget: select
@@ -58,7 +58,7 @@ collections:
       - name: secao
         label: "Section"
         widget: select
-        options: ["Myths & Gods", "Sagas & Kings", "Viking Age", "Tales & Folklore", "History"]
+        options: ["Myths & Gods", "Sagas & Kings", "Viking Age", "Tales & Folklore"]
       - name: natureza
         label: "Nature of the text"
         widget: select
