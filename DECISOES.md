@@ -14,9 +14,9 @@ Motivo: o conceito anterior dependia de apuração própria de pauta de defesa e
 
 "Escandinávia" estrita é Noruega, Suécia e Dinamarca. Mas as sagas e os mitos vêm em grande parte da Islândia, e a era viking inclui Finlândia, Islândia, Groenlândia e as ilhas do Atlântico Norte. O escopo editorial é **a Escandinávia e o mundo nórdico**.
 
-## Cinco seções
+## Quatro seções
 
-Mitos e Deuses, Sagas e Reis, Era Viking, Contos e Folclore, História. Os nomes anteriores (Economia, Ciência, Tecnologia, Geopolítica) foram abandonados. A página de cada seção descreve o que cabe nela.
+Mitos e Deuses, Sagas e Reis, Era Viking, Contos e Folclore. Não há seção "História": o menu começa com "Histórias", que leva à página inicial. Os nomes anteriores (Economia, Ciência, Tecnologia, Geopolítica) foram abandonados. A página de cada seção descreve o que cabe nela.
 
 ## Natureza declarada
 

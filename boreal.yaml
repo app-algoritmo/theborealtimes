@@ -77,7 +77,7 @@ idiomas:
 # `fontes` — só o conto original, que é ficção declarada.
 
 pt:
-  lema: Mitos · Sagas · História · Contos
+  lema: Mitos · Sagas · Era Viking · Contos
   chamada_topo: Histórias e contos escandinavos
   descricao: >-
     Mitos, sagas, lendas, contos e história da Escandinávia e do mundo
@@ -185,11 +185,6 @@ pt:
       descricao: >-
         Trolls, huldras, nisser e contos de fadas escandinavos: o folclore e as
         histórias originais inspiradas nele.
-    - nome: História
-      slug: historia
-      descricao: >-
-        Da pré-história à Noruega de hoje: acontecimentos, pessoas e lugares
-        do mundo nórdico.
   manifesto:
     titulo: Mitos, sagas e histórias do Norte, de todos os tempos
     chamada: >-
@@ -204,7 +199,7 @@ pt:
       responsável é Paulo Fernando de Barros.</p>
 
 en:
-  lema: Myths · Sagas · History · Tales
+  lema: Myths · Sagas · Viking Age · Tales
   chamada_topo: Scandinavian stories and tales
   descricao: >-
     Myths, sagas, legends, tales and history from Scandinavia and the Nordic
@@ -309,11 +304,6 @@ en:
       descricao: >-
         Trolls, huldrefolk, nisser and Scandinavian fairy tales: the folklore
         and the original stories inspired by it.
-    - nome: History
-      slug: history
-      descricao: >-
-        From prehistory to Norway today: events, people and places of the
-        Nordic world.
   manifesto:
     titulo: Myths, sagas and stories of the North, from every age
     chamada: >-

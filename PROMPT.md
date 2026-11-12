@@ -59,7 +59,7 @@ Depois do bloco, em três linhas no máximo: o nome do arquivo, a natureza que e
 
 **resumo** — uma ou duas frases, entre 120 e 180 caracteres. Serve de linha-fina e de descrição na busca, então precisa fazer sentido sozinho.
 
-**secao** — exatamente uma destas: `Mitos e Deuses`, `Sagas e Reis`, `Era Viking`, `Contos e Folclore`, `História`.
+**secao** — exatamente uma destas: `Mitos e Deuses`, `Sagas e Reis`, `Era Viking`, `Contos e Folclore`. Não há seção "História": história documentada entra em `Era Viking` ou `Sagas e Reis`, conforme o tema.
 
 **natureza** — exatamente uma das quatro acima.
 
@@ -91,7 +91,7 @@ Datas por extenso no corpo ("no século IX", "em 1066"). Pessoa real: nome compl
 
 Só quando eu pedir. Mesmo apelido do arquivo (para os dois idiomas se reconhecerem), com `natureza` e `secao` na forma inglesa exata:
 
-- Seções: `Myths & Gods`, `Sagas & Kings`, `Viking Age`, `Tales & Folklore`, `History`
+- Seções: `Myths & Gods`, `Sagas & Kings`, `Viking Age` e `Tales & Folklore`
 - Naturezas: `Documented history`, `Saga or medieval source`, `Myth or legend`, `Original tale`
 
 A versão em inglês é tradução fiel, não reescrita: nenhum fato novo entra.
