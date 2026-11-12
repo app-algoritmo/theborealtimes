@@ -404,6 +404,10 @@ def construir():
 
     # ---- estáticos e arquivos de raiz
     shutil.copytree(TEMA / "estatico", SAIDA / "estatico")
+    # Os jogos ficam em /g/. Fora de /estatico/ de propósito: o /estatico/ é
+    # guardado por um ano, e um jogo corrigido precisa chegar ao leitor.
+    if (RAIZ / "jogos").exists():
+        shutil.copytree(RAIZ / "jogos", SAIDA / "g")
     if (RAIZ / "admin").exists():
         shutil.copytree(RAIZ / "admin", SAIDA / "admin")
 

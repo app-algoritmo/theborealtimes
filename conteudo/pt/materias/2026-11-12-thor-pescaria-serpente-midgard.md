@@ -45,3 +45,6 @@ O poema Hymiskviða conta a mesma pesca e também termina com Hymir cortando a l
 ## O reencontro no Ragnarök
 
 Segundo Snorri e a Völuspá, os dois voltarão a se encontrar no Ragnarök, o fim do mundo. A serpente sairá do mar, e Thor a enfrentará. Ele a matará, mas dará só nove passos antes de cair morto, envenenado.
+
+
+Quer reviver a pesca? Jogue [A pesca de Thor](/jogo-pesca-de-thor/).

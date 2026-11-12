@@ -498,3 +498,14 @@ img{height:auto}
 .rodape-fim{border-top-color:rgba(255,255,255,.18);color:#9CA0A7}
 .rodape-fim a{color:#B9BCC2}
 .rodape-ds a{color:#C9B3F2}
+
+/* ── Jogos ────────────────────────────────────────────────── */
+.jogo{margin:1.4em 0}
+.jogo canvas{display:block;width:100%;height:auto;aspect-ratio:16/9;
+  background:#1f1b3a;border:3px solid var(--roxo);border-radius:6px;
+  touch-action:none;-webkit-user-select:none;user-select:none;cursor:pointer}
+.jogo-nota{font-family:var(--util);font-size:12px;color:var(--tinta-3);margin-top:.6em}
+.jogos-lista{list-style:none;padding:0;margin:1.4em 0;display:grid;gap:14px}
+.jogos-lista li{border:1px solid var(--tinta-3);border-left:5px solid var(--roxo);
+  padding:14px 18px;border-radius:4px}
+.jogos-lista a{font-weight:700}

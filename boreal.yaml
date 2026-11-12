@@ -119,9 +119,13 @@ pt:
     termos: termos
     privacidade: privacidade
     cookies: cookies
+    jogos: jogos
+    jogo_thor: jogo-pesca-de-thor
+    jogo_leif: jogo-viagem-de-leif
   interface:
     capa: Capa
     menu_inicio: Histórias
+    menu_jogos: Jogos
     linha_edicao: Edições Duna Press
     sobre: Sobre
     assine: Assinar
@@ -238,9 +242,13 @@ en:
     termos: terms
     privacidade: privacy
     cookies: cookies
+    jogos: games
+    jogo_thor: game-thors-fishing-trip
+    jogo_leif: game-leifs-voyage
   interface:
     capa: Front page
     menu_inicio: Stories
+    menu_jogos: Games
     linha_edicao: Duna Press Editions
     sobre: About
     assine: Subscribe
