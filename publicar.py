@@ -13,6 +13,7 @@ Automatiza a mecânica da publicação: conversão, capa, páginas de editoria,
 feeds, SEO, verificação de padrão. Não escreve os textos.
 """
 
+import hashlib
 import json
 import os
 import re
@@ -247,6 +248,13 @@ def construir():
         shutil.rmtree(SAIDA)
     SAIDA.mkdir(parents=True)
 
+    # A Cloudflare guarda /estatico/ por um ano (ver _headers). Sem mudar o
+    # endereço do CSS, quem já visitou continua vendo o visual antigo. O hash
+    # do conteúdo vai na URL: mudou o CSS, mudou o endereço, baixa de novo.
+    css_v = hashlib.md5(b"".join(
+        p.read_bytes() for p in sorted((TEMA / "estatico" / "css").glob("*.css"))
+    )).hexdigest()[:8]
+
     todas_urls = []
     total_materias = 0
     mapa = mapa_de_equivalencias(cfg)
@@ -262,6 +270,7 @@ def construir():
 
         base = {
             "site": site,
+            "css_v": css_v,
             "cfg": cfg,
             "medicao": cfg["medicao"],
             "publicidade": cfg["publicidade"],
