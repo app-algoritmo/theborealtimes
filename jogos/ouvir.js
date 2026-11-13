@@ -42,18 +42,29 @@
     btn.setAttribute('aria-pressed', estado === 'tocando' ? 'true' : 'false');
     stop.hidden = estado === 'parado';
   }
+  var refs = [], tempo = 0, relogio = null;
+  function avancar(meu) { if (estado === 'tocando' && meu === i) { i++; falar(); } }
   function falar() {
     if (estado !== 'tocando') return;
-    if (i >= chunks.length) { estado = 'parado'; i = 0; rotulo(); return; }
+    if (i >= chunks.length) { estado = 'parado'; i = 0; clearInterval(relogio); rotulo(); return; }
     var u = new SpeechSynthesisUtterance(chunks[i]), meu = i;
     u.lang = lang; if (voz) u.voice = voz; u.rate = 0.95;
-    u.onend = function () { if (estado === 'tocando' && meu === i) { i++; falar(); } };
-    u.onerror = function (e) { if (e && (e.error === 'canceled' || e.error === 'interrupted')) return; estado = 'parado'; rotulo(); };
+    u.onend = function () { avancar(meu); };
+    u.onerror = function (e) { if (e && (e.error === 'canceled' || e.error === 'interrupted')) return; avancar(meu); };
+    refs = [u]; /* mantém a fala viva: alguns navegadores a descartam e nunca avisam o fim */
+    tempo = Date.now();
     S.speak(u);
   }
-  function tocar() { S.cancel(); estado = 'tocando'; rotulo(); falar(); }
-  function pausar() { estado = 'pausado'; S.cancel(); rotulo(); }
-  function parar() { estado = 'parado'; i = 0; S.cancel(); rotulo(); }
+  /* rede de segurança: se o aviso de fim nunca chegar, segue para o próximo trecho */
+  function vigiar() {
+    clearInterval(relogio);
+    relogio = setInterval(function () {
+      if (estado === 'tocando' && !S.speaking && !S.pending && Date.now() - tempo > 800) avancar(i);
+    }, 350);
+  }
+  function tocar() { S.cancel(); estado = 'tocando'; rotulo(); vigiar(); setTimeout(falar, 150); }
+  function pausar() { estado = 'pausado'; clearInterval(relogio); S.cancel(); rotulo(); }
+  function parar() { estado = 'parado'; i = 0; clearInterval(relogio); S.cancel(); rotulo(); }
 
   btn.addEventListener('click', function () {
     if (estado === 'parado') { chunks = montar(); i = 0; escolherVoz(); tocar(); }
