@@ -5,14 +5,15 @@ olho: Game
 atualizado: November 2026
 ---
 
-<div class="jogo"><canvas id="jogo-leif" width="800" height="450" aria-label="Game: Leif's voyage" role="img"></canvas></div>
-<p class="jogo-nota">Computer: up and down arrows, or the mouse. Phone: drag your finger on the screen.</p>
+<div class="jogo"><canvas id="jogo-leif" aria-label="Leif's voyage" role="img"></canvas></div>
+<p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/viagem-de-leif.js?v=1" defer></script>
+<script src="/g/tela.js?v=2" defer></script>
+<script src="/g/viagem-de-leif.js?v=2" defer></script>
 
 ## How to play
 
-Move the ship up and down. Ice and rocks cost one hull point; barrels are supplies, and every five barrels restore one point. There are three legs, with ever rougher seas, until land comes into sight.
+Drag your finger or the mouse (or use the arrow keys) to move the ship. Ice and rocks cost one hull point; barrels are supplies, and every five barrels restore one point. There are three legs, with ever rougher seas, until land comes into sight. On a portrait screen the ship sails up; on a landscape screen, to the right.
 
 ## The story behind it
 

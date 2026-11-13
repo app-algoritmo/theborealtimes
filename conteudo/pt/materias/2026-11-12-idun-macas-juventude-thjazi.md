@@ -45,3 +45,6 @@ A águia não conseguiu parar. As penas de Thjazi se incendiaram, ele caiu, e os
 Idun voltou, as maçãs voltaram, e os deuses recuperaram a juventude. O texto de Snorri não diz de que são feitas as maçãs nem por que só Idun as guarda, e o poema Haustlöng, mais curto, trata do rapto sem a perseguição final.
 
 A morte de Thjazi teve uma consequência, segundo Snorri: a filha dele, a giganta Skaði, foi armada até Asgard para exigir compensação pelo pai.
+
+
+Quer proteger as maçãs? Jogue [Idun e as maçãs](/jogo-idun-e-as-macas/).
