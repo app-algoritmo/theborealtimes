@@ -168,6 +168,19 @@ pt:
     jogo_balanca: jogo-a-balanca-do-mercador
     jogo_nokken: jogo-o-nome-do-nokken
     jogo_gryla: jogo-os-treze-jolasveinar
+    jogo_mimir: jogo-o-poco-de-mimir
+    jogo_skadi: jogo-escolha-pelos-pes
+    jogo_utgard: jogo-os-desafios-de-utgarda-loki
+    jogo_gudrun: jogo-os-sonhos-de-gudrun
+    jogo_hraf: jogo-o-cavalo-de-freyr
+    jogo_svo: jogo-a-batalha-de-svolder
+    jogo_trel: jogo-construir-trelleborg
+    jogo_rok: jogo-decifrar-a-pedra-de-rok
+    jogo_alt: jogo-o-recitador-da-lei
+    jogo_mal: jogo-a-calcada-de-maldon
+    jogo_soria: jogo-rumo-a-soria-moria
+    jogo_lag: jogo-a-serpente-do-lagarfljot
+    jogo_huldu: jogo-desvie-a-estrada
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -379,6 +392,19 @@ en:
     jogo_balanca: game-the-merchants-scales
     jogo_nokken: game-the-nokkens-name
     jogo_gryla: game-the-thirteen-yule-lads
+    jogo_mimir: game-mimirs-well
+    jogo_skadi: game-choose-by-the-feet
+    jogo_utgard: game-utgarda-lokis-challenges
+    jogo_gudrun: game-gudruns-dreams
+    jogo_hraf: game-freyrs-horse
+    jogo_svo: game-the-battle-of-svolder
+    jogo_trel: game-build-trelleborg
+    jogo_rok: game-decode-the-rok-stone
+    jogo_alt: game-the-lawspeaker
+    jogo_mal: game-the-maldon-causeway
+    jogo_soria: game-to-soria-moria
+    jogo_lag: game-the-lagarfljot-worm
+    jogo_huldu: game-reroute-the-road
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -590,6 +616,19 @@ en:
     jogo_balanca: spill-kjopmannens-vekt
     jogo_nokken: spill-nokkens-navn
     jogo_gryla: spill-de-tretten-julegutter
+    jogo_mimir: spill-mimirs-bronn
+    jogo_skadi: spill-velg-etter-fottene
+    jogo_utgard: spill-utgarda-lokes-prover
+    jogo_gudrun: spill-gudruns-drommer
+    jogo_hraf: spill-freyrs-hest
+    jogo_svo: spill-slaget-ved-svolder
+    jogo_trel: spill-bygg-trelleborg
+    jogo_rok: spill-tyd-rokstenen
+    jogo_alt: spill-lovsigemannen
+    jogo_mal: spill-gangveien-ved-maldon
+    jogo_soria: spill-mot-soria-moria
+    jogo_lag: spill-lagarfljot-ormen
+    jogo_huldu: spill-led-veien-utenom
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
