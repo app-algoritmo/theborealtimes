@@ -1,76 +1,133 @@
 {% extends "base.html" %}
 {% block conteudo %}
-<div class="env">
+{% set cores = ['mitos','sagas','viking','contos'] %}
+{% set runas = ['ᚨ','ᛟ','ᚦ','ᚠ'] %}
+{% macro mini(url) %}{{ url|replace('/img/materias/', '/img/materias/mini/') }}{% endmacro %}
 
 {% if manchete %}
-<section class="capa">
-  <div class="col">
-    <div class="rotulo">{{ ui.ultimas }}</div>
-    {% for e in recentes %}
-    <article class="ultima">
-      <span class="hora">{{ e.data_curta }}</span>
-      <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
-    </article>
-    {% endfor %}
-  </div>
-  <div class="risco"></div>
+<link rel="stylesheet" href="/g/portal.css?v=1">
+<noscript><style>.pt-rev{opacity:1!important;transform:none!important}.pt-fato:first-child{opacity:1}</style></noscript>
+<div class="pt" id="pt">
 
-  <div class="col">
-    <article class="chamada manchete">
-      {% if manchete.imagem %}
-      <figure>
-        <img src="{{ manchete.imagem }}" alt="{{ manchete.imagem_alt }}" width="1200" height="675">
-        {% if manchete.imagem_credito %}<figcaption class="legenda">{{ manchete.imagem_credito }}</figcaption>{% endif %}
-      </figure>
-      {% endif %}
-      <span class="chapeu">{{ manchete.secao }} · {{ manchete.natureza }}</span>
-      <h2 class="titulo"><a href="{{ manchete.url }}">{{ manchete.titulo }}</a></h2>
-      <p class="olho">{{ manchete.resumo }}</p>
-      <p class="credito">{{ manchete.data_curta }}</p>
+<section class="pt-hero" id="pt-hero">
+  <div class="pt-foto" aria-hidden="true">
+    {% if manchete.imagem %}<img src="{{ manchete.imagem }}" alt="" width="1200" height="675" fetchpriority="high">{% endif %}
+  </div>
+  <div class="pt-veu" aria-hidden="true"></div>
+  <div class="pt-aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+  <canvas class="pt-neve" aria-hidden="true"></canvas>
+
+  <div class="pt-env pt-hero-grade">
+    <aside class="pt-tambem" aria-label="{{ ui.ultimas }}">
+      <p class="pt-rotulo"><span aria-hidden="true">ᚱ</span> {{ ui.ultimas }}</p>
+      <ol>
+        {% for e in recentes %}
+        <li><a href="{{ e.url }}"><span class="pt-ni" aria-hidden="true">{{ runas[loop.index0 % 4] }}</span><span>{{ e.titulo }}</span></a></li>
+        {% endfor %}
+      </ol>
+    </aside>
+
+    <article class="pt-manchete">
+      <p class="pt-chapeu"><span class="pt-ponto"></span>{{ manchete.secao }} · {{ manchete.natureza }}</p>
+      <h2 class="pt-titulo"><a href="{{ manchete.url }}">{{ manchete.titulo }}</a></h2>
+      <p class="pt-resumo">{{ manchete.resumo }}</p>
+      <div class="pt-cta">
+        <a class="pt-btn pt-btn-a" href="{{ manchete.url }}">{{ ui.ler_historia }} <i aria-hidden="true">→</i></a>
+        <a class="pt-btn pt-btn-b" href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/">🎮 {{ ui.jogar_sagas }}</a>
+        <button type="button" class="pt-btn pt-btn-c" id="pt-surpresa" data-urls='{{ urls_historias|tojson }}'><span class="pt-dado" aria-hidden="true">🎲</span> {{ ui.surpreenda }}</button>
+      </div>
+      {% if manchete.imagem_credito %}<p class="pt-credito">{{ manchete.imagem_credito }}</p>{% endif %}
     </article>
   </div>
-  <div class="risco"></div>
 
-  <div class="col">
-    {% for e in laterais %}
-    <article class="chamada sec">
-      {% if e.imagem %}<img src="{{ e.imagem }}" alt="{{ e.imagem_alt }}" width="600" height="400">{% endif %}
-      <span class="chapeu">{{ e.secao }} · {{ e.natureza }}</span>
-      <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
-      <p class="credito">{{ e.data_curta }}</p>
-    </article>
-    {% endfor %}
+  <a class="pt-rola" href="#pt-reinos" aria-label="{{ ui.reinos_titulo }}"><i></i></a>
+</section>
+
+{% if curiosidades %}
+<section class="pt-sabia" aria-live="polite">
+  <div class="pt-env pt-sabia-in">
+    <span class="pt-sabia-r">ᛉ {{ ui.sabia }}</span>
+    <div class="pt-sabia-lista">
+      {% for c in curiosidades %}<a class="pt-fato{{ ' pt-fato-on' if loop.first }}" href="{{ c.url }}"><span>{{ c.texto }}</span><b>{{ ui.leia }} →</b></a>{% endfor %}
+    </div>
   </div>
 </section>
+{% endif %}
+
+<section class="pt-corpo">
+  <div class="pt-env">
+
+    <div class="pt-cab" id="pt-reinos">
+      <h2>{{ ui.reinos_titulo }}</h2>
+      <p>{{ ui.reinos_sub }}</p>
+    </div>
+    <div class="pt-reinos">
+      {% for b in blocos %}{% set cor = cores[loop.index0 % 4] %}
+      <a class="pt-reino pt-c-{{ cor }} pt-rev" href="{{ idioma.prefixo }}/{{ b.slug }}/" style="--i:{{ loop.index0 }}">
+        <span class="pt-reino-r" aria-hidden="true">{{ runas[loop.index0 % 4] }}</span>
+        <span class="pt-reino-n">{{ b.total }} {{ ui.n_historias }}</span>
+        <b>{{ b.nome }}</b>
+        <span class="pt-reino-s">{{ ui.entrar }} →</span>
+      </a>
+      {% endfor %}
+    </div>
+
+    {% for b in blocos %}{% set cor = cores[loop.index0 % 4] %}
+    {% if b.edicoes %}
+    <section class="pt-prat pt-c-{{ cor }}">
+      <div class="pt-prat-cab">
+        <h2><span aria-hidden="true">{{ runas[loop.index0 % 4] }}</span> {{ b.nome }}</h2>
+        <a href="{{ idioma.prefixo }}/{{ b.slug }}/">{{ ui.ver_tudo }} →</a>
+      </div>
+      <div class="pt-cards">
+        {% for e in b.edicoes %}
+        <a class="pt-card pt-rev" href="{{ e.url }}" style="--i:{{ loop.index0 }}">
+          <span class="pt-card-img">{% if e.imagem %}<img src="{{ mini(e.imagem) }}" alt="{{ e.imagem_alt }}" width="640" height="360" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='{{ e.imagem }}'">{% endif %}</span>
+          <span class="pt-card-corpo">
+            <span class="pt-card-tag">{{ e.natureza }}</span>
+            <b class="pt-card-tit">{{ e.titulo }}</b>
+            <span class="pt-card-res">{{ e.resumo }}</span>
+            <span class="pt-card-ler">{{ ui.leia }} <i aria-hidden="true">→</i></span>
+          </span>
+        </a>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+    {% endfor %}
+
+    <section class="pt-arcade pt-rev">
+      <div class="pt-arcade-txt">
+        <p class="pt-arcade-r" aria-hidden="true">ᚠ ᚢ ᚦ ᚨ ᚱ ᚲ</p>
+        <h2>{{ ui.jogos_titulo }}</h2>
+        <p>{{ ui.jogos_texto }}</p>
+        <a class="pt-btn pt-btn-a" href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/">🎮 {{ ui.jogos_botao }} <i aria-hidden="true">→</i></a>
+        <p class="pt-arcade-n"><b>{{ n_jogos }}</b> {{ ui.jogos_n }}</p>
+      </div>
+      <div class="pt-arcade-col" aria-hidden="true">
+        {% for c in cards[:3] %}
+        <span class="pt-mini pt-c-{{ c.cor }}" style="--k:{{ loop.index0 }}"><img src="/estatico/img/materias/mini/{{ c.imagem }}.webp" alt="" width="640" height="360" loading="lazy" decoding="async"><em>{{ c.titulo }}</em></span>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="pt-assine pt-rev">
+      <h2>{{ ui.assine_titulo }}</h2>
+      <p>{{ ui.assine_texto }}</p>
+      <a class="pt-btn pt-btn-c" href="{{ idioma.prefixo }}/{{ t.paginas.assinatura }}/">{{ ui.assine_botao }}</a>
+    </section>
+
+  </div>
+</section>
+</div>
+<script src="/g/portal.js?v=1" defer></script>
+
 {% else %}
+<div class="env">
 <section style="padding:48px 0 10px;max-width:760px">
   <h2 class="titulo" style="font-size:clamp(30px,4.2vw,50px);font-weight:700;letter-spacing:-.026em">{{ manifesto.titulo }}</h2>
   <p class="olho" style="font-size:19px;margin-top:14px">{{ manifesto.chamada }}</p>
 </section>
-{% endif %}
-
-{% for bloco in blocos %}
-<section class="faixa">
-  <div class="faixa-cab">
-    <h2>{{ bloco.nome }}</h2>
-    <a class="tudo" href="{{ idioma.prefixo }}/{{ bloco.slug }}/">{{ ui.ver_tudo }} →</a>
-  </div>
-  {% if bloco.edicoes %}
-  <div class="quatro">
-    {% for e in bloco.edicoes %}
-    <article class="chamada">
-      {% if e.imagem %}<img src="{{ e.imagem }}" alt="{{ e.imagem_alt }}" width="600" height="400">{% endif %}
-      <h3 class="titulo"><a href="{{ e.url }}">{{ e.titulo }}</a></h3>
-      <p class="olho">{{ e.resumo }}</p>
-      <p class="credito">{{ e.data_curta }}</p>
-    </article>
-    {% endfor %}
-  </div>
-  {% else %}
-  <p class="olho">{{ bloco.descricao }}</p>
-  {% endif %}
-</section>
-{% endfor %}
-
 </div>
+{% endif %}
 {% endblock %}

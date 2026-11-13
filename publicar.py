@@ -335,18 +335,39 @@ def construir():
 
         lista = [m for m, _ in materias]
 
+        # Vitrine de jogos: toda página com `card:` no cabeçalho vira um cartão.
+        # Um jogo novo entra na vitrine só por existir a página dele.
+        cards = []
+        for arq_pag in sorted(pasta.glob("paginas/*.md")):
+            m_pag, _ = ler_markdown(arq_pag)
+            c = m_pag.get("card")
+            if c:
+                desc = re.sub(r"^(Jogo|Game):\s*", "", str(m_pag.get("resumo", "")))
+                cards.append(dict(c, url=f"{pref}/{arq_pag.stem}/",
+                                  titulo=m_pag.get("titulo", ""),
+                                  desc=desc[:1].upper() + desc[1:]))
+        cards.sort(key=lambda c: c.get("ordem", 99))
+        reinos = []
+        for cor in ("mitos", "sagas", "viking", "contos"):
+            do_reino = [c for c in cards if c.get("cor") == cor]
+            if do_reino:
+                reinos.append(dict(cor=cor, nome=do_reino[0]["secao"], n=len(do_reino)))
         # ---- capa
         blocos = []
         for s in secoes:
             do_bloco = [m for m in lista if m.get("secao") == s["nome"]][:POR_BLOCO]
-            blocos.append(dict(s, edicoes=do_bloco))
+            blocos.append(dict(s, edicoes=do_bloco,
+                               total=len([m for m in lista if m.get("secao") == s["nome"]])))
 
         capa_ctx = dict(base,
                         pagina={"url": f"{pref}/"},
                         numero_edicao=len(lista) if lista else None,
                         manchete=lista[0] if lista else None,
                         laterais=lista[1:4],
-                        recentes=lista[4:11],
+                        recentes=lista[1:6],
+                        urls_historias=[m["url"] for m in lista],
+                        curiosidades=t.get("curiosidades", []),
+                        cards=cards, n_jogos=len(cards),
                         alternativas=alternativas_de(mapa, "capa", cfg, curto),
                         blocos=blocos)
         escrever(raiz_saida / "index.html",
@@ -383,23 +404,6 @@ def construir():
         # como a mesma página.
         chave_da_pagina = {apelido: chave
                            for chave, apelido in t["paginas"].items()}
-        # Vitrine de jogos: toda página com `card:` no cabeçalho vira um cartão.
-        # Um jogo novo entra na vitrine só por existir a página dele.
-        cards = []
-        for arq_pag in sorted(pasta.glob("paginas/*.md")):
-            m_pag, _ = ler_markdown(arq_pag)
-            c = m_pag.get("card")
-            if c:
-                desc = re.sub(r"^(Jogo|Game):\s*", "", str(m_pag.get("resumo", "")))
-                cards.append(dict(c, url=f"{pref}/{arq_pag.stem}/",
-                                  titulo=m_pag.get("titulo", ""),
-                                  desc=desc[:1].upper() + desc[1:]))
-        cards.sort(key=lambda c: c.get("ordem", 99))
-        reinos = []
-        for cor in ("mitos", "sagas", "viking", "contos"):
-            do_reino = [c for c in cards if c.get("cor") == cor]
-            if do_reino:
-                reinos.append(dict(cor=cor, nome=do_reino[0]["secao"], n=len(do_reino)))
         for arquivo in sorted(pasta.glob("paginas/*.md")):
             meta, html = ler_markdown(arquivo)
             slug = arquivo.stem
