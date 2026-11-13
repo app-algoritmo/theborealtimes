@@ -374,7 +374,7 @@ def construir():
             blocos.append(dict(s, edicoes=do_bloco,
                                total=len([m for m in lista if m.get("secao") == s["nome"]])))
 
-        capa_ctx = dict(base,
+        capa_ctx = dict(base, imgs_reino={c: img_reino(c) for c in ("mitos", "sagas", "viking", "contos")},
                         pagina={"url": f"{pref}/"},
                         numero_edicao=len(lista) if lista else None,
                         manchete=lista[0] if lista else None,
@@ -394,11 +394,10 @@ def construir():
         for n, s in enumerate(secoes):
             da_secao = [m for m in lista if m.get("secao") == s["nome"]]
             cor = cores_reino[n % 4]
-            arq_heroi = RAIZ / f"temas/boreal/estatico/img/materias/reino-{cor}.webp"
             reino = dict(
                 cor=cor, lema=s.get("lema", ""), intro=s.get("intro", s["descricao"]),
                 n_hist=len(da_secao),
-                heroi=f"/estatico/img/materias/reino-{cor}.webp" if arq_heroi.exists() else "",
+                heroi=img_reino(cor),
                 jogos=[c for c in cards if c.get("cor") == cor],
                 outros=[dict(nome=o["nome"], slug=o["slug"], cor=cores_reino[k % 4],
                              n_hist=len([m for m in lista if m.get("secao") == o["nome"]]))
@@ -746,6 +745,14 @@ tags: []
 IMG_LARGURA = 1200
 IMG_ALTURA = 675
 IMG_PESO_ALVO = 100 * 1024
+def img_reino(cor):
+    """Imagem do reino: aceita reino-<cor>.webp ou reino-<cor>s.webp (plural)."""
+    for nome in (f"reino-{cor}.webp", f"reino-{cor}s.webp"):
+        if (RAIZ / "temas/boreal/estatico/img/materias" / nome).exists():
+            return f"/estatico/img/materias/{nome}"
+    return ""
+
+
 IMG_DESTINO = TEMA / "estatico" / "img" / "materias"
 
 

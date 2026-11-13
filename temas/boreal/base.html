@@ -104,10 +104,14 @@
   </div>
 </div></header>
 
+{% set nav_cores = ['mitos','sagas','viking','contos'] %}
+{% set nav_url = pagina.url|default('') %}
+{% set nav_sec = pagina.secao|default('') %}
+{% set nav_jogo = (pagina.olho|default('')) in ['Jogo','Game','Spill'] %}
 <nav class="nav"><div class="env">
-  <a href="{{ idioma.prefixo }}/">{{ ui.menu_inicio }}</a>
-  <a href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/">{{ ui.menu_jogos }}</a>
-  {% for s in secoes %}<a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a>{% endfor %}
+  <a href="{{ idioma.prefixo }}/"{% if nav_url == idioma.prefixo ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_inicio }}</a>
+  <a href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/" class="nav-jogos"{% if nav_jogo or nav_url == idioma.prefixo ~ '/' ~ t.paginas.jogos ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_jogos }}</a>
+  {% for s in secoes %}<a href="{{ idioma.prefixo }}/{{ s.slug }}/" class="nav-{{ nav_cores[loop.index0 % 4] }}"{% if nav_url == idioma.prefixo ~ '/' ~ s.slug ~ '/' or nav_sec == s.nome %} aria-current="page"{% endif %}>{{ s.nome }}</a>{% endfor %}
 </div></nav>
 
 <main>

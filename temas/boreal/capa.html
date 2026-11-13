@@ -5,7 +5,7 @@
 {% macro mini(url) %}{{ url|replace('/img/materias/', '/img/materias/mini/') }}{% endmacro %}
 
 {% if manchete %}
-<link rel="stylesheet" href="/g/portal.css?v=1">
+<link rel="stylesheet" href="/g/portal.css?v=2">
 <noscript><style>.pt-rev{opacity:1!important;transform:none!important}.pt-fato:first-child{opacity:1}</style></noscript>
 <div class="pt" id="pt">
 
@@ -63,7 +63,7 @@
     </div>
     <div class="pt-reinos">
       {% for b in blocos %}{% set cor = cores[loop.index0 % 4] %}
-      <a class="pt-reino pt-c-{{ cor }} pt-rev" href="{{ idioma.prefixo }}/{{ b.slug }}/" style="--i:{{ loop.index0 }}">
+      <a class="pt-reino pt-c-{{ cor }} pt-rev" href="{{ idioma.prefixo }}/{{ b.slug }}/" style="--i:{{ loop.index0 }}{% if imgs_reino[cor] %};--img:url({{ imgs_reino[cor] }}){% endif %}">
         <span class="pt-reino-r" aria-hidden="true">{{ runas[loop.index0 % 4] }}</span>
         <span class="pt-reino-n">{{ b.total }} {{ ui.n_historias }}</span>
         <b>{{ b.nome }}</b>
