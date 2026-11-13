@@ -14,6 +14,11 @@ Cada jogo daqui nasce de uma história publicada no site. Abrem em tela cheia no
 <li><a href="/jogo-tres-bodes-bruse/">Os três bodes Bruse</a><br>corra pela ponte com os três bodes, pule os buracos e as mãos do troll e chegue à pastagem.</li>
 <li><a href="/jogo-nisse-do-celeiro/">O nisse do celeiro</a><br>seja o nisse do celeiro e cuide dos animais durante a noite de inverno, até a menina trazer o mingau ao amanhecer.</li>
 <li><a href="/jogo-voo-de-huginn/">O voo de Huginn</a><br>bata as asas com o corvo Huginn, passe entre os galhos da Árvore do Mundo e leve as notícias a Odin.</li>
+<li><a href="/jogo-gleipnir-prende-o-lobo/">Gleipnir, a fita impossível</a><br>junte as seis coisas que não existem para os anões fazerem Gleipnir e depois segure a fita no ponto certo para prender o lobo Fenrir.</li>
+<li><a href="/jogo-pente-de-rognvald/">O pente de Rögnvald</a><br>desembarace o cabelo de Harald passando o dedo sobre os nós, como na cena em que Rögnvald o penteia depois de Hafrsfjord.</li>
+<li><a href="/jogo-noite-de-egil/">A noite de Egil</a><br>toque nas palavras que começam com a letra do verso e componha seis versos antes do amanhecer, como Egil fez para salvar a cabeça.</li>
+<li><a href="/jogo-escavacao-em-gjermundbu/">Escavação em Gjermundbu</a><br>limpe a terra de um túmulo viking e descubra o capacete de ferro de Gjermundbu, sem chifres.</li>
+<li><a href="/jogo-casco-de-oseberg/">O casco de Oseberg</a><br>solte as tábuas de carvalho no momento certo e monte o casco de um navio viking, como nos navios de Oseberg e Gokstad.</li>
 </ul>
 
 Os jogos são uma diversão inspirada nas histórias. Quando um deles muda algo do que as fontes contam, a página do jogo diz como foi de fato.

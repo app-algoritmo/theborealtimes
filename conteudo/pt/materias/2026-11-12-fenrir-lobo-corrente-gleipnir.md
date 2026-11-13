@@ -49,3 +49,5 @@ Há quem leia a cena como uma história sobre juramento e traição: os deuses v
 Com Fenrir imobilizado, os deuses prenderam a fita a uma grande rocha, enterrada bem fundo no chão, e enfiaram uma espada na boca do lobo, com o cabo apoiado na mandíbula de baixo e a ponta no céu da boca. A baba que escorreu formou um rio, chamado Ván. Fenrir ficaria ali até o Ragnarök, o fim do mundo.
 
 Quando chegar esse dia, segundo Snorri e a Völuspá, ele se soltará e matará Odin. Quem o vingará é Víðarr, filho de Odin: na versão de Snorri, ele rasga as mandíbulas do lobo; na Völuspá, enfia a espada em seu coração.
+
+Para tentar prender o lobo você mesmo, jogue [Gleipnir, a fita impossível](/jogo-gleipnir-prende-o-lobo/).

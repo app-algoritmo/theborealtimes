@@ -40,3 +40,5 @@ Também é discutido o alcance real do poder de Harald. As sagas dizem que muito
 ## Espadas na rocha
 
 Em Hafrsfjord existe hoje um monumento de 1983, do escultor Fritz Røed, chamado Sverd i fjell, "Espadas na Rocha". São três espadas de bronze, com cerca de dez metros, cravadas na pedra à beira do fiorde. A maior, segundo a explicação oficial do monumento, representa Harald, e as duas menores os reis derrotados.
+
+Para ajudar Rögnvald com o pente, jogue [O pente de Rögnvald](/jogo-pente-de-rognvald/).

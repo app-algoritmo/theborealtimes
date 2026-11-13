@@ -126,6 +126,11 @@ pt:
     jogo_bodes: jogo-tres-bodes-bruse
     jogo_nisse: jogo-nisse-do-celeiro
     jogo_huginn: jogo-voo-de-huginn
+    jogo_fenrir: jogo-gleipnir-prende-o-lobo
+    jogo_harald: jogo-pente-de-rognvald
+    jogo_egil: jogo-noite-de-egil
+    jogo_capacete: jogo-escavacao-em-gjermundbu
+    jogo_oseberg: jogo-casco-de-oseberg
   interface:
     capa: Capa
     menu_inicio: Histórias
@@ -253,6 +258,11 @@ en:
     jogo_bodes: game-three-billy-goats
     jogo_nisse: game-barn-nisse
     jogo_huginn: game-flight-of-huginn
+    jogo_fenrir: game-gleipnir-binds-the-wolf
+    jogo_harald: game-rognvalds-comb
+    jogo_egil: game-egils-night
+    jogo_capacete: game-digging-at-gjermundbu
+    jogo_oseberg: game-oseberg-hull
   interface:
     capa: Front page
     menu_inicio: Stories
