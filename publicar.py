@@ -343,7 +343,7 @@ def construir():
                                                     cfg, curto),
                        jsonld=json.dumps(jsonld_materia(cfg, idioma, meta),
                                          ensure_ascii=False, indent=2))
-            escrever(raiz_saida / meta["url"].replace(pref, "").strip("/") / "index.html",
+            escrever(raiz_saida / (meta["url"][len(pref):] if pref and meta["url"].startswith(pref) else meta["url"]).strip("/") / "index.html",
                      env.get_template("edicao.html").render(**ctx))
             todas_urls.append(meta["url"])
             numero -= 1
