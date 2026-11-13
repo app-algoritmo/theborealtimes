@@ -17,4 +17,4 @@ Tap the screen (or press space) to flap. Fly between the branches without touchi
 
 ## The story behind it
 
-Odin has two ravens, Huginn ("thought") and Muninn ("memory"), who fly across the world every day and come back with news; the poem Grímnismál, in the Poetic Edda, mentions them. The branches in the game are made up. The story of Odin and the runes is on the Portuguese edition of the site.
+Odin has two ravens, Huginn ("thought") and Muninn ("memory"), who fly across the world every day and come back with news; the poem Grímnismál, in the Poetic Edda, mentions them. The branches in the game are made up. Read the story of Odin and the runes in [Odin hangs for nine nights on a tree to win the runes](/en/2026/11/12/odin-arvore-mundo-runas/).

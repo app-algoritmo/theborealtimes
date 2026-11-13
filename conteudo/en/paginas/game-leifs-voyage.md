@@ -17,4 +17,4 @@ Drag your finger or the mouse (or use the arrow keys) to move the ship. Ice and 
 
 ## The story behind it
 
-The Icelandic sagas say that Leif Eriksson, sailing from Greenland, found three lands: Helluland, the "land of flat stones", Markland, the "land of forests", and Vinland. The route, the ice and the barrels in the game are made up for play. The full story, in Portuguese, is on the site: what the sagas tell and what archaeology shows.
+The Icelandic sagas say that Leif Eriksson, sailing from Greenland, found three lands: Helluland, the "land of flat stones", Markland, the "land of forests", and Vinland. The route, the ice and the barrels in the game are made up for play. Read what the sagas tell and what archaeology shows in [Leif Eriksson and Vinland: what the sagas tell and what archaeology shows](/en/2026/11/12/leif-eriksson-vinlandia-sagas-arqueologia/).

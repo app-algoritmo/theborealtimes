@@ -20,7 +20,7 @@ Dois dos navios vikings mais bem preservados do mundo foram encontrados na Norue
 
 Os vikings de alto status às vezes eram sepultados dentro de navios, cobertos por um monte de terra. A argila azulada do solo da região protegeu a madeira por mais de mil anos, e por isso os barcos sobreviveram quase inteiros.
 
-O navio de Gokstad tem cerca de 23 metros de comprimento e foi construído de carvalho. Tinha 16 remos de cada lado e uma vela, e podia navegar em mar aberto. Em 1893, uma réplica, chamada Viking, atravessou o Atlântico até Chicago,, para a Exposição Colombiana.
+O navio de Gokstad tem cerca de 23 metros de comprimento e foi construído de carvalho. Tinha 16 remos de cada lado e uma vela, e podia navegar em mar aberto. Em 1893, uma réplica, chamada Viking, atravessou o Atlântico até Chicago, para a Exposição Colombiana.
 
 O túmulo foi datado por volta do ano 900. Havia nele um homem, cuja identidade não se conhece, enterrado com armas, cavalos, cães e outros objetos. O túmulo já havia sido saqueado em tempos antigos.
 

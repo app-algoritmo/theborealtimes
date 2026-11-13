@@ -17,4 +17,4 @@ Tap the screen (or press space) to jump. Jump the gaps in the bridge and the tro
 
 ## The story behind it
 
-The tale of the Bruse goats was collected by Peter Christen Asbjørnsen and Jørgen Moe in the 19th century. In the original, each goat gets past the troll by cleverness or strength, not by running: the bridge run is made up for the game. The tale is on the Portuguese edition of the site.
+The tale of the Bruse goats was collected by Peter Christen Asbjørnsen and Jørgen Moe in the 19th century. In the original, each goat gets past the troll by cleverness or strength, not by running: the bridge run is made up for the game. Read the tale in [The Three Billy Goats Bruse: the Norwegian tale of the bridge and the troll](/en/2026/11/12/tres-bodes-bruse-ponte-troll/).

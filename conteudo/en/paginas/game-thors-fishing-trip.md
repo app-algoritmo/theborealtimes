@@ -17,4 +17,4 @@ Hold your finger, the mouse or the space bar to reel in: the serpent rises, but 
 
 ## The story behind it
 
-The game is inspired by an episode of Norse myth: Thor goes fishing with the giant Hymir, uses an ox head as bait and hooks Jörmungandr, the serpent that encircles the world. In Snorri Sturluson's version, the giant panics and cuts the line, and the serpent sinks back into the sea. In the game you can win the contest, which does **not** happen in the source. The full story is on the Portuguese edition of the site.
+The game is inspired by an episode of Norse myth: Thor goes fishing with the giant Hymir, uses an ox head as bait and hooks Jörmungandr, the serpent that encircles the world. In Snorri Sturluson's version, the giant panics and cuts the line, and the serpent sinks back into the sea. In the game you can win the contest, which does **not** happen in the source. Read the full account in [Thor hooks the Midgard Serpent, and the giant Hymir cuts the line](/en/2026/11/12/thor-pescaria-serpente-midgard/).
