@@ -19,6 +19,9 @@ Cada jogo daqui nasce de uma história publicada no site. Abrem em tela cheia no
 <li><a href="/jogo-noite-de-egil/">A noite de Egil</a><br>toque nas palavras que começam com a letra do verso e componha seis versos antes do amanhecer, como Egil fez para salvar a cabeça.</li>
 <li><a href="/jogo-escavacao-em-gjermundbu/">Escavação em Gjermundbu</a><br>limpe a terra de um túmulo viking e descubra o capacete de ferro de Gjermundbu, sem chifres.</li>
 <li><a href="/jogo-casco-de-oseberg/">O casco de Oseberg</a><br>solte as tábuas de carvalho no momento certo e monte o casco de um navio viking, como nos navios de Oseberg e Gokstad.</li>
+<li><a href="/jogo-forja-dos-anoes/">A forja dos anões</a><br>observe a ordem das bigornas e repita os golpes dos quatro anões que forjam o colar de Freyja.</li>
+<li><a href="/jogo-lamina-ulfberht/">A lâmina Ulfberht</a><br>bata no ferro quente na hora certa e forje uma espada com a inscrição VLFBERHT.</li>
+<li><a href="/jogo-askeladden-e-o-troll/">Askeladden e o troll</a><br>esconda o mingau num saco sem que o troll perceba, como Askeladden no concurso de comida.</li>
 </ul>
 
 Os jogos são uma diversão inspirada nas histórias. Quando um deles muda algo do que as fontes contam, a página do jogo diz como foi de fato.

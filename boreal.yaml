@@ -131,6 +131,9 @@ pt:
     jogo_egil: jogo-noite-de-egil
     jogo_capacete: jogo-escavacao-em-gjermundbu
     jogo_oseberg: jogo-casco-de-oseberg
+    jogo_freyja: jogo-forja-dos-anoes
+    jogo_ulfberht: jogo-lamina-ulfberht
+    jogo_troll: jogo-askeladden-e-o-troll
   interface:
     capa: Capa
     menu_inicio: Histórias
@@ -263,6 +266,9 @@ en:
     jogo_egil: game-egils-night
     jogo_capacete: game-digging-at-gjermundbu
     jogo_oseberg: game-oseberg-hull
+    jogo_freyja: game-freyjas-forge
+    jogo_ulfberht: game-ulfberht-blade
+    jogo_troll: game-askeladden-and-the-troll
   interface:
     capa: Front page
     menu_inicio: Stories

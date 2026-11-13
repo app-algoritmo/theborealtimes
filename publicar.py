@@ -6,6 +6,7 @@ THE BOREAL TIMES — gerador do site e ferramentas de redação.
     python3 publicar.py construir     gera o site em site/
     python3 publicar.py nova          cria o esqueleto de uma matéria
     python3 publicar.py imagem        prepara a foto: 1200×675 WebP
+    python3 publicar.py imagem-lote   converte uma pasta inteira (nome do arquivo = apelido)
     python3 publicar.py checar        copidesque automático
     python3 publicar.py servir        http://localhost:8000
 
@@ -619,6 +620,10 @@ def checar() -> int:
                     erros.append(f"{nome}: imagem sem 'imagem_credito'")
                 if not meta.get("imagem_alt"):
                     erros.append(f"{nome}: imagem sem 'imagem_alt' (texto alternativo)")
+                arq_img = RAIZ / str(meta["imagem"]).lstrip("/").replace("estatico/", "temas/boreal/estatico/", 1)
+                if not arq_img.exists():
+                    erros.append(f"{nome}: a imagem {meta['imagem']} não existe — "
+                                 f"rode 'python3 publicar.py imagem-lote ~/Downloads/<pasta>'")
                 credito = str(meta.get("imagem_credito", "")).lower()
                 if "artificial" not in credito and "intelligence" not in credito:
                     avisos.append(f"{nome}: o crédito da imagem não diz que é ilustração "
@@ -696,13 +701,40 @@ def preparar_imagem():
         print("Uso: python3 publicar.py imagem <arquivo> <apelido>")
         print("Ex.: python3 publicar.py imagem ~/Downloads/polotno.jpeg starship-florida")
         return 1
+    return _converter(Path(sys.argv[2]).expanduser(), sys.argv[3])
 
-    origem = Path(sys.argv[2]).expanduser()
+
+def imagem_lote():
+    """Converte todas as imagens de uma pasta; o nome do arquivo é o apelido."""
+    if len(sys.argv) < 3:
+        print("Uso: python3 publicar.py imagem-lote <pasta>")
+        print("Cada arquivo deve se chamar <apelido>.jpeg (ou .jpg/.png).")
+        return 1
+    pasta = Path(sys.argv[2]).expanduser()
+    if not pasta.is_dir():
+        print(f"✗ Não encontrei a pasta: {pasta}")
+        return 1
+    arquivos = sorted(p for p in pasta.iterdir()
+                      if p.suffix.lower() in (".jpg", ".jpeg", ".png"))
+    if not arquivos:
+        print(f"✗ Nenhuma imagem em {pasta}")
+        return 1
+    falhas = 0
+    for arq in arquivos:
+        print(f"→ {arq.name}")
+        falhas += 1 if _converter(arq, arq.stem) else 0
+    print()
+    print(f"{len(arquivos) - falhas} convertida(s), {falhas} com problema.")
+    return 1 if falhas else 0
+
+
+def _converter(origem, apelido_bruto):
+    from PIL import Image
     if not origem.exists():
         print(f"✗ Não encontrei: {origem}")
         return 1
 
-    apelido = re.sub(r"[^a-z0-9]+", "-", sys.argv[3].lower()).strip("-")
+    apelido = re.sub(r"[^a-z0-9]+", "-", apelido_bruto.lower()).strip("-")
     if not apelido:
         print("✗ Apelido inválido.")
         return 1
@@ -790,6 +822,8 @@ if __name__ == "__main__":
         nova_materia()
     elif comando == "imagem":
         sys.exit(preparar_imagem())
+    elif comando == "imagem-lote":
+        sys.exit(imagem_lote())
     elif comando == "servir":
         servir()
     else:
