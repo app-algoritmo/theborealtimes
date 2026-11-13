@@ -19,6 +19,9 @@ Every game here comes from a story published on the site. They open fullscreen o
 <li><a href="/en/game-egils-night/">Egil’s night</a><br>tap the words that start with the verse’s letter and compose six verses before dawn, as Egil did to save his head.</li>
 <li><a href="/en/game-digging-at-gjermundbu/">Digging at Gjermundbu</a><br>clear the soil from a Viking grave and uncover the iron Gjermundbu helmet, with no horns.</li>
 <li><a href="/en/game-oseberg-hull/">The Oseberg hull</a><br>drop oak planks at the right moment and build a Viking ship hull, as in the Oseberg and Gokstad ships.</li>
+<li><a href="/en/game-freyjas-forge/">The dwarfs’ forge</a><br>watch the order of the anvils and repeat the strikes of the four dwarfs forging Freyja’s necklace.</li>
+<li><a href="/en/game-ulfberht-blade/">The Ulfberht blade</a><br>strike the hot iron at the right moment and forge a sword bearing the inscription VLFBERHT.</li>
+<li><a href="/en/game-askeladden-and-the-troll/">Askeladden and the troll</a><br>hide porridge in a bag without the troll noticing, like Askeladden in the eating contest.</li>
 </ul>
 
 The games are entertainment inspired by the stories. Where a game changes something the sources tell, the game page explains what is actually recorded.
