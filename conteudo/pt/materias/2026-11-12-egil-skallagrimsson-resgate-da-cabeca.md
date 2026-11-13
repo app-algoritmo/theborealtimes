@@ -28,7 +28,7 @@ Pela narração, Egil tenta fugir, mas é cercado. O rei, pressionado por um ami
 
 A poesia escáldica não era simples. Seguia regras rígidas de métrica, aliteração e rima, e usava metáforas chamadas kenningar, expressões como "cavalo do mar" para dizer navio. Compor um poema assim em horas era um feito de mestre, e a saga o apresenta como prova da genialidade de Egil.
 
-O poema, Höfuðlausn, "o resgate da cabeça", é transmitido dentro da saga. Ele chama o rei de generoso e o compara a um guerreiro invencível. Segundo o texto, o rei ouviu o recitar e deixou o poeta partir.
+O poema, Höfuðlausn, "o resgate da cabeça", é transmitido dentro da saga. Ele chama o rei de generoso e o compara a um guerreiro invencível. Segundo o texto, o rei ouviu o poema e deixou o poeta partir.
 
 ## Entre a história e a lenda
 

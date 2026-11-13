@@ -17,4 +17,4 @@ Tap where you want to go, or use the arrow keys. When an animal shows a bubble a
 
 ## The story behind it
 
-The nisse is a small farm spirit in Scandinavian folklore who looks after the house and the animals and expects a bowl of porridge at Christmas. The story and the game are original, inspired by that tradition. The tale is on the Portuguese edition of the site.
+The nisse is a small farm spirit in Scandinavian folklore who looks after the house and the animals and expects a bowl of porridge at Christmas. The story and the game are original, inspired by that tradition. Read the tale in [The farm nisse and the bowl of porridge on Christmas Eve](/en/2026/11/12/nisse-tigela-de-mingau-natal/).

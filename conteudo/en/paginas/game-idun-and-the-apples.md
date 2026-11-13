@@ -17,4 +17,4 @@ Move your finger or the mouse (or use the arrow keys) to carry the basket from s
 
 ## The story behind it
 
-According to Snorri Sturluson, Idun keeps the apples that keep the gods young. The giant Thjazi, in eagle form, abducts her, and Loki has to bring her back. In the game it is you who protects the apples, which does not happen in the source. The full myth is on the Portuguese edition of the site.
+According to Snorri Sturluson, Idun keeps the apples that keep the gods young. The giant Thjazi, in eagle form, abducts her, and Loki has to bring her back. In the game it is you who protects the apples, which does not happen in the source. Read the full myth in [The gods grow old when the giant Thjazi steals Idun and her apples](/en/2026/11/12/idun-macas-juventude-thjazi/).
