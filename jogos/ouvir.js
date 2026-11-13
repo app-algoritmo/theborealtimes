@@ -6,7 +6,7 @@
   var S = window.speechSynthesis;
   if (!box || !S || typeof SpeechSynthesisUtterance === 'undefined') return;
   var lang = box.getAttribute('data-lang') || 'pt-BR', pref = lang.slice(0, 2).toLowerCase();
-  var btn = box.querySelector('.ouvir-tocar'), stop = box.querySelector('.ouvir-parar');
+  var btn = box.querySelector('.ouvir-tocar'), rot = box.querySelector('.ouvir-rot'), stop = box.querySelector('.ouvir-parar');
   var L = { ouvir: box.getAttribute('data-ouvir'), pausar: box.getAttribute('data-pausar'), continuar: box.getAttribute('data-continuar') };
   var chunks = [], i = 0, estado = 'parado', voz = null;
 
@@ -32,37 +32,39 @@
     for (k = 0; k < v.length; k++) {
       var vl = (v[k].lang || '').replace('_', '-').toLowerCase();
       if (vl.indexOf(pref) !== 0 && !(pref === 'nb' && vl.indexOf('no') === 0)) continue;
-      if (vl === lang.toLowerCase()) { if (!melhor || v[k].localService === false || /natural|premium|enhanced/i.test(v[k].name)) melhor = v[k]; }
+      if (vl === lang.toLowerCase()) { if (!melhor || v[k].localService === false || /natural|online|premium|enhanced/i.test(v[k].name)) melhor = v[k]; }
       else if (!melhor) melhor = v[k];
     }
     voz = melhor;
   }
   function rotulo() {
-    btn.textContent = estado === 'tocando' ? '❚❚ ' + L.pausar : estado === 'pausado' ? '▶ ' + L.continuar : '▶ ' + L.ouvir;
+    rot.textContent = estado === 'tocando' ? L.pausar : estado === 'pausado' ? L.continuar : L.ouvir;
     btn.setAttribute('aria-pressed', estado === 'tocando' ? 'true' : 'false');
     stop.hidden = estado === 'parado';
   }
-  var refs = [], tempo = 0, relogio = null;
-  function avancar(meu) { if (estado === 'tocando' && meu === i) { i++; falar(); } }
-  function falar() {
-    if (estado !== 'tocando') return;
-    if (i >= chunks.length) { estado = 'parado'; i = 0; clearInterval(relogio); rotulo(); return; }
-    var u = new SpeechSynthesisUtterance(chunks[i]), meu = i;
-    u.lang = lang; if (voz) u.voice = voz; u.rate = 0.95;
-    u.onend = function () { avancar(meu); };
-    u.onerror = function (e) { if (e && (e.error === 'canceled' || e.error === 'interrupted')) return; avancar(meu); };
-    refs = [u]; /* mantém a fala viva: alguns navegadores a descartam e nunca avisam o fim */
-    tempo = Date.now();
-    S.speak(u);
+  var refs = [], relogio = null;
+  /* Coloca todos os trechos na fila de uma vez, a partir de `de`. Funciona mesmo quando o
+     navegador (Edge no celular, por exemplo) não avisa o fim de cada fala. */
+  function falar(de) {
+    refs = [];
+    for (var k = de; k < chunks.length; k++) (function (n) {
+      var u = new SpeechSynthesisUtterance(chunks[n]);
+      u.lang = lang; if (voz) u.voice = voz; u.rate = 0.95;
+      u.onstart = function () { if (estado === 'tocando') i = n; };
+      u.onend = function () { if (estado === 'tocando' && n === chunks.length - 1) { estado = 'parado'; i = 0; clearInterval(relogio); rotulo(); } };
+      u.onerror = function (e) { if (e && (e.error === 'canceled' || e.error === 'interrupted')) return; };
+      refs.push(u); S.speak(u);
+    })(k);
   }
-  /* rede de segurança: se o aviso de fim nunca chegar, segue para o próximo trecho */
+  /* rede de segurança: se o fim da última fala nunca for avisado, encerra quando a fila esvazia */
   function vigiar() {
-    clearInterval(relogio);
+    clearInterval(relogio); var visto = Date.now();
     relogio = setInterval(function () {
-      if (estado === 'tocando' && !S.speaking && !S.pending && Date.now() - tempo > 800) avancar(i);
-    }, 350);
+      if (S.speaking || S.pending) visto = Date.now();
+      else if (estado === 'tocando' && Date.now() - visto > 2500) { estado = 'parado'; i = 0; clearInterval(relogio); rotulo(); }
+    }, 500);
   }
-  function tocar() { S.cancel(); estado = 'tocando'; rotulo(); vigiar(); setTimeout(falar, 150); }
+  function tocar() { S.cancel(); estado = 'tocando'; rotulo(); vigiar(); var de = i; setTimeout(function () { if (estado === 'tocando') falar(de); }, 200); }
   function pausar() { estado = 'pausado'; clearInterval(relogio); S.cancel(); rotulo(); }
   function parar() { estado = 'parado'; i = 0; clearInterval(relogio); S.cancel(); rotulo(); }
 
