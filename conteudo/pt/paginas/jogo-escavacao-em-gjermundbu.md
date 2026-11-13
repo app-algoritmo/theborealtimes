@@ -3,6 +3,13 @@ titulo: "Escavação em Gjermundbu"
 resumo: "Jogo: limpe a terra de um túmulo viking e descubra o capacete de ferro de Gjermundbu, sem chifres."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: capacete-gjermundbu
+  cor: viking
+  secao: "Era Viking"
+  tipo: "⛏️ Escavar"
+  novo: false
+  ordem: 18
 ---
 
 <div class="jogo"><canvas id="jogo-capacete" aria-label="Escavação em Gjermundbu" role="img"></canvas></div>

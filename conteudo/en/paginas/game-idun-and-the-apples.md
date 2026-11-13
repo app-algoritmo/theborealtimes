@@ -3,6 +3,13 @@ titulo: "Idun and the apples"
 resumo: "Game: catch the golden apples of youth before they fall and dodge the eagle, in an adventure inspired by the myth of Idun."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: idun-macas
+  cor: mitos
+  secao: "Myths & Gods"
+  tipo: "🍎 Action"
+  novo: false
+  ordem: 20
 ---
 
 <div class="jogo"><canvas id="jogo-idun" aria-label="Idun and the apples" role="img"></canvas></div>

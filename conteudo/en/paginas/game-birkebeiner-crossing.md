@@ -3,6 +3,13 @@ titulo: "The Birkebeiner crossing"
 resumo: "Game: ski down the mountain with little Prince Haakon, dodging trees and rocks, until you reach safety."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: birkebeiner-haakon
+  cor: sagas
+  secao: "Sagas & Kings"
+  tipo: "⛷️ Skiing"
+  novo: true
+  ordem: 3
 ---
 
 <div class="jogo"><canvas id="jogo-esqui" aria-label="The Birkebeiner crossing" role="img"></canvas></div>

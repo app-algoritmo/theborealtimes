@@ -383,6 +383,23 @@ def construir():
         # como a mesma página.
         chave_da_pagina = {apelido: chave
                            for chave, apelido in t["paginas"].items()}
+        # Vitrine de jogos: toda página com `card:` no cabeçalho vira um cartão.
+        # Um jogo novo entra na vitrine só por existir a página dele.
+        cards = []
+        for arq_pag in sorted(pasta.glob("paginas/*.md")):
+            m_pag, _ = ler_markdown(arq_pag)
+            c = m_pag.get("card")
+            if c:
+                desc = re.sub(r"^(Jogo|Game):\s*", "", str(m_pag.get("resumo", "")))
+                cards.append(dict(c, url=f"{pref}/{arq_pag.stem}/",
+                                  titulo=m_pag.get("titulo", ""),
+                                  desc=desc[:1].upper() + desc[1:]))
+        cards.sort(key=lambda c: c.get("ordem", 99))
+        reinos = []
+        for cor in ("mitos", "sagas", "viking", "contos"):
+            do_reino = [c for c in cards if c.get("cor") == cor]
+            if do_reino:
+                reinos.append(dict(cor=cor, nome=do_reino[0]["secao"], n=len(do_reino)))
         for arquivo in sorted(pasta.glob("paginas/*.md")):
             meta, html = ler_markdown(arquivo)
             slug = arquivo.stem
@@ -395,6 +412,7 @@ def construir():
             meta.setdefault("atualizado", "")
             modelo = meta.get("template", "pagina") + ".html"
             ctx = dict(base, pagina=meta, conteudo_html=html,
+                       cards=cards, reinos=reinos,
                        alternativas=alternativas_de(
                            mapa, f"pagina:{chave}", cfg, curto) if chave else [])
             escrever(raiz_saida / slug / "index.html",
@@ -405,6 +423,17 @@ def construir():
 
     # ---- estáticos e arquivos de raiz
     shutil.copytree(TEMA / "estatico", SAIDA / "estatico")
+    # Miniaturas (640×360) para os cartões da vitrine de jogos: a capa grande
+    # de cada história pesa cerca de 100 KB, e a vitrine mostra dezenas.
+    try:
+        from PIL import Image
+        mini = SAIDA / "estatico" / "img" / "materias" / "mini"
+        mini.mkdir(parents=True, exist_ok=True)
+        for origem_img in (TEMA / "estatico" / "img" / "materias").glob("*.webp"):
+            im = Image.open(origem_img).convert("RGB").resize((640, 360), Image.LANCZOS)
+            im.save(mini / origem_img.name, "WEBP", quality=72, method=6)
+    except ImportError:
+        pass  # sem Pillow a vitrine usa as imagens grandes (onerror no cartão)
     # Os jogos ficam em /g/. Fora de /estatico/ de propósito: o /estatico/ é
     # guardado por um ano, e um jogo corrigido precisa chegar ao leitor.
     if (RAIZ / "jogos").exists():

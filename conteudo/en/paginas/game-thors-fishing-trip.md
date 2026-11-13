@@ -3,6 +3,13 @@ titulo: "Thor's fishing trip"
 resumo: "Game: hold the line, let go when the serpent lunges, and bring Jörmungandr to the surface, as in the story told by Snorri."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: thor-serpente
+  cor: mitos
+  secao: "Myths & Gods"
+  tipo: "⚡ Reflex"
+  novo: false
+  ordem: 10
 ---
 
 <div class="jogo"><canvas id="jogo-thor" aria-label="Thor's fishing trip" role="img"></canvas></div>

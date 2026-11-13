@@ -3,6 +3,13 @@ titulo: "The Three Billy Goats Bruse"
 resumo: "Game: run across the bridge with the three goats, jump the gaps and the troll's hands, and reach the pasture."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: tres-bodes
+  cor: contos
+  secao: "Tales & Folklore"
+  tipo: "🐐 Run"
+  novo: false
+  ordem: 21
 ---
 
 <div class="jogo"><canvas id="jogo-bodes" aria-label="The Three Billy Goats Bruse" role="img"></canvas></div>

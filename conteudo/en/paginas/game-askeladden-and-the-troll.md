@@ -3,6 +3,13 @@ titulo: "Askeladden and the troll"
 resumo: "Game: hide porridge in a bag without the troll noticing, like Askeladden in the eating contest."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: askeladden-troll
+  cor: contos
+  secao: "Tales & Folklore"
+  tipo: "👀 Stealth"
+  novo: false
+  ordem: 14
 ---
 
 <div class="jogo"><canvas id="jogo-troll" aria-label="Askeladden and the troll" role="img"></canvas></div>

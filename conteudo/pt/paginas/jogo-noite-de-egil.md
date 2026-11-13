@@ -3,6 +3,13 @@ titulo: "A noite de Egil"
 resumo: "Jogo: toque nas palavras que começam com a letra do verso e componha seis versos antes do amanhecer, como Egil fez para salvar a cabeça."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: egil-poema
+  cor: sagas
+  secao: "Sagas e Reis"
+  tipo: "📜 Palavras"
+  novo: false
+  ordem: 16
 ---
 
 <div class="jogo"><canvas id="jogo-egil" aria-label="A noite de Egil" role="img"></canvas></div>

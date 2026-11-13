@@ -3,6 +3,13 @@ titulo: "Hnefatafl in miniature"
 resumo: "Game: take the king to one of the board’s corners before the attackers surround him, in a small version of the Viking game."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: hnefatafl-tabuleiro
+  cor: viking
+  secao: "Viking Age"
+  tipo: "♟️ Strategy"
+  novo: true
+  ordem: 2
 ---
 
 <div class="jogo"><canvas id="jogo-tafl" aria-label="Hnefatafl in miniature" role="img"></canvas></div>

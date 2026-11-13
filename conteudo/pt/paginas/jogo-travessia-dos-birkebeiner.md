@@ -3,6 +3,13 @@ titulo: "A travessia dos Birkebeiner"
 resumo: "Jogo: desça a montanha de esqui com o pequeno príncipe Haakon, desviando das árvores e das pedras, até a segurança."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: birkebeiner-haakon
+  cor: sagas
+  secao: "Sagas e Reis"
+  tipo: "⛷️ Esqui"
+  novo: true
+  ordem: 3
 ---
 
 <div class="jogo"><canvas id="jogo-esqui" aria-label="A travessia dos Birkebeiner" role="img"></canvas></div>

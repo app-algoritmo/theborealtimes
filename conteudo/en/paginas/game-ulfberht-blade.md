@@ -3,6 +3,13 @@ titulo: "The Ulfberht blade"
 resumo: "Game: strike the hot iron at the right moment and forge a sword bearing the inscription VLFBERHT."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: espadas-ulfberht
+  cor: viking
+  secao: "Viking Age"
+  tipo: "⚔️ Rhythm"
+  novo: false
+  ordem: 13
 ---
 
 <div class="jogo"><canvas id="jogo-ulfberht" aria-label="The Ulfberht blade" role="img"></canvas></div>

@@ -3,6 +3,13 @@ titulo: "The barn nisse"
 resumo: "Game: be the barn nisse and look after the animals through the winter night, until the girl brings the porridge at dawn."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: nisse-mingau
+  cor: contos
+  secao: "Tales & Folklore"
+  tipo: "🏡 Care"
+  novo: false
+  ordem: 22
 ---
 
 <div class="jogo"><canvas id="jogo-nisse" aria-label="The barn nisse" role="img"></canvas></div>

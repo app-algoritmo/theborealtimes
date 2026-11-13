@@ -3,6 +3,13 @@ titulo: "Idun e as maçãs"
 resumo: "Jogo: pegue as maçãs douradas da juventude antes que caiam e desvie da águia, numa aventura inspirada no mito de Idun."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: idun-macas
+  cor: mitos
+  secao: "Mitos e Deuses"
+  tipo: "🍎 Ação"
+  novo: false
+  ordem: 20
 ---
 
 <div class="jogo"><canvas id="jogo-idun" aria-label="Idun e as maçãs" role="img"></canvas></div>

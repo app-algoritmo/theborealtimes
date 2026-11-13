@@ -3,6 +3,13 @@ titulo: "Digging at Gjermundbu"
 resumo: "Game: clear the soil from a Viking grave and uncover the iron Gjermundbu helmet, with no horns."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: capacete-gjermundbu
+  cor: viking
+  secao: "Viking Age"
+  tipo: "⛏️ Dig"
+  novo: false
+  ordem: 18
 ---
 
 <div class="jogo"><canvas id="jogo-capacete" aria-label="Digging at Gjermundbu" role="img"></canvas></div>

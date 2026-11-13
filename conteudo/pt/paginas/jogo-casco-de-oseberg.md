@@ -3,6 +3,13 @@ titulo: "O casco de Oseberg"
 resumo: "Jogo: solte as tábuas de carvalho no momento certo e monte o casco de um navio viking, como nos navios de Oseberg e Gokstad."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: navios-oseberg
+  cor: viking
+  secao: "Era Viking"
+  tipo: "🪵 Precisão"
+  novo: false
+  ordem: 17
 ---
 
 <div class="jogo"><canvas id="jogo-oseberg" aria-label="O casco de Oseberg" role="img"></canvas></div>

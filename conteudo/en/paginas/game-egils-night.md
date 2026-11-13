@@ -3,6 +3,13 @@ titulo: "Egil’s night"
 resumo: "Game: tap the words that start with the verse’s letter and compose six verses before dawn, as Egil did to save his head."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: egil-poema
+  cor: sagas
+  secao: "Sagas & Kings"
+  tipo: "📜 Words"
+  novo: false
+  ordem: 16
 ---
 
 <div class="jogo"><canvas id="jogo-egil" aria-label="Egil’s night" role="img"></canvas></div>

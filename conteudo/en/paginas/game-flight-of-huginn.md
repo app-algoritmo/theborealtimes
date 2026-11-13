@@ -3,6 +3,13 @@ titulo: "The flight of Huginn"
 resumo: "Game: flap with the raven Huginn, fly between the branches of the World Tree and bring the news to Odin."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: odin-runas
+  cor: mitos
+  secao: "Myths & Gods"
+  tipo: "🪶 Flight"
+  novo: false
+  ordem: 19
 ---
 
 <div class="jogo"><canvas id="jogo-huginn" aria-label="The flight of Huginn" role="img"></canvas></div>

@@ -3,6 +3,13 @@ titulo: "The mill that grinds salt"
 resumo: "Game: turn the magic mill to fill the ship with salt, but let go in time: it is slow to stop and the ship can sink."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: moinho-sal-mar
+  cor: contos
+  secao: "Tales & Folklore"
+  tipo: "🧂 Balance"
+  novo: true
+  ordem: 4
 ---
 
 <div class="jogo"><canvas id="jogo-moinho" aria-label="The mill that grinds salt" role="img"></canvas></div>
