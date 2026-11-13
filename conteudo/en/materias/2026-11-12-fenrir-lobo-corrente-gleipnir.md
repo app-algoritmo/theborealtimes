@@ -49,3 +49,5 @@ Some read the scene as a story about oaths and betrayal: the gods defeat the wol
 With Fenrir immobilized, the gods fastened the ribbon to a great rock, buried deep in the ground, and thrust a sword into the wolf's mouth, with the hilt resting on the lower jaw and the point in the roof of the mouth. The drool that ran out formed a river, called Ván. Fenrir would stay there until Ragnarök, the end of the world.
 
 When that day comes, according to Snorri and the Völuspá, he will break loose and kill Odin. His avenger is Víðarr, Odin's son: in Snorri's version, he tears the wolf's jaws apart; in the Völuspá, he drives his sword into the wolf's heart.
+
+To try binding the wolf yourself, play [Gleipnir, the impossible ribbon](/en/game-gleipnir-binds-the-wolf/).

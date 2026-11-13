@@ -43,3 +43,5 @@ Os achados mostram um conhecimento avançado de construção naval. As pranchas 
 Os dois barcos fazem parte do acervo do Museu dos Navios Vikings, na península de Bygdøy, em Oslo, que reúne também o navio de Tune, outro achado norueguês, além de carroças, trenós e objetos de madeira entalhada retirados dos túmulos. A madeira dos objetos de Oseberg, incluindo um poste com cabeça de animal e trenós decorados, está entre as peças mais conhecidas do museu.
 
 Os achados foram escavados no final do século XIX e no início do XX, e a restauração dos barcos levou anos de trabalho.
+
+Para montar um casco você mesmo, jogue [O casco de Oseberg](/jogo-casco-de-oseberg/).

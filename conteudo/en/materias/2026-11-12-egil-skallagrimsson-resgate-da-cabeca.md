@@ -41,3 +41,5 @@ The saga also preserved another poem by Egil, the Sonatorrek, "the loss of sons"
 The saga does not hide Egil's harsh side. From boyhood he is described as violent, and at the age of seven he is said to have killed another boy in a quarrel over a game. At the same time, the text shows him as a poet capable of moving us, which makes him one of the most complex characters in the Icelandic sagas.
 
 Egil was born in Iceland, according to the saga, and spent much of his life travelling and fighting in Norway, England and the Baltic. This back and forth between the world of the sword and the world of the word is what makes the York story so memorable.
+
+To compose verses of your own, play [Egil’s night](/en/game-egils-night/).

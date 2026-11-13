@@ -14,6 +14,11 @@ Every game here comes from a story published on the site. They open fullscreen o
 <li><a href="/en/game-three-billy-goats/">The Three Billy Goats Bruse</a><br>run across the bridge with the three goats, jump the gaps and the troll's hands, and reach the pasture.</li>
 <li><a href="/en/game-barn-nisse/">The barn nisse</a><br>be the barn nisse and look after the animals through the winter night, until the girl brings the porridge at dawn.</li>
 <li><a href="/en/game-flight-of-huginn/">The flight of Huginn</a><br>flap with the raven Huginn, fly between the branches of the World Tree and bring the news to Odin.</li>
+<li><a href="/en/game-gleipnir-binds-the-wolf/">Gleipnir, the impossible ribbon</a><br>gather the six things that no longer exist so the dwarfs can make Gleipnir, then hold the ribbon at the right tension to bind the wolf Fenrir.</li>
+<li><a href="/en/game-rognvalds-comb/">Rögnvald’s comb</a><br>untangle Harald’s hair by dragging over the knots, as in the scene where Rögnvald combs it after Hafrsfjord.</li>
+<li><a href="/en/game-egils-night/">Egil’s night</a><br>tap the words that start with the verse’s letter and compose six verses before dawn, as Egil did to save his head.</li>
+<li><a href="/en/game-digging-at-gjermundbu/">Digging at Gjermundbu</a><br>clear the soil from a Viking grave and uncover the iron Gjermundbu helmet, with no horns.</li>
+<li><a href="/en/game-oseberg-hull/">The Oseberg hull</a><br>drop oak planks at the right moment and build a Viking ship hull, as in the Oseberg and Gokstad ships.</li>
 </ul>
 
 The games are entertainment inspired by the stories. Where a game changes something the sources tell, the game page explains what is actually recorded.

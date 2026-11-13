@@ -42,3 +42,5 @@ O capacete de Gjermundbu é só um achado. Mas, até agora, nenhum outro dado ar
 As fontes escritas e os achados dão uma imagem mais modesta do que a do cinema. Além de capacetes de ferro, como o de Gjermundbu, o equipamento de proteção incluía escudos redondos de madeira, que eram a defesa principal, e, para os mais ricos, cotas de malha. O túmulo de Gjermundbu continha justamente uma cota de malha, além de armas, o que indica que o morto era um guerreiro de posses.
 
 Muitos combatentes comuns, porém, deviam lutar sem capacete, com gorros de couro ou de lã, que não deixaram vestígios.
+
+Para fazer a escavação você mesmo, jogue [Escavação em Gjermundbu](/jogo-escavacao-em-gjermundbu/).

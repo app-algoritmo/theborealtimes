@@ -43,3 +43,5 @@ The finds show advanced knowledge of shipbuilding. The oak planks overlapped and
 Both boats are part of the collection of the Viking Ship Museum, on the Bygdøy peninsula, in Oslo, which also houses the Tune ship, another Norwegian find, as well as carts, sleds and carved wooden objects taken from the graves. The wooden objects from Oseberg, including a post with an animal head and decorated sleds, are among the museum's best-known pieces.
 
 The finds were excavated in the late 19th and early 20th centuries, and restoring the boats took years of work.
+
+To build a hull yourself, play [The Oseberg hull](/en/game-oseberg-hull/).
