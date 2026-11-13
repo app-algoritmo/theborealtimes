@@ -51,7 +51,7 @@ publicidade:
 assinatura:
   # Endereço do script PHP que grava as inscrições (pasta servidor/ do repositório,
   # enviada por FTP ao Domeneshop). Ver servidor/LEIA-ME.md.
-  endpoint: "https://api.dsnorge.com/boreal/inscrever.php"
+  endpoint: "https://dsnorge.com/boreal/inscrever.php"
 
 # ------------------------------------------------------------
 # Idiomas
@@ -139,6 +139,11 @@ pt:
     jogo_esqui: jogo-travessia-dos-birkebeiner
     jogo_moinho: jogo-moinho-de-sal
     jogo_runas: jogo-gravar-as-runas
+    jogo_frigg: jogo-promessas-de-frigg
+    jogo_cova: jogo-cova-do-dragao
+    jogo_arrasto: jogo-arrastar-o-navio
+    jogo_pedrasol: jogo-pedra-do-sol
+    jogo_violino: jogo-violino-da-cachoeira
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -146,6 +151,9 @@ pt:
     - {texto: "Os deuses prenderam o lobo Fenrir com uma fita feita de seis coisas que não existem.", url: "/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
     - {texto: "Os vikings jogavam hnefatafl, e as regras originais do jogo se perderam.", url: "/2026/11/13/hnefatafl-tabuleiro/"}
     - {texto: "A pedra de Jelling, de cerca de 965, traz o nome da Dinamarca escrito em runas.", url: "/2026/11/13/jelling-harald-runas/"}
+    - {texto: "Na Santa Sofia, em Istambul, há runas gravadas por um nórdico, e uma delas termina com o nome Halfdan.", url: "/2026/11/13/guarda-varegue/"}
+    - {texto: "Uma saga islandesa fala de uma pedra do sol que mostra onde o sol está, mesmo atrás das nuvens.", url: "/2026/11/13/pedra-solar/"}
+    - {texto: "Frigg fez todas as coisas jurarem não ferir Baldr, mas esqueceu um broto de visco.", url: "/2026/11/13/baldr-visco/"}
   interface:
     capa: Capa
     menu_inicio: Histórias
@@ -299,6 +307,11 @@ en:
     jogo_esqui: game-birkebeiner-crossing
     jogo_moinho: game-salt-mill
     jogo_runas: game-carve-the-runes
+    jogo_frigg: game-friggs-oaths
+    jogo_cova: game-the-dragons-pit
+    jogo_arrasto: game-drag-the-ship
+    jogo_pedrasol: game-the-sunstone
+    jogo_violino: game-the-waterfall-fiddle
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -306,6 +319,9 @@ en:
     - {texto: "The gods bound the wolf Fenrir with a ribbon made of six things that do not exist.", url: "/en/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
     - {texto: "The Vikings played hnefatafl, and the original rules of the game were lost.", url: "/en/2026/11/13/hnefatafl-tabuleiro/"}
     - {texto: "The Jelling stone, from around 965, has the name of Denmark written in runes.", url: "/en/2026/11/13/jelling-harald-runas/"}
+    - {texto: "In Hagia Sophia in Istanbul, there are runes carved by a Norseman, and one of them ends with the name Halfdan.", url: "/en/2026/11/13/guarda-varegue/"}
+    - {texto: "An Icelandic saga mentions a sunstone that shows where the sun is, even behind the clouds.", url: "/en/2026/11/13/pedra-solar/"}
+    - {texto: "Frigg made all things swear not to harm Baldr, but forgot a sprout of mistletoe.", url: "/en/2026/11/13/baldr-visco/"}
   interface:
     capa: Front page
     menu_inicio: Stories
