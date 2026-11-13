@@ -17,6 +17,14 @@ BTJogo.registrar({
       v1: 'No horns!',
       v2: 'The Gjermundbu helmet is the only nearly complete Viking helmet found so far: round, iron, with eye protection. It has no horns. The digging in the game is a simplification.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Utgraving ved Gjermundbu',
+      sub: 'I 1943 dukket det opp en jernhjelm i en vikinggrav på Ringerike. Dra fingeren (eller musen) over jorden for å rense den forsiktig.',
+      toque: 'Trykk for å starte', limpo: 'Renset',
+      v1: 'Ingen horn!',
+      v2: 'Gjermundbu-hjelmen er den eneste nesten komplette vikinghjelmen som er funnet så langt: rund, av jern, med øyebeskyttelse. Den har ingen horn. Graveprosessen i spillet er en forenkling.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

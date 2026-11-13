@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'Sword forged!',
       v2: 'About 170 swords from the 9th to 11th centuries bear the name VLFBERHT, and some have exceptional steel. The forging in the game is a simplification.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Ulfberht-bladet',
+      sub: 'Trykk (eller trykk mellomromstasten) når markøren krysser den gylne sonen, med jernet i riktig glød. Åtte gode slag smir sverdet. Tre feil ødelegger bladet.',
+      toque: 'Trykk for å starte', golpes: 'Slag', erros: 'Feil',
+      perdeu: 'Bladet sprakk', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Sverdet er smidd!',
+      v2: 'Omtrent 170 sverd fra 800- til 1000-tallet bærer navnet VLFBERHT, og noen har eksepsjonelt stål. Smiingen i spillet er en forenkling.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

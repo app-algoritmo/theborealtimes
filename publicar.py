@@ -39,6 +39,8 @@ MESES = {
            "agosto", "setembro", "outubro", "novembro", "dezembro"],
     "en": ["January", "February", "March", "April", "May", "June", "July",
            "August", "September", "October", "November", "December"],
+    "no": ["januar", "februar", "mars", "april", "mai", "juni", "juli",
+           "august", "september", "oktober", "november", "desember"],
 }
 
 PROIBIDAS = [
@@ -72,12 +74,16 @@ def romano(n):
 def data_longa(d: date, lang="pt") -> str:
     if lang == "en":
         return f"{MESES['en'][d.month - 1]} {d.day}, {d.year}"
+    if lang == "no":
+        return f"{d.day}. {MESES['no'][d.month - 1]} {d.year}"
     return f"{d.day} de {MESES['pt'][d.month - 1]} de {d.year}"
 
 
 def data_curta(d: date, lang="pt") -> str:
     if lang == "en":
         return f"{d.day} {MESES['en'][d.month - 1][:3]} {d.year}"
+    if lang == "no":
+        return f"{d.day}. {MESES['no'][d.month - 1][:3]} {d.year}"
     return f"{d.day} {MESES['pt'][d.month - 1][:3]} {d.year}"
 
 
@@ -277,7 +283,6 @@ def construir():
         secoes = t["secoes"]
         pasta = CONTEUDO / curto
         raiz_saida = SAIDA / pref.lstrip("/") if pref else SAIDA
-        outro = next(i for i in cfg["idiomas"] if i["curto"] != curto)
 
         base = {
             "site": site,
@@ -287,7 +292,6 @@ def construir():
             "publicidade": cfg["publicidade"],
             "assinatura": cfg["assinatura"],
             "idioma": idioma,
-            "outro_idioma": outro,
             "t": t,
             "ui": t["interface"],
             "secoes": secoes,
@@ -507,7 +511,7 @@ def gerar_404(cfg):
 <meta http-equiv="refresh" content="3;url=/">
 <script>
   // Imediato quando há JavaScript; o meta refresh acima cobre o resto.
-  location.replace(location.pathname.indexOf("/en/") === 0 || location.pathname === "/en" ? "/en/" : "/");
+  var p = location.pathname; location.replace(/^[/]en([/]|$)/.test(p) ? "/en/" : /^[/]no([/]|$)/.test(p) ? "/no/" : "/");
 </script>
 <style>
   body{{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
@@ -521,7 +525,7 @@ def gerar_404(cfg):
 <main>
   <h1>{nome}</h1>
   <p>Esta página mudou de lugar. Levando você à página inicial…</p>
-  <p><a href="/">Ir para a página inicial</a> · <a href="/en/">Go to the front page</a></p>
+  <p><a href="/">Ir para a página inicial</a> · <a href="/en/">Go to the front page</a> · <a href="/no/">Gå til forsiden</a></p>
 </main>
 </body>
 </html>
@@ -680,13 +684,14 @@ def checar() -> int:
                     erros.append(f"{nome}: a imagem {meta['imagem']} não existe — "
                                  f"rode 'python3 publicar.py imagem-lote ~/Downloads/<pasta>'")
                 credito = str(meta.get("imagem_credito", "")).lower()
-                if "artificial" not in credito and "intelligence" not in credito:
+                if not any(w in credito for w in ("artificial", "intelligence", "kunstig")):
                     avisos.append(f"{nome}: o crédito da imagem não diz que é ilustração "
                                   f"de IA — confira se é foto ou obra de domínio público")
 
             palavras = len(corpo.split())
-            if palavras < PALAVRAS_MIN or palavras > PALAVRAS_MAX:
-                avisos.append(f"{nome}: {palavras} palavras (faixa de {PALAVRAS_MIN} a {PALAVRAS_MAX})")
+            minimo = 350 if idioma == "no" else PALAVRAS_MIN  # norueguês é mais compacto
+            if palavras < minimo or palavras > PALAVRAS_MAX:
+                avisos.append(f"{nome}: {palavras} palavras (faixa de {minimo} a {PALAVRAS_MAX})")
 
             for palavra in PROIBIDAS:
                 if re.search(rf"\b{re.escape(palavra)}", corpo, re.IGNORECASE):
@@ -845,7 +850,7 @@ def _converter(origem, apelido_bruto):
 def nova_materia():
     cfg = carregar_config()
     hoje = hoje_na_redacao(cfg)
-    lang = input("Idioma [pt/en]: ").strip() or "pt"
+    lang = input("Idioma [pt/en/no]: ").strip() or "pt"
     nomes = [s["nome"] for s in cfg[lang]["secoes"]]
     secao = input(f"Seção [{'/'.join(nomes)}]: ").strip() or nomes[0]
     nats = [n["nome"] for n in cfg[lang]["naturezas"]]

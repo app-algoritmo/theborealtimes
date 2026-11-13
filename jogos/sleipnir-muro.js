@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'Summer has come!',
       v2: "In Snorri's account, the builder asked for Freyja, the Sun and the Moon as payment, and the gods only agreed if the wall was done in a single winter. Loki, as a mare, lured the horse away, and from that union Sleipnir, Odin's eight-legged horse, was born. The game is a simplification.",
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Muren rundt Asgard',
+      sub: 'Byggmesteren har til første sommerdag på å ferdigstille muren, med hjelp av hesten Svadilfare. Du er Loke, forkledd som hoppe: trykk på hjerteboblene for å distrahere hesten og forsinke arbeidet.',
+      toque: 'Trykk for å starte', muro: 'Mur', dia: 'Dager til sommeren',
+      perdeu: 'Muren ble ferdig', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Sommeren er kommet!',
+      v2: 'I Snorres beretning ba byggmesteren om Frøya, Solen og Månen som betaling, og gudene gikk bare med på det hvis muren var ferdig på én vinter. Loke, som hoppe, lokket hesten bort, og fra den foreningen ble Sleipnir, Odins åttebeinte hest, født. Spillet er en forenkling.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

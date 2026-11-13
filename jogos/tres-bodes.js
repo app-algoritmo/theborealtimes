@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'The great goat threw the troll into the river!',
       v2: 'The three goats reached the pasture and grew fat. In the tale collected by Asbjørnsen and Moe it ends: “Snipp, snapp, snute, så er eventyret ute.” The bridge run is made up for the game.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'De tre bukkene Bruse', sub: 'Trykk (eller mellomrom) for å hoppe. Kryss brua med alle tre bukkene, fra minst til størst.',
+      toque: 'Trykk for å starte', vidas: 'Liv',
+      etapas: ['Den minste bukken', 'Den mellomste bukken', 'Den store bukken Bruse'],
+      perdeu: 'Trollet beholdt brua', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Den store bukken kastet trollet i elva!',
+      v2: 'De tre bukkene nådde setra og ble tjukke. I eventyret samlet av Asbjørnsen og Moe slutter det slik: «Snipp, snapp, snute, så er eventyret ute.» Brueløpet er diktet opp for spillet.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

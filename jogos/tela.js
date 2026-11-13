@@ -7,17 +7,19 @@
    superfície, em retrato ou paisagem, sem faixas. */
 (function () {
   'use strict';
-  var L = (document.documentElement.lang || 'pt').slice(0, 2) === 'en' ? 'en' : 'pt';
+  var l2 = (document.documentElement.lang || 'pt').slice(0, 2).toLowerCase();
+  var L = l2 === 'en' ? 'en' : (l2 === 'nb' || l2 === 'no' || l2 === 'nn') ? 'no' : 'pt';
   var UI = {
     pt: { jogar: '▶ Jogar em tela cheia', sair: 'Sair', pausa: 'Pausar', pausado: 'Pausado', retomar: 'Toque para continuar' },
-    en: { jogar: '▶ Play fullscreen', sair: 'Exit', pausa: 'Pause', pausado: 'Paused', retomar: 'Tap to continue' }
+    en: { jogar: '▶ Play fullscreen', sair: 'Exit', pausa: 'Pause', pausado: 'Paused', retomar: 'Tap to continue' },
+    no: { jogar: '▶ Spill på hel skjerm', sair: 'Avslutt', pausa: 'Pause', pausado: 'På pause', retomar: 'Trykk for å fortsette' }
   }[L];
 
   function registrar(def) {
     var cv = document.getElementById(def.canvas);
     if (!cv || !cv.getContext) return;
     var box = cv.parentNode, g = cv.getContext('2d');
-    var api = { g: g, w: 800, h: 450, u: 1, L: L, T: def.t[L], dpr: 1, clock: 0 };
+    var api = { g: g, w: 800, h: 450, u: 1, L: L, T: def.t[L] || def.t.en, dpr: 1, clock: 0 };
     var jogo = null, ativo = false, fsOk = false, pausado = false;
 
     /* ---------- botões ---------- */

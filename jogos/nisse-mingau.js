@@ -17,6 +17,14 @@ BTJogo.registrar({
       v1: 'Dawn has come!',
       v2: 'The girl arrives at the barn with the bowl of porridge and butter. The nisse gets his reward. This is an original tale, inspired by the Scandinavian nisse tradition.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Fjøsnissen', sub: 'Trykk dit du vil gå (eller bruk piltastene). Når et dyr ber om hjelp, løp til det før tiden går ut. Pass på alle til daggry.',
+      toque: 'Trykk for å starte', cuidados: 'Stell', noite: 'Natt', amanhecer: 'Daggry',
+      perdeu: 'Fjøset ble uten stell', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Det ble dag!',
+      v2: 'Jenta kommer til fjøset med skålen med grøt og smør. Nissen får sin belønning. Dette er et originalt eventyr, inspirert av den skandinaviske nissetradisjonen.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'The dragon has fallen!',
       v2: "In the Völsunga Saga, Sigurd digs a pit on Fafnir's path and wounds him from below, advice he gets from Odin in disguise. The three passes and the time limit for digging are made up for the game.",
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Dragegropen',
+      sub: 'Trykk (eller bruk mellomromstasten) igjen og igjen for å grave gropen før dragen kommer. Når den bleke flekken på buken hans passerer rett over Sigurd, trykker du for å støte til. Dragen passerer tre ganger.',
+      toque: 'Trykk for å starte', cavar: 'Grav! Trykk fort', golpe: 'Trykk for å støte til!', passada: 'Passering',
+      perdeu: 'Dragen slapp unna', p1: 'Gropen var ikke ferdig i tide.', p2: 'Du bommet på alle tre passeringene.', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Dragen har falt!',
+      v2: "I Völsunga saga graver Sigurd en grop på Fåvnes vei og sårer ham nedenfra, et råd han får av Odin i forkledning. De tre passeringene og tidsfristen for graving er diktet opp for spillet.",
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

@@ -17,6 +17,14 @@ BTJogo.registrar({
       v1: 'The gods stay young!',
       v2: 'In the myth, the giant Thjazi, in eagle form, abducts Idun, and Loki brings her back. In the game, you protect the apples yourself.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Idun og eplene', sub: 'Flytt kurven for å fange de gylne eplene før de treffer bakken. Pass på skyggen til ørnen!',
+      toque: 'Trykk for å starte', macas: 'Epler', juv: 'Ungdom',
+      perdeu: 'Gudene ble gamle', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Gudene forblir unge!',
+      v2: 'I myten bortfører jotunen Tjatse, i ørneskikkelse, Idun, og Loke henter henne tilbake. I spillet er det du som beskytter eplene.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

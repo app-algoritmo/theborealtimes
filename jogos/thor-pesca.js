@@ -23,6 +23,17 @@ BTJogo.registrar({
       fim1: 'Thor brought Jörmungandr to the surface.',
       fim2: 'But in Snorri’s telling, Hymir panicked and cut the line: the serpent sank, and the duel was left for Ragnarök.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Tors fisketur',
+      sub: 'Hold for å hale inn. Slipp når slangen kaster seg fram.',
+      toque: 'Trykk for å starte',
+      tensao: 'Line', dist: 'Dyp', aviso: 'Den kommer til å dra! Slipp!', rodada: 'Runde',
+      arrebentou: 'Linen røk', fugiu: 'Slangen sank tilbake til bunnen',
+      de_novo: 'Trykk for å prøve igjen', proxima: 'Runden er vunnet! Trykk for neste',
+      fim1: 'Tor brakte Jormungand opp til overflaten.',
+      fim2: 'Men ifølge Snorre ble Hymir redd og kappet linen: slangen sank, og kampen ble spart til Ragnarok.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

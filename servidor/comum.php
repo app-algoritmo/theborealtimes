@@ -56,4 +56,4 @@ function enviar_email($para, $assunto, $texto, $extra = []) {
   return mail($para, mb_encode_mimeheader($assunto, 'UTF-8'), $texto, implode("\r\n", $cab), '-f' . $c['de_email']);
 }
 
-function limpar_idioma($i) { return $i === 'en' ? 'en' : 'pt'; }
+function limpar_idioma($i) { return in_array($i, ['en', 'no'], true) ? $i : 'pt'; }

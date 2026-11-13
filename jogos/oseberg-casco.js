@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'Hull complete!',
       v2: 'The Oseberg and Gokstad ships were built this way, in oak, with overlapping riveted planks (the “clinker” technique). Stacking with taps in the game is made up.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Osebergskroget',
+      sub: 'Vikingskip hadde skrog av overlappende planker, festet med nagler. Trykk for å slippe hver planke ned på den under. Det som stikker utenfor, kappes av.',
+      toque: 'Trykk for å starte', tab: 'Planker',
+      perdeu: 'Planken falt av', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Skroget er ferdig!',
+      v2: 'Oseberg- og Gokstadskipene ble bygget slik, i eik, med overlappende naglede planker («klinkbygging»). Stablingen med trykk i spillet er diktet opp.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

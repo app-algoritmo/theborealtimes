@@ -23,6 +23,17 @@ BTJogo.registrar({
       vb1: 'Twelve oaths!',
       vb2: 'But in the myth, Frigg left the mistletoe out, thinking it too young, and it was with that sprout that Baldr died. The number twelve is made up for the game.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Friggs eder',
+      sub: 'Frigg må få alle ting til å sverge på å ikke skade Balder. Trykk på tingene som dukker opp for å samle hver enkelts ed. Samle 12 eder før tiden løper ut, og hold øye med alt.',
+      toque: 'Trykk for å starte', jur: 'Eder', tempo: 'Tid',
+      perdeu: 'Tiden er ute', de_novo: 'Trykk for å prøve igjen',
+      va1: 'Du husket misteltein!',
+      va2: 'I myten mente Frigg at misteltein-skuddet var for ungt til å be om ed, og det var med det skuddet Balder døde. I spillet husket du det: den slutten er diktet opp.',
+      vb1: 'Tolv eder!',
+      vb2: 'Men i myten utelot Frigg misteltein fordi hun mente den var for ung, og det var med det skuddet Balder døde. Tallet tolv er diktet opp for spillet.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

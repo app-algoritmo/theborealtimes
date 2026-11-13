@@ -1,11 +1,11 @@
 ---
 titulo: About us
-resumo: Stories of Scandinavia and the Nordic world, narrated by artificial intelligence, in English and Portuguese.
+resumo: Stories of Scandinavia and the Nordic world, narrated by artificial intelligence, in English, Portuguese and Norwegian.
 olho: The site
 atualizado: November 2026
 ---
 
-The Boreal Times tells stories of the North: myths, sagas, legends, tales and history from Scandinavia and the Nordic world, from the Viking Age to today. They may be true, legendary or invented, and every text says which. The site appears in English and Portuguese.
+The Boreal Times tells stories of the North: myths, sagas, legends, tales and history from Scandinavia and the Nordic world, from the Viking Age to today. They may be true, legendary or invented, and every text says which. The site appears in English, Portuguese and Norwegian.
 
 The name comes from English, but "Times" here means ages: stories from every era.
 

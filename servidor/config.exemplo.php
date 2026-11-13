@@ -13,9 +13,9 @@ return [
   'responder_para' => 'post@borealtimes.org',
 
   // Onde este script está publicado (sem barra no fim) e onde fica o site
-  'base_url' => 'https://dsnorge.com/boreal',
+  'base_url' => 'https://api.dsnorge.com/boreal',
   'site' => 'https://borealtimes.org',
-  'paginas' => ['pt' => '/assinatura/', 'en' => '/en/subscribe/'],
+  'paginas' => ['pt' => '/assinatura/', 'en' => '/en/subscribe/', 'no' => '/no/abonner/'],
 
   // Quem pode chamar o formulário
   'origens' => ['https://borealtimes.org', 'https://www.borealtimes.org'],

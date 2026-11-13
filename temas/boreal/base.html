@@ -10,8 +10,13 @@
    do mapa montado no gerador, nunca de trocar o prefixo /en nesta string.
    Uma peça sem tradução não declara alternativa alguma. #}
 {% set alt = alternativas|default([]) %}
-{% set outro_url = (alt|selectattr('curto','equalto',outro_idioma.curto)
-                       |map(attribute='url')|first) %}
+{# Menu de idiomas: todos, na ordem da configuração (norueguês primeiro). #}
+{% set menu_idiomas = [] %}
+{% for i in cfg.idiomas %}
+  {% set u = (alt|selectattr('curto','equalto',i.curto)|map(attribute='url')|first) %}
+  {% set _ = menu_idiomas.append({'curto': i.curto, 'codigo': i.codigo, 'rotulo': i.rotulo, 'url': (u or (i.prefixo ~ '/')),
+      'sugestao': cfg[i.curto].interface.idioma_sugestao, 'botao': cfg[i.curto].interface.idioma_sugestao_botao}) %}
+{% endfor %}
 <link rel="canonical" href="{{ site.url }}{{ base_url }}">
 
 {% if alt|length > 1 %}
@@ -87,7 +92,7 @@
   <span><b>{{ ano }}</b> &nbsp;·&nbsp; {{ ano_romano }}</span>
   <span>{{ t.chamada_topo }}</span>
   <span>
-    <a href="{{ outro_url|default(outro_idioma.prefixo ~ '/', true) }}" hreflang="{{ outro_idioma.codigo }}">{{ outro_idioma.rotulo }}</a>
+    <span class="idiomas" role="navigation" aria-label="Language">{% for i in menu_idiomas %}{% if i.curto == idioma.curto %}<span class="idioma-atual" aria-current="true" lang="{{ i.codigo }}">{{ i.rotulo }}</span>{% else %}<a href="{{ i.url }}" hreflang="{{ i.codigo }}" lang="{{ i.codigo }}">{{ i.rotulo }}</a>{% endif %}{% endfor %}</span>
     <a class="assine" href="{{ idioma.prefixo }}/{{ t.paginas.assinatura }}/">{{ ui.assine }}</a>
   </span>
 </div></div>
@@ -142,19 +147,22 @@
 
 {# Sugestão de idioma pelo navegador. Nunca redireciona, nunca lê IP. #}
 <div class="idioma-sugestao" id="idioma-sugestao" hidden>
-  <span>{{ ui.idioma_sugestao }}</span>
-  <a href="{{ outro_url|default(outro_idioma.prefixo ~ '/', true) }}">{{ ui.idioma_sugestao_botao }}</a>
+  <span data-sug-texto></span>
+  <a href="#" data-sug-link></a>
   <button aria-label="Fechar" data-fechar-idioma>&times;</button>
 </div>
 
 <script>
 (function () {
   var ATUAL = '{{ idioma.curto }}', VISTO = 'boreal-idioma-visto';
-  var nav = (navigator.language || 'pt').slice(0, 2).toLowerCase();
-  var querPt = nav === 'pt';
-  if (((ATUAL === 'pt' && !querPt) || (ATUAL === 'en' && querPt))
-      && !sessionStorage.getItem(VISTO)) {
+  var IDIOMAS = {{ menu_idiomas|tojson }};
+  var nav = (navigator.language || 'en').slice(0, 2).toLowerCase();
+  var quer = (nav === 'nb' || nav === 'nn') ? 'no' : (nav === 'pt' || nav === 'no') ? nav : 'en';
+  var alvo = IDIOMAS.filter(function (i) { return i.curto === quer; })[0];
+  if (alvo && quer !== ATUAL && !sessionStorage.getItem(VISTO)) {
     var s = document.getElementById('idioma-sugestao');
+    s.querySelector('[data-sug-texto]').textContent = alvo.sugestao;
+    var l = s.querySelector('[data-sug-link]'); l.textContent = alvo.botao; l.href = alvo.url;
     s.hidden = false;
     s.querySelector('[data-fechar-idioma]').addEventListener('click', function () {
       s.hidden = true;

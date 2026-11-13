@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'The stone is carved!',
       v2: 'The great Jelling stone, linked to Harald Bluetooth and dated to around 965, uses the Younger Futhark runes. The drawings in the game are simplified, and the choice of the five runes is ours.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Rist runene',
+      sub: 'Harald Blåtann befaler at en stein skal risses i Jelling. Dra fingeren (eller musen) fra en prikk til den neste, langs den glødende linjen, for å riste hver rune.',
+      toque: 'Trykk for å starte', runa: 'Rune',
+      nomes: ['fé', 'þurs', 'kaun', 'hagall', 'nauðr'],
+      v1: 'Steinen er risset!',
+      v2: 'Den store Jellingsteinen, knyttet til Harald Blåtann og datert til omkring 965, bruker runene i det yngre futhark. Tegningene i spillet er forenklet, og valget av de fem runene er vårt.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

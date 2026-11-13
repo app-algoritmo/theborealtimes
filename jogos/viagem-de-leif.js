@@ -26,6 +26,18 @@ BTJogo.registrar({
       v2: 'According to the Saga of the Greenlanders, Leif wintered there.',
       v3: 'At L’Anse aux Meadows, in Canada, archaeology confirms Norse people around 1021, but it does not prove that was the place Leif called Vinland.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Leivs reise',
+      sub: 'Unngå isen og skjærene. Ta tønner. Nå Vinland.',
+      sub2: 'Dra fingeren eller musen, eller bruk piltastene.',
+      toque: 'Trykk for å sette seil',
+      etapas: ['Kurs mot Helluland, «landet med flate steiner»', 'Markland, «skoglandet»', 'Kurs mot Vinland'],
+      casco: 'Skrog', barris: 'Tønner', perdeu: 'Skipet holdt ikke', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Du nådde Vinland!',
+      v2: 'Ifølge Grønlendingenes saga overvintret Leiv der.',
+      v3: 'Ved L’Anse aux Meadows i Canada bekrefter arkeologien nordboer omkring 1021, men det beviser ikke at det var stedet Leiv kalte Vinland.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {
