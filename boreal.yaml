@@ -139,6 +139,13 @@ pt:
     jogo_esqui: jogo-travessia-dos-birkebeiner
     jogo_moinho: jogo-moinho-de-sal
     jogo_runas: jogo-gravar-as-runas
+  curiosidades:
+    - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
+    - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
+    - {texto: "Em 1206, dois esquiadores atravessaram as montanhas com um príncipe-bebê para salvá-lo.", url: "/2026/11/13/birkebeiner-haakon/"}
+    - {texto: "Os deuses prenderam o lobo Fenrir com uma fita feita de seis coisas que não existem.", url: "/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
+    - {texto: "Os vikings jogavam hnefatafl, e as regras originais do jogo se perderam.", url: "/2026/11/13/hnefatafl-tabuleiro/"}
+    - {texto: "A pedra de Jelling, de cerca de 965, traz o nome da Dinamarca escrito em runas.", url: "/2026/11/13/jelling-harald-runas/"}
   interface:
     capa: Capa
     menu_inicio: Histórias
@@ -146,7 +153,23 @@ pt:
     linha_edicao: Edições Duna Press
     sobre: Sobre
     assine: Assinar
-    ultimas: Últimas
+    ultimas: Ver também
+    ler_historia: Ler a história
+    jogar_sagas: Jogar as Sagas
+    surpreenda: Surpreenda-me
+    sabia: Você sabia?
+    leia: Ler
+    reinos_titulo: Escolha seu reino
+    reinos_sub: Quatro portas para o mundo escandinavo, dos deuses aos contos de lareira.
+    n_historias: histórias
+    entrar: Entrar
+    jogos_titulo: Jogue as histórias
+    jogos_texto: Cada história publicada aqui tem um jogo para jogar em tela cheia, no celular, no tablet ou no computador. Sem cadastro, sem coleta de dados.
+    jogos_botao: Abrir o Arcade
+    jogos_n: jogos prontos para jogar
+    assine_titulo: Receba as próximas histórias
+    assine_texto: Toda semana chegam novos mitos, sagas e contos, sempre com a fonte e a diferença entre o que é história e o que é lenda.
+    assine_botao: Quero assinar
     ver_tudo: Ver tudo
     arquivo: Arquivo
     as_secoes: As seções
@@ -279,6 +302,13 @@ en:
     jogo_esqui: game-birkebeiner-crossing
     jogo_moinho: game-salt-mill
     jogo_runas: game-carve-the-runes
+  curiosidades:
+    - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
+    - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
+    - {texto: "In 1206, two skiers crossed the mountains with a baby prince to save him.", url: "/en/2026/11/13/birkebeiner-haakon/"}
+    - {texto: "The gods bound the wolf Fenrir with a ribbon made of six things that do not exist.", url: "/en/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
+    - {texto: "The Vikings played hnefatafl, and the original rules of the game were lost.", url: "/en/2026/11/13/hnefatafl-tabuleiro/"}
+    - {texto: "The Jelling stone, from around 965, has the name of Denmark written in runes.", url: "/en/2026/11/13/jelling-harald-runas/"}
   interface:
     capa: Front page
     menu_inicio: Stories
@@ -286,7 +316,23 @@ en:
     linha_edicao: Duna Press Editions
     sobre: About
     assine: Subscribe
-    ultimas: Latest
+    ultimas: See also
+    ler_historia: Read the story
+    jogar_sagas: Play the Sagas
+    surpreenda: Surprise me
+    sabia: Did you know?
+    leia: Read
+    reinos_titulo: Choose your realm
+    reinos_sub: Four doors into the Scandinavian world, from the gods to fireside tales.
+    n_historias: stories
+    entrar: Enter
+    jogos_titulo: Play the stories
+    jogos_texto: Every story published here has a game you can play fullscreen, on a phone, tablet or computer. No sign-up, no data collection.
+    jogos_botao: Open the Arcade
+    jogos_n: games ready to play
+    assine_titulo: Get the next stories
+    assine_texto: New myths, sagas and tales arrive every week, always with the source and the difference between history and legend.
+    assine_botao: I want to subscribe
     ver_tudo: See all
     arquivo: Archive
     as_secoes: The sections
