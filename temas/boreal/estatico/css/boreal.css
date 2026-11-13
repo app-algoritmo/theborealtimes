@@ -67,6 +67,7 @@ img{max-width:100%;display:block;background:var(--papel-3)}
   width:1px;background:var(--fio)}
 .nav a:hover{color:var(--marca)}
 .nav a{--nc:var(--marca);--nt:#fff;border-radius:6px;transition:background .2s,color .2s}
+.nav a.nav-jogos{--nc:#e91e8c}
 .nav a.nav-mitos{--nc:#f5a800;--nt:#1a1236}
 .nav a.nav-sagas{--nc:#e5322d}
 .nav a.nav-viking{--nc:#00a3c7}
