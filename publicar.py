@@ -722,7 +722,10 @@ def imagem_lote():
     falhas = 0
     for arq in arquivos:
         print(f"→ {arq.name}")
-        falhas += 1 if _converter(arq, arq.stem) else 0
+        nome = arq.stem
+        while Path(nome).suffix.lower() in (".jpg", ".jpeg", ".png"):
+            nome = Path(nome).stem  # o Mac às vezes salva "x.jpeg.jpeg"
+        falhas += 1 if _converter(arq, nome) else 0
     print()
     print(f"{len(arquivos) - falhas} convertida(s), {falhas} com problema.")
     return 1 if falhas else 0

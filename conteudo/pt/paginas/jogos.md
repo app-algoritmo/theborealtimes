@@ -22,6 +22,11 @@ Cada jogo daqui nasce de uma história publicada no site. Abrem em tela cheia no
 <li><a href="/jogo-forja-dos-anoes/">A forja dos anões</a><br>observe a ordem das bigornas e repita os golpes dos quatro anões que forjam o colar de Freyja.</li>
 <li><a href="/jogo-lamina-ulfberht/">A lâmina Ulfberht</a><br>bata no ferro quente na hora certa e forje uma espada com a inscrição VLFBERHT.</li>
 <li><a href="/jogo-askeladden-e-o-troll/">Askeladden e o troll</a><br>esconda o mingau num saco sem que o troll perceba, como Askeladden no concurso de comida.</li>
+<li><a href="/jogo-muro-de-asgard/">O muro de Asgard</a><br>seja Loki disfarçado de égua e distraia o cavalo do construtor para que o muro de Asgard não fique pronto antes do verão.</li>
+<li><a href="/jogo-hnefatafl/">Hnefatafl em miniatura</a><br>leve o rei a um dos cantos do tabuleiro antes que os atacantes o cerquem, numa versão pequena do jogo viking.</li>
+<li><a href="/jogo-travessia-dos-birkebeiner/">A travessia dos Birkebeiner</a><br>desça a montanha de esqui com o pequeno príncipe Haakon, desviando das árvores e das pedras, até a segurança.</li>
+<li><a href="/jogo-moinho-de-sal/">O moinho que mói sal</a><br>gire o moinho mágico para encher o navio de sal, mas solte a tempo: ele demora a parar e o navio pode afundar.</li>
+<li><a href="/jogo-gravar-as-runas/">Gravar as runas</a><br>grave cinco runas ligando os pontos, como se entalhasse a pedra de Jelling.</li>
 </ul>
 
 Os jogos são uma diversão inspirada nas histórias. Quando um deles muda algo do que as fontes contam, a página do jogo diz como foi de fato.
