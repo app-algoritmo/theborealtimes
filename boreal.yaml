@@ -51,7 +51,7 @@ publicidade:
 assinatura:
   # Endereço do script PHP que grava as inscrições (pasta servidor/ do repositório,
   # enviada por FTP ao Domeneshop). Ver servidor/LEIA-ME.md.
-  endpoint: "https://dsnorge.com/boreal/inscrever.php"
+  endpoint: "https://api.dsnorge.com/boreal/inscrever.php"
 
 # ------------------------------------------------------------
 # Idiomas
