@@ -59,6 +59,16 @@ POR_BLOCO = 4
 
 # ---------------------------------------------------------------- utilidades
 
+def romano(n):
+    """Ano em algarismos romanos (2026 -> MMXXVI)."""
+    r = ""
+    for v, s in [(1000,"M"),(900,"CM"),(500,"D"),(400,"CD"),(100,"C"),(90,"XC"),
+                 (50,"L"),(40,"XL"),(10,"X"),(9,"IX"),(5,"V"),(4,"IV"),(1,"I")]:
+        while n >= v:
+            r += s; n -= v
+    return r
+
+
 def data_longa(d: date, lang="pt") -> str:
     if lang == "en":
         return f"{MESES['en'][d.month - 1]} {d.day}, {d.year}"
@@ -284,6 +294,7 @@ def construir():
             "manifesto": t["manifesto"],
             "data_longa": data_longa(hoje, curto),
             "ano": hoje.year,
+            "ano_romano": romano(hoje.year),
             "numero_edicao": None,
             "jsonld": json.dumps(jsonld_publicacao(cfg, idioma, t),
                                  ensure_ascii=False, indent=2),
