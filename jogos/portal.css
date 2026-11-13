@@ -164,3 +164,9 @@
   .pt-rev{opacity:1;transform:none}.pt-fato{transition:none}
 }
 body:has(.pt) .rodape{margin-top:0}
+
+/* Imagem do reino no card da capa */
+.pt-reino::before{content:"";position:absolute;inset:0;z-index:-2;background:var(--img,none) center/cover no-repeat;transform:scale(1.02);transition:transform .6s cubic-bezier(.2,.8,.2,1)}
+.pt-reino::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(14,9,32,.05) 0%,rgba(14,9,32,.35) 45%,rgba(14,9,32,.88) 100%)}
+.pt-reino:hover::before{transform:scale(1.1)}
+.pt-reino-r{z-index:-1}

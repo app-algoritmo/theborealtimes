@@ -66,9 +66,15 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 .nav a+a::before{content:"";position:absolute;left:0;top:12px;bottom:12px;
   width:1px;background:var(--fio)}
 .nav a:hover{color:var(--marca)}
-.nav a[aria-current]{color:var(--marca)}
-.nav a[aria-current]::after{content:"";position:absolute;left:15px;right:15px;
-  bottom:-1px;height:2px;background:var(--marca)}
+.nav a{--nc:var(--marca);--nt:#fff;border-radius:6px;transition:background .2s,color .2s}
+.nav a.nav-mitos{--nc:#f5a800;--nt:#1a1236}
+.nav a.nav-sagas{--nc:#e5322d}
+.nav a.nav-viking{--nc:#00a3c7}
+.nav a.nav-contos{--nc:#12a150}
+.nav a:hover{color:var(--nc)}
+.nav a[aria-current]{background:var(--nc);color:var(--nt);font-weight:800;
+  box-shadow:0 3px 12px -2px var(--nc)}
+.nav a[aria-current]::before,.nav a[aria-current]+a::before{display:none}
 
 /* ── Grade da capa ───────────────────────────────────────── */
 .capa{display:grid;grid-template-columns:2.6fr .06fr 6.4fr .06fr 2.9fr;
