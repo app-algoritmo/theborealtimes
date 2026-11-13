@@ -3,7 +3,8 @@
 .ouvir button{font-family:var(--util);font-size:12px;font-weight:800;letter-spacing:.075em;
   text-transform:uppercase;padding:11px 16px;border-radius:6px;border:0;cursor:pointer;
   background:transparent;color:var(--tinta);transition:background .2s,color .2s}
-.ouvir .ouvir-tocar{background:var(--marca);color:#fff;box-shadow:0 3px 12px -2px var(--marca)}
+.ouvir .ouvir-tocar{display:inline-flex;align-items:center;gap:9px;padding:8px 16px 8px 12px;background:var(--marca);color:#fff;box-shadow:0 3px 12px -2px var(--marca)}
 .ouvir .ouvir-tocar:hover{opacity:.9}
 .ouvir .ouvir-parar:hover{color:var(--marca)}
 .ouvir button[hidden]{display:none}
+.ouvir .ouvir-ico{flex:0 0 auto;display:block}
