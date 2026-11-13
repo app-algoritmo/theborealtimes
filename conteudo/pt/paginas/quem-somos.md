@@ -25,7 +25,7 @@ Não apresentamos mito, lenda ou ficção como fato, e não tratamos saga mediev
 
 ## Como ler sem publicidade
 
-O site é aberto e integralmente gratuito. Quem preferir ler sem anúncio pode assinar pelo aplicativo.
+O site é aberto e integralmente gratuito. Quem quiser receber as próximas histórias pode assinar a newsletter, gratuita.
 
 ## Responsabilidade
 

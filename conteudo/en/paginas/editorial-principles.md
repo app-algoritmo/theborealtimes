@@ -45,7 +45,7 @@ The site carries network advertising, served by third parties and visually separ
 
 We publish no sponsored content, advertorial or branded content. Should we ever do so, it will be labelled as such, prominently.
 
-Readers who prefer no advertising can subscribe through the app. The subscription opens no content: the whole site is free.
+Readers who want the next stories by email can subscribe to the free newsletter. It opens no content: the whole site is free.
 
 ## Corrections
 

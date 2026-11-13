@@ -3,26 +3,76 @@
 {% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
 
 {% block conteudo %}
-<article class="materia">
-  <div class="cabeca-materia">
-    <span class="chapeu">{{ ui.assine }}</span>
-    <h1>{{ pagina.titulo }}</h1>
-    {% if pagina.resumo %}<p class="linha-fina">{{ pagina.resumo }}</p>{% endif %}
-  </div>
+{% set a = pagina.as %}
+<link rel="stylesheet" href="/g/arcade.css?v=1">
+<link rel="stylesheet" href="/g/assine.css?v=1">
+<div class="ax as" id="as" data-endpoint="{{ assinatura.endpoint }}" data-lang="{{ idioma.curto }}" data-inicio="{{ idioma.prefixo }}/" data-jogos="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/">
 
-  <div class="texto texto-editorial">
-    <p class="lojas">
-      {% if assinatura.aplicativos.apple %}
-      <a class="loja" href="{{ assinatura.aplicativos.apple }}" rel="nofollow">{{ ui.loja_apple }}</a>
-      {% endif %}
-      {% if assinatura.aplicativos.google %}
-      <a class="loja" href="{{ assinatura.aplicativos.google }}" rel="nofollow">{{ ui.loja_google }}</a>
-      {% endif %}
-      {% if not assinatura.aplicativos.apple and not assinatura.aplicativos.google %}
-      <span class="lojas-pendente">{{ ui.lojas_pendente }}</span>
-      {% endif %}
-    </p>
-    {{ conteudo_html|safe }}
+<section class="ax-hero as-hero">
+  <div class="ax-ceu" aria-hidden="true"></div>
+  <div class="ax-estrelas" aria-hidden="true"></div>
+  <div class="ax-aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="ax-lua" aria-hidden="true"></div>
+  <canvas class="ax-neve" id="as-neve" aria-hidden="true"></canvas>
+  <div class="as-in">
+    <p class="ax-runas" aria-hidden="true">ᚠ ᚢ ᚦ ᚨ ᚱ ᚲ</p>
+    <p class="ax-chapeu">{{ pagina.olho }}</p>
+    <h1 class="ax-titulo as-titulo">{{ pagina.titulo }}</h1>
+    <p class="ax-lead">{{ a.lead }}</p>
+
+    <div class="as-cartao">
+      <form id="as-form" class="as-form" method="post" action="{{ assinatura.endpoint }}" novalidate>
+        <input type="hidden" name="idioma" value="{{ idioma.curto }}">
+        <input type="hidden" name="t" id="as-t" value="0">
+        <div class="as-mel" aria-hidden="true"><label>Site <input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
+        <label class="as-campo">
+          <span class="as-rotulo">{{ a.email }}</span>
+          <input type="email" name="email" id="as-email" required autocomplete="email" inputmode="email" placeholder="nome@exemplo.com">
+        </label>
+        <label class="as-aceite">
+          <input type="checkbox" name="consentimento" value="1" id="as-aceite" required>
+          <span>{{ a.consent }} <a href="{{ idioma.prefixo }}/{{ t.paginas.privacidade }}/" target="_blank" rel="noopener">{{ a.consent_link }}</a>.</span>
+        </label>
+        <p class="as-erro" id="as-erro" role="alert" hidden></p>
+        <button type="submit" class="ax-btn ax-btn-sorteio as-botao" id="as-botao" data-enviando="{{ a.enviando }}">{{ a.botao }}</button>
+        <p class="as-nota">{{ a.nota }}</p>
+      </form>
+
+      {% for id, tit, txt in [('ok', a.ok_titulo, a.ok_texto), ('confirmado', a.confirmado_titulo, a.confirmado_texto), ('expirado', a.expirado_titulo, a.expirado_texto), ('cancelado', a.cancelado_titulo, a.cancelado_texto)] %}
+      <div class="as-estado as-{{ id }}" id="as-{{ id }}" role="status" hidden>
+        <div class="as-selo" aria-hidden="true">{% if id == 'expirado' %}❄{% elif id == 'cancelado' %}❄{% else %}✦{% endif %}</div>
+        <h2>{{ tit }}</h2>
+        <p>{{ txt }}</p>
+        {% if id == 'confirmado' or id == 'cancelado' %}
+        <p class="as-acoes"><a class="ax-btn ax-btn-sorteio" href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/">{{ a.jogar }}</a><a class="ax-btn ax-btn-sec" href="{{ idioma.prefixo }}/">{{ a.ler }}</a></p>
+        {% elif id == 'expirado' %}
+        <p class="as-acoes"><a class="ax-btn ax-btn-sorteio" href="{{ idioma.prefixo }}/{{ t.paginas.assinatura }}/">{{ a.botao }}</a></p>
+        {% endif %}
+      </div>
+      {% endfor %}
+
+      <div class="as-estado as-cancelar" id="as-cancelar" hidden>
+        <div class="as-selo" aria-hidden="true">❄</div>
+        <h2>{{ a.cancelar_titulo }}</h2>
+        <p>{{ a.cancelar_texto }}</p>
+        <p class="as-acoes"><button type="button" class="ax-btn ax-btn-sec" id="as-cancelar-botao" data-enviando="{{ a.enviando }}">{{ a.cancelar_botao }}</button></p>
+      </div>
+    </div>
   </div>
-</article>
+</section>
+
+<section class="as-corpo">
+  <ul class="as-promessas">
+    {% for p in a.promessas %}
+    <li><span class="as-runa" aria-hidden="true">{{ p.icone }}</span><h3>{{ p.titulo }}</h3><p>{{ p.texto }}</p></li>
+    {% endfor %}
+  </ul>
+  <div class="texto texto-editorial as-texto">{{ conteudo_html|safe }}</div>
+</section>
+
+</div>
+<script>
+window.AS_MSG = {{ {'email': a.erro_email, 'aceite': a.erro_aceite, 'geral': a.erro_geral}|tojson }};
+</script>
+<script src="/g/assine.js?v=1" defer></script>
 {% endblock %}

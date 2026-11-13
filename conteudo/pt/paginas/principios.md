@@ -45,7 +45,7 @@ O site exibe publicidade de rede, servida por terceiros e separada visualmente d
 
 Não publicamos conteúdo patrocinado, publieditorial nem conteúdo de marca. Se um dia publicarmos, virá rotulado como tal, em posição visível.
 
-Quem prefere ler sem publicidade pode assinar pelo aplicativo. A assinatura não abre conteúdo: todo o site é gratuito.
+Quem quiser receber as próximas histórias por e-mail pode assinar a newsletter, gratuita. Ela não abre conteúdo: todo o site é gratuito.
 
 ## Correções
 

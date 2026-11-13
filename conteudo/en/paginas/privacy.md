@@ -1,54 +1,62 @@
 ---
 titulo: Privacy policy
-resumo: What we process, on what legal basis, and how to exercise your rights.
+resumo: What data we process, why, for how long and how to exercise your rights.
 olho: Legal
-atualizado: August 2026
+atualizado: November 2026
 ---
 
-> **Draft for legal review.** The publisher is established in Norway and subject to the GDPR through Norwegian data protection law, while also processing data of readers in Brazil covered by the LGPD. Both apply in parallel.
+## 1. Who is responsible
 
-## 1. Controller
+Digital Solutions - De Barros, org. no. 996 041 468, a company registered in Norway and based in Larvik. It decides how data is processed and answers for it. Contact for any privacy matter: post@borealtimes.org.
 
-Digital Solutions - De Barros, org. no. 996 041 468, registered in Norway, based in Larvik. Privacy contact: privacidade@borealtimes.org.
+The Boreal Times is produced by Duna Press. Because the controller is in Norway, the GDPR applies through Norwegian data protection law. For readers in Brazil the LGPD applies as well. Both laws apply in parallel, and we follow the more protective one on each point.
 
-## 2. What we process
+## 2. What data we process
 
-**Subscribers.** Email, subscription status and access records. Billing is processed by the App Store or Google Play — **we neither receive nor store payment details**.
+**Newsletter.** If you subscribe, we keep your email address, the language you chose, the date of sign-up, the date of confirmation and the version of the consent text you accepted. We do not store your IP address with the sign-up, and we do not ask for a name, a phone number or anything else.
 
-**Browsing.** IP address, device type and pages visited, in aggregate form, only with consent.
+**Reading the site.** Reading the stories and playing the games needs no sign-up. The games run in your browser and neither store nor send data.
 
-**Advertising.** Google AdSense may store identifiers in your browser to cap repetition, measure performance and, with your permission, personalise what is shown. The choice is made in the consent window and can be changed at any time.
+**Audience measurement.** Google Analytics counts visits in aggregate, and only after you consent.
 
-We process no special-category data and do not ask subscribers about their assets.
+**Advertising.** The site shows Google AdSense ads, which may store identifiers in your browser, depending on the choice you make in the consent window.
 
-## 3. Purposes and legal bases
+**Messages.** If you write to post@borealtimes.org, we use the message and your address only to reply and, where relevant, to correct the content.
 
-Performance of the contract: delivery, authentication, billing and support. Legal obligation: retention of records and tax documents for the periods required in Norway and, where applicable, Brazil. Legitimate interest: service security. Consent: audience measurement and promotional email, revocable at any time.
+We do not process sensitive data and we do not sell personal data.
 
-## 4. Processors and sharing
+## 3. Why we use it and on what legal basis
 
-Cloudflare (hosting and protection) and Google Analytics where permitted act as processors. Apple and Google, for app subscription billing, and Google AdSense, for advertising, act as **independent controllers** of the data they collect at that step — their processing is governed by Google's and Apple's own policies.
+The basis for newsletter sign-up is your **consent**: you tick the consent box and confirm your email through the link we send (double opt-in). You can withdraw consent at any time, in one click, through the link at the bottom of every email. Withdrawal does not affect what was done before it.
 
-We do not sell personal data and we pass none of our data to advertisers.
+Audience measurement and personalised advertising also depend on your consent. Service security rests on legitimate interest. Record keeping required by law rests on legal obligation.
+
+## 4. Where the data lives and who handles it
+
+The subscriber list is held in a database in Norway, on a Domeneshop server contracted by Digital Solutions. Messages are sent from that same infrastructure. The site is delivered by Cloudflare. These providers process data on our behalf and under contract.
+
+Google (Analytics and AdSense) acts as an independent controller of the data it collects in your browser. Its processing follows Google's own policies.
+
+We do not hand the subscriber list to advertisers or to anyone else.
 
 ## 5. International transfers
 
-Data may be processed outside Norway and outside Brazil. Where that happens we rely on standard contractual clauses and a transfer assessment consistent with the GDPR and the LGPD.
+Some providers, such as Cloudflare and Google, may process data outside Norway, the European Economic Area and Brazil. In those cases we rely on standard contractual clauses and safeguards compatible with the GDPR and the LGPD.
 
-## 6. Retention
+## 6. How long we keep it
 
-Subscription: for the life of the relationship and the accounting periods required afterwards in Norway. Access logs: six months.
+Unconfirmed sign-ups are deleted within seven days. Confirmed subscribers stay on the list until they unsubscribe. Anyone who unsubscribes stops receiving mail and has their address deleted within thirty days, unless we need to keep the record of the unsubscription to prove it was honoured.
 
 ## 7. Your rights
 
-Access, rectification, erasure, restriction, objection, portability and withdrawal of consent. Requests go to privacidade@borealtimes.org and are answered within thirty days.
+You can ask for access to your data, correction, erasure, restriction, objection, portability and withdrawal of consent. Write to post@borealtimes.org. We answer within thirty days.
 
-Complaints may be made to the Norwegian Data Protection Authority (Datatilsynet) or, for data subjects in Brazil, to the ANPD.
+If you believe we have not respected your rights, you can complain to the Norwegian data protection authority (Datatilsynet) or, if you are in Brazil, to the ANPD.
 
 ## 8. Security
 
-Encrypted transport, sessions with no stored password, restricted access to the subscriber base and logging of administrative access. Incidents carrying material risk are reported to data subjects and to the competent authorities within statutory deadlines.
+Communication with the site and the form is encrypted. Access to the subscriber database is restricted, and the confirmation and unsubscribe links are individual and cannot be guessed. If an incident carries a relevant risk, we will notify the people concerned and the authorities within the legal deadlines.
 
-## 9. Messages sent to the site
+## 9. Changes
 
-Messages sent to the contact addresses (corrections, topic suggestions, questions) are used only to reply and to correct content, and never enter the subscriber or marketing base.
+When this policy changes, the date at the top of the page changes too. Changes that affect your subscription will be announced by email.

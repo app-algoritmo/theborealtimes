@@ -41,7 +41,7 @@ medicao:
   verificacao_bing: ""
 
 # ------------------------------------------------------------
-# Publicidade — a web é aberta e com anúncio; o aplicativo é sem
+# Publicidade — o site é aberto e gratuito, com anúncios
 # ------------------------------------------------------------
 publicidade:
   adsense: "ca-pub-7977428997189299"
@@ -49,9 +49,9 @@ publicidade:
   # AdSense, em Privacidade e mensagens, e servida pelo próprio script.
 
 assinatura:
-  aplicativos:
-    apple: ""      # https://apps.apple.com/app/...
-    google: ""     # https://play.google.com/store/apps/details?id=...
+  # Endereço do script PHP que grava as inscrições (pasta servidor/ do repositório,
+  # enviada por FTP ao Domeneshop). Ver servidor/LEIA-ME.md.
+  endpoint: "https://dsnorge.com/boreal/inscrever.php"
 
 # ------------------------------------------------------------
 # Idiomas
@@ -181,9 +181,6 @@ pt:
     fontes: Fontes
     as_naturezas: Como ler cada texto
     atualizado: Atualizado em
-    loja_apple: Baixar na App Store
-    loja_google: Baixar no Google Play
-    lojas_pendente: Aplicativos em publicação nas lojas.
     idioma_sugestao: This site is also published in English.
     idioma_sugestao_botao: Read in English
   naturezas:
@@ -344,9 +341,6 @@ en:
     fontes: Sources
     as_naturezas: How to read each text
     atualizado: Updated
-    loja_apple: Download on the App Store
-    loja_google: Get it on Google Play
-    lojas_pendente: Apps are being published to the stores.
     idioma_sugestao: Este site também é publicado em português.
     idioma_sugestao_botao: Ler em português
   naturezas:

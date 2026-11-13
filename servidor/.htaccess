@@ -1,0 +1,5 @@
+# Ninguém abre estes arquivos pelo navegador
+<FilesMatch "^(config\.php|comum\.php|banco\.sql|config\.exemplo\.php|enviar\.php|LEIA-ME\.md)$">
+  Require all denied
+</FilesMatch>
+Options -Indexes

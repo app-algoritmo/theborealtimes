@@ -1,54 +1,62 @@
 ---
 titulo: Política de privacidade
-resumo: Que dados tratamos, com que base legal, e como o titular exerce seus direitos.
+resumo: Que dados tratamos, para quê, por quanto tempo e como exercer seus direitos.
 olho: Legal
-atualizado: agosto de 2026
+atualizado: novembro de 2026
 ---
 
-> **Minuta para revisão jurídica.** A editora está na Noruega, sujeita ao GDPR por meio da lei norueguesa de dados pessoais, e trata dados de leitores no Brasil, alcançados pela LGPD. As duas leis se aplicam em paralelo.
+## 1. Quem é o responsável
 
-## 1. Controlador
+Digital Solutions - De Barros, org.nr 996 041 468, empresa registrada na Noruega, com sede em Larvik. É ela quem decide como os dados são tratados e responde por eles. Contato para qualquer assunto de privacidade: post@borealtimes.org.
 
-Digital Solutions - De Barros, org.nr 996 041 468, registrada na Noruega, com sede em Larvik. Contato para privacidade: privacidade@borealtimes.org.
+O Boreal Times é elaborado por Duna Press. Como a responsável está na Noruega, vale o GDPR por meio da lei norueguesa de proteção de dados. Para leitores no Brasil vale também a LGPD. As duas leis se aplicam em paralelo, e seguimos a mais protetora em cada ponto.
 
-## 2. Dados tratados
+## 2. Que dados tratamos
 
-**Assinantes.** E-mail, situação da assinatura e registros de acesso. A cobrança é processada pela App Store ou pelo Google Play — **não recebemos nem armazenamos dados de pagamento**.
+**Newsletter.** Se você se inscreve, guardamos o seu e-mail, o idioma escolhido, a data da inscrição, a data da confirmação e a versão do texto de consentimento que você aceitou. Não guardamos o seu endereço IP no cadastro e não pedimos nome, telefone nem qualquer outro dado.
 
-**Navegação.** Endereço IP, tipo de dispositivo e páginas visitadas, em forma agregada, apenas com consentimento.
+**Leitura do site.** Ler as histórias e jogar os jogos não exige cadastro. Os jogos funcionam no seu navegador e não gravam nem enviam dados.
 
-**Publicidade.** O Google AdSense pode gravar identificadores no seu navegador para limitar repetição de anúncio, medir desempenho e, com a sua autorização, personalizar o que é exibido. A escolha é feita na janela de consentimento e pode ser alterada a qualquer momento.
+**Medição de audiência.** O Google Analytics conta visitas de forma agregada, e só depois do seu consentimento.
 
-Não tratamos dados sensíveis e não solicitamos informação patrimonial do assinante.
+**Publicidade.** O site exibe anúncios do Google AdSense, que podem gravar identificadores no seu navegador, conforme a escolha que você faz na janela de consentimento.
 
-## 3. Finalidades e bases legais
+**Mensagens.** Se você escreve para post@borealtimes.org, usamos a mensagem e o seu endereço apenas para responder e, quando for o caso, corrigir o conteúdo.
 
-Execução do contrato: entrega das edições, autenticação, cobrança e suporte. Obrigação legal: guarda de registros e documentos fiscais pelos prazos exigidos na Noruega e, quando aplicável, no Brasil. Interesse legítimo: segurança do serviço. Consentimento: medição de audiência e comunicação promocional, revogáveis a qualquer momento.
+Não tratamos dados sensíveis e não vendemos dados pessoais.
 
-## 4. Operadores e compartilhamento
+## 3. Para que usamos e com que base legal
 
-Cloudflare (hospedagem e proteção) e Google Analytics quando autorizado atuam como operadores. Apple e Google, na cobrança da assinatura do aplicativo, e o Google AdSense, na publicidade, atuam como **controladores independentes** dos dados que coletam nessa etapa — o tratamento deles é regido pelas políticas do próprio Google e da Apple.
+A base do cadastro na newsletter é o seu **consentimento**: você marca a caixa de aceite e confirma o e-mail pelo link que enviamos (confirmação em duas etapas). Você pode retirar o consentimento quando quiser, em um clique, pelo link no fim de cada e-mail. A retirada não afeta o que foi feito antes dela.
 
-Não vendemos dados pessoais e não cedemos nenhuma base nossa a anunciantes.
+A medição de audiência e a publicidade personalizada também dependem do seu consentimento. A segurança do serviço se apoia em interesse legítimo. A guarda de registros que a lei exige se apoia em obrigação legal.
+
+## 4. Onde ficam os dados e quem os trata
+
+A lista de assinantes fica em um banco de dados na Noruega, em servidor da Domeneshop contratado pela Digital Solutions. O envio das mensagens parte dessa mesma estrutura. O site é entregue pela Cloudflare. Esses fornecedores tratam dados em nosso nome e sob contrato.
+
+O Google (Analytics e AdSense) atua como controlador independente dos dados que coleta no seu navegador. O tratamento feito por ele segue as políticas do próprio Google.
+
+Não cedemos a lista de assinantes a anunciantes nem a terceiros.
 
 ## 5. Transferência internacional
 
-Dados podem ser tratados fora da Noruega e fora do Brasil. Nesses casos aplicamos cláusulas contratuais padrão e avaliação de garantias compatíveis com o GDPR e com a LGPD.
+Alguns fornecedores, como Cloudflare e Google, podem tratar dados fora da Noruega, do Espaço Econômico Europeu e do Brasil. Nesses casos usamos cláusulas contratuais padrão e garantias compatíveis com o GDPR e com a LGPD.
 
-## 6. Retenção
+## 6. Por quanto tempo guardamos
 
-Assinatura: durante a relação e pelos prazos contábeis posteriores exigidos na Noruega. Registros de acesso: seis meses.
+Inscrições não confirmadas são apagadas em até sete dias. Assinantes confirmados ficam na lista enquanto não cancelarem. Quem cancela deixa de receber e tem o e-mail apagado em até trinta dias, exceto se precisarmos guardar o registro do cancelamento para provar que ele foi respeitado.
 
-## 7. Direitos do titular
+## 7. Seus direitos
 
-Acesso, correção, eliminação, limitação, oposição, portabilidade e revogação de consentimento. Pedidos vão para privacidade@borealtimes.org e são respondidos em até trinta dias.
+Você pode pedir acesso aos seus dados, correção, eliminação, limitação, oposição, portabilidade e retirada do consentimento. Escreva para post@borealtimes.org. Respondemos em até trinta dias.
 
-Reclamações podem ser dirigidas à autoridade norueguesa de proteção de dados (Datatilsynet) ou, para titulares no Brasil, à ANPD.
+Se achar que não respeitamos seus direitos, pode reclamar à autoridade norueguesa de proteção de dados (Datatilsynet) ou, se estiver no Brasil, à ANPD.
 
 ## 8. Segurança
 
-Transmissão cifrada, sessão sem senha armazenada, acesso restrito à base de assinantes e registro de acessos administrativos. Incidentes com risco relevante são comunicados aos titulares e às autoridades competentes nos prazos legais.
+A comunicação com o site e com o formulário é cifrada. O acesso ao banco de assinantes é restrito, e os links de confirmação e de cancelamento são individuais e não podem ser adivinhados. Se houver um incidente com risco relevante, avisaremos os titulares e as autoridades nos prazos legais.
 
-## 9. Mensagens enviadas ao site
+## 9. Mudanças
 
-Mensagens enviadas aos endereços de contato (correções, sugestões de tema, dúvidas) são usadas apenas para responder e para corrigir o conteúdo, e não integram a base de assinantes nem de marketing.
+Quando esta política mudar, a data no topo da página muda também. Mudanças que afetem o uso da sua inscrição serão avisadas por e-mail.
