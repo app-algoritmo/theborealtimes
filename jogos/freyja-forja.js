@@ -21,6 +21,16 @@ BTJogo.registrar({
       v1: 'The necklace is finished!',
       v2: "In the Sörla þáttr, the four dwarfs are called Alfrigg, Dvalin, Berling and Grer, and theirs is the necklace Freyja wants. The rhythm forge is made up for the game.",
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Dvergenes smie',
+      sub: 'Fire dverger smir Frøyas halsbånd. Se i hvilken rekkefølge amboltene gløder, og gjenta slagene. Hver runde legger til ett til.',
+      toque: 'Trykk for å starte', cont: 'Perler', erros: 'Feil', olhe: 'Se...', sua: 'Din tur!',
+      nomes: ['Alfrigg', 'Dvalin', 'Berling', 'Grer'],
+      perdeu: 'Halsbåndet ble ikke ferdig', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Halsbåndet er ferdig!',
+      v2: 'I Sörla þáttr heter de fire dvergene Alfrigg, Dvalin, Berling og Grer, og det er deres halsbånd Frøya vil ha. Rytmesmia er diktet opp for spillet.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

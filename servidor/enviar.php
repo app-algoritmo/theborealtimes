@@ -13,7 +13,7 @@ require __DIR__ . '/comum.php';
 [$_, $segredo, $idioma, $arquivo] = array_pad($argv, 4, '');
 $real = ($argv[4] ?? '') === 'enviar';
 $c = cfg();
-if (!hash_equals($c['segredo'], $segredo) || !is_file($arquivo)) { fwrite(STDERR, "Uso: php enviar.php SEGREDO pt|en arquivo.txt [enviar]\n"); exit(1); }
+if (!hash_equals($c['segredo'], $segredo) || !is_file($arquivo)) { fwrite(STDERR, "Uso: php enviar.php SEGREDO pt|en|no arquivo.txt [enviar]\n"); exit(1); }
 
 $idioma = limpar_idioma($idioma);
 $bruto = file_get_contents($arquivo);
@@ -26,9 +26,9 @@ $st->execute([$idioma]);
 $n = 0;
 foreach ($st as $a) {
   $link = $c['base_url'] . '/cancelar.php?l=' . $idioma . '&t=' . $a['token_cancela'];
-  $rodape = $idioma === 'en'
-    ? "\n\n--\nYou receive this because you subscribed at {$c['site']}/en/.\nUnsubscribe: $link\n"
-    : "\n\n--\nVocê recebe esta mensagem porque se inscreveu em {$c['site']}/.\nCancelar: $link\n";
+  if ($idioma === 'en') $rodape = "\n\n--\nYou receive this because you subscribed at {$c['site']}/en/.\nUnsubscribe: $link\n";
+  elseif ($idioma === 'no') $rodape = "\n\n--\nDu mottar dette fordi du abonnerte på {$c['site']}/no/.\nAvslutt abonnementet: $link\n";
+  else $rodape = "\n\n--\nVocê recebe esta mensagem porque se inscreveu em {$c['site']}/.\nCancelar: $link\n";
   if ($real) {
     enviar_email($a['email'], $assunto, $corpo . $rodape, ["List-Unsubscribe: <$link>"]);
     usleep(400000); // ~2 mensagens por segundo, para não estourar o limite do servidor

@@ -27,6 +27,19 @@ BTJogo.registrar({
       v1: 'Fenrir is bound!',
       v2: 'In Snorri’s account, the dwarfs make the ribbon, and Fenrir only agrees to be bound if a god puts a hand in his mouth. Týr does, and loses his hand when the wolf sees he was tricked. In the game, gathering the six things is made up.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Gleipne, det umulige båndet',
+      sub: 'Dvergene trenger seks ting som ikke finnes lenger. Trykk på de riktige boblene, og unngå de vanlige tingene. Hold så båndet i riktig spenning for å binde ulven.',
+      toque: 'Trykk for å starte', vidas: 'Feil',
+      reais: ['lyden av kattens skritt', 'skjegget til en kvinne', 'røttene til et fjell', 'senene til en bjørn', 'pusten til en fisk', 'spyttet til en fugl'],
+      falsas: ['jernkjede', 'gullring', 'ulltråd', 'linsnor', 'bronsekniv'],
+      fase2: 'Hold båndet: hold linjen i den grønne sonen til ulven gir etter.',
+      segure: 'Hold for å stramme, slipp for å løsne',
+      perdeu: 'Fenrir slet seg løs', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Fenrir er bundet!',
+      v2: 'I Snorres beretning lager dvergene båndet, og Fenrir går bare med på å bli bundet hvis en gud legger en hånd i munnen hans. Tyr gjør det, og mister hånden da ulven ser at han ble lurt. I spillet er det diktet opp at man samler de seks tingene.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

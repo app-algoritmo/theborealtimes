@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'The prince is safe!',
       v2: "According to the saga of Haakon Haakonsson, written by Sturla Þórðarson, two Birkebeiner carried the little boy through the mountains, to Trondheim. He would become King Haakon IV. The route in the game is a simplification.",
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Birkebeinerferden',
+      sub: 'Vinteren 1206. Bær den lille prins Håkon nedover fjellet i sikkerhet. Dra fingeren (eller bruk piltastene) for å unngå trær og steiner.',
+      toque: 'Trykk for å starte', trecho: 'Løype', batidas: 'Treff',
+      perdeu: 'Skien tok for hardt imot', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Prinsen er i sikkerhet!',
+      v2: 'Ifølge Håkon Håkonssons saga, skrevet av Sturla Þórðarson, bar to birkebeinere den lille gutten gjennom fjellene til Trondheim. Han skulle bli kong Håkon IV. Ruten i spillet er en forenkling.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

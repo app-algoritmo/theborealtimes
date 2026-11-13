@@ -31,6 +31,21 @@ BTJogo.registrar({
       v1: 'Head saved!',
       v2: "According to Egil's Saga, he composed the “Höfuðlausn”, the head-ransom, in one night to win over King Eirík. The real poem isn't reproduced here. Alliteration is a true feature of skaldic poetry; the game is made up.",
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Egils natt',
+      sub: 'Egil må komponere et dikt før daggry. Trykk bare på ordene som begynner med versets bokstav. Hver feil demper lyset.',
+      toque: 'Trykk for å starte', verso: 'Vers', letra: 'Bokstav',
+      conj: [
+        { l: 'S', c: ['sverd', 'sjø', 'storm', 'skjold'], o: ['ulv', 'ild', 'natt', 'konge', 'jern', 'frost', 'vind', 'eik'] },
+        { l: 'V', c: ['vind', 'våpen', 'vann', 'vrede'], o: ['sjø', 'ild', 'natt', 'konge', 'jern', 'frost', 'skjold', 'stein'] },
+        { l: 'R', c: ['ravn', 'rune', 'rop', 'raseri'], o: ['sjø', 'ild', 'natt', 'konge', 'jern', 'frost', 'vind', 'stein'] },
+        { l: 'F', c: ['flamme', 'frost', 'fjell', 'ferd'], o: ['sjø', 'ulv', 'natt', 'konge', 'jern', 'storm', 'vind', 'stein'] }
+      ],
+      perdeu: 'Lyset sluknet', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Hodet er reddet!',
+      v2: 'Ifølge Egils saga komponerte han «Höfuðlausn», hodeløsningen, på én natt for å vinne over kong Erik. Det virkelige diktet er ikke gjengitt her. Stavrim er et ekte trekk ved skaldediktingen; spillet er diktet opp.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

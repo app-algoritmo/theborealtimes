@@ -17,6 +17,14 @@ BTJogo.registrar({
       v1: 'Huginn and Muninn are back with Odin!',
       v2: 'The ravens Huginn (“thought”) and Muninn (“memory”) fly out across the world each day. In the poem Grímnismál, in the Poetic Edda, Odin fears Huginn may not come back, and fears even more for Muninn. The branches in the flight are made up for the game.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Huginns flukt', sub: 'Trykk (eller trykk mellomrom) for å slå med vingene. Fly mellom grenene på verdenstreet og bring verdens nyheter til Odin.',
+      toque: 'Trykk for å starte', pontos: 'Grener',
+      perdeu: 'Huginn gikk seg vill', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Huginn og Muninn er tilbake hos Odin!',
+      v2: 'Ravnene Huginn («tanke») og Muninn («minne») flyr ut over verden hver dag. I diktet Grímnismál, i Den eldre Edda, frykter Odin at Huginn ikke skal komme tilbake, og enda mer for Muninn. Grenene i flukten er diktet opp for spillet.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

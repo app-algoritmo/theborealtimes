@@ -21,6 +21,16 @@ BTJogo.registrar({
       v1: 'Askeladden wins!',
       v2: 'In the tale collected by Asbjørnsen and Moe, Askeladden tricks the troll with cunning, and versions of the eating contest vary. The game mechanic is made up.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Askeladden og trollet',
+      sub: 'Askeladden har en spisekonkurranse med et troll. Hold fingeren (eller mellomromstasten) nede for å helle grøt i den skjulte posen, og slipp når trollet ser!',
+      toque: 'Trykk for å starte', saco: 'Pose', erros: 'Tatt',
+      segure: 'Hold for å skjule, slipp når han ser', olha: 'Han ser!',
+      perdeu: 'Trollet oppdaget trikset', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Askeladden vinner!',
+      v2: 'I eventyret samlet av Asbjørnsen og Moe lurer Askeladden trollet med list, og versjonene av spisekonkurransen varierer. Spillmekanikken er diktet opp.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

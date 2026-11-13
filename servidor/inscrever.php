@@ -61,6 +61,9 @@ try {
     if ($idioma === 'en') {
       $assunto = 'Confirm your subscription to The Boreal Times';
       $texto = "Hello!\n\nSomeone (hopefully you) asked to receive The Boreal Times newsletter at this address.\n\nTo confirm, open this link:\n$link\n\nIf it was not you, ignore this message and nothing will happen. The request expires in 7 days.\n\nThe Boreal Times\n{$c['site']}/en/\n";
+    } elseif ($idioma === 'no') {
+      $assunto = 'Bekreft abonnementet ditt på The Boreal Times';
+      $texto = "Hei!\n\nNoen (forhåpentligvis du) har bedt om å få nyhetsbrevet fra The Boreal Times til denne adressen.\n\nFor å bekrefte, åpne denne lenken:\n$link\n\nHvis det ikke var deg, kan du se bort fra denne meldingen, så skjer ingenting. Forespørselen utløper om 7 dager.\n\nThe Boreal Times\n{$c['site']}/no/\n";
     } else {
       $assunto = 'Confirme sua inscrição no The Boreal Times';
       $texto = "Olá!\n\nAlguém (esperamos que você) pediu para receber a newsletter do The Boreal Times neste endereço.\n\nPara confirmar, abra este link:\n$link\n\nSe não foi você, ignore esta mensagem e nada acontecerá. O pedido expira em 7 dias.\n\nThe Boreal Times\n{$c['site']}/\n";

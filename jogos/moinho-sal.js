@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'Three ships loaded!',
       v2: 'In the Norwegian tale collected by Asbjørnsen and Moe, a magic mill grinds whatever it is asked, but the sailor does not know the word to stop it. The ship sinks, and the mill keeps grinding salt at the bottom of the sea. The game is a simplification.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Saltkvernen',
+      sub: 'Hold fingeren (eller mellomromstasten) nede for å dreie kvernen og helle salt i skipet. Slipp før du passerer linjen: kvernen stopper sakte! Fyll tre skip.',
+      toque: 'Trykk for å starte', navio: 'Skip', sobre: 'Pass på: kvernen går fortsatt!',
+      perdeu: 'Skipet sank', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Tre skip er lastet!',
+      v2: 'I det norske eventyret samlet av Asbjørnsen og Moe maler en magisk kvern hva som helst den blir bedt om, men sjømannen kjenner ikke ordet som får den til å stoppe. Skipet synker, og kvernen fortsetter å male salt på havets bunn. Spillet er en forenkling.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

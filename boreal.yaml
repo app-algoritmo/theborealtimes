@@ -1,7 +1,7 @@
 # ============================================================
 # THE BOREAL TIMES — configuração central
 # Histórias do Norte: mitos, sagas, lendas, contos e história.
-# Português é o idioma principal. Inglês é secundário, em /en/.
+# Português é o idioma principal. Inglês e norueguês são secundários, em /en/ e /no/.
 # ============================================================
 
 site:
@@ -51,12 +51,17 @@ publicidade:
 assinatura:
   # Endereço do script PHP que grava as inscrições (pasta servidor/ do repositório,
   # enviada por FTP ao Domeneshop). Ver servidor/LEIA-ME.md.
-  endpoint: "https://dsnorge.com/boreal/inscrever.php"
+  endpoint: "https://api.dsnorge.com/boreal/inscrever.php"
 
 # ------------------------------------------------------------
 # Idiomas
 # ------------------------------------------------------------
 idiomas:
+  - codigo: nb
+    curto: "no"
+    prefixo: /no
+    rotulo: Norsk
+    principal: false
   - codigo: pt-BR
     curto: pt
     prefixo: ""
@@ -82,10 +87,10 @@ pt:
   descricao: >-
     Mitos, sagas, lendas, contos e história da Escandinávia e do mundo
     nórdico, da era viking aos nossos dias. Textos narrados por inteligência
-    artificial, em português e inglês.
+    artificial, em português, inglês e norueguês.
   rodape:
     sobre: >-
-      Histórias da Escandinávia e do mundo nórdico, em português e inglês.
+      Histórias da Escandinávia e do mundo nórdico, em português, inglês e norueguês.
       Textos narrados por inteligência artificial. Elaborado por Duna Press,
       que edita jornalismo em português desde 2017.
     secoes: Seções
@@ -200,8 +205,8 @@ pt:
     fontes: Fontes
     as_naturezas: Como ler cada texto
     atualizado: Atualizado em
-    idioma_sugestao: This site is also published in English.
-    idioma_sugestao_botao: Read in English
+    idioma_sugestao: Este site também é publicado em português.
+    idioma_sugestao_botao: Ler em português
   naturezas:
     - nome: História documentada
       fonte_obrigatoria: true
@@ -272,10 +277,10 @@ en:
   descricao: >-
     Myths, sagas, legends, tales and history from Scandinavia and the Nordic
     world, from the Viking Age to today. Texts narrated by artificial
-    intelligence, in Portuguese and English.
+    intelligence, in Portuguese, English and Norwegian.
   rodape:
     sobre: >-
-      Stories of Scandinavia and the Nordic world, in English and Portuguese.
+      Stories of Scandinavia and the Nordic world, in English, Portuguese and Norwegian.
       Texts narrated by artificial intelligence. Produced by Duna Press, which
       has published journalism in Portuguese since 2017.
     secoes: Sections
@@ -387,8 +392,8 @@ en:
     fontes: Sources
     as_naturezas: How to read each text
     atualizado: Updated
-    idioma_sugestao: Este site também é publicado em português.
-    idioma_sugestao_botao: Ler em português
+    idioma_sugestao: This site is also published in English.
+    idioma_sugestao_botao: Read in English
   naturezas:
     - nome: Documented history
       fonte_obrigatoria: true
@@ -452,3 +457,190 @@ en:
       listed at the end.</p>
       <p>The texts are narrated by artificial intelligence. The responsible
       editor is Paulo Fernando de Barros.</p>
+
+"no":
+  lema: Myter · Sagaer · Vikingtid · Eventyr
+  chamada_topo: Skandinaviske historier og eventyr
+  descricao: >-
+    Myter, sagaer, legender, eventyr og historie fra Skandinavia og Norden,
+    fra vikingtiden til i dag. Tekstene er fortalt av kunstig intelligens, på
+    norsk, portugisisk og engelsk.
+  rodape:
+    sobre: >-
+      Historier fra Skandinavia og Norden, på norsk, portugisisk og engelsk.
+      Tekstene er fortalt av kunstig intelligens. Utgitt av Duna Press, som har
+      publisert journalistikk på portugisisk siden 2017.
+    secoes: Seksjoner
+    jornal: Nettstedet
+    legal: Juridisk
+    redes: Følg oss
+    privacidade: Personvern
+    termos: Vilkår
+    editor: Ansvarlig redaktør
+    links_jornal:
+      - { rotulo: Om oss, url: /no/om-oss/ }
+      - { rotulo: Redaksjonelle prinsipper, url: /no/redaksjonelle-prinsipper/ }
+      - { rotulo: Rettelser, url: /no/rettelser/ }
+      - { rotulo: Kontakt oss, url: /no/kontakt/ }
+    links_legal:
+      - { rotulo: Abonnement, url: /no/abonner/ }
+      - { rotulo: Bruksvilkår, url: /no/vilkar/ }
+      - { rotulo: Personvern, url: /no/personvern/ }
+      - { rotulo: Informasjonskapsler, url: /no/informasjonskapsler/ }
+  paginas:
+    arquivo: arkiv
+    sobre: om
+    quem_somos: om-oss
+    principios: redaksjonelle-prinsipper
+    correcoes: rettelser
+    contato: kontakt
+    assinatura: abonner
+    termos: vilkar
+    privacidade: personvern
+    cookies: informasjonskapsler
+    jogos: spill
+    jogo_thor: spill-thors-fisketur
+    jogo_leif: spill-leifs-reise
+    jogo_idun: spill-idun-og-eplene
+    jogo_bodes: spill-de-tre-bukkene-bruse
+    jogo_nisse: spill-fjosnissen
+    jogo_huginn: spill-huginns-flukt
+    jogo_fenrir: spill-gleipnir-binder-ulven
+    jogo_harald: spill-rognvalds-kam
+    jogo_egil: spill-egils-natt
+    jogo_capacete: spill-utgraving-ved-gjermundbu
+    jogo_oseberg: spill-osebergskroget
+    jogo_freyja: spill-freyjas-smie
+    jogo_ulfberht: spill-ulfberht-bladet
+    jogo_troll: spill-askeladden-og-trollet
+    jogo_sleipnir: spill-muren-rundt-asgard
+    jogo_tafl: spill-hnefatafl
+    jogo_esqui: spill-birkebeinerferden
+    jogo_moinho: spill-saltkvernen
+    jogo_runas: spill-rist-runene
+    jogo_frigg: spill-friggs-eder
+    jogo_cova: spill-dragegropen
+    jogo_arrasto: spill-dra-skipet
+    jogo_pedrasol: spill-solsteinen
+    jogo_violino: spill-fela-i-fossen
+  curiosidades:
+    - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
+    - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
+    - {texto: "I 1206 krysset to skiløpere fjellet med en prinsebaby for å redde ham.", url: "/no/2026/11/13/birkebeiner-haakon/"}
+    - {texto: "Gudene bandt ulven Fenrir med et bånd laget av seks ting som ikke finnes.", url: "/no/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
+    - {texto: "Vikingene spilte hnefatafl, og de opprinnelige reglene til spillet gikk tapt.", url: "/no/2026/11/13/hnefatafl-tabuleiro/"}
+    - {texto: "Jellingsteinen, fra omkring 965, har Danmarks navn skrevet med runer.", url: "/no/2026/11/13/jelling-harald-runas/"}
+    - {texto: "I Hagia Sofia i Istanbul finnes runer risset av en nordmann, og en av dem ender med navnet Halfdan.", url: "/no/2026/11/13/guarda-varegue/"}
+    - {texto: "En islandsk saga nevner en solstein som viser hvor solen er, selv bak skyene.", url: "/no/2026/11/13/pedra-solar/"}
+    - {texto: "Frigg fikk alle ting til å sverge at de ikke ville skade Balder, men glemte en misteltein.", url: "/no/2026/11/13/baldr-visco/"}
+  interface:
+    capa: Forside
+    menu_inicio: Historier
+    menu_jogos: Spill
+    linha_edicao: Duna Press-utgaver
+    sobre: Om
+    assine: Abonner
+    ultimas: Se også
+    ler_historia: Les historien
+    jogar_sagas: Spill sagaene
+    surpreenda: Overrask meg
+    sabia: Visste du at
+    leia: Les
+    reinos_titulo: Velg ditt rike
+    reinos_sub: Fire dører inn til den skandinaviske verdenen, fra gudene til fortellinger ved ildstedet.
+    n_historias: historier
+    entrar: Gå inn
+    jogos_titulo: Spill historiene
+    jogos_texto: Til hver historie som utgis her finnes et spill du kan spille på hel skjerm, på mobil, nettbrett eller datamaskin. Uten registrering og uten datainnsamling.
+    jogos_botao: Åpne arkaden
+    jogos_n: spill klare til å spilles
+    assine_titulo: Få de neste historiene
+    assine_texto: Nye myter, sagaer og fortellinger kommer hver uke, alltid med kilde og med skillet mellom historie og legende.
+    assine_botao: Jeg vil abonnere
+    ver_tudo: Se alle
+    sc_destaque: Start her
+    sc_historias: Historier fra dette riket
+    sc_jogos: Spill dette riket
+    sc_jogos_sub: Spill knyttet til historiene her. På hel skjerm, uten registrering.
+    sc_jogar: Spill
+    sc_novo: Ny
+    sc_outros: Andre riker
+    sc_n_hist: historier
+    sc_n_jogos: spill
+    sc_comecar: Begynn å lese
+    sc_ir_jogos: Gå til spillene
+    arquivo: Arkiv
+    as_secoes: Seksjonene
+    vazio: Ingenting er publisert i denne seksjonen ennå.
+    leitura: min lesing
+    natureza: Tekstens art
+    narrado: Fortalt av kunstig intelligens
+    editor: Ansvarlig redaktør
+    fontes: Kilder
+    as_naturezas: Slik leser du hver tekst
+    atualizado: Oppdatert
+    idioma_sugestao: Dette nettstedet er også utgitt på norsk.
+    idioma_sugestao_botao: Les på norsk
+  naturezas:
+    - nome: Dokumentert historie
+      fonte_obrigatoria: true
+      descricao: >-
+        Fakta, personer og steder som støttes av arkeologi, dokumenter eller
+        historikeres arbeid. Der fagfolk er uenige, sier teksten fra om det.
+    - nome: Saga eller middelalderkilde
+      fonte_obrigatoria: true
+      descricao: >-
+        Det en saga, en krønike eller en annen middelaldertekst forteller,
+        tilskrevet kilden. Mange ble skrevet århundrer etter hendelsene, og
+        teksten behandler dem ikke som nøyaktige opptegnelser.
+    - nome: Myte eller legende
+      fonte_obrigatoria: true
+      descricao: >-
+        Fortellinger om guder, vesener og helter i den norrøne tradisjonen,
+        gjenfortalt etter kildene som har bevart dem. Aldri fremstilt som fakta.
+    - nome: Original fortelling
+      fonte_obrigatoria: false
+      descricao: >-
+        Fiksjon diktet opp for dette nettstedet, inspirert av folketroen og
+        mytene fra Norden. Det er ikke dokumentert tradisjon.
+  secoes:
+    - nome: Myter og guder
+      slug: myter
+      lema: "Før det fantes konger, fantes det guder."
+      intro: "Ni verdener som henger i et tre, en gud som byttet bort et øye mot visdom, en hammer som kaller på stormen. Her fortelles mytene slik kildene har bevart dem, i Eddaene og hos Snorre, uten å utgi dem for historie, og alltid med opphavet til hver bit."
+      descricao: >-
+        Odin, Tor, Frøya, Loke og de ni verdenene. Norrøn mytologi slik den
+        har nådd oss, i Eddaene og andre kilder.
+    - nome: Sagaer og konger
+      slug: sagaer
+      lema: "Ved bålet blir minnet til sang."
+      intro: "Konger, skalder og hevnere, fortalt av islendinger lenge etter hendelsene. Sagaene er litteratur, og de er kilder: noen ganger bekreftet av runesteiner og krøniker, andre ganger ren fortellerkunst. Hver tekst skiller mellom det kilden sier og det historien kan belegge."
+      descricao: >-
+        De islandske sagaene og kongene i Norge, Sverige og Danmark, mellom
+        det kilden forteller og det historien bekrefter.
+    - nome: Vikingtid
+      slug: vikingtid
+      lema: "Havet var veien."
+      intro: "Fra slutten av 700-tallet til 1000-tallet førte smale skip kjøpmenn, nybyggere og krigere fra Nordsjøen til Konstantinopel og Nord-Amerika. Her får arkeologien ordet først: skip, sverd, mynter, runer og det vi fortsatt ikke vet."
+      descricao: >-
+        Sjøfart, handel, bosetting og tokt, fra slutten av 700-tallet til
+        1000-tallet, og det arkeologien viser.
+    - nome: Eventyr og folketro
+      slug: eventyr
+      lema: "Når lyset forsvinner tidlig, vokser eventyrene."
+      intro: "Troll under brua, nisser i fjøset, huldrefolk i skogen. Den skandinaviske folketroen ble samlet av folk som Asbjørnsen og Moe, og her finner den plass ved siden av originale fortellinger, alltid merket som diktet."
+      descricao: >-
+        Troll, huldrefolk, nisser og skandinaviske eventyr: folketroen og de
+        originale fortellingene den har inspirert.
+  manifesto:
+    titulo: Myter, sagaer og historier fra Norden, fra alle tider
+    chamada: >-
+      Asgards guder, sagaenes konger, sjøfarerne som krysset Atlanterhavet,
+      de skandinaviske eventyrene — sanne, legendariske eller diktede, med
+      tekstens art oppgitt øverst på siden.
+    origem: >-
+      <p>Hver tekst oppgir sin art: dokumentert historie, saga eller
+      middelalderkilde, myte eller legende, eller original fortelling. Der det
+      finnes en kilde, står den oppført til slutt.</p>
+      <p>Tekstene er fortalt av kunstig intelligens. Ansvarlig redaktør er
+      Paulo Fernando de Barros.</p>

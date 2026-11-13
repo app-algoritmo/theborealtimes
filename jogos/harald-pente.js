@@ -15,6 +15,13 @@ BTJogo.registrar({
       v1: 'Fairhair!',
       v2: 'According to Snorri Sturluson’s Heimskringla, after the victory at Hafrsfjord Harald cut his hair, and Rögnvald combed it. Hence the nickname. Historians view the oath scene with caution, and the game simplifies everything.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Rognvalds kam', sub: 'Harald sverget å ikke klippe eller kamme håret før han styrte hele Norge. Dra fingeren (eller musen) over flokene for å rede dem ut.',
+      toque: 'Trykk for å starte', nos: 'Floker',
+      v1: 'Hårfagre!',
+      v2: 'Ifølge Snorre Sturlasons Heimskringla klippet Harald håret etter seieren ved Hafrsfjord, og Rognvald kjemte det. Derav tilnavnet. Historikere ser på edsscenen med varsomhet, og spillet forenkler alt.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

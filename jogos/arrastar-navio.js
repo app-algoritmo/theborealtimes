@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'Constantinople in sight!',
       v2: 'The Rus carried or dragged their boats overland at the river rapids, as Emperor Constantine VII described around 950. The rhythm, the clock and the rope are made up for the game.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Dra skipet',
+      sub: 'Mellom elvene dro vikingene båtene sine over land. Trykk (eller bruk mellomromstasten) når markøren passerer den grønne sonen for å dra i tauet. I midten er draget perfekt. Nå Konstantinopel før natten faller på.',
+      toque: 'Trykk for å starte', tempo: 'Tid', ok: 'Dra!', perf: 'Perfekt!', erro: 'Gled!',
+      perdeu: 'Natten har falt på', p1: 'Skipet ble stående på veien.', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Konstantinopel i sikte!',
+      v2: 'Rusene bar eller dro båtene sine over land ved strykene i elvene, slik keiser Konstantin VII beskrev omkring 950. Rytmen, klokken og tauet er diktet opp for spillet.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

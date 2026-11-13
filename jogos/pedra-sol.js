@@ -21,6 +21,16 @@ BTJogo.registrar({
       v1: 'You found the sun!',
       v2: 'An Icelandic saga says King Olaf used a sunstone to show where the sun was on a cloudy day. Modern experiments show a crystal could help, but nobody knows whether the Vikings used one. The game is a simplification.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Solsteinen',
+      sub: 'Himmelen er full av skyer. Dra fingeren (eller bruk piltastene) for å flytte markøren langs horisonten, og følg med på de to lysene i krystallen: solen er der begge lyser likt. Trykk Merk. Fem runder.',
+      toque: 'Trykk for å starte', marcar: 'Merk', rodada: 'Runde', acertos: 'Treff',
+      certo: 'Du fant solen!', quase: 'Nesten', longe: 'Langt fra solen',
+      perdeu: 'For mange skyer', p1: 'Du traff færre enn fire.', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Du fant solen!',
+      v2: 'En islandsk saga forteller at kong Olav brukte en solstein for å vise hvor solen sto en overskyet dag. Moderne forsøk viser at en krystall kan hjelpe, men ingen vet om vikingene brukte en. Spillet er en forenkling.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

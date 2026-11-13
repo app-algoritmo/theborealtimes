@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'The trees danced!',
       v2: 'In Norwegian folklore, Fossegrim lives in waterfalls and teaches the fiddle to those who bring him meat on a Thursday night, so well that the trees dance. The melody and the notes are made up for the game.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Fela i fossen',
+      sub: 'Fossegrimen spiller ved foten av fossen. Trykk på riktig streng når hver gyldne tone når den glødende linjen (på datamaskin bruker du tastene 1 til 4 eller D, F, J, K). Treff 28 av de 40 tonene, og trærne danser. Spillet har enkle lyder.',
+      toque: 'Trykk for å starte', notas: 'Toner', perf: 'Perfekt!', bom: 'Bra', errou: 'Bom',
+      perdeu: 'Trærne sto stille', p1: 'Du traff', p1b: 'av 40 toner. Du trengte 28.', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Trærne danset!',
+      v2: 'I norsk folketro bor Fossegrimen i fossene og lærer bort felespill til dem som gir ham kjøtt en torsdagskveld, så godt at trærne danser. Melodien og tonene er diktet opp for spillet.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {

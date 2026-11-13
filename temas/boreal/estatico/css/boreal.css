@@ -359,7 +359,7 @@ pre.codigo code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
      espremida e a linha institucional quebrava. No telefone ficam só a
      data e o link de assinatura. */
   .faixa-topo .env{height:30px;font-size:9.5px;letter-spacing:.06em}
-  .faixa-topo .env span:nth-child(2){display:none}
+  .faixa-topo .env > span:nth-child(2){display:none}
 
   /* O nome do jornal ocupava altura demais antes da primeira manchete. */
   .masthead{padding:16px 0 10px}
@@ -466,7 +466,9 @@ img{height:auto}
 .faixa-topo a{color:rgba(255,255,255,.8)}
 .faixa-topo a:hover{color:#fff}
 .faixa-topo a.assine{color:#fff;border-bottom-color:#fff}
-.faixa-topo span:last-child{display:inline-flex;gap:16px;align-items:center}
+.faixa-topo .env > span:last-child{display:inline-flex;gap:16px;align-items:center}
+.faixa-topo .idiomas{display:inline-flex;gap:12px;align-items:center}
+.faixa-topo .idioma-atual{color:#fff;font-weight:700;border-bottom:1px solid rgba(255,255,255,.55)}
 
 /* Lojas de aplicativo, na página de assinatura. */
 .lojas{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:0 0 28px}

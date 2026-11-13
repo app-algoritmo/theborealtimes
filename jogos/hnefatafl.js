@@ -19,6 +19,15 @@ BTJogo.registrar({
       v1: 'The king escaped!',
       v2: 'Hnefatafl was played in Viking times, and boards have been found in places like the Gokstad ship. The original rules were lost and have been reconstructed; this 7×7 board is a simplified version, and here the king is only captured on four sides.',
       jogar: 'Tap to play again'
+    },
+    no: {
+      titulo: 'Hnefatafl i miniatyr',
+      sub: 'Du leder kongen og fire forsvarere, i lilla. Før kongen til et av de fire hjørnene. Angriperne, i rødt, prøver å omringe ham. Trykk på en brikke, så på målet.',
+      toque: 'Trykk for å starte', sua: 'Din tur', pensa: 'Angriperne tenker...', pecas: 'Forsvarere',
+      perdeu: 'Kongen ble omringet', de_novo: 'Trykk for å prøve igjen',
+      v1: 'Kongen slapp unna!',
+      v2: 'Hnefatafl ble spilt i vikingtiden, og brett er funnet på steder som Gokstadskipet. De opprinnelige reglene gikk tapt og er rekonstruert; dette brettet på 7×7 ruter er en forenklet versjon, og her blir kongen bare tatt på fire sider.',
+      jogar: 'Trykk for å spille igjen'
     }
   },
   criar: function (api) {
