@@ -40,3 +40,4 @@ body:has(.as) .rodape{margin-top:0}
 @media(max-width:760px){.as-promessas{grid-template-columns:1fr}.as .ax-btn{width:100%;justify-content:center}.as-cartao{padding:22px 18px}}
 @media(prefers-reduced-motion:reduce){.as-selo{animation:none}}
 .as-texto>p:first-of-type::first-letter,.as-texto.texto>p:first-of-type::first-letter{font-size:inherit;float:none;color:inherit;margin:0;padding:0;line-height:inherit;font-family:inherit;font-weight:inherit}
+.as-estado:focus,.as-estado:focus-visible{outline:none}
