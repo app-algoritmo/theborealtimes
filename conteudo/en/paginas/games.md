@@ -22,6 +22,11 @@ Every game here comes from a story published on the site. They open fullscreen o
 <li><a href="/en/game-freyjas-forge/">The dwarfs’ forge</a><br>watch the order of the anvils and repeat the strikes of the four dwarfs forging Freyja’s necklace.</li>
 <li><a href="/en/game-ulfberht-blade/">The Ulfberht blade</a><br>strike the hot iron at the right moment and forge a sword bearing the inscription VLFBERHT.</li>
 <li><a href="/en/game-askeladden-and-the-troll/">Askeladden and the troll</a><br>hide porridge in a bag without the troll noticing, like Askeladden in the eating contest.</li>
+<li><a href="/en/game-wall-of-asgard/">The wall of Asgard</a><br>be Loki disguised as a mare and distract the builder’s horse so the wall of Asgard is not finished before summer.</li>
+<li><a href="/en/game-hnefatafl/">Hnefatafl in miniature</a><br>take the king to one of the board’s corners before the attackers surround him, in a small version of the Viking game.</li>
+<li><a href="/en/game-birkebeiner-crossing/">The Birkebeiner crossing</a><br>ski down the mountain with little Prince Haakon, dodging trees and rocks, until you reach safety.</li>
+<li><a href="/en/game-salt-mill/">The mill that grinds salt</a><br>turn the magic mill to fill the ship with salt, but let go in time: it is slow to stop and the ship can sink.</li>
+<li><a href="/en/game-carve-the-runes/">Carve the runes</a><br>carve five runes by connecting the dots, as if chiseling the Jelling stone.</li>
 </ul>
 
 The games are entertainment inspired by the stories. Where a game changes something the sources tell, the game page explains what is actually recorded.

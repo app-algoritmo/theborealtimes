@@ -134,6 +134,11 @@ pt:
     jogo_freyja: jogo-forja-dos-anoes
     jogo_ulfberht: jogo-lamina-ulfberht
     jogo_troll: jogo-askeladden-e-o-troll
+    jogo_sleipnir: jogo-muro-de-asgard
+    jogo_tafl: jogo-hnefatafl
+    jogo_esqui: jogo-travessia-dos-birkebeiner
+    jogo_moinho: jogo-moinho-de-sal
+    jogo_runas: jogo-gravar-as-runas
   interface:
     capa: Capa
     menu_inicio: Histórias
@@ -269,6 +274,11 @@ en:
     jogo_freyja: game-freyjas-forge
     jogo_ulfberht: game-ulfberht-blade
     jogo_troll: game-askeladden-and-the-troll
+    jogo_sleipnir: game-wall-of-asgard
+    jogo_tafl: game-hnefatafl
+    jogo_esqui: game-birkebeiner-crossing
+    jogo_moinho: game-salt-mill
+    jogo_runas: game-carve-the-runes
   interface:
     capa: Front page
     menu_inicio: Stories
