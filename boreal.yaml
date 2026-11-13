@@ -179,6 +179,17 @@ pt:
     assine_texto: Toda semana chegam novos mitos, sagas e contos, sempre com a fonte e a diferença entre o que é história e o que é lenda.
     assine_botao: Quero assinar
     ver_tudo: Ver tudo
+    sc_destaque: Para começar
+    sc_historias: Histórias deste reino
+    sc_jogos: Jogue este reino
+    sc_jogos_sub: Jogos ligados às histórias daqui. Em tela cheia, sem cadastro.
+    sc_jogar: Jogar
+    sc_novo: Novo
+    sc_outros: Outros reinos
+    sc_n_hist: histórias
+    sc_n_jogos: jogos
+    sc_comecar: Começar a ler
+    sc_ir_jogos: Ir aos jogos
     arquivo: Arquivo
     as_secoes: As seções
     vazio: Nenhum texto publicado nesta seção ainda.
@@ -216,21 +227,29 @@ pt:
   secoes:
     - nome: Mitos e Deuses
       slug: mitos
+      lema: "Antes de haver reis, havia deuses."
+      intro: "Nove mundos pendurados numa árvore, um deus que trocou um olho por sabedoria, um martelo que chama a tormenta. Aqui os mitos são contados como as fontes os guardaram, nas Eddas e em Snorri, sem fingir que sejam história, e sempre com a origem de cada pedaço."
       descricao: >-
         Odin, Thor, Freya, Loki e os nove mundos. A mitologia nórdica como
         chegou até nós, nas Eddas e em outras fontes.
     - nome: Sagas e Reis
       slug: sagas
+      lema: "Ao pé do fogo, a memória vira canto."
+      intro: "Reis, poetas e vingadores, contados por islandeses muito tempo depois dos fatos. As sagas são literatura e são fonte: às vezes confirmadas por runas e crônicas, às vezes puro talento de narrador. Cada texto separa o que a fonte diz do que a história sustenta."
       descricao: >-
         As sagas islandesas e os reis da Noruega, da Suécia e da Dinamarca,
         entre o que a fonte conta e o que a história confirma.
     - nome: Era Viking
       slug: vikings
+      lema: "O mar era a estrada."
+      intro: "Do fim do século VIII ao XI, barcos estreitos levaram comerciantes, colonos e guerreiros do Mar do Norte até Constantinopla e à América. Aqui a arqueologia fala primeiro: navios, espadas, moedas, runas e o que ainda não sabemos."
       descricao: >-
         Navegação, comércio, assentamentos e expedições, do fim do século VIII
         ao século XI, e o que a arqueologia mostra.
     - nome: Contos e Folclore
       slug: contos
+      lema: "Quando a luz acaba cedo, os contos crescem."
+      intro: "Trolls sob a ponte, nisser no celeiro, huldrefolk na floresta. O folclore escandinavo foi recolhido por gente como Asbjørnsen e Moe e aqui convive com histórias originais, sempre avisadas como inventadas."
       descricao: >-
         Trolls, huldras, nisser e contos de fadas escandinavos: o folclore e as
         histórias originais inspiradas nele.
@@ -347,6 +366,17 @@ en:
     assine_texto: New myths, sagas and tales arrive every week, always with the source and the difference between history and legend.
     assine_botao: I want to subscribe
     ver_tudo: See all
+    sc_destaque: Start here
+    sc_historias: Stories of this realm
+    sc_jogos: Play this realm
+    sc_jogos_sub: Games tied to the stories here. Fullscreen, no sign-up.
+    sc_jogar: Play
+    sc_novo: New
+    sc_outros: Other realms
+    sc_n_hist: stories
+    sc_n_jogos: games
+    sc_comecar: Start reading
+    sc_ir_jogos: Go to the games
     arquivo: Archive
     as_secoes: The sections
     vazio: Nothing published in this section yet.
@@ -384,21 +414,29 @@ en:
   secoes:
     - nome: Myths & Gods
       slug: myths
+      lema: "Before there were kings, there were gods."
+      intro: "Nine worlds hanging from a tree, a god who traded an eye for wisdom, a hammer that calls the storm. Here the myths are told as the sources kept them, in the Eddas and in Snorri, never passed off as history, and always with the origin of each piece."
       descricao: >-
         Odin, Thor, Freya, Loki and the nine worlds. Norse mythology as it
         reached us, in the Eddas and other sources.
     - nome: Sagas & Kings
       slug: sagas
+      lema: "By the fire, memory becomes song."
+      intro: "Kings, poets and avengers, told by Icelanders long after the events. The sagas are literature and they are sources: sometimes confirmed by runestones and chronicles, sometimes pure storyteller's talent. Each text separates what the source says from what history supports."
       descricao: >-
         The Icelandic sagas and the kings of Norway, Sweden and Denmark,
         between what the source tells and what history confirms.
     - nome: Viking Age
       slug: viking-age
+      lema: "The sea was the road."
+      intro: "From the late eighth to the eleventh century, narrow ships carried traders, settlers and warriors from the North Sea to Constantinople and North America. Here archaeology speaks first: ships, swords, coins, runes and what we still do not know."
       descricao: >-
         Seafaring, trade, settlement and expeditions, from the late eighth to
         the eleventh century, and what archaeology shows.
     - nome: Tales & Folklore
       slug: tales
+      lema: "When the light goes early, the tales grow."
+      intro: "Trolls under the bridge, nisser in the barn, huldrefolk in the forest. Scandinavian folklore was gathered by people like Asbjørnsen and Moe, and here it sits beside original stories, always flagged as invented."
       descricao: >-
         Trolls, huldrefolk, nisser and Scandinavian fairy tales: the folklore
         and the original stories inspired by it.

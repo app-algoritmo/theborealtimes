@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+{% block titulo %}{{ lista.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ lista.resumo|default(t.descricao) }}{% endblock %}
+
+{% block conteudo %}
+{% macro mini(url) %}{{ url|replace('/img/materias/', '/img/materias/mini/') }}{% endmacro %}
+{% set runas = {'mitos':'ᚨ','sagas':'ᛟ','viking':'ᚦ','contos':'ᚠ'} %}
+{% set runa = runas[reino.cor] %}
+<link rel="stylesheet" href="/g/secao.css?v=1">
+<noscript><style>.sc-rev{opacity:1!important;transform:none!important}</style></noscript>
+<div class="sc sc-c-{{ reino.cor }}" id="sc" data-fx="{{ reino.cor }}">
+
+<section class="sc-hero">
+  <div class="sc-foto" aria-hidden="true">
+    {% if reino.heroi %}<img src="{{ reino.heroi }}" alt="" width="1200" height="675" fetchpriority="high" onerror="this.remove()">{% endif %}
+  </div>
+  <div class="sc-veu" aria-hidden="true"></div>
+  <div class="sc-atm" aria-hidden="true"><i></i><i></i><i></i></div>
+  <canvas class="sc-fx" aria-hidden="true"></canvas>
+  <span class="sc-runa-g" aria-hidden="true">{{ runa }}</span>
+
+  <div class="sc-env sc-hero-in">
+    <p class="sc-kick"><span aria-hidden="true">{{ runa }}</span> {{ reino.n_hist }} {{ ui.sc_n_hist }}{% if reino.jogos %} · {{ reino.jogos|length }} {{ ui.sc_n_jogos }}{% endif %}</p>
+    <h1 class="sc-titulo">{{ lista.titulo }}</h1>
+    <p class="sc-lema">{{ reino.lema }}</p>
+    <p class="sc-intro">{{ reino.intro }}</p>
+    <div class="sc-cta">
+      {% if edicoes %}<a class="sc-btn sc-btn-a" href="#sc-dest">{{ ui.sc_comecar }} <i aria-hidden="true">↓</i></a>{% endif %}
+      {% if reino.jogos %}<a class="sc-btn sc-btn-b" href="#sc-jogos">🎮 {{ ui.sc_ir_jogos }}</a>{% endif %}
+    </div>
+  </div>
+
+  <svg class="sc-borda" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true">
+    {% if reino.cor == 'mitos' %}
+      {% for i in range(0, 14) %}{% set x = i*96 - 30 %}{% set y = 26 + (i*53 % 62) %}<polygon points="{{ x }},120 {{ x+70 }},{{ y }} {{ x+140 }},120"/>{% endfor %}
+    {% elif reino.cor == 'sagas' %}
+      {% for i in range(0, 12) %}{% set x = i*104 - 10 %}{% set h = 36 + (i*41 % 40) %}<polygon points="{{ x }},120 {{ x }},{{ 120-h+22 }} {{ x+36 }},{{ 120-h }} {{ x+72 }},{{ 120-h+22 }} {{ x+72 }},120"/>{% endfor %}
+    {% elif reino.cor == 'viking' %}
+      <g class="sc-onda sc-onda-1"><path d="M0,62 Q150,22 300,62 T600,62 T900,62 T1200,62 T1500,62 T1800,62 V120 H0Z" opacity=".55"/></g>
+      <g class="sc-onda sc-onda-2"><path d="M0,78 Q150,44 300,78 T600,78 T900,78 T1200,78 T1500,78 T1800,78 V120 H0Z"/></g>
+    {% else %}
+      {% for i in range(0, 26) %}{% set x = i*47 - 12 %}{% set h = 46 + (i*29 % 52) %}<polygon points="{{ x }},120 {{ x+25 }},{{ 120-h }} {{ x+50 }},120"/>{% endfor %}
+    {% endif %}
+  </svg>
+</section>
+
+<section class="sc-corpo">
+  <div class="sc-env">
+
+  {% if edicoes %}
+  {% set d = edicoes[0] %}
+  <div class="sc-cab sc-rev" id="sc-dest"><h2><span aria-hidden="true">{{ runa }}</span> {{ ui.sc_destaque }}</h2></div>
+  <a class="sc-dest sc-rev" href="{{ d.url }}">
+    <span class="sc-dest-img">{% if d.imagem %}<img src="{{ d.imagem }}" alt="{{ d.imagem_alt }}" width="1200" height="675" loading="lazy" decoding="async">{% endif %}</span>
+    <span class="sc-dest-txt">
+      <span class="sc-tag">{{ d.natureza }} · {{ d.data_curta }}</span>
+      <b class="sc-dest-tit">{{ d.titulo }}</b>
+      <span class="sc-dest-res">{{ d.resumo }}</span>
+      <span class="sc-ler">{{ ui.leia }} <i aria-hidden="true">→</i></span>
+    </span>
+  </a>
+
+  {% if edicoes|length > 1 %}
+  <div class="sc-cab sc-rev"><h2><span aria-hidden="true">{{ runa }}</span> {{ ui.sc_historias }}</h2></div>
+  <div class="sc-cards">
+    {% for e in edicoes[1:] %}
+    <a class="sc-card sc-rev" href="{{ e.url }}" style="--i:{{ loop.index0 % 6 }}">
+      <span class="sc-card-img">{% if e.imagem %}<img src="{{ mini(e.imagem) }}" alt="{{ e.imagem_alt }}" width="640" height="360" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='{{ e.imagem }}'">{% endif %}</span>
+      <span class="sc-card-corpo">
+        <span class="sc-tag">{{ e.natureza }}</span>
+        <b class="sc-card-tit">{{ e.titulo }}</b>
+        <span class="sc-card-res">{{ e.resumo }}</span>
+        <span class="sc-ler">{{ ui.leia }} <i aria-hidden="true">→</i></span>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% else %}
+  <p class="sc-vazio">{{ ui.vazio }}</p>
+  {% endif %}
+
+  {% if reino.jogos %}
+  <section class="sc-jogos" id="sc-jogos">
+    <div class="sc-cab sc-rev"><h2><span aria-hidden="true">🎮</span> {{ ui.sc_jogos }}</h2><p>{{ ui.sc_jogos_sub }}</p></div>
+    <div class="sc-gcards">
+      {% for c in reino.jogos %}
+      <a class="sc-g sc-rev" href="{{ c.url }}" style="--i:{{ loop.index0 % 6 }}">
+        <span class="sc-g-img"><img src="/estatico/img/materias/mini/{{ c.imagem }}.webp" alt="" width="640" height="360" loading="lazy" decoding="async">{% if c.novo %}<em>{{ ui.sc_novo }}</em>{% endif %}</span>
+        <span class="sc-g-corpo">
+          <b>{{ c.titulo }}</b>
+          <span>{{ c.desc }}</span>
+          <span class="sc-ler">{{ ui.sc_jogar }} <i aria-hidden="true">▶</i></span>
+        </span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <div class="sc-cab sc-rev"><h2>{{ ui.sc_outros }}</h2></div>
+  <div class="sc-outros">
+    {% for o in reino.outros %}
+    <a class="sc-o sc-c-{{ o.cor }} sc-rev" href="{{ idioma.prefixo }}/{{ o.slug }}/" style="--i:{{ loop.index0 }}">
+      <span class="sc-o-r" aria-hidden="true">{{ runas[o.cor] }}</span>
+      <b>{{ o.nome }}</b>
+      <span>{{ o.n_hist }} {{ ui.sc_n_hist }} · {{ ui.entrar }} →</span>
+    </a>
+    {% endfor %}
+  </div>
+
+  <section class="sc-assine sc-rev">
+    <h2>{{ ui.assine_titulo }}</h2>
+    <p>{{ ui.assine_texto }}</p>
+    <a class="sc-btn sc-btn-a" href="{{ idioma.prefixo }}/{{ t.paginas.assinatura }}/">{{ ui.assine_botao }}</a>
+  </section>
+
+  </div>
+</section>
+</div>
+<script src="/g/secao.js?v=1" defer></script>
+{% endblock %}

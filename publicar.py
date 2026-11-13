@@ -385,16 +385,27 @@ def construir():
                  env.get_template("capa.html").render(**capa_ctx))
         todas_urls.append(f"{pref}/")
 
-        # ---- páginas de editoria
+        # ---- páginas de editoria (um "reino" por seção)
+        cores_reino = ["mitos", "sagas", "viking", "contos"]
         for n, s in enumerate(secoes):
             da_secao = [m for m in lista if m.get("secao") == s["nome"]]
+            cor = cores_reino[n % 4]
+            arq_heroi = RAIZ / f"temas/boreal/estatico/img/materias/reino-{cor}.webp"
+            reino = dict(
+                cor=cor, lema=s.get("lema", ""), intro=s.get("intro", s["descricao"]),
+                n_hist=len(da_secao),
+                heroi=f"/estatico/img/materias/reino-{cor}.webp" if arq_heroi.exists() else "",
+                jogos=[c for c in cards if c.get("cor") == cor],
+                outros=[dict(nome=o["nome"], slug=o["slug"], cor=cores_reino[k % 4],
+                             n_hist=len([m for m in lista if m.get("secao") == o["nome"]]))
+                        for k, o in enumerate(secoes) if k != n])
             ctx = dict(base, pagina={"url": f"{pref}/{s['slug']}/"},
                        lista={"titulo": s["nome"], "resumo": s["descricao"]},
                        alternativas=alternativas_de(mapa, f"secao:{n}",
                                                     cfg, curto),
-                       edicoes=da_secao)
+                       edicoes=da_secao, reino=reino)
             escrever(raiz_saida / s["slug"] / "index.html",
-                     env.get_template("lista.html").render(**ctx))
+                     env.get_template("secao.html").render(**ctx))
             todas_urls.append(f"{pref}/{s['slug']}/")
 
         # ---- arquivo
