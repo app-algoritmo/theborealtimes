@@ -5,6 +5,7 @@
 {% block ogimagem %}{{ pagina.imagem|default(site.url ~ '/estatico/img/boreal-social.png') }}{% endblock %}
 
 {% block conteudo %}
+<link rel="stylesheet" href="/g/ouvir.css?v=1">
 <article>
   <div class="trilha">
     <a href="{{ idioma.prefixo }}/">{{ ui.capa }}</a> ›
@@ -24,6 +25,10 @@
         <span>{{ pagina.data_longa }}</span>
         <span class="sep">·</span>
         <span>{{ pagina.leitura }} {{ ui.leitura }}</span>
+      </div>
+      <div class="ouvir" hidden data-lang="{{ ui.ouvir_lang }}" data-ouvir="{{ ui.ouvir }}" data-pausar="{{ ui.ouvir_pausar }}" data-continuar="{{ ui.ouvir_continuar }}">
+        <button type="button" class="ouvir-tocar" aria-pressed="false">▶ {{ ui.ouvir }}</button>
+        <button type="button" class="ouvir-parar" hidden>■ {{ ui.ouvir_parar }}</button>
       </div>
     </div>
 
@@ -56,4 +61,5 @@
     {% endif %}
   </div>
 </article>
+<script src="/g/ouvir.js?v=1" defer></script>
 {% endblock %}

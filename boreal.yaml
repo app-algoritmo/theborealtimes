@@ -220,6 +220,11 @@ pt:
     leitura: min de leitura
     natureza: Natureza do texto
     narrado: Narrado por inteligência artificial
+    ouvir: Ouvir
+    ouvir_pausar: Pausar
+    ouvir_continuar: Continuar
+    ouvir_parar: Parar
+    ouvir_lang: pt-BR
     editor: Editor responsável
     fontes: Fontes
     as_naturezas: Como ler cada texto
@@ -426,6 +431,11 @@ en:
     leitura: min read
     natureza: Nature of the text
     narrado: Narrated by artificial intelligence
+    ouvir: Listen
+    ouvir_pausar: Pause
+    ouvir_continuar: Resume
+    ouvir_parar: Stop
+    ouvir_lang: en-GB
     editor: Responsible editor
     fontes: Sources
     as_naturezas: How to read each text
@@ -632,6 +642,11 @@ en:
     leitura: min lesing
     natureza: Tekstens art
     narrado: Fortalt av kunstig intelligens
+    ouvir: Lytt
+    ouvir_pausar: Pause
+    ouvir_continuar: Fortsett
+    ouvir_parar: Stopp
+    ouvir_lang: nb-NO
     editor: Ansvarlig redaktør
     fontes: Kilder
     as_naturezas: Slik leser du hver tekst
