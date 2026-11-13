@@ -40,3 +40,6 @@ As runas existiram como escrita de verdade. O alfabeto mais antigo, o futhark an
 O mito dá a esse alfabeto uma origem divina e um preço. Nas fontes nórdicas, o conhecimento quase sempre vem de um sacrifício, e Odin aparece pagando por sabedoria mais de uma vez. Snorri Sturluson, na Edda em Prosa, conta que ele deixou um olho como penhor à fonte do gigante Mímir, o que a Völuspá também sugere.
 
 Na prática, as pedras rúnicas da era viking têm usos bem mais cotidianos que o mito. A maior parte são memoriais: uma família grava o nome de um parente morto, às vezes com a lembrança de onde ele esteve ou de quem mandou erguer a pedra.
+
+
+Para voar com os corvos de Odin, jogue [O voo de Huginn](/jogo-voo-de-huginn/).

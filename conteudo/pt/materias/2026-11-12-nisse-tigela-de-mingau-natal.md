@@ -38,3 +38,6 @@ Correu para a cozinha, esquentou o que restava de aveia, juntou a manteiga e lev
 Ninguém viu o nisse. Mas, quando a menina voltou ao fim da tarde, a tigela estava vazia, e ao lado dela havia uma pedrinha lisa, do tamanho de um ovo de pardal, que brilhava como se tivesse sido polida a noite inteira.
 
 Dizem que a família guardou a pedra na prateleira da cozinha e que, a partir daquele ano, a tigela de mingau nunca mais foi esquecida.
+
+
+Para cuidar do celeiro até o amanhecer, jogue [O nisse do celeiro](/jogo-nisse-do-celeiro/).

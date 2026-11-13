@@ -5,14 +5,15 @@ olho: Jogo
 atualizado: novembro de 2026
 ---
 
-<div class="jogo"><canvas id="jogo-thor" width="800" height="450" aria-label="Jogo A pesca de Thor" role="img"></canvas></div>
-<p class="jogo-nota">Computador: segure a barra de espaço ou o botão do mouse. Celular: segure o dedo na tela.</p>
+<div class="jogo"><canvas id="jogo-thor" aria-label="A pesca de Thor" role="img"></canvas></div>
+<p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/thor-pesca.js?v=1" defer></script>
+<script src="/g/tela.js?v=2" defer></script>
+<script src="/g/thor-pesca.js?v=2" defer></script>
 
 ## Como jogar
 
-Segure para puxar a linha: a serpente sobe, mas a linha estica. Solte para a linha descansar. Quando a serpente ficar de olhos vermelhos e o aviso aparecer, solte, porque ela vai puxar com força. São três rodadas, cada uma mais difícil.
+Segure o dedo, o mouse ou a barra de espaço para puxar a linha: a serpente sobe, mas a linha estica. Solte para a linha descansar. Quando a serpente ficar de olhos vermelhos e o aviso aparecer, solte, porque ela vai puxar com força. São três rodadas, cada uma mais difícil.
 
 ## A história por trás
 

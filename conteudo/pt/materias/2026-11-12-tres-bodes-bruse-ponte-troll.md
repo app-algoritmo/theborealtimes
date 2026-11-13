@@ -68,3 +68,6 @@ Nos contos populares noruegueses é comum um fecho em forma de verso curto, que 
 Asbjørnsen e Moe, dois amigos, passaram anos ouvindo e anotando histórias contadas no campo e as publicaram a partir de 1841. Eles tiveram papel importante na construção de uma identidade cultural norueguesa no século XIX, quando o país buscava afirmar a sua língua e a sua tradição após séculos de união com a Dinamarca.
 
 Os trolls, criaturas das montanhas e das florestas, são presença constante no folclore escandinavo. O conto dos bodes Bruse é hoje um dos mais conhecidos do folclore norueguês.
+
+
+Para atravessar a ponte você mesmo, jogue [Os três bodes Bruse](/jogo-tres-bodes-bruse/).

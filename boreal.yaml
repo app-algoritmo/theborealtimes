@@ -122,6 +122,10 @@ pt:
     jogos: jogos
     jogo_thor: jogo-pesca-de-thor
     jogo_leif: jogo-viagem-de-leif
+    jogo_idun: jogo-idun-e-as-macas
+    jogo_bodes: jogo-tres-bodes-bruse
+    jogo_nisse: jogo-nisse-do-celeiro
+    jogo_huginn: jogo-voo-de-huginn
   interface:
     capa: Capa
     menu_inicio: Histórias
@@ -245,6 +249,10 @@ en:
     jogos: games
     jogo_thor: game-thors-fishing-trip
     jogo_leif: game-leifs-voyage
+    jogo_idun: game-idun-and-the-apples
+    jogo_bodes: game-three-billy-goats
+    jogo_nisse: game-barn-nisse
+    jogo_huginn: game-flight-of-huginn
   interface:
     capa: Front page
     menu_inicio: Stories
