@@ -3,6 +3,13 @@ titulo: "O moinho que mói sal"
 resumo: "Jogo: gire o moinho mágico para encher o navio de sal, mas solte a tempo: ele demora a parar e o navio pode afundar."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: moinho-sal-mar
+  cor: contos
+  secao: "Contos e Folclore"
+  tipo: "🧂 Equilíbrio"
+  novo: true
+  ordem: 4
 ---
 
 <div class="jogo"><canvas id="jogo-moinho" aria-label="O moinho que mói sal" role="img"></canvas></div>

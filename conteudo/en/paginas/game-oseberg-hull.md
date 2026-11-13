@@ -3,6 +3,13 @@ titulo: "The Oseberg hull"
 resumo: "Game: drop oak planks at the right moment and build a Viking ship hull, as in the Oseberg and Gokstad ships."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: navios-oseberg
+  cor: viking
+  secao: "Viking Age"
+  tipo: "🪵 Precision"
+  novo: false
+  ordem: 17
 ---
 
 <div class="jogo"><canvas id="jogo-oseberg" aria-label="The Oseberg hull" role="img"></canvas></div>

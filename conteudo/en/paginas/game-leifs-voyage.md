@@ -3,6 +3,13 @@ titulo: "Leif's voyage"
 resumo: "Game: steer Leif Eriksson's ship through ice and rocks, from Helluland to Markland and on to Vinland, as the sagas tell it."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: leif-vinlandia
+  cor: sagas
+  secao: "Sagas & Kings"
+  tipo: "⛵ Sailing"
+  novo: false
+  ordem: 11
 ---
 
 <div class="jogo"><canvas id="jogo-leif" aria-label="Leif's voyage" role="img"></canvas></div>

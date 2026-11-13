@@ -3,6 +3,13 @@ titulo: "Gleipnir, a fita impossível"
 resumo: "Jogo: junte as seis coisas que não existem para os anões fazerem Gleipnir e depois segure a fita no ponto certo para prender o lobo Fenrir."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: fenrir-gleipnir
+  cor: mitos
+  secao: "Mitos e Deuses"
+  tipo: "⛓️ Tensão"
+  novo: false
+  ordem: 12
 ---
 
 <div class="jogo"><canvas id="jogo-fenrir" aria-label="Gleipnir, a fita impossível" role="img"></canvas></div>

@@ -3,6 +3,13 @@ titulo: "Carve the runes"
 resumo: "Game: carve five runes by connecting the dots, as if chiseling the Jelling stone."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: jelling-harald-runas
+  cor: viking
+  secao: "Viking Age"
+  tipo: "ᚱ Tracing"
+  novo: true
+  ordem: 5
 ---
 
 <div class="jogo"><canvas id="jogo-runas" aria-label="Carve the runes" role="img"></canvas></div>

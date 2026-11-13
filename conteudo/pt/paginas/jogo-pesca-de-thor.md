@@ -3,6 +3,13 @@ titulo: "A pesca de Thor"
 resumo: "Jogo: segure a linha, solte quando a serpente investir e traga Jörmungandr à superfície, como na história contada por Snorri."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: thor-serpente
+  cor: mitos
+  secao: "Mitos e Deuses"
+  tipo: "⚡ Reflexo"
+  novo: false
+  ordem: 10
 ---
 
 <div class="jogo"><canvas id="jogo-thor" aria-label="A pesca de Thor" role="img"></canvas></div>

@@ -3,6 +3,13 @@ titulo: "O nisse do celeiro"
 resumo: "Jogo: seja o nisse do celeiro e cuide dos animais durante a noite de inverno, até a menina trazer o mingau ao amanhecer."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: nisse-mingau
+  cor: contos
+  secao: "Contos e Folclore"
+  tipo: "🏡 Cuidar"
+  novo: false
+  ordem: 22
 ---
 
 <div class="jogo"><canvas id="jogo-nisse" aria-label="O nisse do celeiro" role="img"></canvas></div>

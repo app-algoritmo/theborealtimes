@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+{% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
+
+{% block conteudo %}
+{% set ax = pagina.ax %}
+<link rel="stylesheet" href="/g/arcade.css?v=1">
+<div class="ax" id="ax">
+
+<section class="ax-hero" id="ax-hero">
+  <div class="ax-ceu" aria-hidden="true"></div>
+  <div class="ax-estrelas" aria-hidden="true"></div>
+  <div class="ax-aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="ax-lua" aria-hidden="true"></div>
+  <canvas class="ax-neve" aria-hidden="true"></canvas>
+  <div class="ax-hero-in">
+    <p class="ax-runas" aria-hidden="true">ᚠ ᚢ ᚦ ᚨ ᚱ ᚲ ᚷ ᚹ</p>
+    <p class="ax-chapeu">{{ pagina.olho }}</p>
+    <h1 class="ax-titulo">{{ pagina.titulo }}</h1>
+    <p class="ax-lead">{{ ax.lead }}</p>
+    <div class="ax-cta">
+      <button type="button" class="ax-btn ax-btn-sorteio" id="ax-sorteio" data-sorteando="{{ ax.sorteando }}">
+        <span class="ax-dado" aria-hidden="true">🎲</span> {{ ax.btn_sorteio }}
+      </button>
+      <a class="ax-btn ax-btn-sec" href="#ax-grade">{{ ax.btn_ver }}</a>
+    </div>
+    <ul class="ax-stats">
+      <li><b data-conta="{{ cards|length }}">{{ cards|length }}</b><span>{{ ax.stat_jogos }}</span></li>
+      <li><b data-conta="2">2</b><span>{{ ax.stat_idiomas }}</span></li>
+      <li><b data-conta="0">0</b><span>{{ ax.stat_cadastros }}</span></li>
+    </ul>
+  </div>
+  <div class="ax-navio" aria-hidden="true">
+    <svg viewBox="0 0 240 150" xmlns="http://www.w3.org/2000/svg">
+      <path d="M120 8 L120 96" stroke="#1a1030" stroke-width="3"/>
+      <path d="M120 14 C170 26 188 60 190 96 L120 96 Z" fill="#b4472f"/>
+      <path d="M120 14 C170 26 188 60 190 96" fill="none" stroke="#e8b04a" stroke-width="2"/>
+      <path d="M130 30 L130 96 M146 38 L146 96 M162 50 L162 96 M178 66 L178 96" stroke="#e8b04a" stroke-width="1.5" opacity=".6"/>
+      <path d="M8 84 C20 62 36 52 52 50 C46 62 52 72 62 82 L196 82 C212 72 226 64 238 38 C240 62 232 92 214 108 C190 130 150 138 118 138 C80 138 40 130 22 108 C14 100 10 92 8 84 Z" fill="#241438"/>
+      <path d="M20 100 C60 118 180 118 222 98" fill="none" stroke="#e8b04a" stroke-width="3"/>
+      <g fill="#e8b04a"><circle cx="48" cy="104" r="6"/><circle cx="78" cy="108" r="6"/><circle cx="108" cy="110" r="6"/><circle cx="138" cy="110" r="6"/><circle cx="168" cy="108" r="6"/><circle cx="198" cy="102" r="6"/></g>
+      <path d="M8 84 C4 70 6 56 16 44 C20 54 22 66 30 74" fill="#241438" stroke="#e8b04a" stroke-width="2"/>
+    </svg>
+  </div>
+  <svg class="ax-montes ax-m3" viewBox="0 0 1440 220" preserveAspectRatio="none" aria-hidden="true"><path d="M0 220V120L120 70 230 130 360 40 520 140 640 80 780 150 930 60 1080 140 1220 90 1340 130 1440 100V220Z"/></svg>
+  <svg class="ax-montes ax-m2" viewBox="0 0 1440 200" preserveAspectRatio="none" aria-hidden="true"><path d="M0 200V110L90 140 210 70 330 130 470 60 600 130 760 90 900 150 1040 80 1190 140 1320 100 1440 130V200Z"/></svg>
+  <svg class="ax-montes ax-m1" viewBox="0 0 1440 160" preserveAspectRatio="none" aria-hidden="true"><path d="M0 160V90L140 120 260 60 400 120 560 70 720 130 880 80 1020 125 1180 70 1320 115 1440 90V160Z"/></svg>
+</section>
+
+<section class="ax-corpo">
+  <div class="ax-env">
+    <div class="ax-filtros" id="ax-filtros" role="group" aria-label="{{ ax.filtro_rotulo }}">
+      <button type="button" class="ax-chip ax-ativo" data-filtro="todos" aria-pressed="true">{{ ax.filtro_todos }} <em>{{ cards|length }}</em></button>
+      {% for r in reinos %}<button type="button" class="ax-chip ax-c-{{ r.cor }}" data-filtro="{{ r.cor }}" aria-pressed="false"><i></i>{{ r.nome }} <em>{{ r.n }}</em></button>{% endfor %}
+    </div>
+
+    <h2 class="ax-h2" id="ax-grade">{{ ax.grade_titulo }}</h2>
+    <div class="ax-grade" id="ax-cards">
+      {% for c in cards %}
+      <a class="ax-card ax-c-{{ c.cor }}" data-reino="{{ c.cor }}" href="{{ c.url }}" style="--i:{{ loop.index0 }}">
+        <span class="ax-img"><img src="/estatico/img/materias/mini/{{ c.imagem }}.webp" alt="" width="640" height="360" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='/estatico/img/materias/{{ c.imagem }}.webp'"></span>
+        <span class="ax-veu"></span>
+        <span class="ax-brilho"></span>
+        <span class="ax-tag">{{ c.secao }}</span>
+        <span class="ax-tipo">{{ c.tipo }}</span>
+        {% if c.novo %}<span class="ax-novo">{{ ax.novo }}</span>{% endif %}
+        <span class="ax-info">
+          <b class="ax-tit">{{ c.titulo }}</b>
+          <span class="ax-desc">{{ c.desc }}</span>
+          <span class="ax-jogar">{{ ax.jogar }} <i aria-hidden="true">▶</i></span>
+        </span>
+      </a>
+      {% endfor %}
+    </div>
+
+    <ul class="ax-pilares">
+      {% for p in ax.pilares %}<li><span class="ax-pil-i" aria-hidden="true">{{ p.i }}</span><b>{{ p.t }}</b><span>{{ p.d }}</span></li>{% endfor %}
+    </ul>
+
+    <div class="ax-fim">
+      <div class="ax-fim-texto">{{ conteudo_html|safe }}</div>
+      <a class="ax-btn ax-btn-sorteio" href="{{ ax.fim_url }}">{{ ax.fim_link }}</a>
+    </div>
+  </div>
+</section>
+</div>
+<script src="/g/arcade.js?v=1" defer></script>
+{% endblock %}

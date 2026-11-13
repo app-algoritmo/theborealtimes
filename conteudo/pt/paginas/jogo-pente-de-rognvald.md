@@ -3,6 +3,13 @@ titulo: "O pente de Rögnvald"
 resumo: "Jogo: desembarace o cabelo de Harald passando o dedo sobre os nós, como na cena em que Rögnvald o penteia depois de Hafrsfjord."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: harald-hafrsfjord
+  cor: sagas
+  secao: "Sagas e Reis"
+  tipo: "😌 Relaxar"
+  novo: false
+  ordem: 23
 ---
 
 <div class="jogo"><canvas id="jogo-harald" aria-label="O pente de Rögnvald" role="img"></canvas></div>

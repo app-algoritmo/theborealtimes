@@ -3,6 +3,13 @@ titulo: "A lâmina Ulfberht"
 resumo: "Jogo: bata no ferro quente na hora certa e forje uma espada com a inscrição VLFBERHT."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: espadas-ulfberht
+  cor: viking
+  secao: "Era Viking"
+  tipo: "⚔️ Ritmo"
+  novo: false
+  ordem: 13
 ---
 
 <div class="jogo"><canvas id="jogo-ulfberht" aria-label="A lâmina Ulfberht" role="img"></canvas></div>

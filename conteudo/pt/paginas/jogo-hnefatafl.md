@@ -3,6 +3,13 @@ titulo: "Hnefatafl em miniatura"
 resumo: "Jogo: leve o rei a um dos cantos do tabuleiro antes que os atacantes o cerquem, numa versão pequena do jogo viking."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: hnefatafl-tabuleiro
+  cor: viking
+  secao: "Era Viking"
+  tipo: "♟️ Estratégia"
+  novo: true
+  ordem: 2
 ---
 
 <div class="jogo"><canvas id="jogo-tafl" aria-label="Hnefatafl em miniatura" role="img"></canvas></div>

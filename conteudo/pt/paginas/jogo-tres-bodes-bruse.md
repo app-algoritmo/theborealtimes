@@ -3,6 +3,13 @@ titulo: "Os três bodes Bruse"
 resumo: "Jogo: corra pela ponte com os três bodes, pule os buracos e as mãos do troll e chegue à pastagem."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: tres-bodes
+  cor: contos
+  secao: "Contos e Folclore"
+  tipo: "🐐 Corrida"
+  novo: false
+  ordem: 21
 ---
 
 <div class="jogo"><canvas id="jogo-bodes" aria-label="Os três bodes Bruse" role="img"></canvas></div>

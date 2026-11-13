@@ -3,6 +3,13 @@ titulo: "Rögnvald’s comb"
 resumo: "Game: untangle Harald’s hair by dragging over the knots, as in the scene where Rögnvald combs it after Hafrsfjord."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: harald-hafrsfjord
+  cor: sagas
+  secao: "Sagas & Kings"
+  tipo: "😌 Relax"
+  novo: false
+  ordem: 23
 ---
 
 <div class="jogo"><canvas id="jogo-harald" aria-label="Rögnvald’s comb" role="img"></canvas></div>

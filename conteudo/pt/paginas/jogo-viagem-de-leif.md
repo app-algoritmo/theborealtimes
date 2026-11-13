@@ -3,6 +3,13 @@ titulo: "A viagem de Leif"
 resumo: "Jogo: conduza o navio de Leif Eriksson entre o gelo e as rochas, de Helluland a Markland, até Vinland, como contam as sagas."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: leif-vinlandia
+  cor: sagas
+  secao: "Sagas e Reis"
+  tipo: "⛵ Navegação"
+  novo: false
+  ordem: 11
 ---
 
 <div class="jogo"><canvas id="jogo-leif" aria-label="A viagem de Leif" role="img"></canvas></div>

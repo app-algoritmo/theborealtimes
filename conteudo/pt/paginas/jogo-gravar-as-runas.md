@@ -3,6 +3,13 @@ titulo: "Gravar as runas"
 resumo: "Jogo: grave cinco runas ligando os pontos, como se entalhasse a pedra de Jelling."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: jelling-harald-runas
+  cor: viking
+  secao: "Era Viking"
+  tipo: "ᚱ Traço"
+  novo: true
+  ordem: 5
 ---
 
 <div class="jogo"><canvas id="jogo-runas" aria-label="Gravar as runas" role="img"></canvas></div>

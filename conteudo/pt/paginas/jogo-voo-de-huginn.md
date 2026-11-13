@@ -3,6 +3,13 @@ titulo: "O voo de Huginn"
 resumo: "Jogo: bata as asas com o corvo Huginn, passe entre os galhos da Árvore do Mundo e leve as notícias a Odin."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: odin-runas
+  cor: mitos
+  secao: "Mitos e Deuses"
+  tipo: "🪶 Voo"
+  novo: false
+  ordem: 19
 ---
 
 <div class="jogo"><canvas id="jogo-huginn" aria-label="O voo de Huginn" role="img"></canvas></div>

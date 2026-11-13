@@ -3,6 +3,13 @@ titulo: "The dwarfs’ forge"
 resumo: "Game: watch the order of the anvils and repeat the strikes of the four dwarfs forging Freyja’s necklace."
 olho: Game
 atualizado: November 2026
+card:
+  imagem: freyja-brisingamen
+  cor: mitos
+  secao: "Myths & Gods"
+  tipo: "🔨 Memory"
+  novo: false
+  ordem: 15
 ---
 
 <div class="jogo"><canvas id="jogo-freyja" aria-label="The dwarfs’ forge" role="img"></canvas></div>

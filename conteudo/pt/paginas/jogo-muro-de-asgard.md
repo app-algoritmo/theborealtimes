@@ -3,6 +3,13 @@ titulo: "O muro de Asgard"
 resumo: "Jogo: seja Loki disfarçado de égua e distraia o cavalo do construtor para que o muro de Asgard não fique pronto antes do verão."
 olho: Jogo
 atualizado: novembro de 2026
+card:
+  imagem: sleipnir-muro-asgard
+  cor: mitos
+  secao: "Mitos e Deuses"
+  tipo: "🐴 Defesa"
+  novo: true
+  ordem: 1
 ---
 
 <div class="jogo"><canvas id="jogo-sleipnir" aria-label="O muro de Asgard" role="img"></canvas></div>
