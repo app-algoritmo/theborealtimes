@@ -442,6 +442,7 @@ def construir():
             modelo = meta.get("template", "pagina") + ".html"
             ctx = dict(base, pagina=meta, conteudo_html=html,
                        cards=cards, reinos=reinos,
+                       n_historias=len(materias), n_reinos=len(secoes),
                        alternativas=alternativas_de(
                            mapa, f"pagina:{chave}", cfg, curto) if chave else [])
             escrever(raiz_saida / slug / "index.html",
