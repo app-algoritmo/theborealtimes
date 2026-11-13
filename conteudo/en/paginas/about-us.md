@@ -25,7 +25,7 @@ We do not present myth, legend or fiction as fact, and we do not treat a medieva
 
 ## Reading without advertising
 
-The site is open and entirely free. Readers who prefer no advertising can subscribe through the app.
+The site is open and entirely free. Readers who want the next stories in their inbox can subscribe to the free newsletter.
 
 ## Responsibility
 

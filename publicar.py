@@ -687,8 +687,8 @@ def checar() -> int:
 
     if not cfg["medicao"]["verificacao_google"]:
         avisos.append("boreal.yaml: Search Console ainda não verificado")
-    if not any(cfg["assinatura"]["aplicativos"].values()):
-        avisos.append("boreal.yaml: endereços dos aplicativos ainda não preenchidos")
+    if not cfg["assinatura"].get("endpoint"):
+        avisos.append("boreal.yaml: endereço do formulário de assinatura (assinatura.endpoint) não preenchido")
 
     for a in avisos:
         print(f"  aviso   {a}")
