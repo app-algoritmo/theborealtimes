@@ -2,7 +2,6 @@
 titulo: "Stamford Bridge"
 resumo: "Game: hold Stamford Bridge with your axe and watch for the spear under the planks."
 olho: Game
-atualizado: November 2026
 card:
   imagem: stamford-ponte
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-stamford" aria-label="Stamford Bridge" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/stamford-ponte.js?v=4" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "Thor's fishing trip"
 resumo: "Game: hold the line, let go when the serpent lunges, and bring Jörmungandr to the surface, as in the story told by Snorri."
 olho: Game
-atualizado: November 2026
 card:
   imagem: thor-serpente
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-thor" aria-label="Thor's fishing trip" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/thor-pesca.js?v=2" defer></script>
 
 ## How to play

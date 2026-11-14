@@ -2,7 +2,6 @@
 titulo: "The wall of Asgard"
 resumo: "Game: be Loki disguised as a mare and distract the builder’s horse so the wall of Asgard is not finished before summer."
 olho: Game
-atualizado: November 2026
 card:
   imagem: sleipnir-muro-asgard
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-sleipnir" aria-label="The wall of Asgard" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/sleipnir-muro.js?v=2" defer></script>
 
 ## How to play

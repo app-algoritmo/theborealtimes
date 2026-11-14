@@ -2,7 +2,6 @@
 titulo: "Før solen stiger"
 resumo: "Spill: send trollene til hulene før sollyset gjør dem til stein."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: trolls-pedra-sol
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-trolls" aria-label="Før solen stiger" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/trolls-sol.js?v=4" defer></script>
 
 ## Slik spiller du

@@ -2,7 +2,6 @@
 titulo: "Cadê o martelo?"
 resumo: "Jogo: siga o martelo de Thor escondido sob as almofadas do gigante Thrym."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: thor-noiva
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-martelo" aria-label="Cadê o martelo?" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/martelo-copos.js?v=4" defer></script>
 
 ## Como jogar

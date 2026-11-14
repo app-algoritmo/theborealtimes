@@ -2,7 +2,6 @@
 titulo: "As promessas de Frigg"
 resumo: "Jogo: toque nas coisas do mundo para colher o juramento de cada uma de não ferir Baldr, e fique de olho no pequeno broto de visco."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: baldr-visco
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-frigg" aria-label="As promessas de Frigg" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/promessas-frigg.js?v=2" defer></script>
 
 ## Como jogar

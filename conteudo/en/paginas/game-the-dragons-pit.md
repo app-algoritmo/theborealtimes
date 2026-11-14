@@ -2,7 +2,6 @@
 titulo: "The dragon's pit"
 resumo: "Game: dig the pit on the dragon Fafnir's path and strike the moment the pale spot on his belly passes over Sigurd."
 olho: Game
-atualizado: November 2026
 card:
   imagem: sigurd-fafnir
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-cova" aria-label="The dragon's pit" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/cova-dragao.js?v=2" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "O relato de Ibn Fadlan"
 resumo: "Jogo: separe o que está no relato de Ibn Fadlan do que foi inventado depois."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: ibn-fadlan-rus
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-fadlan" aria-label="O relato de Ibn Fadlan" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/ibn-fadlan-relato.js?v=4" defer></script>
 
 ## Como jogar

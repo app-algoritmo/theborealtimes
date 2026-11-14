@@ -2,7 +2,6 @@
 titulo: "Havnen i Hedeby"
 resumo: "Spill: stable lastekassene på kaia i Hedeby uten å la dem falle i sjøen."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: hedeby-porto
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-hedeby" aria-label="Havnen i Hedeby" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/hedeby-porto.js?v=4" defer></script>
 
 ## Slik spiller du

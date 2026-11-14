@@ -2,7 +2,6 @@
 titulo: "Utgraving ved Gjermundbu"
 resumo: "Spill: fjern jorden fra en vikinggrav og avdekk jernhjelmen fra Gjermundbu, uten horn."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: capacete-gjermundbu
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-capacete" aria-label="Utgraving ved Gjermundbu" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/gjermundbu-escavacao.js?v=3" defer></script>
 
 ## Slik spiller du

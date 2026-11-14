@@ -2,7 +2,6 @@
 titulo: "Askeladden e o troll"
 resumo: "Jogo: esconda o mingau num saco sem que o troll perceba, como Askeladden no concurso de comida."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: askeladden-troll
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-troll" aria-label="Askeladden e o troll" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/askeladden-troll.js?v=2" defer></script>
 
 ## Como jogar

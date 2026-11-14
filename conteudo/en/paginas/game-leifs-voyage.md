@@ -2,7 +2,6 @@
 titulo: "Leif's voyage"
 resumo: "Game: steer Leif Eriksson's ship through ice and rocks, from Helluland to Markland and on to Vinland, as the sagas tell it."
 olho: Game
-atualizado: November 2026
 card:
   imagem: leif-vinlandia
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-leif" aria-label="Leif's voyage" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/viagem-de-leif.js?v=2" defer></script>
 
 ## How to play

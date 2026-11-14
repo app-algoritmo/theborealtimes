@@ -2,7 +2,6 @@
 titulo: "O muro de Asgard"
 resumo: "Jogo: seja Loki disfarçado de égua e distraia o cavalo do construtor para que o muro de Asgard não fique pronto antes do verão."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: sleipnir-muro-asgard
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-sleipnir" aria-label="O muro de Asgard" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/sleipnir-muro.js?v=2" defer></script>
 
 ## Como jogar

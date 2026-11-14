@@ -2,7 +2,6 @@
 titulo: "Rumo a Soria Moria"
 resumo: "Jogo: atravesse três florestas em labirinto até o castelo dourado de Soria Moria."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: soria-moria
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-soria" aria-label="Rumo a Soria Moria" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/soria-moria.js?v=4" defer></script>
 
 ## Como jogar

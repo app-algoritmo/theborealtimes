@@ -2,7 +2,6 @@
 titulo: "Gleipnir, the impossible ribbon"
 resumo: "Game: gather the six things that no longer exist so the dwarfs can make Gleipnir, then hold the ribbon at the right tension to bind the wolf Fenrir."
 olho: Game
-atualizado: November 2026
 card:
   imagem: fenrir-gleipnir
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-fenrir" aria-label="Gleipnir, the impossible ribbon" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/fenrir-gleipnir.js?v=2" defer></script>
 
 ## How to play

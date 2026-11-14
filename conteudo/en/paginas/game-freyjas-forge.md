@@ -2,7 +2,6 @@
 titulo: "The dwarfs’ forge"
 resumo: "Game: watch the order of the anvils and repeat the strikes of the four dwarfs forging Freyja’s necklace."
 olho: Game
-atualizado: November 2026
 card:
   imagem: freyja-brisingamen
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-freyja" aria-label="The dwarfs’ forge" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/freyja-forja.js?v=2" defer></script>
 
 ## How to play

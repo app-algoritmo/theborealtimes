@@ -2,7 +2,6 @@
 titulo: "Egils natt"
 resumo: "Spill: trykk på ordene som begynner på versets bokstav og komponer seks vers før daggry, som Egil gjorde for å redde hodet."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: egil-poema
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-egil" aria-label="Egils natt" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/egil-noite.js?v=3" defer></script>
 
 ## Slik spiller du

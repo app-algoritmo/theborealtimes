@@ -2,7 +2,6 @@
 titulo: "The sunstone"
 resumo: "Game: the sky is cloudy. Move the marker along the horizon and find the hidden sun at the point where the crystal's two lights shine equally."
 olho: Game
-atualizado: November 2026
 card:
   imagem: pedra-solar
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-pedrasol" aria-label="The sunstone" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/pedra-sol.js?v=2" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "The colours of Bifröst"
 resumo: "Game: repeat the sequence of colours Heimdall plays on the horn and guard the Bifröst bridge."
 olho: Game
-atualizado: November 2026
 card:
   imagem: heimdall-bifrost
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-bifrost" aria-label="The colours of Bifröst" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/heimdall-bifrost.js?v=4" defer></script>
 
 ## How to play

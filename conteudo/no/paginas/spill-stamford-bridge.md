@@ -2,7 +2,6 @@
 titulo: "Stamford Bridge"
 resumo: "Spill: hold Stamford Bridge med øksa og pass på spydet under planken."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: stamford-ponte
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-stamford" aria-label="Stamford Bridge" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/stamford-ponte.js?v=4" defer></script>
 
 ## Slik spiller du

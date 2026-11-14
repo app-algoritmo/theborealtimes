@@ -2,7 +2,6 @@
 titulo: "Útgarða-Loki's challenges"
 resumo: "Game: drink from the horn, lift the cat and wrestle the old woman in the giant's three tests."
 olho: Game
-atualizado: November 2026
 card:
   imagem: thor-utgard
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-utgard" aria-label="Útgarða-Loki's challenges" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/thor-utgard.js?v=4" defer></script>
 
 ## How to play

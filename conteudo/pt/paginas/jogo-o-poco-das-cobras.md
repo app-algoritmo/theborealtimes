@@ -2,7 +2,6 @@
 titulo: "O poço das cobras"
 resumo: "Jogo: memorize a ordem em que as serpentes se erguem no poço do rei Ælla."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: ragnar-cobras
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ragnar" aria-label="O poço das cobras" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/ragnar-cobras.js?v=4" defer></script>
 
 ## Como jogar

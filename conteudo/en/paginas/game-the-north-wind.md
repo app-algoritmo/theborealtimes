@@ -2,7 +2,6 @@
 titulo: "The North Wind"
 resumo: "Game: fly through the gaps in the storm clouds carrying the girl to the castle."
 olho: Game
-atualizado: November 2026
 card:
   imagem: leste-do-sol
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ventonorte" aria-label="The North Wind" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/vento-norte.js?v=4" defer></script>
 
 ## How to play

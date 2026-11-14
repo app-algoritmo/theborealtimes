@@ -2,7 +2,6 @@
 titulo: "Alfred's cakes"
 resumo: "Game: take the cakes off the fire at the right moment, without letting them burn, as in the legend of Alfred."
 olho: Game
-atualizado: November 2026
 card:
   imagem: alfredo-edington
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-bolos" aria-label="Alfred's cakes" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/alfredo-bolos.js?v=4" defer></script>
 
 ## How to play

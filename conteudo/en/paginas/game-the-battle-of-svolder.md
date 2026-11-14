@@ -2,7 +2,6 @@
 titulo: "The battle of Svolder"
 resumo: "Game: draw the bow to the exact point and hit the enemy ships without breaking the bow."
 olho: Game
-atualizado: November 2026
 card:
   imagem: svolder-ormen
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-svolder" aria-label="The battle of Svolder" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/svolder-ormen.js?v=4" defer></script>
 
 ## How to play

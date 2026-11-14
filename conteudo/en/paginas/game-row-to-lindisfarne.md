@@ -2,7 +2,6 @@
 titulo: "Row to Lindisfarne"
 resumo: "Game: row in the right rhythm and take the Viking ship to the island of Lindisfarne."
 olho: Game
-atualizado: November 2026
 card:
   imagem: lindisfarne-ataque
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-remar" aria-label="Row to Lindisfarne" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/remar-lindisfarne.js?v=4" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "Decifrar a Pedra de Rök"
 resumo: "Jogo: grave palavras tocando nas runas do futhark recente, na ordem das letras."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: pedra-rok
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-rok" aria-label="Decifrar a Pedra de Rök" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/pedra-rok.js?v=4" defer></script>
 
 ## Como jogar

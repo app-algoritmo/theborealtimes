@@ -2,7 +2,6 @@
 titulo: "Gleipne, det umulige båndet"
 resumo: "Spill: samle de seks tingene som ikke finnes lenger slik at dvergene kan lage Gleipne, og hold så båndet i riktig spenning for å binde ulven Fenrir."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: fenrir-gleipnir
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-fenrir" aria-label="Gleipne, det umulige båndet" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/fenrir-gleipnir.js?v=3" defer></script>
 
 ## Slik spiller du

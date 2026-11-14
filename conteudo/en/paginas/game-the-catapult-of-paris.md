@@ -2,7 +2,6 @@
 titulo: "The catapult of Paris"
 resumo: "Game: hurl stones at the Viking boats coming up the Seine before they pass the bridge."
 olho: Game
-atualizado: November 2026
 card:
   imagem: paris-885
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-paris" aria-label="The catapult of Paris" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/paris-catapulta.js?v=4" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "Gudríð's route"
 resumo: "Game: steer Gudríð's ship through the ice floes of the North Atlantic."
 olho: Game
-atualizado: November 2026
 card:
   imagem: gudrid-viajante
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-gudrid" aria-label="Gudríð's route" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/gudrid-rota.js?v=4" defer></script>
 
 ## How to play

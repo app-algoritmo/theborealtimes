@@ -2,7 +2,6 @@
 titulo: "Arrastar o navio"
 resumo: "Jogo: puxe a corda no ritmo certo para arrastar o navio por terra e chegar a Constantinopla antes do anoitecer."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: guarda-varegue
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-arrasto" aria-label="Arrastar o navio" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/arrastar-navio.js?v=2" defer></script>
 
 ## Como jogar

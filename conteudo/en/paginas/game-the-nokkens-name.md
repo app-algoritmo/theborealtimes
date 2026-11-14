@@ -2,7 +2,6 @@
 titulo: "The Nøkken's name"
 resumo: "Game: tap the letters of the Nøkken's name, in order, before it reaches the child."
 olho: Game
-atualizado: November 2026
 card:
   imagem: nokken-lago
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-nokken" aria-label="The Nøkken's name" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/nokken-nome.js?v=4" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "O duelo de Gunnlaug"
 resumo: "Jogo: defenda os golpes altos e baixos de Hrafn no duelo da Saga de Gunnlaug."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: gunnlaug-helga
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-gunnlaug" aria-label="O duelo de Gunnlaug" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/gunnlaug-duelo.js?v=4" defer></script>
 
 ## Como jogar

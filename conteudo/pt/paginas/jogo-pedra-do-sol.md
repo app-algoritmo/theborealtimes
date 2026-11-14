@@ -2,7 +2,6 @@
 titulo: "A pedra do sol"
 resumo: "Jogo: o céu está nublado. Mova a mira pelo horizonte e ache o sol escondido pelo ponto em que as duas luzes do cristal brilham igual."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: pedra-solar
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-pedrasol" aria-label="A pedra do sol" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/pedra-sol.js?v=2" defer></script>
 
 ## Como jogar

@@ -2,7 +2,6 @@
 titulo: "Hnefatafl i miniatyr"
 resumo: "Spill: før kongen til et av hjørnene på brettet før angriperne omringer ham, i en liten versjon av vikingenes spill."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: hnefatafl-tabuleiro
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-tafl" aria-label="Hnefatafl i miniatyr" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/hnefatafl.js?v=3" defer></script>
 
 ## Slik spiller du

@@ -2,7 +2,6 @@
 titulo: "Gunnlaugs duell"
 resumo: "Spill: parer Hrafns høye og lave hogg i duellen fra Gunnlaugs saga."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: gunnlaug-helga
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-gunnlaug" aria-label="Gunnlaugs duell" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/gunnlaug-duelo.js?v=4" defer></script>
 
 ## Slik spiller du

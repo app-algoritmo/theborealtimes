@@ -223,7 +223,7 @@
           } else api.txt0('★ ' + score + (combo >= 2 ? '   ×' + combo : ''), 16, h - 14, 14, '#ffe9a8', 'left');
         }
         /* menu: dificuldade; fim: resumo */
-        if (est === 'menu') {
+        if (est === 'menu' && (!ativoFn || ativoFn())) {
           var P = pills(), n;
           if (best > 0) api.txt0(TX.rec + ': ' + best, w / 2, P.y0 - 30, 13, '#c9b3f2', 'center');
           for (n = 0; n < 4; n++) if (med(n)) api.txt0(MEDAL[med(n)], P.x0 + n * (P.pw + 8) + P.pw / 2, P.y0 - 8, 16, '#fff', 'center');
@@ -387,7 +387,7 @@
     };
 
     /* ---------- laço ---------- */
-    var fx = criarFx(def.canvas, api, g);
+    var fx = criarFx(def.canvas, api, g, function () { return ativo; });
     api.txt0 = api.txt; var cartaz0 = api.cartaz;
     api.txt = function (s, x, y, size, cor, alinh) { fx.txt(s, x, y, alinh); return api.txt0(s, x, y, size, cor, alinh); };
     api.cartaz = function (t, l, r, c) { fx.cartaz(c, r); return cartaz0(t, l, r, c); };

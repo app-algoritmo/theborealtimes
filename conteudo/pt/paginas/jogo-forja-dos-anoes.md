@@ -2,7 +2,6 @@
 titulo: "A forja dos anões"
 resumo: "Jogo: observe a ordem das bigornas e repita os golpes dos quatro anões que forjam o colar de Freyja."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: freyja-brisingamen
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-freyja" aria-label="A forja dos anões" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/freyja-forja.js?v=2" defer></script>
 
 ## Como jogar

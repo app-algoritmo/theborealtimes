@@ -2,7 +2,6 @@
 titulo: "Remar até Lindisfarne"
 resumo: "Jogo: reme no ritmo certo e leve o navio viking até a ilha de Lindisfarne."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: lindisfarne-ataque
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-remar" aria-label="Remar até Lindisfarne" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/remar-lindisfarne.js?v=4" defer></script>
 
 ## Como jogar

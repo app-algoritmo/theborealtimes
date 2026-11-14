@@ -2,7 +2,6 @@
 titulo: "The barn nisse"
 resumo: "Game: be the barn nisse and look after the animals through the winter night, until the girl brings the porridge at dawn."
 olho: Game
-atualizado: November 2026
 card:
   imagem: nisse-mingau
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-nisse" aria-label="The barn nisse" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/nisse-mingau.js?v=2" defer></script>
 
 ## How to play

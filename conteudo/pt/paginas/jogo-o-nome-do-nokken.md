@@ -2,7 +2,6 @@
 titulo: "O nome do Nøkken"
 resumo: "Jogo: toque nas letras do nome do Nøkken, na ordem, antes que ele alcance a criança."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: nokken-lago
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-nokken" aria-label="O nome do Nøkken" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/nokken-nome.js?v=4" defer></script>
 
 ## Como jogar

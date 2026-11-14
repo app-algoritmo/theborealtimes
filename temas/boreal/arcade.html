@@ -24,6 +24,7 @@
         <span class="ax-dado" aria-hidden="true">🎲</span> {{ ax.btn_sorteio }}
       </button>
       <a class="ax-btn ax-btn-sec" href="#ax-grade">{{ ax.btn_ver }}</a>
+      {% if ax.progresso_url %}<a class="ax-btn ax-btn-sec" href="{{ ax.progresso_url }}">{{ ax.progresso }}</a>{% endif %}
     </div>
     <ul class="ax-stats">
       <li><b data-conta="{{ cards|length }}">{{ cards|length }}</b><span>{{ ax.stat_jogos }}</span></li>
