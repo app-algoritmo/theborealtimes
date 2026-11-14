@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-esqui" aria-label="Birkebeinerferden" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=7" defer></script>
+<script src="/g/tela.js?v=8" defer></script>
 <script src="/g/birkebeiner-esqui.js?v=3" defer></script>
 
 ## Slik spiller du

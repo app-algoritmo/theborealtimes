@@ -7,4 +7,4 @@ olho: Game
 <div id="progresso" class="prog"></div>
 <noscript>JavaScript.</noscript>
 <script src="/g/progresso-dados.js?v=1" defer></script>
-<script src="/g/progresso.js?v=1" defer></script>
+<script src="/g/progresso.js?v=2" defer></script>
