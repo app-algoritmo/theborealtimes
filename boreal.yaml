@@ -211,6 +211,45 @@ pt:
     jogo_beowulf: jogo-o-braco-de-grendel
     jogo_audumbla: jogo-o-gelo-de-audumbla
     jogo_selkie: jogo-a-pele-de-foca
+    jogo_mjolnir: jogo-moscas-na-forja
+    jogo_volund: jogo-as-penas-do-ferreiro
+    jogo_sampo: jogo-os-cacos-do-sampo
+    jogo_amleth: jogo-a-carta-trocada
+    jogo_brynhildr: jogo-o-circulo-de-fogo
+    jogo_magnus: jogo-os-navios-de-magnus
+    jogo_rollo: jogo-o-curso-do-sena
+    jogo_cnut: jogo-as-ondas-de-cnut
+    jogo_ivar: jogo-a-muralha-de-escudos
+    jogo_groen: jogo-a-travessia-do-fiorde
+    jogo_noaidi: jogo-o-tambor-do-noaidi
+    jogo_helly: jogo-a-galera-de-up-helly-aa
+    jogo_mara: jogo-o-estabulo-da-mara
+    jogo_gefjon: jogo-a-terra-de-gefjon
+    jogo_aesirvanir: jogo-a-balanca-da-paz
+    jogo_hrungnir: jogo-os-cacos-de-hrungnir
+    jogo_hakon: jogo-os-escudos-de-fitjar
+    jogo_gisli: jogo-o-esconderijo-de-gisli
+    jogo_hjadningavig: jogo-a-batalha-sem-fim
+    jogo_clontarf: jogo-a-mare-de-clontarf
+    jogo_jorvik: jogo-as-camadas-de-jorvik
+    jogo_rurik: jogo-os-remos-de-rurik
+    jogo_kaupang: jogo-o-mercado-de-kaupang
+    jogo_stallo: jogo-a-trilha-de-stallo
+    jogo_skogsra: jogo-a-senhora-da-floresta
+    jogo_alfablot: jogo-o-alfablot
+    jogo_hel: jogo-a-tocha-em-helheim
+    jogo_geirrod: jogo-as-barras-de-geirrodr
+    jogo_vafthrudnir: jogo-o-duelo-das-pedras
+    jogo_hervor: jogo-as-chamas-de-hervor
+    jogo_eyrbyggja: jogo-os-acusados-a-porta
+    jogo_orvar: jogo-os-anos-de-odd
+    jogo_brunanburh: jogo-o-campo-de-brunanburh
+    jogo_ribe: jogo-carrocas-no-mercado-de-ribe
+    jogo_ingvar: jogo-as-runas-na-pedra
+    jogo_tynwald: jogo-os-degraus-da-colina
+    jogo_jolakotturinn: jogo-novelos-antes-do-gato
+    jogo_bergtatt: jogo-o-salao-da-montanha
+    jogo_agnete: jogo-os-tesouros-do-fundo-do-mar
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -464,6 +503,45 @@ en:
     jogo_beowulf: game-grendels-arm
     jogo_audumbla: game-audumblas-ice
     jogo_selkie: game-the-sealskin
+    jogo_mjolnir: game-flies-at-the-forge
+    jogo_volund: game-the-smiths-feathers
+    jogo_sampo: game-the-shards-of-the-sampo
+    jogo_amleth: game-the-swapped-letter
+    jogo_brynhildr: game-the-ring-of-fire
+    jogo_magnus: game-magnuss-ships
+    jogo_rollo: game-the-course-of-the-seine
+    jogo_cnut: game-cnuts-waves
+    jogo_ivar: game-the-shield-wall
+    jogo_groen: game-crossing-the-fjord
+    jogo_noaidi: game-the-noaidis-drum
+    jogo_helly: game-the-up-helly-aa-galley
+    jogo_mara: game-the-maras-stable
+    jogo_gefjon: game-gefjons-land
+    jogo_aesirvanir: game-the-scales-of-peace
+    jogo_hrungnir: game-hrungnirs-shards
+    jogo_hakon: game-the-shields-of-fitjar
+    jogo_gisli: game-gislis-hideout
+    jogo_hjadningavig: game-the-battle-without-end
+    jogo_clontarf: game-the-tide-at-clontarf
+    jogo_jorvik: game-the-layers-of-jorvik
+    jogo_rurik: game-ruriks-oars
+    jogo_kaupang: game-kaupangs-market
+    jogo_stallo: game-stallos-trail
+    jogo_skogsra: game-the-lady-of-the-forest
+    jogo_alfablot: game-the-alfablot
+    jogo_hel: game-the-torch-in-helheim
+    jogo_geirrod: game-geirrodrs-bars
+    jogo_vafthrudnir: game-the-duel-of-the-stones
+    jogo_hervor: game-hervors-flames
+    jogo_eyrbyggja: game-the-accused-at-the-door
+    jogo_orvar: game-odds-years
+    jogo_brunanburh: game-the-field-of-brunanburh
+    jogo_ribe: game-carts-at-the-ribe-market
+    jogo_ingvar: game-runes-on-the-stone
+    jogo_tynwald: game-the-steps-of-the-hill
+    jogo_jolakotturinn: game-wool-before-the-cat
+    jogo_bergtatt: game-the-mountain-hall
+    jogo_agnete: game-treasures-of-the-sea-floor
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -717,6 +795,45 @@ en:
     jogo_beowulf: spill-grendels-arm
     jogo_audumbla: spill-audumblas-is
     jogo_selkie: spill-selskinnet
+    jogo_mjolnir: spill-fluer-i-smia
+    jogo_volund: spill-smedens-fjaer
+    jogo_sampo: spill-bitene-av-sampo
+    jogo_amleth: spill-det-byttede-brevet
+    jogo_brynhildr: spill-ildringen
+    jogo_magnus: spill-magnus-skip
+    jogo_rollo: spill-seinens-lop
+    jogo_cnut: spill-knuts-bolger
+    jogo_ivar: spill-skjoldmuren
+    jogo_groen: spill-over-fjorden
+    jogo_noaidi: spill-noaidiens-tromme
+    jogo_helly: spill-galeien-til-up-helly-aa
+    jogo_mara: spill-marens-stall
+    jogo_gefjon: spill-gefjons-jord
+    jogo_aesirvanir: spill-fredens-vekt
+    jogo_hrungnir: spill-hrungnes-skar
+    jogo_hakon: spill-skjoldene-ved-fitjar
+    jogo_gisli: spill-gislis-skjulested
+    jogo_hjadningavig: spill-slaget-uten-ende
+    jogo_clontarf: spill-tidevannet-ved-clontarf
+    jogo_jorvik: spill-lagene-i-jorvik
+    jogo_rurik: spill-rurik-sine-arer
+    jogo_kaupang: spill-markedet-i-kaupang
+    jogo_stallo: spill-stallos-sti
+    jogo_skogsra: spill-skogens-frue
+    jogo_alfablot: spill-alfeblotet
+    jogo_hel: spill-fakkelen-i-helheim
+    jogo_geirrod: spill-geirrods-stenger
+    jogo_vafthrudnir: spill-steinduellen
+    jogo_hervor: spill-hervors-flammer
+    jogo_eyrbyggja: spill-de-anklagede-ved-dora
+    jogo_orvar: spill-odds-ar
+    jogo_brunanburh: spill-slagmarka-ved-brunanburh
+    jogo_ribe: spill-vogner-pa-markedet-i-ribe
+    jogo_ingvar: spill-runer-pa-steinen
+    jogo_tynwald: spill-trinnene-pa-haugen
+    jogo_jolakotturinn: spill-ull-for-katten
+    jogo_bergtatt: spill-fjellhallen
+    jogo_agnete: spill-skattene-pa-havbunnen
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
