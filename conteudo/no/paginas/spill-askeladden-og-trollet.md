@@ -15,7 +15,7 @@ card:
 <div class="jogo"><canvas id="jogo-troll" aria-label="Askeladden og trollet" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=3" defer></script>
+<script src="/g/tela.js?v=5" defer></script>
 <script src="/g/askeladden-troll.js?v=3" defer></script>
 
 ## Slik spiller du
