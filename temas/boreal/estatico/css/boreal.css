@@ -519,19 +519,20 @@ img{height:auto}
   background:var(--roxo);color:#fff;border:0;border-radius:999px;padding:12px 24px;
   font-family:var(--util);font-size:15px;font-weight:700;cursor:pointer;
   box-shadow:0 4px 14px rgba(0,0,0,.35)}
-.jogo-x,.jogo-pausa,.jogo-som{display:none}
+.jogo-x,.jogo-pausa,.jogo-som,.jogo-comp{display:none}
 html.jogo-aberto,html.jogo-aberto body{overflow:hidden;overscroll-behavior:none}
 .jogo.jogo-tela{position:fixed;inset:0;z-index:99999;margin:0;background:#0d0a1a;
   width:100vw;height:100vh;height:100dvh}
 .jogo.jogo-tela canvas{width:100%;height:100%;aspect-ratio:auto;border:0;border-radius:0}
 .jogo.jogo-tela .jogo-jogar{display:none}
-.jogo.jogo-tela .jogo-x,.jogo.jogo-tela .jogo-pausa,.jogo.jogo-tela .jogo-som{display:flex;position:absolute;
+.jogo.jogo-tela .jogo-x,.jogo.jogo-tela .jogo-pausa,.jogo.jogo-tela .jogo-som,.jogo.jogo-tela .jogo-comp{display:flex;position:absolute;
   top:max(10px,env(safe-area-inset-top));width:42px;height:42px;border-radius:50%;
   align-items:center;justify-content:center;border:0;background:rgba(10,8,25,.6);
   color:#fff;font-size:17px;cursor:pointer;z-index:2}
 .jogo.jogo-tela .jogo-x{right:max(10px,env(safe-area-inset-right))}
 .jogo.jogo-tela .jogo-pausa{right:calc(max(10px,env(safe-area-inset-right)) + 52px);font-size:13px;letter-spacing:-1px}
 .jogo.jogo-tela .jogo-som{right:calc(max(10px,env(safe-area-inset-right)) + 104px);font-size:16px}
+.jogo.jogo-tela .jogo-comp{right:calc(max(10px,env(safe-area-inset-right)) + 156px);font-size:18px}
 .jogos-lista{list-style:none;padding:0;margin:1.4em 0;display:grid;gap:14px}
 .jogos-lista li{border:1px solid var(--tinta-3);border-left:5px solid var(--roxo);
   padding:14px 18px;border-radius:4px}
