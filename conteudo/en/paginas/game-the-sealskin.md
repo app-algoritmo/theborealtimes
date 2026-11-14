@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-kopakonan" aria-label="The sealskin" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=8" defer></script>
+<script src="/g/tela.js?v=9" defer></script>
 <script src="/g/kopakonan-mergulho.js?v=1" defer></script>
 
 ## How to play

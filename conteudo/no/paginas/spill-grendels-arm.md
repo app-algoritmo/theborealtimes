@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-beowulf" aria-label="Grendels arm" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=8" defer></script>
+<script src="/g/tela.js?v=9" defer></script>
 <script src="/g/beowulf-grendel.js?v=1" defer></script>
 
 ## Slik spiller du
