@@ -195,6 +195,19 @@ pt:
     jogo_vento: jogo-o-vento-norte
     jogo_draug: jogo-a-nevoa-do-draugen
     jogo_trolls: jogo-antes-que-o-sol-nasca
+    jogo_ingolfr: jogo-os-pilares-de-ingolfr
+    jogo_hrolf: jogo-o-ouro-de-hrolf
+    jogo_kantele: jogo-afine-o-kantele
+    jogo_hidromel: jogo-os-tres-goles
+    jogo_rigs: jogo-as-tres-casas
+    jogo_halfdan: jogo-runas-na-hagia-sophia
+    jogo_ohthere: jogo-as-renas-de-ohthere
+    jogo_lussi: jogo-a-chama-de-lussi
+    jogo_havamal: jogo-hospedes-no-salao
+    jogo_kennings: jogo-charadas-de-kennings
+    jogo_beowulf: jogo-o-braco-de-grendel
+    jogo_audumbla: jogo-o-gelo-de-audumbla
+    jogo_selkie: jogo-a-pele-de-foca
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -435,6 +448,19 @@ en:
     jogo_vento: game-the-north-wind
     jogo_draug: game-the-fog-of-the-draug
     jogo_trolls: game-before-the-sun-rises
+    jogo_ingolfr: game-ingolfrs-pillars
+    jogo_hrolf: game-hrolfs-gold
+    jogo_kantele: game-tune-the-kantele
+    jogo_hidromel: game-the-three-draughts
+    jogo_rigs: game-the-three-houses
+    jogo_halfdan: game-runes-in-hagia-sophia
+    jogo_ohthere: game-ohtheres-reindeer
+    jogo_lussi: game-lussis-flame
+    jogo_havamal: game-guests-in-the-hall
+    jogo_kennings: game-kenning-riddles
+    jogo_beowulf: game-grendels-arm
+    jogo_audumbla: game-audumblas-ice
+    jogo_selkie: game-the-sealskin
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -675,6 +701,19 @@ en:
     jogo_vento: spill-nordavinden
     jogo_draug: spill-draugens-take
     jogo_trolls: spill-for-solen-stiger
+    jogo_ingolfr: spill-ingolfs-hoyseteplaner
+    jogo_hrolf: spill-hrolfs-gull
+    jogo_kantele: spill-stem-kantelen
+    jogo_hidromel: spill-de-tre-slurkene
+    jogo_rigs: spill-de-tre-husene
+    jogo_halfdan: spill-runer-i-hagia-sofia
+    jogo_ohthere: spill-ohtheres-reinsdyr
+    jogo_lussi: spill-lussis-flamme
+    jogo_havamal: spill-gjester-i-hallen
+    jogo_kennings: spill-kenning-gater
+    jogo_beowulf: spill-grendels-arm
+    jogo_audumbla: spill-audumblas-is
+    jogo_selkie: spill-selskinnet
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
