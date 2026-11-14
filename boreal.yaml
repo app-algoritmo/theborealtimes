@@ -125,6 +125,7 @@ pt:
     privacidade: privacidade
     cookies: cookies
     jogos: jogos
+    progresso: meu-progresso
     jogo_thor: jogo-pesca-de-thor
     jogo_leif: jogo-viagem-de-leif
     jogo_idun: jogo-idun-e-as-macas
@@ -364,6 +365,7 @@ en:
     privacidade: privacy
     cookies: cookies
     jogos: games
+    progresso: my-progress
     jogo_thor: game-thors-fishing-trip
     jogo_leif: game-leifs-voyage
     jogo_idun: game-idun-and-the-apples
@@ -603,6 +605,7 @@ en:
     privacidade: personvern
     cookies: informasjonskapsler
     jogos: spill
+    progresso: min-fremgang
     jogo_thor: spill-thors-fisketur
     jogo_leif: spill-leifs-reise
     jogo_idun: spill-idun-og-eplene

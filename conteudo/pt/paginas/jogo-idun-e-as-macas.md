@@ -2,7 +2,6 @@
 titulo: "Idun e as maçãs"
 resumo: "Jogo: pegue as maçãs douradas da juventude antes que caiam e desvie da águia, numa aventura inspirada no mito de Idun."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: idun-macas
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-idun" aria-label="Idun e as maçãs" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/idun-macas.js?v=2" defer></script>
 
 ## Como jogar

@@ -2,7 +2,6 @@
 titulo: "O nisse do celeiro"
 resumo: "Jogo: seja o nisse do celeiro e cuide dos animais durante a noite de inverno, até a menina trazer o mingau ao amanhecer."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: nisse-mingau
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-nisse" aria-label="O nisse do celeiro" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/nisse-mingau.js?v=2" defer></script>
 
 ## Como jogar

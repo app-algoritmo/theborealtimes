@@ -2,7 +2,6 @@
 titulo: "The port of Hedeby"
 resumo: "Game: stack the cargo crates on the quay of Hedeby without letting them fall into the sea."
 olho: Game
-atualizado: November 2026
 card:
   imagem: hedeby-porto
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-hedeby" aria-label="The port of Hedeby" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/hedeby-porto.js?v=4" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "Fela i fossen"
 resumo: "Spill: trykk på strengene på Fossegrimens fele når de gylne tonene når linjen, og få trærne i skogen til å danse."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: fossegrim-violino
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-violino" aria-label="Fela i fossen" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/violino-cachoeira.js?v=3" defer></script>
 
 ## Slik spiller du

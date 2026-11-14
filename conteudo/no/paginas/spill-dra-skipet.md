@@ -2,7 +2,6 @@
 titulo: "Dra skipet"
 resumo: "Spill: dra i tauet i riktig rytme for å dra skipet over land og nå Konstantinopel før natten faller på."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: guarda-varegue
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-arrasto" aria-label="Dra skipet" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/arrastar-navio.js?v=3" defer></script>
 
 ## Slik spiller du

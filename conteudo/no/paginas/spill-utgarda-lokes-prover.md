@@ -2,7 +2,6 @@
 titulo: "Utgard-Lokes prøver"
 resumo: "Spill: drikk av hornet, løft katten og bryt med den gamle kvinnen i jotunens tre prøver."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: thor-utgard
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-utgard" aria-label="Utgard-Lokes prøver" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/thor-utgard.js?v=4" defer></script>
 
 ## Slik spiller du

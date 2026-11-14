@@ -2,7 +2,6 @@
 titulo: "The merchant's scales"
 resumo: "Game: add pieces of cut silver until you hit the exact weight the buyer asks for."
 olho: Game
-atualizado: November 2026
 card:
   imagem: dirhams-prata
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-balanca" aria-label="The merchant's scales" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/dirhams-balanca.js?v=4" defer></script>
 
 ## How to play

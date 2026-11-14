@@ -2,7 +2,6 @@
 titulo: "The last battle"
 resumo: "Game: defend the gods' hall from wolves and giants until the dawn of Ragnarök."
 olho: Game
-atualizado: November 2026
 card:
   imagem: ragnarok-batalha
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ragnarok" aria-label="The last battle" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/ragnarok-batalha.js?v=4" defer></script>
 
 ## How to play

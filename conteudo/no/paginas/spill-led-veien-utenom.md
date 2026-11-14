@@ -2,7 +2,6 @@
 titulo: "Led veien utenom"
 resumo: "Spill: tegn en vei fra den grønne til den røde prikken uten å røre steinene til det skjulte folket."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: huldufolk-pedra
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-huldu" aria-label="Led veien utenom" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/huldufolk-pedra.js?v=4" defer></script>
 
 ## Slik spiller du

@@ -2,7 +2,6 @@
 titulo: "Rist runene"
 resumo: "Spill: rist fem runer ved å forbinde prikkene, som om du hogde Jellingsteinen."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: jelling-harald-runas
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-runas" aria-label="Rist runene" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/jelling-runas.js?v=3" defer></script>
 
 ## Slik spiller du

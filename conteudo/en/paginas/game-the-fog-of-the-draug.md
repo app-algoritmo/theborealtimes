@@ -2,7 +2,6 @@
 titulo: "The fog of the Draug"
 resumo: "Game: gather the buoys in the fog without being caught by the Draug."
 olho: Game
-atualizado: November 2026
 card:
   imagem: draugen-nevoa
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-draugen" aria-label="The fog of the Draug" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/draugen-nevoa.js?v=4" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "Hold the line at Stiklestad"
 resumo: "Game: hold King Olaf's line against the enemy's surges until the sun darkens."
 olho: Game
-atualizado: November 2026
 card:
   imagem: stiklestad-olavo
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-stiklestad" aria-label="Hold the line at Stiklestad" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/stiklestad-linha.js?v=4" defer></script>
 
 ## How to play

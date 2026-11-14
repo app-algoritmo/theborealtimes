@@ -2,7 +2,6 @@
 titulo: "O poço de Mímir"
 resumo: "Jogo: responda às perguntas da cabeça de Mímir sobre a história do poço da sabedoria."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: mimir-poco
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-mimir" aria-label="O poço de Mímir" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/mimir-poco.js?v=4" defer></script>
 
 ## Como jogar

@@ -2,7 +2,6 @@
 titulo: "Ro til Lindisfarne"
 resumo: "Spill: ro i riktig rytme og før vikingskipet til øya Lindisfarne."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: lindisfarne-ataque
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-remar" aria-label="Ro til Lindisfarne" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/remar-lindisfarne.js?v=4" defer></script>
 
 ## Slik spiller du

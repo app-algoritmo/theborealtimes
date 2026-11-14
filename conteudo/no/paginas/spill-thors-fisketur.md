@@ -2,7 +2,6 @@
 titulo: "Tors fisketur"
 resumo: "Spill: hold linen, slipp når slangen kaster seg fram, og bring Jormungand opp til overflaten, som i fortellingen til Snorre."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: thor-serpente
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-thor" aria-label="Tors fisketur" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/thor-pesca.js?v=3" defer></script>
 
 ## Slik spiller du

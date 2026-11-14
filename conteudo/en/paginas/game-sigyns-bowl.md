@@ -2,7 +2,6 @@
 titulo: "Sigyn's bowl"
 resumo: "Game: catch the serpent's venom with Sigyn's bowl so the earth does not shake."
 olho: Game
-atualizado: November 2026
 card:
   imagem: loki-sigyn
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-sigyn" aria-label="Sigyn's bowl" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/loki-sigyn.js?v=4" defer></script>
 
 ## How to play

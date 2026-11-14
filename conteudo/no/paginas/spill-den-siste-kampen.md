@@ -2,7 +2,6 @@
 titulo: "Den siste kampen"
 resumo: "Spill: forsvar gudenes sal mot ulver og jotner til Ragnaroks daggry."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: ragnarok-batalha
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ragnarok" aria-label="Den siste kampen" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/ragnarok-batalha.js?v=4" defer></script>
 
 ## Slik spiller du

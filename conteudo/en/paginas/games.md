@@ -8,6 +8,8 @@ ax:
   lead: "Every adventure is born from a story published on the site. Fish up a serpent with Thor, cross the ice with Leif, forge swords, carve runes and play hnefatafl. It opens fullscreen on a phone, tablet or computer."
   btn_sorteio: "Pick a random adventure"
   btn_ver: "See all games"
+  progresso: "My progress"
+  progresso_url: "/en/my-progress/"
   sorteando: "Rolling..."
   stat_jogos: "games"
   stat_historias: "stories"

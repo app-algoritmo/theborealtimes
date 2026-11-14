@@ -2,7 +2,6 @@
 titulo: "The Maldon causeway"
 resumo: "Game: defend the Maldon causeway, which is clear only at low tide, and stop the Viking invaders."
 olho: Game
-atualizado: November 2026
 card:
   imagem: maldon-calcada
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-maldon" aria-label="The Maldon causeway" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/maldon-calcada.js?v=4" defer></script>
 
 ## How to play

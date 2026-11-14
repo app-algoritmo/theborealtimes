@@ -2,7 +2,6 @@
 titulo: "Os bolos de Alfredo"
 resumo: "Jogo: tire os bolos do fogo na hora certa, sem deixá-los queimar, como na lenda de Alfredo."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: alfredo-edington
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-bolos" aria-label="Os bolos de Alfredo" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/alfredo-bolos.js?v=4" defer></script>
 
 ## Como jogar

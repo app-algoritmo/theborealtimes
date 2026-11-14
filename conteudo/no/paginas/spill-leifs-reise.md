@@ -2,7 +2,6 @@
 titulo: "Leivs reise"
 resumo: "Spill: styr Leiv Erikssons skip gjennom is og skjær, fra Helluland til Markland og videre til Vinland, slik sagaene forteller det."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: leif-vinlandia
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-leif" aria-label="Leivs reise" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/viagem-de-leif.js?v=3" defer></script>
 
 ## Slik spiller du

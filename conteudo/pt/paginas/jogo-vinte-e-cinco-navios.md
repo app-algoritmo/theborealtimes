@@ -2,7 +2,6 @@
 titulo: "Vinte e cinco navios"
 resumo: "Jogo: guie a frota de Eirik, o Vermelho, entre gelo e rochas rumo à Groenlândia."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: eirik-groenlandia
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-eirik" aria-label="Vinte e cinco navios" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/eirik-frota.js?v=4" defer></script>
 
 ## Como jogar

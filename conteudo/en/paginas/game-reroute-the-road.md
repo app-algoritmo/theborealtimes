@@ -2,7 +2,6 @@
 titulo: "Reroute the road"
 resumo: "Game: draw a road from the green dot to the red dot without touching the rocks of the hidden people."
 olho: Game
-atualizado: November 2026
 card:
   imagem: huldufolk-pedra
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-huldu" aria-label="Reroute the road" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/huldufolk-pedra.js?v=4" defer></script>
 
 ## How to play

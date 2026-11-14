@@ -2,7 +2,6 @@
 titulo: "Ibn Fadlans beretning"
 resumo: "Spill: skill det som står i Ibn Fadlans beretning fra det som ble funnet på senere."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: ibn-fadlan-rus
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-fadlan" aria-label="Ibn Fadlans beretning" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/ibn-fadlan-relato.js?v=4" defer></script>
 
 ## Slik spiller du

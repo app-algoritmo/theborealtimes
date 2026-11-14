@@ -2,7 +2,6 @@
 titulo: "Os bens do túmulo"
 resumo: "Jogo: encontre os pares de objetos da tumba Bj 581, em Birka, a da guerreira viking."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: birka-guerreira
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-birka" aria-label="Os bens do túmulo" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/birka-tumulo.js?v=4" defer></script>
 
 ## Como jogar

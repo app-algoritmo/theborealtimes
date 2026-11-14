@@ -2,7 +2,6 @@
 titulo: "Ratatosk og treet"
 resumo: "Spill: løp opp stammen på Yggdrasil som ekornet Ratatosk og bær bud fra ørnen til dragen."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: yggdrasil-arvore
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ratatosk" aria-label="Ratatosk og treet" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/yggdrasil-ratatosk.js?v=4" defer></script>
 
 ## Slik spiller du

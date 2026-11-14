@@ -2,7 +2,6 @@
 titulo: "Rognvalds kam"
 resumo: "Spill: red ut Haralds hår ved å dra over floker, som i scenen der Rognvald kjemmer det etter Hafrsfjord."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: harald-hafrsfjord
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-harald" aria-label="Rognvalds kam" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/harald-pente.js?v=3" defer></script>
 
 ## Slik spiller du

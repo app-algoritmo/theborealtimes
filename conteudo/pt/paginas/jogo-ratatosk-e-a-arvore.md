@@ -2,7 +2,6 @@
 titulo: "Ratatosk e a árvore"
 resumo: "Jogo: suba pelo tronco de Yggdrasil como o esquilo Ratatosk e leve os recados da águia ao dragão."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: yggdrasil-arvore
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ratatosk" aria-label="Ratatosk e a árvore" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/yggdrasil-ratatosk.js?v=4" defer></script>
 
 ## Como jogar

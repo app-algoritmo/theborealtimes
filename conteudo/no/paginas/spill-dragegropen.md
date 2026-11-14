@@ -2,7 +2,6 @@
 titulo: "Dragegropen"
 resumo: "Spill: grav gropa på dragen Fåvnes vei og slå til i det øyeblikket den bleke flekken på buken hans passerer over Sigurd."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: sigurd-fafnir
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-cova" aria-label="Dragegropen" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/cova-dragao.js?v=3" defer></script>
 
 ## Slik spiller du

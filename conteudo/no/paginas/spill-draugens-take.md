@@ -2,7 +2,6 @@
 titulo: "Draugens tåke"
 resumo: "Spill: samle bøyene i tåka uten å bli tatt igjen av Draugen."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: draugen-nevoa
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-draugen" aria-label="Draugens tåke" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/draugen-nevoa.js?v=4" defer></script>
 
 ## Slik spiller du

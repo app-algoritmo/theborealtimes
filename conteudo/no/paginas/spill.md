@@ -8,6 +8,8 @@ ax:
   lead: "Hvert eventyr er født av en historie utgitt på nettstedet. Fisk opp en slange med Tor, kryss isen med Leiv, smi sverd, rist runer og spill hnefatafl. Det åpner seg på hel skjerm på mobil, nettbrett eller datamaskin."
   btn_sorteio: "Trekk et tilfeldig eventyr"
   btn_ver: "Se alle spillene"
+  progresso: "Min fremgang"
+  progresso_url: "/no/min-fremgang/"
   sorteando: "Triller..."
   stat_jogos: "spill"
   stat_historias: "historier"

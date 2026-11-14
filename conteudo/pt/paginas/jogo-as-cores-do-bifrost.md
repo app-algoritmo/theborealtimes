@@ -2,7 +2,6 @@
 titulo: "As cores de Bifröst"
 resumo: "Jogo: repita a sequência de cores que Heimdall toca no chifre e guarde a ponte Bifröst."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: heimdall-bifrost
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-bifrost" aria-label="As cores de Bifröst" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/heimdall-bifrost.js?v=4" defer></script>
 
 ## Como jogar

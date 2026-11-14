@@ -2,7 +2,6 @@
 titulo: "Bygg Trelleborg"
 resumo: "Spill: få det roterende korset på linje med planens kors for å reise husene i den runde festningen."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: trelleborg-anel
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-trelleborg" aria-label="Bygg Trelleborg" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/trelleborg-anel.js?v=4" defer></script>
 
 ## Slik spiller du

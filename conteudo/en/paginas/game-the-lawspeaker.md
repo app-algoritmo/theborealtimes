@@ -2,7 +2,6 @@
 titulo: "The Lawspeaker"
 resumo: "Game: recite the law in the right rhythm by tapping the words that fall onto the golden line."
 olho: Game
-atualizado: November 2026
 card:
   imagem: althing-thingvellir
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-althing" aria-label="The Lawspeaker" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/althing-lei.js?v=4" defer></script>
 
 ## How to play

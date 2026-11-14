@@ -2,7 +2,6 @@
 titulo: "A rota de Gudríð"
 resumo: "Jogo: guie o navio de Gudríð pelos blocos de gelo do Atlântico Norte."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: gudrid-viajante
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-gudrid" aria-label="A rota de Gudríð" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/gudrid-rota.js?v=4" defer></script>
 
 ## Como jogar

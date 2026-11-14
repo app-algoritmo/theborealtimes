@@ -2,7 +2,6 @@
 titulo: "Mot Soria Moria"
 resumo: "Spill: kryss tre labyrintskoger til det gylne slottet Soria Moria."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: soria-moria
   cor: contos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-soria" aria-label="Mot Soria Moria" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/soria-moria.js?v=4" defer></script>
 
 ## Slik spiller du

@@ -8,6 +8,8 @@ ax:
   lead: "Cada aventura nasce de uma história publicada no site. Pesque uma serpente com Thor, atravesse o gelo com Leif, forje espadas, gravem runas e jogue hnefatafl. Abre em tela cheia no celular, no tablet e no computador."
   btn_sorteio: "Sortear uma aventura"
   btn_ver: "Ver todos os jogos"
+  progresso: "Meu progresso"
+  progresso_url: "/meu-progresso/"
   sorteando: "Sorteando..."
   stat_jogos: "jogos"
   stat_historias: "histórias"

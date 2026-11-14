@@ -2,7 +2,6 @@
 titulo: "Solsteinen"
 resumo: "Spill: himmelen er overskyet. Flytt markøren langs horisonten og finn den skjulte solen der krystallens to lys skinner likt."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: pedra-solar
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-pedrasol" aria-label="Solsteinen" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/pedra-sol.js?v=3" defer></script>
 
 ## Slik spiller du

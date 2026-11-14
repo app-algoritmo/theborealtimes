@@ -2,7 +2,6 @@
 titulo: "Os sonhos de Gudrún"
 resumo: "Jogo: memorize a ordem dos quatro maridos de Gudrún e toque nos nomes na sequência certa."
 olho: Jogo
-atualizado: novembro de 2026
 card:
   imagem: gudrun-sonhos
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-gudrun" aria-label="Os sonhos de Gudrún" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/gudrun-sonhos.js?v=4" defer></script>
 
 ## Como jogar

@@ -2,7 +2,6 @@
 titulo: "Choose by the feet"
 resumo: "Game: pick the cleanest pair of feet, like the goddess Skaði, before time runs out."
 olho: Game
-atualizado: November 2026
 card:
   imagem: skadi-pes
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-skadi" aria-label="Choose by the feet" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/skadi-pes.js?v=4" defer></script>
 
 ## How to play

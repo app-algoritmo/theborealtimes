@@ -2,7 +2,6 @@
 titulo: "Berserkens raseri"
 resumo: "Spill: bygg opp raseriet akkurat passe for å felle hver fiende uten å brenne ut."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: berserker-furia
   cor: viking
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-berserker" aria-label="Berserkens raseri" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/berserker-furia.js?v=4" defer></script>
 
 ## Slik spiller du

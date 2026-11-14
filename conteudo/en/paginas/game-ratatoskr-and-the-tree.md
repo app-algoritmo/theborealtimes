@@ -2,7 +2,6 @@
 titulo: "Ratatoskr and the tree"
 resumo: "Game: run up the trunk of Yggdrasil as the squirrel Ratatoskr and carry messages from the eagle to the dragon."
 olho: Game
-atualizado: November 2026
 card:
   imagem: yggdrasil-arvore
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ratatosk" aria-label="Ratatoskr and the tree" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/yggdrasil-ratatosk.js?v=4" defer></script>
 
 ## How to play

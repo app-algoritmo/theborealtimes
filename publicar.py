@@ -253,6 +253,7 @@ def jsonld_materia(cfg, idioma, pagina):
 # ---------------------------------------------------------------- construção
 
 def construir():
+    PROG = {}  # dados do "Meu progresso": lista de jogos por idioma
     cfg = carregar_config()
     site = cfg["site"]
     hoje = hoje_na_redacao(cfg)
@@ -354,9 +355,14 @@ def construir():
         # Um jogo novo entra na vitrine só por existir a página dele.
         cards = []
         for arq_pag in sorted(pasta.glob("paginas/*.md")):
-            m_pag, _ = ler_markdown(arq_pag)
+            m_pag, corpo_pag = ler_markdown(arq_pag)
             c = m_pag.get("card")
             if c:
+                cv = re.search(r'<canvas id="([^"]+)"', corpo_pag)
+                if cv:
+                    PROG.setdefault(curto, []).append(
+                        (c.get("ordem", 99), [cv.group(1), m_pag.get("titulo", ""),
+                                              f"{pref}/{arq_pag.stem}/", c.get("cor", "")]))
                 desc = re.sub(r"^(Jogo|Game):\s*", "", str(m_pag.get("resumo", "")))
                 cards.append(dict(c, url=f"{pref}/{arq_pag.stem}/",
                                   titulo=m_pag.get("titulo", ""),
@@ -468,6 +474,10 @@ def construir():
     # guardado por um ano, e um jogo corrigido precisa chegar ao leitor.
     if (RAIZ / "jogos").exists():
         shutil.copytree(RAIZ / "jogos", SAIDA / "g")
+        dados = {l: [x[1] for x in sorted(v, key=lambda x: x[0])] for l, v in PROG.items()}
+        (SAIDA / "g" / "progresso-dados.js").write_text(
+            "window.BT_JOGOS=" + json.dumps(dados, ensure_ascii=False, separators=(",", ":")) + ";",
+            encoding="utf-8")
     if (RAIZ / "admin").exists():
         shutil.copytree(RAIZ / "admin", SAIDA / "admin")
 

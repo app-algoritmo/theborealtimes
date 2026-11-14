@@ -2,7 +2,6 @@
 titulo: "Leap the wall of fire"
 resumo: "Game: jump the fires with Skírnir's horse on the way to Gerðr's hall."
 olho: Game
-atualizado: November 2026
 card:
   imagem: freyr-gerdr
   cor: mitos
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-freyr" aria-label="Leap the wall of fire" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/freyr-fogo.js?v=4" defer></script>
 
 ## How to play

@@ -2,7 +2,6 @@
 titulo: "Kåres flukt"
 resumo: "Spill: hopp over flammene i Njåls hus og nå taket, som Kåre i sagaen."
 olho: Spill
-atualizado: november 2026
 card:
   imagem: njal-queima
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-kari" aria-label="Kåres flukt" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/kari-fuga.js?v=4" defer></script>
 
 ## Slik spiller du

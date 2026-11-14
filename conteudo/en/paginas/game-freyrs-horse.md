@@ -2,7 +2,6 @@
 titulo: "Freyr's horse"
 resumo: "Game: tap only the one riding Freyr's sacred horse and let the other shepherds pass."
 olho: Game
-atualizado: November 2026
 card:
   imagem: hrafnkell-freyfaxi
   cor: sagas
@@ -15,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-hrafnkell" aria-label="Freyr's horse" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=6" defer></script>
+<script src="/g/tela.js?v=7" defer></script>
 <script src="/g/hrafnkell-freyfaxi.js?v=4" defer></script>
 
 ## How to play
