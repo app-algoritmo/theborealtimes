@@ -15,7 +15,7 @@ card:
 <div class="jogo"><canvas id="jogo-idun" aria-label="Idun og eplene" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=5" defer></script>
+<script src="/g/tela.js?v=6" defer></script>
 <script src="/g/idun-macas.js?v=3" defer></script>
 
 ## Slik spiller du

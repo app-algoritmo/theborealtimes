@@ -23,10 +23,11 @@
   var TEMAS = {"jogo-althing":"viking","jogo-arrasto":"viking","jogo-balanca":"viking","jogo-berserker":"viking","jogo-bifrost":"mitos","jogo-birka":"viking","jogo-bodes":"contos","jogo-bolos":"viking","jogo-capacete":"viking","jogo-cova":"sagas","jogo-draugen":"contos","jogo-egil":"sagas","jogo-eirik":"sagas","jogo-esqui":"sagas","jogo-fadlan":"viking","jogo-fenrir":"mitos","jogo-freyja":"mitos","jogo-freyr":"mitos","jogo-frigg":"mitos","jogo-glamr":"sagas","jogo-gryla":"contos","jogo-gudrid":"sagas","jogo-gudrun":"sagas","jogo-gunnlaug":"sagas","jogo-harald":"sagas","jogo-hedeby":"viking","jogo-hrafnkell":"sagas","jogo-huginn":"mitos","jogo-huldra":"contos","jogo-huldu":"contos","jogo-idun":"mitos","jogo-kari":"sagas","jogo-kraken":"contos","jogo-lagarfljot":"contos","jogo-leif":"sagas","jogo-maldon":"viking","jogo-martelo":"mitos","jogo-mimir":"mitos","jogo-moinho":"contos","jogo-nisse":"contos","jogo-nokken":"contos","jogo-nornas":"mitos","jogo-oseberg":"viking","jogo-paris":"viking","jogo-pedrasol":"viking","jogo-ragnar":"sagas","jogo-ragnarok":"mitos","jogo-ratatosk":"mitos","jogo-remar":"viking","jogo-rok":"viking","jogo-runas":"viking","jogo-sigyn":"mitos","jogo-skadi":"mitos","jogo-sleipnir":"mitos","jogo-snorri":"sagas","jogo-soria":"contos","jogo-stamford":"viking","jogo-stiklestad":"sagas","jogo-svolder":"sagas","jogo-tafl":"viking","jogo-thor":"mitos","jogo-trelleborg":"viking","jogo-troll":"contos","jogo-trolls":"contos","jogo-ulfberht":"viking","jogo-utgard":"mitos","jogo-valquiria":"mitos","jogo-ventonorte":"contos","jogo-violino":"contos"};
   var NIVEIS = [{ m: 0.8, p: 0.6 }, { m: 1, p: 1 }, { m: 1.25, p: 1.6 }, { m: 1.5, p: 2.5 }];
   var TX = {
-    pt: { dif: ['Fácil', 'Normal', 'Difícil', 'Lendário'], pts: 'Pontos', rec: 'Recorde', novo: 'Novo recorde!', som: 'Som' },
-    en: { dif: ['Easy', 'Normal', 'Hard', 'Legendary'], pts: 'Score', rec: 'Best', novo: 'New best!', som: 'Sound' },
-    no: { dif: ['Lett', 'Normal', 'Vanskelig', 'Legendarisk'], pts: 'Poeng', rec: 'Rekord', novo: 'Ny rekord!', som: 'Lyd' }
+    pt: { dif: ['Fácil', 'Normal', 'Difícil', 'Lendário'], pts: 'Pontos', rec: 'Recorde', novo: 'Novo recorde!', som: 'Som', med: ['Bronze', 'Prata', 'Ouro'], comp: 'Compartilhar', cp: 'Link copiado', fiz: function (n, t, d, m) { return 'Fiz ' + n + ' pontos em "' + t + '" (' + d + ') ' + m + ' — borealtimes.org'; } },
+    en: { dif: ['Easy', 'Normal', 'Hard', 'Legendary'], pts: 'Score', rec: 'Best', novo: 'New best!', som: 'Sound', med: ['Bronze', 'Silver', 'Gold'], comp: 'Share', cp: 'Link copied', fiz: function (n, t, d, m) { return 'I scored ' + n + ' points in "' + t + '" (' + d + ') ' + m + ' — borealtimes.org'; } },
+    no: { dif: ['Lett', 'Normal', 'Vanskelig', 'Legendarisk'], pts: 'Poeng', rec: 'Rekord', novo: 'Ny rekord!', som: 'Lyd', med: ['Bronse', 'Sølv', 'Gull'], comp: 'Del', cp: 'Lenke kopiert', fiz: function (n, t, d, m) { return 'Jeg fikk ' + n + ' poeng i «' + t + '» (' + d + ') ' + m + ' — borealtimes.org'; } }
   }[L];
+  var MEDAL = ['', '🥉', '🥈', '🥇'];
   var RE_BAD = /erro|falha|ferid|engano|tremor|encost|levado|passaram|pedra|casco|feil|bom$|forbi|stein|skrog|skjelv|sår|tatt|mistake|miss|failure|wound|touch|taken|passed|stone|hull|berøring/i;
   var RE_BOM2 = /acerto|barris|guardado|hit|barrel|kept|beholdt|tønner|treff/i;
   var RE_IGN = /tempo|time|tid\b|dias|days|dager|f[oô]lego|breath|pust|cuidado|care|stell|f[úu]ria|fury|raseri|coragem|courage|\bmot\b|juventude|youth|ungdom|until|até|til det|%/i;
@@ -67,7 +68,7 @@
     var dif = parseInt(lsGet('bt_dif'), 10); if (!(dif >= 0 && dif <= 3)) dif = 1;
     var best = parseInt(lsGet('bt_rec_' + id + '_' + dif), 10) || 0;
     var parts = [], aneis = [], flut = [], amb = [], flash = null, shake = 0, shT = 0;
-    var est = 'menu', marca = null, linhas = [], prev = {}, grace = 0, score = 0, combo = 0, comboT = 0, tPlay = 0, novo = false, ult = 0, ux = 0, uy = 0, ut = -9;
+    var mist = 0, medal = 0, est = 'menu', marca = null, linhas = [], prev = {}, grace = 0, score = 0, combo = 0, comboT = 0, tPlay = 0, novo = false, ult = 0, ux = 0, uy = 0, ut = -9;
     var CORES = { mitos: ['#8dffc9', '#9ad7ff', '#d7b8ff'], sagas: ['#ffb36b', '#ff8a3a', '#ffd88a'], viking: ['#ffffff', '#cfe9ff', '#a8d4ff'], contos: ['#e5ff9a', '#b6ffcf', '#fff1a0'] }[tema];
     function rnd(a, b) { return a + Math.random() * (b - a); }
     function spawnAmb() {
@@ -87,6 +88,7 @@
     }
     function texto(s, x, y, c, sz) { flut.push({ s: s, x: x, y: y, c: c, sz: sz || 18, l: 1 }); }
     function mult() { return NIVEIS[dif].p; }
+    function med(i) { return parseInt(lsGet('bt_med_' + id + '_' + i), 10) || 0; }
     function bom(n) {
       for (var k = 0; k < n; k++) {
         combo++; comboT = 3.2;
@@ -100,18 +102,20 @@
       }
     }
     function mau() {
-      combo = 0; comboT = 0; shake = 0.35; shT = 0.35; flash = { c: '255,70,50', a: 0.32 };
+      mist++; combo = 0; comboT = 0; shake = 0.35; shT = 0.35; flash = { c: '255,70,50', a: 0.32 };
       var p = pos(); burst(p[0], p[1], 22, ['#ff6a4a', '#ffb36b', '#ff3a2a'], 200, 160, 0.6, 3);
       SOM.mau();
     }
     function comecar() {
-      score = 0; combo = 0; comboT = 0; tPlay = 0; novo = false; prev = {}; grace = 0.5;
+      score = 0; combo = 0; comboT = 0; tPlay = 0; novo = false; mist = 0; medal = 0; prev = {}; grace = 0.5;
       var h = api.h; burst(api.w / 2, h / 2, 26, CORES.concat(['#ffe9a8']), 220, 40, 0.8, 3); SOM.inicio();
     }
     function vencer() {
       var b = Math.round((500 + Math.max(0, 60 - tPlay) * 10) * mult()); score += b;
       for (var i = 0; i < 5; i++) burst(rnd(api.w * 0.2, api.w * 0.8), rnd(api.h * 0.2, api.h * 0.5), 26, ['#ffd88a', '#ffffff', '#ff9ad7', '#9ad7ff', '#8dffc9'], 240, 180, 1.4, 3.4);
       flash = { c: '255,216,138', a: 0.35 }; SOM.vitoria(); fecharPts();
+      medal = mist === 0 ? (dif >= 1 ? 3 : 2) : mist <= 1 ? 2 : 1;
+      if (medal > med(dif)) lsSet('bt_med_' + id + '_' + dif, String(medal));
     }
     function perder() {
       shake = 0.7; shT = 0.7; flash = { c: '255,50,40', a: 0.4 };
@@ -129,10 +133,11 @@
       return { k: lab, v: parseInt(m[2], 10), bad: bad };
     }
     return {
-      dbg: function () { return { score: score, combo: combo, est: est, best: best, dif: dif, parts: parts.length }; },
+      dbg: function () { return { mist: mist, medal: medal, score: score, combo: combo, est: est, best: best, dif: dif, parts: parts.length }; },
       nivel: function () { return dif; },
       mult: function () { return NIVEIS[dif].m; },
       estado: function () { return est; },
+      resumo: function () { return { score: score, dif: dif, medal: medal, titulo: T0() }; },
       ini: function () { linhas = []; marca = null; },
       txt: function (s, x, y, a) { if (a === 'left' && x < 40 && y < 90 && typeof s === 'string') linhas.push([s, y]); },
       cartaz: function (cor, rod) { marca = { c: cor, r: rod }; },
@@ -220,18 +225,21 @@
         /* menu: dificuldade; fim: resumo */
         if (est === 'menu') {
           var P = pills(), n;
-          if (best > 0) api.txt0(TX.rec + ': ' + best, w / 2, P.y0 - 12, 13, '#c9b3f2', 'center');
+          if (best > 0) api.txt0(TX.rec + ': ' + best, w / 2, P.y0 - 30, 13, '#c9b3f2', 'center');
+          for (n = 0; n < 4; n++) if (med(n)) api.txt0(MEDAL[med(n)], P.x0 + n * (P.pw + 8) + P.pw / 2, P.y0 - 8, 16, '#fff', 'center');
           for (n = 0; n < 4; n++) {
             var px = P.x0 + n * (P.pw + 8);
             g.fillStyle = n === dif ? '#ffd88a' : 'rgba(255,255,255,.14)'; rr(px, P.y0, P.pw, 30, 15); g.fill();
             api.txt0(TX.dif[n], px + P.pw / 2, P.y0 + 20, 13, n === dif ? '#2a1c0a' : '#e9e1f7', 'center');
           }
         } else if (est === 'win' || est === 'lose') {
-          if (novo) api.txt0(TX.novo, w / 2, h - 56, 17, '#ffd88a', 'center');
+          if (medal) api.txt0(MEDAL[medal] + ' ' + TX.med[medal - 1], w / 2, h - 84, 20, '#ffd88a', 'center');
+          if (novo) api.txt0(TX.novo, w / 2, h - 58, 16, '#ffd88a', 'center');
           api.txt0('★ ' + score + '  ·  ' + TX.rec + ' ' + best + '  ·  ' + TX.dif[dif], w / 2, h - 30, 14, '#e9e1f7', 'center');
         }
       }
     };
+    function T0() { return api.T.titulo; }
     function pills() { var pw = Math.min(104, (api.w - 40) / 4 - 8), tot = pw * 4 + 24; return { pw: pw, x0: (api.w - tot) / 2, y0: api.h - 48 }; }
     function rr(x, y, w, h, r) { g.beginPath(); g.moveTo(x + r, y); g.arcTo(x + w, y, x + w, y + h, r); g.arcTo(x + w, y + h, x, y + h, r); g.arcTo(x, y + h, x, y, r); g.arcTo(x, y, x + w, y, r); g.closePath(); }
   }
@@ -255,6 +263,15 @@
     var bSair = botao('jogo-x', '✕', sair); bSair.setAttribute('aria-label', UI.sair);
     var bPausa = botao('jogo-pausa', '❚❚', alternarPausa); bPausa.setAttribute('aria-label', UI.pausa);
     var bSom = botao('jogo-som', MUDO ? '🔇' : '🔊', function () { bSom.textContent = alternarMudo() ? '🔇' : '🔊'; }); bSom.setAttribute('aria-label', TX.som);
+    var bComp = botao('jogo-comp', '⤴', compartilhar); bComp.setAttribute('aria-label', TX.comp); bComp.style.display = 'none';
+    function compartilhar() {
+      var r = fx.resumo(), txt = TX.fiz(r.score, r.titulo, TX.dif[r.dif], MEDAL[r.medal]).replace(/\s+\(/, ' ('), url = location.href.split('#')[0];
+      function copiar() {
+        var ok = function () { bComp.textContent = '✓'; setTimeout(function () { bComp.textContent = '⤴'; }, 1600); };
+        try { navigator.clipboard.writeText(txt + ' ' + url).then(ok, ok); } catch (e) { ok(); }
+      }
+      if (navigator.share) { try { navigator.share({ title: r.titulo, text: txt, url: url }).catch(function () {}); } catch (e) { copiar(); } } else copiar();
+    }
 
     function entrar() {
       if (ativo) return;
@@ -387,6 +404,7 @@
       var tr = fx.antes();
       jogo.draw();
       fx.fim(pausado ? 0 : dt);
+      var ee = fx.estado(); bComp.style.display = (ativo && (ee === 'win' || ee === 'lose') && fx.resumo().score > 0) ? '' : 'none';
       fx.depois(tr);
       if (pausado) {
         g.fillStyle = 'rgba(10,8,25,.7)'; g.fillRect(0, 0, api.w, api.h);
