@@ -5,7 +5,7 @@
 {% block ogimagem %}{{ pagina.imagem|default(site.url ~ '/estatico/img/boreal-social.png') }}{% endblock %}
 
 {% block conteudo %}
-<link rel="stylesheet" href="/g/ouvir.css?v=1">
+<link rel="stylesheet" href="/g/ouvir.css?v=2">
 <article>
   <div class="trilha">
     <a href="{{ idioma.prefixo }}/">{{ ui.capa }}</a> ›
@@ -17,18 +17,13 @@
       <span class="chapeu">{{ pagina.secao }} · {{ pagina.natureza }}</span>
       <h1>{{ pagina.titulo }}</h1>
       {% if pagina.resumo %}<p class="linha-fina">{{ pagina.resumo }}</p>{% endif %}
-      <div class="assinatura">
-        <span class="selo">{{ ui.narrado }}</span>
-        <span class="sep">·</span>
-        <span>{{ ui.editor }}: {{ pagina.autor }}</span>
-        <span class="sep">·</span>
-        <span>{{ pagina.data_longa }}</span>
-        <span class="sep">·</span>
-        <span>{{ pagina.leitura }} {{ ui.leitura }}</span>
-      </div>
+      <div class="barra-ler">
       <div class="ouvir" hidden data-lang="{{ ui.ouvir_lang }}" data-ouvir="{{ ui.ouvir }}" data-pausar="{{ ui.ouvir_pausar }}" data-continuar="{{ ui.ouvir_continuar }}">
         <button type="button" class="ouvir-tocar" aria-pressed="false"><svg class="ouvir-ico" width="24" height="24" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor"><path d="M9.800 21.800c0-7 2.700-10.800 6.200-10.800s6.200 3.800 6.200 10.800z"/><rect x="15.100" y="16" width="1.800" height="7" rx=".9"/><rect x="9.200" y="20.500" width="13.600" height="2.200" rx="1.100"/><path d="M7.200 15.500C3.800 14.800 2 10.800 2.800 5.500c1.200 3.800 3.400 5.700 6.300 6.300z"/><path d="M24.800 15.500c3.400-.7 5.200-4.700 4.400-10-1.200 3.800-3.400 5.700-6.300 6.300z"/><path d="M8 20v-4.500C8 7.500 24 7.500 24 15.500V20" fill="none" stroke="currentColor" stroke-width="1.600" stroke-linecap="round"/><rect x="5.200" y="17" width="4.200" height="8.200" rx="2"/><rect x="22.600" y="17" width="4.200" height="8.200" rx="2"/></svg><span class="ouvir-rot">{{ ui.ouvir }}</span></button>
         <button type="button" class="ouvir-parar" hidden>■ {{ ui.ouvir_parar }}</button>
+      </div>
+        <span class="barra-tempo">{{ pagina.leitura }} {{ ui.leitura }}</span>
+        <button type="button" class="compartilhar" data-titulo="{{ pagina.titulo }}" data-copiado="{{ ui.link_copiado }}" aria-label="{{ ui.compartilhar }}" title="{{ ui.compartilhar }}"><svg width="26" height="26" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><g transform="rotate(45 16 16)"><path d="M22 5Q31 16 22 27"/><path d="M22 5V27" stroke-width="1.2"/><path d="M3 16H27"/><path d="M3 16l6-5M3 16l6 5"/><path d="M27 16l-3-3M27 16l-3 3"/></g></svg></button>
       </div>
     </div>
 
@@ -61,5 +56,6 @@
     {% endif %}
   </div>
 </article>
-<script src="/g/ouvir.js?v=1" defer></script>
+<script src="/g/ouvir.js?v=2" defer></script>
+<script src="/g/compartilhar.js?v=1" defer></script>
 {% endblock %}

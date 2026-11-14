@@ -8,3 +8,10 @@
 .ouvir .ouvir-parar:hover{color:var(--marca)}
 .ouvir button[hidden]{display:none}
 .ouvir .ouvir-ico{flex:0 0 auto;display:block}
+
+.barra-ler{display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin-top:18px;font-family:var(--util);font-size:13px;color:var(--tinta-4)}
+.barra-ler .ouvir{margin-top:0}
+.barra-ler .barra-tempo{white-space:nowrap}
+.compartilhar{margin:0;display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;padding:0;border-radius:50%;border:1.5px solid var(--marca);background:transparent;color:var(--marca);cursor:pointer;transition:background .2s,color .2s;position:relative}
+.compartilhar:hover{background:var(--marca);color:#fff}
+.compartilhar.ok::after{content:attr(data-copiado);position:absolute;left:46px;top:50%;transform:translateY(-50%);white-space:nowrap;font-size:12px;font-weight:700;color:var(--marca)}

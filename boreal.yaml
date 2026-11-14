@@ -181,6 +181,19 @@ pt:
     jogo_soria: jogo-rumo-a-soria-moria
     jogo_lag: jogo-a-serpente-do-lagarfljot
     jogo_huldu: jogo-desvie-a-estrada
+    jogo_heim: jogo-as-cores-do-bifrost
+    jogo_freyr: jogo-salte-o-muro-de-fogo
+    jogo_norn: jogo-o-fio-das-nornas
+    jogo_snor: jogo-os-pares-de-snorri
+    jogo_gunn: jogo-o-duelo-de-gunnlaug
+    jogo_gudr: jogo-a-rota-de-gudrid
+    jogo_hedeby: jogo-o-porto-de-hedeby
+    jogo_paris: jogo-a-catapulta-de-paris
+    jogo_fadlan: jogo-o-relato-de-ibn-fadlan
+    jogo_bolos: jogo-os-bolos-de-alfredo
+    jogo_vento: jogo-o-vento-norte
+    jogo_draug: jogo-a-nevoa-do-draugen
+    jogo_trolls: jogo-antes-que-o-sol-nasca
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -237,6 +250,8 @@ pt:
     ouvir_pausar: Pausar
     ouvir_continuar: Continuar
     ouvir_parar: Parar
+    compartilhar: Compartilhar
+    link_copiado: Link copiado
     ouvir_lang: pt-BR
     editor: Editor responsável
     fontes: Fontes
@@ -405,6 +420,19 @@ en:
     jogo_soria: game-to-soria-moria
     jogo_lag: game-the-lagarfljot-worm
     jogo_huldu: game-reroute-the-road
+    jogo_heim: game-the-colours-of-bifrost
+    jogo_freyr: game-leap-the-wall-of-fire
+    jogo_norn: game-the-threads-of-the-norns
+    jogo_snor: game-snorris-pairs
+    jogo_gunn: game-gunnlaugs-duel
+    jogo_gudr: game-gudrids-route
+    jogo_hedeby: game-the-port-of-hedeby
+    jogo_paris: game-the-catapult-of-paris
+    jogo_fadlan: game-ibn-fadlans-account
+    jogo_bolos: game-alfreds-cakes
+    jogo_vento: game-the-north-wind
+    jogo_draug: game-the-fog-of-the-draug
+    jogo_trolls: game-before-the-sun-rises
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -461,6 +489,8 @@ en:
     ouvir_pausar: Pause
     ouvir_continuar: Resume
     ouvir_parar: Stop
+    compartilhar: Share
+    link_copiado: Link copied
     ouvir_lang: en-GB
     editor: Responsible editor
     fontes: Sources
@@ -629,6 +659,19 @@ en:
     jogo_soria: spill-mot-soria-moria
     jogo_lag: spill-lagarfljot-ormen
     jogo_huldu: spill-led-veien-utenom
+    jogo_heim: spill-bifrosts-farger
+    jogo_freyr: spill-hopp-over-ildmuren
+    jogo_norn: spill-nornenes-trad
+    jogo_snor: spill-snorres-par
+    jogo_gunn: spill-gunnlaugs-duell
+    jogo_gudr: spill-gudrids-rute
+    jogo_hedeby: spill-havnen-i-hedeby
+    jogo_paris: spill-parisers-katapult
+    jogo_fadlan: spill-ibn-fadlans-beretning
+    jogo_bolos: spill-alfreds-kaker
+    jogo_vento: spill-nordavinden
+    jogo_draug: spill-draugens-take
+    jogo_trolls: spill-for-solen-stiger
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
@@ -685,6 +728,8 @@ en:
     ouvir_pausar: Pause
     ouvir_continuar: Fortsett
     ouvir_parar: Stopp
+    compartilhar: Del
+    link_copiado: Lenke kopiert
     ouvir_lang: nb-NO
     editor: Ansvarlig redaktør
     fontes: Kilder
