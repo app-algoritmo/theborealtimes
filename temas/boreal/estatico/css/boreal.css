@@ -49,8 +49,8 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 .marca a{color:#fff}
 .marca span{display:inline-block}
 .linha-edicao{
-  margin-top:14px;font-family:var(--util);font-size:10.5px;
-  letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.78);
+  margin-top:10px;font-family:var(--util);font-size:11px;
+  letter-spacing:.06em;color:rgba(255,255,255,.72);
 }
 .linha-edicao i{font-style:normal;color:var(--fio-2);padding:0 8px}
 

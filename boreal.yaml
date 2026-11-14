@@ -8,6 +8,8 @@ site:
   nome: The Boreal Times
   url: https://borealtimes.org
   publicacao_de: Duna Press
+  # Nome que aparece no cabeçalho (o nome oficial do site continua sendo "nome").
+  marca: Boreal Saga Play
   publicacao_de_url: https://dunapress.org
   casa_desde: 2017
   editora: DIGITAL SOLUTIONS - DE BARROS
@@ -223,7 +225,7 @@ pt:
     capa: Capa
     menu_inicio: Histórias
     menu_jogos: Jogos
-    linha_edicao: Edições Duna Press
+    linha_edicao: by The Boreal Times · Duna Press Edições
     sobre: Sobre
     assine: Assinar
     ultimas: Ver também
@@ -476,7 +478,7 @@ en:
     capa: Front page
     menu_inicio: Stories
     menu_jogos: Games
-    linha_edicao: Duna Press Editions
+    linha_edicao: by The Boreal Times · Duna Press Editions
     sobre: About
     assine: Subscribe
     ultimas: See also
@@ -729,7 +731,7 @@ en:
     capa: Forside
     menu_inicio: Historier
     menu_jogos: Spill
-    linha_edicao: Duna Press-utgaver
+    linha_edicao: by The Boreal Times · Duna Press-utgaver
     sobre: Om
     assine: Abonner
     ultimas: Se også
