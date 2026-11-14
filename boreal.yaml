@@ -208,6 +208,19 @@ pt:
     jogo_beowulf: jogo-o-braco-de-grendel
     jogo_audumbla: jogo-o-gelo-de-audumbla
     jogo_selkie: jogo-a-pele-de-foca
+    jogo_mjolnir: jogo-moscas-na-forja
+    jogo_volund: jogo-as-penas-do-ferreiro
+    jogo_sampo: jogo-os-cacos-do-sampo
+    jogo_amleth: jogo-a-carta-trocada
+    jogo_brynhildr: jogo-o-circulo-de-fogo
+    jogo_magnus: jogo-os-navios-de-magnus
+    jogo_rollo: jogo-o-curso-do-sena
+    jogo_cnut: jogo-as-ondas-de-cnut
+    jogo_ivar: jogo-a-muralha-de-escudos
+    jogo_groen: jogo-a-travessia-do-fiorde
+    jogo_noaidi: jogo-o-tambor-do-noaidi
+    jogo_helly: jogo-a-galera-de-up-helly-aa
+    jogo_mara: jogo-o-estabulo-da-mara
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -461,6 +474,19 @@ en:
     jogo_beowulf: game-grendels-arm
     jogo_audumbla: game-audumblas-ice
     jogo_selkie: game-the-sealskin
+    jogo_mjolnir: game-flies-at-the-forge
+    jogo_volund: game-the-smiths-feathers
+    jogo_sampo: game-the-shards-of-the-sampo
+    jogo_amleth: game-the-swapped-letter
+    jogo_brynhildr: game-the-ring-of-fire
+    jogo_magnus: game-magnuss-ships
+    jogo_rollo: game-the-course-of-the-seine
+    jogo_cnut: game-cnuts-waves
+    jogo_ivar: game-the-shield-wall
+    jogo_groen: game-crossing-the-fjord
+    jogo_noaidi: game-the-noaidis-drum
+    jogo_helly: game-the-up-helly-aa-galley
+    jogo_mara: game-the-maras-stable
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -714,6 +740,19 @@ en:
     jogo_beowulf: spill-grendels-arm
     jogo_audumbla: spill-audumblas-is
     jogo_selkie: spill-selskinnet
+    jogo_mjolnir: spill-fluer-i-smia
+    jogo_volund: spill-smedens-fjaer
+    jogo_sampo: spill-bitene-av-sampo
+    jogo_amleth: spill-det-byttede-brevet
+    jogo_brynhildr: spill-ildringen
+    jogo_magnus: spill-magnus-skip
+    jogo_rollo: spill-seinens-lop
+    jogo_cnut: spill-knuts-bolger
+    jogo_ivar: spill-skjoldmuren
+    jogo_groen: spill-over-fjorden
+    jogo_noaidi: spill-noaidiens-tromme
+    jogo_helly: spill-galeien-til-up-helly-aa
+    jogo_mara: spill-marens-stall
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}

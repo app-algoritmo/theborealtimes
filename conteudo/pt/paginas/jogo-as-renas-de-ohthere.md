@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ohthere" aria-label="As renas de Ohthere" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=8" defer></script>
+<script src="/g/tela.js?v=9" defer></script>
 <script src="/g/ohthere-renas.js?v=1" defer></script>
 
 ## Como jogar
