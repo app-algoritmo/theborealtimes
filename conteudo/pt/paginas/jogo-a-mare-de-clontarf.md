@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-clontarf" aria-label="A maré de Clontarf" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=10" defer></script>
+<script src="/g/tela.js?v=11" defer></script>
 <script src="/g/clontarf-mare.js?v=1" defer></script>
 
 ## Como jogar
