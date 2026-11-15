@@ -35,6 +35,6 @@ Por que o tafl desapareceu? A explicação mais comum é que o xadrez, que chego
 
 ## O jogo no site
 
-O jogo de tabuleiro do Boreal Times usa essa versão pequena, mas é uma simplificação: o rei aqui só é capturado cercado por quatro lados, e outras regras foram adaptadas.
+O jogo de tabuleiro do Boreal Saga Play usa essa versão pequena, mas é uma simplificação: o rei aqui só é capturado cercado por quatro lados, e outras regras foram adaptadas.
 
 Para jogar uma partida contra os atacantes, jogue [Hnefatafl em miniatura](/jogo-hnefatafl/).

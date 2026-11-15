@@ -5,13 +5,13 @@ olho: O site
 atualizado: novembro de 2026
 ---
 
-O The Boreal Times conta histórias do Norte: mitos, sagas, lendas, contos e história da Escandinávia e do mundo nórdico, da era viking aos nossos dias. Elas podem ser verdadeiras, lendárias ou inventadas, e cada texto diz de qual tipo é. O site sai em português, inglês e norueguês.
+O Boreal Saga Play conta histórias do Norte: mitos, sagas, lendas, contos e história da Escandinávia e do mundo nórdico, da era viking aos nossos dias. Elas podem ser verdadeiras, lendárias ou inventadas, e cada texto diz de qual tipo é. O site sai em português, inglês e norueguês.
 
 O nome vem do inglês, mas "Times" aqui quer dizer tempos: as histórias de todas as épocas.
 
 ## A casa
 
-O Boreal Times é elaborado por [Duna Press](https://dunapress.org), editora fundada em 2017 que publica jornalismo em português. O Boreal nasceu em 2025 como jornal de economia e geopolítica e, em novembro de 2026, foi reformulado para contar histórias. A Duna Press segue com o jornalismo diário; o Boreal Times não publica notícias.
+O Boreal Saga Play é elaborado por [Duna Press](https://dunapress.org), editora fundada em 2017 que publica jornalismo em português. O Boreal nasceu em 2025 como jornal de economia e geopolítica e, em novembro de 2026, foi reformulado para contar histórias. A Duna Press segue com o jornalismo diário; o Boreal Saga Play não publica notícias.
 
 ## Quem escreve
 

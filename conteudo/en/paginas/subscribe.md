@@ -7,7 +7,7 @@ atualizado: November 2026
 as:
   lead: "Myths, sagas, Vikings and fireside tales, straight to your inbox. Free, ad-free and unhurried."
   email: "Your email"
-  consent: "I agree to receive The Boreal Times newsletter and to the processing of my email address under the"
+  consent: "I agree to receive Boreal Saga Play newsletter and to the processing of my email address under the"
   consent_link: "privacy policy"
   botao: "Sign me up"
   enviando: "Sending..."

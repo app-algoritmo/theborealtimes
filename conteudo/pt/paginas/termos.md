@@ -1,13 +1,13 @@
 ---
 titulo: Termos de uso
-resumo: Condições para ler, jogar e usar o conteúdo do Boreal Times.
+resumo: Condições para ler, jogar e usar o conteúdo do Boreal Saga Play.
 olho: Legal
 atualizado: novembro de 2026
 ---
 
 ## 1. Quem somos
 
-O The Boreal Times é um site de histórias da Escandinávia e do mundo nórdico, elaborado por Duna Press. A titularidade e a representação legal são de Digital Solutions - De Barros, org.nr 996 041 468, empresa registrada na Noruega. Estes termos regem o acesso ao site, aos jogos e à newsletter.
+O Boreal Saga Play é um site de histórias da Escandinávia e do mundo nórdico, elaborado por Duna Press. A titularidade e a representação legal são de Digital Solutions - De Barros, org.nr 996 041 468, empresa registrada na Noruega. Estes termos regem o acesso ao site, aos jogos e à newsletter.
 
 A leitura e os jogos são abertos a qualquer pessoa, sem cadastro e sem custo.
 

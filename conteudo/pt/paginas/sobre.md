@@ -1,5 +1,5 @@
 ---
-titulo: Sobre o Boreal Times
+titulo: Sobre o Boreal Saga Play
 resumo: O que esta publicação faz, para quem, e de onde vem a informação.
 template: sobre
 olho: A publicação

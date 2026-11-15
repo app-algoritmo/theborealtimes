@@ -1,6 +1,6 @@
 ---
 titulo: "Jogue as Sagas"
-resumo: "Jogos curtos no navegador, em tela cheia, inspirados nas histórias do Boreal Times: mitos, reis, vikings e contos. Para todas as idades, sem cadastro."
+resumo: "Jogos curtos no navegador, em tela cheia, inspirados nas histórias do Boreal Saga Play: mitos, reis, vikings e contos. Para todas as idades, sem cadastro."
 olho: Arcade Boreal
 template: arcade
 atualizado: novembro de 2026

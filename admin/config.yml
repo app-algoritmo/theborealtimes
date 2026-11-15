@@ -8,7 +8,7 @@ backend:
   name: github
   repo: app-algoritmo/theborealtimes
   branch: main
-  site_domain: borealtimes.org
+  site_domain: borealsagaplay.com
 
 publish_mode: editorial_workflow      # rascunho → revisão → publicado
 media_folder: "temas/boreal/estatico/img/upload"

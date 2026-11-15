@@ -11,7 +11,7 @@
       comp: 'Compartilhar minha saga', copiado: 'Copiado!', limpar: 'Apagar meu progresso', conf: 'Apagar todo o progresso e recordes deste aparelho?',
       priv: 'O progresso fica salvo só neste aparelho, no navegador. Não há conta nem envio de dados. Limpar os dados do navegador apaga tudo.',
       novo: 'Nova conquista', subiu: 'Novo título', som: 'Som', dif: ['Fácil', 'Normal', 'Difícil', 'Lendário'], medalhas: 'medalhas',
-      txt: function (n, t, r) { return 'Sou ' + r + ' no The Boreal Times: venci ' + n + ' de ' + t + ' jogos!'; }, jogos: '/jogos/', site: 'borealtimes.org',
+      txt: function (n, t, r) { return 'Sou ' + r + ' no Boreal Saga Play: venci ' + n + ' de ' + t + ' jogos!'; }, jogos: '/jogos/', site: 'borealsagaplay.com',
       ach: [['Primeira vitória', 'Vença um jogo'], ['Cinco vitórias', 'Vença 5 jogos'], ['Quinze vitórias', 'Vença 15 jogos'], ['Meio caminho', 'Vença metade dos jogos'], ['Quase lá', 'Vença 50 jogos'],
         ['Dez ouros', 'Ganhe 10 medalhas de ouro'], ['Domador do Lendário', 'Vença em dificuldade Lendário'], ['Todas as dificuldades', 'Vença em Fácil, Normal, Difícil e Lendário'],
         ['Viajante dos quatro reinos', 'Vença ao menos um jogo em cada reino'], ['Senhor de um reino', 'Vença todos os jogos de um reino'], ['Triplo ouro', 'Ouro em Normal, Difícil e Lendário no mesmo jogo'], ['Lenda de Asgard', 'Vença todos os jogos']]
@@ -25,7 +25,7 @@
       comp: 'Share my saga', copiado: 'Copied!', limpar: 'Clear my progress', conf: 'Erase all progress and records on this device?',
       priv: 'Progress is saved only on this device, in the browser. No account, no data sent. Clearing browser data erases everything.',
       novo: 'New achievement', subiu: 'New title', som: 'Sound', dif: ['Easy', 'Normal', 'Hard', 'Legendary'], medalhas: 'medals',
-      txt: function (n, t, r) { return 'I am a ' + r + ' on The Boreal Times: I won ' + n + ' of ' + t + ' games!'; }, jogos: '/en/games/', site: 'borealtimes.org',
+      txt: function (n, t, r) { return 'I am a ' + r + ' on Boreal Saga Play: I won ' + n + ' of ' + t + ' games!'; }, jogos: '/en/games/', site: 'borealsagaplay.com',
       ach: [['First win', 'Win a game'], ['Five wins', 'Win 5 games'], ['Fifteen wins', 'Win 15 games'], ['Halfway there', 'Win half of the games'], ['Almost there', 'Win 50 games'],
         ['Ten golds', 'Earn 10 gold medals'], ['Legendary tamer', 'Win on Legendary difficulty'], ['Every difficulty', 'Win on Easy, Normal, Hard and Legendary'],
         ['Traveller of four realms', 'Win at least one game in each realm'], ['Lord of a realm', 'Win every game of one realm'], ['Triple gold', 'Gold on Normal, Hard and Legendary in the same game'], ['Legend of Asgard', 'Win every game']]
@@ -39,7 +39,7 @@
       comp: 'Del sagaen min', copiado: 'Kopiert!', limpar: 'Slett fremgangen min', conf: 'Slette all fremgang og rekorder på denne enheten?',
       priv: 'Fremgangen lagres bare på denne enheten, i nettleseren. Ingen konto, ingen data sendes. Tømmer du nettleserdata, forsvinner alt.',
       novo: 'Ny prestasjon', subiu: 'Ny tittel', som: 'Lyd', dif: ['Lett', 'Normal', 'Vanskelig', 'Legendarisk'], medalhas: 'medaljer',
-      txt: function (n, t, r) { return 'Jeg er ' + r + ' på The Boreal Times: ' + n + ' av ' + t + ' spill vunnet!'; }, jogos: '/no/spill/', site: 'borealtimes.org',
+      txt: function (n, t, r) { return 'Jeg er ' + r + ' på Boreal Saga Play: ' + n + ' av ' + t + ' spill vunnet!'; }, jogos: '/no/spill/', site: 'borealsagaplay.com',
       ach: [['Første seier', 'Vinn et spill'], ['Fem seiere', 'Vinn 5 spill'], ['Femten seiere', 'Vinn 15 spill'], ['Halvveis', 'Vinn halvparten av spillene'], ['Nesten i mål', 'Vinn 50 spill'],
         ['Ti gull', 'Ta 10 gullmedaljer'], ['Legendarisk temmer', 'Vinn på Legendarisk'], ['Alle vanskelighetsgrader', 'Vinn på Lett, Normal, Vanskelig og Legendarisk'],
         ['Reisende i fire riker', 'Vinn minst ett spill i hvert rike'], ['Herre over et rike', 'Vinn alle spillene i ett rike'], ['Trippelt gull', 'Gull på Normal, Vanskelig og Legendarisk i samme spill'], ['Asgards legende', 'Vinn alle spillene']]
