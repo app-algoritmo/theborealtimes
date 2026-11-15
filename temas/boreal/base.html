@@ -123,6 +123,7 @@
     <div>
       <div class="rodape-marca">{{ site.nome }}</div>
       <p>{{ t.rodape.sobre }}</p>
+      <p class="rodape-edicao">{{ ui.linha_edicao }}</p>
     </div>
     <div><h3>{{ t.rodape.secoes }}</h3><ul>
       {% for s in secoes %}<li><a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a></li>{% endfor %}

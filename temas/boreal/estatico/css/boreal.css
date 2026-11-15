@@ -597,3 +597,16 @@ html.jogo-aberto,html.jogo-aberto body{overflow:hidden;overscroll-behavior:none}
 @keyframes pgEntra{from{transform:translate(-50%,-30px);opacity:0}}
 @media (prefers-reduced-motion:reduce){.pg-prox i,.pg-emblem.pulso,.pg-ach.pop,.pg-aviso{animation:none}.pg-emblem,.pg-anel{transition:none}}
 @media (max-width:520px){.pg-rank{font-size:1.9rem}.pg-num b{font-size:3.6rem}.pg-emblem{width:130px;height:130px}.pg-emo{font-size:60px;line-height:130px}}
+
+
+/* ── Rodapé em degradê sol ── */
+.rodape{background:#FF9F1C linear-gradient(120deg,#FFD23F 0%,#FF9F1C 50%,#F4623A 100%);
+  color:#1F1040;border-top:3px solid #4B2A7B}
+.rodape h3,.rodape-marca{color:#1F1040}
+.rodape ul,.rodape p{color:#2B1850}
+.rodape li a:hover,.rodape-fim a:hover{color:#1F1040;text-decoration:underline}
+.rodape-fim{border-top-color:rgba(31,16,64,.3);color:#2B1850}
+.rodape-fim a{color:#2B1850}
+.rodape-ds a{color:#1F1040;font-weight:700}
+.rodape .rodape-edicao{margin-top:12px;max-width:none;font-family:var(--util);
+  font-size:12px;letter-spacing:.06em;color:#2B1850}
