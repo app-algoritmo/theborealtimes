@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a small grey-bearded gnome in a red cap sitting on 
 tags: [nisse, original-tale, nordic-christmas, folklore, farm]
 ---
 
-This is an original tale from The Boreal Times, written from the popular tradition of the nisse, and not an old tale. In the Scandinavian countries, the nisse is a small farm spirit who watches over the house and the animals. In Norway and Denmark he is called nisse, in Sweden tomte, and the tradition of leaving porridge for him on Christmas Eve is still remembered.
+This is an original tale from Boreal Saga Play, written from the popular tradition of the nisse, and not an old tale. In the Scandinavian countries, the nisse is a small farm spirit who watches over the house and the animals. In Norway and Denmark he is called nisse, in Sweden tomte, and the tradition of leaving porridge for him on Christmas Eve is still remembered.
 
 ## The farm at the end of the valley
 

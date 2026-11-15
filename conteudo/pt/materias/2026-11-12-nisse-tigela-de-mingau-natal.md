@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um pequeno duende de barba cinzenta e gorro vermelh
 tags: [nisse, conto-original, natal-nordico, folclore, fazenda]
 ---
 
-Este é um conto original do Boreal Times, escrito a partir da tradição popular do nisse, e não um conto antigo. Nos países escandinavos, o nisse é um pequeno espírito da fazenda, que vigia a casa e os animais. Na Noruega e na Dinamarca ele se chama nisse, na Suécia tomte, e a tradição de deixar mingau para ele na noite de Natal ainda é lembrada.
+Este é um conto original do Boreal Saga Play, escrito a partir da tradição popular do nisse, e não um conto antigo. Nos países escandinavos, o nisse é um pequeno espírito da fazenda, que vigia a casa e os animais. Na Noruega e na Dinamarca ele se chama nisse, na Suécia tomte, e a tradição de deixar mingau para ele na noite de Natal ainda é lembrada.
 
 ## A fazenda no fim do vale
 

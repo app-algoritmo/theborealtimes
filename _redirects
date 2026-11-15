@@ -1,5 +1,7 @@
-# Domínio canônico
-https://www.borealtimes.org/*  https://borealtimes.org/:splat  301
+# Domínio canônico: borealsagaplay.com. O domínio antigo (borealtimes.org) redireciona para ele.
+https://www.borealsagaplay.com/*  https://borealsagaplay.com/:splat  301
+https://borealtimes.org/*  https://borealsagaplay.com/:splat  301
+https://www.borealtimes.org/*  https://borealsagaplay.com/:splat  301
 
 # Atalhos
 /assine        /assinatura/      301

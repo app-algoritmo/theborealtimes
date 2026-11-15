@@ -1,6 +1,6 @@
 ---
 titulo: "Spill sagaene"
-resumo: "Korte nettleserspill, på hel skjerm, inspirert av historiene i The Boreal Times: myter, konger, vikinger og eventyr. For alle aldre, uten registrering."
+resumo: "Korte nettleserspill, på hel skjerm, inspirert av historiene i Boreal Saga Play: myter, konger, vikinger og eventyr. For alle aldre, uten registrering."
 olho: Boreal Arcade
 template: arcade
 atualizado: november 2026

@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en liten grå-skjegget nisse i rød lue som sitter 
 tags: [nisse, originalt-eventyr, nordisk-jul, folketro, gård]
 ---
 
-Dette er et originalt eventyr fra The Boreal Times, skrevet ut fra den folkelige tradisjonen om nissen, og ikke et gammelt eventyr. I de skandinaviske landene er nissen en liten gårdsånd som våker over huset og dyrene. I Norge og Danmark heter han nisse, i Sverige tomte, og tradisjonen med å sette fram grøt til ham på julaften huskes fortsatt.
+Dette er et originalt eventyr fra Boreal Saga Play, skrevet ut fra den folkelige tradisjonen om nissen, og ikke et gammelt eventyr. I de skandinaviske landene er nissen en liten gårdsånd som våker over huset og dyrene. I Norge og Danmark heter han nisse, i Sverige tomte, og tradisjonen med å sette fram grøt til ham på julaften huskes fortsatt.
 
 ## Gården i enden av dalen
 

@@ -7,7 +7,7 @@ atualizado: novembro de 2026
 as:
   lead: "Mitos, sagas, vikings e contos de lareira, direto no seu e-mail. Gratuita, sem anúncio e sem pressa."
   email: "Seu e-mail"
-  consent: "Aceito receber a newsletter do Boreal Times e concordo com o tratamento do meu e-mail, nos termos da"
+  consent: "Aceito receber a newsletter do Boreal Saga Play e concordo com o tratamento do meu e-mail, nos termos da"
   consent_link: "política de privacidade"
   botao: "Quero receber"
   enviando: "Enviando..."

@@ -35,6 +35,6 @@ Hvorfor forsvant tafl? Den vanlige forklaringen er at sjakk, som kom fra sør og
 
 ## Spillet på nettstedet
 
-Brettspillet i The Boreal Times bruker den lille versjonen, men det er en forenkling: her blir kongen bare fanget når han er omringet på fire sider, og andre regler er tilpasset.
+Brettspillet i Boreal Saga Play bruker den lille versjonen, men det er en forenkling: her blir kongen bare fanget når han er omringet på fire sider, og andre regler er tilpasset.
 
 Vil du spille en kamp mot angriperne, spill [Hnefatafl i miniatyr](/no/spill-hnefatafl/).

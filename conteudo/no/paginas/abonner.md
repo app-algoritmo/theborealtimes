@@ -7,7 +7,7 @@ atualizado: november 2026
 as:
   lead: "Myter, sagaer, vikinger og eventyr ved ildstedet, rett i innboksen. Gratis, uten reklame og uten hast."
   email: "E-postadressen din"
-  consent: "Jeg samtykker i å motta nyhetsbrevet fra The Boreal Times og i behandlingen av e-postadressen min i henhold til"
+  consent: "Jeg samtykker i å motta nyhetsbrevet fra Boreal Saga Play og i behandlingen av e-postadressen min i henhold til"
   consent_link: "personvernerklæringen"
   botao: "Meld meg på"
   enviando: "Sender..."

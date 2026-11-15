@@ -9,7 +9,7 @@ atualizado: November 2026
 
 Digital Solutions - De Barros, org. no. 996 041 468, a company registered in Norway and based in Larvik. It decides how data is processed and answers for it. Contact for any privacy matter: post@borealtimes.org.
 
-The Boreal Times is produced by Duna Press. Because the controller is in Norway, the GDPR applies through Norwegian data protection law. For readers in Brazil the LGPD applies as well. Both laws apply in parallel, and we follow the more protective one on each point.
+Boreal Saga Play is produced by Duna Press. Because the controller is in Norway, the GDPR applies through Norwegian data protection law. For readers in Brazil the LGPD applies as well. Both laws apply in parallel, and we follow the more protective one on each point.
 
 ## 2. What data we process
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Play the Sagas"
-resumo: "Short browser games, in fullscreen, inspired by the stories of The Boreal Times: myths, kings, Vikings and tales. For all ages, no sign-up."
+resumo: "Short browser games, in fullscreen, inspired by the stories of Boreal Saga Play: myths, kings, Vikings and tales. For all ages, no sign-up."
 olho: Boreal Arcade
 template: arcade
 atualizado: November 2026
