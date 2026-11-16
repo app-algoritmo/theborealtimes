@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-jorvik" aria-label="The layers of Jórvík" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=17" defer></script>
+<script src="/g/tela.js?v=18" defer></script>
 <script src="/g/jorvik-camadas.js?v=1" defer></script>
 
 ## How to play

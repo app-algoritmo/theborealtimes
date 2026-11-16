@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-kullervo" aria-label="Kullervos flokk" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=17" defer></script>
+<script src="/g/tela.js?v=18" defer></script>
 <script src="/g/kullervo-rebanho.js?v=1" defer></script>
 
 ## Slik spiller du
