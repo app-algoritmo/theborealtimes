@@ -274,6 +274,19 @@ pt:
     jogo_lemminkainen: jogo-o-rio-de-tuonela
     jogo_lindorm: jogo-o-chicote-da-noiva
     jogo_ilmatar: jogo-os-vasos-de-ilmatar
+    jogo_harbard: jogo-o-barco-de-harbardr
+    jogo_ask: jogo-os-dons-dos-deuses
+    jogo_grimnir: jogo-os-nomes-de-odin
+    jogo_sweyn: jogo-a-frota-de-sweyn
+    jogo_thormod: jogo-o-arco-de-thormod
+    jogo_largs: jogo-a-praia-de-largs
+    jogo_salme: jogo-os-achados-de-salme
+    jogo_repton: jogo-a-grade-de-repton
+    jogo_ridgeway: jogo-a-tabela-de-ridgeway
+    jogo_ladoga: jogo-as-contas-de-ladoga
+    jogo_kullervo: jogo-o-rebanho-de-kullervo
+    jogo_peer: jogo-o-salao-do-rei-da-montanha
+    jogo_mannen: jogo-o-homem-e-os-afazeres
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -590,6 +603,19 @@ en:
     jogo_lemminkainen: game-the-river-of-tuonela
     jogo_lindorm: game-the-brides-whip
     jogo_ilmatar: game-ilmatars-vessels
+    jogo_harbard: game-harbardrs-boat
+    jogo_ask: game-the-gods-gifts
+    jogo_grimnir: game-odins-names
+    jogo_sweyn: game-sweyns-fleet
+    jogo_thormod: game-thormods-bow
+    jogo_largs: game-the-beach-at-largs
+    jogo_salme: game-the-finds-of-salme
+    jogo_repton: game-reptons-grid
+    jogo_ridgeway: game-ridgeways-table
+    jogo_ladoga: game-the-beads-of-ladoga
+    jogo_kullervo: game-kullervos-flock
+    jogo_peer: game-the-mountain-kings-hall
+    jogo_mannen: game-the-man-and-the-housework
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -906,6 +932,19 @@ en:
     jogo_lemminkainen: spill-elva-i-tuonela
     jogo_lindorm: spill-brudens-pisk
     jogo_ilmatar: spill-ilmatars-kar
+    jogo_harbard: spill-harbardrs-bat
+    jogo_ask: spill-gudenes-gaver
+    jogo_grimnir: spill-odins-navn
+    jogo_sweyn: spill-svends-flate
+    jogo_thormod: spill-tormods-bue
+    jogo_largs: spill-stranden-ved-largs
+    jogo_salme: spill-funnene-fra-salme
+    jogo_repton: spill-reptons-rutenett
+    jogo_ridgeway: spill-ridgeways-tabell
+    jogo_ladoga: spill-perlene-i-ladoga
+    jogo_kullervo: spill-kullervos-flokk
+    jogo_peer: spill-dovregubbens-sal
+    jogo_mannen: spill-mannen-og-husarbeidet
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
