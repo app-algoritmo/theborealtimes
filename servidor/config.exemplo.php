@@ -17,6 +17,9 @@ return [
   'site' => 'https://borealtimes.org',
   'paginas' => ['pt' => '/assinatura/', 'en' => '/en/subscribe/', 'no' => '/no/abonner/'],
 
+  // Página do álbum em cada idioma (para o link do e-mail)
+  'album_paginas' => ['pt' => '/album/', 'en' => '/en/album/', 'no' => '/no/album/'],
+
   // Quem pode chamar o formulário
   'origens' => ['https://borealtimes.org', 'https://www.borealtimes.org'],
 
