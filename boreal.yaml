@@ -287,6 +287,19 @@ pt:
     jogo_kullervo: jogo-o-rebanho-de-kullervo
     jogo_peer: jogo-o-salao-do-rei-da-montanha
     jogo_mannen: jogo-o-homem-e-os-afazeres
+    jogo_hyndla: jogo-as-tochas-de-hyndla
+    jogo_sigrdrifa: jogo-a-runa-de-sigrdrifa
+    jogo_gylfi: jogo-o-salao-de-gylfi
+    jogo_erico: jogo-as-estradas-de-york
+    jogo_magnus1103: jogo-o-campo-de-emboscadas
+    jogo_conversao: jogo-os-quatro-blocos
+    jogo_ansgar: jogo-o-tabuleiro-de-birka
+    jogo_maeshowe: jogo-a-camara-de-maeshowe
+    jogo_cuerdale: jogo-o-tesouro-de-cuerdale
+    jogo_uppsala: jogo-o-templo-de-uppsala
+    jogo_gotland: jogo-a-imagem-de-gotland
+    jogo_louhi: jogo-o-campo-gelado-de-pohjola
+    jogo_elveskud: jogo-a-danca-das-elfas
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -616,6 +629,19 @@ en:
     jogo_kullervo: game-kullervos-flock
     jogo_peer: game-the-mountain-kings-hall
     jogo_mannen: game-the-man-and-the-housework
+    jogo_hyndla: game-hyndlas-torches
+    jogo_sigrdrifa: game-sigrdrifas-rune
+    jogo_gylfi: game-gylfis-hall
+    jogo_erico: game-the-roads-of-york
+    jogo_magnus1103: game-the-ambush-field
+    jogo_conversao: game-the-four-blocks
+    jogo_ansgar: game-birkas-board
+    jogo_maeshowe: game-the-chamber-of-maeshowe
+    jogo_cuerdale: game-the-cuerdale-hoard
+    jogo_uppsala: game-the-temple-at-uppsala
+    jogo_gotland: game-the-gotland-picture
+    jogo_louhi: game-pohjolas-frozen-field
+    jogo_elveskud: game-the-dance-of-the-elves
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -945,6 +971,19 @@ en:
     jogo_kullervo: spill-kullervos-flokk
     jogo_peer: spill-dovregubbens-sal
     jogo_mannen: spill-mannen-og-husarbeidet
+    jogo_hyndla: spill-hyndlas-fakler
+    jogo_sigrdrifa: spill-sigrdrifas-rune
+    jogo_gylfi: spill-gylfes-hall
+    jogo_erico: spill-veiene-i-york
+    jogo_magnus1103: spill-bakholdsfeltet
+    jogo_conversao: spill-de-fire-blokkene
+    jogo_ansgar: spill-brettet-i-birka
+    jogo_maeshowe: spill-kammeret-i-maeshowe
+    jogo_cuerdale: spill-cuerdale-skatten
+    jogo_uppsala: spill-tempelet-i-uppsala
+    jogo_gotland: spill-bildet-fra-gotland
+    jogo_louhi: spill-det-frosne-feltet
+    jogo_elveskud: spill-alvenes-dans
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
