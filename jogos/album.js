@@ -30,17 +30,17 @@
       forjar: 'Acender pacote (10 brasas)', forjou: 'A Fogueira acendeu um pacote novo.',
       nova: 'Nova', repetida: 'Repetida', revelar: 'Revelar tudo', continuar: 'Guardar na bolsa', pacote_t: 'Seu pacote',
       toque_virar: 'Toque para virar', vol_ok: function (v) { return 'Volume completo: ' + v + '!'; },
-      alb_ok: 'Álbum completo! Você reuniu todas as histórias do Boreal Times.',
+      alb_ok: 'Álbum completo! Você reuniu todas as histórias.',
       ganhou: function (n) { return n === 1 ? 'Você ganhou 1 pacote por vencer um jogo.' : 'Você ganhou ' + n + ' pacotes por vencer jogos.'; },
       exportar: 'Exportar coleção', importar: 'Importar coleção', apagar: 'Apagar meu álbum', confirma: 'Toque de novo para confirmar',
       importou: 'Coleção importada e somada à sua.', imp_erro: 'Arquivo inválido.', apagou: 'Álbum apagado deste aparelho.',
       priv: 'Sem conta, seu álbum fica salvo só neste aparelho, no navegador, e nada é enviado. Use Exportar para levar a coleção a outro aparelho. Limpar os dados do navegador apaga tudo.',
       sem_storage: 'Este navegador não permite salvar dados. O álbum funciona só enquanto esta página estiver aberta.',
       jg: 'Jogos', jogos: '/jogos/', galeria: '/galeria/', album: '/album/', conta_t: 'Conta',
-      c_txt: 'Entre com seu e-mail para levar o álbum a outros aparelhos. Sem senha: você recebe um link.', c_email: 'Seu e-mail', c_aceite: 'Aceito que o The Boreal Times guarde meu e-mail e o progresso do meu álbum para sincronizar entre aparelhos. Posso sair e apagar tudo quando quiser.',
+      c_txt: 'Entre com seu e-mail para levar o álbum a outros aparelhos. Sem senha: você recebe um link.', c_email: 'Seu e-mail', c_aceite: 'Aceito que o Boreal Saga Play guarde meu e-mail e o progresso do meu álbum para sincronizar entre aparelhos. Posso sair e apagar tudo quando quiser.',
       c_enviar: 'Enviar link de acesso', c_enviado: 'Se o e-mail estiver correto, o link chegou. Ele vale por 15 minutos.', c_con: function (e) { return 'Conectado como ' + e; }, c_sync: 'Sincronizar agora', c_sync_ok: 'Álbum sincronizado.',
       c_sair: 'Sair da conta', c_apagar: 'Apagar conta e dados', c_apagou: 'Conta e dados apagados do servidor.', c_erro: 'Não foi possível falar com o servidor. Tente de novo mais tarde.', c_link_inv: 'Esse link venceu ou já foi usado. Peça outro.', c_ent: 'Você entrou. Seu álbum foi sincronizado.', c_email_inv: 'Confira o e-mail e marque o aceite.',
-      fs: 'Tela cheia', fs_sair: 'Sair da tela cheia', menu_g: 'Galeria', menu_a: 'Álbum', home: '/',
+      volta_b: 'Voltar', fs: 'Tela cheia', fs_sair: 'Sair da tela cheia', menu_g: 'Galeria', menu_a: 'Álbum', home: '/',
       completo: 'completo', vol: 'Volume'
     },
     en: {
@@ -61,17 +61,17 @@
       forjar: 'Light a pack (10 embers)', forjou: 'The Bonfire lit a new pack.',
       nova: 'New', repetida: 'Duplicate', revelar: 'Reveal all', continuar: 'Put in the bag', pacote_t: 'Your pack',
       toque_virar: 'Tap to flip', vol_ok: function (v) { return 'Volume complete: ' + v + '!'; },
-      alb_ok: 'Album complete! You gathered every Boreal Times story.',
+      alb_ok: 'Album complete! You gathered every story.',
       ganhou: function (n) { return n === 1 ? 'You earned 1 pack for winning a game.' : 'You earned ' + n + ' packs for winning games.'; },
       exportar: 'Export collection', importar: 'Import collection', apagar: 'Delete my album', confirma: 'Tap again to confirm',
       importou: 'Collection imported and merged with yours.', imp_erro: 'Invalid file.', apagou: 'Album deleted from this device.',
       priv: 'Without an account, your album is saved only on this device, in the browser, and nothing is sent. Use Export to take the collection to another device. Clearing browser data erases everything.',
       sem_storage: 'This browser does not allow saving data. The album works only while this page stays open.',
       jg: 'Games', jogos: '/en/games/', galeria: '/en/gallery/', album: '/en/album/', conta_t: 'Account',
-      c_txt: 'Sign in with your email to take the album to other devices. No password: you get a link.', c_email: 'Your email', c_aceite: 'I agree that The Boreal Times stores my email and my album progress to sync between devices. I can sign out and delete everything at any time.',
+      c_txt: 'Sign in with your email to take the album to other devices. No password: you get a link.', c_email: 'Your email', c_aceite: 'I agree that Boreal Saga Play stores my email and my album progress to sync between devices. I can sign out and delete everything at any time.',
       c_enviar: 'Send sign-in link', c_enviado: 'If the email is correct, the link has arrived. It is valid for 15 minutes.', c_con: function (e) { return 'Signed in as ' + e; }, c_sync: 'Sync now', c_sync_ok: 'Album synced.',
       c_sair: 'Sign out', c_apagar: 'Delete account and data', c_apagou: 'Account and data deleted from the server.', c_erro: 'Could not reach the server. Try again later.', c_link_inv: 'This link has expired or was already used. Ask for another.', c_ent: 'You are signed in. Your album was synced.', c_email_inv: 'Check the email and tick the agreement.',
-      fs: 'Full screen', fs_sair: 'Exit full screen', menu_g: 'Gallery', menu_a: 'Album', home: '/en/',
+      volta_b: 'Back', fs: 'Full screen', fs_sair: 'Exit full screen', menu_g: 'Gallery', menu_a: 'Album', home: '/en/',
       completo: 'complete', vol: 'Volume'
     },
     no: {
@@ -92,17 +92,17 @@
       forjar: 'Tenn en pakke (10 glør)', forjou: 'Bålet tente en ny pakke.',
       nova: 'Ny', repetida: 'Duplikat', revelar: 'Avslør alle', continuar: 'Legg i posen', pacote_t: 'Pakken din',
       toque_virar: 'Trykk for å snu', vol_ok: function (v) { return 'Bind ferdig: ' + v + '!'; },
-      alb_ok: 'Albumet er komplett! Du har samlet alle historiene i Boreal Times.',
+      alb_ok: 'Albumet er komplett! Du har samlet alle historiene.',
       ganhou: function (n) { return n === 1 ? 'Du fikk 1 pakke for å vinne et spill.' : 'Du fikk ' + n + ' pakker for å vinne spill.'; },
       exportar: 'Eksporter samlingen', importar: 'Importer samlingen', apagar: 'Slett albumet mitt', confirma: 'Trykk igjen for å bekrefte',
       importou: 'Samlingen er importert og lagt til din.', imp_erro: 'Ugyldig fil.', apagou: 'Albumet er slettet fra denne enheten.',
       priv: 'Uten konto lagres albumet ditt bare på denne enheten, i nettleseren, og ingenting sendes. Bruk Eksporter for å ta samlingen med til en annen enhet. Hvis du sletter nettleserdata, forsvinner alt.',
       sem_storage: 'Denne nettleseren tillater ikke lagring av data. Albumet fungerer bare mens siden er åpen.',
       jg: 'Spill', jogos: '/no/spill/', galeria: '/no/galleri/', album: '/no/album/', conta_t: 'Konto',
-      c_txt: 'Logg inn med e-posten din for å ta albumet med til andre enheter. Uten passord: du får en lenke.', c_email: 'E-posten din', c_aceite: 'Jeg samtykker til at The Boreal Times lagrer e-posten min og albumfremgangen min for synkronisering mellom enheter. Jeg kan logge ut og slette alt når som helst.',
+      c_txt: 'Logg inn med e-posten din for å ta albumet med til andre enheter. Uten passord: du får en lenke.', c_email: 'E-posten din', c_aceite: 'Jeg samtykker til at Boreal Saga Play lagrer e-posten min og albumfremgangen min for synkronisering mellom enheter. Jeg kan logge ut og slette alt når som helst.',
       c_enviar: 'Send innloggingslenke', c_enviado: 'Hvis e-posten er riktig, er lenken sendt. Den gjelder i 15 minutter.', c_con: function (e) { return 'Logget inn som ' + e; }, c_sync: 'Synkroniser nå', c_sync_ok: 'Albumet er synkronisert.',
       c_sair: 'Logg ut', c_apagar: 'Slett konto og data', c_apagou: 'Konto og data er slettet fra serveren.', c_erro: 'Kunne ikke nå serveren. Prøv igjen senere.', c_link_inv: 'Denne lenken er utløpt eller allerede brukt. Be om en ny.', c_ent: 'Du er logget inn. Albumet ditt er synkronisert.', c_email_inv: 'Sjekk e-posten og kryss av for samtykket.',
-      fs: 'Fullskjerm', fs_sair: 'Avslutt fullskjerm', menu_g: 'Galleri', menu_a: 'Album', home: '/no/',
+      volta_b: 'Tilbake', fs: 'Fullskjerm', fs_sair: 'Avslutt fullskjerm', menu_g: 'Galleri', menu_a: 'Album', home: '/no/',
       completo: 'komplett', vol: 'Bind'
     }
   };
@@ -122,12 +122,16 @@
     var f = document.createElement('div'); f.className = 'sg-fundo'; f.setAttribute('aria-hidden', 'true');
     f.innerHTML = '<i></i><i></i><b></b>'; host.insertBefore(f, host.firstChild); camadas = [].slice.call(f.querySelectorAll('i'));
     var top = document.createElement('div'); top.className = 'sg-top';
-    top.innerHTML = '<a class="sg-home" href="' + TX.home + '">← The Boreal Times</a><nav class="sg-top-nav">' +
+    top.innerHTML = '<a class="sg-home" href="' + TX.jogos + '">Boreal Saga Play</a><nav class="sg-top-nav">' +
       '<a href="' + TX.galeria + '"' + (MODO === 'galeria' ? ' aria-current="page"' : '') + '>' + esc(TX.menu_g) + '</a>' +
       '<a href="' + TX.album + '"' + (MODO === 'album' ? ' aria-current="page"' : '') + '>' + esc(TX.menu_a) + '</a>' +
       '<a href="' + TX.jogos + '">' + esc(TX.jg) + '</a></nav>' +
-      '<button type="button" class="sg-fs" hidden></button>';
+      '<button type="button" class="sg-fs" hidden></button><button type="button" class="sg-volta">← ' + esc(TX.volta_b) + '</button>';
     host.insertBefore(top, f.nextSibling);
+    top.querySelector('.sg-volta').onclick = function () {
+      var mesmo = false; try { mesmo = document.referrer && new URL(document.referrer).origin === location.origin; } catch (e) {}
+      if (mesmo && history.length > 1) history.back(); else location.href = TX.home;
+    };
     var b = top.querySelector('.sg-fs'), el0 = host;
     var pode = !!(el0.requestFullscreen || el0.webkitRequestFullscreen);
     function rot() { var on = document.fullscreenElement || document.webkitFullscreenElement; b.textContent = '⛶ ' + (on ? TX.fs_sair : TX.fs); b.setAttribute('aria-pressed', on ? 'true' : 'false'); }

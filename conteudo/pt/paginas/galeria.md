@@ -1,6 +1,6 @@
 ---
 titulo: "Galeria Épica"
-resumo: "Todas as histórias do Boreal Times em um só lugar, com a ilustração de cada uma. Filtre por reino, natureza ou palavra e abra a história."
+resumo: "Todas as histórias em um só lugar, com a ilustração de cada uma. Filtre por reino, natureza ou palavra e abra a história."
 olho: "Saga Play"
 template: saga
 modo: galeria

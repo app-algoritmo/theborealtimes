@@ -46,9 +46,9 @@ try {
       $pg = $ap[$idioma] ?? $ap['pt'];
       $link = $c['site'] . $pg . '#entrar=' . $tk;
       $T = [
-        'pt' => ['Seu link para o Álbum de Figurinhas', "Olá!\n\nAbra este link para entrar no seu Álbum de Figurinhas do The Boreal Times. Ele vale por $LINK_MIN minutos e só funciona uma vez:\n\n$link\n\nSe não foi você que pediu, ignore esta mensagem: nada será feito."],
-        'en' => ['Your link to the Sticker Album', "Hello!\n\nOpen this link to sign in to your The Boreal Times Sticker Album. It is valid for $LINK_MIN minutes and works only once:\n\n$link\n\nIf you did not ask for it, ignore this message: nothing will happen."],
-        'no' => ['Lenken din til klistremerkealbumet', "Hei!\n\nÅpne denne lenken for å logge inn på klistremerkealbumet ditt i The Boreal Times. Den gjelder i $LINK_MIN minutter og virker bare én gang:\n\n$link\n\nHvis du ikke ba om den, kan du ignorere denne meldingen: ingenting skjer."],
+        'pt' => ['Seu link para o Álbum de Figurinhas', "Olá!\n\nAbra este link para entrar no seu Álbum de Figurinhas do Boreal Saga Play. Ele vale por $LINK_MIN minutos e só funciona uma vez:\n\n$link\n\nSe não foi você que pediu, ignore esta mensagem: nada será feito."],
+        'en' => ['Your link to the Sticker Album', "Hello!\n\nOpen this link to sign in to your Boreal Saga Play Sticker Album. It is valid for $LINK_MIN minutes and works only once:\n\n$link\n\nIf you did not ask for it, ignore this message: nothing will happen."],
+        'no' => ['Lenken din til klistremerkealbumet', "Hei!\n\nÅpne denne lenken for å logge inn på klistremerkealbumet ditt i Boreal Saga Play. Den gjelder i $LINK_MIN minutter og virker bare én gang:\n\n$link\n\nHvis du ikke ba om den, kan du ignorere denne meldingen: ingenting skjer."],
       ][$idioma];
       enviar_email($email, $T[0], $T[1]);
     }

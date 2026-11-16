@@ -1,6 +1,6 @@
 ---
 titulo: "Epic Gallery"
-resumo: "Every Boreal Times story in one place, with its illustration. Filter by realm, nature or keyword and open the story."
+resumo: "Every story in one place, with its illustration. Filter by realm, nature or keyword and open the story."
 olho: "Saga Play"
 template: saga
 modo: galeria

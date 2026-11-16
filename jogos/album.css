@@ -199,7 +199,7 @@ body.sg-imersivo .sg{position:fixed;inset:0;z-index:900;max-width:none;margin:0;
 .sg-fundo b{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,7,22,.78) 0%,rgba(10,7,22,.62) 40%,rgba(10,7,22,.86) 100%)}
 body.sg-imersivo .sg>*:not(.sg-fundo):not(.sg-dlg):not(.sg-live){position:relative;z-index:1}
 .sg-top{position:sticky!important;top:0;z-index:5!important;display:flex;align-items:center;gap:14px;padding:10px 18px;background:rgba(10,7,22,.82);backdrop-filter:blur(8px);border-bottom:1px solid var(--fio)}
-.sg-home{font-weight:700;font-size:.9rem;white-space:nowrap}
+.sg-home{font-weight:700;font-size:.95rem;white-space:nowrap;letter-spacing:.02em}
 .sg-top-nav{display:flex;gap:4px;margin-left:auto;flex-wrap:wrap}
 .sg-top-nav a{padding:8px 12px;border-radius:999px;font-size:.88rem;font-weight:600;color:var(--txt2);text-decoration:none}
 .sg-top-nav a[aria-current=page]{background:#fff;color:#1b1230}
@@ -214,7 +214,11 @@ body.sg-imersivo #saga-app{max-width:1180px;margin:0 auto 40px;background:rgba(1
   .sg-home{font-size:.8rem}
   .sg-top-nav{margin-left:0;order:3;width:100%;justify-content:space-between}
   .sg-fs{margin-left:auto}
+  .sg-volta{margin-left:0}
   body.sg-imersivo #saga-app{margin:0 10px 30px}
   body.sg-imersivo .sg-cab{padding:18px 14px 4px}
 }
 @media(prefers-reduced-motion:reduce){.sg-fundo i{transition:none}}
+
+.sg-volta{min-height:40px;padding:6px 14px;border-radius:999px;border:1px solid var(--fio);background:rgba(255,255,255,.08);font-weight:600;font-size:.85rem}
+.sg-volta:hover,.sg-fs:hover{background:rgba(255,255,255,.16)}
