@@ -326,6 +326,19 @@ pt:
     jogo_joukahainen: jogo-o-duelo-de-cantos
     jogo_fylgja: jogo-o-espirito-que-segue
     jogo_sieidi: jogo-a-pedra-sagrada
+    jogo_njordr: jogo-os-dados-do-porto
+    jogo_ullr: jogo-o-gelo-de-ullr
+    jogo_vidarr: jogo-o-sapato-de-vidarr
+    jogo_hardrada: jogo-a-raposa-e-os-gansos
+    jogo_thorfinn: jogo-os-espelhos-de-thorfinn
+    jogo_landnamabok: jogo-pouso-na-praia
+    jogo_stong: jogo-os-blocos-de-turfa
+    jogo_spillings: jogo-as-moedas-de-spillings
+    jogo_sigtuna: jogo-a-oficina-de-sigtuna
+    jogo_asgardsreia: jogo-a-cacada-de-asgardsreia
+    jogo_backahast: jogo-o-vau-do-cavalo-do-riacho
+    jogo_beaivi: jogo-os-sois-de-beaivi
+    jogo_torksey: jogo-a-peca-diferente-de-torksey
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -694,6 +707,19 @@ en:
     jogo_joukahainen: game-the-duel-of-songs
     jogo_fylgja: game-the-spirit-that-follows
     jogo_sieidi: game-the-sacred-stone
+    jogo_njordr: game-the-harbour-dice
+    jogo_ullr: game-ullrs-ice
+    jogo_vidarr: game-vidarrs-shoe
+    jogo_hardrada: game-the-fox-and-the-geese
+    jogo_thorfinn: game-thorfinns-mirrors
+    jogo_landnamabok: game-landing-on-the-beach
+    jogo_stong: game-the-turf-blocks
+    jogo_spillings: game-spillings-coins
+    jogo_sigtuna: game-sigtunas-workshop
+    jogo_asgardsreia: game-the-asgardsreia-hunt
+    jogo_backahast: game-the-brook-horses-ford
+    jogo_beaivi: game-beaivis-suns
+    jogo_torksey: game-torkseys-odd-piece
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -1062,6 +1088,19 @@ en:
     jogo_joukahainen: spill-sangduellen
     jogo_fylgja: spill-anden-som-folger
     jogo_sieidi: spill-den-hellige-steinen
+    jogo_njordr: spill-havnens-terninger
+    jogo_ullr: spill-ullrs-is
+    jogo_vidarr: spill-vidars-sko
+    jogo_hardrada: spill-reven-og-gjessene
+    jogo_thorfinn: spill-torfinns-speil
+    jogo_landnamabok: spill-landing-pa-stranda
+    jogo_stong: spill-torvblokkene
+    jogo_spillings: spill-spillings-myntene
+    jogo_sigtuna: spill-sigtunas-verksted
+    jogo_asgardsreia: spill-asgardsreia-jakten
+    jogo_backahast: spill-bekkehestens-vadested
+    jogo_beaivi: spill-beaivis-soler
+    jogo_torksey: spill-den-avvikende-brikken-i-torksey
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
