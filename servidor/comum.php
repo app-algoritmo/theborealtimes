@@ -8,8 +8,11 @@ function db() {
   static $p;
   if ($p) return $p;
   $c = cfg();
-  $p = new PDO("mysql:host={$c['db_host']};dbname={$c['db_nome']};charset=utf8mb4", $c['db_user'], $c['db_senha'],
-    [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC]);
+  $o = [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC];
+  if (!empty($c['db_dsn'])) { // só para testes locais (SQLite); em produção fica vazio
+    return $p = new PDO($c['db_dsn'], null, null, $o);
+  }
+  $p = new PDO("mysql:host={$c['db_host']};dbname={$c['db_nome']};charset=utf8mb4", $c['db_user'], $c['db_senha'], $o);
   $p->exec("SET time_zone = '+00:00'");
   return $p;
 }
@@ -44,6 +47,10 @@ function pagina_site($idioma, $consulta = '') {
 
 function enviar_email($para, $assunto, $texto, $extra = []) {
   $c = cfg();
+  if (!empty($c['email_arquivo'])) { // só para testes locais: grava em vez de enviar
+    file_put_contents($c['email_arquivo'], "TO: $para\nSUBJECT: $assunto\n$texto\n----\n", FILE_APPEND);
+    return true;
+  }
   $cab = [
     'From: ' . mb_encode_mimeheader($c['de_nome'], 'UTF-8') . " <{$c['de_email']}>",
     "Reply-To: {$c['responder_para']}",

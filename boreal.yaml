@@ -127,6 +127,8 @@ pt:
     cookies: cookies
     jogos: jogos
     progresso: meu-progresso
+    galeria: galeria
+    album: album
     jogo_thor: jogo-pesca-de-thor
     jogo_leif: jogo-viagem-de-leif
     jogo_idun: jogo-idun-e-as-macas
@@ -366,6 +368,8 @@ pt:
     capa: Capa
     menu_inicio: Histórias
     menu_jogos: Jogos
+    menu_galeria: Galeria
+    menu_album: Álbum
     linha_edicao: by The Boreal Times · Duna Press Edições
     sobre: Sobre
     assine: Assinar
@@ -521,6 +525,8 @@ en:
     cookies: cookies
     jogos: games
     progresso: my-progress
+    galeria: gallery
+    album: album
     jogo_thor: game-thors-fishing-trip
     jogo_leif: game-leifs-voyage
     jogo_idun: game-idun-and-the-apples
@@ -760,6 +766,8 @@ en:
     capa: Front page
     menu_inicio: Stories
     menu_jogos: Games
+    menu_galeria: Gallery
+    menu_album: Album
     linha_edicao: by The Boreal Times · Duna Press Editions
     sobre: About
     assine: Subscribe
@@ -915,6 +923,8 @@ en:
     cookies: informasjonskapsler
     jogos: spill
     progresso: min-fremgang
+    galeria: galleri
+    album: album
     jogo_thor: spill-thors-fisketur
     jogo_leif: spill-leifs-reise
     jogo_idun: spill-idun-og-eplene
@@ -1154,6 +1164,8 @@ en:
     capa: Forside
     menu_inicio: Historier
     menu_jogos: Spill
+    menu_galeria: Galleri
+    menu_album: Album
     linha_edicao: by The Boreal Times · Duna Press-utgaver
     sobre: Om
     assine: Abonner

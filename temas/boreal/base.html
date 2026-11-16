@@ -98,7 +98,7 @@
 </div></div>
 
 <header class="masthead"><div class="env">
-  <h1 class="marca"><a href="{{ idioma.prefixo }}/" title="{{ site.nome }}">{{ site.marca }}</a></h1>
+  <h1 class="marca"><a href="{{ idioma.prefixo }}/">{{ site.nome }}</a></h1>
   <div class="linha-edicao">
     {{ ui.linha_edicao }}
   </div>
@@ -111,6 +111,8 @@
 <nav class="nav"><div class="env">
   <a href="{{ idioma.prefixo }}/"{% if nav_url == idioma.prefixo ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_inicio }}</a>
   <a href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/" class="nav-jogos"{% if nav_jogo or nav_url == idioma.prefixo ~ '/' ~ t.paginas.jogos ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_jogos }}</a>
+  <a href="{{ idioma.prefixo }}/{{ t.paginas.galeria }}/"{% if nav_url == idioma.prefixo ~ '/' ~ t.paginas.galeria ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_galeria }}</a>
+  <a href="{{ idioma.prefixo }}/{{ t.paginas.album }}/"{% if nav_url == idioma.prefixo ~ '/' ~ t.paginas.album ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_album }}</a>
   {% for s in secoes %}<a href="{{ idioma.prefixo }}/{{ s.slug }}/" class="nav-{{ nav_cores[loop.index0 % 4] }}"{% if nav_url == idioma.prefixo ~ '/' ~ s.slug ~ '/' or nav_sec == s.nome %} aria-current="page"{% endif %}>{{ s.nome }}</a>{% endfor %}
 </div></nav>
 
@@ -123,7 +125,6 @@
     <div>
       <div class="rodape-marca">{{ site.nome }}</div>
       <p>{{ t.rodape.sobre }}</p>
-      <p class="rodape-edicao">{{ ui.linha_edicao }}</p>
     </div>
     <div><h3>{{ t.rodape.secoes }}</h3><ul>
       {% for s in secoes %}<li><a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a></li>{% endfor %}

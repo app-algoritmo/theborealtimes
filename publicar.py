@@ -254,6 +254,7 @@ def jsonld_materia(cfg, idioma, pagina):
 
 def construir():
     PROG = {}  # dados do "Meu progresso": lista de jogos por idioma
+    CAT = {}   # catálogo da Galeria e do Álbum, por idioma
     cfg = carregar_config()
     site = cfg["site"]
     hoje = hoje_na_redacao(cfg)
@@ -350,6 +351,23 @@ def construir():
             numero -= 1
 
         lista = [m for m, _ in materias]
+
+        # Catálogo da Galeria e do Álbum: uma figurinha por história. O
+        # número e a raridade saem do apelido, que é o mesmo nos três
+        # idiomas — a mesma figurinha tem o mesmo número em qualquer língua.
+        nomes_sec = [x["nome"] for x in secoes]
+        CAT[curto] = []
+        for m_cat in lista:
+            ap = m_cat["chave"].split(":", 1)[1]
+            img_cat = str(m_cat.get("imagem") or "")
+            CAT[curto].append({
+                "i": ap, "d": m_cat["data_iso"],
+                "t": m_cat.get("titulo", ""), "r": m_cat.get("resumo", ""),
+                "s": nomes_sec.index(m_cat["secao"]) if m_cat.get("secao") in nomes_sec else 0,
+                "n": m_cat.get("natureza", ""), "m": img_cat,
+                "a": m_cat.get("imagem_alt", ""), "u": m_cat["url"],
+                "c": m_cat.get("imagem_credito", ""),
+            })
 
         # Vitrine de jogos: toda página com `card:` no cabeçalho vira um cartão.
         # Um jogo novo entra na vitrine só por existir a página dele.
@@ -478,6 +496,7 @@ def construir():
         (SAIDA / "g" / "progresso-dados.js").write_text(
             "window.BT_JOGOS=" + json.dumps(dados, ensure_ascii=False, separators=(",", ":")) + ";",
             encoding="utf-8")
+    gerar_catalogo(cfg, CAT)
     if (RAIZ / "admin").exists():
         shutil.copytree(RAIZ / "admin", SAIDA / "admin")
 
@@ -500,6 +519,54 @@ def construir():
     print(f"✓ Site gerado em {SAIDA}")
     print(f"  {total_materias} matéria(s) · {len(todas_urls)} URLs · "
           f"{len(cfg['idiomas'])} idiomas")
+
+
+def gerar_catalogo(cfg, CAT):
+    """Escreve /g/catalogo-<idioma>.js para a Galeria e o Álbum.
+
+    A ordem das figurinhas segue a data de publicação no idioma principal
+    (desempate pelo apelido); os outros idiomas herdam o número. A raridade
+    é fixa, calculada do apelido: a mesma história é sempre da mesma
+    raridade, em qualquer aparelho e em qualquer idioma.
+    """
+    if not CAT:
+        return
+    pasta = SAIDA / "g"
+    pasta.mkdir(parents=True, exist_ok=True)
+    principal = next((i["curto"] for i in cfg["idiomas"] if i.get("principal")),
+                     cfg["idiomas"][0]["curto"])
+    base = sorted(CAT.get(principal, []), key=lambda x: (x["d"], x["i"]))
+    ordem = {x["i"]: n for n, x in enumerate(base, 1)}
+    extras = sorted({x["i"] for v in CAT.values() for x in v} - set(ordem))
+    for ap in extras:
+        ordem[ap] = len(ordem) + 1
+
+    def raridade(ap):
+        h = int(hashlib.md5(ap.encode("utf-8")).hexdigest()[:8], 16) % 100
+        return 0 if h < 60 else 1 if h < 85 else 2 if h < 96 else 3
+
+    api = str((cfg.get("album") or {}).get("api", "") or "")
+    for curto, itens in CAT.items():
+        comum = max({x["c"] for x in itens}, key=lambda c: sum(1 for x in itens if x["c"] == c)) if itens else ""
+        saida = []
+        for x in sorted(itens, key=lambda x: ordem[x["i"]]):
+            e = {"i": x["i"], "n": ordem[x["i"]], "q": raridade(x["i"]), "t": x["t"],
+                 "r": x["r"], "s": x["s"], "k": x["n"], "m": x["m"], "a": x["a"], "u": x["u"]}
+            if x["c"] != comum:
+                e["c"] = x["c"]
+            saida.append(e)
+        # Fundo de cada reino: a imagem do reino, se existir; senão a capa da
+        # história mais recente daquela editoria.
+        fundos = []
+        for n_sec, cor in enumerate(("mitos", "sagas", "viking", "contos")):
+            f = img_reino(cor)
+            if not f:
+                f = next((x["m"] for x in reversed(saida) if x["s"] == n_sec and x["m"]), "")
+            fundos.append(f)
+        dados = {"total": len(ordem), "cred": comum, "api": api, "fundos": fundos, "itens": saida}
+        (pasta / f"catalogo-{curto}.js").write_text(
+            "window.BT_CAT=" + json.dumps(dados, ensure_ascii=False, separators=(",", ":")) + ";",
+            encoding="utf-8")
 
 
 def gerar_404(cfg):
