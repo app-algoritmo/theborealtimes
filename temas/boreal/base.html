@@ -89,10 +89,10 @@
 <body>
 
 <div class="faixa-topo"><div class="env">
-  <span><b>{{ ano }}</b> &nbsp;·&nbsp; {{ ano_romano }}</span>
+  <span><b>{{ ano_romano }}</b></span>
   <span>{{ t.chamada_topo }}</span>
   <span>
-    <span class="idiomas" role="navigation" aria-label="Language">{% for i in menu_idiomas %}{% if i.curto == idioma.curto %}<span class="idioma-atual" aria-current="true" lang="{{ i.codigo }}">{{ i.rotulo }}</span>{% else %}<a href="{{ i.url }}" hreflang="{{ i.codigo }}" lang="{{ i.codigo }}">{{ i.rotulo }}</a>{% endif %}{% endfor %}</span>
+    <span class="idiomas" role="navigation" aria-label="Language">{% for i in menu_idiomas %}{% if i.curto == idioma.curto %}<span class="idioma-atual" aria-current="true" lang="{{ i.codigo }}" title="{{ i.rotulo }}">{{ i.curto|upper }}</span>{% else %}<a href="{{ i.url }}" hreflang="{{ i.codigo }}" lang="{{ i.codigo }}" title="{{ i.rotulo }}" aria-label="{{ i.rotulo }}">{{ i.curto|upper }}</a>{% endif %}{% endfor %}</span>
     <a class="assine" href="{{ idioma.prefixo }}/{{ t.paginas.assinatura }}/">{{ ui.assine }}</a>
   </span>
 </div></div>

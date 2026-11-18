@@ -56,23 +56,23 @@ img{max-width:100%;display:block;background:var(--papel-3)}
 
 /* ── Navegação ───────────────────────────────────────────── */
 .nav{border-top:2px solid var(--roxo);border-bottom:1px solid var(--roxo);
-  position:sticky;top:0;background:var(--papel);z-index:40}
+  position:sticky;top:0;background:#000;z-index:40}
 .nav .env{display:flex;justify-content:center;flex-wrap:wrap;gap:0}
 .nav a{
   font-family:var(--util);font-size:12px;font-weight:600;
   letter-spacing:.075em;text-transform:uppercase;
-  padding:11px 15px;color:var(--tinta);position:relative;
+  padding:11px 15px;color:#f2f2ee;position:relative;
 }
 .nav a+a::before{content:"";position:absolute;left:0;top:12px;bottom:12px;
-  width:1px;background:var(--fio)}
-.nav a:hover{color:var(--marca)}
+  width:1px;background:rgba(255,255,255,.22)}
+.nav a:hover{color:#fff}
 .nav a{--nc:var(--marca);--nt:#fff;border-radius:6px;transition:background .2s,color .2s}
 .nav a.nav-jogos{--nc:#e91e8c}
 .nav a.nav-mitos{--nc:#f5a800;--nt:#1a1236}
 .nav a.nav-sagas{--nc:#e5322d}
 .nav a.nav-viking{--nc:#00a3c7}
 .nav a.nav-contos{--nc:#12a150}
-.nav a:hover{color:var(--nc)}
+.nav a:hover{color:#fff;background:rgba(255,255,255,.12)}
 .nav a[aria-current]{background:var(--nc);color:var(--nt);font-weight:800;
   box-shadow:0 3px 12px -2px var(--nc)}
 .nav a[aria-current]::before,.nav a[aria-current]+a::before{display:none}
