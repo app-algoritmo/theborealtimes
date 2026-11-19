@@ -42,31 +42,34 @@
     btn.setAttribute('aria-pressed', estado === 'tocando' ? 'true' : 'false');
     stop.hidden = estado === 'parado';
   }
-  var refs = [], relogio = null;
-  /* Coloca todos os trechos na fila de uma vez, a partir de `de`. Funciona mesmo quando o
-     navegador (Edge no celular, por exemplo) não avisa o fim de cada fala. */
-  function falar(de) {
-    refs = [];
-    for (var k = de; k < chunks.length; k++) (function (n) {
-      var u = new SpeechSynthesisUtterance(chunks[n]);
-      u.lang = lang; if (voz) u.voice = voz; u.rate = 0.95;
-      u.onstart = function () { if (estado === 'tocando') i = n; };
-      u.onend = function () { if (estado === 'tocando' && n === chunks.length - 1) { estado = 'parado'; i = 0; clearInterval(relogio); rotulo(); } };
-      u.onerror = function (e) { if (e && (e.error === 'canceled' || e.error === 'interrupted')) return; };
-      refs.push(u); S.speak(u);
-    })(k);
-  }
-  /* rede de segurança: se o fim da última fala nunca for avisado, encerra quando a fila esvazia */
-  function vigiar() {
-    clearInterval(relogio); var visto = Date.now();
+  /* Fala um trecho por vez: cada trecho só começa quando o anterior termina. Nos celulares,
+     uma fila longa de falas costuma parar depois da primeira. Se o aparelho não avisar o fim
+     de uma fala, um relógio passa para a próxima quando a voz realmente silencia. */
+  var relogio = null, ficha = 0, ref = null;
+  function proximo(n, f) {
+    if (f !== ficha || estado !== 'tocando') return;
+    if (n >= chunks.length) { estado = 'parado'; i = 0; rotulo(); return; }
+    i = n;
+    var u = new SpeechSynthesisUtterance(chunks[n]), feito = false;
+    u.lang = lang; if (voz) u.voice = voz; u.rate = 0.95;
+    function avancar() {
+      if (feito) return; feito = true; clearInterval(relogio);
+      if (f === ficha && estado === 'tocando') proximo(n + 1, f);
+    }
+    u.onend = avancar;
+    u.onerror = function (e) { if (e && (e.error === 'canceled' || e.error === 'interrupted')) return; avancar(); };
+    ref = u; S.speak(u);
+    var ini = Date.now(), previsto = 4000 + chunks[n].length * 110;
+    clearInterval(relogio);
     relogio = setInterval(function () {
-      if (S.speaking || S.pending) visto = Date.now();
-      else if (estado === 'tocando' && Date.now() - visto > 2500) { estado = 'parado'; i = 0; clearInterval(relogio); rotulo(); }
-    }, 500);
+      if (feito || f !== ficha) { clearInterval(relogio); return; }
+      var t = Date.now() - ini;
+      if ((t > 1500 && !S.speaking && !S.pending) || t > previsto * 3) avancar();
+    }, 400);
   }
-  function tocar() { S.cancel(); estado = 'tocando'; rotulo(); vigiar(); var de = i; setTimeout(function () { if (estado === 'tocando') falar(de); }, 200); }
-  function pausar() { estado = 'pausado'; clearInterval(relogio); S.cancel(); rotulo(); }
-  function parar() { estado = 'parado'; i = 0; clearInterval(relogio); S.cancel(); rotulo(); }
+  function tocar() { ficha++; var f = ficha; S.cancel(); estado = 'tocando'; rotulo(); setTimeout(function () { proximo(i, f); }, 150); }
+  function pausar() { ficha++; estado = 'pausado'; clearInterval(relogio); S.cancel(); rotulo(); }
+  function parar() { ficha++; estado = 'parado'; i = 0; clearInterval(relogio); S.cancel(); rotulo(); }
 
   btn.addEventListener('click', function () {
     if (estado === 'parado') { chunks = montar(); i = 0; escolherVoz(); tocar(); }
