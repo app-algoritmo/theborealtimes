@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-hardar" aria-label="Vaktene på holmene" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=26" defer></script>
+<script src="/g/tela.js?v=27" defer></script>
 <script src="/g/hardar-vigias-nas-ilhotas.js?v=1" defer></script>
 
 ## Slik spiller du
