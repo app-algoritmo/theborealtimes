@@ -419,6 +419,19 @@ pt:
     jogo_ravning: jogo-as-trilhas-da-ponte
     jogo_vittra: jogo-o-leite-da-vittra
     jogo_draumkvedet: jogo-a-ponte-do-sonho
+    jogo_gullthoris: jogo-as-moedas-do-dragao
+    jogo_bjarnar: jogo-a-mensagem-falsificada
+    jogo_nott: jogo-dia-e-noite
+    jogo_bravellir: jogo-a-frota-de-bravellir
+    jogo_starkad: jogo-o-sorteio-de-odin
+    jogo_sinfjotli: jogo-as-duas-peles-de-lobo
+    jogo_nesjar: jogo-o-fiorde-tomado
+    jogo_hoen: jogo-o-colar-de-hoen
+    jogo_overhogdal: jogo-o-tear-de-overhogdal
+    jogo_vinland: jogo-o-mapa-e-a-copia
+    jogo_papar: jogo-os-odres-dos-papar
+    jogo_finfolk: jogo-as-moedas-dos-finfolk
+    jogo_hogboon: jogo-a-porta-do-monte
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -882,6 +895,19 @@ en:
     jogo_ravning: game-the-bridge-paths
     jogo_vittra: game-the-vittras-milk
     jogo_draumkvedet: game-the-dream-bridge
+    jogo_gullthoris: game-the-dragons-coins
+    jogo_bjarnar: game-the-forged-message
+    jogo_nott: game-day-and-night
+    jogo_bravellir: game-the-fleet-of-bravellir
+    jogo_starkad: game-odins-lots
+    jogo_sinfjotli: game-the-two-wolfskins
+    jogo_nesjar: game-the-fjord-taken
+    jogo_hoen: game-the-hoen-necklace
+    jogo_overhogdal: game-the-overhogdal-loom
+    jogo_vinland: game-the-map-and-the-copy
+    jogo_papar: game-the-waterskins-of-the-papar
+    jogo_finfolk: game-the-finfolks-coins
+    jogo_hogboon: game-the-door-of-the-mound
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -1345,6 +1371,19 @@ en:
     jogo_ravning: spill-stiene-pa-broen
     jogo_vittra: spill-vittraens-melk
     jogo_draumkvedet: spill-drombroen
+    jogo_gullthoris: spill-dragens-mynter
+    jogo_bjarnar: spill-den-forfalskede-meldingen
+    jogo_nott: spill-dag-og-natt
+    jogo_bravellir: spill-flaten-ved-bravellir
+    jogo_starkad: spill-odins-lodd
+    jogo_sinfjotli: spill-de-to-ulveskinnene
+    jogo_nesjar: spill-fjorden-erobret
+    jogo_hoen: spill-hoen-halskjedet
+    jogo_overhogdal: spill-overhogdal-veven
+    jogo_vinland: spill-kartet-og-kopien
+    jogo_papar: spill-paparenes-vannsekker
+    jogo_finfolk: spill-finfolkenes-mynter
+    jogo_hogboon: spill-porten-i-haugen
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
