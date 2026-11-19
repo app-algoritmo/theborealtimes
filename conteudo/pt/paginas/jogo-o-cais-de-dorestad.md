@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-dorestad" aria-label="O cais de Dorestad" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=22" defer></script>
+<script src="/g/tela.js?v=23" defer></script>
 <script src="/g/dorestad-cais-mercadorias.js?v=1" defer></script>
 
 ## Como jogar

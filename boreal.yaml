@@ -392,6 +392,20 @@ pt:
     jogo_karitrestakk: jogo-o-boi-e-as-caixas
     jogo_glassberget: jogo-a-subida-da-montanha-de-vidro
     jogo_tatterhood: jogo-os-trapos-de-tatterhood
+    jogo_hodr: jogo-quem-mente
+    jogo_naglfar: jogo-as-cordas-de-naglfar
+    jogo_magni: jogo-o-giro-de-magni
+    jogo_hardar: jogo-os-vigias-das-ilhotas
+    jogo_hallfred: jogo-as-pontes-de-hallfredr
+    jogo_knytlinga: jogo-o-mapa-dos-reinos
+    jogo_vigaglums: jogo-os-lotes-do-campo
+    jogo_kensington: jogo-as-runas-apagadas
+    jogo_emma: jogo-as-estradas-da-rainha
+    jogo_fulford: jogo-a-linha-de-bandeiras
+    jogo_holger: jogo-a-forma-que-sumiu
+    jogo_kalevipoeg: jogo-as-pedras-de-kalevipoeg
+    jogo_assipattle: jogo-as-brasas-de-assipattle
+    jogo_gudbrand: jogo-a-aposta-de-gudbrand
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -828,6 +842,20 @@ en:
     jogo_karitrestakk: game-the-bull-and-the-crates
     jogo_glassberget: game-the-climb-of-the-glass-mountain
     jogo_tatterhood: game-tatterhoods-rags
+    jogo_hodr: game-who-is-lying
+    jogo_naglfar: game-the-ropes-of-naglfar
+    jogo_magni: game-magnis-turn
+    jogo_hardar: game-the-lookouts-of-the-islets
+    jogo_hallfred: game-hallfredrs-bridges
+    jogo_knytlinga: game-the-map-of-the-realms
+    jogo_vigaglums: game-the-plots-of-the-field
+    jogo_kensington: game-the-erased-runes
+    jogo_emma: game-the-queens-roads
+    jogo_fulford: game-the-line-of-banners
+    jogo_holger: game-the-shape-that-vanished
+    jogo_kalevipoeg: game-kalevipoegs-stones
+    jogo_assipattle: game-assipattles-embers
+    jogo_gudbrand: game-gudbrands-bet
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -1264,6 +1292,20 @@ en:
     jogo_karitrestakk: spill-oksen-og-kassene
     jogo_glassberget: spill-oppstigningen-pa-glassberget
     jogo_tatterhood: spill-lurvehettes-filler
+    jogo_hodr: spill-hvem-lyver
+    jogo_naglfar: spill-naglfars-tau
+    jogo_magni: spill-magnis-dreining
+    jogo_hardar: spill-vaktene-pa-holmene
+    jogo_hallfred: spill-hallfreds-broer
+    jogo_knytlinga: spill-kartet-over-rikene
+    jogo_vigaglums: spill-teigene-pa-jordet
+    jogo_kensington: spill-de-utslettede-runene
+    jogo_emma: spill-dronningens-veier
+    jogo_fulford: spill-rekken-av-bannere
+    jogo_holger: spill-figuren-som-forsvant
+    jogo_kalevipoeg: spill-kalevipoegs-steiner
+    jogo_assipattle: spill-assipattles-glor
+    jogo_gudbrand: spill-gudbrands-veddemal
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}

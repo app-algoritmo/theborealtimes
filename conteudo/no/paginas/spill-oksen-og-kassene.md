@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-karitrestakk" aria-label="Oksen og kassene" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=22" defer></script>
+<script src="/g/tela.js?v=23" defer></script>
 <script src="/g/kari-boi-empurra-caixas.js?v=1" defer></script>
 
 ## Slik spiller du
