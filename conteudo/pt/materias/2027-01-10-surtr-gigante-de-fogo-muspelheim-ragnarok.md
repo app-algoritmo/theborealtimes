@@ -1,6 +1,6 @@
 ---
 titulo: "Surtr, o gigante de fogo de Muspelheim: o que as fontes dizem sobre o Ragnarök"
-resumo: "Surtr é o jötunn que guarda Muspelheim e, no Ragnarök, vem do sul com fogo e uma espada brilhante. Veja o que a Wikipedia reúne sobre as fontes, a batalha com Freyr, a caverna Surtshellir, a ilha Surtsey e o que os estudiosos discutem."
+resumo: "Surtr é o jötunn que guarda Muspelheim e, no Ragnarök, vem do sul com fogo e uma espada brilhante. Veja o que a fonte consultada reúne sobre as fontes, a batalha com Freyr, a caverna Surtshellir, a ilha Surtsey e o que os estudiosos discutem."
 secao: "Mitos e Deuses"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [surtr, muspelheim, ragnarök, fogo, jötnar]
 ---
 
-Surtr é, segundo o artigo da Wikipedia consultado, um *jötunn*, um gigante, e guardião de Muspelheim, um dos dois reinos que existiriam antes do tempo, ao lado de Niflheim. O nome vem do nórdico antigo e significa "negro", ou mais precisamente "escuro".
+Surtr é, segundo a fonte consultada, um *jötunn*, um gigante, e guardião de Muspelheim, um dos dois reinos que existiriam antes do tempo, ao lado de Niflheim. O nome vem do nórdico antigo e significa "negro", ou mais precisamente "escuro".
 
 ## As fontes
 

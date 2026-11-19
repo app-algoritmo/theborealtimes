@@ -23,4 +23,4 @@ Take the 3 gods and the 3 jötnar to the other bank in a boat for 2. Tap a figur
 
 ## The story behind it
 
-In Wikipedia's list of jötnar, Bestla, Odin's mother, Fárbauti, Loki's father, and Jörð, Thor's mother, are among them. The river and the boat are invented. Read the story in [The jötnar, the giants of Norse mythology: kin and rivals of the gods](/en/2027/01/10/jotnar-gigantes-mitologia-nordica-parentes-dos-deuses/).
+In the list of jötnar consulted, Bestla, Odin's mother, Fárbauti, Loki's father, and Jörð, Thor's mother, are among them. The river and the boat are invented. Read the story in [The jötnar, the giants of Norse mythology: kin and rivals of the gods](/en/2027/01/10/jotnar-gigantes-mitologia-nordica-parentes-dos-deuses/).

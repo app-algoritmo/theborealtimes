@@ -10,7 +10,7 @@ BTJogo.registrar({
     "sub": "Leve os 3 deuses e os 3 jötnar para a outra margem num barco de 2 lugares. Toque numa figura da margem do barco para embarcá-la, depois toque no barco para atravessar. Em nenhuma margem, onde houver deuses, os jötnar podem ser mais numerosos que eles. Até 3 erros e 180 segundos.",
     "perdeu": "Foram erros demais ou o tempo acabou",
     "v1": "Todos chegaram à outra margem!",
-    "v2": "Segundo a lista de jötnar da Wikipedia, Bestla, mãe de Odin, Fárbauti, pai de Loki, e Jörð, mãe de Thor, estão entre eles. O rio e o barco são invenção.",
+    "v2": "Segundo a lista de jötnar consultada, Bestla, mãe de Odin, Fárbauti, pai de Loki, e Jörð, mãe de Thor, estão entre eles. O rio e o barco são invenção.",
     "h1": "Travessias",
     "h2": "Erros"
   },
@@ -22,7 +22,7 @@ BTJogo.registrar({
     "sub": "Take the 3 gods and the 3 jötnar to the other bank in a boat for 2. Tap a figure on the boat's bank to board it, then tap the boat to cross. On no bank where there are gods may the jötnar outnumber them. Up to 3 mistakes and 180 seconds.",
     "perdeu": "Too many mistakes or time ran out",
     "v1": "Everyone reached the other bank!",
-    "v2": "In Wikipedia's list of jötnar, Bestla, Odin's mother, Fárbauti, Loki's father, and Jörð, Thor's mother, are among them. The river and the boat are invented.",
+    "v2": "In the list of jötnar consulted, Bestla, Odin's mother, Fárbauti, Loki's father, and Jörð, Thor's mother, are among them. The river and the boat are invented.",
     "h1": "Crossings",
     "h2": "Mistakes"
   },
@@ -34,7 +34,7 @@ BTJogo.registrar({
     "sub": "Ta de 3 gudene og de 3 jötnene over til den andre bredden i en båt for 2. Trykk på en figur på båtens bredd for å ta den ombord, og trykk så på båten for å krysse. På ingen bredd med guder må jötnene være flere enn dem. Opptil 3 feil og 180 sekunder.",
     "perdeu": "For mange feil eller tiden tok slutt",
     "v1": "Alle kom over til den andre bredden!",
-    "v2": "I Wikipedias liste over jötnar står Bestla, Odins mor, Fárbauti, Lokes far, og Jörð, Tors mor, blant dem. Elva og båten er oppfunnet.",
+    "v2": "I listen over jötnar som er brukt, står Bestla, Odins mor, Fárbauti, Lokes far, og Jörð, Tors mor, blant dem. Elva og båten er oppfunnet.",
     "h1": "Kryssinger",
     "h2": "Feil"
   }

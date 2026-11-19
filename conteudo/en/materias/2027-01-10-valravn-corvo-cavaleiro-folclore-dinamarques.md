@@ -1,6 +1,6 @@
 ---
 titulo: "The valravn, the knight-raven of Danish folklore: the ballad and Jens Bille's notes"
-resumo: "The valravn is a supernatural raven of Danish folklore, and the ballad \"Valravnen\" tells of a knight turned into a raven. See what Wikipedia gathers on the ballad, the manuscripts, the 1893 account and the hypotheses of Grundtvig and Grimm."
+resumo: "The valravn is a supernatural raven of Danish folklore, and the ballad \"Valravnen\" tells of a knight turned into a raven. See what the source consulted gathers on the ballad, the manuscripts, the 1893 account and the hypotheses of Grundtvig and Grimm."
 secao: "Tales & Folklore"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [valravn, ravens, danish folklore, ballad, jens bille]
 ---
 
-The *valravn* is, according to the Wikipedia article consulted, a supernatural raven of Danish Renaissance folklore. The article describes it as the "knight who was transformed into a raven" in the folk ballad "Valravnen".
+The *valravn* is, according to the source consulted, a supernatural raven of Danish Renaissance folklore. The article describes it as the "knight who was transformed into a raven" in the folk ballad "Valravnen".
 
 ## The ballad
 

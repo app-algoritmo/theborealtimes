@@ -13,7 +13,7 @@ fontes:
 tags: [freydís eiríksdóttir, vinland, saga of the greenlanders, saga of erik the red, skrælingar]
 ---
 
-Freydís Eiríksdóttir is, according to the English Wikipedia article this piece relies on, "said to be" the daughter of Erik the Red, born around 965. Everything known of her comes from two medieval sagas, which give different accounts. This piece tells each one separately, points out where they contradict each other and keeps to what the article carries.
+Freydís Eiríksdóttir is, according to the source consulted for this piece, "said to be" the daughter of Erik the Red, born around 965. Everything known of her comes from two medieval sagas, which give different accounts. This piece tells each one separately, points out where they contradict each other and keeps to what the article carries.
 
 ## In the Saga of the Greenlanders
 

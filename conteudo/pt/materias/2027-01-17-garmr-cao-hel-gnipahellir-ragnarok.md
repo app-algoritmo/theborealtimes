@@ -1,6 +1,6 @@
 ---
 titulo: "Garmr, o cão que uiva diante de Gnipahellir: o que as fontes nórdicas contam"
-resumo: "Garmr é um lobo ou cão ligado a Hel e ao Ragnarök, o \"guardião ensanguentado\" do portão dos mortos. Veja o que a Wikipedia reúne sobre o refrão da Völuspá, a Baldrs draumar, a Gylfaginning, o duelo com Týr e a discussão sobre Fenrir e Cérbero."
+resumo: "Garmr é um lobo ou cão ligado a Hel e ao Ragnarök, o \"guardião ensanguentado\" do portão dos mortos. Veja o que a fonte consultada reúne sobre o refrão da Völuspá, a Baldrs draumar, a Gylfaginning, o duelo com Týr e a discussão sobre Fenrir e Cérbero."
 secao: "Mitos e Deuses"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [garmr, hel, gnipahellir, völuspá, ragnarök]
 ---
 
-Garmr, também escrito Garm, é um lobo ou cão da mitologia nórdica ligado a Hel e ao Ragnarök. O artigo da Wikipedia consultado o descreve como um "guardião ensanguentado" do portão de Hel. A seguir, o que o texto reúne de cada fonte.
+Garmr, também escrito Garm, é um lobo ou cão da mitologia nórdica ligado a Hel e ao Ragnarök. A fonte consultada o descreve como um "guardião ensanguentado" do portão de Hel. A seguir, o que o texto reúne de cada fonte.
 
 ## As fontes
 

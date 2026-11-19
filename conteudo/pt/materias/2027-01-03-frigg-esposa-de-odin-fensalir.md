@@ -14,7 +14,7 @@ fontes:
 tags: [frigg, odin, baldr, fensalir, sexta-feira]
 ---
 
-Entre as deusas do Norte, Frigg é a mais difícil de ver de perto. Aparece em muitas fontes, quase sempre ao lado de outro: o marido Odin, o filho Baldr, o bando de Loki. O artigo da Wikipedia consultado a descreve como esposa de Odin, mãe de Baldr e a principal das ásynjur, as deusas dos Æsir.
+Entre as deusas do Norte, Frigg é a mais difícil de ver de perto. Aparece em muitas fontes, quase sempre ao lado de outro: o marido Odin, o filho Baldr, o bando de Loki. A fonte consultada a descreve como esposa de Odin, mãe de Baldr e a principal das ásynjur, as deusas dos Æsir.
 
 ## O nome e a sexta-feira
 

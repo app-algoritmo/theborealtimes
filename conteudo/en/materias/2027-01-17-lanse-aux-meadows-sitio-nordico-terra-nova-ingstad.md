@@ -1,6 +1,6 @@
 ---
 titulo: "L'Anse aux Meadows, the Norse site in Newfoundland: what the excavations showed"
-resumo: "L'Anse aux Meadows, in Newfoundland, is a Norse site in North America, found in 1960. See what Wikipedia gathers about the excavations of the Ingstads and Parks Canada, the eight buildings, the forge, the dates of 1014 and 1021 and the doubt about Vinland."
+resumo: "L'Anse aux Meadows, in Newfoundland, is a Norse site in North America, found in 1960. See what the source consulted gathers about the excavations of the Ingstads and Parks Canada, the eight buildings, the forge, the dates of 1014 and 1021 and the doubt about Vinland."
 secao: "Viking Age"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [l'anse aux meadows, newfoundland, ingstad, vinland, archaeology]
 ---
 
-L'Anse aux Meadows is a Norse archaeological site in Newfoundland, Canada. The Wikipedia article consulted tells how it was found and what was uncovered.
+L'Anse aux Meadows is a Norse archaeological site in Newfoundland, Canada. The source consulted tells how it was found and what was uncovered.
 
 ## The discovery
 

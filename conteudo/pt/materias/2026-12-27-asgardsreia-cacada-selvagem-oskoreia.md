@@ -15,7 +15,7 @@ fontes:
 tags: [åsgårdsreia, oskoreia, caçada selvagem, odin, folclore]
 ---
 
-Em toda a Europa do Norte e do Oeste, muita gente contou que, em certas noites, passava pelo céu um bando de cavaleiros fantasmas com cães de caça. É a Caçada Selvagem, e no Norte tem nomes próprios. O artigo da Wikipedia consultado lista, para a Noruega, *Oskoreia*, que costuma ser lida como "a cavalgada de Asgard", e *Åsgårdsrei*, atestada em Trøndelag, além de *Oensjægeren*, "os caçadores de Odin", e, em sueco, *Odens jakt*, "a caçada de Odin", e *Vilda jakten*, "a caçada selvagem".
+Em toda a Europa do Norte e do Oeste, muita gente contou que, em certas noites, passava pelo céu um bando de cavaleiros fantasmas com cães de caça. É a Caçada Selvagem, e no Norte tem nomes próprios. A fonte consultada lista, para a Noruega, *Oskoreia*, que costuma ser lida como "a cavalgada de Asgard", e *Åsgårdsrei*, atestada em Trøndelag, além de *Oensjægeren*, "os caçadores de Odin", e, em sueco, *Odens jakt*, "a caçada de Odin", e *Vilda jakten*, "a caçada selvagem".
 
 ## Os nomes
 

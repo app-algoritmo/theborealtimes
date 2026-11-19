@@ -13,7 +13,7 @@ fontes:
 tags: [spillings, gotland, sølvskatt, dirhamer, vikingtid]
 ---
 
-16. juli 1999, en fredag, kom den største sølvskatten fra vikingtiden som noensinne er funnet, opp av jorda på en åker på øya Gotland i Sverige. Ifølge Wikipedia-artikkelen skjedde funnet på gården Spilling nordvest for Slite i Othem sogn, under innspillingen av en TV-reportasje om plyndring. Etter at filmteamet hadde dratt, fortsatte arkeologen Jonas Ström og grunneieren Björn Engström å undersøke, sammen med numismatikkprofessor Kenneth Jonsson.
+16. juli 1999, en fredag, kom den største sølvskatten fra vikingtiden som noensinne er funnet, opp av jorda på en åker på øya Gotland i Sverige. Ifølge kilden skjedde funnet på gården Spilling nordvest for Slite i Othem sogn, under innspillingen av en TV-reportasje om plyndring. Etter at filmteamet hadde dratt, fortsatte arkeologen Jonas Ström og grunneieren Björn Engström å undersøke, sammen med numismatikkprofessor Kenneth Jonsson.
 
 ## Funnet
 

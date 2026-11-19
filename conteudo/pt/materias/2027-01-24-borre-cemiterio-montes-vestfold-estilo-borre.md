@@ -13,7 +13,7 @@ fontes:
 tags: [borre, vestfold, montes funerários, estilo borre, navio viking]
 ---
 
-O cemitério de Borre, em norueguês *Borrehaugene*, faz parte do Parque Nacional de Borre, no município de Horten, no condado de Vestfold, na Noruega. O artigo da Wikipédia em inglês que serve de base a esta matéria descreve o conjunto, a história das escavações e o estilo de ornamentos que leva o nome do lugar. A matéria separa o que está estabelecido do que o artigo trata como provável.
+O cemitério de Borre, em norueguês *Borrehaugene*, faz parte do Parque Nacional de Borre, no município de Horten, no condado de Vestfold, na Noruega. A fonte consultada descreve o conjunto, a história das escavações e o estilo de ornamentos que leva o nome do lugar. A matéria separa o que está estabelecido do que o artigo trata como provável.
 
 ## O lugar
 

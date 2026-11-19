@@ -1,6 +1,6 @@
 ---
 titulo: "O tesouro do Vale de York: 617 moedas de prata achadas por pai e filho com detector de metais"
-resumo: "Em 6 de janeiro de 2007, perto de Harrogate, David Whelan e o filho Andrew acharam, a 30 cm de profundidade, um tesouro viking de 617 moedas e 65 outros objetos. Veja o que a Wikipedia reúne e o que ninguém sabe sobre quem o enterrou."
+resumo: "Em 6 de janeiro de 2007, perto de Harrogate, David Whelan e o filho Andrew acharam, a 30 cm de profundidade, um tesouro viking de 617 moedas e 65 outros objetos. Veja o que a fonte consultada reúne e o que ninguém sabe sobre quem o enterrou."
 secao: "Era Viking"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [tesouro do vale de york, harrogate, prata, moedas, athelstan]
 ---
 
-Em 6 de janeiro de 2007, David Whelan e o filho Andrew, usando detectores de metais num campo perto de Harrogate, em North Yorkshire, encontraram a cerca de 30 centímetros de profundidade o que ficou conhecido como o Tesouro do Vale de York. Segundo o artigo da Wikipedia consultado, o achado foi comunicado a Amy Cooper, a oficial de ligação para achados.
+Em 6 de janeiro de 2007, David Whelan e o filho Andrew, usando detectores de metais num campo perto de Harrogate, em North Yorkshire, encontraram a cerca de 30 centímetros de profundidade o que ficou conhecido como o Tesouro do Vale de York. Segundo a fonte consultada, o achado foi comunicado a Amy Cooper, a oficial de ligação para achados.
 
 ## O que havia
 

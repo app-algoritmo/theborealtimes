@@ -19,7 +19,7 @@ Ullr é um dos casos mais curiosos da mitologia nórdica: um deus com nome espal
 
 ## Sif e Thor
 
-Segundo o artigo da Wikipedia consultado, Snorri Sturluson, na *Gylfaginning* (cap. 31), diz que Ullr é filho de Sif, com um pai que não é nomeado. Isso faz dele enteado de Thor, e a poesia dos escaldos confirma a relação: o poema *Haustlöng*, a *Þórsdrápa* de Eilífr Goðrúnarson e um fragmento de Eysteinn Valdason chamam Thor de padrasto de Ullr.
+Segundo a fonte consultada, Snorri Sturluson, na *Gylfaginning* (cap. 31), diz que Ullr é filho de Sif, com um pai que não é nomeado. Isso faz dele enteado de Thor, e a poesia dos escaldos confirma a relação: o poema *Haustlöng*, a *Þórsdrápa* de Eilífr Goðrúnarson e um fragmento de Eysteinn Valdason chamam Thor de padrasto de Ullr.
 
 ## O que a poesia deixa
 

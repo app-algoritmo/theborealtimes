@@ -1,6 +1,6 @@
 ---
 titulo: "Týr: o deus que pôs a mão na boca do lobo e deu nome à terça-feira"
-resumo: "Týr entregou a mão direita a Fenrir para que os deuses o acorrentassem. Veja o que a Wikipedia reúne sobre ele, de Tácito às runas, e por que alguns estudiosos acham que ele já foi um deus bem mais importante."
+resumo: "Týr entregou a mão direita a Fenrir para que os deuses o acorrentassem. Veja o que a fonte consultada reúne sobre ele, de Tácito às runas, e por que alguns estudiosos acham que ele já foi um deus bem mais importante."
 secao: "Mitos e Deuses"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [týr, fenrir, gleipnir, terça-feira, ragnarök]
 ---
 
-Týr é um deus da mitologia germânica e membro dos Æsir. O que mais o define é um gesto: segundo o artigo da Wikipedia consultado, ele sacrifica a mão direita ao lobo Fenrir, que a arranca com uma mordida quando os deuses o acorrentam. E ele está destinado a morrer no Ragnarök lutando contra o cão Garmr. O Edda em prosa diz que cada um será a morte do outro.
+Týr é um deus da mitologia germânica e membro dos Æsir. O que mais o define é um gesto: segundo a fonte consultada, ele sacrifica a mão direita ao lobo Fenrir, que a arranca com uma mordida quando os deuses o acorrentam. E ele está destinado a morrer no Ragnarök lutando contra o cão Garmr. O Edda em prosa diz que cada um será a morte do outro.
 
 ## O nome
 

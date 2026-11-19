@@ -1,6 +1,6 @@
 ---
 titulo: "Jón Árnason e os contos populares da Islândia: a coletânea publicada em Leipzig em 1862 e 1864"
-resumo: "Jón Árnason (1819–1888) foi bibliotecário na Islândia e reuniu as Íslenzkar þjóðsögur og æfintýri, publicadas em dois volumes em Leipzig. Veja o que a Wikipedia reúne sobre sua vida, a parceria com Magnús Grímsson, o incentivo de Konrad Maurer, a influência dos irmãos Grimm e as edições posteriores."
+resumo: "Jón Árnason (1819–1888) foi bibliotecário na Islândia e reuniu as Íslenzkar þjóðsögur og æfintýri, publicadas em dois volumes em Leipzig. Veja o que a fonte consultada reúne sobre sua vida, a parceria com Magnús Grímsson, o incentivo de Konrad Maurer, a influência dos irmãos Grimm e as edições posteriores."
 secao: "Contos e Folclore"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jón árnason, folclore islandês, þjóðsögur, konrad maurer, leipzig]
 ---
 
-Jón Árnason nasceu em 17 de agosto de 1819, em Hof, na Islândia, e morreu em 4 de setembro de 1888, em Reykjavík, aos 69 anos. O artigo da Wikipedia consultado reúne o que se sabe da sua vida e da coletânea que o tornou conhecido.
+Jón Árnason nasceu em 17 de agosto de 1819, em Hof, na Islândia, e morreu em 4 de setembro de 1888, em Reykjavík, aos 69 anos. A fonte consultada reúne o que se sabe da sua vida e da coletânea que o tornou conhecido.
 
 ## O bibliotecário
 

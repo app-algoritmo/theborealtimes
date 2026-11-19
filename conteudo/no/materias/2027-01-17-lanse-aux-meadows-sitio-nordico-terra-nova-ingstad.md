@@ -1,6 +1,6 @@
 ---
 titulo: "L'Anse aux Meadows, det norrøne stedet på Newfoundland: hva utgravingene viste"
-resumo: "L'Anse aux Meadows, på Newfoundland, er et norrønt sted i Nord-Amerika, funnet i 1960. Se hva Wikipedia samler om utgravingene til Ingstad-paret og Parks Canada, de åtte bygningene, smia, årstallene 1014 og 1021 og tvilen om Vinland."
+resumo: "L'Anse aux Meadows, på Newfoundland, er et norrønt sted i Nord-Amerika, funnet i 1960. Se hva kilden som er brukt samler om utgravingene til Ingstad-paret og Parks Canada, de åtte bygningene, smia, årstallene 1014 og 1021 og tvilen om Vinland."
 secao: "Vikingtid"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [l'anse aux meadows, newfoundland, ingstad, vinland, arkeologi]
 ---
 
-L'Anse aux Meadows er et norrønt arkeologisk sted på Newfoundland i Canada. Wikipedia-artikkelen som er brukt, forteller hvordan det ble funnet og hva som kom for en dag.
+L'Anse aux Meadows er et norrønt arkeologisk sted på Newfoundland i Canada. Kilden som er brukt, forteller hvordan det ble funnet og hva som kom for en dag.
 
 ## Oppdagelsen
 

@@ -1,6 +1,6 @@
 ---
 titulo: "O valravn, o corvo-cavaleiro do folclore dinamarquês: a balada e as notas de Jens Bille"
-resumo: "O valravn é um corvo sobrenatural do folclore dinamarquês, e a balada \"Valravnen\" conta a história de um cavaleiro transformado em corvo. Veja o que a Wikipedia reúne sobre a balada, os manuscritos, o relato de 1893 e as hipóteses de Grundtvig e Grimm."
+resumo: "O valravn é um corvo sobrenatural do folclore dinamarquês, e a balada \"Valravnen\" conta a história de um cavaleiro transformado em corvo. Veja o que a fonte consultada reúne sobre a balada, os manuscritos, o relato de 1893 e as hipóteses de Grundtvig e Grimm."
 secao: "Contos e Folclore"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [valravn, corvos, folclore dinamarquês, balada, Jens Bille]
 ---
 
-O *valravn* é, segundo o artigo da Wikipedia consultado, um corvo sobrenatural do folclore dinamarquês da época renascentista. O artigo o descreve como o "cavaleiro que se transformou em corvo" na balada popular "Valravnen".
+O *valravn* é, segundo a fonte consultada, um corvo sobrenatural do folclore dinamarquês da época renascentista. O artigo o descreve como o "cavaleiro que se transformou em corvo" na balada popular "Valravnen".
 
 ## A balada
 

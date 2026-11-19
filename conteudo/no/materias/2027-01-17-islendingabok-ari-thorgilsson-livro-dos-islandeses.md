@@ -1,6 +1,6 @@
 ---
 titulo: "Íslendingabók, «Islendingenes bok» av presten Ari Þorgilsson: hva den forteller"
-resumo: "Íslendingabók er en kort Islands-historie skrevet av presten Ari Þorgilsson mellom 1122 og 1133. Se hva Wikipedia samler om landnåmet, Alltinget, kalenderen, Grønland, kristningen omkring år 1000 og kopiene fra 1600-tallet."
+resumo: "Íslendingabók er en kort Islands-historie skrevet av presten Ari Þorgilsson mellom 1122 og 1133. Se hva kilden som er brukt samler om landnåmet, Alltinget, kalenderen, Grønland, kristningen omkring år 1000 og kopiene fra 1600-tallet."
 secao: "Sagaer og konger"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [íslendingabók, ari þorgilsson, island, alltinget, kristningen]
 ---
 
-*Íslendingabók*, «Islendingenes bok», er en kort Islands-historie. Wikipedia-artikkelen som er brukt, tilskriver den presten Ari Þorgilsson og daterer den, ifølge forskerne, til mellom 1122 og 1133, ut fra prologens henvisninger til biskopene Þorlákur Runólfsson (1118–1133) og Ketill Þorsteinsson (1122–1145).
+*Íslendingabók*, «Islendingenes bok», er en kort Islands-historie. Kilden som er brukt, tilskriver den presten Ari Þorgilsson og daterer den, ifølge forskerne, til mellom 1122 og 1133, ut fra prologens henvisninger til biskopene Þorlákur Runólfsson (1118–1133) og Ketill Þorsteinsson (1122–1145).
 
 ## De to versjonene
 

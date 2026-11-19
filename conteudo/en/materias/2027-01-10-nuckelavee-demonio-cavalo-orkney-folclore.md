@@ -1,6 +1,6 @@
 ---
 titulo: "The nuckelavee of Orkney: the horse demon that will not cross fresh running water"
-resumo: "The nuckelavee is a creature of Orkney folklore, in Scotland, half horse and half man and skinless, that cannot bear fresh running water. See what Wikipedia gathers on the origin, the first record, the appearance and the Mither o' the Sea."
+resumo: "The nuckelavee is a creature of Orkney folklore, in Scotland, half horse and half man and skinless, that cannot bear fresh running water. See what the source consulted gathers on the origin, the first record, the appearance and the Mither o' the Sea."
 secao: "Tales & Folklore"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [nuckelavee, orkney, folklore, fresh water, mither o' the sea]
 ---
 
-The *nuckelavee* is a creature of Orkney folklore, islands in the north of Scotland. According to the Wikipedia article consulted, it probably arose from a blend of a Celtic water horse and a creature brought by the Norse, since Orkney folklore was strongly marked by Scandinavian influence.
+The *nuckelavee* is a creature of Orkney folklore, islands in the north of Scotland. According to the source consulted, it probably arose from a blend of a Celtic water horse and a creature brought by the Norse, since Orkney folklore was strongly marked by Scandinavian influence.
 
 ## Where
 

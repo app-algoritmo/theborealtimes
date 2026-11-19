@@ -1,6 +1,6 @@
 ---
 titulo: "Mestermøy, mesterjenta: eventyret til Asbjørnsen og Moe og «den magiske flukten»"
-resumo: "Mestermøy er et norsk eventyr fra samlingen til Asbjørnsen og Moe, knyttet til typen «den magiske flukten». Se hva Wikipedia samler om hvem som fortalte det, handlingen, kjempens oppgaver, flukten, den glemte bruden, variantene og hva som fortsatt er usikkert."
+resumo: "Mestermøy er et norsk eventyr fra samlingen til Asbjørnsen og Moe, knyttet til typen «den magiske flukten». Se hva kilden som er brukt samler om hvem som fortalte det, handlingen, kjempens oppgaver, flukten, den glemte bruden, variantene og hva som fortsatt er usikkert."
 secao: "Eventyr og folketro"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [mestermøy, asbjørnsen og moe, folkeeventyr, den magiske flukt, norge]
 ---
 
-*Mestermøy*, på engelsk *The Master Maid*, er et norsk eventyr fra samlingen *Norske Folkeeventyr* av Peter Christen Asbjørnsen og Jørgen Moe. Wikipedia-artikkelen som er brukt, sier at Moe skrev det ned etter fortelleren Anne Godlid, i Seljord, høsten 1842. George Dasent oversatte det til engelsk i 1859, og Andrew Lang tok det med i *Blue Fairy Book* fra 1889.
+*Mestermøy*, på engelsk *The Master Maid*, er et norsk eventyr fra samlingen *Norske Folkeeventyr* av Peter Christen Asbjørnsen og Jørgen Moe. Kilden som er brukt, sier at Moe skrev det ned etter fortelleren Anne Godlid, i Seljord, høsten 1842. George Dasent oversatte det til engelsk i 1859, og Andrew Lang tok det med i *Blue Fairy Book* fra 1889.
 
 ## Eventyrtypen
 

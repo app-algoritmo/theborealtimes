@@ -14,7 +14,7 @@ fontes:
 tags: [frigg, odin, baldr, fensalir, fredag]
 ---
 
-Blant gudinnene i Norden er Frigg den som er vanskeligst å se på nært hold. Hun står i mange kilder, nesten alltid ved siden av noen andre: mannen Odin, sønnen Balder, Lokes følge. Wikipedia-artikkelen som er brukt, beskriver henne som Odins hustru, Balders mor og den fremste av ásynjene, gudinnene blant æsene.
+Blant gudinnene i Norden er Frigg den som er vanskeligst å se på nært hold. Hun står i mange kilder, nesten alltid ved siden av noen andre: mannen Odin, sønnen Balder, Lokes følge. Kilden som er brukt, beskriver henne som Odins hustru, Balders mor og den fremste av ásynjene, gudinnene blant æsene.
 
 ## Navnet og fredag
 

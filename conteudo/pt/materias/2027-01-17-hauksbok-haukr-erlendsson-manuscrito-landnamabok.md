@@ -1,6 +1,6 @@
 ---
 titulo: "Hauksbók, o livro de Haukr Erlendsson: o manuscrito que reúne a Landnámabók, a Völuspá e um tratado de aritmética"
-resumo: "A Hauksbók é um manuscrito islandês dos primeiros anos do século XIV, organizado por Haukr Erlendsson. Veja o que a Wikipedia reúne sobre a datação, o conteúdo, as três partes em que o livro foi dividido e por que os textos copiados podem diferir dos originais."
+resumo: "A Hauksbók é um manuscrito islandês dos primeiros anos do século XIV, organizado por Haukr Erlendsson. Veja o que a fonte consultada reúne sobre a datação, o conteúdo, as três partes em que o livro foi dividido e por que os textos copiados podem diferir dos originais."
 secao: "Sagas e Reis"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [hauksbók, haukr erlendsson, manuscrito, landnámabók, eiríks saga rauða]
 ---
 
-A *Hauksbók* é um manuscrito islandês. O artigo da Wikipedia consultado diz que o compilador foi Haukr Erlendsson, um recitador da lei islandês. Vários copistas trabalharam no livro, mas a maior parte está na letra dele.
+A *Hauksbók* é um manuscrito islandês. A fonte consultada diz que o compilador foi Haukr Erlendsson, um recitador da lei islandês. Vários copistas trabalharam no livro, mas a maior parte está na letra dele.
 
 ## A data
 

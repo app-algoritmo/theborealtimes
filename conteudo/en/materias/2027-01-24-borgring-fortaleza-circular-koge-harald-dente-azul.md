@@ -13,7 +13,7 @@ fontes:
 tags: [borgring, køge, ring fortresses, harald bluetooth, trelleborg]
 ---
 
-Borgring is a circular fort near Køge, on the island of Zealand, Denmark, in Højelse parish and close to Lellinge. The English Wikipedia article this piece relies on tells how it was found, what it was like and what remains uncertain. This piece follows that article, which warns that only minor sections of the site have been excavated.
+Borgring is a circular fort near Køge, on the island of Zealand, Denmark, in Højelse parish and close to Lellinge. The source consulted for this piece tells how it was found, what it was like and what remains uncertain. This piece follows that article, which warns that only minor sections of the site have been excavated.
 
 ## Where it lies
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Hermóðr, o filho de Odin que cavalgou nove noites até Hel atrás de Baldr"
-resumo: "Depois da morte de Baldr, Hermóðr cavalga o Sleipnir até o reino de Hel para pedir a volta do irmão. Veja o que a Wikipedia reúne sobre a Gylfaginning, a ponte Gjöll, o resgate condicionado e as dúvidas sobre quem ele era."
+resumo: "Depois da morte de Baldr, Hermóðr cavalga o Sleipnir até o reino de Hel para pedir a volta do irmão. Veja o que a fonte consultada reúne sobre a Gylfaginning, a ponte Gjöll, o resgate condicionado e as dúvidas sobre quem ele era."
 secao: "Mitos e Deuses"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [hermóðr, baldr, hel, sleipnir, gylfaginning]
 ---
 
-Hermóðr é, na mitologia nórdica, um filho de Odin e irmão de Baldr. O artigo da Wikipedia consultado explica o nome como algo próximo de "espírito de guerra". Seu papel mais conhecido aparece na *Gylfaginning*, a parte da *Edda em prosa* de Snorri Sturluson, no capítulo 49.
+Hermóðr é, na mitologia nórdica, um filho de Odin e irmão de Baldr. A fonte consultada explica o nome como algo próximo de "espírito de guerra". Seu papel mais conhecido aparece na *Gylfaginning*, a parte da *Edda em prosa* de Snorri Sturluson, no capítulo 49.
 
 ## A cavalgada
 

@@ -13,7 +13,7 @@ fontes:
 tags: [hœnir, æsir, völuspá, ynglinga saga, lokka táttur]
 ---
 
-Hœnir is one of the Æsir, the principal gods of Norse mythology, and a figure with few appearances. The English Wikipedia article this piece relies on gathers what the sources say about him: a passage on creation, a stay as hostage, a protective role in a ballad from the Faroe Islands and a hypothesis that ties him to birds. It helps to read each point separately, because the texts do not agree with one another.
+Hœnir is one of the Æsir, the principal gods of Norse mythology, and a figure with few appearances. The source consulted for this piece gathers what the sources say about him: a passage on creation, a stay as hostage, a protective role in a ballad from the Faroe Islands and a hypothesis that ties him to birds. It helps to read each point separately, because the texts do not agree with one another.
 
 ## One of three who made humans
 

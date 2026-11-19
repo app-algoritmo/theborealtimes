@@ -1,6 +1,6 @@
 ---
 titulo: "The Galloway Hoard, in Scotland: what the article says about the 2014 find"
-resumo: "The Galloway Hoard is a treasure buried around the year 900 and found in 2014 by a metal detectorist in south-west Scotland. See what Wikipedia gathers about the find, the contents, the vessel of Asian origin, the 2017 purchase and the questions that remain unanswered."
+resumo: "The Galloway Hoard is a treasure buried around the year 900 and found in 2014 by a metal detectorist in south-west Scotland. See what the source consulted gathers about the find, the contents, the vessel of Asian origin, the 2017 purchase and the questions that remain unanswered."
 secao: "Viking Age"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [galloway hoard, treasure, scotland, derek mclennan, viking age]
 ---
 
-The Galloway Hoard is a treasure found in south-west Scotland. The Wikipedia article consulted tells how it was discovered, what it contained and what is still discussed.
+The Galloway Hoard is a treasure found in south-west Scotland. The source consulted tells how it was discovered, what it contained and what is still discussed.
 
 ## The find
 

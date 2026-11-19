@@ -14,7 +14,7 @@ fontes:
 tags: [beaivi, sámi, sol, tambor, oferendas]
 ---
 
-No pensamento religioso dos sámi, o Sol não é só uma estrela: é também uma divindade, e a mesma palavra serve para os dois. É Beaivi, escrita também Beiwe, Bievve, Beivve ou Biejje. O artigo da Wikipedia consultado a descreve como ligada ao sol, à primavera e à sanidade, e à fertilidade das plantas e dos animais, sobretudo das renas.
+No pensamento religioso dos sámi, o Sol não é só uma estrela: é também uma divindade, e a mesma palavra serve para os dois. É Beaivi, escrita também Beiwe, Bievve, Beivve ou Biejje. A fonte consultada a descreve como ligada ao sol, à primavera e à sanidade, e à fertilidade das plantas e dos animais, sobretudo das renas.
 
 ## Mulher ou homem
 

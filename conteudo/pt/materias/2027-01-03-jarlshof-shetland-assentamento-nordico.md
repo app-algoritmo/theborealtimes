@@ -1,6 +1,6 @@
 ---
 titulo: "Jarlshof, nas Shetland: quatro mil anos de casas empilhadas e uma casa longa nórdica"
-resumo: "Em Jarlshof, no sul das Shetland, uma tempestade expôs camadas de ocupação da Idade do Bronze à Idade Média. Veja o que a Wikipedia reúne sobre a casa longa nórdica, os pesos de tear, os desenhos de navios em pedra e o nome inventado por Walter Scott."
+resumo: "Em Jarlshof, no sul das Shetland, uma tempestade expôs camadas de ocupação da Idade do Bronze à Idade Média. Veja o que a fonte consultada reúne sobre a casa longa nórdica, os pesos de tear, os desenhos de navios em pedra e o nome inventado por Walter Scott."
 secao: "Era Viking"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jarlshof, shetland, sumburgh, casa longa, arqueologia]
 ---
 
-Jarlshof fica no extremo sul da ilha principal das Shetland, perto de Sumburgh Head. Segundo o artigo da Wikipedia consultado, é um dos sítios arqueológicos mais importantes da Escócia, porque reúne ocupações humanas de quatro mil anos, uma em cima da outra. A tempestade que o revelou aconteceu no fim do século XIX, e a escavação formal começou em 1925.
+Jarlshof fica no extremo sul da ilha principal das Shetland, perto de Sumburgh Head. Segundo a fonte consultada, é um dos sítios arqueológicos mais importantes da Escócia, porque reúne ocupações humanas de quatro mil anos, uma em cima da outra. A tempestade que o revelou aconteceu no fim do século XIX, e a escavação formal começou em 1925.
 
 ## Camadas de tempo
 

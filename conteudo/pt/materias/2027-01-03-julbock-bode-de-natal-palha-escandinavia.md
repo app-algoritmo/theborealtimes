@@ -1,6 +1,6 @@
 ---
 titulo: "O bode de Natal escandinavo: do último feixe de trigo ao grande bode de palha"
-resumo: "O julbock, o bode de Natal, aparece em Escandinávia como feixe de palha, figura de máscara e depois como presente-ador de crianças. Veja o que a Wikipedia diz sobre a origem, o que é só teoria e os bodes de palha de hoje."
+resumo: "O julbock, o bode de Natal, aparece em Escandinávia como feixe de palha, figura de máscara e depois como presente-ador de crianças. Veja o que a fonte consultada diz sobre a origem, o que é só teoria e os bodes de palha de hoje."
 secao: "Contos e Folclore"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [julbock, bode de natal, palha, yule, escandinávia]
 ---
 
-O bode de Natal, *julbock* em sueco, é um dos símbolos de fim de ano na Escandinávia. Segundo o artigo da Wikipedia consultado, sua origem "pode ser" pagã germânica, mas não há evidência disso. É uma figura que mudou muito ao longo dos séculos.
+O bode de Natal, *julbock* em sueco, é um dos símbolos de fim de ano na Escandinávia. Segundo a fonte consultada, sua origem "pode ser" pagã germânica, mas não há evidência disso. É uma figura que mudou muito ao longo dos séculos.
 
 ## A teoria de Thor
 

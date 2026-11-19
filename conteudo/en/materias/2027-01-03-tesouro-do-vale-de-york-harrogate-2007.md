@@ -1,6 +1,6 @@
 ---
 titulo: "The Vale of York Hoard: 617 silver coins found by father and son with a metal detector"
-resumo: "On 6 January 2007, near Harrogate, David Whelan and his son Andrew found, 30 cm deep, a Viking hoard of 617 coins and 65 other items. See what Wikipedia gathers and what nobody knows about who buried it."
+resumo: "On 6 January 2007, near Harrogate, David Whelan and his son Andrew found, 30 cm deep, a Viking hoard of 617 coins and 65 other items. See what the source consulted gathers and what nobody knows about who buried it."
 secao: "Viking Age"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [vale of york hoard, harrogate, silver, coins, athelstan]
 ---
 
-On 6 January 2007, David Whelan and his son Andrew, using metal detectors in a field near Harrogate, in North Yorkshire, found about 30 centimetres deep what became known as the Vale of York Hoard. According to the Wikipedia article consulted, the find was reported to Amy Cooper, the Finds Liaison Officer.
+On 6 January 2007, David Whelan and his son Andrew, using metal detectors in a field near Harrogate, in North Yorkshire, found about 30 centimetres deep what became known as the Vale of York Hoard. According to the source consulted, the find was reported to Amy Cooper, the Finds Liaison Officer.
 
 ## What was there
 

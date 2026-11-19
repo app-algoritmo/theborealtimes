@@ -1,6 +1,6 @@
 ---
 titulo: "Mylingen: barnesjelen som ber om å bli båret på veien om natten i nordisk folklore"
-resumo: "Mylingen er, i skandinavisk folklore, sjelen til et barn som døde uten dåp og begravelse og forfølger dem som går alene om natten. Se hva Wikipedia samler om navnet, møtet på veien, midlene mot den og hva fortellingen røper om fortiden."
+resumo: "Mylingen er, i skandinavisk folklore, sjelen til et barn som døde uten dåp og begravelse og forfølger dem som går alene om natten. Se hva kilden som er brukt samler om navnet, møtet på veien, midlene mot den og hva fortellingen røper om fortiden."
 secao: "Eventyr og folketro"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [myling, utburd, folklore, sjeler, skandinavia]
 ---
 
-*Mylingen* er en skikkelse i skandinavisk folklore. Ifølge Wikipedia-artikkelen som er brukt, er den sjelen til et barn som døde udøpt eller ble drept i hemmelighet, ofte av en mor som ikke ville ha barnet, og som synger om natten. Det er et tungt tema, og det som ligger bak, er en historisk virkelighet med barnedrap som samfunnet ikke innrømmet.
+*Mylingen* er en skikkelse i skandinavisk folklore. Ifølge kilden som er brukt, er den sjelen til et barn som døde udøpt eller ble drept i hemmelighet, ofte av en mor som ikke ville ha barnet, og som synger om natten. Det er et tungt tema, og det som ligger bak, er en historisk virkelighet med barnedrap som samfunnet ikke innrømmet.
 
 ## Navn
 

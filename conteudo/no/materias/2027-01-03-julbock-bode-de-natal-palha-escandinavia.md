@@ -1,6 +1,6 @@
 ---
 titulo: "Den skandinaviske julebukken: fra siste kornband til den store halmbukken"
-resumo: "Julebukken, *julbock* på svensk, dukker opp i Skandinavia som et halmband, en maskert skikkelse og siden som gavegiver til barn. Se hva Wikipedia sier om opphavet, hva som bare er teori og dagens halmbukker."
+resumo: "Julebukken, *julbock* på svensk, dukker opp i Skandinavia som et halmband, en maskert skikkelse og siden som gavegiver til barn. Se hva kilden som er brukt sier om opphavet, hva som bare er teori og dagens halmbukker."
 secao: "Eventyr og folketro"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [julebukk, julbock, halm, jul, skandinavia]
 ---
 
-Julebukken, *julbock* på svensk, er et av årsskiftets symboler i Skandinavia. Ifølge Wikipedia-artikkelen som er brukt, kan opphavet være hedensk germansk, men det finnes ingen bevis for det. Det er en skikkelse som har endret seg mye gjennom århundrene.
+Julebukken, *julbock* på svensk, er et av årsskiftets symboler i Skandinavia. Ifølge kilden som er brukt, kan opphavet være hedensk germansk, men det finnes ingen bevis for det. Det er en skikkelse som har endret seg mye gjennom århundrene.
 
 ## Tor-teorien
 

@@ -1,6 +1,6 @@
 ---
 titulo: "The Áhkká: the Sámi goddess of birth and the three daughters who guarded the fire, the door and the bow"
-resumo: "For the Sámi, Máttaráhkká and her three daughters, Sáráhkká, Juoksáhkká and Uksáhkká, looked after birth: the fire, the bow and the door of the tent. See what Wikipedia gathers on each one, the offerings, the naming rite and what remains in doubt."
+resumo: "For the Sámi, Máttaráhkká and her three daughters, Sáráhkká, Juoksáhkká and Uksáhkká, looked after birth: the fire, the bow and the door of the tent. See what the source consulted gathers on each one, the offerings, the naming rite and what remains in doubt."
 secao: "Tales & Folklore"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -15,7 +15,7 @@ fontes:
 tags: [áhkká, sami, sáráhkká, máttaráhkká, goddesses]
 ---
 
-In the traditional religion of the Sámi, the birth of a child was looked after by four female figures called *Áhkká*, "grandmother" or "woman". According to the Wikipedia articles consulted, the eldest was Máttaráhkká, "origin woman", who lives under the *goahti*, the tent, and has charge of childbirth and fertility. Drinks were offered to her.
+In the traditional religion of the Sámi, the birth of a child was looked after by four female figures called *Áhkká*, "grandmother" or "woman". According to the source consulted, the eldest was Máttaráhkká, "origin woman", who lives under the *goahti*, the tent, and has charge of childbirth and fertility. Drinks were offered to her.
 
 ## The three daughters
 

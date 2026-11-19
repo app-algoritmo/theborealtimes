@@ -1,6 +1,6 @@
 ---
 titulo: "Íslendingabók, o \"Livro dos Islandeses\" do padre Ari Þorgilsson: o que ele conta"
-resumo: "A Íslendingabók é uma história curta da Islândia escrita pelo padre Ari Þorgilsson entre 1122 e 1133. Veja o que a Wikipedia reúne sobre o povoamento, o Alþingi, o calendário, a Groenlândia, a conversão por volta do ano 1000 e as cópias do século XVII."
+resumo: "A Íslendingabók é uma história curta da Islândia escrita pelo padre Ari Þorgilsson entre 1122 e 1133. Veja o que a fonte consultada reúne sobre o povoamento, o Alþingi, o calendário, a Groenlândia, a conversão por volta do ano 1000 e as cópias do século XVII."
 secao: "Sagas e Reis"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [íslendingabók, ari þorgilsson, islândia, alþingi, conversão]
 ---
 
-A *Íslendingabók*, "Livro dos Islandeses", é uma história curta da Islândia. O artigo da Wikipedia consultado a atribui ao padre Ari Þorgilsson e a data, segundo os estudiosos, entre 1122 e 1133, a partir das referências do prólogo aos bispos Þorlákur Runólfsson (1118–1133) e Ketill Þorsteinsson (1122–1145).
+A *Íslendingabók*, "Livro dos Islandeses", é uma história curta da Islândia. A fonte consultada a atribui ao padre Ari Þorgilsson e a data, segundo os estudiosos, entre 1122 e 1133, a partir das referências do prólogo aos bispos Þorlákur Runólfsson (1118–1133) e Ketill Þorsteinsson (1122–1145).
 
 ## As duas versões
 

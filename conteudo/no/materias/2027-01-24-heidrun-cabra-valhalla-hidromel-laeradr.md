@@ -13,7 +13,7 @@ fontes:
 tags: [heiðrún, valhall, grímnismål, læraðr, eikþyrnir]
 ---
 
-Heiðrún er en geit i norrøn mytologi som står på Valhall. Den engelske Wikipedia-artikkelen som denne saken bygger på, samler de få linjene kildene gir henne: hva hun spiser, hva som renner fra henne, en fornærmelse der navnet hennes forekommer, og en hypotese om opprinnelsen til navnet. Artikkelen advarer selv om at etymologien fortsatt er omstridt og at den trenger flere henvisninger, og denne saken følger den forsiktigheten.
+Heiðrún er en geit i norrøn mytologi som står på Valhall. Kilden som denne saken bygger på, samler de få linjene kildene gir henne: hva hun spiser, hva som renner fra henne, en fornærmelse der navnet hennes forekommer, og en hypotese om opprinnelsen til navnet. Artikkelen advarer selv om at etymologien fortsatt er omstridt og at den trenger flere henvisninger, og denne saken følger den forsiktigheten.
 
 ## Hva de to Eddaene sier
 

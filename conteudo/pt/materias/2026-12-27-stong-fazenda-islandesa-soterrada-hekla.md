@@ -19,7 +19,7 @@ A Islândia tem poucas casas medievais em pé, mas uma delas foi preservada de u
 
 ## O vulcão
 
-O artigo da Wikipedia diz que a fazenda é "acreditada" ter sido soterrada em 1104, quando o Hekla entrou em erupção. A EXARC conta que, nos anos 1930, escavadores examinaram cerca de 40 fazendas do vale destruídas de repente em 1104, e que Stöng era das mais bem conservadas. Os moradores, diz o texto, eram chefes do distrito. O guia turístico acrescenta uma lista de erupções do Hekla e afirma que o local foi habitado quase continuamente até cerca de 1300, o que não bate com a data de 1104, e ele mesmo nota que o frio pode ter contribuído. As fontes não se acertam nesse ponto.
+A fonte consultada diz que a fazenda é "acreditada" ter sido soterrada em 1104, quando o Hekla entrou em erupção. A EXARC conta que, nos anos 1930, escavadores examinaram cerca de 40 fazendas do vale destruídas de repente em 1104, e que Stöng era das mais bem conservadas. Os moradores, diz o texto, eram chefes do distrito. O guia turístico acrescenta uma lista de erupções do Hekla e afirma que o local foi habitado quase continuamente até cerca de 1300, o que não bate com a data de 1104, e ele mesmo nota que o frio pode ter contribuído. As fontes não se acertam nesse ponto.
 
 ## A escavação
 

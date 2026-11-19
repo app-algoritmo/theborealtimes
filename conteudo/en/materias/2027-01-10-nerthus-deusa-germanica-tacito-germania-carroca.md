@@ -1,6 +1,6 @@
 ---
 titulo: "Nerthus, the goddess of the covered wagon: what Tacitus tells and what no one knows"
-resumo: "Nerthus is a Germanic goddess mentioned by Tacitus in the Germania, in a rite with a covered wagon, a sacred grove and a lake. See what Wikipedia gathers on the description, the kinship of the name with Njörðr and the scholars' doubts."
+resumo: "Nerthus is a Germanic goddess mentioned by Tacitus in the Germania, in a rite with a covered wagon, a sacred grove and a lake. See what the source consulted gathers on the description, the kinship of the name with Njörðr and the scholars' doubts."
 secao: "Myths & Gods"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [nerthus, tacitus, germania, njörðr, wagon]
 ---
 
-Nerthus is a Germanic goddess attested by the Roman historian Tacitus in the *Germania*, in chapter 40, written in the first century. According to the Wikipedia article consulted, what is known of the rite comes from that description.
+Nerthus is a Germanic goddess attested by the Roman historian Tacitus in the *Germania*, in chapter 40, written in the first century. According to the source consulted, what is known of the rite comes from that description.
 
 ## Who worshipped her
 

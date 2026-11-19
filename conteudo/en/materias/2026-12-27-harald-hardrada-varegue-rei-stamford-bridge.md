@@ -15,7 +15,7 @@ fontes:
 tags: [harald hardrada, varangian guard, stamford bridge, heimskringla, kievan rus]
 ---
 
-Few Norse kings lived a life of travel as long as Harald Sigurdsson, known as Hardrada. Born around 1015 in Ringerike, Norway, son of Åsta Gudbrandsdatter and the petty king Sigurd Syr, he went from battle to exile, to an emperor's service and to the throne, and died invading England. The account below follows the Wikipedia article consulted, which marks carefully what is fact and what is tradition.
+Few Norse kings lived a life of travel as long as Harald Sigurdsson, known as Hardrada. Born around 1015 in Ringerike, Norway, son of Åsta Gudbrandsdatter and the petty king Sigurd Syr, he went from battle to exile, to an emperor's service and to the throne, and died invading England. The account below follows the source consulted, which marks carefully what is fact and what is tradition.
 
 ## Stiklestad and the flight
 

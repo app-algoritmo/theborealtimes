@@ -1,6 +1,6 @@
 ---
 titulo: "Danelagen, «danskenes lov» i England: traktaten, de fem byene og stedsnavnene"
-resumo: "Danelagen var den delen av England som lå under skandinavisk lov etter traktaten mellom Alfred og Guthrum. Se hva Wikipedia samler om navnet, traktaten, de fem byene, stedsnavn på -by og -thorp, gjenerobringen på 900-tallet og tvilen som blir igjen."
+resumo: "Danelagen var den delen av England som lå under skandinavisk lov etter traktaten mellom Alfred og Guthrum. Se hva kilden som er brukt samler om navnet, traktaten, de fem byene, stedsnavn på -by og -thorp, gjenerobringen på 900-tallet og tvilen som blir igjen."
 secao: "Vikingtid"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [danelagen, fem byer, alfred, guthrum, england]
 ---
 
-Danelagen er navnet på den delen av England der skandinavisk lov gjaldt. Wikipedia-artikkelen som er brukt, samler det som er kjent om navnet, traktaten som skapte den, de befestede byene og sporene den satte.
+Danelagen er navnet på den delen av England der skandinavisk lov gjaldt. Kilden som er brukt, samler det som er kjent om navnet, traktaten som skapte den, de befestede byene og sporene den satte.
 
 ## Navnet
 

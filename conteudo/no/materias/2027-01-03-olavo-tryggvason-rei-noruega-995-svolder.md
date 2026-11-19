@@ -1,6 +1,6 @@
 ---
 titulo: "Olav Tryggvason: kongen av Norge som påla kristendommen og forsvant ved Svolder"
-resumo: "Olav Tryggvason rådde i Norge fra 995 til 1000, kristnet landet med tvang og døde, eller forsvant, i slaget ved Svolder. Se hva Wikipedia samler om barndommen som slave, plyndringen av England og de sene kildene."
+resumo: "Olav Tryggvason rådde i Norge fra 995 til 1000, kristnet landet med tvang og døde, eller forsvant, i slaget ved Svolder. Se hva kilden som er brukt samler om barndommen som slave, plyndringen av England og de sene kildene."
 secao: "Sagaer og konger"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [olav tryggvason, svolder, norge, kristning, ormen lange]
 ---
 
-Olav Tryggvason var konge av Norge fra 995 til september år 1000. Ifølge Wikipedia-artikkelen som er brukt, ble han født på 960-tallet, og de foreslåtte årstallene går fra 964 til 969. Kildene som forteller om livet hans, ble skrevet lenge etter ham, og moderne historikere antar ikke at de er nøyaktige.
+Olav Tryggvason var konge av Norge fra 995 til september år 1000. Ifølge kilden som er brukt, ble han født på 960-tallet, og de foreslåtte årstallene går fra 964 til 969. Kildene som forteller om livet hans, ble skrevet lenge etter ham, og moderne historikere antar ikke at de er nøyaktige.
 
 ## Opphav og barndom
 

@@ -1,6 +1,6 @@
 ---
 titulo: "The dwarfs of the Edda: maggots in Ymir's flesh, smiths of the gods and stones at sunrise"
-resumo: "The dvergar are born from Ymir's body, forge Thor's hammer and turn to stone in daylight. See what Wikipedia gathers on dwarfs in Norse and German sources, and what nobody knows for sure, like their size."
+resumo: "The dvergar are born from Ymir's body, forge Thor's hammer and turn to stone in daylight. See what the source consulted gathers on dwarfs in Norse and German sources, and what nobody knows for sure, like their size."
 secao: "Myths & Gods"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [dwarfs, dvergar, ymir, sindri, andvari]
 ---
 
-Dwarfs come from so many places in the Germanic imagination that they are hard to sum up. The Wikipedia article consulted deals with the Norse *dvergar* and their relatives in German and English, and shows that what is now thought of them, small, bearded and carrying a pickaxe, is only part of the story.
+Dwarfs come from so many places in the Germanic imagination that they are hard to sum up. The source consulted deals with the Norse *dvergar* and their relatives in German and English, and shows that what is now thought of them, small, bearded and carrying a pickaxe, is only part of the story.
 
 ## The name
 

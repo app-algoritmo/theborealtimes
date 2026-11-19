@@ -13,7 +13,7 @@ fontes:
 tags: [borgring, køge, ringborger, harald blåtand, trelleborg]
 ---
 
-Borgring er en rund borg nær Køge på øya Sjælland i Danmark, i Højelse sogn og nær Lellinge. Den engelske Wikipedia-artikkelen som denne saken bygger på, forteller hvordan den ble funnet, hvordan den var og hva som fortsatt er usikkert. Denne saken følger artikkelen, som advarer om at bare mindre deler av stedet er gravd ut.
+Borgring er en rund borg nær Køge på øya Sjælland i Danmark, i Højelse sogn og nær Lellinge. Kilden som denne saken bygger på, forteller hvordan den ble funnet, hvordan den var og hva som fortsatt er usikkert. Denne saken følger artikkelen, som advarer om at bare mindre deler av stedet er gravd ut.
 
 ## Hvor den ligger
 

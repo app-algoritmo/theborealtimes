@@ -1,6 +1,6 @@
 ---
 titulo: "Trell: de slavebundne i vikingtiden, mellom den frie karlen og den adelige jarlen"
-resumo: "Trellene (þrælar) var de slavebundne i Skandinavia i vikingtiden, under karlen, den frie mannen, og jarlen, adelsmannen. Se hva Wikipedia samler om hvordan en ble trell, hva de gjorde, hvordan de kunne bli frigitt og hvordan slaveriet tok slutt."
+resumo: "Trellene (þrælar) var de slavebundne i Skandinavia i vikingtiden, under karlen, den frie mannen, og jarlen, adelsmannen. Se hva kilden som er brukt samler om hvordan en ble trell, hva de gjorde, hvordan de kunne bli frigitt og hvordan slaveriet tok slutt."
 secao: "Vikingtid"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [trell, slaveri, vikingtid, rígsþula, leysingi]
 ---
 
-Ifølge Wikipedia-artikkelen som er brukt, var *trellen* (på norrønt *þræll*) en slavebundet person eller et livegen i Skandinavia i vikingtiden, under *karlen*, den frie mannen, og *jarlen*, adelsmannen. Artikkelen viser til *Rígsþula* for denne ordenen i tre trinn. Ordet kommer fra en germansk rot som betyr «løper».
+Ifølge kilden som er brukt, var *trellen* (på norrønt *þræll*) en slavebundet person eller et livegen i Skandinavia i vikingtiden, under *karlen*, den frie mannen, og *jarlen*, adelsmannen. Artikkelen viser til *Rígsþula* for denne ordenen i tre trinn. Ordet kommer fra en germansk rot som betyr «løper».
 
 ## Hvordan en ble trell
 

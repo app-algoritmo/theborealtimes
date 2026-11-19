@@ -14,7 +14,7 @@ fontes:
 tags: [beaivi, samisk, sol, tromme, offer]
 ---
 
-I samisk religiøs tenkning er sola ikke bare en stjerne: den er også en guddom, og det samme ordet brukes om begge. Det er Beaivi, skrevet også Beiwe, Bievve, Beivve eller Biejje. Wikipedia-artikkelen beskriver henne som knyttet til sol, vår og sunt vett, og til fruktbarheten hos planter og dyr, særlig rein.
+I samisk religiøs tenkning er sola ikke bare en stjerne: den er også en guddom, og det samme ordet brukes om begge. Det er Beaivi, skrevet også Beiwe, Bievve, Beivve eller Biejje. Kilden beskriver henne som knyttet til sol, vår og sunt vett, og til fruktbarheten hos planter og dyr, særlig rein.
 
 ## Kvinne eller mann
 

@@ -13,7 +13,7 @@ fontes:
 tags: [mästermyr, gotland, ferramentas, ferreiro, baú]
 ---
 
-Em outubro de 1936, o agricultor Hugo Kraft aravou pela primeira vez um campo de Emil Norrby, em Snoder, na paróquia de Sproge, perto de Hemse, em Gotland, e bateu num objeto duro. Era um baú de carvalho. Segundo o artigo da Wikipedia consultado, foi o maior achado de ferramentas da Era Viking na Europa, com mais de 200 peças.
+Em outubro de 1936, o agricultor Hugo Kraft aravou pela primeira vez um campo de Emil Norrby, em Snoder, na paróquia de Sproge, perto de Hemse, em Gotland, e bateu num objeto duro. Era um baú de carvalho. Segundo a fonte consultada, foi o maior achado de ferramentas da Era Viking na Europa, com mais de 200 peças.
 
 ## O brejo
 

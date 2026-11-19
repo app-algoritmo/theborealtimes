@@ -1,6 +1,6 @@
 ---
 titulo: "Flateyjarbók, the Book of Flatey: 225 vellum leaves written in Iceland in the fourteenth century"
-resumo: "The Flateyjarbók is an Icelandic manuscript of 225 vellum leaves, written and illustrated by two priests between 1387 and 1394. See what Wikipedia gathers on who commissioned it, what it contains, how it ended up in Copenhagen and when it returned to Iceland."
+resumo: "The Flateyjarbók is an Icelandic manuscript of 225 vellum leaves, written and illustrated by two priests between 1387 and 1394. See what the source consulted gathers on who commissioned it, what it contains, how it ended up in Copenhagen and when it returned to Iceland."
 secao: "Sagas & Kings"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [flateyjarbók, manuscript, iceland, sagas, magnús þórhallsson]
 ---
 
-The *Flateyjarbók*, also called GkS 1005 fol. and *Codex Flateyensis*, is a medieval Icelandic manuscript of 225 vellum leaves, written and illustrated. According to the Wikipedia article consulted, it was commissioned by the knight and lawspeaker Jón Hákonarson.
+The *Flateyjarbók*, also called GkS 1005 fol. and *Codex Flateyensis*, is a medieval Icelandic manuscript of 225 vellum leaves, written and illustrated. According to the source consulted, it was commissioned by the knight and lawspeaker Jón Hákonarson.
 
 ## Who wrote it
 

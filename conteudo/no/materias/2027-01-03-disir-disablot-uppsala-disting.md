@@ -15,7 +15,7 @@ fontes:
 tags: [dísir, dísablót, uppsala, disting, valkyrjer]
 ---
 
-Ordet *dís*, på norrønt, betyr «dame», og flertall er *dísir*. Ifølge Wikipedia-artikkelen som er brukt, kan det bety en gudinne, et spøkelse eller en ånd knyttet til skjebnen, velvillig eller fiendtlig. Forskere foreslår at grunnbetydningen er «gudinne», men etymologien, knyttet til en indoeuropeisk rot for «å suge, die», er bare et forslag.
+Ordet *dís*, på norrønt, betyr «dame», og flertall er *dísir*. Ifølge kilden som er brukt, kan det bety en gudinne, et spøkelse eller en ånd knyttet til skjebnen, velvillig eller fiendtlig. Forskere foreslår at grunnbetydningen er «gudinne», men etymologien, knyttet til en indoeuropeisk rot for «å suge, die», er bare et forslag.
 
 ## Hvor de dukker opp
 

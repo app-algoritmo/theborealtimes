@@ -14,7 +14,7 @@ fontes:
 tags: [frigg, odin, baldr, fensalir, friday]
 ---
 
-Among the goddesses of the North, Frigg is the hardest to see up close. She appears in many sources, almost always beside someone else: her husband Odin, her son Baldr, Loki's band. The Wikipedia article consulted describes her as Odin's wife, Baldr's mother and the chief of the ásynjur, the goddesses of the Æsir.
+Among the goddesses of the North, Frigg is the hardest to see up close. She appears in many sources, almost always beside someone else: her husband Odin, her son Baldr, Loki's band. The source consulted describes her as Odin's wife, Baldr's mother and the chief of the ásynjur, the goddesses of the Æsir.
 
 ## The name and Friday
 

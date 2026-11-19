@@ -13,7 +13,7 @@ fontes:
 tags: [heiðrún, valhalla, grímnismál, læraðr, eikþyrnir]
 ---
 
-Heiðrún é uma cabra da mitologia nórdica que fica sobre o Valhalla. O artigo da Wikipédia em inglês que serve de base a esta matéria reúne as poucas linhas que as fontes lhe dedicam: o que ela come, o que dela escorre, uma ofensa em que o nome dela aparece e uma hipótese sobre a origem desse nome. O próprio artigo avisa que a etimologia continua debatida e que precisa de mais citações, e a matéria segue essa cautela.
+Heiðrún é uma cabra da mitologia nórdica que fica sobre o Valhalla. A fonte consultada reúne as poucas linhas que as fontes lhe dedicam: o que ela come, o que dela escorre, uma ofensa em que o nome dela aparece e uma hipótese sobre a origem desse nome. O próprio artigo avisa que a etimologia continua debatida e que precisa de mais citações, e a matéria segue essa cautela.
 
 ## O que dizem as duas Eddas
 

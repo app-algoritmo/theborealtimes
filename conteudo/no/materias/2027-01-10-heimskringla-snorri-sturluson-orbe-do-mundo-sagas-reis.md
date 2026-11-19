@@ -1,6 +1,6 @@
 ---
 titulo: "Heimskringla, «jordens krets»: kongesagaene om Norge tilskrevet Snorre Sturluson"
-resumo: "Heimskringla er en samling norrøne kongesagaer, knyttet til Snorre Sturluson omkring 1230, som går fra de legendariske ynglingene til 1177. Se hva Wikipedia samler om navnet, forfatterskapet, håndskriftene, kildene og hvordan historikere leser den i dag."
+resumo: "Heimskringla er en samling norrøne kongesagaer, knyttet til Snorre Sturluson omkring 1230, som går fra de legendariske ynglingene til 1177. Se hva kilden som er brukt samler om navnet, forfatterskapet, håndskriftene, kildene og hvordan historikere leser den i dag."
 secao: "Sagaer og konger"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [heimskringla, snorre sturluson, kongesagaer, ynglinga saga, norge]
 ---
 
-*Heimskringla* er en samling norrøne kongesagaer. Wikipedia-artikkelen som er brukt, påpeker innledningsvis at ingen bevart håndskrift eller tekst nevner en forfatter. Noen forskere antar at verket ble skrevet av Snorre Sturluson, som levde fra 1178/79 til 1241, omkring 1230, og de første verkene som oppgir ham som forfatter, er danske oversettelser fra 1500-tallet.
+*Heimskringla* er en samling norrøne kongesagaer. Kilden som er brukt, påpeker innledningsvis at ingen bevart håndskrift eller tekst nevner en forfatter. Noen forskere antar at verket ble skrevet av Snorre Sturluson, som levde fra 1178/79 til 1241, omkring 1230, og de første verkene som oppgir ham som forfatter, er danske oversettelser fra 1500-tallet.
 
 ## Navnet
 

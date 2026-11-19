@@ -1,6 +1,6 @@
 ---
 titulo: "Íslendingabók, the \"Book of Icelanders\" by the priest Ari Þorgilsson: what it tells"
-resumo: "The Íslendingabók is a short history of Iceland written by the priest Ari Þorgilsson between 1122 and 1133. See what Wikipedia gathers about the settlement, the Althing, the calendar, Greenland, the conversion around the year 1000 and the 17th-century copies."
+resumo: "The Íslendingabók is a short history of Iceland written by the priest Ari Þorgilsson between 1122 and 1133. See what the source consulted gathers about the settlement, the Althing, the calendar, Greenland, the conversion around the year 1000 and the 17th-century copies."
 secao: "Sagas & Kings"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [íslendingabók, ari þorgilsson, iceland, althing, conversion]
 ---
 
-The *Íslendingabók*, "Book of Icelanders", is a short history of Iceland. The Wikipedia article consulted attributes it to the priest Ari Þorgilsson and dates it, according to scholars, between 1122 and 1133, from the prologue's references to Bishops Þorlákur Runólfsson (1118–1133) and Ketill Þorsteinsson (1122–1145).
+The *Íslendingabók*, "Book of Icelanders", is a short history of Iceland. The source consulted attributes it to the priest Ari Þorgilsson and dates it, according to scholars, between 1122 and 1133, from the prologue's references to Bishops Þorlákur Runólfsson (1118–1133) and Ketill Þorsteinsson (1122–1145).
 
 ## The two versions
 

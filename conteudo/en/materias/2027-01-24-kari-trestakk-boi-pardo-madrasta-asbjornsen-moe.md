@@ -13,7 +13,7 @@ fontes:
 tags: [kari trestakk, katie woodencloak, asbjørnsen and moe, cinderella, norwegian folktale]
 ---
 
-*Kari Trestakk*, in English *Katie Woodencloak* or *Kari Woodengown*, is a Norwegian fairy tale collected by Peter Christen Asbjørnsen and Jørgen Moe in *Norske Folkeeventyr*. The English Wikipedia article this piece relies on summarises the plot, classifies the tale and points to variants. Andrew Lang included it in the *Red Fairy Book*, where it appears as "Kari Woodengown".
+*Kari Trestakk*, in English *Katie Woodencloak* or *Kari Woodengown*, is a Norwegian fairy tale collected by Peter Christen Asbjørnsen and Jørgen Moe in *Norske Folkeeventyr*. The source consulted for this piece summarises the plot, classifies the tale and points to variants. Andrew Lang included it in the *Red Fairy Book*, where it appears as "Kari Woodengown".
 
 ## The plot
 

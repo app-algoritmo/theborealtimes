@@ -1,6 +1,6 @@
 ---
 titulo: "Surtr, the fire giant of Muspelheim: what the sources say about Ragnarök"
-resumo: "Surtr is the jötunn who guards Muspelheim and, at Ragnarök, comes from the south with fire and a bright sword. See what Wikipedia gathers on the sources, the battle with Freyr, the Surtshellir cave, the island of Surtsey and what scholars debate."
+resumo: "Surtr is the jötunn who guards Muspelheim and, at Ragnarök, comes from the south with fire and a bright sword. See what the source consulted gathers on the sources, the battle with Freyr, the Surtshellir cave, the island of Surtsey and what scholars debate."
 secao: "Myths & Gods"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [surtr, muspelheim, ragnarök, fire, jötnar]
 ---
 
-Surtr is, according to the Wikipedia article consulted, a *jötunn*, a giant, and the guardian of Muspelheim, one of the two realms said to exist before time, alongside Niflheim. The name is Old Norse for "black", or more narrowly "swart".
+Surtr is, according to the source consulted, a *jötunn*, a giant, and the guardian of Muspelheim, one of the two realms said to exist before time, alongside Niflheim. The name is Old Norse for "black", or more narrowly "swart".
 
 ## The sources
 

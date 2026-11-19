@@ -13,7 +13,7 @@ fontes:
 tags: [hœnir, æsir, völuspá, ynglinga saga, lokka táttur]
 ---
 
-Hœnir é um dos æsir, os deuses principais da mitologia nórdica, e uma figura de poucas aparições. O artigo da Wikipédia em inglês que serve de base a esta matéria reúne o que as fontes dizem dele: uma passagem sobre a criação, uma temporada como refém, um papel de proteção numa balada das Ilhas Faroé e uma hipótese que o liga às aves. Vale ler cada ponto em separado, porque os textos não concordam entre si.
+Hœnir é um dos æsir, os deuses principais da mitologia nórdica, e uma figura de poucas aparições. A fonte consultada reúne o que as fontes dizem dele: uma passagem sobre a criação, uma temporada como refém, um papel de proteção numa balada das Ilhas Faroé e uma hipótese que o liga às aves. Vale ler cada ponto em separado, porque os textos não concordam entre si.
 
 ## Um dos três que criaram os humanos
 

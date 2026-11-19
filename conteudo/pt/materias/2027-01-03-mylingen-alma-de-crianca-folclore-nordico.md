@@ -1,6 +1,6 @@
 ---
 titulo: "Mylingen: a alma de criança que pede colo na estrada à noite no folclore nórdico"
-resumo: "O myling é, no folclore escandinavo, a alma de uma criança morta sem batismo nem sepultura que persegue quem anda sozinho de noite. Veja o que a Wikipedia reúne sobre o nome, o encontro na estrada, os remédios contra ele e o que o conto revela sobre o passado."
+resumo: "O myling é, no folclore escandinavo, a alma de uma criança morta sem batismo nem sepultura que persegue quem anda sozinho de noite. Veja o que a fonte consultada reúne sobre o nome, o encontro na estrada, os remédios contra ele e o que o conto revela sobre o passado."
 secao: "Contos e Folclore"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [mylingen, utburd, folclore, almas, escandinávia]
 ---
 
-O *myling* é uma figura do folclore escandinavo. Segundo o artigo da Wikipedia consultado, é a alma de uma criança que morreu sem batismo ou que foi morta em segredo, muitas vezes por uma mãe que não queria o filho, e que canta à noite. É um tema duro, e o que há por trás dele é uma realidade histórica de infanticídio que a sociedade não admitia.
+O *myling* é uma figura do folclore escandinavo. Segundo a fonte consultada, é a alma de uma criança que morreu sem batismo ou que foi morta em segredo, muitas vezes por uma mãe que não queria o filho, e que canta à noite. É um tema duro, e o que há por trás dele é uma realidade histórica de infanticídio que a sociedade não admitia.
 
 ## Nomes
 

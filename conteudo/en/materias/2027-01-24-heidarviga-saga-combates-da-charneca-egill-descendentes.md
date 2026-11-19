@@ -13,7 +13,7 @@ fontes:
 tags: [heiðarvíga saga, egill skallagrímsson, copenhagen 1728, jón grunnvíkingur, feud]
 ---
 
-The *Heiðarvíga saga*, "the story of the heath-slayings", is one of the sagas of Icelanders. The English Wikipedia article this piece relies on describes it as badly preserved, and that is the first thing the reader needs to know: part of the text was lost and is known only through a summary. This piece keeps to what the article carries, which is little, and says so where necessary.
+The *Heiðarvíga saga*, "the story of the heath-slayings", is one of the sagas of Icelanders. The source consulted for this piece describes it as badly preserved, and that is the first thing the reader needs to know: part of the text was lost and is known only through a summary. This piece keeps to what the article carries, which is little, and says so where necessary.
 
 ## A badly preserved saga
 

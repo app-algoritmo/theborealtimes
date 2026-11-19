@@ -15,7 +15,7 @@ fontes:
 tags: [dísir, dísablót, uppsala, disting, valkyries]
 ---
 
-The word *dís*, in Old Norse, means "lady", and the plural is *dísir*. According to the Wikipedia article consulted, it can denote a goddess, a ghost or a spirit tied to fate, benevolent or hostile. Researchers suggest the basic meaning is "goddess", but the etymology, tied to an Indo-European root of "to suck, suckle", is only a proposal.
+The word *dís*, in Old Norse, means "lady", and the plural is *dísir*. According to the source consulted, it can denote a goddess, a ghost or a spirit tied to fate, benevolent or hostile. Researchers suggest the basic meaning is "goddess", but the etymology, tied to an Indo-European root of "to suck, suckle", is only a proposal.
 
 ## Where they appear
 

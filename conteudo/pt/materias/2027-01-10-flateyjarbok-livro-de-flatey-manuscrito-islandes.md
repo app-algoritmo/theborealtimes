@@ -1,6 +1,6 @@
 ---
 titulo: "Flateyjarbók, o Livro de Flatey: 225 folhas de pergaminho escritas na Islândia no século XIV"
-resumo: "A Flateyjarbók é um manuscrito islandês de 225 folhas de pergaminho, escrito e ilustrado por dois padres entre 1387 e 1394. Veja o que a Wikipedia reúne sobre quem o encomendou, o que contém, como foi parar em Copenhague e quando voltou à Islândia."
+resumo: "A Flateyjarbók é um manuscrito islandês de 225 folhas de pergaminho, escrito e ilustrado por dois padres entre 1387 e 1394. Veja o que a fonte consultada reúne sobre quem o encomendou, o que contém, como foi parar em Copenhague e quando voltou à Islândia."
 secao: "Sagas e Reis"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [flateyjarbók, manuscrito, islândia, sagas, Magnús Þórhallsson]
 ---
 
-A *Flateyjarbók*, também chamada GkS 1005 fol. e *Codex Flateyensis*, é um manuscrito medieval islandês de 225 folhas de pergaminho escritas e ilustradas. Segundo o artigo da Wikipedia consultado, foi encomendada pelo cavaleiro e *lögsögumaðr* (recitador da lei) Jón Hákonarson.
+A *Flateyjarbók*, também chamada GkS 1005 fol. e *Codex Flateyensis*, é um manuscrito medieval islandês de 225 folhas de pergaminho escritas e ilustradas. Segundo a fonte consultada, foi encomendada pelo cavaleiro e *lögsögumaðr* (recitador da lei) Jón Hákonarson.
 
 ## Quem escreveu
 

@@ -1,6 +1,6 @@
 ---
 titulo: "O nuckelavee de Orkney: o demônio-cavalo que não cruza a água doce corrente"
-resumo: "O nuckelavee é uma criatura do folclore de Orkney, na Escócia, meio cavalo e meio homem e sem pele, que não tolera água doce corrente. Veja o que a Wikipedia reúne sobre a origem, o primeiro registro, a aparência e a Mither o' the Sea."
+resumo: "O nuckelavee é uma criatura do folclore de Orkney, na Escócia, meio cavalo e meio homem e sem pele, que não tolera água doce corrente. Veja o que a fonte consultada reúne sobre a origem, o primeiro registro, a aparência e a Mither o' the Sea."
 secao: "Contos e Folclore"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [nuckelavee, orkney, folclore, água doce, mither o' the sea]
 ---
 
-O *nuckelavee* é uma criatura do folclore de Orkney, ilhas do norte da Escócia. Segundo o artigo da Wikipedia consultado, ele provavelmente nasceu da mistura de um cavalo d'água de origem celta com uma criatura trazida pelos nórdicos, já que o folclore de Orkney foi muito marcado pela influência escandinava.
+O *nuckelavee* é uma criatura do folclore de Orkney, ilhas do norte da Escócia. Segundo a fonte consultada, ele provavelmente nasceu da mistura de um cavalo d'água de origem celta com uma criatura trazida pelos nórdicos, já que o folclore de Orkney foi muito marcado pela influência escandinava.
 
 ## Onde
 

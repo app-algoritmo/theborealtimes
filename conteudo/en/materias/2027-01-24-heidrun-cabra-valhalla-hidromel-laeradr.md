@@ -13,7 +13,7 @@ fontes:
 tags: [heiðrún, valhalla, grímnismál, læraðr, eikþyrnir]
 ---
 
-Heiðrún is a goat in Norse mythology who stands on Valhalla. The English Wikipedia article this piece relies on gathers the few lines the sources give her: what she eats, what runs from her, an insult in which her name appears and a hypothesis about the origin of that name. The article itself warns that the etymology is still debated and that it needs more citations, and this piece follows that caution.
+Heiðrún is a goat in Norse mythology who stands on Valhalla. The source consulted for this piece gathers the few lines the sources give her: what she eats, what runs from her, an insult in which her name appears and a hypothesis about the origin of that name. The article itself warns that the etymology is still debated and that it needs more citations, and this piece follows that caution.
 
 ## What the two Eddas say
 

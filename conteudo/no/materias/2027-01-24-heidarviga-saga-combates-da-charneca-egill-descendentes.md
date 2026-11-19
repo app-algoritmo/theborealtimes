@@ -13,7 +13,7 @@ fontes:
 tags: [heiðarvíga saga, egill skallagrímsson, københavn 1728, jón grunnvíkingur, feide]
 ---
 
-*Heiðarvíga saga*, «fortellingen om heidrapene», er en av islendingesagaene. Den engelske Wikipedia-artikkelen som denne saken bygger på, beskriver den som dårlig bevart, og det er det første leseren trenger å vite: en del av teksten gikk tapt og er bare kjent gjennom et sammendrag. Denne saken holder seg til det artikkelen inneholder, som er lite, og sier det der det trengs.
+*Heiðarvíga saga*, «fortellingen om heidrapene», er en av islendingesagaene. Kilden som denne saken bygger på, beskriver den som dårlig bevart, og det er det første leseren trenger å vite: en del av teksten gikk tapt og er bare kjent gjennom et sammendrag. Denne saken holder seg til det artikkelen inneholder, som er lite, og sier det der det trengs.
 
 ## En dårlig bevart saga
 

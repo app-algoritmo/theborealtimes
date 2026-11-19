@@ -15,7 +15,7 @@ fontes:
 tags: [åsgårdsreia, oskoreia, den ville jakt, odin, folketro]
 ---
 
-Over hele Nord- og Vest-Europa har mange fortalt at en flokk spøkelsesryttere med jakthunder fór over himmelen visse netter. Det er den ville jakten, og i Norden har den egne navn. Wikipedia-artikkelen lister for Norge *Oskoreia*, som vanligvis leses som «Åsgards ferd», og *Åsgårdsrei*, belagt i Trøndelag, i tillegg til *Oensjægeren*, «Odins jegere», og på svensk *Odens jakt* og *Vilda jakten*.
+Over hele Nord- og Vest-Europa har mange fortalt at en flokk spøkelsesryttere med jakthunder fór over himmelen visse netter. Det er den ville jakten, og i Norden har den egne navn. Kilden lister for Norge *Oskoreia*, som vanligvis leses som «Åsgards ferd», og *Åsgårdsrei*, belagt i Trøndelag, i tillegg til *Oensjægeren*, «Odins jegere», og på svensk *Odens jakt* og *Vilda jakten*.
 
 ## Navnene
 

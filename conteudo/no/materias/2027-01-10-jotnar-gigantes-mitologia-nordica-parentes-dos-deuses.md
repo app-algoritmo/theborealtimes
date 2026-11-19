@@ -1,6 +1,6 @@
 ---
 titulo: "Jötnene, kjempene i norrøn mytologi: slekt og rivaler av gudene"
-resumo: "Jötnene er vesenene som oversettes som kjemper i norrøn mytologi, og flere guder stammer fra dem eller giftet seg med dem. Se hva Wikipedias liste samler om Bestla, Fárbauti, Jörð, Skade, Gerðr, Mímir, Hrungnir og andre."
+resumo: "Jötnene er vesenene som oversettes som kjemper i norrøn mytologi, og flere guder stammer fra dem eller giftet seg med dem. Se hva listen som er brukt samler om Bestla, Fárbauti, Jörð, Skade, Gerðr, Mímir, Hrungnir og andre."
 secao: "Myter og guder"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jötnar, kjemper, norrøn mytologi, odin, loke]
 ---
 
-Wikipedias liste over jötnar åpner med å si at *jötnar* og *gýgjar* ofte gjengis som kjemper og kjempekvinner. Mange er bare kjent fra navnelister laget for skalder i middelalderen, og er tatt med «for fullstendighetens skyld». Det varsler allerede noe: det som er kjent om dem, er ujevnt, og bildet av ett enkelt kjempefolk er en forenkling.
+Listen over jötnar som er brukt, åpner med å si at *jötnar* og *gýgjar* ofte gjengis som kjemper og kjempekvinner. Mange er bare kjent fra navnelister laget for skalder i middelalderen, og er tatt med «for fullstendighetens skyld». Det varsler allerede noe: det som er kjent om dem, er ujevnt, og bildet av ett enkelt kjempefolk er en forenkling.
 
 ## Slekt av gudene
 

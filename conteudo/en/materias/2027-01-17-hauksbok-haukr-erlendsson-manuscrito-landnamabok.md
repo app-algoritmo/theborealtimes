@@ -1,6 +1,6 @@
 ---
 titulo: "Hauksbók, the book of Haukr Erlendsson: the manuscript that gathers the Landnámabók, the Völuspá and a treatise on arithmetic"
-resumo: "The Hauksbók is an Icelandic manuscript from the early 14th century, put together by Haukr Erlendsson. See what Wikipedia gathers about the dating, the contents, the three parts into which the book was divided and why the copied texts may differ from the originals."
+resumo: "The Hauksbók is an Icelandic manuscript from the early 14th century, put together by Haukr Erlendsson. See what the source consulted gathers about the dating, the contents, the three parts into which the book was divided and why the copied texts may differ from the originals."
 secao: "Sagas & Kings"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [hauksbók, haukr erlendsson, manuscript, landnámabók, eiríks saga rauða]
 ---
 
-The *Hauksbók* is an Icelandic manuscript. The Wikipedia article consulted says the compiler was Haukr Erlendsson, an Icelandic lawspeaker. Several scribes worked on the book, but most of it is in his hand.
+The *Hauksbók* is an Icelandic manuscript. The source consulted says the compiler was Haukr Erlendsson, an Icelandic lawspeaker. Several scribes worked on the book, but most of it is in his hand.
 
 ## The date
 

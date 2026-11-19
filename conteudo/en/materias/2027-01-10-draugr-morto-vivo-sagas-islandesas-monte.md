@@ -1,6 +1,6 @@
 ---
 titulo: "The draugr, the dead who do not stay in the mound: what the Icelandic sagas tell"
-resumo: "The draugr is, in the Icelandic sagas, the dead who leave the grave, strong, foul-smelling and hard to beat. See what Wikipedia gathers on Kárr the Old, Glámr, Víga-Hrappr, the expulsion by \"door-doom\" and how a draugr was undone."
+resumo: "The draugr is, in the Icelandic sagas, the dead who leave the grave, strong, foul-smelling and hard to beat. See what the source consulted gathers on Kárr the Old, Glámr, Víga-Hrappr, the expulsion by \"door-doom\" and how a draugr was undone."
 secao: "Tales & Folklore"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [draugr, undead, icelandic sagas, grettis saga, burial mound]
 ---
 
-The *draugr* is, according to the Wikipedia article consulted, a dead person of the Icelandic sagas who does not stay in the grave. What the text brings are cases from different sagas, and each shows one facet.
+The *draugr* is, according to the source consulted, a dead person of the Icelandic sagas who does not stay in the grave. What the text brings are cases from different sagas, and each shows one facet.
 
 ## The sources
 

@@ -1,6 +1,6 @@
 ---
 titulo: "The Scandinavian Yule goat: from the last sheaf of grain to the great straw goat"
-resumo: "The julbock, the Yule goat, appears in Scandinavia as a sheaf of straw, a masked figure and later a giver of gifts to children. See what Wikipedia says about the origin, what is only theory and today's straw goats."
+resumo: "The julbock, the Yule goat, appears in Scandinavia as a sheaf of straw, a masked figure and later a giver of gifts to children. See what the source consulted says about the origin, what is only theory and today's straw goats."
 secao: "Tales & Folklore"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [yule goat, julbock, straw, christmas, scandinavia]
 ---
 
-The Yule goat, *julbock* in Swedish, is one of the year-end symbols of Scandinavia. According to the Wikipedia article consulted, its origin "may be" pagan Germanic, but there is no evidence of that. It is a figure that has changed a great deal over the centuries.
+The Yule goat, *julbock* in Swedish, is one of the year-end symbols of Scandinavia. According to the source consulted, its origin "may be" pagan Germanic, but there is no evidence of that. It is a figure that has changed a great deal over the centuries.
 
 ## The Thor theory
 

@@ -15,7 +15,7 @@ fontes:
 tags: [thorfinn sigurdsson, orkney, orkneyinga saga, karl hundason, birsay]
 ---
 
-Thorfinn Sigurdsson, son of Earl Sigurd Hlodvirsson, is one of the most colourful figures in the *Orkneyinga saga*, written in Iceland in the early thirteenth century. The saga presents him as a strong earl, a warrior and a traveller. The Wikipedia article consulted is careful to separate what the saga tells from what other sources confirm.
+Thorfinn Sigurdsson, son of Earl Sigurd Hlodvirsson, is one of the most colourful figures in the *Orkneyinga saga*, written in Iceland in the early thirteenth century. The saga presents him as a strong earl, a warrior and a traveller. The source consulted is careful to separate what the saga tells from what other sources confirm.
 
 ## The child who became an earl
 

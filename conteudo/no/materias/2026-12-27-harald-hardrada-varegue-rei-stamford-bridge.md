@@ -15,7 +15,7 @@ fontes:
 tags: [harald hardråde, væringgarden, stamford bridge, heimskringla, kievriket]
 ---
 
-Få norrøne konger levde et så langt reiseliv som Harald Sigurdsson, kjent som Hardråde. Født omkring 1015 i Ringerike i Norge, sønn av Åsta Gudbrandsdatter og småkongen Sigurd Syr, gikk han fra slag til landflyktighet, til en keisers tjeneste og til tronen, og døde under invasjonen av England. Framstillingen under følger Wikipedia-artikkelen, som nøye markerer hva som er fakta og hva som er tradisjon.
+Få norrøne konger levde et så langt reiseliv som Harald Sigurdsson, kjent som Hardråde. Født omkring 1015 i Ringerike i Norge, sønn av Åsta Gudbrandsdatter og småkongen Sigurd Syr, gikk han fra slag til landflyktighet, til en keisers tjeneste og til tronen, og døde under invasjonen av England. Framstillingen under følger kilden, som nøye markerer hva som er fakta og hva som er tradisjon.
 
 ## Stiklestad og flukten
 

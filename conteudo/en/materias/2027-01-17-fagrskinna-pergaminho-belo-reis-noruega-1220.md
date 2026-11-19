@@ -1,6 +1,6 @@
 ---
 titulo: "Fagrskinna, the \"Fair Parchment\": the history of the kings of Norway written around 1220"
-resumo: "Fagrskinna is a history of Norway from the 9th to the 12th century, written around 1220 by an unknown author. See what Wikipedia gathers about the period it covers, the skaldic verses, the likely sources, the link with Morkinskinna and Heimskringla and what the text does not allow us to claim."
+resumo: "Fagrskinna is a history of Norway from the 9th to the 12th century, written around 1220 by an unknown author. See what the source consulted gathers about the period it covers, the skaldic verses, the likely sources, the link with Morkinskinna and Heimskringla and what the text does not allow us to claim."
 secao: "Sagas & Kings"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [fagrskinna, kings sagas, norway, skalds, morkinskinna]
 ---
 
-*Fagrskinna* is a history of the kings of Norway, written in Old Norse. The Wikipedia article consulted dates it to about 1220 and says the author is unknown: it is often thought to have been written in Norway, by an Icelander or by a Norwegian.
+*Fagrskinna* is a history of the kings of Norway, written in Old Norse. The source consulted dates it to about 1220 and says the author is unknown: it is often thought to have been written in Norway, by an Icelander or by a Norwegian.
 
 ## What it covers
 

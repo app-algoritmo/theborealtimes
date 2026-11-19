@@ -1,6 +1,6 @@
 ---
 titulo: "Nuckelaveen fra Orknøyene: hestedemonen som ikke krysser rennende ferskvann"
-resumo: "Nuckelaveen er et vesen i folketroen på Orknøyene i Skottland, halvt hest og halvt menneske og uten hud, som ikke tåler rennende ferskvann. Se hva Wikipedia samler om opphavet, den første omtalen, utseendet og Mither o' the Sea."
+resumo: "Nuckelaveen er et vesen i folketroen på Orknøyene i Skottland, halvt hest og halvt menneske og uten hud, som ikke tåler rennende ferskvann. Se hva kilden som er brukt samler om opphavet, den første omtalen, utseendet og Mither o' the Sea."
 secao: "Eventyr og folketro"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [nuckelavee, orknøyene, folketro, ferskvann, mither o' the sea]
 ---
 
-*Nuckelaveen* er et vesen i folketroen på Orknøyene, øyer nord i Skottland. Ifølge Wikipedia-artikkelen som er brukt, oppsto den sannsynligvis av en blanding av en keltisk vannhest og et vesen som nordboerne tok med seg, siden folketroen på Orknøyene var sterkt preget av skandinavisk innflytelse.
+*Nuckelaveen* er et vesen i folketroen på Orknøyene, øyer nord i Skottland. Ifølge kilden som er brukt, oppsto den sannsynligvis av en blanding av en keltisk vannhest og et vesen som nordboerne tok med seg, siden folketroen på Orknøyene var sterkt preget av skandinavisk innflytelse.
 
 ## Hvor
 

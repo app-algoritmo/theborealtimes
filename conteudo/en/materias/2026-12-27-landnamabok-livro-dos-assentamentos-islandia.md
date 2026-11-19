@@ -15,7 +15,7 @@ fontes:
 tags: [landnámabók, iceland, settlement, sturlubók, ari þorgilsson]
 ---
 
-Few societies have a book that lists who founded each farm. Iceland does: the *Landnámabók*, the "Book of Settlements", which records the settlement of the island in the ninth and tenth centuries. According to the Wikipedia article consulted, it has five parts and 102 chapters, with more than three thousand people and about 1,400 farms, and 435 initial settlers, women among them.
+Few societies have a book that lists who founded each farm. Iceland does: the *Landnámabók*, the "Book of Settlements", which records the settlement of the island in the ninth and tenth centuries. According to the source consulted, it has five parts and 102 chapters, with more than three thousand people and about 1,400 farms, and 435 initial settlers, women among them.
 
 ## How the book is organised
 

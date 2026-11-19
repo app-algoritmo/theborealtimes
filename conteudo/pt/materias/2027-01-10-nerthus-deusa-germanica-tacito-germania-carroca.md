@@ -1,6 +1,6 @@
 ---
 titulo: "Nerthus, a deusa da carroça coberta: o que Tácito conta e o que ninguém sabe"
-resumo: "Nerthus é uma deusa germânica citada por Tácito na Germânia, num rito com carroça coberta, bosque sagrado e lago. Veja o que a Wikipedia reúne sobre a descrição, o parentesco do nome com Njörðr e as dúvidas dos estudiosos."
+resumo: "Nerthus é uma deusa germânica citada por Tácito na Germânia, num rito com carroça coberta, bosque sagrado e lago. Veja o que a fonte consultada reúne sobre a descrição, o parentesco do nome com Njörðr e as dúvidas dos estudiosos."
 secao: "Mitos e Deuses"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [nerthus, tácito, germânia, njörðr, carroça]
 ---
 
-Nerthus é uma deusa germânica atestada pelo historiador romano Tácito na *Germânia*, no capítulo 40, escrita no século I. Segundo o artigo da Wikipedia consultado, o que se sabe do rito vem dessa descrição.
+Nerthus é uma deusa germânica atestada pelo historiador romano Tácito na *Germânia*, no capítulo 40, escrita no século I. Segundo a fonte consultada, o que se sabe do rito vem dessa descrição.
 
 ## Quem a venerava
 

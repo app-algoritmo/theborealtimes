@@ -1,6 +1,6 @@
 ---
 titulo: "O tesouro de Galloway, na Escócia: o que o artigo diz do achado de 2014"
-resumo: "O Galloway Hoard é um tesouro enterrado por volta do ano 900 e achado em 2014 por um detectorista de metais no sudoeste da Escócia. Veja o que a Wikipedia reúne sobre o achado, o conteúdo, o vaso de origem asiática, a compra de 2017 e as perguntas que continuam sem resposta."
+resumo: "O Galloway Hoard é um tesouro enterrado por volta do ano 900 e achado em 2014 por um detectorista de metais no sudoeste da Escócia. Veja o que a fonte consultada reúne sobre o achado, o conteúdo, o vaso de origem asiática, a compra de 2017 e as perguntas que continuam sem resposta."
 secao: "Era Viking"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [galloway hoard, tesouro, escócia, derek mclennan, era viking]
 ---
 
-O Galloway Hoard é um tesouro achado no sudoeste da Escócia. O artigo da Wikipedia consultado conta como ele foi descoberto, o que continha e o que ainda se discute.
+O Galloway Hoard é um tesouro achado no sudoeste da Escócia. A fonte consultada conta como ele foi descoberto, o que continha e o que ainda se discute.
 
 ## O achado
 

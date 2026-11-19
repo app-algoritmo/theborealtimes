@@ -13,7 +13,7 @@ fontes:
 tags: [kormáks saga, kormákr, steingerðr, skalder, möðruvallabók]
 ---
 
-*Kormáks saga* er en islendingesaga om en skald fra 900-tallet. Den engelske Wikipedia-artikkelen som denne saken bygger på, oppsummerer handlingen, versenes plass og det som er kjent om teksten, og denne saken følger den oppsummeringen. Den forteller ikke episoder som artikkelen ikke har med.
+*Kormáks saga* er en islendingesaga om en skald fra 900-tallet. Kilden som denne saken bygger på, oppsummerer handlingen, versenes plass og det som er kjent om teksten, og denne saken følger den oppsummeringen. Den forteller ikke episoder som artikkelen ikke har med.
 
 ## En skald og en brud
 

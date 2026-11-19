@@ -15,7 +15,7 @@ fontes:
 tags: [torfinn sigurdsson, orknøyene, orkneyinga saga, karl hundason, birsay]
 ---
 
-Torfinn Sigurdsson, sønn av jarl Sigurd Hlodvirsson, er en av de fargerikeste skikkelsene i *Orknøyingenes saga*, skrevet på Island tidlig på 1200-tallet. Sagaen framstiller ham som en sterk jarl, en kriger og en reisende. Wikipedia-artikkelen er nøye med å skille mellom det sagaen forteller og det andre kilder bekrefter.
+Torfinn Sigurdsson, sønn av jarl Sigurd Hlodvirsson, er en av de fargerikeste skikkelsene i *Orknøyingenes saga*, skrevet på Island tidlig på 1200-tallet. Sagaen framstiller ham som en sterk jarl, en kriger og en reisende. Kilden er nøye med å skille mellom det sagaen forteller og det andre kilder bekrefter.
 
 ## Barnet som ble jarl
 

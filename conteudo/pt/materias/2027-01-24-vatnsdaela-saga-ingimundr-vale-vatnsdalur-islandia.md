@@ -13,7 +13,7 @@ fontes:
 tags: [vatnsdæla saga, ingimundr, vatnsdalur, saga dos islandeses, manuscritos]
 ---
 
-A *Vatnsdæla saga* é uma das sagas dos islandeses, e o artigo da Wikipédia em inglês que serve de base a esta matéria a descreve, em essência, como uma crônica de família sobre os moradores de Vatnsdalur. O vale corre para o sul a partir de Húnaflói, uma grande baía no norte da Islândia. O artigo é curto, e a matéria se limita ao que ele traz, sem acrescentar episódios que ele não menciona.
+A *Vatnsdæla saga* é uma das sagas dos islandeses, e a fonte consultada a descreve, em essência, como uma crônica de família sobre os moradores de Vatnsdalur. O vale corre para o sul a partir de Húnaflói, uma grande baía no norte da Islândia. O artigo é curto, e a matéria se limita ao que ele traz, sem acrescentar episódios que ele não menciona.
 
 ## Uma crônica de família
 

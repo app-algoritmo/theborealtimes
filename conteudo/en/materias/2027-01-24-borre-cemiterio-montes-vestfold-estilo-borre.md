@@ -13,7 +13,7 @@ fontes:
 tags: [borre, vestfold, burial mounds, borre style, viking ship]
 ---
 
-The Borre mound cemetery, in Norwegian *Borrehaugene*, is part of Borre National Park, in the municipality of Horten, in Vestfold county, Norway. The English Wikipedia article this piece relies on describes the group, the history of the excavations and the style of ornament that carries the name of the place. This piece separates what is established from what the article treats as likely.
+The Borre mound cemetery, in Norwegian *Borrehaugene*, is part of Borre National Park, in the municipality of Horten, in Vestfold county, Norway. The source consulted for this piece describes the group, the history of the excavations and the style of ornament that carries the name of the place. This piece separates what is established from what the article treats as likely.
 
 ## The place
 

@@ -19,7 +19,7 @@ Antes de Estocolmo, a cidade mais importante do lago Mälaren foi Sigtuna. Funda
 
 ## Do lago a Birka
 
-Birka foi abandonada entre 960 e 970, e o artigo acha que Sigtuna foi provavelmente sua sucessora, com o papel de controlar o acesso a Uppland. Fica a cerca de 30 km de Gamla Uppsala e de Birka, no litoral norte do arquipélago do Mälaren. Um complexo real em Fornsigtuna, a uns 4 km a oeste, é do ano 750–800 e é visto como precursor. Sobre quem fundou a cidade, a Wikipedia lembra que as fontes citam Erik, o Vitorioso, ou Olof Skötkonung; o artigo da medieval.eu chama essas fontes de vagas e conflitantes e menciona hipóteses como Harald Dente Azul ou um magnata chamado Skagul Toste.
+Birka foi abandonada entre 960 e 970, e o artigo acha que Sigtuna foi provavelmente sua sucessora, com o papel de controlar o acesso a Uppland. Fica a cerca de 30 km de Gamla Uppsala e de Birka, no litoral norte do arquipélago do Mälaren. Um complexo real em Fornsigtuna, a uns 4 km a oeste, é do ano 750–800 e é visto como precursor. Sobre quem fundou a cidade, a fonte consultada lembra que as fontes citam Erik, o Vitorioso, ou Olof Skötkonung; o artigo da medieval.eu chama essas fontes de vagas e conflitantes e menciona hipóteses como Harald Dente Azul ou um magnata chamado Skagul Toste.
 
 ## As primeiras moedas
 
@@ -43,6 +43,6 @@ Um estudo de cerca de 38 pessoas enterradas em seis cemitérios cristãos, com D
 
 ## O que se pode dizer com cuidado
 
-A Wikipedia diz que, em 1187, invasores vindos do Báltico saquearam a cidade, mas as escavações não verificaram a destruição. No século XIII, a cidade perdeu importância, em parte porque o solo subia e a navegação ficou difícil.
+A fonte consultada diz que, em 1187, invasores vindos do Báltico saquearam a cidade, mas as escavações não verificaram a destruição. No século XIII, a cidade perdeu importância, em parte porque o solo subia e a navegação ficou difícil.
 
 Para separar o que chega à oficina, mandando cada peça para a esquerda ou para a direita, jogue [A oficina de Sigtuna](/jogo-a-oficina-de-sigtuna/).

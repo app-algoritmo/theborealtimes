@@ -1,6 +1,6 @@
 ---
 titulo: "Haakon Sigurdsson, Earl of Lade: the lord of Norway who died in a pigsty"
-resumo: "Haakon Sigurdsson ruled northern Norway as Earl of Lade and, in theory, a vassal of Denmark. See what Wikipedia gathers on his life, the war against Olaf Tryggvason and his death at the hands of a slave and friend named Kark."
+resumo: "Haakon Sigurdsson ruled northern Norway as Earl of Lade and, in theory, a vassal of Denmark. See what the source consulted gathers on his life, the war against Olaf Tryggvason and his death at the hands of a slave and friend named Kark."
 secao: "Sagas & Kings"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [haakon sigurdsson, earl of lade, trøndelag, kark, harald bluetooth]
 ---
 
-Haakon Sigurdsson, also called Earl Haakon, was born around 937 and was lord of northern Norway in the days of Harald Bluetooth and of Olaf Tryggvason. According to the Wikipedia article consulted, he was the son of Sigurd Haakonsson, Earl of Lade, in Trøndelag and Hålogaland, and of Bergljot Toresdatter.
+Haakon Sigurdsson, also called Earl Haakon, was born around 937 and was lord of northern Norway in the days of Harald Bluetooth and of Olaf Tryggvason. According to the source consulted, he was the son of Sigurd Haakonsson, Earl of Lade, in Trøndelag and Hålogaland, and of Bergljot Toresdatter.
 
 ## The house of Lade
 

@@ -13,7 +13,7 @@ fontes:
 tags: [tatterhood, lurvehette, asbjørnsen and moe, atu 711, norwegian folktale]
 ---
 
-*Tatterhood*, in Norwegian *Lurvehette*, is a Norwegian fairy tale collected by Peter Christen Asbjørnsen and Jørgen Moe in *Norske Folkeeventyr*. The English Wikipedia article this piece relies on cites George Webbe Dasent's translation, *Popular Tales from the Norse* (Edinburgh, 1888). It summarises the plot, classifies the tale and discusses where it is found. Ruth Manning-Sanders retold a version in *A Book of Witches* (1966), and the tale is related to *Kate Crackernuts*.
+*Tatterhood*, in Norwegian *Lurvehette*, is a Norwegian fairy tale collected by Peter Christen Asbjørnsen and Jørgen Moe in *Norske Folkeeventyr*. The source consulted for this piece cites George Webbe Dasent's translation, *Popular Tales from the Norse* (Edinburgh, 1888). It summarises the plot, classifies the tale and discusses where it is found. Ruth Manning-Sanders retold a version in *A Book of Witches* (1966), and the tale is related to *Kate Crackernuts*.
 
 ## The plot
 

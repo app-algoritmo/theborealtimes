@@ -13,7 +13,7 @@ fontes:
 tags: [vatnsdæla saga, ingimundr, vatnsdalur, sagas of icelanders, manuscripts]
 ---
 
-The *Vatnsdæla saga* is one of the sagas of Icelanders, and the English Wikipedia article this piece relies on describes it, in essence, as a family chronicle about the residents of Vatnsdalur. The valley runs south from Húnaflói, a large bay in northern Iceland. The article is short, and this piece keeps to what it carries, without adding episodes that it does not mention.
+The *Vatnsdæla saga* is one of the sagas of Icelanders, and the source consulted for this piece describes it, in essence, as a family chronicle about the residents of Vatnsdalur. The valley runs south from Húnaflói, a large bay in northern Iceland. The article is short, and this piece keeps to what it carries, without adding episodes that it does not mention.
 
 ## A family chronicle
 

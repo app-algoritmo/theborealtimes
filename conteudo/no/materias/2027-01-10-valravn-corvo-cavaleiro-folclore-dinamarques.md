@@ -1,6 +1,6 @@
 ---
 titulo: "Valravnen, ridder-ravnen i dansk folketro: balladen og Jens Billes notater"
-resumo: "Valravnen er en overnaturlig ravn i dansk folketro, og balladen «Valravnen» forteller om en ridder som ble forvandlet til ravn. Se hva Wikipedia samler om balladen, håndskriftene, beretningen fra 1893 og hypotesene til Grundtvig og Grimm."
+resumo: "Valravnen er en overnaturlig ravn i dansk folketro, og balladen «Valravnen» forteller om en ridder som ble forvandlet til ravn. Se hva kilden som er brukt samler om balladen, håndskriftene, beretningen fra 1893 og hypotesene til Grundtvig og Grimm."
 secao: "Eventyr og folketro"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [valravn, ravner, dansk folketro, ballade, jens bille]
 ---
 
-*Valravnen* er ifølge Wikipedia-artikkelen som er brukt, en overnaturlig ravn i dansk folketro fra renessansen. Artikkelen beskriver den som «ridderen som ble forvandlet til en ravn» i folkevisen «Valravnen».
+*Valravnen* er ifølge kilden som er brukt, en overnaturlig ravn i dansk folketro fra renessansen. Artikkelen beskriver den som «ridderen som ble forvandlet til en ravn» i folkevisen «Valravnen».
 
 ## Balladen
 

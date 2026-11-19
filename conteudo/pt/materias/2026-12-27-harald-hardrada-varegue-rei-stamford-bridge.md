@@ -15,7 +15,7 @@ fontes:
 tags: [harald hardrada, guarda varegue, stamford bridge, heimskringla, rus de quieve]
 ---
 
-Poucos reis nórdicos viveram uma vida tão longa de viagens quanto Harald Sigurdsson, conhecido como Hardrada. Nascido por volta de 1015 em Ringerike, na Noruega, filho de Åsta Gudbrandsdatter e do pequeno rei Sigurd Syr, passou da batalha ao exílio, ao serviço de um imperador e ao trono, e morreu invadindo a Inglaterra. O relato abaixo segue o artigo da Wikipedia consultado, que marca com cuidado o que é fato e o que é tradição.
+Poucos reis nórdicos viveram uma vida tão longa de viagens quanto Harald Sigurdsson, conhecido como Hardrada. Nascido por volta de 1015 em Ringerike, na Noruega, filho de Åsta Gudbrandsdatter e do pequeno rei Sigurd Syr, passou da batalha ao exílio, ao serviço de um imperador e ao trono, e morreu invadindo a Inglaterra. O relato abaixo segue a fonte consultada, que marca com cuidado o que é fato e o que é tradição.
 
 ## Stiklestad e a fuga
 

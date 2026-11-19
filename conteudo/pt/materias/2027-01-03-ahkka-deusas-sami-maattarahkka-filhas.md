@@ -1,6 +1,6 @@
 ---
 titulo: "As Áhkká: a deusa sámi do parto e as três filhas que guardavam o fogo, a porta e o arco"
-resumo: "Para os sámi, Máttaráhkká e as três filhas, Sáráhkká, Juoksáhkká e Uksáhkká, cuidavam do nascimento: o fogo, o arco e a porta da tenda. Veja o que a Wikipedia reúne sobre cada uma, as oferendas, o batismo e o que ficou em dúvida."
+resumo: "Para os sámi, Máttaráhkká e as três filhas, Sáráhkká, Juoksáhkká e Uksáhkká, cuidavam do nascimento: o fogo, o arco e a porta da tenda. Veja o que a fonte consultada reúne sobre cada uma, as oferendas, o batismo e o que ficou em dúvida."
 secao: "Contos e Folclore"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -15,7 +15,7 @@ fontes:
 tags: [áhkká, sami, sáráhkká, máttaráhkká, deusas]
 ---
 
-Na religião tradicional dos sámi, o nascimento de uma criança era cuidado por quatro figuras femininas chamadas *Áhkká*, "avó" ou "mulher". Segundo os artigos da Wikipedia consultados, a mais velha era Máttaráhkká, "mulher de origem", que vive sob a *goahti*, a tenda, e tem a seu cargo o parto e a fertilidade. Lhe eram oferecidas bebidas.
+Na religião tradicional dos sámi, o nascimento de uma criança era cuidado por quatro figuras femininas chamadas *Áhkká*, "avó" ou "mulher". Segundo as fontes consultadas, a mais velha era Máttaráhkká, "mulher de origem", que vive sob a *goahti*, a tenda, e tem a seu cargo o parto e a fertilidade. Lhe eram oferecidas bebidas.
 
 ## As três filhas
 

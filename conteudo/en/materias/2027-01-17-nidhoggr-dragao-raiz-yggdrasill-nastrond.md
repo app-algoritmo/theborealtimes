@@ -1,6 +1,6 @@
 ---
 titulo: "Níðhöggr, the dragon that gnaws the roots of Yggdrasill: what the texts say"
-resumo: "Níðhöggr is, in the Norse sources, the being that gnaws one of the roots of the world ash and feeds on corpses in Náströnd. See what Wikipedia gathers about the Gylfaginning, the Grímnismál, the Völuspá, the squirrel Ratatoskr and the debated meaning of the name."
+resumo: "Níðhöggr is, in the Norse sources, the being that gnaws one of the roots of the world ash and feeds on corpses in Náströnd. See what the source consulted gathers about the Gylfaginning, the Grímnismál, the Völuspá, the squirrel Ratatoskr and the debated meaning of the name."
 secao: "Myths & Gods"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [níðhöggr, yggdrasill, völuspá, náströnd, dragon]
 ---
 
-Níðhöggr, also written Nidhogg, is a being of the Norse sources tied to the tree Yggdrasill and to the realm of the dead. The Wikipedia article consulted gathers what three texts say of him.
+Níðhöggr, also written Nidhogg, is a being of the Norse sources tied to the tree Yggdrasill and to the realm of the dead. The source consulted gathers what three texts say of him.
 
 ## What the sources say
 

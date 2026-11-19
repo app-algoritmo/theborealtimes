@@ -13,7 +13,7 @@ fontes:
 tags: [borre, vestfold, gravhauger, borrestil, vikingskip]
 ---
 
-Gravfeltet ved Borre, *Borrehaugene*, er en del av Borre nasjonalpark i Horten kommune i Vestfold fylke i Norge. Den engelske Wikipedia-artikkelen som denne saken bygger på, beskriver anlegget, utgravingenes historie og ornamentstilen som bærer stedets navn. Denne saken skiller mellom det som er etablert, og det artikkelen behandler som sannsynlig.
+Gravfeltet ved Borre, *Borrehaugene*, er en del av Borre nasjonalpark i Horten kommune i Vestfold fylke i Norge. Kilden som denne saken bygger på, beskriver anlegget, utgravingenes historie og ornamentstilen som bærer stedets navn. Denne saken skiller mellom det som er etablert, og det artikkelen behandler som sannsynlig.
 
 ## Stedet
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Morkinskinna, the \"mouldy parchment\": the saga of the kings of Norway written in Iceland around 1220"
-resumo: "Morkinskinna is a Norse kings' saga written in Iceland around 1220, preserved in a manuscript of about 1275. See what Wikipedia gathers on the name, the period it covers, the 270 stanzas cited, the short tales and the relation to the Heimskringla."
+resumo: "Morkinskinna is a Norse kings' saga written in Iceland around 1220, preserved in a manuscript of about 1275. See what the source consulted gathers on the name, the period it covers, the 270 stanzas cited, the short tales and the relation to the Heimskringla."
 secao: "Sagas & Kings"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [morkinskinna, kings sagas, iceland, skaldic verse, norway]
 ---
 
-*Morkinskinna* means "mouldy parchment" and is, according to the Wikipedia article consulted, the original name of the manuscript GKS 1009 fol. It is an Old Norse kings' saga, written in Iceland around 1220.
+*Morkinskinna* means "mouldy parchment" and is, according to the source consulted, the original name of the manuscript GKS 1009 fol. It is an Old Norse kings' saga, written in Iceland around 1220.
 
 ## The manuscript
 

@@ -13,7 +13,7 @@ fontes:
 tags: [hiisi, kalevala, sacred grove, lemminkäinen, finnish mythology]
 ---
 
-Hiisi is a term in the Finnic mythologies. The English Wikipedia article this piece relies on says it first denoted sacred places and later came to name mythical beings of several kinds. That path from place to being, and then to devil, is the thread of this piece, which rests on that single article and marks what it treats as speculation.
+Hiisi is a term in the Finnic mythologies. The source consulted for this piece says it first denoted sacred places and later came to name mythical beings of several kinds. That path from place to being, and then to devil, is the thread of this piece, which rests on that single article and marks what it treats as speculation.
 
 ## A place before a being
 

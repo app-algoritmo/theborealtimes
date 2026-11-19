@@ -1,6 +1,6 @@
 ---
 titulo: "Hermóð, Odins sønn som red ni netter til Hel for å hente Baldr"
-resumo: "Etter Baldrs død rir Hermóð Sleipnir til Hels rike for å be om å få broren tilbake. Se hva Wikipedia samler om Gylfaginning, Gjallarbrua, løsepengene med vilkår og tvilen om hvem han var."
+resumo: "Etter Baldrs død rir Hermóð Sleipnir til Hels rike for å be om å få broren tilbake. Se hva kilden som er brukt samler om Gylfaginning, Gjallarbrua, løsepengene med vilkår og tvilen om hvem han var."
 secao: "Myter og guder"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [hermóð, baldr, hel, sleipnir, gylfaginning]
 ---
 
-Hermóð er i norrøn mytologi en sønn av Odin og bror til Baldr. Wikipedia-artikkelen som er brukt, forklarer navnet som noe nær «krigsånd». Hans mest kjente rolle står i *Gylfaginning*, den delen av Snorre Sturlasons *Edda* i kapittel 49.
+Hermóð er i norrøn mytologi en sønn av Odin og bror til Baldr. Kilden som er brukt, forklarer navnet som noe nær «krigsånd». Hans mest kjente rolle står i *Gylfaginning*, den delen av Snorre Sturlasons *Edda* i kapittel 49.
 
 ## Ferden
 

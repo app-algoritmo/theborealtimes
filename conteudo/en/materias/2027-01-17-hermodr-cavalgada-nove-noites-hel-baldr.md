@@ -1,6 +1,6 @@
 ---
 titulo: "Hermóðr, the son of Odin who rode nine nights to Hel in search of Baldr"
-resumo: "After Baldr's death, Hermóðr rides Sleipnir to the realm of Hel to ask for his brother's return. See what Wikipedia gathers about the Gylfaginning, the Gjöll bridge, the conditional ransom and the doubts about who he was."
+resumo: "After Baldr's death, Hermóðr rides Sleipnir to the realm of Hel to ask for his brother's return. See what the source consulted gathers about the Gylfaginning, the Gjöll bridge, the conditional ransom and the doubts about who he was."
 secao: "Myths & Gods"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [hermóðr, baldr, hel, sleipnir, gylfaginning]
 ---
 
-Hermóðr is, in Norse mythology, a son of Odin and a brother of Baldr. The Wikipedia article consulted explains the name as something close to "war-spirit". His best-known role appears in the *Gylfaginning*, the part of Snorri Sturluson's *Prose Edda*, in chapter 49.
+Hermóðr is, in Norse mythology, a son of Odin and a brother of Baldr. The source consulted explains the name as something close to "war-spirit". His best-known role appears in the *Gylfaginning*, the part of Snorri Sturluson's *Prose Edda*, in chapter 49.
 
 ## The ride
 
