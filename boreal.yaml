@@ -31,8 +31,9 @@ site:
     # Só entram no rodapé as contas que existem (campo vazio é ignorado).
     facebook: https://www.facebook.com/borealsagaplay/
     instagram: https://www.instagram.com/borealsagaplay/
-    threads: ""
-    youtube: ""
+    threads: https://www.threads.com/@borealsagaplay
+    youtube: https://www.youtube.com/@borealsagaplay
+    tiktok: https://www.tiktok.com/@borealsagaplay
     twitter: ""
 
 # ------------------------------------------------------------
@@ -474,6 +475,7 @@ pt:
     menu_jogos: Jogos
     menu_galeria: Galeria
     menu_album: Álbum
+    menu_progresso: Meu progresso
     linha_edicao: by The Boreal Times · Duna Press Edições
     sobre: Sobre
     assine: Assinar
@@ -976,6 +978,7 @@ en:
     menu_jogos: Games
     menu_galeria: Gallery
     menu_album: Album
+    menu_progresso: My progress
     linha_edicao: by The Boreal Times · Duna Press Editions
     sobre: About
     assine: Subscribe
@@ -1478,6 +1481,7 @@ en:
     menu_jogos: Spill
     menu_galeria: Galleri
     menu_album: Album
+    menu_progresso: Min fremgang
     linha_edicao: by The Boreal Times · Duna Press-utgaver
     sobre: Om
     assine: Abonner
