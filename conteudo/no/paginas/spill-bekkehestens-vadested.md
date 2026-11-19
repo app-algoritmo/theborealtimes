@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-backahast" aria-label="Bekkehestens vadested" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=24" defer></script>
+<script src="/g/tela.js?v=25" defer></script>
 <script src="/g/backahast-vau-quente-frio.js?v=1" defer></script>
 
 ## Slik spiller du
