@@ -13,7 +13,7 @@ fontes:
 tags: [hiisi, kalevala, bosque sagrado, lemminkäinen, mitologia finlandesa]
 ---
 
-Hiisi é um termo das mitologias fínicas. O artigo da Wikipédia em inglês que serve de base a esta matéria diz que ele designou primeiro lugares sagrados e depois passou a nomear seres míticos de vários tipos. Esse caminho do lugar ao ser, e depois ao diabo, é o fio desta matéria, que se apoia nesse único artigo e marca o que ele trata como especulação.
+Hiisi é um termo das mitologias fínicas. A fonte consultada diz que ele designou primeiro lugares sagrados e depois passou a nomear seres míticos de vários tipos. Esse caminho do lugar ao ser, e depois ao diabo, é o fio desta matéria, que se apoia nesse único artigo e marca o que ele trata como especulação.
 
 ## Um lugar antes de um ser
 

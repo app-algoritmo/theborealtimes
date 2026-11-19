@@ -13,7 +13,7 @@ fontes:
 tags: [mästermyr, gotland, verktøy, smed, kiste]
 ---
 
-I oktober 1936 pløyde bonden Hugo Kraft for første gang en åker som tilhørte Emil Norrby, i Snoder, i Sproge sogn, nær Hemse, på Gotland, og traff en hard gjenstand. Det var en eikekiste. Ifølge Wikipedia-artikkelen som er brukt, var det det største verktøyfunnet fra vikingtiden i Europa, med mer enn 200 deler.
+I oktober 1936 pløyde bonden Hugo Kraft for første gang en åker som tilhørte Emil Norrby, i Snoder, i Sproge sogn, nær Hemse, på Gotland, og traff en hard gjenstand. Det var en eikekiste. Ifølge kilden som er brukt, var det det største verktøyfunnet fra vikingtiden i Europa, med mer enn 200 deler.
 
 ## Myra
 

@@ -13,7 +13,7 @@ fontes:
 tags: [mästermyr, gotland, tools, smith, chest]
 ---
 
-In October 1936, the farmer Hugo Kraft ploughed for the first time a field belonging to Emil Norrby, at Snoder, in Sproge parish, near Hemse, on Gotland, and struck a hard object. It was an oak chest. According to the Wikipedia article consulted, it was the largest Viking Age tool find in Europe, with more than 200 pieces.
+In October 1936, the farmer Hugo Kraft ploughed for the first time a field belonging to Emil Norrby, at Snoder, in Sproge parish, near Hemse, on Gotland, and struck a hard object. It was an oak chest. According to the source consulted, it was the largest Viking Age tool find in Europe, with more than 200 pieces.
 
 ## The mire
 

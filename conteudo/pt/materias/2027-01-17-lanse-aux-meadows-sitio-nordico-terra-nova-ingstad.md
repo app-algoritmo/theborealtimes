@@ -1,6 +1,6 @@
 ---
 titulo: "L'Anse aux Meadows, o sítio nórdico na Terra Nova: o que as escavações mostraram"
-resumo: "L'Anse aux Meadows, na Terra Nova, é um sítio nórdico na América do Norte, achado em 1960. Veja o que a Wikipedia reúne sobre as escavações dos Ingstad e do Parks Canada, os oito edifícios, a forja, as datas de 1014 e 1021 e a dúvida sobre Vinland."
+resumo: "L'Anse aux Meadows, na Terra Nova, é um sítio nórdico na América do Norte, achado em 1960. Veja o que a fonte consultada reúne sobre as escavações dos Ingstad e do Parks Canada, os oito edifícios, a forja, as datas de 1014 e 1021 e a dúvida sobre Vinland."
 secao: "Era Viking"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [l'anse aux meadows, terra nova, ingstad, vinland, arqueologia]
 ---
 
-L'Anse aux Meadows é um sítio arqueológico nórdico na Terra Nova, no Canadá. O artigo da Wikipedia consultado conta como ele foi achado e o que se encontrou.
+L'Anse aux Meadows é um sítio arqueológico nórdico na Terra Nova, no Canadá. A fonte consultada conta como ele foi achado e o que se encontrou.
 
 ## A descoberta
 

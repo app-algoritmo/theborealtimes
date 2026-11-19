@@ -1,6 +1,6 @@
 ---
 titulo: "Galloway-skatten i Skottland: hva artikkelen sier om funnet i 2014"
-resumo: "Galloway Hoard er en skatt som ble gravd ned omkring år 900 og funnet i 2014 av en metalldetektorist i det sørvestlige Skottland. Se hva Wikipedia samler om funnet, innholdet, karet av asiatisk opprinnelse, kjøpet i 2017 og spørsmålene som fortsatt er ubesvart."
+resumo: "Galloway Hoard er en skatt som ble gravd ned omkring år 900 og funnet i 2014 av en metalldetektorist i det sørvestlige Skottland. Se hva kilden som er brukt samler om funnet, innholdet, karet av asiatisk opprinnelse, kjøpet i 2017 og spørsmålene som fortsatt er ubesvart."
 secao: "Vikingtid"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [galloway hoard, skatt, skottland, derek mclennan, vikingtid]
 ---
 
-Galloway Hoard er en skatt funnet i det sørvestlige Skottland. Wikipedia-artikkelen som er brukt, forteller hvordan den ble oppdaget, hva den inneholdt og hva som fortsatt diskuteres.
+Galloway Hoard er en skatt funnet i det sørvestlige Skottland. Kilden som er brukt, forteller hvordan den ble oppdaget, hva den inneholdt og hva som fortsatt diskuteres.
 
 ## Funnet
 

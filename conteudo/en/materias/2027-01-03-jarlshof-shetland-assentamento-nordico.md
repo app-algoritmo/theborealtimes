@@ -1,6 +1,6 @@
 ---
 titulo: "Jarlshof in Shetland: four thousand years of stacked houses and a Norse longhouse"
-resumo: "At Jarlshof, in southern Shetland, a storm exposed layers of occupation from the Bronze Age to the Middle Ages. See what Wikipedia gathers on the Norse longhouse, the loom weights, the stone drawings of ships and the name invented by Walter Scott."
+resumo: "At Jarlshof, in southern Shetland, a storm exposed layers of occupation from the Bronze Age to the Middle Ages. See what the source consulted gathers on the Norse longhouse, the loom weights, the stone drawings of ships and the name invented by Walter Scott."
 secao: "Viking Age"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jarlshof, shetland, sumburgh, longhouse, archaeology]
 ---
 
-Jarlshof lies at the southern tip of the Shetland Mainland, near Sumburgh Head. According to the Wikipedia article consulted, it is one of the most important archaeological sites in Scotland, because it brings together four thousand years of human occupation, one on top of another. The storm that revealed it happened in the late nineteenth century, and formal excavation began in 1925.
+Jarlshof lies at the southern tip of the Shetland Mainland, near Sumburgh Head. According to the source consulted, it is one of the most important archaeological sites in Scotland, because it brings together four thousand years of human occupation, one on top of another. The storm that revealed it happened in the late nineteenth century, and formal excavation began in 1925.
 
 ## Layers of time
 

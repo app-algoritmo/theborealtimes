@@ -19,7 +19,7 @@ Før Stockholm var den viktigste byen ved Mälaren Sigtuna. Grunnlagt omkring 98
 
 ## Fra innsjøen til Birka
 
-Birka ble forlatt mellom 960 og 970, og artikkelen mener at Sigtuna trolig var etterfølgeren, med oppgaven å kontrollere adgangen til Uppland. Byen ligger omtrent 30 km fra Gamla Uppsala og Birka, på nordkysten av Mälarens skjærgård. Et kongelig anlegg ved Fornsigtuna, omtrent 4 km mot vest, stammer fra 750–800 og ses som en forløper. Om hvem som grunnla byen, bemerker Wikipedia at kildene nevner Erik Seirsæl eller Olof Skötkonung; medieval.eu-artikkelen kaller disse kildene vage og motstridende og nevner hypoteser som Harald Blåtann eller en stormann ved navn Skagul Toste.
+Birka ble forlatt mellom 960 og 970, og artikkelen mener at Sigtuna trolig var etterfølgeren, med oppgaven å kontrollere adgangen til Uppland. Byen ligger omtrent 30 km fra Gamla Uppsala og Birka, på nordkysten av Mälarens skjærgård. Et kongelig anlegg ved Fornsigtuna, omtrent 4 km mot vest, stammer fra 750–800 og ses som en forløper. Om hvem som grunnla byen, bemerker kilden at kildene nevner Erik Seirsæl eller Olof Skötkonung; medieval.eu-artikkelen kaller disse kildene vage og motstridende og nevner hypoteser som Harald Blåtann eller en stormann ved navn Skagul Toste.
 
 ## De første myntene
 
@@ -43,6 +43,6 @@ En studie av omtrent 38 personer gravlagt på seks kristne gravplasser, med DNA,
 
 ## Hva man kan si med forsiktighet
 
-Wikipedia sier at raidere fra Østersjøen plyndret byen i 1187, men utgravinger har ikke bekreftet ødeleggelsen. På 1200-tallet mistet byen betydning, delvis fordi landet hevet seg og seilingen ble vanskelig.
+Kilden som er brukt sier at raidere fra Østersjøen plyndret byen i 1187, men utgravinger har ikke bekreftet ødeleggelsen. På 1200-tallet mistet byen betydning, delvis fordi landet hevet seg og seilingen ble vanskelig.
 
 For å sortere det som kommer til verkstedet ved å sende hver gjenstand til venstre eller høyre, spill [Sigtunas verksted](/no/spill-sigtunas-verksted/).

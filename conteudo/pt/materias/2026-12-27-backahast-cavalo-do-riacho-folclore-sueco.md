@@ -15,7 +15,7 @@ fontes:
 tags: [bäckahäst, cavalo do riacho, näcken, nøkken, folclore sueco]
 ---
 
-Entre as criaturas da água do folclore nórdico, o cavalo do riacho é das mais simples de imaginar e das mais perigosas. Em sueco, é o *bäckahäst*. O artigo da Wikipedia consultado o trata como uma das formas do *näck*, o espírito da água, que em norueguês e dinamarquês é *nøkk* ou *nøkken*, em feroês *nykur*, em nórdico antigo *nykr* e em finlandês *näkki*. Segundo o texto, os nomes vêm de uma raiz germânica comum que significa "lavar".
+Entre as criaturas da água do folclore nórdico, o cavalo do riacho é das mais simples de imaginar e das mais perigosas. Em sueco, é o *bäckahäst*. A fonte consultada o trata como uma das formas do *näck*, o espírito da água, que em norueguês e dinamarquês é *nøkk* ou *nøkken*, em feroês *nykur*, em nórdico antigo *nykr* e em finlandês *näkki*. Segundo o texto, os nomes vêm de uma raiz germânica comum que significa "lavar".
 
 ## O cavalo
 

@@ -13,7 +13,7 @@ fontes:
 tags: [vatnsdæla saga, ingimundr, vatnsdalur, islendingesagaer, håndskrifter]
 ---
 
-*Vatnsdæla saga* er en av islendingesagaene, og den engelske Wikipedia-artikkelen som denne saken bygger på, beskriver den i hovedsak som en slektskrønike om innbyggerne i Vatnsdalur. Dalen går sørover fra Húnaflói, en stor bukt i Nord-Island. Artikkelen er kort, og denne saken holder seg til det den inneholder, uten å legge til episoder den ikke nevner.
+*Vatnsdæla saga* er en av islendingesagaene, og kilden som denne saken bygger på, beskriver den i hovedsak som en slektskrønike om innbyggerne i Vatnsdalur. Dalen går sørover fra Húnaflói, en stor bukt i Nord-Island. Artikkelen er kort, og denne saken holder seg til det den inneholder, uten å legge til episoder den ikke nevner.
 
 ## En slektskrønike
 

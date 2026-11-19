@@ -1,6 +1,6 @@
 ---
 titulo: "Dvergene i Edda: mark i Ymers kjøtt, gudenes smeder og stein ved soloppgang"
-resumo: "Dvergene blir til av Ymers kropp, smir Tors hammer og blir til stein i dagslys. Se hva Wikipedia samler om dverger i norrøne og tyske kilder, og hva ingen vet sikkert, som størrelsen deres."
+resumo: "Dvergene blir til av Ymers kropp, smir Tors hammer og blir til stein i dagslys. Se hva kilden som er brukt samler om dverger i norrøne og tyske kilder, og hva ingen vet sikkert, som størrelsen deres."
 secao: "Myter og guder"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [dverger, dvergar, ymir, sindre, andvare]
 ---
 
-Dverger kommer fra så mange steder i den germanske fantasien at de er vanskelige å oppsummere. Wikipedia-artikkelen som er brukt, handler om de norrøne *dvergene* og slektningene deres i tysk og engelsk, og viser at det man i dag tenker om dem, små, skjeggete og med hakke, bare er en del av historien.
+Dverger kommer fra så mange steder i den germanske fantasien at de er vanskelige å oppsummere. Kilden som er brukt, handler om de norrøne *dvergene* og slektningene deres i tysk og engelsk, og viser at det man i dag tenker om dem, små, skjeggete og med hakke, bare er en del av historien.
 
 ## Navnet
 

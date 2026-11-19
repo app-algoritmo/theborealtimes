@@ -1,6 +1,6 @@
 ---
 titulo: "Bragi, the god of poetry: what the Eddas and the court poems say about him"
-resumo: "Bragi is the god of poetry in Norse mythology, husband of Iðunn. See what Wikipedia gathers on the sources, the historical poet Bragi Boddason, the runes on the god's tongue and what remains in doubt."
+resumo: "Bragi is the god of poetry in Norse mythology, husband of Iðunn. See what the source consulted gathers on the sources, the historical poet Bragi Boddason, the runes on the god's tongue and what remains in doubt."
 secao: "Myths & Gods"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [bragi, poetry, edda, skalds, iðunn]
 ---
 
-Bragi is a figure of Norse mythology tied to poetry. According to the Wikipedia article consulted, Snorri Sturluson's *Prose Edda* presents him as a god of poetry, known for wisdom and eloquence among the Æsir, and says that poetry is named after him.
+Bragi is a figure of Norse mythology tied to poetry. According to the source consulted, Snorri Sturluson's *Prose Edda* presents him as a god of poetry, known for wisdom and eloquence among the Æsir, and says that poetry is named after him.
 
 ## What the sources say
 

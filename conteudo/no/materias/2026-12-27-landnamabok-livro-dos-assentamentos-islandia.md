@@ -15,7 +15,7 @@ fontes:
 tags: [landnámabók, island, landnåm, sturlubók, ari þorgilsson]
 ---
 
-Få samfunn har en bok som lister hvem som grunnla hver gård. Island har det: *Landnámabók*, «Landnåmsboken», som registrerer bosettingen av øya på 800- og 900-tallet. Ifølge Wikipedia-artikkelen har den fem deler og 102 kapitler, med mer enn tre tusen personer og omtrent 1400 gårder, og 435 første nybyggere, kvinner iblant.
+Få samfunn har en bok som lister hvem som grunnla hver gård. Island har det: *Landnámabók*, «Landnåmsboken», som registrerer bosettingen av øya på 800- og 900-tallet. Ifølge kilden har den fem deler og 102 kapitler, med mer enn tre tusen personer og omtrent 1400 gårder, og 435 første nybyggere, kvinner iblant.
 
 ## Hvordan boken er bygd opp
 

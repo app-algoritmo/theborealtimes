@@ -13,7 +13,7 @@ fontes:
 tags: [spillings, gotland, tesouro de prata, dirhams, era viking]
 ---
 
-Em 16 de julho de 1999, numa sexta-feira, o maior tesouro de prata da era viking já achado saiu da terra de um campo na ilha de Gotland, na Suécia. Segundo o artigo da Wikipedia consultado, o achado aconteceu na fazenda de Spilling, a noroeste de Slite, na paróquia de Othem, durante a filmagem de uma reportagem de TV sobre saques. Depois que a equipe de filmagem foi embora, o arqueólogo Jonas Ström e o dono da terra, Björn Engström, continuaram a prospecção, com o professor de numismática Kenneth Jonsson.
+Em 16 de julho de 1999, numa sexta-feira, o maior tesouro de prata da era viking já achado saiu da terra de um campo na ilha de Gotland, na Suécia. Segundo a fonte consultada, o achado aconteceu na fazenda de Spilling, a noroeste de Slite, na paróquia de Othem, durante a filmagem de uma reportagem de TV sobre saques. Depois que a equipe de filmagem foi embora, o arqueólogo Jonas Ström e o dono da terra, Björn Engström, continuaram a prospecção, com o professor de numismática Kenneth Jonsson.
 
 ## O achado
 

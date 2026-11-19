@@ -1,6 +1,6 @@
 ---
 titulo: "Gulating, forsamlingen på Vestlandet: fra år 900 til Magnus Lagabøtes skrevne lov"
-resumo: "Gulating var en årlig forsamling på Vestlandet, fra omkring 900 til 1300, og eldre Gulatingslova er den eldste skriftlige norske loven. Se hva Wikipedia samler om stedet, kong Håkon den gode, versjonene av loven og bota på 189 storfe."
+resumo: "Gulating var en årlig forsamling på Vestlandet, fra omkring 900 til 1300, og eldre Gulatingslova er den eldste skriftlige norske loven. Se hva kilden som er brukt samler om stedet, kong Håkon den gode, versjonene av loven og bota på 189 storfe."
 secao: "Vikingtid"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [gulating, ting, lov, norge, vikingtid]
 ---
 
-Gulating var ifølge Wikipedia-artikkelen som er brukt, en årlig forsamling på Vestlandet som møttes fra omkring 900 til 1300. Stedet ligger i Gulen kommune i Vestland, på vestkysten, nord for Bergen. Lovens opprinnelige område dekket hele dagens Vestland.
+Gulating var ifølge kilden som er brukt, en årlig forsamling på Vestlandet som møttes fra omkring 900 til 1300. Stedet ligger i Gulen kommune i Vestland, på vestkysten, nord for Bergen. Lovens opprinnelige område dekket hele dagens Vestland.
 
 ## Opprinnelse
 

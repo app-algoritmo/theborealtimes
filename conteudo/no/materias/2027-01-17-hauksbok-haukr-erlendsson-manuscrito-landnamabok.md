@@ -1,6 +1,6 @@
 ---
 titulo: "Hauksbók, boka til Haukr Erlendsson: håndskriftet som samler Landnámabók, Völuspá og en avhandling om regning"
-resumo: "Hauksbók er et islandsk håndskrift fra begynnelsen av 1300-tallet, satt sammen av Haukr Erlendsson. Se hva Wikipedia samler om dateringen, innholdet, de tre delene boka ble delt i og hvorfor de kopierte tekstene kan avvike fra originalene."
+resumo: "Hauksbók er et islandsk håndskrift fra begynnelsen av 1300-tallet, satt sammen av Haukr Erlendsson. Se hva kilden som er brukt samler om dateringen, innholdet, de tre delene boka ble delt i og hvorfor de kopierte tekstene kan avvike fra originalene."
 secao: "Sagaer og konger"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [hauksbók, haukr erlendsson, håndskrift, landnámabók, eiríks saga rauða]
 ---
 
-*Hauksbók* er et islandsk håndskrift. Wikipedia-artikkelen som er brukt, sier at kompilatoren var Haukr Erlendsson, en islandsk lovsigemann. Flere skrivere arbeidet med boka, men det meste er i hans hånd.
+*Hauksbók* er et islandsk håndskrift. Kilden som er brukt, sier at kompilatoren var Haukr Erlendsson, en islandsk lovsigemann. Flere skrivere arbeidet med boka, men det meste er i hans hånd.
 
 ## Dateringen
 

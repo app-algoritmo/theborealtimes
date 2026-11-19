@@ -15,7 +15,7 @@ fontes:
 tags: [åsgårdsreia, oskoreia, wild hunt, odin, folklore]
 ---
 
-All over northern and western Europe, many people told that on certain nights a band of ghostly riders with hunting hounds passed through the sky. This is the Wild Hunt, and in the North it has names of its own. The Wikipedia article consulted lists, for Norway, *Oskoreia*, usually read as "the Asgard ride", and *Åsgårdsrei*, attested in Trøndelag, besides *Oensjægeren*, "Odin's hunters", and, in Swedish, *Odens jakt*, "Odin's hunt", and *Vilda jakten*, "the wild hunt".
+All over northern and western Europe, many people told that on certain nights a band of ghostly riders with hunting hounds passed through the sky. This is the Wild Hunt, and in the North it has names of its own. The source consulted lists, for Norway, *Oskoreia*, usually read as "the Asgard ride", and *Åsgårdsrei*, attested in Trøndelag, besides *Oensjægeren*, "Odin's hunters", and, in Swedish, *Odens jakt*, "Odin's hunt", and *Vilda jakten*, "the wild hunt".
 
 ## The names
 

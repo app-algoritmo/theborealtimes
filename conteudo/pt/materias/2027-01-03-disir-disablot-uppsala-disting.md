@@ -15,7 +15,7 @@ fontes:
 tags: [dísir, dísablót, uppsala, disting, valquírias]
 ---
 
-A palavra *dís*, em nórdico antigo, quer dizer "senhora", e o plural é *dísir*. Segundo o artigo da Wikipedia consultado, pode indicar uma deusa, um fantasma ou um espírito ligado ao destino, benevolente ou hostil. Os pesquisadores sugerem que o sentido básico seja "deusa", mas a etimologia, ligada a uma raiz indo-europeia de "sugar, amamentar", é só uma proposta.
+A palavra *dís*, em nórdico antigo, quer dizer "senhora", e o plural é *dísir*. Segundo a fonte consultada, pode indicar uma deusa, um fantasma ou um espírito ligado ao destino, benevolente ou hostil. Os pesquisadores sugerem que o sentido básico seja "deusa", mas a etimologia, ligada a uma raiz indo-europeia de "sugar, amamentar", é só uma proposta.
 
 ## Onde aparecem
 

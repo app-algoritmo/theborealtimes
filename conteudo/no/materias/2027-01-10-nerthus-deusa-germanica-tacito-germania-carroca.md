@@ -1,6 +1,6 @@
 ---
 titulo: "Nerthus, gudinnen med den tildekte vogna: hva Tacitus forteller og hva ingen vet"
-resumo: "Nerthus er en germansk gudinne nevnt av Tacitus i Germania, i et ritual med tildekt vogn, hellig lund og innsjø. Se hva Wikipedia samler om beskrivelsen, slektskapet mellom navnet og Njörðr og forskernes tvil."
+resumo: "Nerthus er en germansk gudinne nevnt av Tacitus i Germania, i et ritual med tildekt vogn, hellig lund og innsjø. Se hva kilden som er brukt samler om beskrivelsen, slektskapet mellom navnet og Njörðr og forskernes tvil."
 secao: "Myter og guder"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [nerthus, tacitus, germania, njörðr, vogn]
 ---
 
-Nerthus er en germansk gudinne belagt hos den romerske historikeren Tacitus i *Germania*, i kapittel 40, skrevet på 100-tallet. Ifølge Wikipedia-artikkelen som er brukt, kommer det som er kjent om ritualet, fra denne beskrivelsen.
+Nerthus er en germansk gudinne belagt hos den romerske historikeren Tacitus i *Germania*, i kapittel 40, skrevet på 100-tallet. Ifølge kilden som er brukt, kommer det som er kjent om ritualet, fra denne beskrivelsen.
 
 ## Hvem som dyrket henne
 

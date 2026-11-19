@@ -1,6 +1,6 @@
 ---
 titulo: "The myling: the soul of a child who asks to be carried on the road at night in Nordic folklore"
-resumo: "The myling is, in Scandinavian folklore, the soul of a child who died without baptism or burial and pursues those who walk alone at night. See what Wikipedia gathers on the name, the meeting on the road, the remedies against it and what the tale reveals about the past."
+resumo: "The myling is, in Scandinavian folklore, the soul of a child who died without baptism or burial and pursues those who walk alone at night. See what the source consulted gathers on the name, the meeting on the road, the remedies against it and what the tale reveals about the past."
 secao: "Tales & Folklore"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [myling, utburd, folklore, souls, scandinavia]
 ---
 
-The *myling* is a figure of Scandinavian folklore. According to the Wikipedia article consulted, it is the soul of a child who died unbaptised or was killed in secret, often by a mother who did not want the child, and who sings at night. It is a hard subject, and what lies behind it is a historical reality of infanticide that society did not admit.
+The *myling* is a figure of Scandinavian folklore. According to the source consulted, it is the soul of a child who died unbaptised or was killed in secret, often by a mother who did not want the child, and who sings at night. It is a hard subject, and what lies behind it is a historical reality of infanticide that society did not admit.
 
 ## Names
 

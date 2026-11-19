@@ -13,7 +13,7 @@ fontes:
 tags: [jomfruen på glassberget, glass hill, asbjørnsen and moe, atu 530, norwegian folktale]
 ---
 
-“The Princess on the Glass Hill”, in Norwegian *Jomfruen på glassberget*, also known as “The Maiden on the Glass Mountain”, is a Norwegian tale that Peter Christen Asbjørnsen and Jørgen Moe gathered in *Norske Folkeeventyr*. The English Wikipedia article this piece relies on summarises the plot, classifies the tale and lists variants and hypotheses about its origin. The first half of the article was read, and this piece keeps to it.
+“The Princess on the Glass Hill”, in Norwegian *Jomfruen på glassberget*, also known as “The Maiden on the Glass Mountain”, is a Norwegian tale that Peter Christen Asbjørnsen and Jørgen Moe gathered in *Norske Folkeeventyr*. The source consulted for this piece summarises the plot, classifies the tale and lists variants and hypotheses about its origin. The first half of the article was read, and this piece keeps to it.
 
 ## The plot
 

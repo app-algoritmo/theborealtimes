@@ -1,6 +1,6 @@
 ---
 titulo: "The Gulating, the assembly of western Norway: from the year 900 to the written law of Magnus Lagabøte"
-resumo: "The Gulating was a yearly assembly in western Norway, from about 900 to 1300, and the Older Gulating Law is the oldest record of Norwegian law. See what Wikipedia gathers on the place, King Hákon the Good, the versions of the law and the fee of 189 cattle."
+resumo: "The Gulating was a yearly assembly in western Norway, from about 900 to 1300, and the Older Gulating Law is the oldest record of Norwegian law. See what the source consulted gathers on the place, King Hákon the Good, the versions of the law and the fee of 189 cattle."
 secao: "Viking Age"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [gulating, assembly, law, norway, viking age]
 ---
 
-The Gulating was, according to the Wikipedia article consulted, a yearly assembly of western Norway that met from about 900 to 1300. The place lies in the municipality of Gulen, in Vestland, on the west coast, north of Bergen. The original area of its law covered all of present-day Vestland.
+The Gulating was, according to the source consulted, a yearly assembly of western Norway that met from about 900 to 1300. The place lies in the municipality of Gulen, in Vestland, on the west coast, north of Bergen. The original area of its law covered all of present-day Vestland.
 
 ## Origin
 

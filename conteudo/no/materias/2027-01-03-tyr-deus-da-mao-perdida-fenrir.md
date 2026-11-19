@@ -1,6 +1,6 @@
 ---
 titulo: "Tyr: guden som la hånden i ulvens gap og ga navn til tirsdag"
-resumo: "Tyr ga høyre hånd til Fenrisulven slik at gudene kunne lenke den. Se hva Wikipedia samler om ham, fra Tacitus til runene, og hvorfor noen forskere mener han en gang var en langt viktigere gud."
+resumo: "Tyr ga høyre hånd til Fenrisulven slik at gudene kunne lenke den. Se hva kilden som er brukt samler om ham, fra Tacitus til runene, og hvorfor noen forskere mener han en gang var en langt viktigere gud."
 secao: "Myter og guder"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [týr, fenrir, gleipnir, tirsdag, ragnarok]
 ---
 
-Tyr er en gud i germansk mytologi og medlem av æsene. Det som definerer ham mest, er en gest: ifølge Wikipedia-artikkelen som er brukt, ofrer han høyre hånd til ulven Fenrisulven, som biter den av når gudene binder den. Og han er skjebnebestemt til å dø under Ragnarok i kamp mot hunden Garm. Snorres Edda sier at hver av dem blir den andres bane.
+Tyr er en gud i germansk mytologi og medlem av æsene. Det som definerer ham mest, er en gest: ifølge kilden som er brukt, ofrer han høyre hånd til ulven Fenrisulven, som biter den av når gudene binder den. Og han er skjebnebestemt til å dø under Ragnarok i kamp mot hunden Garm. Snorres Edda sier at hver av dem blir den andres bane.
 
 ## Navnet
 

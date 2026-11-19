@@ -1,6 +1,6 @@
 ---
 titulo: "Vale of York-skatten: 617 sølvmynter funnet av far og sønn med metalldetektor"
-resumo: "6. januar 2007, nær Harrogate, fant David Whelan og sønnen Andrew, 30 cm under bakken, en vikingskatt på 617 mynter og 65 andre gjenstander. Se hva Wikipedia samler og hva ingen vet om hvem som gravde den ned."
+resumo: "6. januar 2007, nær Harrogate, fant David Whelan og sønnen Andrew, 30 cm under bakken, en vikingskatt på 617 mynter og 65 andre gjenstander. Se hva kilden som er brukt samler og hva ingen vet om hvem som gravde den ned."
 secao: "Vikingtid"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [vale of york-skatten, harrogate, sølv, mynter, athelstan]
 ---
 
-6. januar 2007 fant David Whelan og sønnen Andrew, med metalldetektorer på en åker nær Harrogate, i North Yorkshire, omtrent 30 centimeter under bakken det som ble kjent som Vale of York-skatten. Ifølge Wikipedia-artikkelen som er brukt, ble funnet meldt til Amy Cooper, kontaktperson for funn.
+6. januar 2007 fant David Whelan og sønnen Andrew, med metalldetektorer på en åker nær Harrogate, i North Yorkshire, omtrent 30 centimeter under bakken det som ble kjent som Vale of York-skatten. Ifølge kilden som er brukt, ble funnet meldt til Amy Cooper, kontaktperson for funn.
 
 ## Hva som lå der
 

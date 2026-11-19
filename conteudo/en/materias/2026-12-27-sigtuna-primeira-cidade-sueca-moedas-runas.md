@@ -19,7 +19,7 @@ Before Stockholm, the most important town on Lake Mälaren was Sigtuna. Founded 
 
 ## From the lake to Birka
 
-Birka was abandoned between 960 and 970, and the article thinks Sigtuna was probably its successor, with the role of controlling access to Uppland. It lies about 30 km from Gamla Uppsala and Birka, on the northern coast of the Mälaren archipelago. A royal complex at Fornsigtuna, about 4 km to the west, dates from 750–800 and is seen as a forerunner. On who founded the town, Wikipedia notes that the sources cite Eric the Victorious or Olof Skötkonung; the medieval.eu article calls these sources vague and conflicting and mentions hypotheses such as Harald Bluetooth or a magnate called Skagul Toste.
+Birka was abandoned between 960 and 970, and the article thinks Sigtuna was probably its successor, with the role of controlling access to Uppland. It lies about 30 km from Gamla Uppsala and Birka, on the northern coast of the Mälaren archipelago. A royal complex at Fornsigtuna, about 4 km to the west, dates from 750–800 and is seen as a forerunner. On who founded the town, the source consulted notes that the sources cite Eric the Victorious or Olof Skötkonung; the medieval.eu article calls these sources vague and conflicting and mentions hypotheses such as Harald Bluetooth or a magnate called Skagul Toste.
 
 ## The first coins
 
@@ -43,6 +43,6 @@ A study of about 38 people buried in six Christian cemeteries, using DNA, bones 
 
 ## What can be said with care
 
-Wikipedia says that in 1187 raiders from the Baltic pillaged the town, but excavations have not verified the destruction. In the thirteenth century the town lost importance, partly because the land rose and navigation became difficult.
+The source consulted says that in 1187 raiders from the Baltic pillaged the town, but excavations have not verified the destruction. In the thirteenth century the town lost importance, partly because the land rose and navigation became difficult.
 
 To sort what arrives at the workshop, sending each piece to the left or to the right, play [Sigtuna's workshop](/en/game-sigtunas-workshop/).

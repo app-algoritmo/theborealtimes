@@ -13,7 +13,7 @@ fontes:
 tags: [spillings, gotland, silver hoard, dirhams, viking age]
 ---
 
-On 16 July 1999, a Friday, the largest Viking Age silver treasure ever found came out of the soil of a field on the island of Gotland, in Sweden. According to the Wikipedia article consulted, the find happened at the farm of Spilling, northwest of Slite, in Othem parish, during the filming of a TV report on looting. After the film crew left, the archaeologist Jonas Ström and the landowner Björn Engström kept on surveying, with Professor of numismatics Kenneth Jonsson.
+On 16 July 1999, a Friday, the largest Viking Age silver treasure ever found came out of the soil of a field on the island of Gotland, in Sweden. According to the source consulted, the find happened at the farm of Spilling, northwest of Slite, in Othem parish, during the filming of a TV report on looting. After the film crew left, the archaeologist Jonas Ström and the landowner Björn Engström kept on surveying, with Professor of numismatics Kenneth Jonsson.
 
 ## The find
 

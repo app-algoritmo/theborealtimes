@@ -1,6 +1,6 @@
 ---
 titulo: "Haakon Sigurdsson, jarl de Lade: o senhor da Noruega que morreu num chiqueiro"
-resumo: "Haakon Sigurdsson governou a Noruega do norte como jarl de Lade e, em teoria, vassalo da Dinamarca. Veja o que a Wikipedia reúne sobre sua vida, a guerra contra Olavo Tryggvason e a morte por um escravo e amigo chamado Kark."
+resumo: "Haakon Sigurdsson governou a Noruega do norte como jarl de Lade e, em teoria, vassalo da Dinamarca. Veja o que a fonte consultada reúne sobre sua vida, a guerra contra Olavo Tryggvason e a morte por um escravo e amigo chamado Kark."
 secao: "Sagas e Reis"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [haakon sigurdsson, jarl de lade, trøndelag, kark, harald dente azul]
 ---
 
-Haakon Sigurdsson, também chamado de jarl Haakon, nasceu por volta de 937 e foi senhor da Noruega do norte nos tempos de Harald Dente Azul e de Olavo Tryggvason. Segundo o artigo da Wikipedia consultado, era filho de Sigurd Haakonsson, jarl de Lade, em Trøndelag e Hålogaland, e de Bergljot Toresdatter.
+Haakon Sigurdsson, também chamado de jarl Haakon, nasceu por volta de 937 e foi senhor da Noruega do norte nos tempos de Harald Dente Azul e de Olavo Tryggvason. Segundo a fonte consultada, era filho de Sigurd Haakonsson, jarl de Lade, em Trøndelag e Hålogaland, e de Bergljot Toresdatter.
 
 ## A casa de Lade
 

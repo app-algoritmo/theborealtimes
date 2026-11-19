@@ -15,7 +15,7 @@ fontes:
 tags: [njörðr, vaner, skaði, nóatún, norrøn mytologi]
 ---
 
-Få norrøne guder har et så tydelig område som Njörðr. Ifølge Wikipedia-artikkelen er han knyttet til havet, sjøfart, fiske, vind, rikdom og avlingenes fruktbarhet. Han tilhører vanene og bor i Nóatún, et navn som peker mot skip. Samtidig viser kildene en gud som kom utenfra og aldri helt passet inn blant æsene.
+Få norrøne guder har et så tydelig område som Njörðr. Ifølge kilden er han knyttet til havet, sjøfart, fiske, vind, rikdom og avlingenes fruktbarhet. Han tilhører vanene og bor i Nóatún, et navn som peker mot skip. Samtidig viser kildene en gud som kom utenfra og aldri helt passet inn blant æsene.
 
 ## Hva kildene sier
 

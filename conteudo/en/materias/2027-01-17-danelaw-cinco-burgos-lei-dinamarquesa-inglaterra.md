@@ -1,6 +1,6 @@
 ---
 titulo: "The Danelaw, the \"law of the Danes\" in England: the treaty, the Five Boroughs and the place-names"
-resumo: "The Danelaw was the part of England under Scandinavian law after the treaty between Alfred and Guthrum. See what Wikipedia gathers about the name, the treaty, the Five Boroughs, the place-names in -by and -thorp, the reconquest in the 10th century and the doubts that remain."
+resumo: "The Danelaw was the part of England under Scandinavian law after the treaty between Alfred and Guthrum. See what the source consulted gathers about the name, the treaty, the Five Boroughs, the place-names in -by and -thorp, the reconquest in the 10th century and the doubts that remain."
 secao: "Viking Age"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [danelaw, five boroughs, alfred, guthrum, england]
 ---
 
-The Danelaw is the name given to the part of England where Scandinavian law applied. The Wikipedia article consulted gathers what is known about the name, the treaty that created it, the fortified towns and the marks it left.
+The Danelaw is the name given to the part of England where Scandinavian law applied. The source consulted gathers what is known about the name, the treaty that created it, the fortified towns and the marks it left.
 
 ## The name
 

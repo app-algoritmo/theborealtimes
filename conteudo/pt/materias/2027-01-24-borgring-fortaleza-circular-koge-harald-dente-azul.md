@@ -13,7 +13,7 @@ fontes:
 tags: [borgring, køge, fortalezas circulares, harald dente azul, trelleborg]
 ---
 
-Borgring é um forte circular perto de Køge, na ilha da Zelândia, na Dinamarca, na paróquia de Højelse e próximo de Lellinge. O artigo da Wikipédia em inglês que serve de base a esta matéria conta como ele foi achado, como era e o que continua incerto. A matéria segue esse artigo, que avisa que só pequenas partes do sítio foram escavadas.
+Borgring é um forte circular perto de Køge, na ilha da Zelândia, na Dinamarca, na paróquia de Højelse e próximo de Lellinge. A fonte consultada conta como ele foi achado, como era e o que continua incerto. A matéria segue esse artigo, que avisa que só pequenas partes do sítio foram escavadas.
 
 ## Onde fica
 

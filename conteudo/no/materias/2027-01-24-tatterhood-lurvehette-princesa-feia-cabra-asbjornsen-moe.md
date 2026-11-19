@@ -13,7 +13,7 @@ fontes:
 tags: [tatterhood, lurvehette, asbjørnsen og moe, atu 711, folkeeventyr]
 ---
 
-*Lurvehette*, på engelsk *Tatterhood*, er et norsk eventyr samlet av Peter Christen Asbjørnsen og Jørgen Moe i *Norske Folkeeventyr*. Den engelske Wikipedia-artikkelen som denne saken bygger på, viser til George Webbe Dasents oversettelse, *Popular Tales from the Norse* (Edinburgh, 1888). Den oppsummerer handlingen, klassifiserer eventyret og diskuterer hvor det finnes. Ruth Manning-Sanders gjenfortalte en versjon i *A Book of Witches* (1966), og eventyret er i slekt med *Kate Crackernuts*.
+*Lurvehette*, på engelsk *Tatterhood*, er et norsk eventyr samlet av Peter Christen Asbjørnsen og Jørgen Moe i *Norske Folkeeventyr*. Kilden som denne saken bygger på, viser til George Webbe Dasents oversettelse, *Popular Tales from the Norse* (Edinburgh, 1888). Den oppsummerer handlingen, klassifiserer eventyret og diskuterer hvor det finnes. Ruth Manning-Sanders gjenfortalte en versjon i *A Book of Witches* (1966), og eventyret er i slekt med *Kate Crackernuts*.
 
 ## Handlingen
 

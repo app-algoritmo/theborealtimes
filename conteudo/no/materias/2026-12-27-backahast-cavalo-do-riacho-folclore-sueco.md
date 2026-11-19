@@ -15,7 +15,7 @@ fontes:
 tags: [bäckahäst, bekkehest, näcken, nøkken, svensk folketro]
 ---
 
-Blant vesenene i vannet i nordisk folketro er bekkehesten et av de enkleste å forestille seg og et av de farligste. På svensk er det *bäckahäst*. Wikipedia-artikkelen behandler det som en av formene til *näck*, vannvesenet, som på norsk og dansk er *nøkk* eller *nøkken*, på færøysk *nykur*, på norrønt *nykr* og på finsk *näkki*. Ifølge teksten kommer navnene fra en felles germansk rot som betyr «å vaske».
+Blant vesenene i vannet i nordisk folketro er bekkehesten et av de enkleste å forestille seg og et av de farligste. På svensk er det *bäckahäst*. Kilden behandler det som en av formene til *näck*, vannvesenet, som på norsk og dansk er *nøkk* eller *nøkken*, på færøysk *nykur*, på norrønt *nykr* og på finsk *näkki*. Ifølge teksten kommer navnene fra en felles germansk rot som betyr «å vaske».
 
 ## Hesten
 

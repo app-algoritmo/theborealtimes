@@ -13,7 +13,7 @@ fontes:
 tags: [angrboða, járnviðr, fenrir, loki, völuspá]
 ---
 
-Angrboða is a giantess, a *jötunn*, of Norse mythology, presented as Loki's mate and the mother of monsters. The English Wikipedia article this piece relies on shows that the sources say little about her, and that part of what is said is inference. This piece separates what is attested from what scholars deduce.
+Angrboða is a giantess, a *jötunn*, of Norse mythology, presented as Loki's mate and the mother of monsters. The source consulted for this piece shows that the sources say little about her, and that part of what is said is inference. This piece separates what is attested from what scholars deduce.
 
 ## What the texts say
 

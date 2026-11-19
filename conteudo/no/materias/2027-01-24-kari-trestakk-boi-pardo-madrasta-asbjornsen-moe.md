@@ -13,7 +13,7 @@ fontes:
 tags: [kari trestakk, asbjørnsen og moe, askepott, okse, folkeeventyr]
 ---
 
-*Kari Trestakk*, på engelsk *Katie Woodencloak* eller *Kari Woodengown*, er et norsk eventyr samlet av Peter Christen Asbjørnsen og Jørgen Moe i *Norske Folkeeventyr*. Den engelske Wikipedia-artikkelen som denne saken bygger på, oppsummerer handlingen, klassifiserer eventyret og peker på varianter. Andrew Lang tok det med i *Red Fairy Book*, der det står som «Kari Woodengown».
+*Kari Trestakk*, på engelsk *Katie Woodencloak* eller *Kari Woodengown*, er et norsk eventyr samlet av Peter Christen Asbjørnsen og Jørgen Moe i *Norske Folkeeventyr*. Kilden som denne saken bygger på, oppsummerer handlingen, klassifiserer eventyret og peker på varianter. Andrew Lang tok det med i *Red Fairy Book*, der det står som «Kari Woodengown».
 
 ## Handlingen
 

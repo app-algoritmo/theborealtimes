@@ -27,7 +27,7 @@ Kildene som er brukt, beskriver fylgjaen på måter som utfyller hverandre. Den 
 
 ## Sagaeksempler
 
-Wikipedia-speilet fra 2016 viser i *Hárvarðar saga Ísfirðings* til Atlis drøm, med atten ulver ledet av en revetispe, som varsler angrepet fra en hær med en trollmann i spissen. I *Gísla saga* blir Gísli oppsøkt av to kvinner, én som bringer lykke og én som driver ham mot vold; de kan representere kvinnelige forfedre knyttet til slekta hans. Disse eksemplene viser samtidig at lesningen er tolkende.
+Speilet fra 2016 som er brukt, viser i *Hárvarðar saga Ísfirðings* til Atlis drøm, med atten ulver ledet av en revetispe, som varsler angrepet fra en hær med en trollmann i spissen. I *Gísla saga* blir Gísli oppsøkt av to kvinner, én som bringer lykke og én som driver ham mot vold; de kan representere kvinnelige forfedre knyttet til slekta hans. Disse eksemplene viser samtidig at lesningen er tolkende.
 
 ## Fylgja og hamingja
 
@@ -39,6 +39,6 @@ Anthony Winterbourne, sitert på siden om Huginn og Muninn, knytter Odins ravner
 
 ## Hva som kan sies med forsiktighet
 
-Hurstwic-siden behandler ikke hamingja, og siden på Norse-mythology.org viser ikke til sagaer for fylgja. Wikipedia-speilet er fra 2016 og hviler på noen få forskeres tolkninger. Opphavet til ordet, som også betyr «etterbyrd», beskrives av kilden som «mystisk og uklart».
+Hurstwic-siden behandler ikke hamingja, og siden på Norse-mythology.org viser ikke til sagaer for fylgja. Speilet som er brukt, er fra 2016 og hviler på noen få forskeres tolkninger. Opphavet til ordet, som også betyr «etterbyrd», beskrives av kilden som «mystisk og uklart».
 
 For å lede en følgeånd over marka, ved å samle lys som får den til å vokse, uten å røre seg selv eller kantene, spill [Ånden som følger](/no/spill-anden-som-folger/).

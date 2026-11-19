@@ -19,7 +19,7 @@ Ullr is one of the most curious cases in Norse mythology: a god whose name is sc
 
 ## Sif and Thor
 
-According to the Wikipedia article consulted, Snorri Sturluson, in *Gylfaginning* (ch. 31), says Ullr is the son of Sif, with a father who is not named. That makes him Thor's stepson, and skaldic poetry confirms the relationship: the poem *Haustlöng*, Eilífr Goðrúnarson's *Þórsdrápa* and a fragment by Eysteinn Valdason call Thor Ullr's stepfather.
+According to the source consulted, Snorri Sturluson, in *Gylfaginning* (ch. 31), says Ullr is the son of Sif, with a father who is not named. That makes him Thor's stepson, and skaldic poetry confirms the relationship: the poem *Haustlöng*, Eilífr Goðrúnarson's *Þórsdrápa* and a fragment by Eysteinn Valdason call Thor Ullr's stepfather.
 
 ## What the poetry leaves
 

@@ -13,7 +13,7 @@ fontes:
 tags: [jomfruen på glassberget, montanha de vidro, asbjørnsen e moe, atu 530, conto norueguês]
 ---
 
-«A princesa na montanha de vidro», em norueguês *Jomfruen på glassberget*, também conhecida como «A donzela na montanha de vidro», é um conto norueguês que Peter Christen Asbjørnsen e Jørgen Moe reuniram em *Norske Folkeeventyr*. O artigo da Wikipédia em inglês que serve de base a esta matéria resume o enredo, classifica o conto e lista variantes e hipóteses sobre a origem. Foi lida a primeira metade do artigo, e a matéria se limita a ela.
+«A princesa na montanha de vidro», em norueguês *Jomfruen på glassberget*, também conhecida como «A donzela na montanha de vidro», é um conto norueguês que Peter Christen Asbjørnsen e Jørgen Moe reuniram em *Norske Folkeeventyr*. A fonte consultada resume o enredo, classifica o conto e lista variantes e hipóteses sobre a origem. Foi lida a primeira metade do artigo, e a matéria se limita a ela.
 
 ## O enredo
 

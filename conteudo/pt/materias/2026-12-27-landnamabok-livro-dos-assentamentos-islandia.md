@@ -15,7 +15,7 @@ fontes:
 tags: [landnámabók, islândia, assentamento, sturlubók, ari þorgilsson]
 ---
 
-Poucas sociedades têm um livro que lista quem fundou cada fazenda. A Islândia tem: a *Landnámabók*, o "Livro dos Assentamentos", que registra o povoamento da ilha nos séculos IX e X. Segundo o artigo da Wikipedia consultado, são cinco partes e 102 capítulos, com mais de três mil pessoas e cerca de 1.400 fazendas, e 435 colonos iniciais, entre eles mulheres.
+Poucas sociedades têm um livro que lista quem fundou cada fazenda. A Islândia tem: a *Landnámabók*, o "Livro dos Assentamentos", que registra o povoamento da ilha nos séculos IX e X. Segundo a fonte consultada, são cinco partes e 102 capítulos, com mais de três mil pessoas e cerca de 1.400 fazendas, e 435 colonos iniciais, entre eles mulheres.
 
 ## Como o livro é organizado
 

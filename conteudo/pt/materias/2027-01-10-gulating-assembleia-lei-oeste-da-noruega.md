@@ -1,6 +1,6 @@
 ---
 titulo: "O Gulating, a assembleia do oeste da Noruega: do ano 900 à lei escrita de Magnus Lagabøte"
-resumo: "O Gulating foi uma assembleia anual no oeste da Noruega, de cerca de 900 a 1300, e a Gulatingslova mais antiga é o registro mais antigo de lei norueguesa. Veja o que a Wikipedia reúne sobre o local, o rei Hákon, o Bom, as versões da lei e a multa de 189 cabeças de gado."
+resumo: "O Gulating foi uma assembleia anual no oeste da Noruega, de cerca de 900 a 1300, e a Gulatingslova mais antiga é o registro mais antigo de lei norueguesa. Veja o que a fonte consultada reúne sobre o local, o rei Hákon, o Bom, as versões da lei e a multa de 189 cabeças de gado."
 secao: "Era Viking"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [gulating, assembleia, lei, noruega, era viking]
 ---
 
-O Gulating foi, segundo o artigo da Wikipedia consultado, uma assembleia anual do oeste da Noruega que se reuniu de cerca de 900 a 1300. O local fica no município de Gulen, em Vestland, na costa oeste, ao norte de Bergen. A área original de sua lei cobria todo o atual Vestland.
+O Gulating foi, segundo a fonte consultada, uma assembleia anual do oeste da Noruega que se reuniu de cerca de 900 a 1300. O local fica no município de Gulen, em Vestland, na costa oeste, ao norte de Bergen. A área original de sua lei cobria todo o atual Vestland.
 
 ## Origem
 

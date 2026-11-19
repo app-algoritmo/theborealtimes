@@ -1,6 +1,6 @@
 ---
 titulo: "Morkinskinna, o \"pergaminho bolorento\": a saga dos reis da Noruega escrita na Islândia por volta de 1220"
-resumo: "Morkinskinna é uma saga de reis nórdica escrita na Islândia por volta de 1220, conservada num manuscrito de cerca de 1275. Veja o que a Wikipedia reúne sobre o nome, o período que cobre, as 270 estrofes citadas, os contos curtos e a relação com a Heimskringla."
+resumo: "Morkinskinna é uma saga de reis nórdica escrita na Islândia por volta de 1220, conservada num manuscrito de cerca de 1275. Veja o que a fonte consultada reúne sobre o nome, o período que cobre, as 270 estrofes citadas, os contos curtos e a relação com a Heimskringla."
 secao: "Sagas e Reis"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [morkinskinna, sagas de reis, islândia, escáldica, noruega]
 ---
 
-*Morkinskinna* quer dizer "pergaminho bolorento" e é, segundo o artigo da Wikipedia consultado, o nome original do manuscrito GKS 1009 fol. Trata-se de uma saga de reis do nórdico antigo, escrita na Islândia por volta de 1220.
+*Morkinskinna* quer dizer "pergaminho bolorento" e é, segundo a fonte consultada, o nome original do manuscrito GKS 1009 fol. Trata-se de uma saga de reis do nórdico antigo, escrita na Islândia por volta de 1220.
 
 ## O manuscrito
 

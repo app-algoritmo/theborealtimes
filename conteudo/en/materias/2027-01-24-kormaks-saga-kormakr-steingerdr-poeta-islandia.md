@@ -13,7 +13,7 @@ fontes:
 tags: [kormáks saga, kormákr, steingerðr, skalds, möðruvallabók]
 ---
 
-*Kormáks saga* is a saga of Icelanders about a 10th-century poet. The English Wikipedia article this piece relies on summarises the plot, the place of the verses and what is known of the text, and this piece follows that summary. It does not tell episodes that the article does not carry.
+*Kormáks saga* is a saga of Icelanders about a 10th-century poet. The source consulted for this piece summarises the plot, the place of the verses and what is known of the text, and this piece follows that summary. It does not tell episodes that the article does not carry.
 
 ## A poet and a bride
 

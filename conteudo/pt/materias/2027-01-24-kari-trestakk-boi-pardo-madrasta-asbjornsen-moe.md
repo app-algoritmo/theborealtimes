@@ -13,7 +13,7 @@ fontes:
 tags: [kari trestakk, asbjørnsen e moe, cinderela, boi, conto norueguês]
 ---
 
-*Kari Trestakk*, em inglês *Katie Woodencloak* ou *Kari Woodengown*, é um conto norueguês coletado por Peter Christen Asbjørnsen e Jørgen Moe em *Norske Folkeeventyr*. O artigo da Wikipédia em inglês que serve de base a esta matéria resume o enredo, classifica o conto e aponta variantes. Andrew Lang o incluiu no *Red Fairy Book*, onde aparece como "Kari Woodengown".
+*Kari Trestakk*, em inglês *Katie Woodencloak* ou *Kari Woodengown*, é um conto norueguês coletado por Peter Christen Asbjørnsen e Jørgen Moe em *Norske Folkeeventyr*. A fonte consultada resume o enredo, classifica o conto e aponta variantes. Andrew Lang o incluiu no *Red Fairy Book*, onde aparece como "Kari Woodengown".
 
 ## O enredo
 

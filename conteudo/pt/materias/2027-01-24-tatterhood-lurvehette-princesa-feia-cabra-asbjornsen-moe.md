@@ -13,7 +13,7 @@ fontes:
 tags: [tatterhood, lurvehette, asbjørnsen e moe, atu 711, conto norueguês]
 ---
 
-*Tatterhood*, em norueguês *Lurvehette*, é um conto norueguês coletado por Peter Christen Asbjørnsen e Jørgen Moe em *Norske Folkeeventyr*. O artigo da Wikipédia em inglês que serve de base a esta matéria cita a tradução de George Webbe Dasent, *Popular Tales from the Norse* (Edimburgo, 1888). Ele resume o enredo, classifica o conto e discute onde ele aparece. Ruth Manning-Sanders contou uma versão em *A Book of Witches* (1966), e o conto é parente de *Kate Crackernuts*.
+*Tatterhood*, em norueguês *Lurvehette*, é um conto norueguês coletado por Peter Christen Asbjørnsen e Jørgen Moe em *Norske Folkeeventyr*. A fonte consultada cita a tradução de George Webbe Dasent, *Popular Tales from the Norse* (Edimburgo, 1888). Ele resume o enredo, classifica o conto e discute onde ele aparece. Ruth Manning-Sanders contou uma versão em *A Book of Witches* (1966), e o conto é parente de *Kate Crackernuts*.
 
 ## O enredo
 

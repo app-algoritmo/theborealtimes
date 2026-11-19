@@ -1,6 +1,6 @@
 ---
 titulo: "Os anões do Edda: vermes na carne de Ymir, ferreiros dos deuses e pedras ao nascer do sol"
-resumo: "Os dvergar nascem do corpo de Ymir, forjam o martelo de Thor e viram pedra com a luz do dia. Veja o que a Wikipedia reúne sobre os anões nas fontes nórdicas e alemãs, e o que ninguém sabe ao certo, como o tamanho deles."
+resumo: "Os dvergar nascem do corpo de Ymir, forjam o martelo de Thor e viram pedra com a luz do dia. Veja o que a fonte consultada reúne sobre os anões nas fontes nórdicas e alemãs, e o que ninguém sabe ao certo, como o tamanho deles."
 secao: "Mitos e Deuses"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [anões, dvergar, ymir, sindri, andvari]
 ---
 
-Os anões vêm de tantos lugares da imaginação germânica que é difícil resumi-los. O artigo da Wikipedia consultado trata dos *dvergar* nórdicos e de seus parentes do alemão e do inglês, e mostra que o que hoje se pensa deles, pequenos, barbudos e com picareta, é só uma parte da história.
+Os anões vêm de tantos lugares da imaginação germânica que é difícil resumi-los. A fonte consultada trata dos *dvergar* nórdicos e de seus parentes do alemão e do inglês, e mostra que o que hoje se pensa deles, pequenos, barbudos e com picareta, é só uma parte da história.
 
 ## O nome
 

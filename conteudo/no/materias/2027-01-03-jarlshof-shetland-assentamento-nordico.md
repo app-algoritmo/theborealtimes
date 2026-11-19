@@ -1,6 +1,6 @@
 ---
 titulo: "Jarlshof på Shetland: fire tusen år med oppå hverandre bygde hus og et norrønt langhus"
-resumo: "Ved Jarlshof, sør på Shetland, avdekket en storm lag av bosetning fra bronsealderen til middelalderen. Se hva Wikipedia samler om det norrøne langhuset, vevtyngdene, steintegningene av skip og navnet som Walter Scott fant på."
+resumo: "Ved Jarlshof, sør på Shetland, avdekket en storm lag av bosetning fra bronsealderen til middelalderen. Se hva kilden som er brukt samler om det norrøne langhuset, vevtyngdene, steintegningene av skip og navnet som Walter Scott fant på."
 secao: "Vikingtid"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jarlshof, shetland, sumburgh, langhus, arkeologi]
 ---
 
-Jarlshof ligger lengst sør på Mainland på Shetland, nær Sumburgh Head. Ifølge Wikipedia-artikkelen som er brukt, er det et av de viktigste arkeologiske stedene i Skottland, fordi det samler fire tusen år med menneskelig bosetning, oppå hverandre. Stormen som avdekket det, skjedde seint på 1800-tallet, og den formelle utgravningen begynte i 1925.
+Jarlshof ligger lengst sør på Mainland på Shetland, nær Sumburgh Head. Ifølge kilden som er brukt, er det et av de viktigste arkeologiske stedene i Skottland, fordi det samler fire tusen år med menneskelig bosetning, oppå hverandre. Stormen som avdekket det, skjedde seint på 1800-tallet, og den formelle utgravningen begynte i 1925.
 
 ## Lag av tid
 

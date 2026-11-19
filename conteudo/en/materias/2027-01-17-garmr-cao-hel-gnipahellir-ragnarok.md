@@ -1,6 +1,6 @@
 ---
 titulo: "Garmr, the hound that howls before Gnipahellir: what the Norse sources tell"
-resumo: "Garmr is a wolf or dog tied to Hel and to Ragnarök, the \"blood-stained guardian\" of the gate of the dead. See what Wikipedia gathers about the Völuspá refrain, the Baldrs draumar, the Gylfaginning, the duel with Týr and the debate about Fenrir and Cerberus."
+resumo: "Garmr is a wolf or dog tied to Hel and to Ragnarök, the \"blood-stained guardian\" of the gate of the dead. See what the source consulted gathers about the Völuspá refrain, the Baldrs draumar, the Gylfaginning, the duel with Týr and the debate about Fenrir and Cerberus."
 secao: "Myths & Gods"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [garmr, hel, gnipahellir, völuspá, ragnarök]
 ---
 
-Garmr, also written Garm, is a wolf or dog of Norse mythology tied to Hel and to Ragnarök. The Wikipedia article consulted describes him as a "blood-stained guardian" of the gate of Hel. Below is what the text gathers from each source.
+Garmr, also written Garm, is a wolf or dog of Norse mythology tied to Hel and to Ragnarök. The source consulted describes him as a "blood-stained guardian" of the gate of Hel. Below is what the text gathers from each source.
 
 ## The sources
 

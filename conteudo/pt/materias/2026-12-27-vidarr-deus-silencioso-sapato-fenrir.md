@@ -19,7 +19,7 @@ Entre os deuses que sobrevivem ao fim do mundo, um quase não fala. Víðarr, fi
 
 ## O que dizem as fontes
 
-Segundo o artigo da Wikipedia consultado, a Edda Poética dá três pistas. Na *Völuspá* (estrofes 54 e 55), a vidente diz que Víðarr vingará Odin cravando a espada no coração de Fenrir. No *Vafþrúðnismál* (estrofes 51 e 53), diz-se que ele rasgará as mandíbulas do lobo e que ele e o irmão Váli viverão nos templos dos deuses depois do fogo de Surtr. No *Grímnismál* (estrofe 17), Odin descreve a morada dele, uma terra de moitas e capim alto, e diz que ele é ansioso para vingar o pai. No *Lokasenna* (estrofe 10), Odin o manda servir bebida a Loki.
+Segundo a fonte consultada, a Edda Poética dá três pistas. Na *Völuspá* (estrofes 54 e 55), a vidente diz que Víðarr vingará Odin cravando a espada no coração de Fenrir. No *Vafþrúðnismál* (estrofes 51 e 53), diz-se que ele rasgará as mandíbulas do lobo e que ele e o irmão Váli viverão nos templos dos deuses depois do fogo de Surtr. No *Grímnismál* (estrofe 17), Odin descreve a morada dele, uma terra de moitas e capim alto, e diz que ele é ansioso para vingar o pai. No *Lokasenna* (estrofe 10), Odin o manda servir bebida a Loki.
 
 Já a Edda em Prosa, de Snorri, o chama de "deus silencioso" na *Gylfaginning* (cap. 29): ele tem um sapato grosso, é quase tão forte quanto Thor, e os deuses contam com ele nas grandes dificuldades. No cap. 51, depois que Fenrir engole Odin, Víðarr pisa a mandíbula inferior do lobo, agarra a superior e rasga a boca dele.
 

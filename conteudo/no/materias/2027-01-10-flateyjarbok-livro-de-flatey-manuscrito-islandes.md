@@ -1,6 +1,6 @@
 ---
 titulo: "Flateyjarbók, Flatøybok: 225 pergamentblad skrevet på Island på 1300-tallet"
-resumo: "Flateyjarbók er en islandsk håndskrift på 225 pergamentblad, skrevet og illustrert av to prester mellom 1387 og 1394. Se hva Wikipedia samler om hvem som bestilte den, hva den inneholder, hvordan den havnet i København og når den kom tilbake til Island."
+resumo: "Flateyjarbók er en islandsk håndskrift på 225 pergamentblad, skrevet og illustrert av to prester mellom 1387 og 1394. Se hva kilden som er brukt samler om hvem som bestilte den, hva den inneholder, hvordan den havnet i København og når den kom tilbake til Island."
 secao: "Sagaer og konger"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [flateyjarbók, håndskrift, island, sagaer, magnús þórhallsson]
 ---
 
-*Flateyjarbók*, også kalt GkS 1005 fol. og *Codex Flateyensis*, er en islandsk middelalderhåndskrift på 225 pergamentblad, skrevet og illustrert. Ifølge Wikipedia-artikkelen som er brukt, ble den bestilt av ridderen og lovsigemannen Jón Hákonarson.
+*Flateyjarbók*, også kalt GkS 1005 fol. og *Codex Flateyensis*, er en islandsk middelalderhåndskrift på 225 pergamentblad, skrevet og illustrert. Ifølge kilden som er brukt, ble den bestilt av ridderen og lovsigemannen Jón Hákonarson.
 
 ## Hvem som skrev
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Håkon Sigurdsson, jarl av Lade: herren over Norge som døde i en grisebinge"
-resumo: "Håkon Sigurdsson styrte Nord-Norge som jarl av Lade og, i teorien, vasall av Danmark. Se hva Wikipedia samler om livet hans, krigen mot Olav Tryggvason og døden for hånden til en slave og venn ved navn Kark."
+resumo: "Håkon Sigurdsson styrte Nord-Norge som jarl av Lade og, i teorien, vasall av Danmark. Se hva kilden som er brukt samler om livet hans, krigen mot Olav Tryggvason og døden for hånden til en slave og venn ved navn Kark."
 secao: "Sagaer og konger"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [håkon jarl, ladejarl, trøndelag, kark, harald blåtann]
 ---
 
-Håkon Sigurdsson, også kalt Håkon jarl, ble født rundt 937 og var herre over Nord-Norge på Harald Blåtanns og Olav Tryggvasons tid. Ifølge Wikipedia-artikkelen som er brukt, var han sønn av Sigurd Håkonsson, jarl av Lade, i Trøndelag og Hålogaland, og av Bergljot Toresdatter.
+Håkon Sigurdsson, også kalt Håkon jarl, ble født rundt 937 og var herre over Nord-Norge på Harald Blåtanns og Olav Tryggvasons tid. Ifølge kilden som er brukt, var han sønn av Sigurd Håkonsson, jarl av Lade, i Trøndelag og Hålogaland, og av Bergljot Toresdatter.
 
 ## Ladejarlenes ætt
 

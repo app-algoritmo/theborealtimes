@@ -1,6 +1,6 @@
 ---
 titulo: "Jón Árnason og de islandske folkeeventyrene: samlingen utgitt i Leipzig i 1862 og 1864"
-resumo: "Jón Árnason (1819–1888) var bibliotekar på Island og samlet Íslenzkar þjóðsögur og æfintýri, utgitt i to bind i Leipzig. Se hva Wikipedia samler om livet hans, samarbeidet med Magnús Grímsson, Konrad Maurers oppmuntring, innflytelsen fra brødrene Grimm og senere utgaver."
+resumo: "Jón Árnason (1819–1888) var bibliotekar på Island og samlet Íslenzkar þjóðsögur og æfintýri, utgitt i to bind i Leipzig. Se hva kilden som er brukt samler om livet hans, samarbeidet med Magnús Grímsson, Konrad Maurers oppmuntring, innflytelsen fra brødrene Grimm og senere utgaver."
 secao: "Eventyr og folketro"
 natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jón árnason, islandsk folketro, þjóðsögur, konrad maurer, leipzig]
 ---
 
-Jón Árnason ble født 17. august 1819 på Hof på Island og døde 4. september 1888 i Reykjavík, 69 år gammel. Wikipedia-artikkelen som er brukt, samler det som er kjent om livet hans og om samlingen som gjorde ham kjent.
+Jón Árnason ble født 17. august 1819 på Hof på Island og døde 4. september 1888 i Reykjavík, 69 år gammel. Kilden som er brukt, samler det som er kjent om livet hans og om samlingen som gjorde ham kjent.
 
 ## Bibliotekaren
 

@@ -14,7 +14,7 @@ fontes:
 tags: [beaivi, sámi, sun, drum, offerings]
 ---
 
-In Sámi religious thought, the Sun is not only a star: it is also a deity, and the same word serves for both. This is Beaivi, also written Beiwe, Bievve, Beivve or Biejje. The Wikipedia article consulted describes her as linked to the sun, spring and sanity, and to the fertility of plants and animals, especially reindeer.
+In Sámi religious thought, the Sun is not only a star: it is also a deity, and the same word serves for both. This is Beaivi, also written Beiwe, Bievve, Beivve or Biejje. The source consulted describes her as linked to the sun, spring and sanity, and to the fertility of plants and animals, especially reindeer.
 
 ## Woman or man
 

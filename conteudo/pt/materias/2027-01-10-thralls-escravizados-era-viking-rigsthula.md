@@ -1,6 +1,6 @@
 ---
 titulo: "Thralls: os escravizados da Era Viking, entre o karl livre e o jarl nobre"
-resumo: "Os thralls (þrælar) eram os escravizados da Escandinávia da Era Viking, abaixo do karl, o homem livre, e do jarl, o nobre. Veja o que a Wikipedia reúne sobre como alguém se tornava thrall, o que fazia, como podia ser libertado e como a escravidão acabou."
+resumo: "Os thralls (þrælar) eram os escravizados da Escandinávia da Era Viking, abaixo do karl, o homem livre, e do jarl, o nobre. Veja o que a fonte consultada reúne sobre como alguém se tornava thrall, o que fazia, como podia ser libertado e como a escravidão acabou."
 secao: "Era Viking"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [thralls, escravidão, era viking, rígsþula, leysingi]
 ---
 
-Segundo o artigo da Wikipedia consultado, o *thrall* (em nórdico antigo, *þræll*) era um escravizado ou servo da Escandinávia na Era Viking, abaixo do *karl*, o homem livre, e do *jarl*, o nobre. O artigo cita a *Rígsþula* para essa ordem de três degraus. A palavra vem de uma raiz germânica que significa "corredor".
+Segundo a fonte consultada, o *thrall* (em nórdico antigo, *þræll*) era um escravizado ou servo da Escandinávia na Era Viking, abaixo do *karl*, o homem livre, e do *jarl*, o nobre. O artigo cita a *Rígsþula* para essa ordem de três degraus. A palavra vem de uma raiz germânica que significa "corredor".
 
 ## Como alguém se tornava thrall
 

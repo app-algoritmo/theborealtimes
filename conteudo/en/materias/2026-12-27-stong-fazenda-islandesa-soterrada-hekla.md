@@ -19,7 +19,7 @@ Iceland has few medieval houses still standing, but one of them was preserved in
 
 ## The volcano
 
-The Wikipedia article says the farm is "believed" to have been buried in 1104, when Hekla erupted. EXARC tells that, in the 1930s, excavators examined about 40 farms in the valley destroyed suddenly in 1104, and that Stöng was among the best preserved. The inhabitants, the text says, were chiefs of the district. The tourist guide adds a list of Hekla eruptions and claims the site was inhabited almost continuously until about 1300, which does not match the 1104 date, and itself notes that the cold may have contributed. The sources do not agree on this point.
+The source consulted says the farm is "believed" to have been buried in 1104, when Hekla erupted. EXARC tells that, in the 1930s, excavators examined about 40 farms in the valley destroyed suddenly in 1104, and that Stöng was among the best preserved. The inhabitants, the text says, were chiefs of the district. The tourist guide adds a list of Hekla eruptions and claims the site was inhabited almost continuously until about 1300, which does not match the 1104 date, and itself notes that the cold may have contributed. The sources do not agree on this point.
 
 ## The excavation
 

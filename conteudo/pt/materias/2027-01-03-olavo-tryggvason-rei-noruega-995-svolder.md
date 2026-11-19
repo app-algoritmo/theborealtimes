@@ -1,6 +1,6 @@
 ---
 titulo: "Olavo Tryggvason: o rei da Noruega que impôs o cristianismo e sumiu em Svolder"
-resumo: "Olavo Tryggvason reinou na Noruega de 995 a 1000, converteu o país à força e morreu, ou desapareceu, na batalha de Svolder. Veja o que a Wikipedia reúne sobre a infância como escravo, os saques na Inglaterra e as fontes tardias."
+resumo: "Olavo Tryggvason reinou na Noruega de 995 a 1000, converteu o país à força e morreu, ou desapareceu, na batalha de Svolder. Veja o que a fonte consultada reúne sobre a infância como escravo, os saques na Inglaterra e as fontes tardias."
 secao: "Sagas e Reis"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [olavo tryggvason, svolder, noruega, cristianização, ormrinn langi]
 ---
 
-Olavo Tryggvason foi rei da Noruega de 995 até setembro do ano 1000. Segundo o artigo da Wikipedia consultado, nasceu na década de 960, e as datas propostas vão de 964 a 969. As fontes que contam sua vida foram escritas muito depois dele, e os historiadores modernos não assumem que sejam exatas.
+Olavo Tryggvason foi rei da Noruega de 995 até setembro do ano 1000. Segundo a fonte consultada, nasceu na década de 960, e as datas propostas vão de 964 a 969. As fontes que contam sua vida foram escritas muito depois dele, e os historiadores modernos não assumem que sejam exatas.
 
 ## Origem e infância
 

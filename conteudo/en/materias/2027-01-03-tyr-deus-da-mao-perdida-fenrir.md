@@ -1,6 +1,6 @@
 ---
 titulo: "Týr: the god who put his hand in the wolf's mouth and gave his name to Tuesday"
-resumo: "Týr gave his right hand to Fenrir so the gods could chain him. See what Wikipedia gathers about him, from Tacitus to the runes, and why some scholars think he was once a far more important god."
+resumo: "Týr gave his right hand to Fenrir so the gods could chain him. See what the source consulted gathers about him, from Tacitus to the runes, and why some scholars think he was once a far more important god."
 secao: "Myths & Gods"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -14,7 +14,7 @@ fontes:
 tags: [týr, fenrir, gleipnir, tuesday, ragnarök]
 ---
 
-Týr is a god of Germanic mythology and a member of the Æsir. What defines him most is a gesture: according to the Wikipedia article consulted, he sacrifices his right hand to the wolf Fenrir, who bites it off when the gods bind him. And he is fated to die at Ragnarök fighting the dog Garmr. The Prose Edda says each will be the other's death.
+Týr is a god of Germanic mythology and a member of the Æsir. What defines him most is a gesture: according to the source consulted, he sacrifices his right hand to the wolf Fenrir, who bites it off when the gods bind him. And he is fated to die at Ragnarök fighting the dog Garmr. The Prose Edda says each will be the other's death.
 
 ## The name
 

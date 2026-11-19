@@ -1,6 +1,6 @@
 ---
 titulo: "Olaf Tryggvason: the king of Norway who imposed Christianity and vanished at Svolder"
-resumo: "Olaf Tryggvason ruled Norway from 995 to 1000, converted the country by force and died, or vanished, at the battle of Svolder. See what Wikipedia gathers on his childhood as a slave, the raids on England and the late sources."
+resumo: "Olaf Tryggvason ruled Norway from 995 to 1000, converted the country by force and died, or vanished, at the battle of Svolder. See what the source consulted gathers on his childhood as a slave, the raids on England and the late sources."
 secao: "Sagas & Kings"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [olaf tryggvason, svolder, norway, christianisation, ormrinn langi]
 ---
 
-Olaf Tryggvason was king of Norway from 995 until September of the year 1000. According to the Wikipedia article consulted, he was born in the 960s, and the proposed dates run from 964 to 969. The sources that tell his life were written long after him, and modern historians do not assume they are accurate.
+Olaf Tryggvason was king of Norway from 995 until September of the year 1000. According to the source consulted, he was born in the 960s, and the proposed dates run from 964 to 969. The sources that tell his life were written long after him, and modern historians do not assume they are accurate.
 
 ## Origin and childhood
 

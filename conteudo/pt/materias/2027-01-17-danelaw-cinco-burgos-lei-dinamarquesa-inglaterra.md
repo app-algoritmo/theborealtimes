@@ -1,6 +1,6 @@
 ---
 titulo: "O Danelaw, a \"lei dos dinamarqueses\" na Inglaterra: o tratado, os Cinco Burgos e os nomes de lugar"
-resumo: "O Danelaw foi a parte da Inglaterra sob lei escandinava depois do tratado entre Alfredo e Guthrum. Veja o que a Wikipedia reúne sobre o nome, o tratado, os Cinco Burgos, os nomes de lugar em -by e -thorp, a reconquista no século X e as dúvidas que sobram."
+resumo: "O Danelaw foi a parte da Inglaterra sob lei escandinava depois do tratado entre Alfredo e Guthrum. Veja o que a fonte consultada reúne sobre o nome, o tratado, os Cinco Burgos, os nomes de lugar em -by e -thorp, a reconquista no século X e as dúvidas que sobram."
 secao: "Era Viking"
 natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [danelaw, cinco burgos, alfredo, guthrum, inglaterra]
 ---
 
-O Danelaw é o nome dado à parte da Inglaterra onde valia a lei escandinava. O artigo da Wikipedia consultado reúne o que se sabe sobre o nome, o tratado que o criou, as cidades fortificadas e as marcas que ele deixou.
+O Danelaw é o nome dado à parte da Inglaterra onde valia a lei escandinava. A fonte consultada reúne o que se sabe sobre o nome, o tratado que o criou, as cidades fortificadas e as marcas que ele deixou.
 
 ## O nome
 

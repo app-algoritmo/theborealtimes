@@ -1,6 +1,6 @@
 ---
 titulo: "Áhkká: den samiske fødselsgudinnen og de tre døtrene som voktet ilden, døra og buen"
-resumo: "For samene tok Máttaráhkká og de tre døtrene, Sáráhkká, Juoksáhkká og Uksáhkká, seg av fødselen: ilden, buen og døra i teltet. Se hva Wikipedia samler om hver av dem, ofrene, navnegivingen og hva som er usikkert."
+resumo: "For samene tok Máttaráhkká og de tre døtrene, Sáráhkká, Juoksáhkká og Uksáhkká, seg av fødselen: ilden, buen og døra i teltet. Se hva kilden som er brukt samler om hver av dem, ofrene, navnegivingen og hva som er usikkert."
 secao: "Eventyr og folketro"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -15,7 +15,7 @@ fontes:
 tags: [áhkká, samisk, sáráhkká, máttaráhkká, gudinner]
 ---
 
-I den tradisjonelle samiske religionen ble fødselen av et barn tatt vare på av fire kvinnelige skikkelser kalt *Áhkká*, «bestemor» eller «kvinne». Ifølge Wikipedia-artiklene som er brukt, var den eldste Máttaráhkká, «opphavskvinnen», som bor under *goahti*, teltet, og har ansvaret for fødsel og fruktbarhet. Det ble ofret drikke til henne.
+I den tradisjonelle samiske religionen ble fødselen av et barn tatt vare på av fire kvinnelige skikkelser kalt *Áhkká*, «bestemor» eller «kvinne». Ifølge kildene som er brukt, var den eldste Máttaráhkká, «opphavskvinnen», som bor under *goahti*, teltet, og har ansvaret for fødsel og fruktbarhet. Det ble ofret drikke til henne.
 
 ## De tre døtrene
 

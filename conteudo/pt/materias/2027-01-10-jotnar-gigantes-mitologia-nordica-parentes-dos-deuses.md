@@ -1,6 +1,6 @@
 ---
 titulo: "Os jötnar, os gigantes da mitologia nórdica: parentes e rivais dos deuses"
-resumo: "Os jötnar são os seres traduzidos como gigantes na mitologia nórdica, e vários deuses descendem ou casaram com eles. Veja o que a lista da Wikipedia reúne sobre Bestla, Fárbauti, Jörð, Skaði, Gerðr, Mímir, Hrungnir e outros."
+resumo: "Os jötnar são os seres traduzidos como gigantes na mitologia nórdica, e vários deuses descendem ou casaram com eles. Veja o que a lista consultada reúne sobre Bestla, Fárbauti, Jörð, Skaði, Gerðr, Mímir, Hrungnir e outros."
 secao: "Mitos e Deuses"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jötnar, gigantes, mitologia nórdica, Odin, Loki]
 ---
 
-A lista de jötnar da Wikipedia abre dizendo que *jötnar* e *gýgjar* costumam ser traduzidos como gigantes e giganta. Muitos só são conhecidos por listas de nomes feitas para escaldos, na Idade Média, e entram na lista "por completude". Isso já avisa de algo: o que se sabe deles é desigual, e a imagem de um único povo de gigantes é uma simplificação.
+A lista de jötnar consultada abre dizendo que *jötnar* e *gýgjar* costumam ser traduzidos como gigantes e giganta. Muitos só são conhecidos por listas de nomes feitas para escaldos, na Idade Média, e entram na lista "por completude". Isso já avisa de algo: o que se sabe deles é desigual, e a imagem de um único povo de gigantes é uma simplificação.
 
 ## Parentes dos deuses
 

@@ -27,7 +27,7 @@ As fontes consultadas descrevem a fylgja de modos que se completam. Ela pode via
 
 ## Exemplos de sagas
 
-O espelho de 2016 da Wikipedia cita na *Hárvarðar saga Ísfirðings* o sonho de Atli, com dezoito lobos guiados por uma raposa, que anuncia o ataque de um exército com um feiticeiro à frente. Na *Gísla saga*, Gísli é visitado por duas mulheres, uma que traz boa sorte e outra que o empurra à violência; podem representar ancestrais femininas ligadas à família dele. Esses exemplos, ao mesmo tempo, mostram que a leitura é interpretativa.
+O espelho consultado, de 2016, cita na *Hárvarðar saga Ísfirðings* o sonho de Atli, com dezoito lobos guiados por uma raposa, que anuncia o ataque de um exército com um feiticeiro à frente. Na *Gísla saga*, Gísli é visitado por duas mulheres, uma que traz boa sorte e outra que o empurra à violência; podem representar ancestrais femininas ligadas à família dele. Esses exemplos, ao mesmo tempo, mostram que a leitura é interpretativa.
 
 ## Fylgja e hamingja
 
@@ -39,6 +39,6 @@ Anthony Winterbourne, citado na página sobre Huginn e Muninn, liga os corvos de
 
 ## O que se pode dizer com cuidado
 
-A página do Hurstwic não trata da hamingja, e a de Norse-mythology.org não cita sagas para a fylgja. O espelho da Wikipedia é de 2016 e apoia-se em interpretações de poucos estudiosos. A origem do termo, que também significa "placenta" ou "secundinas", é descrita pela fonte como "misteriosa e incerta".
+A página do Hurstwic não trata da hamingja, e a de Norse-mythology.org não cita sagas para a fylgja. O espelho consultado é de 2016 e apoia-se em interpretações de poucos estudiosos. A origem do termo, que também significa "placenta" ou "secundinas", é descrita pela fonte como "misteriosa e incerta".
 
 Para conduzir um espírito acompanhante pelo campo, recolhendo luzes que o fazem crescer, sem encostar nele mesmo nem nas bordas, jogue [O espírito que segue](/jogo-o-espirito-que-segue/).

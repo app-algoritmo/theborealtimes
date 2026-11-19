@@ -1,6 +1,6 @@
 ---
 titulo: "Fagrskinna, «Det fagre pergament»: historien om Norges konger skrevet omkring 1220"
-resumo: "Fagrskinna er en historie om Norge fra 800-tallet til 1100-tallet, skrevet omkring 1220 av en ukjent forfatter. Se hva Wikipedia samler om perioden den dekker, skaldevers, de sannsynlige kildene, forbindelsen med Morkinskinna og Heimskringla og hva teksten ikke lar oss hevde."
+resumo: "Fagrskinna er en historie om Norge fra 800-tallet til 1100-tallet, skrevet omkring 1220 av en ukjent forfatter. Se hva kilden som er brukt samler om perioden den dekker, skaldevers, de sannsynlige kildene, forbindelsen med Morkinskinna og Heimskringla og hva teksten ikke lar oss hevde."
 secao: "Sagaer og konger"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [fagrskinna, kongesagaer, norge, skalder, morkinskinna]
 ---
 
-*Fagrskinna* er en historie om Norges konger, skrevet på norrønt. Wikipedia-artikkelen som er brukt, daterer den til omkring 1220 og sier at forfatteren er ukjent: det antas ofte at den ble skrevet i Norge, av en islending eller av en nordmann.
+*Fagrskinna* er en historie om Norges konger, skrevet på norrønt. Kilden som er brukt, daterer den til omkring 1220 og sier at forfatteren er ukjent: det antas ofte at den ble skrevet i Norge, av en islending eller av en nordmann.
 
 ## Hva den dekker
 

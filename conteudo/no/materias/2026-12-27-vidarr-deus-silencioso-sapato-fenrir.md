@@ -19,7 +19,7 @@ Blant gudene som overlever verdens ende, er det en som nesten ikke sier noe. Ví
 
 ## Hva kildene sier
 
-Ifølge Wikipedia-artikkelen gir Den poetiske Edda tre spor. I *Völuspá* (strofe 54 og 55) sier volven at Víðarr skal hevne Odin ved å støte sverdet i hjertet på Fenrir. I *Vafþrúðnismál* (strofe 51 og 53) sies det at han skal sprenge ulvens kjefter, og at han og broren Vále skal bo i gudenes templer etter Surtrs ild. I *Grímnismál* (strofe 17) beskriver Odin boligen hans, et land med kratt og høyt gress, og sier at han er ivrig etter å hevne faren. I *Lokasenna* (strofe 10) ber Odin ham skjenke i drikke til Loke.
+Ifølge kilden gir Den poetiske Edda tre spor. I *Völuspá* (strofe 54 og 55) sier volven at Víðarr skal hevne Odin ved å støte sverdet i hjertet på Fenrir. I *Vafþrúðnismál* (strofe 51 og 53) sies det at han skal sprenge ulvens kjefter, og at han og broren Vále skal bo i gudenes templer etter Surtrs ild. I *Grímnismál* (strofe 17) beskriver Odin boligen hans, et land med kratt og høyt gress, og sier at han er ivrig etter å hevne faren. I *Lokasenna* (strofe 10) ber Odin ham skjenke i drikke til Loke.
 
 Snorres Edda kaller ham «den tause guden» i *Gylfaginning* (kap. 29): han har en tykk sko, er nesten like sterk som Tor, og gudene stoler på ham i store vanskeligheter. I kap. 51, etter at Fenrir har slukt Odin, setter Víðarr foten på ulvens underkjeve, griper overkjeven og river kjeften i stykker.
 

@@ -13,7 +13,7 @@ fontes:
 tags: [heiðarvíga saga, egill skallagrímsson, copenhague 1728, jón grunnvíkingur, feud]
 ---
 
-A *Heiðarvíga saga*, "a história dos combates da charneca", é uma das sagas dos islandeses. O artigo da Wikipédia em inglês que serve de base a esta matéria a descreve como mal conservada, e é essa a primeira coisa que o leitor precisa saber: parte do texto se perdeu e só se conhece por um resumo. A matéria se limita ao que o artigo traz, que é pouco, e diz isso onde for preciso.
+A *Heiðarvíga saga*, "a história dos combates da charneca", é uma das sagas dos islandeses. A fonte consultada a descreve como mal conservada, e é essa a primeira coisa que o leitor precisa saber: parte do texto se perdeu e só se conhece por um resumo. A matéria se limita ao que o artigo traz, que é pouco, e diz isso onde for preciso.
 
 ## Uma saga mal conservada
 

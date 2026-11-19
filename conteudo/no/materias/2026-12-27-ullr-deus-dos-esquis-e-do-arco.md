@@ -19,7 +19,7 @@ Ullr er et av de merkeligste tilfellene i norrøn mytologi: en gud med navn spre
 
 ## Sif og Tor
 
-Ifølge Wikipedia-artikkelen sier Snorre Sturlason i *Gylfaginning* (kap. 31) at Ullr er sønn av Sif, med en far som ikke er nevnt. Det gjør ham til Tors stesønn, og skaldediktningen bekrefter forholdet: diktet *Haustlöng*, Eilífr Goðrúnarsons *Þórsdrápa* og et fragment av Eysteinn Valdason kaller Tor Ullrs stefar.
+Ifølge kilden sier Snorre Sturlason i *Gylfaginning* (kap. 31) at Ullr er sønn av Sif, med en far som ikke er nevnt. Det gjør ham til Tors stesønn, og skaldediktningen bekrefter forholdet: diktet *Haustlöng*, Eilífr Goðrúnarsons *Þórsdrápa* og et fragment av Eysteinn Valdason kaller Tor Ullrs stefar.
 
 ## Hva diktningen etterlater
 

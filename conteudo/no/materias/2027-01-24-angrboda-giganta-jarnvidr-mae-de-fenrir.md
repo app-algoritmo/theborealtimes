@@ -13,7 +13,7 @@ fontes:
 tags: [angrboða, járnviðr, fenrir, loke, völuspá]
 ---
 
-Angrboða er en jotunkvinne i norrøn mytologi, fremstilt som Lokes make og mor til monstre. Den engelske Wikipedia-artikkelen som denne saken bygger på, viser at kildene sier lite om henne, og at en del av det som sies, er slutninger. Denne saken skiller mellom det som er belagt, og det forskere utleder.
+Angrboða er en jotunkvinne i norrøn mytologi, fremstilt som Lokes make og mor til monstre. Kilden som denne saken bygger på, viser at kildene sier lite om henne, og at en del av det som sies, er slutninger. Denne saken skiller mellom det som er belagt, og det forskere utleder.
 
 ## Hva tekstene sier
 

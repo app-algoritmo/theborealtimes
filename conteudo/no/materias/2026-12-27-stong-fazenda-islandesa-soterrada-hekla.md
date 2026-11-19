@@ -19,7 +19,7 @@ Island har få middelalderhus som fortsatt står, men ett av dem ble bevart på 
 
 ## Vulkanen
 
-Wikipedia-artikkelen sier at gården «antas» å ha blitt begravd i 1104, da Hekla hadde utbrudd. EXARC forteller at utgravere på 1930-tallet undersøkte omtrent 40 gårder i dalen som ble brått ødelagt i 1104, og at Stöng var blant de best bevarte. Beboerne, sier teksten, var høvdinger i distriktet. Turistguiden legger til en liste over Hekla-utbrudd og hevder at stedet var bebodd nesten uavbrutt til omkring 1300, noe som ikke stemmer med året 1104, og merker selv at kulden kan ha bidratt. Kildene er ikke enige på dette punktet.
+Kilden sier at gården «antas» å ha blitt begravd i 1104, da Hekla hadde utbrudd. EXARC forteller at utgravere på 1930-tallet undersøkte omtrent 40 gårder i dalen som ble brått ødelagt i 1104, og at Stöng var blant de best bevarte. Beboerne, sier teksten, var høvdinger i distriktet. Turistguiden legger til en liste over Hekla-utbrudd og hevder at stedet var bebodd nesten uavbrutt til omkring 1300, noe som ikke stemmer med året 1104, og merker selv at kulden kan ha bidratt. Kildene er ikke enige på dette punktet.
 
 ## Utgravingen
 

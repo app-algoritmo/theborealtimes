@@ -13,7 +13,7 @@ fontes:
 tags: [hønir, æsene, völuspá, ynglingesaga, lokka táttur]
 ---
 
-Hønir er en av æsene, de viktigste gudene i norrøn mytologi, og en skikkelse med få opptredener. Den engelske Wikipedia-artikkelen som denne saken bygger på, samler det kildene sier om ham: en passasje om skapelsen, et opphold som gissel, en beskyttende rolle i en ballade fra Færøyene og en hypotese som knytter ham til fugler. Det er lurt å lese hvert punkt for seg, for tekstene er ikke enige med hverandre.
+Hønir er en av æsene, de viktigste gudene i norrøn mytologi, og en skikkelse med få opptredener. Kilden som denne saken bygger på, samler det kildene sier om ham: en passasje om skapelsen, et opphold som gissel, en beskyttende rolle i en ballade fra Færøyene og en hypotese som knytter ham til fugler. Det er lurt å lese hvert punkt for seg, for tekstene er ikke enige med hverandre.
 
 ## En av tre som skapte menneskene
 

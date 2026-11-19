@@ -1,6 +1,6 @@
 ---
 titulo: "The jötnar, the giants of Norse mythology: kin and rivals of the gods"
-resumo: "The jötnar are the beings translated as giants in Norse mythology, and several gods descend from them or married them. See what Wikipedia's list gathers on Bestla, Fárbauti, Jörð, Skaði, Gerðr, Mímir, Hrungnir and others."
+resumo: "The jötnar are the beings translated as giants in Norse mythology, and several gods descend from them or married them. See what the list consulted gathers on Bestla, Fárbauti, Jörð, Skaði, Gerðr, Mímir, Hrungnir and others."
 secao: "Myths & Gods"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jötnar, giants, norse mythology, odin, loki]
 ---
 
-Wikipedia's list of jötnar opens by saying that *jötnar* and *gýgjar* are often glossed as giants and giantesses. Many are known only from name lists made for skalds in the Middle Ages, and are included "for the purpose of completeness". That already warns of something: what is known of them is uneven, and the image of a single people of giants is a simplification.
+The list of jötnar consulted opens by saying that *jötnar* and *gýgjar* are often glossed as giants and giantesses. Many are known only from name lists made for skalds in the Middle Ages, and are included "for the purpose of completeness". That already warns of something: what is known of them is uneven, and the image of a single people of giants is a simplification.
 
 ## Kin of the gods
 

@@ -13,7 +13,7 @@ fontes:
 tags: [freydís eiríksdóttir, vinland, grønlendingenes saga, eirik raudes saga, skrælinger]
 ---
 
-Freydís Eiríksdóttir er, ifølge den engelske Wikipedia-artikkelen som denne saken bygger på, «sagt å være» datter av Eirik Raude, født rundt 965. Alt som er kjent om henne, kommer fra to middelalderske sagaer, som gir ulike fremstillinger. Denne saken forteller om hver for seg, peker på hvor de motsier hverandre og holder seg til det artikkelen har med.
+Freydís Eiríksdóttir er, ifølge kilden som denne saken bygger på, «sagt å være» datter av Eirik Raude, født rundt 965. Alt som er kjent om henne, kommer fra to middelalderske sagaer, som gir ulike fremstillinger. Denne saken forteller om hver for seg, peker på hvor de motsier hverandre og holder seg til det artikkelen har med.
 
 ## I Grønlendingenes saga
 

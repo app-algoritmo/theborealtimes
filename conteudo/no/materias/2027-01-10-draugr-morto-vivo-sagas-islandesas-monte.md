@@ -1,6 +1,6 @@
 ---
 titulo: "Draugen, den døde som ikke blir i haugen: hva de islandske sagaene forteller"
-resumo: "Draugen er i de islandske sagaene den døde som forlater graven, sterk, ille luktende og vanskelig å slå. Se hva Wikipedia samler om Kárr den gamle, Glámr, Víga-Hrappr, utdrivelsen ved «dørdom» og hvordan en draug ble gjort ufarlig."
+resumo: "Draugen er i de islandske sagaene den døde som forlater graven, sterk, ille luktende og vanskelig å slå. Se hva kilden som er brukt samler om Kárr den gamle, Glámr, Víga-Hrappr, utdrivelsen ved «dørdom» og hvordan en draug ble gjort ufarlig."
 secao: "Eventyr og folketro"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [draug, levende døde, islandske sagaer, grettis saga, gravhaug]
 ---
 
-*Draugen* er ifølge Wikipedia-artikkelen som er brukt, en død person i de islandske sagaene som ikke blir i graven. Det teksten bringer, er tilfeller fra ulike sagaer, og hvert viser én side.
+*Draugen* er ifølge kilden som er brukt, en død person i de islandske sagaene som ikke blir i graven. Det teksten bringer, er tilfeller fra ulike sagaer, og hvert viser én side.
 
 ## Kildene
 

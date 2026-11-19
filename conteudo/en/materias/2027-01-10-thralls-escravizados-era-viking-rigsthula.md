@@ -1,6 +1,6 @@
 ---
 titulo: "Thralls: the enslaved people of the Viking Age, between the free karl and the noble jarl"
-resumo: "Thralls (þrælar) were the enslaved people of Viking Age Scandinavia, below the karl, the freeman, and the jarl, the noble. See what Wikipedia gathers on how someone became a thrall, what they did, how they could be freed and how slavery ended."
+resumo: "Thralls (þrælar) were the enslaved people of Viking Age Scandinavia, below the karl, the freeman, and the jarl, the noble. See what the source consulted gathers on how someone became a thrall, what they did, how they could be freed and how slavery ended."
 secao: "Viking Age"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [thralls, slavery, viking age, rígsþula, leysingi]
 ---
 
-According to the Wikipedia article consulted, the *thrall* (in Old Norse, *þræll*) was an enslaved person or serf in Scandinavia in the Viking Age, below the *karl*, the freeman, and the *jarl*, the noble. The article cites the *Rígsþula* for this three-step order. The word comes from a Germanic root meaning "runner".
+According to the source consulted, the *thrall* (in Old Norse, *þræll*) was an enslaved person or serf in Scandinavia in the Viking Age, below the *karl*, the freeman, and the *jarl*, the noble. The article cites the *Rígsþula* for this three-step order. The word comes from a Germanic root meaning "runner".
 
 ## How someone became a thrall
 

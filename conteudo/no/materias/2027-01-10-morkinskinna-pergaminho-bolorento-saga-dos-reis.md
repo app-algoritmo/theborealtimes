@@ -1,6 +1,6 @@
 ---
 titulo: "Morkinskinna, det «muggne pergamentet»: kongesagaen om Norge skrevet på Island omkring 1220"
-resumo: "Morkinskinna er en norrøn kongesaga skrevet på Island omkring 1220, bevart i en håndskrift fra omkring 1275. Se hva Wikipedia samler om navnet, tidsrommet den dekker, de 270 strofene som siteres, de korte fortellingene og forholdet til Heimskringla."
+resumo: "Morkinskinna er en norrøn kongesaga skrevet på Island omkring 1220, bevart i en håndskrift fra omkring 1275. Se hva kilden som er brukt samler om navnet, tidsrommet den dekker, de 270 strofene som siteres, de korte fortellingene og forholdet til Heimskringla."
 secao: "Sagaer og konger"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [morkinskinna, kongesagaer, island, skaldekunst, norge]
 ---
 
-*Morkinskinna* betyr «muggent pergament» og er ifølge Wikipedia-artikkelen som er brukt, det opprinnelige navnet på håndskriften GKS 1009 fol. Det er en kongesaga på norrønt, skrevet på Island omkring 1220.
+*Morkinskinna* betyr «muggent pergament» og er ifølge kilden som er brukt, det opprinnelige navnet på håndskriften GKS 1009 fol. Det er en kongesaga på norrønt, skrevet på Island omkring 1220.
 
 ## Håndskriften
 

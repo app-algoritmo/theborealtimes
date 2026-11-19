@@ -19,7 +19,7 @@ Among the gods who survive the end of the world, one hardly speaks. Víðarr, so
 
 ## What the sources say
 
-According to the Wikipedia article consulted, the Poetic Edda gives three clues. In *Völuspá* (stanzas 54 and 55), the seeress says Víðarr will avenge Odin by thrusting his sword into Fenrir's heart. In *Vafþrúðnismál* (stanzas 51 and 53), it is said he will sunder the wolf's jaws and that he and his brother Váli will live in the gods' temples after Surtr's fire. In *Grímnismál* (stanza 17), Odin describes his dwelling, a land of brushwood and tall grass, and says he is eager to avenge his father. In *Lokasenna* (stanza 10), Odin tells him to pour a drink for Loki.
+According to the source consulted, the Poetic Edda gives three clues. In *Völuspá* (stanzas 54 and 55), the seeress says Víðarr will avenge Odin by thrusting his sword into Fenrir's heart. In *Vafþrúðnismál* (stanzas 51 and 53), it is said he will sunder the wolf's jaws and that he and his brother Váli will live in the gods' temples after Surtr's fire. In *Grímnismál* (stanza 17), Odin describes his dwelling, a land of brushwood and tall grass, and says he is eager to avenge his father. In *Lokasenna* (stanza 10), Odin tells him to pour a drink for Loki.
 
 Snorri's Prose Edda, for its part, calls him the "silent god" in *Gylfaginning* (ch. 29): he has a thick shoe, is nearly as strong as Thor, and the gods rely on him in great difficulties. In ch. 51, after Fenrir swallows Odin, Víðarr steps on the wolf's lower jaw, grips the upper one and tears his mouth apart.
 

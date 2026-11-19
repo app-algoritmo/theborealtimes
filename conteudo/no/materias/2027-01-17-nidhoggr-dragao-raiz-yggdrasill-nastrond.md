@@ -1,6 +1,6 @@
 ---
 titulo: "Níðhogg, dragen som gnager røttene til Yggdrasil: hva tekstene sier"
-resumo: "Níðhogg er i de norrøne kildene vesenet som gnager på en av røttene til verdenstreet og lever av lik på Náströnd. Se hva Wikipedia samler om Gylfaginning, Grímnismál, Völuspá, ekornet Ratatosk og den omdiskuterte betydningen av navnet."
+resumo: "Níðhogg er i de norrøne kildene vesenet som gnager på en av røttene til verdenstreet og lever av lik på Náströnd. Se hva kilden som er brukt samler om Gylfaginning, Grímnismál, Völuspá, ekornet Ratatosk og den omdiskuterte betydningen av navnet."
 secao: "Myter og guder"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [níðhogg, yggdrasil, völuspá, náströnd, drage]
 ---
 
-Níðhogg, også skrevet Nidhogg, er et vesen i de norrøne kildene som knyttes til treet Yggdrasil og dødsriket. Wikipedia-artikkelen som er brukt, samler det tre tekster sier om ham.
+Níðhogg, også skrevet Nidhogg, er et vesen i de norrøne kildene som knyttes til treet Yggdrasil og dødsriket. Kilden som er brukt, samler det tre tekster sier om ham.
 
 ## Hva kildene sier
 

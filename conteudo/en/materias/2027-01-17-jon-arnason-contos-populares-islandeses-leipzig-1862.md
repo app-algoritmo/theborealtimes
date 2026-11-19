@@ -1,6 +1,6 @@
 ---
 titulo: "Jón Árnason and the folktales of Iceland: the collection published in Leipzig in 1862 and 1864"
-resumo: "Jón Árnason (1819–1888) was a librarian in Iceland and gathered the Íslenzkar þjóðsögur og æfintýri, published in two volumes in Leipzig. See what Wikipedia gathers about his life, the partnership with Magnús Grímsson, Konrad Maurer's encouragement, the influence of the Brothers Grimm and the later editions."
+resumo: "Jón Árnason (1819–1888) was a librarian in Iceland and gathered the Íslenzkar þjóðsögur og æfintýri, published in two volumes in Leipzig. See what the source consulted gathers about his life, the partnership with Magnús Grímsson, Konrad Maurer's encouragement, the influence of the Brothers Grimm and the later editions."
 secao: "Tales & Folklore"
 natureza: "Documented history"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [jón árnason, icelandic folklore, þjóðsögur, konrad maurer, leipzig]
 ---
 
-Jón Árnason was born on 17 August 1819 in Hof, Iceland, and died on 4 September 1888 in Reykjavík, aged 69. The Wikipedia article consulted gathers what is known of his life and of the collection that made him known.
+Jón Árnason was born on 17 August 1819 in Hof, Iceland, and died on 4 September 1888 in Reykjavík, aged 69. The source consulted gathers what is known of his life and of the collection that made him known.
 
 ## The librarian
 

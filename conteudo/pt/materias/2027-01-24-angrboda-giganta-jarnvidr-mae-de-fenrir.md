@@ -13,7 +13,7 @@ fontes:
 tags: [angrboða, járnviðr, fenrir, loki, völuspá]
 ---
 
-Angrboða é uma giganta, uma *jötunn*, da mitologia nórdica, apresentada como companheira de Loki e mãe de monstros. O artigo da Wikipédia em inglês que serve de base a esta matéria mostra que as fontes falam pouco dela, e que parte do que se diz é inferência. A matéria separa o que está atestado do que os estudiosos deduzem.
+Angrboða é uma giganta, uma *jötunn*, da mitologia nórdica, apresentada como companheira de Loki e mãe de monstros. A fonte consultada mostra que as fontes falam pouco dela, e que parte do que se diz é inferência. A matéria separa o que está atestado do que os estudiosos deduzem.
 
 ## O que os textos dizem
 

@@ -13,7 +13,7 @@ fontes:
 tags: [freydís eiríksdóttir, vinlândia, saga dos groenlandeses, saga de érico, o vermelho, skrælingar]
 ---
 
-Freydís Eiríksdóttir é, segundo o artigo da Wikipédia em inglês que serve de base a esta matéria, "dita" filha de Érico, o Vermelho, nascida por volta de 965. Tudo o que se sabe dela vem de duas sagas medievais, que dão relatos diferentes. Esta matéria conta cada um separadamente, aponta onde eles se contradizem e se limita ao que o artigo traz.
+Freydís Eiríksdóttir é, segundo a fonte consultada, "dita" filha de Érico, o Vermelho, nascida por volta de 965. Tudo o que se sabe dela vem de duas sagas medievais, que dão relatos diferentes. Esta matéria conta cada um separadamente, aponta onde eles se contradizem e se limita ao que o artigo traz.
 
 ## Na Saga dos Groenlandeses
 

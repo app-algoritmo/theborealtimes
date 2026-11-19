@@ -1,6 +1,6 @@
 ---
 titulo: "Níðhöggr, o dragão que rói as raízes de Yggdrasill: o que dizem os textos"
-resumo: "Níðhöggr é, nas fontes nórdicas, o ser que rói uma das raízes do freixo do mundo e se alimenta de cadáveres em Náströnd. Veja o que a Wikipedia reúne sobre a Gylfaginning, a Grímnismál, a Völuspá, o esquilo Ratatoskr e o sentido discutido do nome."
+resumo: "Níðhöggr é, nas fontes nórdicas, o ser que rói uma das raízes do freixo do mundo e se alimenta de cadáveres em Náströnd. Veja o que a fonte consultada reúne sobre a Gylfaginning, a Grímnismál, a Völuspá, o esquilo Ratatoskr e o sentido discutido do nome."
 secao: "Mitos e Deuses"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [níðhöggr, yggdrasill, völuspá, náströnd, dragão]
 ---
 
-Níðhöggr, escrito também Nidhogg, é um ser das fontes nórdicas ligado à árvore Yggdrasill e ao reino dos mortos. O artigo da Wikipedia consultado reúne o que três textos dizem dele.
+Níðhöggr, escrito também Nidhogg, é um ser das fontes nórdicas ligado à árvore Yggdrasill e ao reino dos mortos. A fonte consultada reúne o que três textos dizem dele.
 
 ## O que as fontes dizem
 

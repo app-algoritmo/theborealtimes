@@ -1,6 +1,6 @@
 ---
 titulo: "Heimskringla, o \"orbe do mundo\": as sagas dos reis da Noruega atribuídas a Snorri Sturluson"
-resumo: "A Heimskringla é um conjunto de sagas de reis nórdicos, ligado a Snorri Sturluson por volta de 1230, que vai dos lendários Ynglings até 1177. Veja o que a Wikipedia reúne sobre o nome, a autoria, os manuscritos, as fontes e como os historiadores a leem hoje."
+resumo: "A Heimskringla é um conjunto de sagas de reis nórdicos, ligado a Snorri Sturluson por volta de 1230, que vai dos lendários Ynglings até 1177. Veja o que a fonte consultada reúne sobre o nome, a autoria, os manuscritos, as fontes e como os historiadores a leem hoje."
 secao: "Sagas e Reis"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [heimskringla, snorri sturluson, sagas de reis, ynglinga saga, noruega]
 ---
 
-A *Heimskringla* é um conjunto de sagas de reis nórdicos. O artigo da Wikipedia consultado ressalva logo de início que nenhum manuscrito ou texto sobrevivente nomeia um autor. Alguns estudiosos supõem que a obra foi escrita por Snorri Sturluson, que viveu de 1178/79 a 1241, por volta de 1230, e as primeiras obras que o citam como autor são traduções dinamarquesas do século XVI.
+A *Heimskringla* é um conjunto de sagas de reis nórdicos. A fonte consultada ressalva logo de início que nenhum manuscrito ou texto sobrevivente nomeia um autor. Alguns estudiosos supõem que a obra foi escrita por Snorri Sturluson, que viveu de 1178/79 a 1241, por volta de 1230, e as primeiras obras que o citam como autor são traduções dinamarquesas do século XVI.
 
 ## O nome
 

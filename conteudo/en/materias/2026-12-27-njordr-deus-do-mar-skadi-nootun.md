@@ -15,7 +15,7 @@ fontes:
 tags: [njörðr, vanir, skaði, nóatún, norse mythology]
 ---
 
-Few Norse gods have a territory as clear as Njörðr's. According to the Wikipedia article consulted, he is linked to the sea, seafaring, fishing, wind, wealth and the fertility of crops. He belongs to the Vanir and lives at Nóatún, a name that points to ships. At the same time, the sources show a god who came from outside and never quite fitted in among the Æsir.
+Few Norse gods have a territory as clear as Njörðr's. According to the source consulted, he is linked to the sea, seafaring, fishing, wind, wealth and the fertility of crops. He belongs to the Vanir and lives at Nóatún, a name that points to ships. At the same time, the sources show a god who came from outside and never quite fitted in among the Æsir.
 
 ## What the sources say
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Surt, ildjætten fra Muspelheim: hva kildene sier om ragnarok"
-resumo: "Surt er jotunen som vokter Muspelheim og som ved ragnarok kommer fra sør med ild og et skinnende sverd. Se hva Wikipedia samler om kildene, kampen med Frøy, hulen Surtshellir, øya Surtsey og hva forskerne diskuterer."
+resumo: "Surt er jotunen som vokter Muspelheim og som ved ragnarok kommer fra sør med ild og et skinnende sverd. Se hva kilden som er brukt samler om kildene, kampen med Frøy, hulen Surtshellir, øya Surtsey og hva forskerne diskuterer."
 secao: "Myter og guder"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [surt, muspelheim, ragnarok, ild, jötnar]
 ---
 
-Surt er ifølge Wikipedia-artikkelen som er brukt, en *jotun*, en kjempe, og vokter av Muspelheim, en av de to verdenene som skal ha fantes før tiden, ved siden av Niflheim. Navnet er norrønt og betyr «svart», eller mer presist «mørk».
+Surt er ifølge kilden som er brukt, en *jotun*, en kjempe, og vokter av Muspelheim, en av de to verdenene som skal ha fantes før tiden, ved siden av Niflheim. Navnet er norrønt og betyr «svart», eller mer presist «mørk».
 
 ## Kildene
 

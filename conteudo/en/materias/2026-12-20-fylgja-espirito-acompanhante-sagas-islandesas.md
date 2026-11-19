@@ -27,7 +27,7 @@ The sources consulted describe the fylgja in ways that complement each other. It
 
 ## Saga examples
 
-The 2016 Wikipedia mirror cites, in *Hárvarðar saga Ísfirðings*, Atli's dream, with eighteen wolves led by a vixen, which foretells the attack of an army with a sorcerer at the front. In *Gísla saga*, Gísli is visited by two women, one bringing good fortune and one pushing him toward violence; they may represent female ancestors tied to his family. These examples, at the same time, show that the reading is interpretive.
+The 2016 mirror consulted cites, in *Hárvarðar saga Ísfirðings*, Atli's dream, with eighteen wolves led by a vixen, which foretells the attack of an army with a sorcerer at the front. In *Gísla saga*, Gísli is visited by two women, one bringing good fortune and one pushing him toward violence; they may represent female ancestors tied to his family. These examples, at the same time, show that the reading is interpretive.
 
 ## Fylgja and hamingja
 
@@ -39,6 +39,6 @@ Anthony Winterbourne, cited on the page about Huginn and Muninn, links Odin's ra
 
 ## What can be said with care
 
-The Hurstwic page does not deal with the hamingja, and the Norse-mythology.org one cites no sagas for the fylgja. The Wikipedia mirror is from 2016 and rests on the interpretations of a few scholars. The origin of the term, which also means "afterbirth", is described by the source as "mysterious and unclear".
+The Hurstwic page does not deal with the hamingja, and the Norse-mythology.org one cites no sagas for the fylgja. The mirror consulted is from 2016 and rests on the interpretations of a few scholars. The origin of the term, which also means "afterbirth", is described by the source as "mysterious and unclear".
 
 To lead an attendant spirit across the field, gathering lights that make it grow, without touching itself or the edges, play [The spirit that follows](/en/game-the-spirit-that-follows/).

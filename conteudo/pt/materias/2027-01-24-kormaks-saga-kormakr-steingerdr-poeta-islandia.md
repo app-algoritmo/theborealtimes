@@ -13,7 +13,7 @@ fontes:
 tags: [kormáks saga, kormákr, steingerðr, escaldos, möðruvallabók]
 ---
 
-A *Kormáks saga* é uma saga dos islandeses sobre um poeta do século X. O artigo da Wikipédia em inglês que serve de base a esta matéria resume o enredo, o lugar dos versos e o que se sabe do texto, e a matéria segue esse resumo. Ela não conta episódios que o artigo não traz.
+A *Kormáks saga* é uma saga dos islandeses sobre um poeta do século X. A fonte consultada resume o enredo, o lugar dos versos e o que se sabe do texto, e a matéria segue esse resumo. Ela não conta episódios que o artigo não traz.
 
 ## Um poeta e uma noiva
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Garm, hunden som uler foran Gnipahelleren: hva de norrøne kildene forteller"
-resumo: "Garm er en ulv eller hund knyttet til Hel og ragnarok, den «blodbestenkte vokteren» ved dødsrikets port. Se hva Wikipedia samler om refrenget i Völuspá, Baldrs draumar, Gylfaginning, duellen med Tyr og diskusjonen om Fenrisulven og Kerberos."
+resumo: "Garm er en ulv eller hund knyttet til Hel og ragnarok, den «blodbestenkte vokteren» ved dødsrikets port. Se hva kilden som er brukt samler om refrenget i Völuspá, Baldrs draumar, Gylfaginning, duellen med Tyr og diskusjonen om Fenrisulven og Kerberos."
 secao: "Myter og guder"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [garm, hel, gnipahelleren, völuspá, ragnarok]
 ---
 
-Garm, også skrevet Garmr, er en ulv eller hund i norrøn mytologi som knyttes til Hel og ragnarok. Wikipedia-artikkelen som er brukt, beskriver ham som en «blodbestenkt voktere» ved porten til Hel. Under står det teksten samler fra hver kilde.
+Garm, også skrevet Garmr, er en ulv eller hund i norrøn mytologi som knyttes til Hel og ragnarok. Kilden som er brukt, beskriver ham som en «blodbestenkt voktere» ved porten til Hel. Under står det teksten samler fra hver kilde.
 
 ## Kildene
 

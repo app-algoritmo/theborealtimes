@@ -1,6 +1,6 @@
 ---
 titulo: "Fagrskinna, o \"Pergaminho Belo\": a história dos reis da Noruega escrita por volta de 1220"
-resumo: "A Fagrskinna é uma história da Noruega dos séculos IX ao XII, escrita por volta de 1220 por autor desconhecido. Veja o que a Wikipedia reúne sobre o período que ela cobre, os versos de escaldos, as fontes prováveis, a ligação com Morkinskinna e Heimskringla e o que o texto não permite afirmar."
+resumo: "A Fagrskinna é uma história da Noruega dos séculos IX ao XII, escrita por volta de 1220 por autor desconhecido. Veja o que a fonte consultada reúne sobre o período que ela cobre, os versos de escaldos, as fontes prováveis, a ligação com Morkinskinna e Heimskringla e o que o texto não permite afirmar."
 secao: "Sagas e Reis"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [fagrskinna, sagas de reis, noruega, skalds, morkinskinna]
 ---
 
-A *Fagrskinna* é uma história dos reis da Noruega, escrita em nórdico antigo. O artigo da Wikipedia consultado a data de cerca de 1220 e diz que o autor é desconhecido: costuma-se pensar que foi escrita na Noruega, por um islandês ou por um norueguês.
+A *Fagrskinna* é uma história dos reis da Noruega, escrita em nórdico antigo. A fonte consultada a data de cerca de 1220 e diz que o autor é desconhecido: costuma-se pensar que foi escrita na Noruega, por um islandês ou por um norueguês.
 
 ## O que ela cobre
 

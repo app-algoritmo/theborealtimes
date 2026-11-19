@@ -1,6 +1,6 @@
 ---
 titulo: "A Mestermøy, a donzela-mestra: o conto de Asbjørnsen e Moe e a «fuga mágica»"
-resumo: "A Mestermøy é um conto norueguês da coletânea de Asbjørnsen e Moe, ligado ao tipo \"fuga mágica\". Veja o que a Wikipedia reúne sobre quem o contou, o enredo, as tarefas do gigante, a fuga, a noiva esquecida, as variantes e o que fica incerto."
+resumo: "A Mestermøy é um conto norueguês da coletânea de Asbjørnsen e Moe, ligado ao tipo \"fuga mágica\". Veja o que a fonte consultada reúne sobre quem o contou, o enredo, as tarefas do gigante, a fuga, a noiva esquecida, as variantes e o que fica incerto."
 secao: "Contos e Folclore"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [mestermøy, asbjørnsen e moe, conto popular, fuga mágica, noruega]
 ---
 
-A *Mestermøy*, em inglês *The Master Maid*, é um conto norueguês da coletânea *Norske Folkeeventyr*, de Peter Christen Asbjørnsen e Jørgen Moe. O artigo da Wikipedia consultado diz que Moe o anotou da narradora Anne Godlid, em Seljord, no outono de 1842. George Dasent o traduziu para o inglês em 1859, e Andrew Lang o incluiu no *Blue Fairy Book*, de 1889.
+A *Mestermøy*, em inglês *The Master Maid*, é um conto norueguês da coletânea *Norske Folkeeventyr*, de Peter Christen Asbjørnsen e Jørgen Moe. A fonte consultada diz que Moe o anotou da narradora Anne Godlid, em Seljord, no outono de 1842. George Dasent o traduziu para o inglês em 1859, e Andrew Lang o incluiu no *Blue Fairy Book*, de 1889.
 
 ## O tipo de conto
 

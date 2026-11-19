@@ -15,7 +15,7 @@ fontes:
 tags: [thorfinn sigurdsson, órcades, orkneyinga saga, karl hundason, birsay]
 ---
 
-Thorfinn Sigurdsson, filho do conde Sigurd Hlodvirsson, é uma das figuras mais coloridas da *Orkneyinga saga*, escrita na Islândia no começo do século XIII. A saga o apresenta como um conde forte, guerreiro e viajante. O artigo da Wikipedia consultado é cuidadoso ao separar o que a saga conta do que outras fontes confirmam.
+Thorfinn Sigurdsson, filho do conde Sigurd Hlodvirsson, é uma das figuras mais coloridas da *Orkneyinga saga*, escrita na Islândia no começo do século XIII. A saga o apresenta como um conde forte, guerreiro e viajante. A fonte consultada é cuidadosa ao separar o que a saga conta do que outras fontes confirmam.
 
 ## A criança que virou conde
 

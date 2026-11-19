@@ -1,6 +1,6 @@
 ---
 titulo: "Bragi, diktningens gud: hva Eddaene og hoffdiktene sier om ham"
-resumo: "Bragi er diktningens gud i norrøn mytologi, gift med Iðunn. Se hva Wikipedia samler om kildene, den historiske skalden Bragi Boddason, runene på gudens tunge og hva som er uklart."
+resumo: "Bragi er diktningens gud i norrøn mytologi, gift med Iðunn. Se hva kilden som er brukt samler om kildene, den historiske skalden Bragi Boddason, runene på gudens tunge og hva som er uklart."
 secao: "Myter og guder"
 natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [bragi, diktning, edda, skalder, iðunn]
 ---
 
-Bragi er en skikkelse i norrøn mytologi knyttet til diktekunsten. Ifølge Wikipedia-artikkelen som er brukt, framstiller Snorre Sturlusons *Snorres Edda* ham som en diktningens gud, kjent for visdom og veltalenhet blant æsene, og sier at diktekunsten har navn etter ham.
+Bragi er en skikkelse i norrøn mytologi knyttet til diktekunsten. Ifølge kilden som er brukt, framstiller Snorre Sturlusons *Snorres Edda* ham som en diktningens gud, kjent for visdom og veltalenhet blant æsene, og sier at diktekunsten har navn etter ham.
 
 ## Hva kildene sier
 

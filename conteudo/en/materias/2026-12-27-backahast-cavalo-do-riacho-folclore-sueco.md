@@ -15,7 +15,7 @@ fontes:
 tags: [bäckahäst, brook horse, näcken, nøkken, swedish folklore]
 ---
 
-Among the water creatures of Nordic folklore, the brook horse is one of the simplest to imagine and one of the most dangerous. In Swedish it is the *bäckahäst*. The Wikipedia article consulted treats it as one of the forms of the *näck*, the water spirit, which in Norwegian and Danish is *nøkk* or *nøkken*, in Faroese *nykur*, in Old Norse *nykr* and in Finnish *näkki*. According to the text, the names come from a common Germanic root meaning "to wash".
+Among the water creatures of Nordic folklore, the brook horse is one of the simplest to imagine and one of the most dangerous. In Swedish it is the *bäckahäst*. The source consulted treats it as one of the forms of the *näck*, the water spirit, which in Norwegian and Danish is *nøkk* or *nøkken*, in Faroese *nykur*, in Old Norse *nykr* and in Finnish *näkki*. According to the text, the names come from a common Germanic root meaning "to wash".
 
 ## The horse
 

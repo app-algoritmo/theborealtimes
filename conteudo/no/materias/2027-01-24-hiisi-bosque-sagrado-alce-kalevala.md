@@ -13,7 +13,7 @@ fontes:
 tags: [hiisi, kalevala, hellig lund, lemminkäinen, finsk mytologi]
 ---
 
-Hiisi er et begrep i de finske mytologiene. Den engelske Wikipedia-artikkelen som denne saken bygger på, sier at det først betegnet hellige steder og senere kom til å navngi mytiske vesener av flere slag. Den veien fra sted til vesen, og så til djevel, er tråden i denne saken, som hviler på den ene artikkelen og markerer det den behandler som spekulasjon.
+Hiisi er et begrep i de finske mytologiene. Kilden som denne saken bygger på, sier at det først betegnet hellige steder og senere kom til å navngi mytiske vesener av flere slag. Den veien fra sted til vesen, og så til djevel, er tråden i denne saken, som hviler på den ene artikkelen og markerer det den behandler som spekulasjon.
 
 ## Et sted før et vesen
 

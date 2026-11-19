@@ -1,6 +1,6 @@
 ---
 titulo: "O draugr, o morto que não fica no monte: o que as sagas islandesas contam"
-resumo: "O draugr é, nas sagas islandesas, o morto que sai do túmulo, forte, de cheiro horrível e difícil de vencer. Veja o que a Wikipedia reúne sobre Kárr, o Velho, Glámr, Víga-Hrappr, a expulsão pela \"sentença da porta\" e como se desfazia um draugr."
+resumo: "O draugr é, nas sagas islandesas, o morto que sai do túmulo, forte, de cheiro horrível e difícil de vencer. Veja o que a fonte consultada reúne sobre Kárr, o Velho, Glámr, Víga-Hrappr, a expulsão pela \"sentença da porta\" e como se desfazia um draugr."
 secao: "Contos e Folclore"
 natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [draugr, mortos-vivos, sagas islandesas, Grettis saga, monte funerário]
 ---
 
-O *draugr* é, segundo o artigo da Wikipedia consultado, um morto das sagas islandesas que não fica no túmulo. O que o texto traz são casos de sagas diferentes, e cada um mostra uma faceta.
+O *draugr* é, segundo a fonte consultada, um morto das sagas islandesas que não fica no túmulo. O que o texto traz são casos de sagas diferentes, e cada um mostra uma faceta.
 
 ## As fontes
 

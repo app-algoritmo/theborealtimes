@@ -1,6 +1,6 @@
 ---
 titulo: "Heimskringla, the \"orb of the world\": the sagas of the kings of Norway attributed to Snorri Sturluson"
-resumo: "Heimskringla is a set of Norse kings' sagas, linked to Snorri Sturluson around 1230, running from the legendary Ynglings to 1177. See what Wikipedia gathers on the name, the authorship, the manuscripts, the sources and how historians read it today."
+resumo: "Heimskringla is a set of Norse kings' sagas, linked to Snorri Sturluson around 1230, running from the legendary Ynglings to 1177. See what the source consulted gathers on the name, the authorship, the manuscripts, the sources and how historians read it today."
 secao: "Sagas & Kings"
 natureza: "Saga or medieval source"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [heimskringla, snorri sturluson, kings sagas, ynglinga saga, norway]
 ---
 
-*Heimskringla* is a set of Norse kings' sagas. The Wikipedia article consulted notes at the outset that no surviving manuscript or text names an author. Some scholars assume the work was written by Snorri Sturluson, who lived from 1178/79 to 1241, around 1230, and the first works that credit him as author are sixteenth-century Danish translations.
+*Heimskringla* is a set of Norse kings' sagas. The source consulted notes at the outset that no surviving manuscript or text names an author. Some scholars assume the work was written by Snorri Sturluson, who lived from 1178/79 to 1241, around 1230, and the first works that credit him as author are sixteenth-century Danish translations.
 
 ## The name
 

@@ -15,7 +15,7 @@ fontes:
 tags: [njörðr, vanir, skaði, nóatún, mitologia nórdica]
 ---
 
-Poucos deuses nórdicos têm um território tão claro quanto Njörðr. Segundo o artigo da Wikipedia consultado, ele é ligado ao mar, à navegação, à pesca, ao vento, à riqueza e à fertilidade das colheitas. Pertence aos Vanir e vive em Nóatún, um nome que remete aos navios. Ao mesmo tempo, as fontes o mostram como um deus que, tendo vindo de fora, nunca se encaixou por completo entre os Æsir.
+Poucos deuses nórdicos têm um território tão claro quanto Njörðr. Segundo a fonte consultada, ele é ligado ao mar, à navegação, à pesca, ao vento, à riqueza e à fertilidade das colheitas. Pertence aos Vanir e vive em Nóatún, um nome que remete aos navios. Ao mesmo tempo, as fontes o mostram como um deus que, tendo vindo de fora, nunca se encaixou por completo entre os Æsir.
 
 ## O que dizem as fontes
 

@@ -1,6 +1,6 @@
 ---
 titulo: "The Mestermøy, the master maid: Asbjørnsen and Moe's tale and the “magic flight”"
-resumo: "The Mestermøy is a Norwegian tale from Asbjørnsen and Moe's collection, tied to the \"magic flight\" type. See what Wikipedia gathers about who told it, the plot, the giant's tasks, the flight, the forgotten bride, the variants and what remains uncertain."
+resumo: "The Mestermøy is a Norwegian tale from Asbjørnsen and Moe's collection, tied to the \"magic flight\" type. See what the source consulted gathers about who told it, the plot, the giant's tasks, the flight, the forgotten bride, the variants and what remains uncertain."
 secao: "Tales & Folklore"
 natureza: "Myth or legend"
 autor: "Paulo Fernando de Barros"
@@ -13,7 +13,7 @@ fontes:
 tags: [mestermøy, asbjørnsen and moe, folktale, magic flight, norway]
 ---
 
-The *Mestermøy*, in English *The Master Maid*, is a Norwegian tale from the collection *Norske Folkeeventyr*, by Peter Christen Asbjørnsen and Jørgen Moe. The Wikipedia article consulted says Moe wrote it down from the storyteller Anne Godlid, in Seljord, in the autumn of 1842. George Dasent translated it into English in 1859, and Andrew Lang included it in the *Blue Fairy Book* of 1889.
+The *Mestermøy*, in English *The Master Maid*, is a Norwegian tale from the collection *Norske Folkeeventyr*, by Peter Christen Asbjørnsen and Jørgen Moe. The source consulted says Moe wrote it down from the storyteller Anne Godlid, in Seljord, in the autumn of 1842. George Dasent translated it into English in 1859, and Andrew Lang included it in the *Blue Fairy Book* of 1889.
 
 ## The tale type
 
