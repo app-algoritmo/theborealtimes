@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-nuckelavee" aria-label="The nuckelavee on the moor" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=20" defer></script>
+<script src="/g/tela.js?v=21" defer></script>
 <script src="/g/nuckelavee-perseguicao-rio.js?v=1" defer></script>
 
 ## How to play
