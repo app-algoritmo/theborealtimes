@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ravning" aria-label="Stiene på broen" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=25" defer></script>
+<script src="/g/tela.js?v=26" defer></script>
 <script src="/g/ravning-trilhas-da-ponte.js?v=1" defer></script>
 
 ## Slik spiller du
