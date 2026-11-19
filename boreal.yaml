@@ -377,7 +377,6 @@ pt:
     jogo_lanse: jogo-a-sondagem-em-lanse-aux-meadows
     jogo_galloway: jogo-o-tesouro-de-galloway
     jogo_danelaw: jogo-os-cinco-burgos
-    jogo_vaettir: jogo-os-guardioes-da-ilha
     jogo_mestermoy: jogo-o-estabulo-da-mestermoy
     jogo_jonarnason: jogo-os-fios-dos-contos-de-jon
     jogo_hoenir: jogo-o-refem-e-as-trocas
@@ -814,7 +813,6 @@ en:
     jogo_lanse: game-the-survey-at-lanse-aux-meadows
     jogo_galloway: game-the-galloway-hoard
     jogo_danelaw: game-the-five-boroughs
-    jogo_vaettir: game-the-guardians-of-the-island
     jogo_mestermoy: game-the-mestermoys-stable
     jogo_jonarnason: game-the-threads-of-jons-tales
     jogo_hoenir: game-the-hostage-and-the-exchanges
@@ -1251,7 +1249,6 @@ en:
     jogo_lanse: spill-undersokelsen-pa-lanse-aux-meadows
     jogo_galloway: spill-galloway-skatten
     jogo_danelaw: spill-de-fem-byene
-    jogo_vaettir: spill-oyas-voktere
     jogo_mestermoy: spill-mestermoys-stall
     jogo_jonarnason: spill-trader-i-jons-fortellinger
     jogo_hoenir: spill-gisselen-og-byttene
