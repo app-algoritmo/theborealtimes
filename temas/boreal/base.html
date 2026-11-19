@@ -165,6 +165,15 @@
   var nav = (navigator.language || 'en').slice(0, 2).toLowerCase();
   var quer = (nav === 'nb' || nav === 'nn') ? 'no' : (nav === 'pt' || nav === 'no') ? nav : 'en';
   var alvo = IDIOMAS.filter(function (i) { return i.curto === quer; })[0];
+  /* Primeira visita a uma página inicial (/, /en/, /no/): abre no idioma do navegador.
+     Só uma vez por aparelho; depois disso o idioma é escolha do leitor. Matérias e jogos
+     nunca trocam sozinhos (só mostram a sugestão abaixo), e robôs de busca não são desviados. */
+  var INICIO = ['/', '/en/', '/no/'].indexOf(location.pathname) !== -1, AUTO = 'boreal-idioma-auto';
+  if (alvo && quer !== ATUAL && INICIO && !navigator.webdriver && !/bot|crawl|spider|lighthouse|slurp|preview/i.test(navigator.userAgent)) {
+    var jaFoi = false;
+    try { jaFoi = !!localStorage.getItem(AUTO); localStorage.setItem(AUTO, '1'); } catch (e) { jaFoi = true; }
+    if (!jaFoi) { location.replace(alvo.url); return; }
+  }
   if (alvo && quer !== ATUAL && !sessionStorage.getItem(VISTO)) {
     var s = document.getElementById('idioma-sugestao');
     s.querySelector('[data-sug-texto]').textContent = alvo.sugestao;
