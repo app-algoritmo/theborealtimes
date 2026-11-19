@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-haakon" aria-label="O tabuleiro de Haakon" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=28" defer></script>
+<script src="/g/tela.js?v=29" defer></script>
 <script src="/g/haakon-reversi-lade.js?v=1" defer></script>
 
 ## Como jogar

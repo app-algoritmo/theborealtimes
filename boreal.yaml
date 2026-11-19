@@ -446,6 +446,19 @@ pt:
     jogo_valemon: jogo-o-labirinto-de-gelo
     jogo_freddy: jogo-o-violino-que-faz-dancar
     jogo_contraria: jogo-contra-a-corrente
+    jogo_ukko: jogo-a-chuva-no-campo
+    jogo_alfheim: jogo-luz-e-sombra
+    jogo_grogaldr: jogo-os-nove-feiticos
+    jogo_sigmundgram: jogo-a-espada-no-tronco
+    jogo_absalon: jogo-pedras-para-havn
+    jogo_floki: jogo-feno-antes-do-inverno
+    jogo_tisso: jogo-os-amuletos-do-lago
+    jogo_herjolfsnes: jogo-o-tecido-de-la
+    jogo_kylver: jogo-a-ordem-do-futhark
+    jogo_catoira: jogo-a-defesa-das-torres
+    jogo_dovregato: jogo-a-ceia-dos-trolls
+    jogo_ursocauda: jogo-a-pesca-no-gelo
+    jogo_barcodepedra: jogo-a-corrente-da-rainha
     jogo_skidbladnir: jogo-o-navio-no-bolso
     jogo_eiriksmal: jogo-os-reis-do-cortejo
     jogo_gjellestad: jogo-a-travessia-do-navio
@@ -962,6 +975,19 @@ en:
     jogo_valemon: game-the-ice-maze
     jogo_freddy: game-the-fiddle-that-makes-them-dance
     jogo_contraria: game-against-the-stream
+    jogo_ukko: game-rain-on-the-field
+    jogo_alfheim: game-light-and-shadow
+    jogo_grogaldr: game-the-nine-charms
+    jogo_sigmundgram: game-the-sword-in-the-trunk
+    jogo_absalon: game-stones-for-havn
+    jogo_floki: game-hay-before-winter
+    jogo_tisso: game-the-lake-amulets
+    jogo_herjolfsnes: game-the-wool-cloth
+    jogo_kylver: game-the-order-of-the-futhark
+    jogo_catoira: game-defending-the-towers
+    jogo_dovregato: game-the-trolls-feast
+    jogo_ursocauda: game-fishing-through-the-ice
+    jogo_barcodepedra: game-the-queens-chain
     jogo_skidbladnir: game-the-ship-in-the-pocket
     jogo_eiriksmal: game-the-kings-of-the-train
     jogo_gjellestad: game-the-ship-crossing
@@ -1478,6 +1504,19 @@ en:
     jogo_valemon: spill-isblandingen
     jogo_freddy: spill-fela-som-far-alle-til-a-danse
     jogo_contraria: spill-mot-strommen
+    jogo_ukko: spill-regn-pa-akeren
+    jogo_alfheim: spill-lys-og-skygge
+    jogo_grogaldr: spill-de-ni-galdrene
+    jogo_sigmundgram: spill-sverdet-i-stammen
+    jogo_absalon: spill-steiner-til-havn
+    jogo_floki: spill-ho-for-vinteren
+    jogo_tisso: spill-amulettene-i-sjoen
+    jogo_herjolfsnes: spill-ullstoffet
+    jogo_kylver: spill-futharkens-rekkefolge
+    jogo_catoira: spill-forsvar-av-tarnene
+    jogo_dovregato: spill-trollenes-julemat
+    jogo_ursocauda: spill-fiske-gjennom-isen
+    jogo_barcodepedra: spill-dronningens-lenke
     jogo_skidbladnir: spill-skipet-i-lommen
     jogo_eiriksmal: spill-kongene-i-folget
     jogo_gjellestad: spill-seilasen-over-havet

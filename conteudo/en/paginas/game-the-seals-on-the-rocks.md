@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-selkie" aria-label="The seals on the rocks" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=28" defer></script>
+<script src="/g/tela.js?v=29" defer></script>
 <script src="/g/selkie-focas-nas-rochas.js?v=1" defer></script>
 
 ## How to play

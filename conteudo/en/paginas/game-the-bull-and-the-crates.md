@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-karitrestakk" aria-label="The bull and the crates" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=28" defer></script>
+<script src="/g/tela.js?v=29" defer></script>
 <script src="/g/kari-boi-empurra-caixas.js?v=1" defer></script>
 
 ## How to play
