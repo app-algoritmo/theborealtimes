@@ -433,6 +433,19 @@ pt:
     jogo_papar: jogo-os-odres-dos-papar
     jogo_finfolk: jogo-as-moedas-dos-finfolk
     jogo_hogboon: jogo-a-porta-do-monte
+    jogo_aurvandil: jogo-o-rio-de-gelo
+    jogo_hlidskjalf: jogo-o-trono-do-alto
+    jogo_tanngrisnir: jogo-o-carro-dos-bodes
+    jogo_canuto: jogo-a-frota-do-limfjord
+    jogo_magnuslyrskov: jogo-o-machado-hel
+    jogo_floamanna: jogo-mantimentos-na-groenlandia
+    jogo_fyrkat: jogo-a-escavacao-do-forte
+    jogo_helgo: jogo-onde-esta-o-buda
+    jogo_uunartoq: jogo-o-rumo-pelo-sol
+    jogo_scar: jogo-o-recinto-de-pedras
+    jogo_valemon: jogo-o-labirinto-de-gelo
+    jogo_freddy: jogo-o-violino-que-faz-dancar
+    jogo_contraria: jogo-contra-a-corrente
     jogo_skidbladnir: jogo-o-navio-no-bolso
     jogo_eiriksmal: jogo-os-reis-do-cortejo
     jogo_gjellestad: jogo-a-travessia-do-navio
@@ -936,6 +949,19 @@ en:
     jogo_papar: game-the-waterskins-of-the-papar
     jogo_finfolk: game-the-finfolks-coins
     jogo_hogboon: game-the-door-of-the-mound
+    jogo_aurvandil: game-the-river-of-ice
+    jogo_hlidskjalf: game-the-high-seat
+    jogo_tanngrisnir: game-the-goat-chariot
+    jogo_canuto: game-the-fleet-of-the-limfjord
+    jogo_magnuslyrskov: game-the-axe-hel
+    jogo_floamanna: game-provisions-in-greenland
+    jogo_fyrkat: game-the-dig-at-the-fort
+    jogo_helgo: game-where-is-the-buddha
+    jogo_uunartoq: game-course-by-the-sun
+    jogo_scar: game-the-stone-enclosure
+    jogo_valemon: game-the-ice-maze
+    jogo_freddy: game-the-fiddle-that-makes-them-dance
+    jogo_contraria: game-against-the-stream
     jogo_skidbladnir: game-the-ship-in-the-pocket
     jogo_eiriksmal: game-the-kings-of-the-train
     jogo_gjellestad: game-the-ship-crossing
@@ -1439,6 +1465,19 @@ en:
     jogo_papar: spill-paparenes-vannsekker
     jogo_finfolk: spill-finfolkenes-mynter
     jogo_hogboon: spill-porten-i-haugen
+    jogo_aurvandil: spill-elven-av-is
+    jogo_hlidskjalf: spill-hoysetet
+    jogo_tanngrisnir: spill-bukkevogna
+    jogo_canuto: spill-flaten-i-limfjorden
+    jogo_magnuslyrskov: spill-oeksen-hel
+    jogo_floamanna: spill-forsyninger-pa-gronland
+    jogo_fyrkat: spill-utgravingen-ved-borgen
+    jogo_helgo: spill-hvor-er-buddha
+    jogo_uunartoq: spill-kursen-etter-sola
+    jogo_scar: spill-steinrammen
+    jogo_valemon: spill-isblandingen
+    jogo_freddy: spill-fela-som-far-alle-til-a-danse
+    jogo_contraria: spill-mot-strommen
     jogo_skidbladnir: spill-skipet-i-lommen
     jogo_eiriksmal: spill-kongene-i-folget
     jogo_gjellestad: spill-seilasen-over-havet
