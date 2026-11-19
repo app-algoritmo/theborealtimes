@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-eketorp" aria-label="Os portões de Eketorp" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=28" defer></script>
+<script src="/g/tela.js?v=29" defer></script>
 <script src="/g/eketorp-portoes-alinhados.js?v=1" defer></script>
 
 ## Como jogar

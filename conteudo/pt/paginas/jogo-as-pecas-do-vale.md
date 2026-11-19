@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-svarfdaela" aria-label="As peças do vale" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=28" defer></script>
+<script src="/g/tela.js?v=29" defer></script>
 <script src="/g/svarfdaela-pecas-do-vale.js?v=1" defer></script>
 
 ## Como jogar

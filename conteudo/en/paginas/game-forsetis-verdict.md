@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-forseti" aria-label="Forseti's verdict" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=28" defer></script>
+<script src="/g/tela.js?v=29" defer></script>
 <script src="/g/forseti-sentenca-glitnir.js?v=1" defer></script>
 
 ## How to play
