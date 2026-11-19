@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-hogboon" aria-label="A porta do monte" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=26" defer></script>
+<script src="/g/tela.js?v=27" defer></script>
 <script src="/g/hogboon-porta-do-monte.js?v=1" defer></script>
 
 ## Como jogar

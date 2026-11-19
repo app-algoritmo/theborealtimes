@@ -432,6 +432,19 @@ pt:
     jogo_papar: jogo-os-odres-dos-papar
     jogo_finfolk: jogo-as-moedas-dos-finfolk
     jogo_hogboon: jogo-a-porta-do-monte
+    jogo_skidbladnir: jogo-o-navio-no-bolso
+    jogo_eiriksmal: jogo-os-reis-do-cortejo
+    jogo_gjellestad: jogo-a-travessia-do-navio
+    jogo_urnes: jogo-as-tabuas-do-portal
+    jogo_gigante: jogo-os-irmaos-de-pedra
+    jogo_joik: jogo-ouca-e-reconheca
+    jogo_ramsund: jogo-a-volta-da-serpente
+    jogo_recitador: jogo-a-rocha-da-lei
+    jogo_hvalsey: jogo-o-muro-de-pedras
+    jogo_haraldklak: jogo-ate-a-foz-do-rio
+    jogo_bricio: jogo-o-quadrado-de-numeros
+    jogo_eketorp: jogo-os-portoes-de-eketorp
+    jogo_gnezdovo: jogo-a-troca-de-barcos
     jogo_lif: jogo-o-abrigo-de-lif
     jogo_ratatoskr: jogo-as-criaturas-da-arvore
     jogo_seidr: jogo-o-fio-do-seidr
@@ -921,6 +934,19 @@ en:
     jogo_papar: game-the-waterskins-of-the-papar
     jogo_finfolk: game-the-finfolks-coins
     jogo_hogboon: game-the-door-of-the-mound
+    jogo_skidbladnir: game-the-ship-in-the-pocket
+    jogo_eiriksmal: game-the-kings-of-the-train
+    jogo_gjellestad: game-the-ship-crossing
+    jogo_urnes: game-the-planks-of-the-portal
+    jogo_gigante: game-the-brothers-of-stone
+    jogo_joik: game-listen-and-recognise
+    jogo_ramsund: game-the-loop-of-the-serpent
+    jogo_recitador: game-the-rock-of-the-law
+    jogo_hvalsey: game-the-wall-of-stones
+    jogo_haraldklak: game-to-the-river-mouth
+    jogo_bricio: game-the-square-of-numbers
+    jogo_eketorp: game-the-gates-of-eketorp
+    jogo_gnezdovo: game-the-swap-of-boats
     jogo_lif: game-lifs-hiding-place
     jogo_ratatoskr: game-the-creatures-of-the-tree
     jogo_seidr: game-the-thread-of-seidr
@@ -1410,6 +1436,19 @@ en:
     jogo_papar: spill-paparenes-vannsekker
     jogo_finfolk: spill-finfolkenes-mynter
     jogo_hogboon: spill-porten-i-haugen
+    jogo_skidbladnir: spill-skipet-i-lommen
+    jogo_eiriksmal: spill-kongene-i-folget
+    jogo_gjellestad: spill-seilasen-over-havet
+    jogo_urnes: spill-plankene-i-portalen
+    jogo_gigante: spill-brodrene-av-stein
+    jogo_joik: spill-lytt-og-kjenn-igjen
+    jogo_ramsund: spill-slangens-sloyfe
+    jogo_recitador: spill-lovbergets-stein
+    jogo_hvalsey: spill-muren-av-steiner
+    jogo_haraldklak: spill-til-elvemunningen
+    jogo_bricio: spill-tallkvadratet
+    jogo_eketorp: spill-portene-i-eketorp
+    jogo_gnezdovo: spill-batbyttet
     jogo_lif: spill-lifs-skjulested
     jogo_ratatoskr: spill-skapningene-i-treet
     jogo_seidr: spill-seidr-traden
