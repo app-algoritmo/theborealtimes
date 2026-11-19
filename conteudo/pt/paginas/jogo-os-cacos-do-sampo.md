@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-sampo" aria-label="Os cacos do Sampo" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=21" defer></script>
+<script src="/g/tela.js?v=22" defer></script>
 <script src="/g/sampo-cacos.js?v=1" defer></script>
 
 ## Como jogar
