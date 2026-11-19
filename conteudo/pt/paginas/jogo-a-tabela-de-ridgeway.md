@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-ridgeway" aria-label="A tabela de Ridgeway" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=22" defer></script>
+<script src="/g/tela.js?v=23" defer></script>
 <script src="/g/ridgeway-tabela.js?v=1" defer></script>
 
 ## Como jogar
