@@ -432,6 +432,19 @@ pt:
     jogo_papar: jogo-os-odres-dos-papar
     jogo_finfolk: jogo-as-moedas-dos-finfolk
     jogo_hogboon: jogo-a-porta-do-monte
+    jogo_lif: jogo-o-abrigo-de-lif
+    jogo_ratatoskr: jogo-as-criaturas-da-arvore
+    jogo_seidr: jogo-o-fio-do-seidr
+    jogo_audun: jogo-o-caminho-do-urso
+    jogo_kroka: jogo-as-caixas-de-ref
+    jogo_bosa: jogo-a-bolsa-de-sjod
+    jogo_finnboga: jogo-a-forca-de-finnbogi
+    jogo_hiddensee: jogo-os-pingentes-de-hiddensee
+    jogo_mammen: jogo-os-machados-de-mammen
+    jogo_topon: jogo-as-fazendas-do-danelaw
+    jogo_grobina: jogo-os-montes-de-grobina
+    jogo_selkiefocas: jogo-as-focas-das-rochas
+    jogo_trow: jogo-a-melodia-dos-trows
   curiosidades:
     - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
@@ -908,6 +921,19 @@ en:
     jogo_papar: game-the-waterskins-of-the-papar
     jogo_finfolk: game-the-finfolks-coins
     jogo_hogboon: game-the-door-of-the-mound
+    jogo_lif: game-lifs-hiding-place
+    jogo_ratatoskr: game-the-creatures-of-the-tree
+    jogo_seidr: game-the-thread-of-seidr
+    jogo_audun: game-the-bears-road
+    jogo_kroka: game-refs-crates
+    jogo_bosa: game-sjods-purse
+    jogo_finnboga: game-finnbogis-strength
+    jogo_hiddensee: game-the-hiddensee-pendants
+    jogo_mammen: game-the-axes-of-mammen
+    jogo_topon: game-the-farmsteads-of-the-danelaw
+    jogo_grobina: game-the-mounds-of-grobina
+    jogo_selkiefocas: game-the-seals-on-the-rocks
+    jogo_trow: game-the-melody-of-the-trows
   curiosidades:
     - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
@@ -1384,6 +1410,19 @@ en:
     jogo_papar: spill-paparenes-vannsekker
     jogo_finfolk: spill-finfolkenes-mynter
     jogo_hogboon: spill-porten-i-haugen
+    jogo_lif: spill-lifs-skjulested
+    jogo_ratatoskr: spill-skapningene-i-treet
+    jogo_seidr: spill-seidr-traden
+    jogo_audun: spill-bjornens-vei
+    jogo_kroka: spill-refs-kasser
+    jogo_bosa: spill-sjods-pung
+    jogo_finnboga: spill-finnbogis-styrke
+    jogo_hiddensee: spill-hiddensee-anheng
+    jogo_mammen: spill-mammen-oksene
+    jogo_topon: spill-gardene-i-danelaw
+    jogo_grobina: spill-haugene-i-grobina
+    jogo_selkiefocas: spill-selene-pa-skjaerene
+    jogo_trow: spill-trollenes-melodi
   curiosidades:
     - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
     - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
