@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-osborn" aria-label="Kongens harer" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=30" defer></script>
+<script src="/g/tela.js?v=31" defer></script>
 <script src="/g/osborn-as-lebres-do-rei.js?v=1" defer></script>
 
 ## Slik spiller du

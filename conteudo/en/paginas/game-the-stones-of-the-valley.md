@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-vatnsdaela" aria-label="The stones of the valley" role="img"></canvas></div>
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
-<script src="/g/tela.js?v=30" defer></script>
+<script src="/g/tela.js?v=31" defer></script>
 <script src="/g/vatnsdaela-pedras-do-vale.js?v=1" defer></script>
 
 ## How to play

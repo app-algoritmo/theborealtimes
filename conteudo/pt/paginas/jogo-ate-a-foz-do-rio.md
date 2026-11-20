@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-haraldklak" aria-label="Até a foz do rio" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=30" defer></script>
+<script src="/g/tela.js?v=31" defer></script>
 <script src="/g/harald-klak-ate-a-foz.js?v=1" defer></script>
 
 ## Como jogar
