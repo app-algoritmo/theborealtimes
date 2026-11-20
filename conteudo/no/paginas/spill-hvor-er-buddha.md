@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-helgo" aria-label="Hvor er Buddha?" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=29" defer></script>
+<script src="/g/tela.js?v=30" defer></script>
 <script src="/g/helgo-onde-esta-o-buda.js?v=1" defer></script>
 
 ## Slik spiller du

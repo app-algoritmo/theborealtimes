@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-galloway" aria-label="Galloway-skatten" role="img"></canvas></div>
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
-<script src="/g/tela.js?v=29" defer></script>
+<script src="/g/tela.js?v=30" defer></script>
 <script src="/g/galloway-tesouro-camadas.js?v=1" defer></script>
 
 ## Slik spiller du

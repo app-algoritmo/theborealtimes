@@ -459,6 +459,19 @@ pt:
     jogo_dovregato: jogo-a-ceia-dos-trolls
     jogo_ursocauda: jogo-a-pesca-no-gelo
     jogo_barcodepedra: jogo-a-corrente-da-rainha
+    jogo_bifrost: jogo-as-tres-cores
+    jogo_draupnir: jogo-a-nona-noite
+    jogo_aegir: jogo-a-cerveja-dos-deuses
+    jogo_jolasveinar: jogo-a-ceia-guardada
+    jogo_panqueca: jogo-a-descida-da-colina
+    jogo_osborn: jogo-as-lebres-do-rei
+    jogo_fanitullen: jogo-as-cordas-da-rabeca
+    jogo_halli: jogo-o-retruque
+    jogo_bjarni: jogo-sem-bussola
+    jogo_kingittorsuaq: jogo-as-tres-vardar
+    jogo_bryggen: jogo-os-paus-de-runas
+    jogo_hogbacks: jogo-as-telhas-de-pedra
+    jogo_haraldgille: jogo-as-nove-relhas
     jogo_skidbladnir: jogo-o-navio-no-bolso
     jogo_eiriksmal: jogo-os-reis-do-cortejo
     jogo_gjellestad: jogo-a-travessia-do-navio
@@ -988,6 +1001,19 @@ en:
     jogo_dovregato: game-the-trolls-feast
     jogo_ursocauda: game-fishing-through-the-ice
     jogo_barcodepedra: game-the-queens-chain
+    jogo_bifrost: game-the-three-colours
+    jogo_draupnir: game-the-ninth-night
+    jogo_aegir: game-the-gods-ale
+    jogo_jolasveinar: game-the-guarded-supper
+    jogo_panqueca: game-down-the-hill
+    jogo_osborn: game-the-kings-hares
+    jogo_fanitullen: game-the-fiddle-strings
+    jogo_halli: game-the-comeback
+    jogo_bjarni: game-no-compass
+    jogo_kingittorsuaq: game-the-three-cairns
+    jogo_bryggen: game-the-rune-sticks
+    jogo_hogbacks: game-the-stone-tiles
+    jogo_haraldgille: game-the-nine-ploughshares
     jogo_skidbladnir: game-the-ship-in-the-pocket
     jogo_eiriksmal: game-the-kings-of-the-train
     jogo_gjellestad: game-the-ship-crossing
@@ -1517,6 +1543,19 @@ en:
     jogo_dovregato: spill-trollenes-julemat
     jogo_ursocauda: spill-fiske-gjennom-isen
     jogo_barcodepedra: spill-dronningens-lenke
+    jogo_bifrost: spill-de-tre-fargene
+    jogo_draupnir: spill-den-niende-natten
+    jogo_aegir: spill-gudenes-ol
+    jogo_jolasveinar: spill-den-vaktede-kveldsmaten
+    jogo_panqueca: spill-nedover-bakken
+    jogo_osborn: spill-kongens-harer
+    jogo_fanitullen: spill-felestrengene
+    jogo_halli: spill-svaret
+    jogo_bjarni: spill-uten-kompass
+    jogo_kingittorsuaq: spill-de-tre-vardene
+    jogo_bryggen: spill-runepinnene
+    jogo_hogbacks: spill-steinsinglene
+    jogo_haraldgille: spill-de-ni-plogjernene
     jogo_skidbladnir: spill-skipet-i-lommen
     jogo_eiriksmal: spill-kongene-i-folget
     jogo_gjellestad: spill-seilasen-over-havet
