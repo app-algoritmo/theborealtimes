@@ -14,7 +14,7 @@ card:
 <div class="jogo"><canvas id="jogo-topon" aria-label="As fazendas do Danelaw" role="img"></canvas></div>
 <p class="jogo-nota">Toque no jogo para abrir em tela cheia. No computador, Esc sai; no celular, use o botão ✕.</p>
 <noscript>Este jogo precisa de JavaScript.</noscript>
-<script src="/g/tela.js?v=30" defer></script>
+<script src="/g/tela.js?v=31" defer></script>
 <script src="/g/topon-fazendas-do-danelaw.js?v=1" defer></script>
 
 ## Como jogar

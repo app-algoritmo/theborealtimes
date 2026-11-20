@@ -460,6 +460,19 @@ pt:
     jogo_dovregato: jogo-a-ceia-dos-trolls
     jogo_ursocauda: jogo-a-pesca-no-gelo
     jogo_barcodepedra: jogo-a-corrente-da-rainha
+    jogo_fimbulvetr: jogo-a-neve-dos-quatro-lados
+    jogo_hjuki: jogo-as-fases-da-lua
+    jogo_thjalfi: jogo-os-ossos-sobre-a-pele
+    jogo_patos: jogo-o-cardo-em-silencio
+    jogo_hacon: jogo-as-tres-trocas
+    jogo_vardoger: jogo-os-passos-antes-da-pessoa
+    jogo_paskkarringar: jogo-os-cartoes-de-pascoa
+    jogo_brand: jogo-o-que-o-rei-pede
+    jogo_gautrek: jogo-o-que-esta-na-saga
+    jogo_thorvard: jogo-as-rajadas-de-vento
+    jogo_lejre: jogo-o-monte-de-grydehoj
+    jogo_ribecranio: jogo-os-anoes-do-mercado
+    jogo_ales: jogo-o-navio-de-pedra
     jogo_bifrost: jogo-as-tres-cores
     jogo_draupnir: jogo-a-nona-noite
     jogo_aegir: jogo-a-cerveja-dos-deuses
@@ -1002,6 +1015,19 @@ en:
     jogo_dovregato: game-the-trolls-feast
     jogo_ursocauda: game-fishing-through-the-ice
     jogo_barcodepedra: game-the-queens-chain
+    jogo_fimbulvetr: game-snow-from-four-sides
+    jogo_hjuki: game-the-phases-of-the-moon
+    jogo_thjalfi: game-the-bones-on-the-hide
+    jogo_patos: game-the-thistle-in-silence
+    jogo_hacon: game-the-three-trades
+    jogo_vardoger: game-the-steps-before-the-person
+    jogo_paskkarringar: game-the-easter-cards
+    jogo_brand: game-what-the-king-asks
+    jogo_gautrek: game-what-is-in-the-saga
+    jogo_thorvard: game-the-gusts-of-wind
+    jogo_lejre: game-the-grydehoj-mound
+    jogo_ribecranio: game-the-dwarves-of-the-market
+    jogo_ales: game-the-stone-ship
     jogo_bifrost: game-the-three-colours
     jogo_draupnir: game-the-ninth-night
     jogo_aegir: game-the-gods-ale
@@ -1544,6 +1570,19 @@ en:
     jogo_dovregato: spill-trollenes-julemat
     jogo_ursocauda: spill-fiske-gjennom-isen
     jogo_barcodepedra: spill-dronningens-lenke
+    jogo_fimbulvetr: spill-sno-fra-fire-sider
+    jogo_hjuki: spill-manens-faser
+    jogo_thjalfi: spill-beina-pa-skinnet
+    jogo_patos: spill-tistelen-i-stillhet
+    jogo_hacon: spill-de-tre-byttene
+    jogo_vardoger: spill-skrittene-for-personen
+    jogo_paskkarringar: spill-paskekortene
+    jogo_brand: spill-det-kongen-ber-om
+    jogo_gautrek: spill-det-som-star-i-sagaen
+    jogo_thorvard: spill-vindkastene
+    jogo_lejre: spill-haugen-grydehoj
+    jogo_ribecranio: spill-dvergene-pa-markedet
+    jogo_ales: spill-skipet-av-stein
     jogo_bifrost: spill-de-tre-fargene
     jogo_draupnir: spill-den-niende-natten
     jogo_aegir: spill-gudenes-ol
