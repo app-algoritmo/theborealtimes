@@ -492,6 +492,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_saehrimnir: jogo-a-ceia-que-volta-inteira
+    jogo_jord: jogo-cada-mencao-na-sua-fonte
+    jogo_carvalho: jogo-as-lascas-do-carvalho
+    jogo_bukolla: jogo-os-tres-pelos-de-bukolla
+    jogo_myrka: jogo-a-porta-contra-o-diacono
+    jogo_askeladden: jogo-a-prata-e-o-ouro-da-encosta
+    jogo_laxdaela: jogo-cada-ato-no-seu-personagem
+    jogo_halldor: jogo-quem-fez-o-que-na-corte
+    jogo_snaefridr: jogo-sapo-cobra-e-lagarto
+    jogo_karlevi: jogo-cada-frase-na-sua-parte
+    jogo_froso: jogo-as-tabuas-da-ponte
+    jogo_maine: jogo-os-pares-de-moedas
+    jogo_aggersborg: jogo-o-forte-quadrante-por-quadrante
     jogo_ymir: jogo-cada-parte-no-seu-lugar
     jogo_sleipnir: jogo-a-estrada-de-sleipnir
     jogo_sigyn: jogo-a-tigela-sob-o-veneno
@@ -1071,6 +1084,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_saehrimnir: game-the-supper-that-returns-whole
+    jogo_jord: game-every-mention-in-its-source
+    jogo_carvalho: game-the-oak-chips
+    jogo_bukolla: game-the-three-hairs-of-bukolla
+    jogo_myrka: game-the-door-against-the-deacon
+    jogo_askeladden: game-the-silver-and-gold-of-the-hillside
+    jogo_laxdaela: game-every-act-to-its-character
+    jogo_halldor: game-who-did-what-at-court
+    jogo_snaefridr: game-toad-snake-and-lizard
+    jogo_karlevi: game-every-phrase-in-its-part
+    jogo_froso: game-the-planks-of-the-bridge
+    jogo_maine: game-the-pairs-of-coins
+    jogo_aggersborg: game-the-fort-quadrant-by-quadrant
     jogo_ymir: game-every-part-in-its-place
     jogo_sleipnir: game-sleipnir-s-road
     jogo_sigyn: game-the-bowl-under-the-venom
@@ -1650,6 +1676,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_saehrimnir: spill-middagen-som-kommer-tilbake-hel
+    jogo_jord: spill-hver-omtale-i-sin-kilde
+    jogo_carvalho: spill-eikeflisene
+    jogo_bukolla: spill-de-tre-harene-til-bukolla
+    jogo_myrka: spill-dora-mot-diakonen
+    jogo_askeladden: spill-solvet-og-gullet-i-lia
+    jogo_laxdaela: spill-hver-handling-hos-sin-person
+    jogo_halldor: spill-hvem-gjorde-hva-ved-hoffet
+    jogo_snaefridr: spill-padde-slange-og-firfisle
+    jogo_karlevi: spill-hver-frase-i-sin-del
+    jogo_froso: spill-plankene-i-broen
+    jogo_maine: spill-myntparene
+    jogo_aggersborg: spill-borgen-kvadrant-for-kvadrant
     jogo_ymir: spill-hver-del-pa-sin-plass
     jogo_sleipnir: spill-sleipnirs-vei
     jogo_sigyn: spill-skalen-under-giften
@@ -1887,6 +1926,19 @@ es:
     jogo_uppakra: juego-la-criba-de-las-laminas-de-oro
     jogo_birka: juego-los-barcos-en-el-muelle
     jogo_olof: juego-las-monedas-de-sigtuna
+    jogo_saehrimnir: juego-la-cena-que-vuelve-entera
+    jogo_jord: juego-cada-mencion-en-su-fuente
+    jogo_carvalho: juego-las-astillas-del-roble
+    jogo_bukolla: juego-los-tres-pelos-de-bukolla
+    jogo_myrka: juego-la-puerta-contra-el-diacono
+    jogo_askeladden: juego-la-plata-y-el-oro-de-la-ladera
+    jogo_laxdaela: juego-cada-acto-en-su-personaje
+    jogo_halldor: juego-quien-hizo-que-en-la-corte
+    jogo_snaefridr: juego-sapo-serpiente-y-lagarto
+    jogo_karlevi: juego-cada-frase-en-su-parte
+    jogo_froso: juego-las-tablas-del-puente
+    jogo_maine: juego-los-pares-de-monedas
+    jogo_aggersborg: juego-el-fuerte-cuadrante-por-cuadrante
   curiosidades: []
   interface:
     capa: Portada
