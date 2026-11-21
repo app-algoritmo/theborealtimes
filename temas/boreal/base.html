@@ -154,13 +154,6 @@
   </div>
 </div></footer>
 
-{# Sugestão de idioma pelo navegador. Nunca redireciona, nunca lê IP. #}
-<div class="idioma-sugestao" id="idioma-sugestao" hidden>
-  <span data-sug-texto></span>
-  <a href="#" data-sug-link></a>
-  <button aria-label="Fechar" data-fechar-idioma>&times;</button>
-</div>
-
 <script>
 (function () {
   var ATUAL = '{{ idioma.curto }}', VISTO = 'boreal-idioma-visto';
@@ -177,16 +170,6 @@
     var jaFoi = false;
     try { jaFoi = !!localStorage.getItem(AUTO); localStorage.setItem(AUTO, '1'); } catch (e) { jaFoi = true; }
     if (!jaFoi) { location.replace(alvo.url); return; }
-  }
-  if (alvo && quer !== ATUAL && !sessionStorage.getItem(VISTO)) {
-    var s = document.getElementById('idioma-sugestao');
-    s.querySelector('[data-sug-texto]').textContent = alvo.sugestao;
-    var l = s.querySelector('[data-sug-link]'); l.textContent = alvo.botao; l.href = alvo.url;
-    s.hidden = false;
-    s.querySelector('[data-fechar-idioma]').addEventListener('click', function () {
-      s.hidden = true;
-      try { sessionStorage.setItem(VISTO, '1'); } catch (e) {}
-    });
   }
 })();
 </script>
