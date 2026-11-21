@@ -42,6 +42,8 @@ MESES = {
            "August", "September", "October", "November", "December"],
     "no": ["januar", "februar", "mars", "april", "mai", "juni", "juli",
            "august", "september", "oktober", "november", "desember"],
+    "es": ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
+           "agosto", "septiembre", "octubre", "noviembre", "diciembre"],
 }
 
 PROIBIDAS = [
@@ -77,6 +79,8 @@ def data_longa(d: date, lang="pt") -> str:
         return f"{MESES['en'][d.month - 1]} {d.day}, {d.year}"
     if lang == "no":
         return f"{d.day}. {MESES['no'][d.month - 1]} {d.year}"
+    if lang == "es":
+        return f"{d.day} de {MESES['es'][d.month - 1]} de {d.year}"
     return f"{d.day} de {MESES['pt'][d.month - 1]} de {d.year}"
 
 
@@ -85,12 +89,18 @@ def data_curta(d: date, lang="pt") -> str:
         return f"{d.day} {MESES['en'][d.month - 1][:3]} {d.year}"
     if lang == "no":
         return f"{d.day}. {MESES['no'][d.month - 1][:3]} {d.year}"
-    return f"{d.day} {MESES['pt'][d.month - 1][:3]} {d.year}"
+    return f"{d.day} {MESES[lang if lang in MESES else 'pt'][d.month - 1][:3]} {d.year}"
 
 
 def carregar_config() -> dict:
     with CONFIG.open(encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        cfg = yaml.safe_load(f)
+    # Idioma com `ativo: false` fica pronto mas fora do site (nem menu, nem
+    # hreflang, nem sitemap) até ter conteúdo. BOREAL_TODOS_IDIOMAS=1 liga tudo,
+    # para testar.
+    if not os.environ.get("BOREAL_TODOS_IDIOMAS"):
+        cfg["idiomas"] = [i for i in cfg["idiomas"] if i.get("ativo", True)]
+    return cfg
 
 
 _cache_md = {}
@@ -168,7 +178,7 @@ def slugs_do_idioma(cfg, idioma):
     As matérias mais antigas ficam com o nome livre; a que colide ganha -2."""
     curto = idioma["curto"]
     t = cfg[curto]
-    usados = {"g", "estatico", "admin", "pt", "en", "no", "busca"}
+    usados = {"g", "estatico", "admin", "pt", "en", "no", "es", "busca"}
     usados |= set(t["paginas"].values()) | {s["slug"] for s in t["secoes"]}
     usados |= {p.stem for p in (CONTEUDO / curto / "paginas").glob("*.md")}
     saida = {}
@@ -620,6 +630,11 @@ def gerar_404(cfg):
     Google esquecer endereços que não existem mais."""
     nome = cfg["site"]["nome"]
     modelo = (RAIZ / "temas" / "boreal" / "404-modelo.html").read_text(encoding="utf-8")
+    ativos = {i["curto"] for i in cfg["idiomas"]}
+    for lang in ("es",):
+        if lang not in ativos:  # idioma pronto mas ainda fora do site: sem link para ele
+            modelo = re.sub(r'<a [^>]*data-l="%s"[^>]*>.*?</a>' % lang, "", modelo)
+            modelo = re.sub(r'<span data-l="%s">.*?</span>' % lang, "", modelo)
     escrever(SAIDA / "404.html", modelo.replace("@@NOME@@", nome))
 
 

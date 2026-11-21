@@ -106,7 +106,13 @@
       completo: 'komplett', vol: 'Bind'
     }
   };
-  var TX = TXT[L] || TXT.pt;
+  // Espanhol: herda o inglês até a tradução completa; já troca a navegação.
+  TXT.es = Object.assign({}, TXT.en, {
+    jg: 'Juegos', jogos: '/es/juegos/', galeria: '/es/galeria/', album: '/es/album/', home: '/es/',
+    menu_g: 'Galería', menu_a: 'Álbum', volta_b: 'Volver', fs: 'Pantalla completa', fs_sair: 'Salir de pantalla completa',
+    completo: 'completo', vol: 'Volumen', conta_t: 'Cuenta'
+  });
+  var TX = TXT[L] || TXT.en;
   var NATS = []; ITENS.forEach(function (x) { if (x.k && NATS.indexOf(x.k) < 0) NATS.push(x.k); });
 
   /* ---------- tela imersiva com imagem de fundo ---------- */

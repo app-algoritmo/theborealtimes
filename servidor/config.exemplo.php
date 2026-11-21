@@ -15,10 +15,10 @@ return [
   // Onde este script está publicado (sem barra no fim) e onde fica o site
   'base_url' => 'https://api.dsnorge.com/boreal',
   'site' => 'https://borealtimes.org',
-  'paginas' => ['pt' => '/pt/assinatura/', 'en' => '/subscribe/', 'no' => '/no/abonner/'],
+  'paginas' => ['pt' => '/pt/assinatura/', 'en' => '/subscribe/', 'no' => '/no/abonner/', 'es' => '/es/suscripcion/'],
 
   // Página do álbum em cada idioma (para o link do e-mail)
-  'album_paginas' => ['pt' => '/pt/album/', 'en' => '/album/', 'no' => '/no/album/'],
+  'album_paginas' => ['pt' => '/pt/album/', 'en' => '/album/', 'no' => '/no/album/', 'es' => '/es/album/'],
 
   // Quem pode chamar o formulário
   'origens' => ['https://borealtimes.org', 'https://www.borealtimes.org'],

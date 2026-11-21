@@ -54,31 +54,31 @@
   .botoes a.s:hover{background:rgba(255,255,255,.1)}
   .botoes a:focus-visible{outline:2px solid #fff;outline-offset:3px}
   [data-l]{display:none}
-  html[data-lang="en"] [data-l="en"],html[data-lang="pt"] [data-l="pt"],html[data-lang="no"] [data-l="no"]{display:block}
-  html[data-lang="en"] .botoes [data-l="en"],html[data-lang="pt"] .botoes [data-l="pt"],html[data-lang="no"] .botoes [data-l="no"]{display:inline-block}
+  html[data-lang="en"] [data-l="en"],html[data-lang="pt"] [data-l="pt"],html[data-lang="no"] [data-l="no"],html[data-lang="es"] [data-l="es"]{display:block}
+  html[data-lang="en"] .botoes [data-l="en"],html[data-lang="pt"] .botoes [data-l="pt"],html[data-lang="no"] .botoes [data-l="no"],html[data-lang="es"] .botoes [data-l="es"]{display:inline-block}
   html:not([data-lang]) [data-l="en"]{display:block}
   html:not([data-lang]) .botoes [data-l="en"]{display:inline-block}
   @media (prefers-reduced-motion:reduce){.neve,.quatro img{animation:none}}
 </style>
 <script>
   (function(){
-    var p=location.pathname,l=/^[/]en([/]|$)/.test(p)?"en":/^[/]no([/]|$)/.test(p)?"no":null;
+    var p=location.pathname,l=/^[/]es([/]|$)/.test(p)?"es":/^[/]pt([/]|$)/.test(p)?"pt":/^[/]no([/]|$)/.test(p)?"no":null;
     if(!l){var n=(navigator.language||"en").toLowerCase();l=n.indexOf("pt")===0?"pt":/^(nb|nn|no)/.test(n)?"no":"en";}
-    var h=document.documentElement;h.setAttribute("data-lang",l);h.lang=l==="no"?"nb":l==="pt"?"pt-BR":"en";
+    var h=document.documentElement;h.setAttribute("data-lang",l);h.lang=l==="no"?"nb":l==="pt"?"pt-BR":l==="es"?"es":"en";
   })();
 </script>
 </head>
 <body>
 <div class="neve" aria-hidden="true"></div>
 <main>
-  <p class="selo"><span data-l="en">Error 404 · Path lost</span><span data-l="pt">Erro 404 · Caminho perdido</span><span data-l="no">Feil 404 · Veien er borte</span></p>
+  <p class="selo"><span data-l="en">Error 404 · Path lost</span><span data-l="pt">Erro 404 · Caminho perdido</span><span data-l="no">Feil 404 · Veien er borte</span><span data-l="es">Error 404 · Camino perdido</span></p>
   <div class="quatro" aria-label="404"><span aria-hidden="true">4</span><img src="/estatico/img/capacete-branco.png" alt="" width="123" height="128"><span aria-hidden="true">4</span></div>
   <div class="fio" aria-hidden="true"></div>
-  <h1><span data-l="en">Even Odin got lost here</span><span data-l="pt">Até Odin se perdeu por aqui</span><span data-l="no">Selv Odin gikk seg vill her</span></h1>
-  <p class="msg"><span data-l="en">His two ravens flew across the world and neither found this page. Maybe it sailed off to Vinland without telling anyone. Shall we head back to port?</span><span data-l="pt">Seus dois corvos voaram o mundo inteiro e nenhum achou esta página. Talvez ela tenha zarpado para Vinland sem avisar ninguém. Que tal voltar ao porto?</span><span data-l="no">De to ravnene hans fløy over hele verden, og ingen fant denne siden. Kanskje den seilte til Vinland uten å si fra til noen. Skal vi sette kursen tilbake til havna?</span></p>
+  <h1><span data-l="en">Even Odin got lost here</span><span data-l="pt">Até Odin se perdeu por aqui</span><span data-l="no">Selv Odin gikk seg vill her</span><span data-l="es">Hasta Odín se perdió por aquí</span></h1>
+  <p class="msg"><span data-l="en">His two ravens flew across the world and neither found this page. Maybe it sailed off to Vinland without telling anyone. Shall we head back to port?</span><span data-l="pt">Seus dois corvos voaram o mundo inteiro e nenhum achou esta página. Talvez ela tenha zarpado para Vinland sem avisar ninguém. Que tal voltar ao porto?</span><span data-l="no">De to ravnene hans fløy over hele verden, og ingen fant denne siden. Kanskje den seilte til Vinland uten å si fra til noen. Skal vi sette kursen tilbake til havna?</span><span data-l="es">Sus dos cuervos recorrieron el mundo entero y ninguno encontró esta página. Quizá zarpó hacia Vinland sin avisar a nadie. ¿Volvemos a puerto?</span></p>
   <div class="botoes">
-    <a class="p" data-l="en" href="/">Back to the front page</a><a class="p" data-l="pt" href="/pt/">Voltar ao início</a><a class="p" data-l="no" href="/no/">Tilbake til forsiden</a>
-    <a class="s" data-l="en" href="/gallery/">Play a game</a><a class="s" data-l="pt" href="/pt/galeria/">Jogar um jogo</a><a class="s" data-l="no" href="/no/galleri/">Spill et spill</a>
+    <a class="p" data-l="en" href="/">Back to the front page</a><a class="p" data-l="pt" href="/pt/">Voltar ao início</a><a class="p" data-l="no" href="/no/">Tilbake til forsiden</a><a class="p" data-l="es" href="/es/">Volver a la portada</a>
+    <a class="s" data-l="en" href="/gallery/">Play a game</a><a class="s" data-l="pt" href="/pt/galeria/">Jogar um jogo</a><a class="s" data-l="no" href="/no/galleri/">Spill et spill</a><a class="s" data-l="es" href="/es/galeria/">Jugar un juego</a>
   </div>
 </main>
 </body>

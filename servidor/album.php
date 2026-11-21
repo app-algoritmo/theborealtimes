@@ -42,12 +42,13 @@ try {
       $tk = bin2hex(random_bytes(32));
       $db->prepare('INSERT INTO boreal_album_tokens (hash, conta_id, tipo, expira_em) VALUES (?,?,?,?)')->execute([h($tk), $a['id'], 'link', mais($LINK_MIN * 60)]);
       $db->prepare('UPDATE boreal_album_contas SET ultimo_link=?, idioma=? WHERE id=?')->execute([agora(), $idioma, $a['id']]);
-      $ap = $c['album_paginas'] ?? ['pt' => '/pt/album/', 'en' => '/album/', 'no' => '/no/album/'];
+      $ap = $c['album_paginas'] ?? ['pt' => '/pt/album/', 'en' => '/album/', 'no' => '/no/album/', 'es' => '/es/album/'];
       $pg = $ap[$idioma] ?? $ap['pt'];
       $link = $c['site'] . $pg . '#entrar=' . $tk;
       $T = [
         'pt' => ['Seu link para o Álbum de Figurinhas', "Olá!\n\nAbra este link para entrar no seu Álbum de Figurinhas do Boreal Saga Play. Ele vale por $LINK_MIN minutos e só funciona uma vez:\n\n$link\n\nSe não foi você que pediu, ignore esta mensagem: nada será feito."],
         'en' => ['Your link to the Sticker Album', "Hello!\n\nOpen this link to sign in to your Boreal Saga Play Sticker Album. It is valid for $LINK_MIN minutes and works only once:\n\n$link\n\nIf you did not ask for it, ignore this message: nothing will happen."],
+        'es' => ['Tu enlace al Álbum de cromos', "¡Hola!\n\nAbre este enlace para entrar en tu Álbum de cromos de Boreal Saga Play. Es válido durante $LINK_MIN minutos y solo funciona una vez:\n\n$link\n\nSi no lo has pedido tú, ignora este mensaje: no pasará nada."],
         'no' => ['Lenken din til klistremerkealbumet', "Hei!\n\nÅpne denne lenken for å logge inn på klistremerkealbumet ditt i Boreal Saga Play. Den gjelder i $LINK_MIN minutter og virker bare én gang:\n\n$link\n\nHvis du ikke ba om den, kan du ignorere denne meldingen: ingenting skjer."],
       ][$idioma];
       enviar_email($email, $T[0], $T[1]);
