@@ -78,6 +78,13 @@ idiomas:
     rotulo: English
     principal: true
     slug_do_titulo: true
+  - codigo: es-ES
+    curto: es
+    prefixo: /es
+    rotulo: Español
+    principal: false
+    slug_do_titulo: true
+    ativo: false   # pronto, mas fora do site até haver conteúdo; trocar por true para publicar
 
 # ============================================================
 # CONTEÚDO POR IDIOMA
@@ -1787,3 +1794,169 @@ en:
       finnes en kilde, står den oppført til slutt.</p>
       <p>Tekstene er fortalt av kunstig intelligens. Ansvarlig redaktør er
       Paulo Fernando de Barros.</p>
+
+es:
+  lema: Mitos · Sagas · Era vikinga · Cuentos
+  chamada_topo: Historias y cuentos escandinavos
+  descricao: >-
+    Boreal Saga Play es una plataforma digital dedicada a las historias y los juegos de Escandinavia: mitos, sagas e historia del mundo nórdico, con más de 300 narraciones, cada una con su propio juego.
+  rodape:
+    sobre: >-
+      Historias de Escandinavia y del mundo nórdico, en español, inglés, portugués y noruego.
+    secoes: Secciones
+    jornal: El sitio
+    legal: Legal
+    redes: Síguenos
+    privacidade: Privacidad
+    termos: Términos
+    editor: Editor responsable
+    links_jornal:
+      - { rotulo: Quiénes somos, url: /es/quienes-somos/ }
+      - { rotulo: Principios editoriales, url: /es/principios-editoriales/ }
+      - { rotulo: Correcciones, url: /es/correcciones/ }
+      - { rotulo: Contacto, url: /es/contacto/ }
+    links_legal:
+      - { rotulo: Suscripción, url: /es/suscripcion/ }
+      - { rotulo: Términos de uso, url: /es/terminos/ }
+      - { rotulo: Privacidad, url: /es/privacidad/ }
+      - { rotulo: Cookies, url: /es/cookies/ }
+  paginas:
+    arquivo: archivo
+    sobre: acerca
+    quem_somos: quienes-somos
+    principios: principios-editoriales
+    correcoes: correcciones
+    contato: contacto
+    assinatura: suscripcion
+    termos: terminos
+    privacidade: privacidad
+    cookies: cookies
+    jogos: juegos
+    progresso: mi-progreso
+    galeria: galeria
+    album: album
+  curiosidades: []
+  interface:
+    capa: Portada
+    menu_inicio: Historias
+    menu_jogos: Juegos
+    menu_galeria: Galería
+    menu_album: Álbum
+    menu_progresso: Mi progreso
+    linha_edicao: por The Boreal Times · Duna Press Editions
+    sobre: Acerca de
+    assine: Suscríbete
+    ultimas: Mira también
+    ler_historia: Leer la historia
+    jogar_sagas: Jugar las sagas
+    surpreenda: Sorpréndeme
+    sabia: ¿Sabías que…?
+    leia: Leer
+    reinos_titulo: Elige tu reino
+    reinos_sub: Cuatro puertas al mundo escandinavo, de los dioses a los cuentos junto al fuego.
+    n_historias: historias
+    entrar: Entrar
+    jogos_titulo: Juega las historias
+    jogos_texto: Cada historia publicada aquí tiene un juego que puedes jugar a pantalla completa, en el móvil, la tableta o el ordenador. Sin registro y sin recogida de datos.
+    jogos_botao: Abrir la sala de juegos
+    jogos_n: juegos listos para jugar
+    assine_titulo: Recibe las próximas historias
+    assine_texto: Cada semana llegan nuevos mitos, sagas y cuentos, siempre con la fuente y la diferencia entre historia y leyenda.
+    assine_botao: Quiero suscribirme
+    ver_tudo: Ver todo
+    sc_destaque: Empieza por aquí
+    sc_historias: Historias de este reino
+    sc_jogos: Juega este reino
+    sc_jogos_sub: Juegos ligados a las historias de aquí. A pantalla completa y sin registro.
+    sc_jogar: Jugar
+    sc_novo: Nuevo
+    sc_outros: Otros reinos
+    sc_n_hist: historias
+    sc_n_jogos: juegos
+    sc_comecar: Empezar a leer
+    sc_ir_jogos: Ir a los juegos
+    arquivo: Archivo
+    as_secoes: Las secciones
+    vazio: Todavía no hay nada publicado en esta sección.
+    leitura: min de lectura
+    natureza: Naturaleza del texto
+    narrado: Narrado por inteligencia artificial
+    ouvir: Escuchar
+    ouvir_pausar: Pausar
+    ouvir_continuar: Continuar
+    ouvir_parar: Detener
+    compartilhar: Compartir
+    link_copiado: Enlace copiado
+    ouvir_lang: es-ES
+    editor: Editor responsable
+    fontes: Fuentes
+    as_naturezas: Cómo leer cada texto
+    atualizado: Actualizado
+    idioma_sugestao: Este sitio también se publica en español.
+    idioma_sugestao_botao: Leer en español
+  naturezas:
+    - nome: Historia documentada
+      fonte_obrigatoria: true
+      descricao: >-
+        Hechos, personas y lugares respaldados por la arqueología, por
+        documentos o por el trabajo de los historiadores. Donde los
+        especialistas discrepan, el texto lo dice.
+    - nome: Saga o fuente medieval
+      fonte_obrigatoria: true
+      descricao: >-
+        Lo que cuenta una saga, una crónica u otro texto medieval, siempre
+        atribuido a él. Muchos se escribieron siglos después de los hechos, y
+        el texto no los trata como registro exacto.
+    - nome: Mito o leyenda
+      fonte_obrigatoria: true
+      descricao: >-
+        Historias de dioses, seres y héroes de la tradición nórdica, contadas
+        a partir de las fuentes que las conservaron. Nunca se presentan como
+        hechos.
+    - nome: Cuento original
+      fonte_obrigatoria: false
+      descricao: >-
+        Ficción inventada para este sitio, inspirada en el folclore y los
+        mitos del Norte. No es tradición documentada.
+  secoes:
+    - nome: Mitos y dioses
+      slug: mitos
+      lema: "Antes de los reyes, hubo dioses."
+      intro: "Nueve mundos colgados de un árbol, un dios que cambió un ojo por sabiduría, un martillo que llama a la tormenta. Aquí los mitos se cuentan tal como los conservaron las fuentes, en las Eddas y en Snorri, sin hacerlos pasar nunca por historia y siempre con el origen de cada pieza."
+      descricao: >-
+        Odín, Thor, Freya, Loki y los nueve mundos. La mitología nórdica tal
+        como ha llegado hasta nosotros, en las Eddas y otras fuentes.
+    - nome: Sagas y reyes
+      slug: sagas
+      lema: "Junto al fuego, la memoria se hace canto."
+      intro: "Reyes, poetas y vengadores, contados por los islandeses mucho después de los hechos. Las sagas son literatura y son fuentes: a veces confirmadas por piedras rúnicas y crónicas, a veces puro talento de narrador. Cada texto separa lo que dice la fuente de lo que respalda la historia."
+      descricao: >-
+        Las sagas islandesas y los reyes de Noruega, Suecia y Dinamarca, entre
+        lo que cuenta la fuente y lo que confirma la historia.
+    - nome: Era vikinga
+      slug: era-vikinga
+      lema: "El mar era el camino."
+      intro: "Desde finales del siglo VIII hasta el XI, barcos estrechos llevaron a comerciantes, colonos y guerreros del mar del Norte a Constantinopla y a América del Norte. Aquí habla primero la arqueología: barcos, espadas, monedas, runas y lo que todavía no sabemos."
+      descricao: >-
+        Navegación, comercio, asentamientos y expediciones, desde finales del
+        siglo VIII hasta el XI, y lo que muestra la arqueología.
+    - nome: Cuentos y folclore
+      slug: cuentos
+      lema: "Cuando la luz se va pronto, los cuentos crecen."
+      intro: "Trolls bajo el puente, nisser en el establo, huldrefolk en el bosque. El folclore escandinavo fue recopilado por autores como Asbjørnsen y Moe, y aquí convive con historias originales, siempre señaladas como inventadas."
+      descricao: >-
+        Trolls, huldrefolk, nisser y cuentos de hadas escandinavos: el
+        folclore y las historias originales inspiradas en él.
+  manifesto:
+    titulo: Mitos, sagas e historias del Norte, de todas las épocas
+    chamada: >-
+      Los dioses de Asgard, los reyes de las sagas, los marinos que cruzaron
+      el Atlántico, los cuentos de hadas escandinavos: verdaderos, legendarios
+      o inventados, con la naturaleza de cada uno indicada al principio de la
+      página.
+    origem: >-
+      <p>Cada texto indica su naturaleza: historia documentada, saga o fuente
+      medieval, mito o leyenda, o cuento original. Cuando hay fuente, aparece
+      al final.</p>
+      <p>Los textos están narrados por inteligencia artificial. El editor
+      responsable es Paulo Fernando de Barros.</p>

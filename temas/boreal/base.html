@@ -13,7 +13,8 @@
 {# Menu de idiomas: todos, na ordem da configuração (norueguês primeiro). #}
 {% set menu_idiomas = [] %}
 {% for i in cfg.idiomas %}
-  {% set u = (alt|selectattr('curto','equalto',i.curto)|map(attribute='url')|first) %}
+  {% set ul = alt|selectattr('curto','equalto',i.curto)|map(attribute='url')|list %}
+  {% set u = ul[0] if ul else '' %}
   {% set _ = menu_idiomas.append({'curto': i.curto, 'codigo': i.codigo, 'rotulo': i.rotulo, 'url': (u or (i.prefixo ~ '/')),
       'sugestao': cfg[i.curto].interface.idioma_sugestao, 'botao': cfg[i.curto].interface.idioma_sugestao_botao}) %}
 {% endfor %}
@@ -165,12 +166,12 @@
   var ATUAL = '{{ idioma.curto }}', VISTO = 'boreal-idioma-visto';
   var IDIOMAS = {{ menu_idiomas|tojson }};
   var nav = (navigator.language || 'en').slice(0, 2).toLowerCase();
-  var quer = (nav === 'nb' || nav === 'nn') ? 'no' : (nav === 'pt' || nav === 'no') ? nav : 'en';
+  var quer = (nav === 'nb' || nav === 'nn') ? 'no' : (nav === 'pt' || nav === 'no' || nav === 'es') ? nav : 'en';
   var alvo = IDIOMAS.filter(function (i) { return i.curto === quer; })[0];
-  /* Primeira visita a uma página inicial (/, /pt/, /no/): abre no idioma do navegador.
+  /* Primeira visita a uma página inicial (/, /pt/, /no/, /es/): abre no idioma do navegador.
      Só uma vez por aparelho; depois disso o idioma é escolha do leitor. Matérias e jogos
      nunca trocam sozinhos (só mostram a sugestão abaixo), e robôs de busca não são desviados. */
-  var INICIO = ['/', '/pt/', '/no/'].indexOf(location.pathname) !== -1, AUTO = 'boreal-idioma-auto';
+  var INICIO = ['/', '/pt/', '/no/', '/es/'].indexOf(location.pathname) !== -1, AUTO = 'boreal-idioma-auto';
   if (alvo && quer !== ATUAL && INICIO && !navigator.webdriver && !/bot|crawl|spider|lighthouse|slurp|preview/i.test(navigator.userAgent)) {
     var jaFoi = false;
     try { jaFoi = !!localStorage.getItem(AUTO); localStorage.setItem(AUTO, '1'); } catch (e) { jaFoi = true; }

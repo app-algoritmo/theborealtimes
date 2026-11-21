@@ -8,11 +8,12 @@
 (function () {
   'use strict';
   var l2 = (document.documentElement.lang || 'pt').slice(0, 2).toLowerCase();
-  var L = l2 === 'en' ? 'en' : (l2 === 'nb' || l2 === 'no' || l2 === 'nn') ? 'no' : 'pt';
+  var L = l2 === 'en' ? 'en' : l2 === 'es' ? 'es' : (l2 === 'nb' || l2 === 'no' || l2 === 'nn') ? 'no' : 'pt';
   var UI = {
     pt: { jogar: '▶ Jogar em tela cheia', sair: 'Sair', pausa: 'Pausar', pausado: 'Pausado', retomar: 'Toque para continuar' },
     en: { jogar: '▶ Play fullscreen', sair: 'Exit', pausa: 'Pause', pausado: 'Paused', retomar: 'Tap to continue' },
-    no: { jogar: '▶ Spill på hel skjerm', sair: 'Avslutt', pausa: 'Pause', pausado: 'På pause', retomar: 'Trykk for å fortsette' }
+    no: { jogar: '▶ Spill på hel skjerm', sair: 'Avslutt', pausa: 'Pause', pausado: 'På pause', retomar: 'Trykk for å fortsette' },
+    es: { jogar: '▶ Jugar a pantalla completa', sair: 'Salir', pausa: 'Pausa', pausado: 'En pausa', retomar: 'Toca para continuar' }
   }[L];
 
   /* ================= Efeitos, som, pontuação e dificuldade =================
@@ -25,7 +26,8 @@
   var TX = {
     pt: { dif: ['Fácil', 'Normal', 'Difícil', 'Lendário'], pts: 'Pontos', rec: 'Recorde', novo: 'Novo recorde!', som: 'Som', med: ['Bronze', 'Prata', 'Ouro'], comp: 'Compartilhar', cp: 'Link copiado', fiz: function (n, t, d, m) { return 'Fiz ' + n + ' pontos em "' + t + '" (' + d + ') ' + m + ' — borealtimes.org'; } },
     en: { dif: ['Easy', 'Normal', 'Hard', 'Legendary'], pts: 'Score', rec: 'Best', novo: 'New best!', som: 'Sound', med: ['Bronze', 'Silver', 'Gold'], comp: 'Share', cp: 'Link copied', fiz: function (n, t, d, m) { return 'I scored ' + n + ' points in "' + t + '" (' + d + ') ' + m + ' — borealtimes.org'; } },
-    no: { dif: ['Lett', 'Normal', 'Vanskelig', 'Legendarisk'], pts: 'Poeng', rec: 'Rekord', novo: 'Ny rekord!', som: 'Lyd', med: ['Bronse', 'Sølv', 'Gull'], comp: 'Del', cp: 'Lenke kopiert', fiz: function (n, t, d, m) { return 'Jeg fikk ' + n + ' poeng i «' + t + '» (' + d + ') ' + m + ' — borealtimes.org'; } }
+    no: { dif: ['Lett', 'Normal', 'Vanskelig', 'Legendarisk'], pts: 'Poeng', rec: 'Rekord', novo: 'Ny rekord!', som: 'Lyd', med: ['Bronse', 'Sølv', 'Gull'], comp: 'Del', cp: 'Lenke kopiert', fiz: function (n, t, d, m) { return 'Jeg fikk ' + n + ' poeng i «' + t + '» (' + d + ') ' + m + ' — borealtimes.org'; } },
+    es: { dif: ['Fácil', 'Normal', 'Difícil', 'Legendario'], pts: 'Puntos', rec: 'Récord', novo: '¡Nuevo récord!', som: 'Sonido', med: ['Bronce', 'Plata', 'Oro'], comp: 'Compartir', cp: 'Enlace copiado', fiz: function (n, t, d, m) { return 'He logrado ' + n + ' puntos en «' + t + '» (' + d + ') ' + m + ' — borealtimes.org'; } }
   }[L];
   var MEDAL = ['', '🥉', '🥈', '🥇'];
   var RE_BAD = /erro|falha|ferid|engano|tremor|encost|levado|passaram|pedra|casco|feil|bom$|forbi|stein|skrog|skjelv|sår|tatt|mistake|miss|failure|wound|touch|taken|passed|stone|hull|berøring/i;

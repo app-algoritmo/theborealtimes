@@ -1,5 +1,5 @@
 (function () {
-  var P = location.pathname, L = P.indexOf('/pt/') === 0 ? 'pt' : P.indexOf('/no/') === 0 ? 'no' : 'en';
+  var P = location.pathname, L = P.indexOf('/pt/') === 0 ? 'pt' : P.indexOf('/no/') === 0 ? 'no' : P.indexOf('/es/') === 0 ? 'es' : 'en';
   var RM = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
   var TX = {
     pt: {
@@ -44,7 +44,19 @@
         ['Ti gull', 'Ta 10 gullmedaljer'], ['Legendarisk temmer', 'Vinn på Legendarisk'], ['Alle vanskelighetsgrader', 'Vinn på Lett, Normal, Vanskelig og Legendarisk'],
         ['Reisende i fire riker', 'Vinn minst ett spill i hvert rike'], ['Herre over et rike', 'Vinn alle spillene i ett rike'], ['Trippelt gull', 'Gull på Normal, Vanskelig og Legendarisk i samme spill'], ['Asgards legende', 'Vinn alle spillene']]
     }
-  }[L];
+  };
+  // Espanhol: herda o inglês até a tradução completa; já troca o essencial.
+  TX.es = Object.assign({}, TX.en, {
+    ranks: ['Viajero', 'Grumete', 'Remero', 'Guerrero', 'Escaldo', 'Jarl', 'Rey del Norte', 'Leyenda de Asgard'],
+    nivel: 'Nivel', de: 'juegos superados', pts: 'puntos de saga', maximo: '¡Has llegado a la cima de la saga!', toque: 'Toca el emblema',
+    reinos: 'Los cuatro reinos', conq: 'Logros', salao: 'Sala de juegos',
+    reino: { mitos: 'Mitos y dioses', sagas: 'Sagas y reyes', viking: 'Era vikinga', contos: 'Cuentos y folclore' }, conquistado: '¡Reino conquistado!',
+    todos: 'Todos', ven: 'Superados', fal: 'Faltan', ir: 'Elegir un juego', comp: 'Compartir mi saga', copiado: '¡Copiado!',
+    dif: ['Fácil', 'Normal', 'Difícil', 'Legendario'], medalhas: 'medallas', som: 'Sonido', jogos: '/es/juegos/',
+    falta: function (k, r) { return 'Faltan ' + k + (k === 1 ? ' victoria' : ' victorias') + ' para ' + r; },
+    txt: function (n, t, r) { return 'Soy ' + r + ' en Boreal Saga Play: ¡he superado ' + n + ' de ' + t + ' juegos!'; }
+  });
+  TX = TX[L] || TX.en;
   var EMB = ['🧭', '⚓', '🛶', '⚔️', '📜', '🛡️', '👑', '⚡'];
   var AEMO = ['⚔️', '🛶', '⚓', '🧭', '🌟', '🥇', '🔥', '🎚️', '🗺️', '🏰', '💎', '⚡'];
   var COR = { mitos: '#f5a800', sagas: '#e5322d', viking: '#00a3c7', contos: '#12a150' };
