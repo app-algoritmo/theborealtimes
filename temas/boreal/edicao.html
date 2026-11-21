@@ -51,7 +51,7 @@
 
     {% if pagina.tags %}
     <div class="etiquetas">
-      {% for tag in pagina.tags %}<a href="{{ idioma.prefixo }}/busca/?t={{ tag }}">{{ tag }}</a>{% endfor %}
+      {% for tag in pagina.tags %}<span>{{ tag }}</span>{% endfor %}
     </div>
     {% endif %}
   </div>
