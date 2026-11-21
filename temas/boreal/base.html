@@ -23,9 +23,8 @@
 {% for i in alt %}
 <link rel="alternate" hreflang="{{ i.codigo }}" href="{{ site.url }}{{ i.url }}">
 {% endfor %}
-{% for i in alt %}{% if i.principal %}
-<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ i.url }}">
-{% endif %}{% endfor %}
+{% set xd = alt|selectattr("curto", "equalto", "en")|list %}
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ (xd[0] if xd else alt[0]).url }}">
 {% endif %}
 
 <meta property="og:site_name" content="{{ site.nome }}">
@@ -108,7 +107,7 @@
 <body>
 
 <div class="faixa-topo"><div class="env">
-  <span><b>{{ ano_romano }}</b></span>
+  <span class="topo-marca"><img class="capacete" src="/estatico/img/capacete-branco.png" alt="" width="10" height="10"><b>{{ ano_romano }}</b></span>
   <span>{{ t.chamada_topo }}</span>
   <span>
     <span class="idiomas" role="navigation" aria-label="Language">{% for i in menu_idiomas %}{% if i.curto == idioma.curto %}<span class="idioma-atual" aria-current="true" lang="{{ i.codigo }}" title="{{ i.rotulo }}">{{ i.curto|upper }}</span>{% else %}<a href="{{ i.url }}" hreflang="{{ i.codigo }}" lang="{{ i.codigo }}" title="{{ i.rotulo }}" aria-label="{{ i.rotulo }}">{{ i.curto|upper }}</a>{% endif %}{% endfor %}</span>
