@@ -570,44 +570,12 @@ def gerar_catalogo(cfg, CAT):
 
 
 def gerar_404(cfg):
-    """Página para qualquer endereço que não existe (a Cloudflare Pages serve
-    o 404.html da raiz). O endereço antigo continua respondendo 404 — é o que
-    faz o Google esquecê-lo — mas quem chega nele é levado à página inicial
-    do idioma do endereço: /en/... vai para /en/, o resto para /.
-    """
+    """Página 404 elegante e trilíngue (modelo em temas/boreal/404-modelo.html).
+    A Cloudflare Pages serve o 404.html da raiz com status 404, o que faz o
+    Google esquecer endereços que não existem mais."""
     nome = cfg["site"]["nome"]
-    roxo = "#4B2A7B"
-    html = f"""<!doctype html>
-<html lang="pt-BR">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex">
-<meta name="theme-color" content="{roxo}">
-<title>{nome}</title>
-<meta http-equiv="refresh" content="3;url=/">
-<script>
-  // Imediato quando há JavaScript; o meta refresh acima cobre o resto.
-  var p = location.pathname; location.replace(/^[/]en([/]|$)/.test(p) ? "/en/" : /^[/]no([/]|$)/.test(p) ? "/no/" : "/");
-</script>
-<style>
-  body{{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
-       background:{roxo};color:#fff;font-family:Georgia,serif;text-align:center;padding:24px}}
-  h1{{font-size:clamp(34px,8vw,64px);margin:0 0 14px}}
-  p{{margin:6px 0;opacity:.85}}
-  a{{color:#fff}}
-</style>
-</head>
-<body>
-<main>
-  <h1>{nome}</h1>
-  <p>Esta página mudou de lugar. Levando você à página inicial…</p>
-  <p><a href="/">Ir para a página inicial</a> · <a href="/en/">Go to the front page</a> · <a href="/no/">Gå til forsiden</a></p>
-</main>
-</body>
-</html>
-"""
-    escrever(SAIDA / "404.html", html)
+    modelo = (RAIZ / "temas" / "boreal" / "404-modelo.html").read_text(encoding="utf-8")
+    escrever(SAIDA / "404.html", modelo.replace("@@NOME@@", nome))
 
 
 def gerar_rss(site, t, idioma, materias, raiz_saida):
