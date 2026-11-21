@@ -23,4 +23,4 @@ Conduza o navio de Absalon pelo estreito. Toque do lado esquerdo ou direito da t
 
 ## A história por trás
 
-Em 1167, segundo Saxo, o bispo Absalon fundou um castelo em Havn, na ilha de Slotsholmen, e a cidade de Copenhague cresceu ao redor dele. O estreito cheio de baixios é invenção. Leia a história em [Absalon funda o castelo de Havn em 1167, onde Copenhague começou](/2027/03/14/absalon-funda-o-castelo-de-havn-em-1167-onde-copenhague-comecou/).
+Em 1167, segundo Saxo, o bispo Absalon fundou um castelo em Havn, na ilha de Slotsholmen, e a cidade de Copenhague cresceu ao redor dele. O estreito cheio de baixios é invenção. Leia a história em [Absalon funda o castelo de Havn em 1167, onde Copenhague começou](/pt/absalon-funda-o-castelo-de-havn-em-1167-onde-copenhague-comecou/).

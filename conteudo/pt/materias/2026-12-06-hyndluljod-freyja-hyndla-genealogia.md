@@ -37,4 +37,4 @@ O *Hyndluljóð* não está no Codex Regius, o principal manuscrito dos poemas e
 
 O interesse do poema está na forma como ele trata a memória e a família. Para o público medieval da Islândia, saber de quem se descendia era uma questão prática: servia para reivindicar terras, heranças e prestígio. Freyja, aqui, aparece menos como deusa do amor e mais como protetora de um devoto e como mestra de uma tarefa difícil, a de obrigar alguém a lembrar.
 
-Para acender, uma a uma, todas as tochas da gruta de Hyndla, sabendo que cada toque também muda as vizinhas, jogue [As tochas de Hyndla](/jogo-as-tochas-de-hyndla/).
+Para acender, uma a uma, todas as tochas da gruta de Hyndla, sabendo que cada toque também muda as vizinhas, jogue [As tochas de Hyndla](/pt/jogo-as-tochas-de-hyndla/).

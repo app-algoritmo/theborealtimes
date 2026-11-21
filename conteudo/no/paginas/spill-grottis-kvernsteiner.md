@@ -23,4 +23,4 @@ Sveip (eller bruk piltastene) for å skyve alle brikkene til én side. To like b
 
 ## Historien bak
 
-I Grottasöngr dreier Fenja og Menja kvernen Grotti for kong Fróði. Sammenslåingen av nummererte brikker er diktet opp. Les historien i [Grottasöngr: Fenja, Menja og kvernen som malte gull, fred og salt](/no/2026/12/20/grottasongr-fenja-menja-moinho-grotti/).
+I Grottasöngr dreier Fenja og Menja kvernen Grotti for kong Fróði. Sammenslåingen av nummererte brikker er diktet opp. Les historien i [Grottasöngr: Fenja, Menja og kvernen som malte gull, fred og salt](/no/grottasongr-fenja-menja-og-kvernen-som-malte-gull-fred/).

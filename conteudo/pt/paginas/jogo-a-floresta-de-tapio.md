@@ -23,4 +23,4 @@ Cada casa esconde um trecho de mata. Toque para pisar: o número diz quantos des
 
 ## A história por trás
 
-Na tradição finlandesa, Tapio é o senhor da floresta e dos animais caçados. Os desvios enganosos do jogo são invenção. Leia a história em [Tapio, o senhor da floresta finlandesa, e o feitiço de se perder entre as árvores](/2026/11/21/tapio-senhor-da-floresta-metsanpeitto/).
+Na tradição finlandesa, Tapio é o senhor da floresta e dos animais caçados. Os desvios enganosos do jogo são invenção. Leia a história em [Tapio, o senhor da floresta finlandesa, e o feitiço de se perder entre as árvores](/pt/tapio-senhor-da-floresta-metsanpeitto/).

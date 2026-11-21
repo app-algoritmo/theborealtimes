@@ -43,4 +43,4 @@ This saga calls her a notable, strong woman and Leif's half-sister, whereas the 
 
 The article says Freydís is "said to be" Erik's daughter, and the medieval sagas are the only evidence of her. The two sagas contradict each other about her kinship with Leif, half-sister or full sister, and about her character and deeds. The claim that the Saga of Erik the Red was written after the other appears in the article without a citation.
 
-To merge equal crews until you form the largest possible, play [Freydís's crews](/en/game-freydis-crews/).
+To merge equal crews until you form the largest possible, play [Freydís's crews](/game-freydis-crews/).

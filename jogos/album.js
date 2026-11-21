@@ -36,11 +36,11 @@
       importou: 'Coleção importada e somada à sua.', imp_erro: 'Arquivo inválido.', apagou: 'Álbum apagado deste aparelho.',
       priv: 'Sem conta, seu álbum fica salvo só neste aparelho, no navegador, e nada é enviado. Use Exportar para levar a coleção a outro aparelho. Limpar os dados do navegador apaga tudo.',
       sem_storage: 'Este navegador não permite salvar dados. O álbum funciona só enquanto esta página estiver aberta.',
-      jg: 'Jogos', jogos: '/jogos/', galeria: '/galeria/', album: '/album/', conta_t: 'Conta',
+      jg: 'Jogos', jogos: '/pt/jogos/', galeria: '/pt/galeria/', album: '/pt/album/', conta_t: 'Conta',
       c_txt: 'Entre com seu e-mail para levar o álbum a outros aparelhos. Sem senha: você recebe um link.', c_email: 'Seu e-mail', c_aceite: 'Aceito que o Boreal Saga Play guarde meu e-mail e o progresso do meu álbum para sincronizar entre aparelhos. Posso sair e apagar tudo quando quiser.',
       c_enviar: 'Enviar link de acesso', c_enviado: 'Se o e-mail estiver correto, o link chegou. Ele vale por 15 minutos.', c_con: function (e) { return 'Conectado como ' + e; }, c_sync: 'Sincronizar agora', c_sync_ok: 'Álbum sincronizado.',
       c_sair: 'Sair da conta', c_apagar: 'Apagar conta e dados', c_apagou: 'Conta e dados apagados do servidor.', c_erro: 'Não foi possível falar com o servidor. Tente de novo mais tarde.', c_link_inv: 'Esse link venceu ou já foi usado. Peça outro.', c_ent: 'Você entrou. Seu álbum foi sincronizado.', c_email_inv: 'Confira o e-mail e marque o aceite.',
-      volta_b: 'Voltar', fs: 'Tela cheia', fs_sair: 'Sair da tela cheia', menu_g: 'Galeria', menu_a: 'Álbum', home: '/',
+      volta_b: 'Voltar', fs: 'Tela cheia', fs_sair: 'Sair da tela cheia', menu_g: 'Galeria', menu_a: 'Álbum', home: '/pt/',
       completo: 'completo', vol: 'Volume'
     },
     en: {
@@ -67,11 +67,11 @@
       importou: 'Collection imported and merged with yours.', imp_erro: 'Invalid file.', apagou: 'Album deleted from this device.',
       priv: 'Without an account, your album is saved only on this device, in the browser, and nothing is sent. Use Export to take the collection to another device. Clearing browser data erases everything.',
       sem_storage: 'This browser does not allow saving data. The album works only while this page stays open.',
-      jg: 'Games', jogos: '/en/games/', galeria: '/en/gallery/', album: '/en/album/', conta_t: 'Account',
+      jg: 'Games', jogos: '/games/', galeria: '/gallery/', album: '/album/', conta_t: 'Account',
       c_txt: 'Sign in with your email to take the album to other devices. No password: you get a link.', c_email: 'Your email', c_aceite: 'I agree that Boreal Saga Play stores my email and my album progress to sync between devices. I can sign out and delete everything at any time.',
       c_enviar: 'Send sign-in link', c_enviado: 'If the email is correct, the link has arrived. It is valid for 15 minutes.', c_con: function (e) { return 'Signed in as ' + e; }, c_sync: 'Sync now', c_sync_ok: 'Album synced.',
       c_sair: 'Sign out', c_apagar: 'Delete account and data', c_apagou: 'Account and data deleted from the server.', c_erro: 'Could not reach the server. Try again later.', c_link_inv: 'This link has expired or was already used. Ask for another.', c_ent: 'You are signed in. Your album was synced.', c_email_inv: 'Check the email and tick the agreement.',
-      volta_b: 'Back', fs: 'Full screen', fs_sair: 'Exit full screen', menu_g: 'Gallery', menu_a: 'Album', home: '/en/',
+      volta_b: 'Back', fs: 'Full screen', fs_sair: 'Exit full screen', menu_g: 'Gallery', menu_a: 'Album', home: '/',
       completo: 'complete', vol: 'Volume'
     },
     no: {

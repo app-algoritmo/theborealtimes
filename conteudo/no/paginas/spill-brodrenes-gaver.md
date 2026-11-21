@@ -23,4 +23,4 @@ Odin, Vili og Vé ga gaver til det første paret, Ask og Embla. En gave vises ø
 
 ## Historien bak
 
-I Gylfaginning gir Odin ånde og liv, Vili gir forstand og bevegelse eller følelse, og Vé gir ansiktet, talen, hørselen og synet. Rekka med gaver, de tre boksene og rytmen i spillet er oppdiktet. Les historien i [Vili og Vé: Odins to brødre som hjelper til med å skape verden og det første paret](/no/2027/04/04/vili-e-ve-os-dois-irmaos-de-odin-que-ajudam-a-criar-o-mundo-e-o-primeiro-casal/).
+I Gylfaginning gir Odin ånde og liv, Vili gir forstand og bevegelse eller følelse, og Vé gir ansiktet, talen, hørselen og synet. Rekka med gaver, de tre boksene og rytmen i spillet er oppdiktet. Les historien i [Vili og Vé: Odins to brødre som hjelper til med å skape verden og det første paret](/no/vili-og-ve-odins-to-brodre-som-hjelper-til-med-a-skape/).

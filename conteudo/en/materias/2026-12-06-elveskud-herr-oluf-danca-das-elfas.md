@@ -35,4 +35,4 @@ In the 18th century the German writer Herder translated a Danish version into Ge
 
 *Elveskud* shows how a story of the wood and of the border between the known and the unknown crossed centuries. What unites all the versions is a simple rule: whoever meets the hidden people is in danger. The dance, the refusal and the punishment can be read as a warning, and many people today still hear it as a song.
 
-To dance in time, touching each lane at the right moment while the elf maidens' song lasts, play [The dance of the elves](/en/game-the-dance-of-the-elves/).
+To dance in time, touching each lane at the right moment while the elf maidens' song lasts, play [The dance of the elves](/game-the-dance-of-the-elves/).

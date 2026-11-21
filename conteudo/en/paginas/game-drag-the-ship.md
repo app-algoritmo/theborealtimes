@@ -23,4 +23,4 @@ A marker goes back and forth on a bar. Tap (or press the space bar) when it pass
 
 ## The story behind it
 
-Emperor Constantine VII described around 950 how the Rus carried or dragged their boats overland at the river rapids on the way to the Black Sea. The game is a simplification: the marker, the rope and the time limit are made up. Read the story in [The Varangian Guard: the Vikings who protected the emperor of Constantinople](/en/2026/11/13/guarda-varegue/).
+Emperor Constantine VII described around 950 how the Rus carried or dragged their boats overland at the river rapids on the way to the Black Sea. The game is a simplification: the marker, the rope and the time limit are made up. Read the story in [The Varangian Guard: the Vikings who protected the emperor of Constantinople](/the-varangian-guard-the-vikings-who-protected-the-emperor/).

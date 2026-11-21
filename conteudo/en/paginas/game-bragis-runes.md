@@ -23,4 +23,4 @@ Fill the 4-by-4 grid with four runes, without repeating any in each row, each co
 
 ## The story behind it
 
-In the Sigrdrífumál, runes are carved on many things, among them the tongue of Bragi, the god of poetry. The grid is invented. Read the story in [Bragi, the god of poetry: what the Eddas and the court poems say about him](/en/2027/01/10/bragi-deus-da-poesia-eddas-skaldico/).
+In the Sigrdrífumál, runes are carved on many things, among them the tongue of Bragi, the god of poetry. The grid is invented. Read the story in [Bragi, the god of poetry: what the Eddas and the court poems say about him](/bragi-the-god-of-poetry-what-the-eddas-and-the-court-poems/).

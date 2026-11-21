@@ -23,4 +23,4 @@ Os inimigos vêm pela direita. Toque acima da ponte, ou use a barra de espaço, 
 
 ## A história por trás
 
-Na batalha de Stamford Bridge, em 1066, o rei norueguês Haroldo Hardrada foi morto. Fontes escritas depois, como Henry de Huntingdon, contam de um machadeiro que segurou a ponte até ser atingido por baixo. A vitória do jogo é invenção. Leia a história em [Stamford Bridge, 1066: o homem que segurou a ponte e a batalha que a tradição chama de fim da era viking](/2026/11/14/stamford-bridge-1066/).
+Na batalha de Stamford Bridge, em 1066, o rei norueguês Haroldo Hardrada foi morto. Fontes escritas depois, como Henry de Huntingdon, contam de um machadeiro que segurou a ponte até ser atingido por baixo. A vitória do jogo é invenção. Leia a história em [Stamford Bridge, 1066: o homem que segurou a ponte e a batalha que a tradição chama de fim da era viking](/pt/stamford-bridge-1066/).

@@ -44,4 +44,4 @@ In 1021, for unknown reasons, Thorkell fell out with Cnut and was banished, and 
 
 The sources differ on his birth: the first speaks of about 970, and Britannica of the late 950s, in southern Sweden. His leadership of the Jomsvikings appears as an attribution without citation. There is no record of him after 1023, and the date and manner of his death are unknown. The first source says he may have married Wulfhild, or Edith, a daughter of Æthelred, and that he had two sons whose identities are unknown. The historian Niels Lund called him "probably the leader of a gang of thugs" based in the Baltic, which shows that assessments of him vary.
 
-To decipher silver seals into the right squares, with none repeated in a row, column or block, play [The silver seals](/en/game-the-silver-seals/).
+To decipher silver seals into the right squares, with none repeated in a row, column or block, play [The silver seals](/game-the-silver-seals/).

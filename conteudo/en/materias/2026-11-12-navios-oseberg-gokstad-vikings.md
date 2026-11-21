@@ -44,4 +44,4 @@ Both boats are part of the collection of the Viking Ship Museum, on the Bygdøy 
 
 The finds were excavated in the late 19th and early 20th centuries, and restoring the boats took years of work.
 
-To build a hull yourself, play [The Oseberg hull](/en/game-oseberg-hull/).
+To build a hull yourself, play [The Oseberg hull](/game-oseberg-hull/).

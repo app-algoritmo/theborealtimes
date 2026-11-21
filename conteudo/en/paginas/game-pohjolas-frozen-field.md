@@ -23,4 +23,4 @@ Tap above, below or beside your figure to take a step (or use the arrow keys). C
 
 ## The story behind it
 
-In the Kalevala, Louhi is the mistress of Pohjola, land of cold and night. The field of gusts is made up. Read the story in [Louhi steals the sun and the moon: the coldest episode of the Kalevala](/en/2026/12/06/louhi-rouba-sol-e-lua-kalevala/).
+In the Kalevala, Louhi is the mistress of Pohjola, land of cold and night. The field of gusts is made up. Read the story in [Louhi steals the sun and the moon: the coldest episode of the Kalevala](/louhi-steals-the-sun-and-the-moon-the-coldest-episode/).

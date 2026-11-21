@@ -23,4 +23,4 @@ Swipe (or use the arrows) to move all the blocks. Two equal blocks merge into on
 
 ## The story behind it
 
-In the Völuspá and in Snorri, two logs receive gifts from the gods and become the first couple. The block-merging game is made up. Read the story in [Ask and Embla: the first man and woman in the Norse sources](/en/2026/11/29/ask-embla-primeiros-humanos/).
+In the Völuspá and in Snorri, two logs receive gifts from the gods and become the first couple. The block-merging game is made up. Read the story in [Ask and Embla: the first man and woman in the Norse sources](/ask-and-embla-the-first-man-and-woman-in-the-norse-sources/).

@@ -47,4 +47,4 @@ Pelo artigo, o Danelaw cobria, grosso modo, Yorkshire, as Midlands centrais e or
 
 A data exata do tratado não é conhecida, e o local da batalha de Cynuit é discutido. Os sítios arqueológicos não correspondem com clareza à fronteira definida pelos textos, o que pode vir de achados mal atribuídos, de deslocamentos de gente ou de o tratado não ter sido seguido. O artigo também marca como carente de citação a descrição da extensão do Danelaw ao norte de uma linha entre Londres e Chester.
 
-Para disputar, ficha a ficha, a última peça de cada burgo, jogue [Os Cinco Burgos](/jogo-os-cinco-burgos/).
+Para disputar, ficha a ficha, a última peça de cada burgo, jogue [Os Cinco Burgos](/pt/jogo-os-cinco-burgos/).

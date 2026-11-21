@@ -23,4 +23,4 @@ Trykk på to kort om gangen for å vende dem. Er det samme rune, blir de liggend
 
 ## Historien bak
 
-Snorre Sturlason skrev Snorres Edda rundt 1220. Runekortene er diktet opp for spillet. Les historien i [Snorre Sturlason: islendingen som reddet de norrøne mytene og døde for politikk](/no/2026/11/16/snorri-sturluson-edda/).
+Snorre Sturlason skrev Snorres Edda rundt 1220. Runekortene er diktet opp for spillet. Les historien i [Snorre Sturlason: islendingen som reddet de norrøne mytene og døde for politikk](/no/snorre-sturlason-islendingen-som-reddet-de-norrone-mytene/).

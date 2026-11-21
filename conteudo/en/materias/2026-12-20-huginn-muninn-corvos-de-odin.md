@@ -33,4 +33,4 @@ There are many finds read as Odin with birds. On gold bracteates of the Migratio
 
 None of these readings is uncontested. Rudolf Simek thinks it unlikely that the names were coined before the 9th or 10th century and sees the ravens as derived from older raven symbolism, such as the raven banner. John Lindow proposes comparing them with the shaman's trance journey. Anthony Winterbourne links them to guardian spirits in animal form. These are hypotheses, not conclusions.
 
-To guide a raven between stones and trees, tapping to make it flap its wings, until it completes a round over Midgard, play [A round over Midgard](/en/game-a-round-over-midgard/).
+To guide a raven between stones and trees, tapping to make it flap its wings, until it completes a round over Midgard, play [A round over Midgard](/game-a-round-over-midgard/).

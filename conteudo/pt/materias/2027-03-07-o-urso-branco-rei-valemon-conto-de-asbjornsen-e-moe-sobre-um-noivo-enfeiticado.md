@@ -49,4 +49,4 @@ O verbete cita variantes de Åseral, Saltdal, da Suécia, da Finlândia sueca e 
 
 As versões diferem em detalhes, como o teste final, a bruxa e o lugar onde ela vive. O verbete não diz qual é a mais antiga. A origem do conto, anterior à coleta, não é conhecida.
 
-Para atravessar um labirinto de gelo e chegar ao castelo no alto, jogue [O labirinto de gelo](/jogo-o-labirinto-de-gelo/).
+Para atravessar um labirinto de gelo e chegar ao castelo no alto, jogue [O labirinto de gelo](/pt/jogo-o-labirinto-de-gelo/).

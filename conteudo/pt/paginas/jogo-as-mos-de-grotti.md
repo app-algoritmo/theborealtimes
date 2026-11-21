@@ -23,4 +23,4 @@ Deslize o dedo (ou use as setas) para empurrar todas as peças para um lado. Dua
 
 ## A história por trás
 
-No Grottasöngr, Fenja e Menja giram o moinho Grotti para o rei Fróði. A fusão de peças numéricas é invenção. Leia a história em [Grottasöngr: Fenja, Menja e o moinho que moía ouro, paz e sal](/2026/12/20/grottasongr-fenja-menja-moinho-grotti/).
+No Grottasöngr, Fenja e Menja giram o moinho Grotti para o rei Fróði. A fusão de peças numéricas é invenção. Leia a história em [Grottasöngr: Fenja, Menja e o moinho que moía ouro, paz e sal](/pt/grottasongr-fenja-menja-moinho-grotti/).

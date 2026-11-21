@@ -53,4 +53,4 @@ The *Iron Age* is the period before the Viking Age. *Cup marks* are small round 
 
 The reports do not say which material was dated or in which laboratory. Scholars differ between a date of about 600 and one of 2,500 years. Near the site, a survey and a trench (2006 and 2012) found a circle of 165 metres and a dolmen, and little is known of them. There is no proof that King Ale existed.
 
-To line up the stones of Ale's ship, play [The stone ship](/en/game-the-stone-ship/).
+To line up the stones of Ale's ship, play [The stone ship](/game-the-stone-ship/).

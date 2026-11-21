@@ -23,4 +23,4 @@ Drive Thor's chariot along the rocky road. Tap the screen, or press Space, to ju
 
 ## The story behind it
 
-In the Prose Edda, Thor eats the goats at night and brings them back at dawn, and no bone may be broken. The chariot race is invented. Read the story in [Tanngrisnir and Tanngnjóstr: the goats that pull Thor's chariot](/en/2027/03/07/tanngrisnir-e-tanngnjostr-os-bodes-que-puxam-o-carro-de-thor/).
+In the Prose Edda, Thor eats the goats at night and brings them back at dawn, and no bone may be broken. The chariot race is invented. Read the story in [Tanngrisnir and Tanngnjóstr: the goats that pull Thor's chariot](/tanngrisnir-and-tanngnjostr-the-goats-that-pull-thor-s/).

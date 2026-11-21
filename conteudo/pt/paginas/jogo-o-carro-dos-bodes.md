@@ -23,4 +23,4 @@ Conduza o carro de Thor pelo caminho de rocha. Toque na tela, ou use Espaço, pa
 
 ## A história por trás
 
-Na Edda em Prosa, Thor come os bodes à noite e os traz de volta ao amanhecer, e nenhum osso pode ser quebrado. A corrida do carro é invenção. Leia a história em [Tanngrisnir e Tanngnjóstr: os bodes que puxam o carro de Thor](/2027/03/07/tanngrisnir-e-tanngnjostr-os-bodes-que-puxam-o-carro-de-thor/).
+Na Edda em Prosa, Thor come os bodes à noite e os traz de volta ao amanhecer, e nenhum osso pode ser quebrado. A corrida do carro é invenção. Leia a história em [Tanngrisnir e Tanngnjóstr: os bodes que puxam o carro de Thor](/pt/tanngrisnir-e-tanngnjostr-os-bodes-que-puxam-o-carro-de-thor/).

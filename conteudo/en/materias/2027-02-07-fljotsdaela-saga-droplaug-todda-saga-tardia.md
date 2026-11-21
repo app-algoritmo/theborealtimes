@@ -43,4 +43,4 @@ The source proposes that the saga may reflect the situation of Iceland in the 15
 
 The date of composition is given as "perhaps" the 16th or 17th century, and the author's origin as "probably" eastern Iceland. The saga's social and political motives appear as "may reflect" and "may have wished". The source describes Droplaugarsona saga as a similar tale about the same brothers, without giving further details.
 
-To put out the torches of a valley, one by one, without lighting others by accident, play [The torches of the valley](/en/game-the-torches-of-the-valley/).
+To put out the torches of a valley, one by one, without lighting others by accident, play [The torches of the valley](/game-the-torches-of-the-valley/).

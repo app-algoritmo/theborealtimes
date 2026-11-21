@@ -23,4 +23,4 @@ Når vindvarselet vises, hold fingeren (eller mellomromstasten) for å skjerme f
 
 ## Historien bak
 
-I skandinavisk tradisjon er lussinatta årets lengste, og det tennes lys. Vindkastene i spillet er diktet opp. Les historien i [Lussinatta: den lengste natta og sagnet om Lussi som rir med skyggene](/no/2026/11/17/lussinatta-noite-mais-longa/).
+I skandinavisk tradisjon er lussinatta årets lengste, og det tennes lys. Vindkastene i spillet er diktet opp. Les historien i [Lussinatta: den lengste natta og sagnet om Lussi som rir med skyggene](/no/lussinatta-den-lengste-natta-og-sagnet-om-lussi-som-rir/).

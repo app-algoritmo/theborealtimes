@@ -23,4 +23,4 @@ Sikt med fingeren (eller bruk piltastene) og trykk over utskyteren (eller mellom
 
 ## Historien bak
 
-Diktet Völuspá fremsies av en seer foran Odin. Runene som kastes i spillet, er diktet opp. Les historien i [Völuspá, seerens spådom som forteller Odin om verdens begynnelse og slutt](/no/2026/11/22/voluspa-a-vidente-fala-a-odin/).
+Diktet Völuspá fremsies av en seer foran Odin. Runene som kastes i spillet, er diktet opp. Les historien i [Völuspá, seerens spådom som forteller Odin om verdens begynnelse og slutt](/no/voluspa-seerens-spadom-som-forteller-odin-om-verdens/).

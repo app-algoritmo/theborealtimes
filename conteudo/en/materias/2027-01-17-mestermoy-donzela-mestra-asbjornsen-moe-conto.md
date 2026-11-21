@@ -39,4 +39,4 @@ The article names related tales: "The Two Kings' Children", "The Water Nixie", "
 
 The article says the girl who helps the hero "may be" the giant's daughter or one of his daughters, so her identity is not fixed. The protoform proposed by Joseph Jacobs is a reconstruction, not a recorded text. The link to Shakespeare's *The Tempest* is described as a "possible antecessor", not a confirmed source. And the article gives "Devil's Daughter" as an alternative name, without explaining how widely it is used.
 
-To put the bales of a stable in order, one empty space at a time, play [The Mestermøy's stable](/en/game-the-mestermoys-stable/).
+To put the bales of a stable in order, one empty space at a time, play [The Mestermøy's stable](/game-the-mestermoys-stable/).

@@ -23,4 +23,4 @@ Há 14 marcas ocupadas e 1 vazia num triângulo. Toque numa marca e depois na ca
 
 ## A história por trás
 
-No Kalevala, Aino se joga no lago para escapar do casamento. O jogo de saltos num triângulo é invenção. Leia a história em [Aino, no Kalevala: a jovem prometida a Väinämöinen que escolheu o mar](/2026/12/13/aino-kalevala-peixe-no-mar/).
+No Kalevala, Aino se joga no lago para escapar do casamento. O jogo de saltos num triângulo é invenção. Leia a história em [Aino, no Kalevala: a jovem prometida a Väinämöinen que escolheu o mar](/pt/aino-kalevala-peixe-no-mar/).

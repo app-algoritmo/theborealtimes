@@ -23,4 +23,4 @@ Toque onde quer ir, ou use as setas. Quando um animal mostrar um balão pedindo 
 
 ## A história por trás
 
-O nisse é um pequeno espírito da fazenda no folclore escandinavo, que cuida da casa e dos animais e espera um prato de mingau no Natal. A história e o jogo são originais, inspirados nessa tradição. Leia o conto em [O nisse da fazenda e a tigela de mingau na noite de Natal](/2026/11/12/nisse-tigela-de-mingau-natal/).
+O nisse é um pequeno espírito da fazenda no folclore escandinavo, que cuida da casa e dos animais e espera um prato de mingau no Natal. A história e o jogo são originais, inspirados nessa tradição. Leia o conto em [O nisse da fazenda e a tigela de mingau na noite de Natal](/pt/nisse-tigela-de-mingau-natal/).

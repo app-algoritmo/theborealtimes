@@ -47,4 +47,4 @@ According to the article, the Danelaw roughly covered Yorkshire, the central and
 
 The exact date of the treaty is not known, and the location of the battle of Cynuit is disputed. Archaeological sites do not clearly match the boundary defined by the texts, which may come from misattributed finds, from movements of people or from the treaty being ignored. The article also marks as lacking a citation the description of the Danelaw's extent north of a line between London and Chester.
 
-To fight over, token by token, the last piece of each borough, play [The Five Boroughs](/en/game-the-five-boroughs/).
+To fight over, token by token, the last piece of each borough, play [The Five Boroughs](/game-the-five-boroughs/).

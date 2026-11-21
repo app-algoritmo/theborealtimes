@@ -23,4 +23,4 @@ Cada personagem faz uma declaração sobre os outros. Quem diz a verdade sempre 
 
 ## A história por trás
 
-Na Edda em prosa, Loki guia a mão do deus cego Höðr, que atira o ramo de visco que mata Baldr. Saber quem mente e quem diz a verdade nesta mesa é invenção. Leia a história em [Höðr, o deus cego: o dardo de visco, a morte de Baldr e as duas versões da história](/2027/01/31/hodr-deus-cego-balder-visco-loki/).
+Na Edda em prosa, Loki guia a mão do deus cego Höðr, que atira o ramo de visco que mata Baldr. Saber quem mente e quem diz a verdade nesta mesa é invenção. Leia a história em [Höðr, o deus cego: o dardo de visco, a morte de Baldr e as duas versões da história](/pt/hodr-deus-cego-balder-visco-loki/).

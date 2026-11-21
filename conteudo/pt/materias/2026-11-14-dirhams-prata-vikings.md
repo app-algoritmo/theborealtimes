@@ -37,4 +37,4 @@ Com o tempo, a mina de prata do Oriente secou e, por volta do fim do século X, 
 
 Muitos dirhams trazem pequenos cortes de teste, feitos com a ponta de uma faca para conferir se a prata era maciça por dentro e não só uma folha sobre outro metal. Outros têm um furo e foram usados como pingente. Isso mostra que o comprador desconfiava e que a moeda servia também de enfeite, além de dinheiro.
 
-Para sentir a pressão do regateio, jogue [A balança do mercador](/jogo-a-balanca-do-mercador/).
+Para sentir a pressão do regateio, jogue [A balança do mercador](/pt/jogo-a-balanca-do-mercador/).

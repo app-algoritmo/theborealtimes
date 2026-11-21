@@ -23,4 +23,4 @@ Odin, Vili and Vé gave gifts to the first couple, Ask and Embla. A gift appears
 
 ## The story behind it
 
-In the Gylfaginning, Odin gives breath and life, Vili gives understanding and motion or feeling, and Vé gives the face, speech, hearing and sight. The row of gifts, the three boxes and the rhythm of the game are invention. Read the story in [Vili and Vé: Odin's two brothers who help to make the world and the first couple](/en/2027/04/04/vili-e-ve-os-dois-irmaos-de-odin-que-ajudam-a-criar-o-mundo-e-o-primeiro-casal/).
+In the Gylfaginning, Odin gives breath and life, Vili gives understanding and motion or feeling, and Vé gives the face, speech, hearing and sight. The row of gifts, the three boxes and the rhythm of the game are invention. Read the story in [Vili and Vé: Odin's two brothers who help to make the world and the first couple](/vili-and-ve-odin-s-two-brothers-who-help-to-make-the-world/).

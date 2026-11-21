@@ -23,4 +23,4 @@ A bridge has four stones in each row, but only one stone per row is safe. The sa
 
 ## The story behind it
 
-In the Norwegian ballad Draumkvedet, Olav Åsteson sleeps from Christmas Eve until the thirteenth day and, on waking, tells of his dreams, among them a very tall bridge. Memorising the path is invented. Read the story in [Draumkvedet: Olav Åsteson's dream and the medieval ballad of Norway](/en/2027/02/07/draumkvedet-olav-asteson-sonho-balada/).
+In the Norwegian ballad Draumkvedet, Olav Åsteson sleeps from Christmas Eve until the thirteenth day and, on waking, tells of his dreams, among them a very tall bridge. Memorising the path is invented. Read the story in [Draumkvedet: Olav Åsteson's dream and the medieval ballad of Norway](/draumkvedet-olav-asteson-s-dream-and-the-medieval-ballad/).

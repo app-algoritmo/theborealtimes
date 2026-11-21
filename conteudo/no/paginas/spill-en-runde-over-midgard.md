@@ -23,4 +23,4 @@ Trykk på skjermen (eller trykk mellomrom) for at ravnen slår med vingene; uten
 
 ## Historien bak
 
-I Grímnismál flyr Huginn og Muninn hver dag over Midgard. Flukten mellom hindre er diktet opp. Les historien i [Huginn og Muninn: Odins ravner, i kildene og i funnene](/no/2026/12/20/huginn-muninn-corvos-de-odin/).
+I Grímnismál flyr Huginn og Muninn hver dag over Midgard. Flukten mellom hindre er diktet opp. Les historien i [Huginn og Muninn: Odins ravner, i kildene og i funnene](/no/huginn-og-muninn-odins-ravner-i-kildene-og-i-funnene/).

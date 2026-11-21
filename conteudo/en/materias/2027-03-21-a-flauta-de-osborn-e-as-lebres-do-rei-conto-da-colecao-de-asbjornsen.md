@@ -44,4 +44,4 @@ A *pipe* is the instrument of the tale, which here is also a magic object. A *va
 
 We do not know how this tale circulated before it was collected, nor how it was told by word of mouth. Dasent's translation, published in English, may have changed details and names of the Norwegian version.
 
-To gather the hares at the right moment before they run out of the field, play [The king's hares](/en/game-the-kings-hares/).
+To gather the hares at the right moment before they run out of the field, play [The king's hares](/game-the-kings-hares/).

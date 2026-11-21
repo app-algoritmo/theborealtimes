@@ -23,4 +23,4 @@ The aurora has lit the sky. Tapping a light switches it and its four neighbours 
 
 ## The story behind it
 
-The Speculum Regale, a 13th-century Norwegian text, tries to explain the northern lights. The light game is made up. Read the story in [The northern lights in the old North: the King's Mirror, the fire fox and the silence of the Sámi](/en/2026/11/21/aurora-boreal-konungs-skuggsja/).
+The Speculum Regale, a 13th-century Norwegian text, tries to explain the northern lights. The light game is made up. Read the story in [The northern lights in the old North: the King's Mirror, the fire fox and the silence of the Sámi](/the-northern-lights-in-the-old-north-the-king-s-mirror/).

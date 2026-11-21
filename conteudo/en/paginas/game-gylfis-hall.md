@@ -23,4 +23,4 @@ Move the paddle (drag your finger or use ← →) so the ball does not fall and 
 
 ## The story behind it
 
-In the Gylfaginning, the palace of the gods vanishes before King Gylfi. The brick-breaking game is made up. Read the story in [Gylfaginning: King Gylfi, disguised as Gangleri, asks questions in a palace that vanishes](/en/2026/12/06/gylfaginning-gylfi-engana-aesir/).
+In the Gylfaginning, the palace of the gods vanishes before King Gylfi. The brick-breaking game is made up. Read the story in [Gylfaginning: King Gylfi, disguised as Gangleri, asks questions in a palace that vanishes](/gylfaginning-king-gylfi-disguised-as-gangleri-asks/).

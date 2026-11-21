@@ -40,4 +40,4 @@ Os pesquisadores discutem quanto da saga é história e quanto é literatura. Do
 
 O que ela ensina com clareza é como funcionava a lógica da honra, em que um juramento quebrado e uma morte vingada podiam destruir uma família.
 
-Para ajudar Gísli a empurrar as pedras e fechar a entrada do esconderijo, jogue [O esconderijo de Gísli](/jogo-o-esconderijo-de-gisli/).
+Para ajudar Gísli a empurrar as pedras e fechar a entrada do esconderijo, jogue [O esconderijo de Gísli](/pt/jogo-o-esconderijo-de-gisli/).

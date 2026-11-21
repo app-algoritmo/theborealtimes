@@ -37,4 +37,4 @@ A ciência explica hoje o fenômeno como o resultado de partículas carregadas v
 
 O *Konungs skuggsjá* é útil também porque mostra o interesse por observação. O autor descreve onde e quando as luzes costumam aparecer, e nota que são mais visíveis em noites escuras. Esse tipo de descrição, comum em textos didáticos medievais, é uma das razões pelas quais o livro é citado em histórias da ciência no Norte. Mesmo sem ter a explicação certa, ele registrou o que via com clareza.
 
-Para apagar, uma a uma, as luzes do céu que se acendem e se apagam, jogue [As luzes do céu](/jogo-as-luzes-do-ceu/).
+Para apagar, uma a uma, as luzes do céu que se acendem e se apagam, jogue [As luzes do céu](/pt/jogo-as-luzes-do-ceu/).

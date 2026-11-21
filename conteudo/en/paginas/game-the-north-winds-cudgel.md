@@ -23,4 +23,4 @@ The innkeeper's men peek out of the windows. Tap (or use the number keys 1 to 9,
 
 ## The story behind it
 
-In the tale collected by Asbjørnsen and Moe, the boy gets a cudgel from the North Wind that strikes on command. The house of windows is made up. Read the story in [The boy who went to the North Wind: a Norwegian tale of flour, thieves and a cudgel](/en/2026/11/21/gutten-nordenvinden-bastao/).
+In the tale collected by Asbjørnsen and Moe, the boy gets a cudgel from the North Wind that strikes on command. The house of windows is made up. Read the story in [The boy who went to the North Wind: a Norwegian tale of flour, thieves and a cudgel](/the-boy-who-went-to-the-north-wind-a-norwegian-tale/).

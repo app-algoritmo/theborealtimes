@@ -23,4 +23,4 @@ Toque numa pilha para pegar a moeda de cima e toque noutra pilha para soltá-la.
 
 ## A história por trás
 
-O tesouro de Cuerdale, achado em 1840 na Inglaterra, tinha milhares de moedas de prata de várias origens. A separação por pilhas é invenção. Leia a história em [O tesouro de Cuerdale: a maior reserva de prata viking já achada na Grã-Bretanha](/2026/12/06/cuerdale-tesouro-de-prata-vikings/).
+O tesouro de Cuerdale, achado em 1840 na Inglaterra, tinha milhares de moedas de prata de várias origens. A separação por pilhas é invenção. Leia a história em [O tesouro de Cuerdale: a maior reserva de prata viking já achada na Grã-Bretanha](/pt/cuerdale-tesouro-de-prata-vikings/).

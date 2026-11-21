@@ -45,4 +45,4 @@ Harald Gille provou, segundo a Heimskringla, ser filho de Magnus Descalço ao an
 
 A cena é contada por Snorri, escrevendo cerca de um século depois, e não há como saber se a prova aconteceu assim. Também não se sabe se a paternidade de Harald era verdadeira, e a própria Heimskringla relata uma versão que pode ter sido moldada pelo vencedor.
 
-Para atravessar as nove relhas sem pisar numa em brasa, jogue [As nove relhas](/jogo-as-nove-relhas/).
+Para atravessar as nove relhas sem pisar numa em brasa, jogue [As nove relhas](/pt/jogo-as-nove-relhas/).

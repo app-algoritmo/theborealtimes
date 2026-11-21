@@ -23,4 +23,4 @@ Trykk på en rute for å åpne den. Hvert tall forteller hvor mange av de 8 nabo
 
 ## Historien bak
 
-Magnus Olavsson ble drept i et bakhold i Irland i 1103. Tallfeltet er diktet opp. Les historien i [Magnus Berrføtt: den norske kongen som døde i et bakhold på Irland i 1103](/no/2026/12/06/magnus-pes-descalcos-ulster-1103/).
+Magnus Olavsson ble drept i et bakhold i Irland i 1103. Tallfeltet er diktet opp. Les historien i [Magnus Berrføtt: den norske kongen som døde i et bakhold på Irland i 1103](/no/magnus-berrfott-den-norske-kongen-som-dode-i-et-bakhold/).

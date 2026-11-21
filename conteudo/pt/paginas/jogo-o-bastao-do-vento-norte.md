@@ -23,4 +23,4 @@ Os homens do estalajadeiro espiam pelas janelas. Toque (ou use as teclas de 1 a 
 
 ## A história por trás
 
-No conto de Asbjørnsen e Moe, o rapaz recebe do Vento Norte um bastão que bate por ordem. A casa de janelas é invenção do jogo. Leia a história em [O menino que foi falar com o Vento Norte: um conto norueguês sobre farinha, ladrões e um bastão](/2026/11/21/gutten-nordenvinden-bastao/).
+No conto de Asbjørnsen e Moe, o rapaz recebe do Vento Norte um bastão que bate por ordem. A casa de janelas é invenção do jogo. Leia a história em [O menino que foi falar com o Vento Norte: um conto norueguês sobre farinha, ladrões e um bastão](/pt/gutten-nordenvinden-bastao/).

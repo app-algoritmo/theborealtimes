@@ -23,4 +23,4 @@ Segure o dedo (ou a barra de espaço) para avançar pela trilha. Quando os olhos
 
 ## A história por trás
 
-Stállo é um gigante dos contos sámi. A trilha e o olhar do gigante são invenção do jogo. Leia a história em [Stállo: o gigante bobo dos contos sámi, que sempre perde para a esperteza de quem ele quer devorar](/2026/11/19/stallo-gigante-conto-sami/).
+Stállo é um gigante dos contos sámi. A trilha e o olhar do gigante são invenção do jogo. Leia a história em [Stállo: o gigante bobo dos contos sámi, que sempre perde para a esperteza de quem ele quer devorar](/pt/stallo-gigante-conto-sami/).

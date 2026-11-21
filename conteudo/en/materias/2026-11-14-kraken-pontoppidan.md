@@ -42,4 +42,4 @@ In the second half of the 19th century, scientists began to document the giant s
 
 Almost everything supernatural that Pontoppidan told remains unproved. What survives is the question he tried to answer: what the sea hides, beneath the surface where fishermen cast their nets.
 
-To decide when to give up fishing, play [Fishing over the Kraken](/en/game-fishing-over-the-kraken/).
+To decide when to give up fishing, play [Fishing over the Kraken](/game-fishing-over-the-kraken/).

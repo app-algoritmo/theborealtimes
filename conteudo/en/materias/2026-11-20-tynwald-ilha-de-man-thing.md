@@ -37,4 +37,4 @@ We do not know whether today's ceremonial resembles that of Norse times. What ca
 
 The Isle of Man also shows the mixing of cultures in the Irish Sea. Stone crosses with runes, which survive in various parts of the island, and place names reveal that Norse, Celts and Christians lived side by side there. Manx, the island's Celtic language, is still used in the ceremony, even after centuries of rule by Norse kings and then by Scottish and English lords.
 
-To climb the four steps of the hill, moving discs from one post to another without putting any larger one on a smaller, play [The steps of the hill](/en/game-the-steps-of-the-hill/).
+To climb the four steps of the hill, moving discs from one post to another without putting any larger one on a smaller, play [The steps of the hill](/game-the-steps-of-the-hill/).

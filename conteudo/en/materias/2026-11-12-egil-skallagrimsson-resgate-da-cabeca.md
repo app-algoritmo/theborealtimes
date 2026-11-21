@@ -42,4 +42,4 @@ The saga does not hide Egil's harsh side. From boyhood he is described as violen
 
 Egil was born in Iceland, according to the saga, and spent much of his life travelling and fighting in Norway, England and the Baltic. This back and forth between the world of the sword and the world of the word is what makes the York story so memorable.
 
-To compose verses of your own, play [Egil’s night](/en/game-egils-night/).
+To compose verses of your own, play [Egil’s night](/game-egils-night/).

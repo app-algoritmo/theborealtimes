@@ -23,4 +23,4 @@ Toque ou arraste na tela para mover Flóki pelo campo. Pegue os fardos de feno q
 
 ## A história por trás
 
-Segundo a Landnámabók, Flóki pescou tanto que esqueceu de juntar feno, e as ovelhas morreram no inverno; na primavera, ao ver um fiorde cheio de gelo, deu à terra o nome Ísland. A colheita de feno é invenção. Leia a história em [Hrafna-Flóki, o feno esquecido e o nome da Islândia na Landnámabók](/2027/03/14/hrafna-floki-o-feno-esquecido-e-o-nome-da-islandia-na-landnamabok/).
+Segundo a Landnámabók, Flóki pescou tanto que esqueceu de juntar feno, e as ovelhas morreram no inverno; na primavera, ao ver um fiorde cheio de gelo, deu à terra o nome Ísland. A colheita de feno é invenção. Leia a história em [Hrafna-Flóki, o feno esquecido e o nome da Islândia na Landnámabók](/pt/hrafna-floki-o-feno-esquecido-e-o-nome-da-islandia-na-landnamabok/).

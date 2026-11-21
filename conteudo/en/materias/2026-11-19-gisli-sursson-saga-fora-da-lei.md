@@ -40,4 +40,4 @@ Researchers debate how much of the saga is history and how much is literature. T
 
 What it teaches clearly is how the logic of honour worked, in which a broken oath and an avenged death could destroy a family.
 
-To help Gísli push the stones and close the entrance to his hideout, play [Gísli's hideout](/en/game-gislis-hideout/).
+To help Gísli push the stones and close the entrance to his hideout, play [Gísli's hideout](/game-gislis-hideout/).

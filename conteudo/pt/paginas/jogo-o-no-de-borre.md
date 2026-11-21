@@ -23,4 +23,4 @@ Um nó de fios liga os pontos do quadro. Toque num ponto para começar e depois,
 
 ## A história por trás
 
-O cemitério de Borre, em Vestfold, na Noruega, tem sete grandes montes e 21 menores. O estilo Borre, ligado ao local, é conhecido por enfeites de animais e nós, usados muitas vezes em arreios. O nó de um só traço é invenção. Leia a história em [Borre, em Vestfold: sete grandes montes, um navio enterrado e o estilo de nós e animais](/2027/01/24/borre-cemiterio-montes-vestfold-estilo-borre/).
+O cemitério de Borre, em Vestfold, na Noruega, tem sete grandes montes e 21 menores. O estilo Borre, ligado ao local, é conhecido por enfeites de animais e nós, usados muitas vezes em arreios. O nó de um só traço é invenção. Leia a história em [Borre, em Vestfold: sete grandes montes, um navio enterrado e o estilo de nós e animais](/pt/borre-cemiterio-montes-vestfold-estilo-borre/).

@@ -23,4 +23,4 @@ Toque numa casa vizinha ao seu personagem para andar até ela. Se houver uma cai
 
 ## A história por trás
 
-Na Króka-Refs saga, Ref constrói um navio notável e recebe do rei Harald Hardrada o apelido de "Ref, o Astuto". Empurrar caixas até as marcas é invenção. Leia a história em [A saga de Króka-Ref: o islandês astuto que passou pela Groenlândia, Noruega e Dinamarca](/2027/02/21/saga-de-kroka-ref-o-astuto-groenlandia-noruega-danimarca/).
+Na Króka-Refs saga, Ref constrói um navio notável e recebe do rei Harald Hardrada o apelido de "Ref, o Astuto". Empurrar caixas até as marcas é invenção. Leia a história em [A saga de Króka-Ref: o islandês astuto que passou pela Groenlândia, Noruega e Dinamarca](/pt/saga-de-kroka-ref-o-astuto-groenlandia-noruega-danimarca/).

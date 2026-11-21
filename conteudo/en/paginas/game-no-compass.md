@@ -23,4 +23,4 @@ Bjarni sails for Greenland with no map or compass, and the wind pushes the ship 
 
 ## The story behind it
 
-According to the Greenlanders' Saga, Bjarni missed his course to Greenland, with no map or compass, and sighted three lands without landing. The winds and the stretches of the game are invention. Read the story in [Bjarni Herjólfsson: the captain who saw lands in the west and did not land](/en/2027/03/21/bjarni-herjolfsson-o-capitao-que-viu-terras-no-oeste-e-nao-desembarcou/).
+According to the Greenlanders' Saga, Bjarni missed his course to Greenland, with no map or compass, and sighted three lands without landing. The winds and the stretches of the game are invention. Read the story in [Bjarni Herjólfsson: the captain who saw lands in the west and did not land](/bjarni-herjolfsson-the-captain-who-saw-lands-in-the-west/).

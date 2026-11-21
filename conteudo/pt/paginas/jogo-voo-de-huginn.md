@@ -23,4 +23,4 @@ Toque na tela (ou aperte espaço) para bater as asas. Passe entre os galhos sem 
 
 ## A história por trás
 
-Odin tem dois corvos, Huginn ("pensamento") e Muninn ("memória"), que voam todos os dias pelo mundo e voltam com notícias; o poema Grímnismál, da Edda Poética, os menciona. Os galhos do jogo são invenção. Leia a história de Odin e das runas em [Odin se pendura nove noites numa árvore para conquistar as runas](/2026/11/12/odin-arvore-mundo-runas/).
+Odin tem dois corvos, Huginn ("pensamento") e Muninn ("memória"), que voam todos os dias pelo mundo e voltam com notícias; o poema Grímnismál, da Edda Poética, os menciona. Os galhos do jogo são invenção. Leia a história de Odin e das runas em [Odin se pendura nove noites numa árvore para conquistar as runas](/pt/odin-arvore-mundo-runas/).

@@ -23,4 +23,4 @@ Nove peças numeradas estão fora de ordem. Em cada encontro de quatro peças h�
 
 ## A história por trás
 
-Na Edda em prosa, Magni, filho de Thor, tem três noites de vida quando tira o pé do gigante Hrungnir de cima do pescoço do pai. Girar quadrantes é invenção. Leia a história em [Magni e Móði, os filhos de Thor: a criança que ergueu o pé de um gigante e os que sobrevivem ao Ragnarök](/2027/01/31/magni-modi-filhos-de-thor-sobreviventes-ragnarok/).
+Na Edda em prosa, Magni, filho de Thor, tem três noites de vida quando tira o pé do gigante Hrungnir de cima do pescoço do pai. Girar quadrantes é invenção. Leia a história em [Magni e Móði, os filhos de Thor: a criança que ergueu o pé de um gigante e os que sobrevivem ao Ragnarök](/pt/magni-modi-filhos-de-thor-sobreviventes-ragnarok/).

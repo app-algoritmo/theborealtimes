@@ -23,4 +23,4 @@ Os quatro nomes aparecem numerados, na ordem dos casamentos. Quando os números 
 
 ## A história por trás
 
-Na Laxdæla saga, Gudrún se casa quatro vezes: com Þorvaldr, Þórðr, Bolli e Þorkell. Os sonhos premonitórios da saga são outros; o jogo é invenção. Leia a história em [Gudrún e seus quatro maridos: a mulher mais intrigante da Saga dos Habitantes do Vale do Salmão](/2026/11/15/gudrun-quatro-maridos/).
+Na Laxdæla saga, Gudrún se casa quatro vezes: com Þorvaldr, Þórðr, Bolli e Þorkell. Os sonhos premonitórios da saga são outros; o jogo é invenção. Leia a história em [Gudrún e seus quatro maridos: a mulher mais intrigante da Saga dos Habitantes do Vale do Salmão](/pt/gudrun-quatro-maridos/).

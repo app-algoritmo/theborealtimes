@@ -23,4 +23,4 @@ Shields cover the beach after the battle. Tap a group of two or more neighbourin
 
 ## The story behind it
 
-At Fitjar, around 961, King Håkon defeated Eirik's sons, according to tradition. The shield clearing is made up for the game. Read the story in [Håkon the Good and the poem that sent him to Valhalla: the battle of Fitjar according to the saga and the skald](/en/2026/11/19/hakon-bom-hakonarmal-fitjar/).
+At Fitjar, around 961, King Håkon defeated Eirik's sons, according to tradition. The shield clearing is made up for the game. Read the story in [Håkon the Good and the poem that sent him to Valhalla: the battle of Fitjar according to the saga and the skald](/hakon-the-good-and-the-poem-that-sent-him-to-valhalla/).

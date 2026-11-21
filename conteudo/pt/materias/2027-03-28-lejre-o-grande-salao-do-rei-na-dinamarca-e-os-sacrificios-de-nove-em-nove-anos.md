@@ -48,4 +48,4 @@ Lejre é o lugar que une uma saga, um poema inglês e uma escavação. Há um gr
 
 As datas dadas na página não se encaixam perfeitamente: o salão é de meados do século X, e os artefatos situam os salões e o povoado entre cerca de 600 e 900, então trato as datas como aproximadas. Thietmar escreveu cerca de oitenta anos depois dos fatos e era um cristão, e a página não menciona vestígios dos sacrifícios. A ligação com Heorot e com Hrólfr Kraki é uma hipótese.
 
-Para recolher os fios de ouro e o bronze do príncipe de Grydehøj, jogue [O monte de Grydehøj](/jogo-o-monte-de-grydehoj/).
+Para recolher os fios de ouro e o bronze do príncipe de Grydehøj, jogue [O monte de Grydehøj](/pt/jogo-o-monte-de-grydehoj/).

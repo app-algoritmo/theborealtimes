@@ -23,4 +23,4 @@ Tallene for hver rad og kolonne sier hvor mange ruter på rad som skal risses. T
 
 ## Historien bak
 
-Over tjue svenske runesteiner minnes mennene på Ingvars ferd mot øst. Hintene i spillet er diktet opp. Les historien i [Ingvars steiner: den svenske ferden til Serkland som ble risset i stein](/no/2026/11/20/ingvar-pedras-runicas-serkland/).
+Over tjue svenske runesteiner minnes mennene på Ingvars ferd mot øst. Hintene i spillet er diktet opp. Les historien i [Ingvars steiner: den svenske ferden til Serkland som ble risset i stein](/no/ingvars-steiner-den-svenske-ferden-til-serkland-som-ble/).

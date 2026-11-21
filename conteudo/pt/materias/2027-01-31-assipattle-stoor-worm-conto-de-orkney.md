@@ -47,4 +47,4 @@ A fonte registra duas opiniões. Dasent publicou uma versão com um herói chama
 
 A fonte não menciona o herói grego Perseu nem a serpente Jörmungandr: ligações desse tipo são livres, e esta matéria não as afirma. Se o conto é de origem nórdica ou de tipo europeu comum é discutido. A forma em que o conhecemos foi registrada no século XIX, e não se sabe com precisão quanto dela é muito mais antigo.
 
-Para cortar brasas no ar sem tocar nas bolhas, jogue [As brasas de Assipattle](/jogo-as-brasas-de-assipattle/).
+Para cortar brasas no ar sem tocar nas bolhas, jogue [As brasas de Assipattle](/pt/jogo-as-brasas-de-assipattle/).

@@ -51,4 +51,4 @@ O artigo cita a edição Íslenzk fornrit VIII, de Einar Ól. Sveinsson (1939), 
 
 O artigo diz que o autor se apoia na tradição oral, mas não identifica quais tradições, e a datação é uma probabilidade. O texto não conta quem lançou a maldição nem o que o feiticeiro escocês quis. As estrofes são atribuídas a Kormák, e o artigo não discute até que ponto são dele.
 
-Para decidir quem leva mais sementes numa disputa de covas, como quem disputa uma noiva, jogue [As covas de Kormákr](/jogo-as-covas-de-kormakr/).
+Para decidir quem leva mais sementes numa disputa de covas, como quem disputa uma noiva, jogue [As covas de Kormákr](/pt/jogo-as-covas-de-kormakr/).

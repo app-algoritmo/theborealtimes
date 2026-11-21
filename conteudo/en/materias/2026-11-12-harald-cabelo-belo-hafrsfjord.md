@@ -41,4 +41,4 @@ The real reach of Harald's power is also debated. The sagas say that many nobles
 
 At Hafrsfjord there is today a monument from 1983, by the sculptor Fritz Røed, called Sverd i fjell, "Swords in Rock". They are three bronze swords, about ten metres tall, driven into the stone at the edge of the fjord. The largest, according to the monument's official explanation, represents Harald, and the two smaller ones the defeated kings.
 
-To help Rögnvald with the comb, play [Rögnvald’s comb](/en/game-rognvalds-comb/).
+To help Rögnvald with the comb, play [Rögnvald’s comb](/game-rognvalds-comb/).

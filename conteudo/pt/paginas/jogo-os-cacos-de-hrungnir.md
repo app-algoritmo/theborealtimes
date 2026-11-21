@@ -23,4 +23,4 @@ O gigante de pedra se despedaça, e os cacos voam. Passe o dedo (ou o mouse) por
 
 ## A história por trás
 
-Segundo Snorri, um caco da pedra de amolar de Hrungnir ficou cravado na cabeça de Thor. A chuva de cacos é invenção do jogo. Leia a história em [Thor contra Hrungnir: o duelo com o gigante de coração de pedra e o caco que ficou na cabeça do deus](/2026/11/19/hrungnir-thor-duelo-pedra-amolar/).
+Segundo Snorri, um caco da pedra de amolar de Hrungnir ficou cravado na cabeça de Thor. A chuva de cacos é invenção do jogo. Leia a história em [Thor contra Hrungnir: o duelo com o gigante de coração de pedra e o caco que ficou na cabeça do deus](/pt/hrungnir-thor-duelo-pedra-amolar/).

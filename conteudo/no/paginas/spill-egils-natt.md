@@ -23,4 +23,4 @@ Ord faller nedover skjermen. Trykk bare på dem som begynner med bokstaven som v
 
 ## Historien bak
 
-I Egils saga komponerer skalden «Höfuðlausn» på én natt for å unnslippe døden foran kong Erik. Det virkelige diktet kommer ikke fram i spillet. Stavrim, gjentakelsen av begynnelseslyder, er et ekte trekk ved skaldediktingen; spillmekanikken er diktet opp. Les historien i [Egil Skallagrimsson og diktet som, ifølge sagaen, reddet hodet hans](/no/2026/11/12/egil-skallagrimsson-resgate-da-cabeca/).
+I Egils saga komponerer skalden «Höfuðlausn» på én natt for å unnslippe døden foran kong Erik. Det virkelige diktet kommer ikke fram i spillet. Stavrim, gjentakelsen av begynnelseslyder, er et ekte trekk ved skaldediktingen; spillmekanikken er diktet opp. Les historien i [Egil Skallagrimsson og diktet som, ifølge sagaen, reddet hodet hans](/no/egil-skallagrimsson-og-diktet-som-ifolge-sagaen-reddet/).

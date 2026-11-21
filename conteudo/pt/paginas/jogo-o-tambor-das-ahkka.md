@@ -23,4 +23,4 @@ Anéis encolhem em direção ao centro do tambor. Toque em qualquer lugar (ou ap
 
 ## A história por trás
 
-Para os sámi, Máttaráhkká e as filhas Sáráhkká, Juoksáhkká e Uksáhkká cuidavam do parto. O tambor e o ritmo são invenção. Leia a história em [As Áhkká: a deusa sámi do parto e as três filhas que guardavam o fogo, a porta e o arco](/2027/01/03/ahkka-deusas-sami-maattarahkka-filhas/).
+Para os sámi, Máttaráhkká e as filhas Sáráhkká, Juoksáhkká e Uksáhkká cuidavam do parto. O tambor e o ritmo são invenção. Leia a história em [As Áhkká: a deusa sámi do parto e as três filhas que guardavam o fogo, a porta e o arco](/pt/ahkka-deusas-sami-maattarahkka-filhas/).

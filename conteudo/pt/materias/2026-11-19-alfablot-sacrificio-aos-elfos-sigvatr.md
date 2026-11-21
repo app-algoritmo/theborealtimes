@@ -39,4 +39,4 @@ A cena do escaldo é preciosa porque mostra a convivência, e o atrito, entre du
 
 Os estudiosos observam também que as fontes ligam os elfos a outeiros e aos mortos, mas essa ligação é interpretada de modos diferentes, e nenhum modo é aceito por todos.
 
-Para ajudar a ligar as oferendas aos lugares certos sem deixar nenhum caminho cruzar outro, jogue [O Álfablót](/jogo-o-alfablot/).
+Para ajudar a ligar as oferendas aos lugares certos sem deixar nenhum caminho cruzar outro, jogue [O Álfablót](/pt/jogo-o-alfablot/).

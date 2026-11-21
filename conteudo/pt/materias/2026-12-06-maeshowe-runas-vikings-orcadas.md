@@ -37,4 +37,4 @@ Não se sabe se o tesouro de que falam as runas realmente existiu, nem o que foi
 
 Maeshowe é um lugar em que se encontram duas épocas separadas por milênios. Para os nórdicos do século XII, era um monte misterioso, ligado a histórias de tesouros e de assombrações. Para nós, é um raro registro direto de gente comum escrevendo à mão, com tom de brincadeira, sobre o que lhe interessava.
 
-Para decifrar, por tentativas e pistas, uma sequência secreta de quatro runas, jogue [A câmara de Maeshowe](/jogo-a-camara-de-maeshowe/).
+Para decifrar, por tentativas e pistas, uma sequência secreta de quatro runas, jogue [A câmara de Maeshowe](/pt/jogo-a-camara-de-maeshowe/).

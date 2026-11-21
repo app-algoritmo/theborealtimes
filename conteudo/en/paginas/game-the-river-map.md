@@ -23,4 +23,4 @@ Drag from a dot of one colour to the other dot of the same colour through neighb
 
 ## The story behind it
 
-In 844 the Vikings sailed up the Guadalquivir river to Seville. The map and the pairs are made up for the game. Read the story in [Seville, 844: the Viking fleet that sailed up the Guadalquivir and was beaten by an emir](/en/2026/12/13/sevilha-844-vikings-guadalquivir/).
+In 844 the Vikings sailed up the Guadalquivir river to Seville. The map and the pairs are made up for the game. Read the story in [Seville, 844: the Viking fleet that sailed up the Guadalquivir and was beaten by an emir](/seville-844-the-viking-fleet-that-sailed-up/).

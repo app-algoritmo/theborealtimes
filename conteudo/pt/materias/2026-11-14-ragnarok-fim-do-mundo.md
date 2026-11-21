@@ -51,4 +51,4 @@ O nome costuma ser traduzido como "destino dos poderes" (*ragna rök*). Uma vari
 
 Os estudiosos discutem quanto da ideia de um mundo que renasce já existia antes da conversão e quanto veio do cristianismo. A estrofe em que "chega o poderoso" para o julgamento é vista por muitos como influência cristã. Outros defendem que o ciclo de destruição e renovação é herança pagã. O debate segue aberto, e o poema não deixa a questão resolvida.
 
-Para defender o salão dos deuses por uma noite, jogue [A última batalha](/jogo-a-ultima-batalha/).
+Para defender o salão dos deuses por uma noite, jogue [A última batalha](/pt/jogo-a-ultima-batalha/).

@@ -23,4 +23,4 @@ Kryss elven ved å hoppe fra blokk til blokk. Trykk på skjermen, eller trykk me
 
 ## Historien bak
 
-I myten vadet Tor over elvene Élivágar med Aurvandil i en kurv, og en frossen tå ble til en stjerne. Krysningen med hopp er oppfunnet. Les historien i [Aurvandil: tåen som ble en stjerne i myten om Tor](/no/2027/03/07/aurvandil-o-dedo-do-pe-que-virou-estrela-no-mito-de-thor/).
+I myten vadet Tor over elvene Élivágar med Aurvandil i en kurv, og en frossen tå ble til en stjerne. Krysningen med hopp er oppfunnet. Les historien i [Aurvandil: tåen som ble en stjerne i myten om Tor](/no/aurvandil-taen-som-ble-en-stjerne-i-myten-om-tor/).

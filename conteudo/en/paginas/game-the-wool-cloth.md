@@ -23,4 +23,4 @@ A piece of wool is woven row by row. Each row shows four coloured threads for a 
 
 ## The story behind it
 
-In 1921, Poul Nørlund excavated the churchyard of Herjólfsnes in Greenland and found wool hoods, hats and gowns in the European fashion of the time. The row-by-row weaving is invented. Read the story in [Herjólfsnes: the wool clothes found in the graves of Norse Greenland](/en/2027/03/14/herjolfsnes-as-roupas-de-la-nos-tumulos-da-groenlandia-nordica/).
+In 1921, Poul Nørlund excavated the churchyard of Herjólfsnes in Greenland and found wool hoods, hats and gowns in the European fashion of the time. The row-by-row weaving is invented. Read the story in [Herjólfsnes: the wool clothes found in the graves of Norse Greenland](/herjolfsnes-the-wool-clothes-found-in-the-graves-of-norse/).

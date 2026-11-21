@@ -23,4 +23,4 @@ Du starter i hjørnet øverst til venstre. Trykk på en farge for å male hele r
 
 ## Historien bak
 
-25. mars 1016, palmesøndag, beseiret Olav Haraldsson Sveinn Hákonarson ved Nesjar; stedet er angitt av tradisjonen. Å male fjorden er oppfunnet. Les historien i [Slaget ved Nesjar i 1016: Olav Haraldsson mot Sveinn Hákonarson](/no/2027/02/14/batalha-de-nesjar-olav-haraldsson-sveinn-hakonarson-1016/).
+25. mars 1016, palmesøndag, beseiret Olav Haraldsson Sveinn Hákonarson ved Nesjar; stedet er angitt av tradisjonen. Å male fjorden er oppfunnet. Les historien i [Slaget ved Nesjar i 1016: Olav Haraldsson mot Sveinn Hákonarson](/no/slaget-ved-nesjar-i-1016-olav-haraldsson-mot-sveinn/).

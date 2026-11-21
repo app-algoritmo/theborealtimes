@@ -23,4 +23,4 @@ The enemies come from the right. Tap above the bridge, or press the space bar, t
 
 ## The story behind it
 
-At the Battle of Stamford Bridge in 1066, the Norwegian king Harald Hardrada was killed. Later sources, such as Henry of Huntingdon, tell of an axeman who held the bridge until he was struck from below. The victory in the game is made up. Read the story in [Stamford Bridge, 1066: the man who held the bridge and the battle tradition calls the end of the Viking Age](/en/2026/11/14/stamford-bridge-1066/).
+At the Battle of Stamford Bridge in 1066, the Norwegian king Harald Hardrada was killed. Later sources, such as Henry of Huntingdon, tell of an axeman who held the bridge until he was struck from below. The victory in the game is made up. Read the story in [Stamford Bridge, 1066: the man who held the bridge and the battle tradition calls the end of the Viking Age](/stamford-bridge-1066-the-man-who-held-the-bridge/).

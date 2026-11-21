@@ -41,4 +41,4 @@ A *Völuspá* fala em "nove mundos", mas nenhuma fonte antiga diz quais são. Os
 
 O mesmo vale para a ideia de que os humanos Líf e Lífthrasir sobreviveram ao fim do mundo escondidos em Yggdrasil. As fontes falam apenas de um bosque de Hoddmímir. Intérpretes modernos propuseram que bosque e árvore sejam a mesma coisa, mas isso é hipótese.
 
-Para subir a árvore atrás de recados, jogue [Ratatosk e a árvore](/jogo-ratatosk-e-a-arvore/).
+Para subir a árvore atrás de recados, jogue [Ratatosk e a árvore](/pt/jogo-ratatosk-e-a-arvore/).

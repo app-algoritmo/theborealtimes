@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-I Ölkofra þáttr brenner Ölkofri kull, sovner, og ilden sprer seg til skogen til seks høvdinger. De tre skogstrekkene, gnistene og rytmen i spillet er oppdiktet. Les historien i [Ölkofra þáttr: ølselgeren som brant skogen til seks høvdinger og slapp unna fredløshet](/no/2027/04/04/olkofra-thattr-o-cervejeiro-que-queimou-a-floresta-de-seis-chefes-e-escapou-da-proscricao/).
+I Ölkofra þáttr brenner Ölkofri kull, sovner, og ilden sprer seg til skogen til seks høvdinger. De tre skogstrekkene, gnistene og rytmen i spillet er oppdiktet. Les historien i [Ölkofra þáttr: ølselgeren som brant skogen til seks høvdinger og slapp unna fredløshet](/no/olkofra-thattr-olselgeren-som-brant-skogen-til-seks/).

@@ -39,4 +39,4 @@ A *thaler* is an old silver coin used in Europe, including Scandinavia. *Aarne�
 
 The source has weak references on some points: the citations of Bodansky and of Cole, of 1982 and 1983, are given without much support. The source page does not give other classification numbers, such as ATU 1693, nor the English name "Lucky Hans", and so this piece does not assert them either. The moral sense of the tale, whether it is a satire or a praise of trust between the couple, is the reading of whoever interprets it. One possible reading is that what Gudbrand loses in objects he gains in trust, but it is only a reading.
 
-To win a bet of three in a row against an opponent, play [Gudbrand’s bet](/en/game-gudbrands-bet/).
+To win a bet of three in a row against an opponent, play [Gudbrand’s bet](/game-gudbrands-bet/).

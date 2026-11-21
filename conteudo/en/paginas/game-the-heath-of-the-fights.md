@@ -23,4 +23,4 @@ Four bands of men hide on the heath: one of 4 squares, two of 3 and one of 2, in
 
 ## The story behind it
 
-The Heiðarvíga saga, the story of the heath-slayings, follows descendants of Egill Skallagrímsson in disputes that end in killings on a heath. It survives badly: twelve leaves of its only manuscript burned in Copenhagen in 1728. The hidden bands are invented. Read the story in [Heiðarvíga saga: the story of the heath-slayings, and the leaves that burned in Copenhagen](/en/2027/01/24/heidarviga-saga-combates-da-charneca-egill-descendentes/).
+The Heiðarvíga saga, the story of the heath-slayings, follows descendants of Egill Skallagrímsson in disputes that end in killings on a heath. It survives badly: twelve leaves of its only manuscript burned in Copenhagen in 1728. The hidden bands are invented. Read the story in [Heiðarvíga saga: the story of the heath-slayings, and the leaves that burned in Copenhagen](/heidarviga-saga-the-story-of-the-heath-slayings/).

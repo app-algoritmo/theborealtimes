@@ -23,4 +23,4 @@ A lot-stone shows under one cup. Then all the cups come down and swap places. Fo
 
 ## The story behind it
 
-In Gautreks saga, Starkad is raised alongside Vikar, and Odin’s lot falls on Vikar, who is sacrificed. Hiding the stone under cups is invented. Read the story in [Starkad: the hero of three lifetimes, Odin's lot and Thor's curses](/en/2027/02/14/starkad-gigante-de-oito-bracos-sorteio-de-odin/).
+In Gautreks saga, Starkad is raised alongside Vikar, and Odin’s lot falls on Vikar, who is sacrificed. Hiding the stone under cups is invented. Read the story in [Starkad: the hero of three lifetimes, Odin's lot and Thor's curses](/starkad-the-hero-of-three-lifetimes-odin-s-lot-and-thor-s/).

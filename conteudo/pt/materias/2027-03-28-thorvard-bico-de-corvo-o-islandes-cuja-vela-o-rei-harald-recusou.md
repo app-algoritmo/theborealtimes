@@ -44,4 +44,4 @@ O conto mostra que recusar um presente pode ser um erro caro e que quem sabe rec
 
 O conto é uma narrativa literária, e as fontes que li não dizem se Thorvard, a vela ou a corrida existiram de fato. A tradução diz que o rei é Harald, e não detalha mais. Também não explicam o apelido "Bico-de-Corvo".
 
-Para pegar as rajadas de vento a favor e deixar passar as contrárias, jogue [As rajadas de vento](/jogo-as-rajadas-de-vento/).
+Para pegar as rajadas de vento a favor e deixar passar as contrárias, jogue [As rajadas de vento](/pt/jogo-as-rajadas-de-vento/).

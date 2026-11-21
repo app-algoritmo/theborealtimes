@@ -23,4 +23,4 @@ Embers and water bubbles rise and fall. Swipe your finger (or the mouse) over th
 
 ## The story behind it
 
-In the Orkney tale, Assipattle, the seventh son, sets the liver of the Stoor Worm alight with a burning peat. The worm dies, and its teeth become the islands of Orkney, Shetland and the Faroes. Slicing embers in the air is invented. Read the story in [Assipattle and the Stoor Worm: the Orkney tale in which the monster gives birth to the islands](/en/2027/01/31/assipattle-stoor-worm-conto-de-orkney/).
+In the Orkney tale, Assipattle, the seventh son, sets the liver of the Stoor Worm alight with a burning peat. The worm dies, and its teeth become the islands of Orkney, Shetland and the Faroes. Slicing embers in the air is invented. Read the story in [Assipattle and the Stoor Worm: the Orkney tale in which the monster gives birth to the islands](/assipattle-and-the-stoor-worm-the-orkney-tale/).

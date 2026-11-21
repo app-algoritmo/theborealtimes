@@ -23,4 +23,4 @@ In the cellar of the wedding, the notes of Fanitullen run down the four strings 
 
 ## The story behind it
 
-According to the Norsk Kornølfestival article, Fanitullen is a fiddle tune tied to the legend of a devilish fiddler at a wedding in Hol, in 1724. The notes that run down the strings are invention. Read the story in [Fanitullen: the devil's tune and the wedding fight in Hol in 1724](/en/2027/03/21/fanitullen-a-melodia-do-diabo-e-a-briga-do-casamento-de-hol-em-1724/).
+According to the Norsk Kornølfestival article, Fanitullen is a fiddle tune tied to the legend of a devilish fiddler at a wedding in Hol, in 1724. The notes that run down the strings are invention. Read the story in [Fanitullen: the devil's tune and the wedding fight in Hol in 1724](/fanitullen-the-devil-s-tune-and-the-wedding-fight-in-hol/).

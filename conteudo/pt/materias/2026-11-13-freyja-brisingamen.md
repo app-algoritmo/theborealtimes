@@ -38,4 +38,4 @@ Loki, que vigiava Freyja a mando de Odin, conta tudo ao deus. Odin ordena que el
 
 A *Sörla þáttr* foi escrita por autores cristãos, séculos depois do fim da religião antiga, e o tom é hostil à deusa. Os historiadores veem nela, em parte, uma crítica moral, e por isso a tratam com cautela. Já a etimologia de Brísingamen é debatida, e nenhuma das fontes descreve a aparência do colar.
 
-Para forjar o colar com os quatro anões, jogue [A forja dos anões](/jogo-forja-dos-anoes/).
+Para forjar o colar com os quatro anões, jogue [A forja dos anões](/pt/jogo-forja-dos-anoes/).

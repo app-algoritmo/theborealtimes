@@ -52,4 +52,4 @@ On 13 November 1002, Æthelred ordered the killing of Danes in England. At Oxfor
 
 There is no estimate of how many died. Ian Howard assumes no more than a few hundred, nearly all from the invading army and their families. The historian Levi Roach notes that it is impossible to link conclusively the Oxford and other graves to St Brice’s Day, since violence between groups was regular in this period. The entry says that Gunhilde, sister of Sweyn, would have died with her husband Pallig, but the only source is William of Malmesbury, and the historian Ann Williams considers it a myth. History Today gives her as "apparently" killed at Oxford, which shows the divergence between the two sources.
 
-To rebuild the order of the numbers of a square in which all the lines add up to the same, play [The square of numbers](/en/game-the-square-of-numbers/).
+To rebuild the order of the numbers of a square in which all the lines add up to the same, play [The square of numbers](/game-the-square-of-numbers/).

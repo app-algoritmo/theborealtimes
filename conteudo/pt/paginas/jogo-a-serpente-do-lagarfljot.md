@@ -23,4 +23,4 @@ A serpente anda sozinha. Toque na metade esquerda da tela para virar à esquerda
 
 ## A história por trás
 
-No folclore islandês, um verme cresceu no lago Lagarfljót depois de ser jogado nele com um anel de ouro. O jogo é uma invenção. Leia a história em [A serpente do Lagarfljót: o monstro do lago islandês que foi filmado em 2012](/2026/11/15/lagarfljot-serpente-lago/).
+No folclore islandês, um verme cresceu no lago Lagarfljót depois de ser jogado nele com um anel de ouro. O jogo é uma invenção. Leia a história em [A serpente do Lagarfljót: o monstro do lago islandês que foi filmado em 2012](/pt/lagarfljot-serpente-lago/).

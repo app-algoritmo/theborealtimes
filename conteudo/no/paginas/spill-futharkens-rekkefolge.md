@@ -23,4 +23,4 @@ En kalksteinshelle har tolv runer. Se på raden med runer nederst på skjermen o
 
 ## Historien bak
 
-Kylver-steinen fra Gotland, fra omkring år 400, har hele det eldre futharken i rekkefølge, den eldste slike rekken vi kjenner. Spillet med tolv runer er oppfunnet. Les historien i [Kylverstenen: hele futharken risset på Gotland omkring 400](/no/2027/03/14/pedra-de-kylver-o-futhark-inteiro-gravado-em-gotland-por-volta-de-400/).
+Kylver-steinen fra Gotland, fra omkring år 400, har hele det eldre futharken i rekkefølge, den eldste slike rekken vi kjenner. Spillet med tolv runer er oppfunnet. Les historien i [Kylverstenen: hele futharken risset på Gotland omkring 400](/no/kylverstenen-hele-futharken-risset-pa-gotland-omkring-400/).

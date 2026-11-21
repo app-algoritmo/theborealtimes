@@ -23,4 +23,4 @@ Du spiller kongen (med kronen) og de fire forsvarerne, i lilla, og du går førs
 
 ## Historien bak
 
-Hnefatafl ble spilt i vikingtiden, men de opprinnelige reglene gikk tapt og er rekonstruert ut fra senere kilder. Dette brettet på 7×7 ruter er en forenklet versjon. Les historien i [Hnefatafl: brettspillet vikingene spilte, og som ingen vet nøyaktig hvordan gikk](/no/2026/11/13/hnefatafl-tabuleiro/).
+Hnefatafl ble spilt i vikingtiden, men de opprinnelige reglene gikk tapt og er rekonstruert ut fra senere kilder. Dette brettet på 7×7 ruter er en forenklet versjon. Les historien i [Hnefatafl: brettspillet vikingene spilte, og som ingen vet nøyaktig hvordan gikk](/no/hnefatafl-brettspillet-vikingene-spilte-og-som-ingen-vet/).

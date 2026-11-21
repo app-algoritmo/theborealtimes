@@ -42,4 +42,4 @@ O *Hávamál* também contém uma ideia muito citada: o gado morre, os parentes 
 
 O *Hávamál* tem cerca de cento e sessenta e quatro estrofes, e a hospitalidade é só uma parte. O poema também traz as estrofes em que Odin conta que ficou nove noites pendurado numa árvore, ferido por uma lança, para ganhar o conhecimento das runas, e o episódio do hidromel da poesia. Os conselhos ao hóspede aparecem ao lado dessas passagens, o que sugere que, para quem montou a coleção, boa conduta e sabedoria andavam juntas.
 
-Para servir cada hóspede antes que a paciência acabe, jogue [Hóspedes no salão](/jogo-hospedes-no-salao/).
+Para servir cada hóspede antes que a paciência acabe, jogue [Hóspedes no salão](/pt/jogo-hospedes-no-salao/).

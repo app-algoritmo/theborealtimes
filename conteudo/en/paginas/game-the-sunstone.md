@@ -23,4 +23,4 @@ Drag your finger (or use the arrow keys) to move the marker along the horizon. I
 
 ## The story behind it
 
-In the *Rauðúlfs þáttr*, King Olaf uses a sunstone to see where the sun is on a day of snow and clouds. Modern experiments show a crystal could work this way, but nobody knows whether the Vikings used one. The game is a simplification: the brightness of the two lights and the marker are made up. Read the story in [The sunstone: the crystal that may have helped the Vikings find the sun in a cloudy sky](/en/2026/11/13/pedra-solar/).
+In the *Rauðúlfs þáttr*, King Olaf uses a sunstone to see where the sun is on a day of snow and clouds. Modern experiments show a crystal could work this way, but nobody knows whether the Vikings used one. The game is a simplification: the brightness of the two lights and the marker are made up. Read the story in [The sunstone: the crystal that may have helped the Vikings find the sun in a cloudy sky](/the-sunstone-the-crystal-that-may-have-helped-the-vikings/).

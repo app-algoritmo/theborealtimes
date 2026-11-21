@@ -23,4 +23,4 @@ Du flytter gjessene: trykk på en gås, så på et ledig hull ved siden av den. 
 
 ## Historien bak
 
-Harald Hardråde tjenestegjorde i Kiev og i Konstantinopel og vendte hjem for å bli konge av Norge. Rev og gjess-spillet er oppfunnet. Les historien i [Harald Hardråde: fra Stiklestad til Væringgarden og døden ved Stamford Bridge](/no/2026/12/27/harald-hardrada-varegue-rei-stamford-bridge/).
+Harald Hardråde tjenestegjorde i Kiev og i Konstantinopel og vendte hjem for å bli konge av Norge. Rev og gjess-spillet er oppfunnet. Les historien i [Harald Hardråde: fra Stiklestad til Væringgarden og døden ved Stamford Bridge](/no/harald-hardrade-fra-stiklestad-til-vaeringgarden-og-doden/).

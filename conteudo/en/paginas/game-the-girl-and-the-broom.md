@@ -23,4 +23,4 @@ Pesta, the old woman of the plague, travels from farm to farm with a broom and a
 
 ## The story behind it
 
-In Norwegian legends, Pesta travels from farm to farm with a broom and a rake, and in several legends a girl escapes, as in Jostedalen. The falling loaves, the lanes and the rhythm of the game are invention. Read the story in [Pesta: the old woman of the Black Death in Norwegian folklore, with rake and broom](/en/2027/04/04/pesta-a-velha-da-peste-negra-no-folclore-noruegues-com-rastelo-e-vassoura/).
+In Norwegian legends, Pesta travels from farm to farm with a broom and a rake, and in several legends a girl escapes, as in Jostedalen. The falling loaves, the lanes and the rhythm of the game are invention. Read the story in [Pesta: the old woman of the Black Death in Norwegian folklore, with rake and broom](/pesta-the-old-woman-of-the-black-death-in-norwegian/).

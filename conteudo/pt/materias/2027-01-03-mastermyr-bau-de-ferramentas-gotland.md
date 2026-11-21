@@ -39,4 +39,4 @@ As ferramentas contam o ofício: marretas e tenazes são de forja, trados, enxó
 
 Não se sabe quem era o dono, por que o baú foi parar na água, nem se alguém voltou para buscá-lo. Também não se sabe se todo o conjunto era do mesmo artesão. A ausência de moedas e de escritos impede ir além da hipótese.
 
-Para mudar uma pilha de ferramentas de tamanhos diferentes entre três pinos, uma de cada vez, sem pôr a maior sobre a menor, jogue [As ferramentas de Mästermyr](/jogo-as-ferramentas-de-mastermyr/).
+Para mudar uma pilha de ferramentas de tamanhos diferentes entre três pinos, uma de cada vez, sem pôr a maior sobre a menor, jogue [As ferramentas de Mästermyr](/pt/jogo-as-ferramentas-de-mastermyr/).

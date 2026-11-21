@@ -43,4 +43,4 @@ Trelleborg não é a única. Fortalezas semelhantes foram achadas em Fyrkat, Agg
 
 Hoje o anel de Trelleborg é uma área de visita, com casas reconstruídas, e o desenho original ainda é visível no terreno. Para muita gente, a fortaleza é a imagem de um tipo de Estado que os vikings sabiam construir: planejado, medido e feito para durar mais do que durou.
 
-Para erguer a fortaleza você mesmo, jogue [Construir Trelleborg](/jogo-construir-trelleborg/).
+Para erguer a fortaleza você mesmo, jogue [Construir Trelleborg](/pt/jogo-construir-trelleborg/).

@@ -23,4 +23,4 @@ The Yule Cat prowls around the house. Guide the thread of wool and collect 12 ba
 
 ## The story behind it
 
-In Icelandic tradition, whoever got a new piece of clothing before Christmas escaped the Yule Cat. The thread of wool in the game is made up. Read the story in [Jólakötturinn, the Yule Cat of Iceland: whoever got no new clothes might become its dinner](/en/2026/11/20/jolakotturinn-gato-de-natal-islandia/).
+In Icelandic tradition, whoever got a new piece of clothing before Christmas escaped the Yule Cat. The thread of wool in the game is made up. Read the story in [Jólakötturinn, the Yule Cat of Iceland: whoever got no new clothes might become its dinner](/jolakotturinn-the-yule-cat-of-iceland-whoever-got-no-new/).

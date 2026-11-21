@@ -37,4 +37,4 @@ O Vento Norte, no conto, não é nem totalmente bom nem totalmente mau. Ele erra
 
 Vale lembrar que os ventos aparecem como personagens em muitas tradições, e que na Noruega o vento do norte era uma presença real, que trazia frio e tempestades. Transformá-lo em alguém que pode errar, ser cobrado e ainda compensar o dano é uma forma de lidar com a incerteza do clima. O humor do conto ajuda a tornar essa relação mais leve.
 
-Para dar a lição ao estalajadeiro, mandando o bastão acertar quem se atrever a surgir, jogue [O bastão do Vento Norte](/jogo-o-bastao-do-vento-norte/).
+Para dar a lição ao estalajadeiro, mandando o bastão acertar quem se atrever a surgir, jogue [O bastão do Vento Norte](/pt/jogo-o-bastao-do-vento-norte/).

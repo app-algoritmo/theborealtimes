@@ -43,4 +43,4 @@ An *encomium* is a text in praise of someone. *Ælfgifu* is the English name by 
 
 The authorship of the *Encomium* is not given by the source, and this piece does not guess it. Whether Harold or Godwin was responsible for Alfred's blinding is debated. The legend of the ordeal by fire is much later than Emma's life, and so should not be taken as fact. The *Encomium* is a text of praise, written to enhance the queen, and so its view of events is not neutral.
 
-To link towns by roads at the lowest cost, play [The queen’s roads](/en/game-the-queens-roads/).
+To link towns by roads at the lowest cost, play [The queen’s roads](/game-the-queens-roads/).

@@ -47,4 +47,4 @@ Os kennings se multiplicam quando um dentro do outro, e o resultado pode ser dif
 
 Os escaldos tinham dois recursos. Um era o *heiti*, uma palavra poética simples no lugar da comum, como um nome raro para "navio". O outro era o kenning, que juntava duas palavras. Quanto mais refinado o poeta, mais elementos ele empilhava. Um dos mais célebres, Egill Skallagrímsson, teria composto na Inglaterra, segundo a saga, um poema para salvar a própria cabeça diante do rei Eiríkr Machado Sangrento. Em muitos versos, o rei era chamado de "quebrador de anéis", por distribuir ouro.
 
-Para resolver as charadas dos escaldos, jogue [Charadas de kennings](/jogo-charadas-de-kennings/).
+Para resolver as charadas dos escaldos, jogue [Charadas de kennings](/pt/jogo-charadas-de-kennings/).

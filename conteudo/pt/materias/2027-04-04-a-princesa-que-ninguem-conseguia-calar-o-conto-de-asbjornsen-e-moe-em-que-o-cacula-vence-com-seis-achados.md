@@ -48,4 +48,4 @@ O caçula pega seis coisas no caminho e usa cada uma para responder a uma frase 
 
 Li uma adaptação inglesa de 1912, e não o texto de Asbjørnsen e Moe em norueguês, então os detalhes, como a ordem das respostas e o jogo de palavras do final, podem variar em outras versões. O conto não dá nome à princesa nem ao rei.
 
-Para dar à princesa a resposta que cada frase pede, jogue [A resposta de cada frase](/jogo-a-resposta-de-cada-frase/).
+Para dar à princesa a resposta que cada frase pede, jogue [A resposta de cada frase](/pt/jogo-a-resposta-de-cada-frase/).

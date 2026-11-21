@@ -23,4 +23,4 @@ Aim with your finger (or use the arrows) and tap above the launcher (or press Sp
 
 ## The story behind it
 
-The poem Völuspá is recited by a seeress before Odin. The runes thrown in the game are made up. Read the story in [Völuspá, the seeress's prophecy that tells Odin of the beginning and end of the world](/en/2026/11/22/voluspa-a-vidente-fala-a-odin/).
+The poem Völuspá is recited by a seeress before Odin. The runes thrown in the game are made up. Read the story in [Völuspá, the seeress's prophecy that tells Odin of the beginning and end of the world](/voluspa-the-seeress-s-prophecy-that-tells-odin/).

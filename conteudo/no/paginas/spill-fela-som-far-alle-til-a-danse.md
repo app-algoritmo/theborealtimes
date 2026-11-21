@@ -23,4 +23,4 @@ Frikks fele får alle til å danse, men bare hvis han spiller i takt. Ringer kry
 
 ## Historien bak
 
-I eventyret får Frikk en fele som får alt levende til å danse, og ved galgen spiller han til lensmannen, dommeren og soldatene danser. Rytmespillet er oppfunnet. Les historien i [Lille Frikk og fela: eventyret om fela som får alle til å danse](/no/2027/03/07/o-pequeno-freddy-e-seu-violino-conto-noruegues-do-violino-que-faz-todos-dancarem/).
+I eventyret får Frikk en fele som får alt levende til å danse, og ved galgen spiller han til lensmannen, dommeren og soldatene danser. Rytmespillet er oppfunnet. Les historien i [Lille Frikk og fela: eventyret om fela som får alle til å danse](/no/lille-frikk-og-fela-eventyret-om-fela-som-far-alle/).

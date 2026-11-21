@@ -52,4 +52,4 @@ Norna-Gest chega à corte de Olavo Tryggvason com uma peça de ouro da sela de S
 
 A página consultada nota que o rei Eiríkr de Uppsala é identificado de várias maneiras, e que o conto traz detalhes, como a morte de Lyngvi, que a *Saga dos Volsungos* não tem. A data de composição é aproximada.
 
-Para proteger a chama da vela dos ventos que chegam, jogue [A chama da vela](/jogo-a-chama-da-vela/).
+Para proteger a chama da vela dos ventos que chegam, jogue [A chama da vela](/pt/jogo-a-chama-da-vela/).

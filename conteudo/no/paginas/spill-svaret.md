@@ -23,4 +23,4 @@ Ved hoffet til Harald flyr fornærmelsene på to nivåer, det øvre og det nedre
 
 ## Historien bak
 
-Sneglu-Halla þáttr forteller at islendingen Halli møter kong Harald og skalden Tjodolv med skarpe svar, i en senna. Fornærmelsene som flyr, og sonen for å sende dem tilbake, er oppdiktet. Les historien i [Sneglu-Halli: islendingen med den skarpe tungen ved hoffet til Harald Hardråde](/no/2027/03/21/sneglu-halli-o-islandes-de-lingua-afiada-na-corte-de-harald-hardrada/).
+Sneglu-Halla þáttr forteller at islendingen Halli møter kong Harald og skalden Tjodolv med skarpe svar, i en senna. Fornærmelsene som flyr, og sonen for å sende dem tilbake, er oppdiktet. Les historien i [Sneglu-Halli: islendingen med den skarpe tungen ved hoffet til Harald Hardråde](/no/sneglu-halli-islendingen-med-den-skarpe-tungen-ved-hoffet/).

@@ -23,4 +23,4 @@ Ilmarinen smir en brud av gull, og tjenerne blåser i belgene. Tolv glør danner
 
 ## Historien bak
 
-I den 37. runen i Kalevala smir Ilmarinen en brud av gull og sølv, med tjenere som blåser i belgene, og finner henne kald og livløs. De tolv glørne, sleiven og rytmen i spillet er oppdiktet. Les historien i [Ilmarinen og gullbruden: smeden i Kalevala som smidde seg en kone og fant henne kald](/no/2027/04/04/ilmarinen-e-a-noiva-de-ouro-o-ferreiro-do-kalevala-que-forjou-uma-esposa-e-a-achou-fria/).
+I den 37. runen i Kalevala smir Ilmarinen en brud av gull og sølv, med tjenere som blåser i belgene, og finner henne kald og livløs. De tolv glørne, sleiven og rytmen i spillet er oppdiktet. Les historien i [Ilmarinen og gullbruden: smeden i Kalevala som smidde seg en kone og fant henne kald](/no/ilmarinen-og-gullbruden-smeden-i-kalevala-som-smidde-seg/).

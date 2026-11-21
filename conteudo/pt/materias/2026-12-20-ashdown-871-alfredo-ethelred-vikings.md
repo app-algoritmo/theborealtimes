@@ -43,4 +43,4 @@ Segundo a página, Alfredo atacou porque temia ser cercado pelo exército dinama
 
 O local é incerto. Pode ter sido Kingstanding Hill, em Berkshire, perto de Moulsford, ou um ponto perto de Starveall, ao norte de Aldworth e ao sudeste de Lowbury Hill. E a vitória durou pouco: os saxões perderam em Basing e em Meretun, e, logo após a Páscoa (15 de abril de 871), Æthelred morreu e Alfredo o sucedeu.
 
-Para defender a colina contra fileiras de invasores que descem, atirando de baixo, até derrubar todos, jogue [A colina de Ashdown](/jogo-a-colina-de-ashdown/).
+Para defender a colina contra fileiras de invasores que descem, atirando de baixo, até derrubar todos, jogue [A colina de Ashdown](/pt/jogo-a-colina-de-ashdown/).

@@ -23,4 +23,4 @@ Den ekte dronningen holdes fast av en jernlenke. Et glødende ledd går rundt he
 
 ## Historien bak
 
-I det islandske eventyret kapper kong Sigurd, den tredje natten, lenken som holder den ekte dronningen fast, hun som var byttet ut med en trollkvinne. Kappingen ledd for ledd er oppfunnet. Les historien i [Heksa i steinbåten: islandsk eventyr om kong Sigurd og lenken](/no/2027/03/14/a-bruxa-no-barco-de-pedra-conto-islandes-do-rei-sigurd-e-da-corrente/).
+I det islandske eventyret kapper kong Sigurd, den tredje natten, lenken som holder den ekte dronningen fast, hun som var byttet ut med en trollkvinne. Kappingen ledd for ledd er oppfunnet. Les historien i [Heksa i steinbåten: islandsk eventyr om kong Sigurd og lenken](/no/heksa-i-steinbaten-islandsk-eventyr-om-kong-sigurd-og-lenken/).

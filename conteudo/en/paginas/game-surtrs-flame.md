@@ -23,4 +23,4 @@ The fire starts in the top left corner. Tap a colour so that the whole patch of 
 
 ## The story behind it
 
-In the Völuspá, Surtr comes from the south with fire and a very bright sword at Ragnarök, and the world burns. The field of colours is invented. Read the story in [Surtr, the fire giant of Muspelheim: what the sources say about Ragnarök](/en/2027/01/10/surtr-gigante-de-fogo-muspelheim-ragnarok/).
+In the Völuspá, Surtr comes from the south with fire and a very bright sword at Ragnarök, and the world burns. The field of colours is invented. Read the story in [Surtr, the fire giant of Muspelheim: what the sources say about Ragnarök](/surtr-the-fire-giant-of-muspelheim-what-the-sources-say/).

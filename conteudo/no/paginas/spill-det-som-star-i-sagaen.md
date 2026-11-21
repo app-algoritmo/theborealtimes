@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-I Gautreks saga går kong Gauti seg vill og overnatter hos bonden Gjerrigknark, og stedet heter Ættarstapi. Ättestupa-klippene kom senere, og skikken er aldri påvist. Inndelingen i tre bokser og rytmen i spillet er oppdiktet. Les historien i [Gautrek og den gjerrige familien: sagaen bak den svenske «ättestupa»](/no/2027/03/28/gautrek-e-a-familia-avarenta-a-saga-por-tras-da-attestupa-sueca/).
+I Gautreks saga går kong Gauti seg vill og overnatter hos bonden Gjerrigknark, og stedet heter Ættarstapi. Ättestupa-klippene kom senere, og skikken er aldri påvist. Inndelingen i tre bokser og rytmen i spillet er oppdiktet. Les historien i [Gautrek og den gjerrige familien: sagaen bak den svenske «ättestupa»](/no/gautrek-og-den-gjerrige-familien-sagaen-bak-den-svenske/).

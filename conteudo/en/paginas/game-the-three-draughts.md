@@ -23,4 +23,4 @@ Hold your finger (or the space bar) to drink and release in the marked zone of t
 
 ## The story behind it
 
-In the Prose Edda, Odin drinks the mead of poetry in three draughts and flees in the shape of an eagle. The gauge in the game is made up. Read the story in [Odin and the mead of poetry: the theft that gave poets their art](/en/2026/11/17/odin-hidromel-da-poesia/).
+In the Prose Edda, Odin drinks the mead of poetry in three draughts and flees in the shape of an eagle. The gauge in the game is made up. Read the story in [Odin and the mead of poetry: the theft that gave poets their art](/odin-and-the-mead-of-poetry-the-theft-that-gave-poets/).

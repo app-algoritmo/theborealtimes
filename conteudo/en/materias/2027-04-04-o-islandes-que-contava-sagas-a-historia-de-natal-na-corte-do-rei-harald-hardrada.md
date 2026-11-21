@@ -56,4 +56,4 @@ A young Icelander tells sagas at the court of Harald Hardrada and saves for Yule
 
 The page consulted does not give the Icelander's name, the detailed content of the saga he tells or what happens after the king's question. The date of composition, the end of the thirteenth century, is a hypothesis.
 
-To put the scenes of the tale in order, play [The scenes of the tale](/en/game-the-scenes-of-the-tale/).
+To put the scenes of the tale in order, play [The scenes of the tale](/game-the-scenes-of-the-tale/).

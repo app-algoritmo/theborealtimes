@@ -52,4 +52,4 @@ Joik is a Sámi song that evokes a person, an animal or a place. It was condemne
 
 The origin of joik is not documented: the entry says Sámi culture had no written language, and Nordics.info does not say when it arose. Oral tradition says that the fairies and elves of the Arctic gave joiks to the Sámi. The end of assimilation is given only as "relatively recently". The two texts differ a little, for example in saying which joik styles survive. And the entry marks some of its own sentences as lacking a source.
 
-To hear a melody and find the contour that matches it, play [Listen and recognise](/en/game-listen-and-recognise/).
+To hear a melody and find the contour that matches it, play [Listen and recognise](/game-listen-and-recognise/).

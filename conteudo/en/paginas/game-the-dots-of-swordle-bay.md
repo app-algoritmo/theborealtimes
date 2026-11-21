@@ -23,4 +23,4 @@ Tap between two neighbouring dots to draw a line. Whoever closes the fourth side
 
 ## The story behind it
 
-In 2011, archaeologists found a tenth-century boat burial at Ardnamurchan, in Scotland. The game of dots is made up. Read the story in [Ardnamurchan: the Viking warrior buried in a boat on the coast of Scotland](/en/2026/12/20/ardnamurchan-sepultura-em-barco-escocia-2011/).
+In 2011, archaeologists found a tenth-century boat burial at Ardnamurchan, in Scotland. The game of dots is made up. Read the story in [Ardnamurchan: the Viking warrior buried in a boat on the coast of Scotland](/ardnamurchan-the-viking-warrior-buried-in-a-boat/).

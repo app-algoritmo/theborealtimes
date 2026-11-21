@@ -47,4 +47,4 @@ The following winter, 873–874, the army was at Repton, where excavations from 
 
 The picture of Torksey comes from detector finds, not from the excavation of a whole town, and the number of people is an estimate. Even so, the gaming pieces, balances and cut coins show an army that manufactured, measuring silver, and amused itself in winter.
 
-To find, among similar pieces, the one that is different, in ever harder rounds, play [Torksey's odd piece](/en/game-torkseys-odd-piece/).
+To find, among similar pieces, the one that is different, in ever harder rounds, play [Torksey's odd piece](/game-torkseys-odd-piece/).

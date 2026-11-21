@@ -23,4 +23,4 @@ You guide Sól and the wolf Sköll wants the sun. Drag a finger (or use the arro
 
 ## The story behind it
 
-According to Snorri, Sól runs because a wolf chases her, and at Ragnarök it catches her. The bat-and-ball match is made up for the game. Read the story in [Sól and Máni: the siblings who pull the sun and the moon with wolves at their heels](/en/2026/11/21/sol-mani-lobos-skoll-hati/).
+According to Snorri, Sól runs because a wolf chases her, and at Ragnarök it catches her. The bat-and-ball match is made up for the game. Read the story in [Sól and Máni: the siblings who pull the sun and the moon with wolves at their heels](/sol-and-mani-the-siblings-who-pull-the-sun-and-the-moon/).

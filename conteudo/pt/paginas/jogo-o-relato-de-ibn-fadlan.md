@@ -23,4 +23,4 @@ Leia cada frase e toque em "Está no relato" ou "Foi inventado" (ou use as setas
 
 ## A história por trás
 
-O relato de Ibn Fadlan, de 921–922, descreve os Rus' do Volga. As frases do jogo foram escritas para ele e resumem o que se sabe. Leia a história em [Ibn Fadlan e os Rus' do Volga: o diplomata de Bagdá que descreveu os vikings](/2026/11/16/ibn-fadlan-rus-volga/).
+O relato de Ibn Fadlan, de 921–922, descreve os Rus' do Volga. As frases do jogo foram escritas para ele e resumem o que se sabe. Leia a história em [Ibn Fadlan e os Rus' do Volga: o diplomata de Bagdá que descreveu os vikings](/pt/ibn-fadlan-rus-volga/).

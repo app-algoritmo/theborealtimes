@@ -23,4 +23,4 @@ Flytt fingeren eller musen (eller bruk piltastene) for å bære kurven fra side 
 
 ## Historien bak
 
-Ifølge Snorre Sturlason eier Idun eplene som holder gudene unge. Jotunen Tjatse, i ørneskikkelse, bortfører henne, og Loke må hente henne tilbake. I spillet er det du som beskytter eplene, noe som ikke skjer i kilden. Les hele myten i [Gudene eldes da jotunen Tjatse stjeler Idun og eplene hennes](/no/2026/11/12/idun-macas-juventude-thjazi/).
+Ifølge Snorre Sturlason eier Idun eplene som holder gudene unge. Jotunen Tjatse, i ørneskikkelse, bortfører henne, og Loke må hente henne tilbake. I spillet er det du som beskytter eplene, noe som ikke skjer i kilden. Les hele myten i [Gudene eldes da jotunen Tjatse stjeler Idun og eplene hennes](/no/gudene-eldes-da-jotunen-tjatse-stjeler-idun-og-eplene-hennes/).

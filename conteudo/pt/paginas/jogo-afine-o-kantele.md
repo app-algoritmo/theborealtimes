@@ -23,4 +23,4 @@ Escolha uma corda e arraste para cima ou para baixo (ou use as setas) até o som
 
 ## A história por trás
 
-No Kalevala, a epopeia finlandesa, Väinämöinen faz o primeiro kantele e toca para encantar a floresta. A afinação do jogo é invenção. Leia a história em [Väinämöinen e o kantele: a música que fez a natureza chorar](/2026/11/17/vainamoinen-kantele-kalevala/).
+No Kalevala, a epopeia finlandesa, Väinämöinen faz o primeiro kantele e toca para encantar a floresta. A afinação do jogo é invenção. Leia a história em [Väinämöinen e o kantele: a música que fez a natureza chorar](/pt/vainamoinen-kantele-kalevala/).

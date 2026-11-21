@@ -46,4 +46,4 @@ The poem Hymiskviða tells of the same fishing trip and also ends with Hymir cut
 
 According to Snorri and the Völuspá, the two will meet again at Ragnarök, the end of the world. The serpent will rise from the sea, and Thor will face it. He will kill it, but will take only nine steps before falling dead, poisoned.
 
-Want to relive the fishing trip? Play [Thor's fishing trip](/en/game-thors-fishing-trip/).
+Want to relive the fishing trip? Play [Thor's fishing trip](/game-thors-fishing-trip/).

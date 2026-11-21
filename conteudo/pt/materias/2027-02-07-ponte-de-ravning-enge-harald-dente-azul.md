@@ -40,4 +40,4 @@ A finalidade é muito debatida. Escavações de 1993 e 1996 indicaram que serviu
 
 As fontes divergem no tamanho exato, na largura, na distância até Jelling (cerca de 10 quilômetros numa, 14 na outra), no ano da descoberta (1953 numa, 1934 na outra), nas campanhas de escavação (1972 mais 1993 e 1996, contra os anos 1970 e 1990) e no tempo de uso. A data da madeira permanece com margem, e a função de pedágio é só uma possibilidade.
 
-Para ligar pares de pontas por trilhas sem cruzar nenhuma, como as tábuas de uma ponte, jogue [As trilhas da ponte](/jogo-as-trilhas-da-ponte/).
+Para ligar pares de pontas por trilhas sem cruzar nenhuma, como as tábuas de uma ponte, jogue [As trilhas da ponte](/pt/jogo-as-trilhas-da-ponte/).

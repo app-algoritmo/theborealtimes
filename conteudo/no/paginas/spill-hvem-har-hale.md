@@ -23,4 +23,4 @@ Flere jenter står i skogen. På én av dem viser en hale seg et øyeblikk under
 
 ## Historien bak
 
-I norsk folketro ser huldra ut som en pen ung kvinne, men har kuhale og, i mange fortellinger, en hul rygg som en trestamme. Spillet er diktet opp. Les historien i [Huldra: den vakre skogkvinnen som skjuler en kuhale](/no/2026/11/14/huldra-floresta/).
+I norsk folketro ser huldra ut som en pen ung kvinne, men har kuhale og, i mange fortellinger, en hul rygg som en trestamme. Spillet er diktet opp. Les historien i [Huldra: den vakre skogkvinnen som skjuler en kuhale](/no/huldra-den-vakre-skogkvinnen-som-skjuler-en-kuhale/).

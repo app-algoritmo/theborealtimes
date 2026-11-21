@@ -23,4 +23,4 @@ Toque numa peça para girá-la. Ligue o fio da entrada, à esquerda do alto, at�
 
 ## A história por trás
 
-A cruz de Gosforth, na Cumbria, tem entalhes de nós e cenas ligadas à mitologia nórdica. O jogo de peças é invenção. Leia a história em [A cruz de Gosforth: um monumento cristão da Inglaterra com cenas dos mitos nórdicos](/2026/11/21/gosforth-cruz-cumbria/).
+A cruz de Gosforth, na Cumbria, tem entalhes de nós e cenas ligadas à mitologia nórdica. O jogo de peças é invenção. Leia a história em [A cruz de Gosforth: um monumento cristão da Inglaterra com cenas dos mitos nórdicos](/pt/gosforth-cruz-cumbria/).

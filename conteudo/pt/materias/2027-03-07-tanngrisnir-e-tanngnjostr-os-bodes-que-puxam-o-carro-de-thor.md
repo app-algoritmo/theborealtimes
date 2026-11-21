@@ -43,4 +43,4 @@ Os bodes de Thor são montaria e comida ao mesmo tempo. A regra é simples: a ca
 
 Os nomes talvez sejam tardios e de Snorri. As duas fontes discordam sobre quem causou o coxear. O verbete apresenta a ligação com Sæhrímnir e com os contos de arenques como interpretações, não como fatos.
 
-Para conduzir o carro de Thor, pular os obstáculos e juntar ossos sem quebrá-los, jogue [O carro dos bodes](/jogo-o-carro-dos-bodes/).
+Para conduzir o carro de Thor, pular os obstáculos e juntar ossos sem quebrá-los, jogue [O carro dos bodes](/pt/jogo-o-carro-dos-bodes/).

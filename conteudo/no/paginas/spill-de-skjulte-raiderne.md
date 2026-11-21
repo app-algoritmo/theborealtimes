@@ -23,4 +23,4 @@ Hvert jorde skjuler raidere. Trykk på en rute for å avsløre den: tallet viser
 
 ## Historien bak
 
-5. august 910 beseiret en hær fra Wessex og Mercia vikingene fra Northumbria nær Tettenhall, og tre vikingkonger døde, ifølge beretningen. De skjulte raiderne er oppfunnet. Les historien i [Slaget ved Tettenhall, 910: Edvard, Æthelflæd og slutten for en vikinghær i Mercia](/no/2027/02/07/batalha-de-tettenhall-910-edward-aethelflaed/).
+5. august 910 beseiret en hær fra Wessex og Mercia vikingene fra Northumbria nær Tettenhall, og tre vikingkonger døde, ifølge beretningen. De skjulte raiderne er oppfunnet. Les historien i [Slaget ved Tettenhall, 910: Edvard, Æthelflæd og slutten for en vikinghær i Mercia](/no/slaget-ved-tettenhall-910-edvard-aethelflaed-og-slutten/).

@@ -23,4 +23,4 @@ Sølvmynter dukker opp fra hull i bakken og forsvinner fort. Trykk på en mynt f
 
 ## Historien bak
 
-I 2007, nær Harrogate, fant en far og en sønn 617 nedgravde sølvmynter. Myntjakten er oppfunnet. Les historien i [Vale of York-skatten: 617 sølvmynter funnet av far og sønn med metalldetektor](/no/2027/01/03/tesouro-do-vale-de-york-harrogate-2007/).
+I 2007, nær Harrogate, fant en far og en sønn 617 nedgravde sølvmynter. Myntjakten er oppfunnet. Les historien i [Vale of York-skatten: 617 sølvmynter funnet av far og sønn med metalldetektor](/no/vale-of-york-skatten-617-solvmynter-funnet-av-far-og-sonn/).

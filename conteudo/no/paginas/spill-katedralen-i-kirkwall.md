@@ -23,4 +23,4 @@ Sandsteinsblokker faller. Trykk til venstre eller høyre i feltet for å flytte,
 
 ## Historien bak
 
-Byggingen av St. Magnus-katedralen i Kirkwall ble begynt i 1137 av Rögnvald Kali. Blokkpasningen er diktet opp. Les historien i [Rögnvald Kali Kolsson og begynnelsen på St. Magnus-katedralen i Kirkwall](/no/2026/12/20/rognvald-kali-catedral-sao-magnus-kirkwall/).
+Byggingen av St. Magnus-katedralen i Kirkwall ble begynt i 1137 av Rögnvald Kali. Blokkpasningen er diktet opp. Les historien i [Rögnvald Kali Kolsson og begynnelsen på St. Magnus-katedralen i Kirkwall](/no/rognvald-kali-kolsson-og-begynnelsen-pa-st-magnus/).

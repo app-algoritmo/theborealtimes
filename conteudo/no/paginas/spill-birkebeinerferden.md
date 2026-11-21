@@ -23,4 +23,4 @@ Dra fingeren (eller musen) til venstre og høyre, eller bruk piltastene, for å 
 
 ## Historien bak
 
-Ifølge Håkon Håkonssons saga bar to birkebeinere i 1206 den lille prinsen på ski til Trondheim. Ruten i spillet er en forenkling. Les historien i [Birkebeinerne og skiferden som reddet den senere kong Håkon av Norge](/no/2026/11/13/birkebeiner-haakon/).
+Ifølge Håkon Håkonssons saga bar to birkebeinere i 1206 den lille prinsen på ski til Trondheim. Ruten i spillet er en forenkling. Les historien i [Birkebeinerne og skiferden som reddet den senere kong Håkon av Norge](/no/birkebeinerne-og-skiferden-som-reddet-den-senere-kong-hakon/).

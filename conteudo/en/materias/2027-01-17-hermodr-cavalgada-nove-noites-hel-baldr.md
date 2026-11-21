@@ -41,4 +41,4 @@ The article lists other mentions. In the *Hyndluljóð*, stanza 2, the name seem
 
 Most manuscripts call Hermóðr a son of Odin, but the Codex Regius, usually considered the best, calls him *sveinn Óðins*, which may mean "Odin's servant" rather than "son". A later passage calls him Baldr's brother, and a list of Odin's sons includes him, which favours the reading of son. The link between the Hermóðr of the *Edda* and the Heremod of *Beowulf* is only a parallel of names, and does not prove that they are the same figure.
 
-To repeat the rhythm of a night ride, with the right timing for each leap, play [Hermóðr's nine nights](/en/game-hermods-nine-nights/).
+To repeat the rhythm of a night ride, with the right timing for each leap, play [Hermóðr's nine nights](/game-hermods-nine-nights/).

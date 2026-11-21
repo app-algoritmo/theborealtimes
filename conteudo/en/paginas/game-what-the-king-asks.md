@@ -23,4 +23,4 @@ King Harald wants to test Brand's generosity. The king's request appears at the 
 
 ## The story behind it
 
-In the tale of Brand the Generous, King Harald asks for Brand's cloak, axe and tunic, and Brand gives them, keeping only one sleeve of the tunic. The random order of the requests and the swaps of place are invention. Read the story in [Brand the Generous: the Icelander who gave a cloak, an axe and half a tunic to King Harald](/en/2027/03/28/brand-o-generoso-o-islandes-que-deu-capa-machado-e-meia-tunica-ao-rei-harald/).
+In the tale of Brand the Generous, King Harald asks for Brand's cloak, axe and tunic, and Brand gives them, keeping only one sleeve of the tunic. The random order of the requests and the swaps of place are invention. Read the story in [Brand the Generous: the Icelander who gave a cloak, an axe and half a tunic to King Harald](/brand-the-generous-the-icelander-who-gave-a-cloak-an-axe/).

@@ -23,4 +23,4 @@ Thor pediu que os ossos dos bodes fossem postos sobre as peles. Os ossos passam 
 
 ## A história por trás
 
-Na Edda em prosa, Thjálfi quebra o osso da coxa de um dos bodes de Thor, e por isso Thor leva Thjálfi e Röskva como servos. Os ossos que passam pela mesa e o ritmo do jogo são invenção. Leia a história em [Thjálfi e Röskva: o osso quebrado e os dois servos de Thor](/2027/03/28/thjalfi-e-roskva-o-osso-quebrado-e-os-dois-servos-de-thor/).
+Na Edda em prosa, Thjálfi quebra o osso da coxa de um dos bodes de Thor, e por isso Thor leva Thjálfi e Röskva como servos. Os ossos que passam pela mesa e o ritmo do jogo são invenção. Leia a história em [Thjálfi e Röskva: o osso quebrado e os dois servos de Thor](/pt/thjalfi-e-roskva-o-osso-quebrado-e-os-dois-servos-de-thor/).

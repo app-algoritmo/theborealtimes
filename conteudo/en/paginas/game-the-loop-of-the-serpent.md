@@ -23,4 +23,4 @@ The dots form a grid. Tap between two dots to draw or erase a line. Close a sing
 
 ## The story behind it
 
-The Ramsund carving, in Sweden, shows the legend of Sigurd inside a serpent band. Drawing a loop with numbers is invented. Read the story in [Ramsund: the carving of Sigurd on a rock in Sweden, around 1030](/en/2027/02/28/ramsund-o-entalhe-de-sigurd-numa-rocha-da-suecia-por-volta-de-1030/).
+The Ramsund carving, in Sweden, shows the legend of Sigurd inside a serpent band. Drawing a loop with numbers is invented. Read the story in [Ramsund: the carving of Sigurd on a rock in Sweden, around 1030](/ramsund-the-carving-of-sigurd-on-a-rock-in-sweden-around/).

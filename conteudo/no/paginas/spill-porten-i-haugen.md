@@ -23,4 +23,4 @@ Porten i haugen er skjult i én rute på kartet. Trykk på en rute for å lodde 
 
 ## Historien bak
 
-I folketroen på Orknøyene er hogboon, eller hogboy, en ånd i hauger; fortellinger advarer mot å grave i dem, og stormer etter utgravinger knyttes til dette. Å lete etter porten er oppfunnet. Les historien i [Hogboon: haugens ånd på Orknøyene og historiene om Maeshowe](/no/2027/02/14/hogboon-o-espirito-do-monte-orcades-maeshowe/).
+I folketroen på Orknøyene er hogboon, eller hogboy, en ånd i hauger; fortellinger advarer mot å grave i dem, og stormer etter utgravinger knyttes til dette. Å lete etter porten er oppfunnet. Les historien i [Hogboon: haugens ånd på Orknøyene og historiene om Maeshowe](/no/hogboon-haugens-and-pa-orknoyene-og-historiene-om-maeshowe/).

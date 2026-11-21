@@ -35,4 +35,4 @@ On 9 September of the year 1000, Olaf faced, at Svolder, Danes, Swedes, Wends an
 
 His birth date is not known for certain, nor where he was born, nor how he was baptised. Nor is it known how he died. The earliest accounts, such as Adam of Bremen's, date from about 1070, and the *Heimskringla* from about 1230.
 
-To cross a row of oars that rise and fall, at the right moment, without falling in the water, play [Olaf's oars](/en/game-olafs-oars/).
+To cross a row of oars that rise and fall, at the right moment, without falling in the water, play [Olaf's oars](/game-olafs-oars/).

@@ -23,4 +23,4 @@ Each square hides a stretch of woodland. Tap to step: the number tells how many 
 
 ## The story behind it
 
-In Finnish tradition, Tapio is the lord of the forest and of the game animals. The misleading detours in the game are made up. Read the story in [Tapio, lord of the Finnish forest, and the spell of getting lost among the trees](/en/2026/11/21/tapio-senhor-da-floresta-metsanpeitto/).
+In Finnish tradition, Tapio is the lord of the forest and of the game animals. The misleading detours in the game are made up. Read the story in [Tapio, lord of the Finnish forest, and the spell of getting lost among the trees](/tapio-lord-of-the-finnish-forest-and-the-spell-of-getting/).

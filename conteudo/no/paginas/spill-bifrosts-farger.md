@@ -23,4 +23,4 @@ Se fargene lyse opp og gjenta rekkefølgen ved å trykke på de fire fargene (el
 
 ## Historien bak
 
-I de norrøne kildene vokter Heimdall broen Bifrost og har et horn, Gjallarhorn. Fargerekkefølgen er diktet opp for spillet. Les historien i [Heimdall: vokteren som nesten ikke sover og vokter regnbuebroen](/no/2026/11/16/heimdall-bifrost-vigia/).
+I de norrøne kildene vokter Heimdall broen Bifrost og har et horn, Gjallarhorn. Fargerekkefølgen er diktet opp for spillet. Les historien i [Heimdall: vokteren som nesten ikke sover og vokter regnbuebroen](/no/heimdall-vokteren-som-nesten-ikke-sover-og-vokter/).

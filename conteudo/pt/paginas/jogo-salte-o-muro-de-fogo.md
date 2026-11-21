@@ -23,4 +23,4 @@ Toque na tela (ou use a barra de espaço ou a seta para cima) para saltar. As fo
 
 ## A história por trás
 
-No poema Skírnismál, o cavalo de Skírnir atravessa chamas até a casa do gigante Gymir. A corrida é invenção do jogo. Leia a história em [Freyr e Gerðr: o deus que entregou a espada por amor](/2026/11/16/freyr-gerdr-amor-e-espada/).
+No poema Skírnismál, o cavalo de Skírnir atravessa chamas até a casa do gigante Gymir. A corrida é invenção do jogo. Leia a história em [Freyr e Gerðr: o deus que entregou a espada por amor](/pt/freyr-gerdr-amor-e-espada/).

@@ -23,4 +23,4 @@ Four stones echo at the cave mouth, each with a sound and a colour. Watch the se
 
 ## The story behind it
 
-In the Völuspá, Garmr's howl before Gnipahellir returns like a refrain and announces Ragnarök. The echo game is invented. Read the story in [Garmr, the hound that howls before Gnipahellir: what the Norse sources tell](/en/2027/01/17/garmr-cao-hel-gnipahellir-ragnarok/).
+In the Völuspá, Garmr's howl before Gnipahellir returns like a refrain and announces Ragnarök. The echo game is invented. Read the story in [Garmr, the hound that howls before Gnipahellir: what the Norse sources tell](/garmr-the-hound-that-howls-before-gnipahellir-what/).

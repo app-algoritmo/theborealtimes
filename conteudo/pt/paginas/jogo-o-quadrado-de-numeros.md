@@ -23,4 +23,4 @@ Ponha os números nas nove casas de modo que todas as linhas, todas as colunas e
 
 ## A história por trás
 
-O massacre do Dia de São Brício, em 1002, partiu de uma ordem do rei inglês Etelredo. Completar um quadrado de números é invenção. Leia a história em [O massacre do Dia de São Brício em 1002: a ordem de Æthelred e o que se acha em Oxford](/2027/02/28/o-massacre-do-dia-de-sao-bricio-em-1002-a-ordem-de-ethelred-e-o-que-se-acha-em-oxford/).
+O massacre do Dia de São Brício, em 1002, partiu de uma ordem do rei inglês Etelredo. Completar um quadrado de números é invenção. Leia a história em [O massacre do Dia de São Brício em 1002: a ordem de Æthelred e o que se acha em Oxford](/pt/o-massacre-do-dia-de-sao-bricio-em-1002-a-ordem-de-ethelred-e-o-que-se-acha-em-oxford/).

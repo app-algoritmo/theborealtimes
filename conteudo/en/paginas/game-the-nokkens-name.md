@@ -23,4 +23,4 @@ The nøkken rises from the lake toward the child. Tap the letters N, Ø, K, K, i
 
 ## The story behind it
 
-In Norwegian folklore, the nøkken is a water spirit that lures people to drown. In some accounts, knowing its name or using iron drives it off. The letter game is made up. Read the story in [The Nøkken: the lake spirit who plays the fiddle and drowns those who come near](/en/2026/11/14/nokken-lago/).
+In Norwegian folklore, the nøkken is a water spirit that lures people to drown. In some accounts, knowing its name or using iron drives it off. The letter game is made up. Read the story in [The Nøkken: the lake spirit who plays the fiddle and drowns those who come near](/the-nokken-the-lake-spirit-who-plays-the-fiddle-and-drowns/).

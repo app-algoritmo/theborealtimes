@@ -23,4 +23,4 @@ Three cakes bake at once. Tap each when its bar is in the golden zone (or use ke
 
 ## The story behind it
 
-The legend of the burnt cakes appears only in late texts, not in the earliest ones about Alfred. The game is made up. Read the story in [Alfred the Great, the king who lost everything and won at Edington — and the burnt cakes](/en/2026/11/16/alfredo-edington-bolos/).
+The legend of the burnt cakes appears only in late texts, not in the earliest ones about Alfred. The game is made up. Read the story in [Alfred the Great, the king who lost everything and won at Edington — and the burnt cakes](/alfred-the-great-the-king-who-lost-everything-and-won/).

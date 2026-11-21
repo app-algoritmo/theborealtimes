@@ -23,4 +23,4 @@ Três grupos de guerreiros (de 2, 3 e 3 casas) estão escondidos num campo de 6 
 
 ## A história por trás
 
-Em Assandun, em 1016, Canuto venceu Edmundo Ironside. O campo, os grupos e os disparos são invenção do jogo. Leia a história em [Assandun, 1016: a batalha em que Canuto derrotou Edmundo Costela de Ferro](/2026/12/13/assandun-1016-canuto-edmundo/).
+Em Assandun, em 1016, Canuto venceu Edmundo Ironside. O campo, os grupos e os disparos são invenção do jogo. Leia a história em [Assandun, 1016: a batalha em que Canuto derrotou Edmundo Costela de Ferro](/pt/assandun-1016-canuto-edmundo/).

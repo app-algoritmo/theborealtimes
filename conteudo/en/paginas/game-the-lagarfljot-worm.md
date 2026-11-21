@@ -23,4 +23,4 @@ The serpent moves on its own. Tap the left half of the screen to turn left and t
 
 ## The story behind it
 
-In Icelandic folklore, a worm grew in the lake Lagarfljót after being thrown into it with a gold ring. The game is made up. Read the story in [The Lagarfljót worm: the Icelandic lake monster that was filmed in 2012](/en/2026/11/15/lagarfljot-serpente-lago/).
+In Icelandic folklore, a worm grew in the lake Lagarfljót after being thrown into it with a gold ring. The game is made up. Read the story in [The Lagarfljót worm: the Icelandic lake monster that was filmed in 2012](/the-lagarfljot-worm-the-icelandic-lake-monster/).

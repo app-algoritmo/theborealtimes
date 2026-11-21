@@ -43,4 +43,4 @@ The article notes that Forseti is not named as a combatant at Ragnarök. For tha
 
 The article gives no passage from the *Grímnismál* or the *Skáldskaparmál* for Forseti; the only Norse source it cites is the *Gylfaginning*. The Frisian origin and the journey of the cult are hypotheses. Forseti's absence from Ragnarök is a supposition. And the article itself leans on modern studies, not on the manuscripts, so a reader who wants to go further needs to open Snorri's texts and the studies it cites.
 
-To test your skill at reading a verdict, in a guessing game at the foot of the hall, play [Forseti's verdict](/en/game-forsetis-verdict/).
+To test your skill at reading a verdict, in a guessing game at the foot of the hall, play [Forseti's verdict](/game-forsetis-verdict/).

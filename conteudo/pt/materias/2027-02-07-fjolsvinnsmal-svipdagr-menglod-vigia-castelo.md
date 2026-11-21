@@ -43,4 +43,4 @@ Os personagens citados pela fonte são Svipdagr, o jovem; Gróa, sua mãe morta 
 
 A fonte não informa o número de estrofes, nem o conteúdo da tarefa da madrasta, nem por que os manuscritos inverteram a ordem dos poemas. Também não explica por que a ligação com a balada demorou tanto a ser notada, além de registrar que demorou. Do mesmo modo, ela não traz o texto completo da balada nem das suas outras partes, de modo que a comparação entre balada e poemas fica, aqui, restrita ao que foi dito acima.
 
-Para levar uma pilha de anéis de uma haste a outra, como num portão de castelo que só se abre quando se faz a coisa certa, jogue [Os anéis do portão](/jogo-os-aneis-do-portao/).
+Para levar uma pilha de anéis de uma haste a outra, como num portão de castelo que só se abre quando se faz a coisa certa, jogue [Os anéis do portão](/pt/jogo-os-aneis-do-portao/).

@@ -36,4 +36,4 @@ Os historiadores da literatura veem as duas histórias como parentes, mas não h
 
 Mesmo sem prova de parentesco direto, os dois relatos compartilham um aviso: quem se apropria de um poder que não sabe controlar acaba por ser engolido por ele.
 
-Para encher um navio de sal sem afundá-lo, jogue [O moinho que mói sal](/jogo-moinho-de-sal/).
+Para encher um navio de sal sem afundá-lo, jogue [O moinho que mói sal](/pt/jogo-moinho-de-sal/).

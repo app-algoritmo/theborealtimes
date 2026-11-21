@@ -39,4 +39,4 @@ O Kalevala não é um texto antigo de uma só mão. Lönnrot juntou e arranjou p
 
 A história de Aino é uma das primeiras do *Kalevala* a tratar de uma mulher que se recusa a obedecer aos adultos, e o preço desse gesto é alto. Ela foi lida de muitas formas: como um conto de recusa, como alegoria nacional, como tragédia familiar. O mar e o peixe fazem dela uma figura de fronteira, entre o mundo humano e o das águas.
 
-Para saltar, de pedra em pedra, sobre um tabuleiro de quinze pedras no lago, até restar uma só, jogue [As pedras do lago](/jogo-as-pedras-do-lago/).
+Para saltar, de pedra em pedra, sobre um tabuleiro de quinze pedras no lago, até restar uma só, jogue [As pedras do lago](/pt/jogo-as-pedras-do-lago/).

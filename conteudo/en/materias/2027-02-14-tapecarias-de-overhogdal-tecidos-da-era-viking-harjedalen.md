@@ -48,4 +48,4 @@ The Överhogdal textiles were found in 1909 and taken to Östersund in 1910. The
 
 The date varies between the range of 800 to 1100 and that of 1040 to 1170, depending on the test. The count of animals changes from 146 to 149, and the difference, as can be worked out, comes from the 3 partial animals. The interpretation, between Ragnarök and Christianization, is not settled, and the two sources do not say who made the textiles or why they ended up in a church.
 
-To rebuild the bands of a cloth by sliding rows and columns until the picture returns to its place, as on a loom, play [The Överhogdal loom](/en/game-the-overhogdal-loom/).
+To rebuild the bands of a cloth by sliding rows and columns until the picture returns to its place, as on a loom, play [The Överhogdal loom](/game-the-overhogdal-loom/).

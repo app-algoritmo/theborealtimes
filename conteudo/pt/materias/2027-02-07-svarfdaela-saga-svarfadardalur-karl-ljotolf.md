@@ -40,4 +40,4 @@ A fonte em inglês cita um capítulo de Rebecca Merkelbach, de 2020, intitulado 
 
 As duas fontes divergem na data: a primeira fala em primeira metade do século XIV, e a segunda em fim do século XIV. Elas também citam nomes diferentes para o personagem de abertura, Thorstein Svarfað e Torstein Torgnysson, e as fontes não esclarecem se são a mesma pessoa. Como há uma lacuna na cópia do século XVII, a ligação entre as duas partes da saga fica pouco clara, e nenhuma das fontes detalha os personagens da disputa ou os acontecimentos da parte perdida.
 
-Para pôr lotes de um vale na ordem certa, deslizando um de cada vez, jogue [As peças do vale](/jogo-as-pecas-do-vale/).
+Para pôr lotes de um vale na ordem certa, deslizando um de cada vez, jogue [As peças do vale](/pt/jogo-as-pecas-do-vale/).

@@ -23,4 +23,4 @@ Trykk på en brikke og så på en nabo (eller dra) for å bytte dem. Lag rader m
 
 ## Historien bak
 
-I Salme på øya Saaremaa ble skip med krigere og gjenstander gravd ut. Funnbildene i spillet er diktet opp. Les historien i [Salme: to skip gravlagt med krigere, før vikingtiden](/no/2026/11/29/salme-navios-ilha-saaremaa-estonia/).
+I Salme på øya Saaremaa ble skip med krigere og gjenstander gravd ut. Funnbildene i spillet er diktet opp. Les historien i [Salme: to skip gravlagt med krigere, før vikingtiden](/no/salme-to-skip-gravlagt-med-krigere-for-vikingtiden/).

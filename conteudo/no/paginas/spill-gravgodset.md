@@ -23,4 +23,4 @@ Det ligger 16 kort med forsiden ned, som danner 8 par av gjenstander. Vend to om
 
 ## Historien bak
 
-Grav Bj 581 på Birka ble gravd ut på 1800-tallet, og skjelettet ble lest som en kriger. I 2017 viste DNA at det var en kvinne. Hva hun gjorde i live, diskuteres fortsatt. Parspillet er diktet opp. Les historien i [Krigeren fra Birka: graven utgravd i 1878 og debatten DNA åpnet på ny i 2017](/no/2026/11/14/guerreira-birka/).
+Grav Bj 581 på Birka ble gravd ut på 1800-tallet, og skjelettet ble lest som en kriger. I 2017 viste DNA at det var en kvinne. Hva hun gjorde i live, diskuteres fortsatt. Parspillet er diktet opp. Les historien i [Krigeren fra Birka: graven utgravd i 1878 og debatten DNA åpnet på ny i 2017](/no/krigeren-fra-birka-graven-utgravd-i-1878-og-debatten-dna/).

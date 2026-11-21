@@ -37,4 +37,4 @@ Para os historiadores, o que importa é o resultado. Æthelstan consolidou seu d
 
 A batalha também importa pelo que revela sobre as alianças da época. Um rei viking de Dublin, um rei escocês e um rei britânico de Strathclyde se juntaram contra um rei saxão, e isso mostra que o mapa político das ilhas Britânicas não se dividia apenas entre vikings e ingleses. As fontes inglesas deram à vitória um lugar especial na memória, e a *Crônica* a registrou em verso, no poema que citamos acima.
 
-Para conquistar o campo peça por peça, virando as casas do adversário como numa batalha, jogue [O campo de Brunanburh](/jogo-o-campo-de-brunanburh/).
+Para conquistar o campo peça por peça, virando as casas do adversário como numa batalha, jogue [O campo de Brunanburh](/pt/jogo-o-campo-de-brunanburh/).

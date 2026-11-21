@@ -23,4 +23,4 @@ Reis steinrammen inni båten. En hellestein glir fra side til side. Trykk på sk
 
 ## Historien bak
 
-På Scar i Orknøyene hadde en båt på 6,5 m tre kropper i en murt steinramme, datert mellom 875 og 950. Stabelen av heller er oppfunnet. Les historien i [Scar: vikinggraven i båt på øya Sanday i Orknøyene](/no/2027/03/07/scar-o-sepultamento-viking-em-barco-na-ilha-de-sanday-nas-orcades/).
+På Scar i Orknøyene hadde en båt på 6,5 m tre kropper i en murt steinramme, datert mellom 875 og 950. Stabelen av heller er oppfunnet. Les historien i [Scar: vikinggraven i båt på øya Sanday i Orknøyene](/no/scar-vikinggraven-i-bat-pa-oya-sanday-i-orknoyene/).

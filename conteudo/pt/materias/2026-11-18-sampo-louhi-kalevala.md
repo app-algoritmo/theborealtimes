@@ -40,4 +40,4 @@ O poema não explica o que o Sampo era, e os estudiosos divergem. Há quem veja 
 
 A imagem marcou a arte finlandesa. O pintor Akseli Gallen-Kallela fez em 1896 a tela *A defesa do Sampo*. O dia 28 de fevereiro, data ligada ao prefácio da primeira edição do *Kalevala*, é lembrado como o Dia do *Kalevala* e da cultura finlandesa.
 
-Para recompor os cacos do Sampo antes que o tempo acabe, jogue [Os cacos do Sampo](/jogo-os-cacos-do-sampo/).
+Para recompor os cacos do Sampo antes que o tempo acabe, jogue [Os cacos do Sampo](/pt/jogo-os-cacos-do-sampo/).

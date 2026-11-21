@@ -23,4 +23,4 @@ Toque numa estrada para construí-la ou desfazê-la. Cada estrada tem um custo. 
 
 ## A história por trás
 
-Emma da Normandia foi rainha da Inglaterra duas vezes: casou-se com Æthelred em 1002 e com Cnut em 1017. Planejar estradas ao menor custo é invenção. Leia a história em [Emma da Normandia: a rainha que se casou com dois reis da Inglaterra e foi mãe de outros dois](/2027/01/31/emma-da-normandia-rainha-da-inglaterra-encomium/).
+Emma da Normandia foi rainha da Inglaterra duas vezes: casou-se com Æthelred em 1002 e com Cnut em 1017. Planejar estradas ao menor custo é invenção. Leia a história em [Emma da Normandia: a rainha que se casou com dois reis da Inglaterra e foi mãe de outros dois](/pt/emma-da-normandia-rainha-da-inglaterra-encomium/).

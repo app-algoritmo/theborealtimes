@@ -23,4 +23,4 @@ Uma pedra de sorteio aparece sob um copo. Depois todos os copos descem, e eles t
 
 ## A história por trás
 
-Na Gautreks saga, Starkad é criado junto de Vikar, e o sorteio de Odin recai sobre Vikar, que é sacrificado. Esconder a pedra sob copos é invenção. Leia a história em [Starkad: o herói de três vidas, o sorteio de Odin e as maldições de Thor](/2027/02/14/starkad-gigante-de-oito-bracos-sorteio-de-odin/).
+Na Gautreks saga, Starkad é criado junto de Vikar, e o sorteio de Odin recai sobre Vikar, que é sacrificado. Esconder a pedra sob copos é invenção. Leia a história em [Starkad: o herói de três vidas, o sorteio de Odin e as maldições de Thor](/pt/starkad-gigante-de-oito-bracos-sorteio-de-odin/).

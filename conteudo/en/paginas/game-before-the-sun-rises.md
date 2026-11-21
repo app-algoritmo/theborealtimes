@@ -23,4 +23,4 @@ The light advances from right to left. Tap each troll to make it run to the cave
 
 ## The story behind it
 
-In Scandinavian tales, trolls turn to stone in sunlight. It is a common motif; the caves and the race are made up for the game. Read the story in [Why trolls turn to stone in the sun: the Nordic belief that teaches how to read the landscape](/en/2026/11/16/trolls-viram-pedra-ao-sol/).
+In Scandinavian tales, trolls turn to stone in sunlight. It is a common motif; the caves and the race are made up for the game. Read the story in [Why trolls turn to stone in the sun: the Nordic belief that teaches how to read the landscape](/why-trolls-turn-to-stone-in-the-sun-the-nordic-belief/).

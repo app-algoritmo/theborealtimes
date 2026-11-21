@@ -50,4 +50,4 @@ In September 1241, Gissur and his men arrived at Reykholt at night. Snorri tried
 
 Snorri was at once a Christian, an ambitious politician and the preserver of a religion that no longer existed. The very doubts about what he thought of the gods are part of the interest. Today a statue of him stands at Reykholt, and the small local museum tells the story of the man who wrote the North.
 
-To train your memory like a skald, play [Snorri's pairs](/en/game-snorris-pairs/).
+To train your memory like a skald, play [Snorri's pairs](/game-snorris-pairs/).

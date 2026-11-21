@@ -41,4 +41,4 @@ Guthrum voltou à Ânglia Oriental e reinou como rei cristão por mais de dez an
 
 A conversão de Guthrum mostra que a guerra nem sempre terminava em morte ou saque. Às vezes se negociava um acordo em que o vencido aceitava a religião do vencedor. Resta uma dúvida: o gesto era sincero ou uma forma de política? As fontes não permitem dizer, mas o fato de ele ter cunhado moedas com nome cristão sugere que levava a sério o papel de rei.
 
-Para empurrar, uma a uma, as caixas até as marcas no chão, em três níveis cada vez mais apertados, jogue [As caixas de Wedmore](/jogo-as-caixas-de-wedmore/).
+Para empurrar, uma a uma, as caixas até as marcas no chão, em três níveis cada vez mais apertados, jogue [As caixas de Wedmore](/pt/jogo-as-caixas-de-wedmore/).

@@ -39,4 +39,4 @@ Sveinbjörn Rafnsson argumenta que a *Sturlubók* e a *Hauksbók* dão peso dema
 
 O livro não é um registro oficial do século IX, e sim um texto que reúne tradições contadas e escritas muito depois dos primeiros colonos. Ainda assim, seus números, de pessoas, fazendas e regiões, dão a medida de como a Islândia se lembrava de si mesma. O que o livro diz de cada colono deve ser lido como tradição, e o que cada versão acrescenta ou tira merece atenção.
 
-Para pousar um navio na praia, controlando o impulso, sem bater e com pouco combustível, jogue [Pouso na praia](/jogo-pouso-na-praia/).
+Para pousar um navio na praia, controlando o impulso, sem bater e com pouco combustível, jogue [Pouso na praia](/pt/jogo-pouso-na-praia/).

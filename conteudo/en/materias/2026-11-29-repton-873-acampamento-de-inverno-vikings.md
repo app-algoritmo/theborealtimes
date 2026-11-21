@@ -39,4 +39,4 @@ Beside it there was an individual grave of a strong man, over six feet tall, who
 
 The site shows that the Great Army was an organisation capable of building defences, controlling a region and installing a king of its choice. It also shows the limits of archaeology: the dead do not say who they were, and each hypothesis must be treated with caution.
 
-To place, on a four-by-four grid, each type of troop exactly once in every row and column of the camp, play [Repton's grid](/en/game-reptons-grid/).
+To place, on a four-by-four grid, each type of troop exactly once in every row and column of the camp, play [Repton's grid](/game-reptons-grid/).

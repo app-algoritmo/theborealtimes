@@ -37,4 +37,4 @@ Há mais de um século, os estudiosos discutem o significado da guerra. Uma tese
 
 O que se sabe é que as fontes são tardias, escritas por cristãos no século XIII, e que Snorri tende a tratar os deuses como reis humanos que depois viraram divindades, o que se chama evemerismo. Por isso a sua versão pode ter sido arrumada para se encaixar numa história lógica. O que a *Völuspá* tem de mais antigo é só o fragmento da guerra, sem a paz.
 
-Para ajudar os dois lados a chegar a um acordo justo, dividindo os presentes em partes iguais, jogue [A balança da paz](/jogo-a-balanca-da-paz/).
+Para ajudar os dois lados a chegar a um acordo justo, dividindo os presentes em partes iguais, jogue [A balança da paz](/pt/jogo-a-balanca-da-paz/).

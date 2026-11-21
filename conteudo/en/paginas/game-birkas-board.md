@@ -23,4 +23,4 @@ You play the light pieces. Tap a marked square to place a piece: all rival piece
 
 ## The story behind it
 
-Ansgar was a missionary in Sweden (Birka) in the 9th century. The board game is made up. Read the story in [Ansgar: the monk who took Christianity to Denmark and Birka, and saw Hamburg burn](/en/2026/12/06/ansgar-missionario-birka-hamburgo/).
+Ansgar was a missionary in Sweden (Birka) in the 9th century. The board game is made up. Read the story in [Ansgar: the monk who took Christianity to Denmark and Birka, and saw Hamburg burn](/ansgar-the-monk-who-took-christianity-to-denmark-and-birka/).

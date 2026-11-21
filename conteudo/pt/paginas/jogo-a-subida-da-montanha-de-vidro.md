@@ -23,4 +23,4 @@ O cavaleiro sobe a montanha de vidro por três pistas. Toque na pista, ou use as
 
 ## A história por trás
 
-Em «A princesa na montanha de vidro», recolhida por Asbjørnsen e Moe, o filho mais novo vigia o prado na noite de São João e ganha um cavalo; depois de três tentativas, com armadura de latão, de prata e de ouro, sobe a montanha e pega as três maçãs de ouro da princesa. A subida em pistas é invenção. Leia a história em [A princesa na montanha de vidro: o caçula, o cavalo e as três maçãs de ouro](/2027/01/24/a-princesa-na-montanha-de-vidro-asbjornsen-moe/).
+Em «A princesa na montanha de vidro», recolhida por Asbjørnsen e Moe, o filho mais novo vigia o prado na noite de São João e ganha um cavalo; depois de três tentativas, com armadura de latão, de prata e de ouro, sobe a montanha e pega as três maçãs de ouro da princesa. A subida em pistas é invenção. Leia a história em [A princesa na montanha de vidro: o caçula, o cavalo e as três maçãs de ouro](/pt/a-princesa-na-montanha-de-vidro-asbjornsen-moe/).

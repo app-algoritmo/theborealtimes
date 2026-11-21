@@ -39,4 +39,4 @@ Snorri conta que os noruegueses foram pegos desprevenidos. O rei teria sido atra
 
 Magnus foi o último rei norueguês a morrer em batalha no exterior. Sua morte encerrou a tentativa de manter um domínio norueguês direto na região. Mas a *Heimskringla*, que é a fonte mais detalhada, é também considerada a menos confiável nos pormenores, por ter sido escrita muito depois. Por isso, vale ler as sagas junto com as fontes irlandesas.
 
-Para atravessar um campo onde há emboscadas escondidas, usando as pistas dos números, jogue [O campo de emboscadas](/jogo-o-campo-de-emboscadas/).
+Para atravessar um campo onde há emboscadas escondidas, usando as pistas dos números, jogue [O campo de emboscadas](/pt/jogo-o-campo-de-emboscadas/).

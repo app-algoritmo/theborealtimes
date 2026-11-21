@@ -23,4 +23,4 @@ Jotunen kaster glødende jernstenger. Dra en finger (eller bruk piltastene) for 
 
 ## Historien bak
 
-Ifølge Snorre brukte Tor jernhansker for å gripe den glødende stanga. Regnet av stenger er diktet opp for spillet. Les historien i [Tor og jotunen Geirrød: det glødende jernet, jernhanskene og elva som steg](/no/2026/11/20/thor-geirrod-luvas-de-ferro/).
+Ifølge Snorre brukte Tor jernhansker for å gripe den glødende stanga. Regnet av stenger er diktet opp for spillet. Les historien i [Tor og jotunen Geirrød: det glødende jernet, jernhanskene og elva som steg](/no/tor-og-jotunen-geirrod-det-glodende-jernet-jernhanskene/).

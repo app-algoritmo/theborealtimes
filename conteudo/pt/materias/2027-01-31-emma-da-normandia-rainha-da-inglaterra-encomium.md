@@ -43,4 +43,4 @@ Emma morreu em 6 de março de 1052, em Winchester. Mais tarde se contou que ela 
 
 A autoria do *Encomium* não é dada pela fonte, e esta matéria não a supõe. Se Haroldo ou Godwin foi o responsável pela cegueira de Alfred é debatido. A lenda da prova do fogo é muito posterior à vida de Emma, e por isso não deve ser tomada como fato. O *Encomium* é um texto de louvor, escrito para valorizar a rainha, e por isso a sua visão dos fatos não é neutra.
 
-Para ligar cidades por estradas gastando o mínimo, jogue [As estradas da rainha](/jogo-as-estradas-da-rainha/).
+Para ligar cidades por estradas gastando o mínimo, jogue [As estradas da rainha](/pt/jogo-as-estradas-da-rainha/).

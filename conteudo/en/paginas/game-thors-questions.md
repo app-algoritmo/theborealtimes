@@ -23,4 +23,4 @@ A question block slides from side to side. Tap (or press Space) to drop it on th
 
 ## The story behind it
 
-In the poem Alvíssmál, Thor holds the dwarf with questions until the light comes in. The stacking game is made up. Read the story in [Alvíssmál: the dwarf who wanted to marry Thor's daughter and lost to the sun](/en/2026/11/22/alvissmal-thor-anao-nascer-do-sol/).
+In the poem Alvíssmál, Thor holds the dwarf with questions until the light comes in. The stacking game is made up. Read the story in [Alvíssmál: the dwarf who wanted to marry Thor's daughter and lost to the sun](/alvissmal-the-dwarf-who-wanted-to-marry-thor-s-daughter/).

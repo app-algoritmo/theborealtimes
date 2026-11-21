@@ -35,4 +35,4 @@ Historians distrust the supernatural details, but accept that the battle probabl
 
 Another point of debate is the name itself. The Jomsvikings entered the memory of several Baltic countries, and each tradition tells of them in its own way. Some historians think the group reflects memories of warriors who served Danish kings, and that the saga, written much later, gathered these traits into a single brotherhood with well-defined rules. The idea of such a rigid code, with a minimum and maximum age, recalls a literary rule more than a real regulation.
 
-To break down, brick by brick, the walls of Jomsborg, play [The walls of Jomsborg](/en/game-the-walls-of-jomsborg/).
+To break down, brick by brick, the walls of Jomsborg, play [The walls of Jomsborg](/game-the-walls-of-jomsborg/).

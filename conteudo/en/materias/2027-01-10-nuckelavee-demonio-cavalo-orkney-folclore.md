@@ -47,4 +47,4 @@ The mixture of Celtic and Norse elements, which the article proposes, suggests t
 
 The origin is probable, not demonstrated. The link of the name to Jo Ben's manuscript is doubtful. The descriptions differ, and the article does not choose one. And, since the most cited written record is from the late nineteenth century, it is not known how much of the stories collected by Dennison goes back to older times.
 
-To escape to fresh running water with the monster behind you, play [The nuckelavee on the moor](/en/game-the-nuckelavee-on-the-moor/).
+To escape to fresh running water with the monster behind you, play [The nuckelavee on the moor](/game-the-nuckelavee-on-the-moor/).

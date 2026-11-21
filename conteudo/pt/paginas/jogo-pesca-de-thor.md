@@ -23,4 +23,4 @@ Segure o dedo, o mouse ou a barra de espaço para puxar a linha: a serpente sobe
 
 ## A história por trás
 
-O jogo se inspira num episódio do mito nórdico: Thor sai para pescar com o gigante Hymir, usa a cabeça de um boi como isca e fisga Jörmungandr, a serpente que rodeia o mundo. Na versão de Snorri Sturluson, o gigante tem medo e corta a linha, e a serpente volta ao fundo do mar. No jogo você pode vencer a disputa, o que **não** acontece na fonte. Leia o relato completo em [Thor fisga a serpente de Midgard, e o gigante Hymir corta a linha](/2026/11/12/thor-pescaria-serpente-midgard/).
+O jogo se inspira num episódio do mito nórdico: Thor sai para pescar com o gigante Hymir, usa a cabeça de um boi como isca e fisga Jörmungandr, a serpente que rodeia o mundo. Na versão de Snorri Sturluson, o gigante tem medo e corta a linha, e a serpente volta ao fundo do mar. No jogo você pode vencer a disputa, o que **não** acontece na fonte. Leia o relato completo em [Thor fisga a serpente de Midgard, e o gigante Hymir corta a linha](/pt/thor-pescaria-serpente-midgard/).

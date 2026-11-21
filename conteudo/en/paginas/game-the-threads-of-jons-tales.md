@@ -23,4 +23,4 @@ On a board of 7 columns by 6 rows, you and the opponent drop tokens one at a tim
 
 ## The story behind it
 
-Jón Árnason (1819–1888) was the first librarian of what became the National Library of Iceland. His collection Íslenzkar þjóðsögur og æfintýri came out in two volumes, in 1862 and 1864. The game is invented. Read the story in [Jón Árnason and the folktales of Iceland: the collection published in Leipzig in 1862 and 1864](/en/2027/01/17/jon-arnason-contos-populares-islandeses-leipzig-1862/).
+Jón Árnason (1819–1888) was the first librarian of what became the National Library of Iceland. His collection Íslenzkar þjóðsögur og æfintýri came out in two volumes, in 1862 and 1864. The game is invented. Read the story in [Jón Árnason and the folktales of Iceland: the collection published in Leipzig in 1862 and 1864](/jon-arnason-and-the-folktales-of-iceland-the-collection/).

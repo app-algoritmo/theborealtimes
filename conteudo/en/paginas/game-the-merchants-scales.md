@@ -23,4 +23,4 @@ The buyer asks for an exact weight of silver. Tap the pieces to put them on or t
 
 ## The story behind it
 
-The Vikings weighed silver on small scales and cut coins and jewellery into pieces (hacksilver). Arab coins, the dirhams, turn up by the thousands in Scandinavian hoards. The weights and the deals in the game are made up. Read the story in [Caliphate silver, pocket scales: how Arab coins ended up in Viking hoards](/en/2026/11/14/dirhams-prata-vikings/).
+The Vikings weighed silver on small scales and cut coins and jewellery into pieces (hacksilver). Arab coins, the dirhams, turn up by the thousands in Scandinavian hoards. The weights and the deals in the game are made up. Read the story in [Caliphate silver, pocket scales: how Arab coins ended up in Viking hoards](/caliphate-silver-pocket-scales-how-arab-coins-ended-up/).

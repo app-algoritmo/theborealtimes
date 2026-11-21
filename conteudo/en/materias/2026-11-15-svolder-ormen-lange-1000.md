@@ -44,4 +44,4 @@ The kingdom was divided among the victors. Eirik and his brother Sveinn ruled th
 
 The oldest account is by Adam of Bremen, around 1080, and there are others in Oddr Snorrason, in the Fagrskinna, the Ágrip and the Historia Norwegie. The most detailed version is Snorri's, in the 13th century, long after the events, and that makes it wise not to take every detail as certain.
 
-To hit the targets without breaking the bow, play [The battle of Svolder](/en/game-the-battle-of-svolder/).
+To hit the targets without breaking the bow, play [The battle of Svolder](/game-the-battle-of-svolder/).

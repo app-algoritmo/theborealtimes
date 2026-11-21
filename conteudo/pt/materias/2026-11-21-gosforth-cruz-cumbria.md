@@ -37,4 +37,4 @@ A cruz também ajuda a entender como a arte circulava. O estilo das figuras e do
 
 Outro ponto é a escolha do arenito vermelho, uma pedra local que se deixa entalhar com detalhe. A altura da cruz exigiu transporte, ajuste e instalação cuidadosos, o que sugere que o monumento foi pensado para ser visto de longe, num local de reunião da comunidade. Hoje, ele continua no mesmo cemitério onde provavelmente foi erguido, e é visitado por quem estuda as relações entre cristãos e escandinavos na Inglaterra.
 
-Para completar o entrelaçado, girando cada peça até que o fio ligue a fonte ao fim, como num nó esculpido na pedra, jogue [O entrelaçado da cruz](/jogo-o-entrelacado-da-cruz/).
+Para completar o entrelaçado, girando cada peça até que o fio ligue a fonte ao fim, como num nó esculpido na pedra, jogue [O entrelaçado da cruz](/pt/jogo-o-entrelacado-da-cruz/).

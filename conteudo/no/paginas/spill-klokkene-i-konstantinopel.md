@@ -23,4 +23,4 @@ De fire klokkene ringer i en rekkefølge. Når de er ferdige, trykk på klokkene
 
 ## Historien bak
 
-I 860 angrep Rus Konstantinopel. Klokkene og rekkene er diktet opp for spillet. Les historien i [Konstantinopel, 860: rusene angriper byen, og patriark Fotios taler om «et lyn fra himmelen»](/no/2026/12/13/constantinopla-860-rus-focio/).
+I 860 angrep Rus Konstantinopel. Klokkene og rekkene er diktet opp for spillet. Les historien i [Konstantinopel, 860: rusene angriper byen, og patriark Fotios taler om «et lyn fra himmelen»](/no/konstantinopel-860-rusene-angriper-byen-og-patriark-fotios/).

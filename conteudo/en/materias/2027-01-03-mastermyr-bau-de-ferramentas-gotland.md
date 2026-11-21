@@ -39,4 +39,4 @@ The tools tell the trade: sledgehammers and tongs are for the forge, augers, adz
 
 It is not known who the owner was, why the chest ended up in the water, or whether anyone came back for it. Nor is it known whether the whole set belonged to the same craftsman. The absence of coins and of writing prevents going beyond hypothesis, and any story about the owner stays a guess until something new turns up.
 
-To move a stack of tools of different sizes between three pegs, one at a time, never putting the largest on a smaller one, play [The Mästermyr tools](/en/game-the-mastermyr-tools/).
+To move a stack of tools of different sizes between three pegs, one at a time, never putting the largest on a smaller one, play [The Mästermyr tools](/game-the-mastermyr-tools/).

@@ -44,4 +44,4 @@ A rainha tem três filhos, e a velha madrasta os rouba um por um, joga-os num po
 
 Li o conto em inglês e não no norueguês original, então detalhes de palavras podem mudar. Também não sei, a partir dessas fontes, de que região ou de quem os coletores ouviram esta versão. Nem sei se o final com a asa do caçula é uma marca da versão norueguesa ou aparece em outras versões europeias.
 
-Para colher o cardo sem falar, rir nem chorar, jogue [O cardo em silêncio](/jogo-o-cardo-em-silencio/).
+Para colher o cardo sem falar, rir nem chorar, jogue [O cardo em silêncio](/pt/jogo-o-cardo-em-silencio/).

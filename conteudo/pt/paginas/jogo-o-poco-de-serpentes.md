@@ -23,4 +23,4 @@ Serpentes surgem das 9 aberturas do poço. Toque em cada uma antes que ela morda
 
 ## A história por trás
 
-Na Atlakviða, o rei Gunnar é lançado num poço de serpentes. O jogo de afastá-las é invenção. Leia a história em [Atlakviða: o rei Gunnar no poço de serpentes e a vingança de Gudrun contra Atli](/2026/12/13/atlakvida-gunnar-poco-de-serpentes/).
+Na Atlakviða, o rei Gunnar é lançado num poço de serpentes. O jogo de afastá-las é invenção. Leia a história em [Atlakviða: o rei Gunnar no poço de serpentes e a vingança de Gudrun contra Atli](/pt/atlakvida-gunnar-poco-de-serpentes/).

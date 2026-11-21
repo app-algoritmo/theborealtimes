@@ -23,4 +23,4 @@ Trykk over, under eller ved siden av deg selv (eller bruk piltastene) for å hop
 
 ## Historien bak
 
-Nordboerne bodde på Grønland i flere hundre år, på gårder ved fjordene, som ved Hvalsey. Isovergangen er diktet opp for spillet. Les historien i [Norrøne Grønland: fire århundrer med gårder på isen og mysteriet om slutten](/no/2026/11/18/groenlandia-nordica-desaparecimento/).
+Nordboerne bodde på Grønland i flere hundre år, på gårder ved fjordene, som ved Hvalsey. Isovergangen er diktet opp for spillet. Les historien i [Norrøne Grønland: fire århundrer med gårder på isen og mysteriet om slutten](/no/norrone-gronland-fire-arhundrer-med-garder-pa-isen/).

@@ -23,4 +23,4 @@ Trollkvinnene har reist bølger mot Ellide. Trykk ved siden av skipet, eller sve
 
 ## Historien bak
 
-I sagaen tåler Ellide en storm som to trollkvinner har reist. Bølgebeltene i spillet er diktet opp. Les historien i [Fridtjov og skipet Ellide: sagaen om den unge mannen som møtte en storm laget av hekser](/no/2026/11/21/fridtjof-ellide-tempestade/).
+I sagaen tåler Ellide en storm som to trollkvinner har reist. Bølgebeltene i spillet er diktet opp. Les historien i [Fridtjov og skipet Ellide: sagaen om den unge mannen som møtte en storm laget av hekser](/no/fridtjov-og-skipet-ellide-sagaen-om-den-unge-mannen/).

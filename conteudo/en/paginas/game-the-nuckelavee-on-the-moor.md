@@ -23,4 +23,4 @@ Reach the river, in the right-hand column, before the nuckelavee catches you. It
 
 ## The story behind it
 
-The nuckelavee is a creature of Orkney, in Scotland, that cannot bear fresh running water, and a victim can escape by crossing a river or stream; the main early written record is by Walter Traill Dennison, between 1880 and 1894. The moor is invented. Read the story in [The nuckelavee of Orkney: the horse demon that will not cross fresh running water](/en/2027/01/10/nuckelavee-demonio-cavalo-orkney-folclore/).
+The nuckelavee is a creature of Orkney, in Scotland, that cannot bear fresh running water, and a victim can escape by crossing a river or stream; the main early written record is by Walter Traill Dennison, between 1880 and 1894. The moor is invented. Read the story in [The nuckelavee of Orkney: the horse demon that will not cross fresh running water](/the-nuckelavee-of-orkney-the-horse-demon-that-will-not/).

@@ -42,4 +42,4 @@ Uma prova direta da presença nórdica está dentro da própria Santa Sofia. Em 
 
 Na Suécia, pedras rúnicas lembram quem partiu para o leste e não voltou. Uma delas fala de homens que foram longe atrás de ouro e morreram no leste. Os rios e a cidade eram um destino de riqueza e de risco.
 
-Para sentir o trabalho de arrastar um navio por terra, jogue [Arrastar o navio](/jogo-arrastar-o-navio/).
+Para sentir o trabalho de arrastar um navio por terra, jogue [Arrastar o navio](/pt/jogo-arrastar-o-navio/).

@@ -23,4 +23,4 @@ The wall grows on its own every second. Tap the hearts that appear on the screen
 
 ## The story behind it
 
-In Snorri Sturluson’s *Prose Edda*, the builder had one winter to finish the fortress, and Loki, disguised as a mare, lured his horse away. The game simplifies the account. Read the story in [How Loki tricked the builder of Asgard's wall and gave birth to the horse Sleipnir](/en/2026/11/13/sleipnir-muro-asgard/).
+In Snorri Sturluson’s *Prose Edda*, the builder had one winter to finish the fortress, and Loki, disguised as a mare, lured his horse away. The game simplifies the account. Read the story in [How Loki tricked the builder of Asgard's wall and gave birth to the horse Sleipnir](/how-loki-tricked-the-builder-of-asgard-s-wall-and-gave/).

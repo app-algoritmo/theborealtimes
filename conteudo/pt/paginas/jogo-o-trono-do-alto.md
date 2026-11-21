@@ -23,4 +23,4 @@ Do alto do trono, vigie as cabanas do vale. Quando uma lanterna acender, toque n
 
 ## A história por trás
 
-Nos textos, Odin vê os mundos do assento Hliðskjálf, e Freyr, ao se sentar nele, vê Gerðr. As luzes do vale são invenção. Leia a história em [Hliðskjálf: o trono de Odin de onde se vê todos os mundos](/2027/03/07/hlidskjalf-o-trono-de-odin-de-onde-se-ve-todos-os-mundos/).
+Nos textos, Odin vê os mundos do assento Hliðskjálf, e Freyr, ao se sentar nele, vê Gerðr. As luzes do vale são invenção. Leia a história em [Hliðskjálf: o trono de Odin de onde se vê todos os mundos](/pt/hlidskjalf-o-trono-de-odin-de-onde-se-ve-todos-os-mundos/).

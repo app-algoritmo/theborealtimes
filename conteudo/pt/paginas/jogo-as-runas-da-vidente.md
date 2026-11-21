@@ -23,4 +23,4 @@ Mire com o dedo (ou use as setas) e toque acima do lançador (ou espaço) para l
 
 ## A história por trás
 
-O poema Völuspá é recitado por uma vidente diante de Odin. As runas que se lançam no jogo são invenção. Leia a história em [Völuspá, a profecia da vidente que fala a Odin do começo ao fim do mundo](/2026/11/22/voluspa-a-vidente-fala-a-odin/).
+O poema Völuspá é recitado por uma vidente diante de Odin. As runas que se lançam no jogo são invenção. Leia a história em [Völuspá, a profecia da vidente que fala a Odin do começo ao fim do mundo](/pt/voluspa-a-vidente-fala-a-odin/).

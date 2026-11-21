@@ -23,4 +23,4 @@ Hvert rør rommer fargede brikker, og det er plass til 4 i hvert. Trykk på et r
 
 ## Historien bak
 
-I 1873, etter flom, ble 16 anheng, en brosje og en halsring, alle av gull og fra 900-tallet, funnet på den tyske øya Hiddensee. Anhengene kombinerer Thors hammer og korset. Å sortere brikker etter farge er oppfunnet. Les historien i [Hiddensee-skatten: gullanheng som forener Tors hammer og korset](/no/2027/02/21/tesouro-de-hiddensee-pingentes-de-ouro-martelo-de-thor-e-cruz/).
+I 1873, etter flom, ble 16 anheng, en brosje og en halsring, alle av gull og fra 900-tallet, funnet på den tyske øya Hiddensee. Anhengene kombinerer Thors hammer og korset. Å sortere brikker etter farge er oppfunnet. Les historien i [Hiddensee-skatten: gullanheng som forener Tors hammer og korset](/no/hiddensee-skatten-gullanheng-som-forener-tors-hammer/).

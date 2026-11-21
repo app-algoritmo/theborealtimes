@@ -45,4 +45,4 @@ The Kylver Stone, from Gotland, from about 400, shows the 24 runes in order. It 
 
 Nobody knows the meaning of *sueus*, or whether the tree of runes was magical. The use of the stone as a grave cover may be mere reuse.
 
-To tap the runes in the same order as on the stone, play [The order of the futhark](/en/game-the-order-of-the-futhark/).
+To tap the runes in the same order as on the stone, play [The order of the futhark](/game-the-order-of-the-futhark/).

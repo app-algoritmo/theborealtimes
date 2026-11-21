@@ -41,4 +41,4 @@ Na Inglaterra, um túmulo neolítico em Oxfordshire ainda leva o nome do ferreir
 
 Os estudiosos divergem sobre a origem da lenda: ela pode ter raízes germânicas comuns, antes de se dividir em versões. O que as fontes mostram é um personagem que atravessou séculos e países, o ferreiro que ninguém conseguiu manter preso.
 
-Para ajudar Völund a juntar as penas em ordem antes que o tempo acabe, jogue [As penas do ferreiro](/jogo-as-penas-do-ferreiro/).
+Para ajudar Völund a juntar as penas em ordem antes que o tempo acabe, jogue [As penas do ferreiro](/pt/jogo-as-penas-do-ferreiro/).

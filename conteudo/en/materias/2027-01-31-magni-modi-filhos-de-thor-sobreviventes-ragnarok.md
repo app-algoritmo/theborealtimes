@@ -39,4 +39,4 @@ Both names are ordinary Old Norse words, and so they can be read as simple quali
 
 Móði's mother is not known with certainty. The source does not say that Magni and Móði inherit the hammer Mjölnir, and so this piece does not claim it: what the texts record is only that they survive. The role of each after Ragnarök is not stated either. All readings of what the names "symbolise" come from modern scholars, not from the medieval poets.
 
-To turn pieces in quadrants until everything is back in order, play [Magni’s turn](/en/game-magnis-turn/).
+To turn pieces in quadrants until everything is back in order, play [Magni’s turn](/game-magnis-turn/).

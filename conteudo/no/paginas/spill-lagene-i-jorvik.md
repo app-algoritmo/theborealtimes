@@ -23,4 +23,4 @@ Du graver i en tomt i Jórvík, i York. Trykk på en rute for å grave. Tallet f
 
 ## Historien bak
 
-På Coppergate i York avdekket utgravingene i 1976–81 hus og verksteder i vikingtidens Jórvík. De skjøre lagene i spillet er diktet opp. Les historien i [Jórvík: vikingenes York og utgravingen i Coppergate som fant hus, håndverk og til og med hva innbyggerne spiste](/no/2026/11/19/jorvik-york-coppergate-escavacao/).
+På Coppergate i York avdekket utgravingene i 1976–81 hus og verksteder i vikingtidens Jórvík. De skjøre lagene i spillet er diktet opp. Les historien i [Jórvík: vikingenes York og utgravingen i Coppergate som fant hus, håndverk og til og med hva innbyggerne spiste](/no/jorvik-vikingenes-york-og-utgravingen-i-coppergate-som-fant/).

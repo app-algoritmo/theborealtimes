@@ -23,4 +23,4 @@ Gefjon quer cortar a terra em lotes. Arraste de uma casa a outra para marcar um 
 
 ## A história por trás
 
-Segundo Snorri, Gefjon arou uma ilha inteira numa noite. A divisão em lotes é invenção do jogo. Leia a história em [Gefjon e a Zelândia: a deusa que arou uma ilha inteira numa noite, com quatro bois](/2026/11/19/gefjon-zelandia-bois-arado/).
+Segundo Snorri, Gefjon arou uma ilha inteira numa noite. A divisão em lotes é invenção do jogo. Leia a história em [Gefjon e a Zelândia: a deusa que arou uma ilha inteira numa noite, com quatro bois](/pt/gefjon-zelandia-bois-arado/).

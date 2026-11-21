@@ -48,4 +48,4 @@ A *saga* is a prose narrative of medieval Iceland. *Rímur* are Icelandic narrat
 
 Who wrote the saga, and whether Ref was a real person, is not said. The date of the text is centuries after the time in which the story is set. The details of Gest, of Bard and of the fortress appear in the sources in summary form, and the essay mixes plot and opinion. For that reason, what can be affirmed with safety is the plot, and not the facts behind it.
 
-To push the crates onto the golden marks, like Ref with his ship, play [Ref’s crates](/en/game-refs-crates/).
+To push the crates onto the golden marks, like Ref with his ship, play [Ref’s crates](/game-refs-crates/).

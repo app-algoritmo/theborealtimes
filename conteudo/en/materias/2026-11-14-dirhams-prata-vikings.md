@@ -37,4 +37,4 @@ In time the silver mines of the East ran dry and, around the end of the 10th cen
 
 Many dirhams carry small test nicks, made with the point of a knife to check that the silver was solid right through and not just a skin over another metal. Others have a hole and were worn as pendants. This shows that the buyer was wary, and that a coin could serve as an ornament as well as money.
 
-To feel the pressure of the haggling, play [The merchant's scales](/en/game-the-merchants-scales/).
+To feel the pressure of the haggling, play [The merchant's scales](/game-the-merchants-scales/).

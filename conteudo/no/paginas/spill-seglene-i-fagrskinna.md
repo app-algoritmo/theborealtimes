@@ -23,4 +23,4 @@ Seksten pergamentark ligger med forsiden ned, hvert med et segl som finnes på t
 
 ## Historien bak
 
-Fagrskinna ble skrevet omkring 1220 og forteller Norges historie fra Halvdan Svarte til slaget ved Re i 1177. Forfatteren er ikke kjent. Seglene er oppfunnet. Les historien i [Fagrskinna, «Det fagre pergament»: historien om Norges konger skrevet omkring 1220](/no/2027/01/17/fagrskinna-pergaminho-belo-reis-noruega-1220/).
+Fagrskinna ble skrevet omkring 1220 og forteller Norges historie fra Halvdan Svarte til slaget ved Re i 1177. Forfatteren er ikke kjent. Seglene er oppfunnet. Les historien i [Fagrskinna, «Det fagre pergament»: historien om Norges konger skrevet omkring 1220](/no/fagrskinna-det-fagre-pergament-historien-om-norges-konger/).

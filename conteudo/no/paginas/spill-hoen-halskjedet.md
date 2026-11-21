@@ -23,4 +23,4 @@ Træ alle perlene på én tråd. Start ved perlen merket 1 og trykk på en nabo-
 
 ## Historien bak
 
-Hoen-skatten ble funnet i 1834 i Buskerud i Norge, med mer enn hundre perler; i dag ligger den i Oslo. Å træ perler på en tråd er oppfunnet. Les historien i [Hoenskatten: gull, arabiske mynter og perler funnet i Buskerud](/no/2027/02/14/tesouro-de-hoen-ouro-moedas-e-contas-da-era-viking/).
+Hoen-skatten ble funnet i 1834 i Buskerud i Norge, med mer enn hundre perler; i dag ligger den i Oslo. Å træ perler på en tråd er oppfunnet. Les historien i [Hoenskatten: gull, arabiske mynter og perler funnet i Buskerud](/no/hoenskatten-gull-arabiske-mynter-og-perler-funnet-i-buskerud/).

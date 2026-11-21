@@ -23,4 +23,4 @@ Swipe your finger (or use the arrow keys) to lead the spirit. Each light makes i
 
 ## The story behind it
 
-In the sagas, the fylgja is a spirit that accompanies a person. Leading it to lights is made up for the game. Read the story in [Fylgja: the "follower", the spirit that accompanies a person in the sagas](/en/2026/12/20/fylgja-espirito-acompanhante-sagas-islandesas/).
+In the sagas, the fylgja is a spirit that accompanies a person. Leading it to lights is made up for the game. Read the story in [Fylgja: the "follower", the spirit that accompanies a person in the sagas](/fylgja-the-follower-the-spirit-that-accompanies-a-person/).

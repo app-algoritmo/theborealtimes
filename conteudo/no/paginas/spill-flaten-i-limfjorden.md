@@ -23,4 +23,4 @@ Skipene lyser opp ett etter ett, i en bestemt rekkefølge. Når de er ferdige, t
 
 ## Historien bak
 
-I 1085 kalte Knut IV flåten til Limfjorden for å angripe England, men den seilte aldri. Rekkefølgen på skipene er oppfunnet. Les historien i [Knut den hellige av Danmark: flåten som aldri seilte og døden i Odense i 1086](/no/2027/03/07/canuto-iv-da-dinamarca-a-frota-que-nao-partiu-e-a-morte-em-odense-em-1086/).
+I 1085 kalte Knut IV flåten til Limfjorden for å angripe England, men den seilte aldri. Rekkefølgen på skipene er oppfunnet. Les historien i [Knut den hellige av Danmark: flåten som aldri seilte og døden i Odense i 1086](/no/knut-den-hellige-av-danmark-flaten-som-aldri-seilte/).

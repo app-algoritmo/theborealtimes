@@ -45,4 +45,4 @@ A viagem à Groenlândia é lembrada pelo retrato realista. Þorgils naufraga, o
 
 A data e o autor são debatidos. O verbete diz que não é certo se o relato da Groenlândia nasce da experiência do autor ou de um informante. Também aponta que a saga pode ter sido influenciada pela Eiríks saga rauða, pela Grænlendinga saga e por vidas de santos. Os estudiosos leem Þorgils como uma mistura da honra tradicional escandinava com um cristianismo europeu.
 
-Para juntar mantimentos e escapar dos blocos de gelo que caem na costa da Groenlândia, jogue [Mantimentos na Groenlândia](/jogo-mantimentos-na-groenlandia/).
+Para juntar mantimentos e escapar dos blocos de gelo que caem na costa da Groenlândia, jogue [Mantimentos na Groenlândia](/pt/jogo-mantimentos-na-groenlandia/).

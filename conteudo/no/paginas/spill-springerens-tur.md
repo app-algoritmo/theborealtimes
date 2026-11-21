@@ -23,4 +23,4 @@ Springeren går i L: to ruter én vei og én rute til siden. Trykk på en marker
 
 ## Historien bak
 
-Blant Lewis-sjakkbrikkene er det riddere og bønder skåret i hvalrosstann. Turen på brettet er diktet opp. Les historien i [Sjakkbrikkene fra Lewis: hvalrosstann, krigere som biter i skjoldet og en skatt fra Hebridene](/no/2026/11/22/pecas-de-xadrez-de-lewis-marfim/).
+Blant Lewis-sjakkbrikkene er det riddere og bønder skåret i hvalrosstann. Turen på brettet er diktet opp. Les historien i [Sjakkbrikkene fra Lewis: hvalrosstann, krigere som biter i skjoldet og en skatt fra Hebridene](/no/sjakkbrikkene-fra-lewis-hvalrosstann-krigere-som-biter/).

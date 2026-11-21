@@ -23,4 +23,4 @@ The snakes rise from the holes, one at a time. Watch the order and tap the holes
 
 ## The story behind it
 
-In the sagas, Ragnar Lodbrok dies in the snake pit of King Ælla of Northumbria, singing. It is a legend, not a confirmed historical record. The memory game is made up. Read the story in [Ragnar Lodbrok and the snake pit: the hero of the sagas and what the chronicles kept of him](/en/2026/11/14/ragnar-lodbrok-cobras/).
+In the sagas, Ragnar Lodbrok dies in the snake pit of King Ælla of Northumbria, singing. It is a legend, not a confirmed historical record. The memory game is made up. Read the story in [Ragnar Lodbrok and the snake pit: the hero of the sagas and what the chronicles kept of him](/ragnar-lodbrok-and-the-snake-pit-the-hero-of-the-sagas/).

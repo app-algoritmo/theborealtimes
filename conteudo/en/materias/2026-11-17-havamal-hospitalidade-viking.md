@@ -42,4 +42,4 @@ The *Hávamál* also contains a much-quoted idea: cattle die, kinsmen die, and t
 
 The *Hávamál* has about a hundred and sixty-four stanzas, and hospitality is only one part. The poem also contains the stanzas in which Odin says he hung nine nights on a tree, wounded by a spear, to gain the knowledge of the runes, and the episode of the mead of poetry. The advice to the guest appears alongside these passages, which suggests that, for whoever put the collection together, good conduct and wisdom went hand in hand.
 
-To serve every guest before patience runs out, play [Guests in the hall](/en/game-guests-in-the-hall/).
+To serve every guest before patience runs out, play [Guests in the hall](/game-guests-in-the-hall/).

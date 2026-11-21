@@ -41,4 +41,4 @@ Loki fica ali, preso, até o Ragnarök. Na *Völuspá*, a vidente também o vê 
 
 Os estudiosos discutem o lugar de Loki na religião nórdica antiga. Quase tudo o que se sabe dele vem de textos cristãos, e nada indica que ele recebesse culto. Alguns o veem como uma figura literária, criada para dar graça e conflito aos mitos. Outros acham que as fontes escondem algo mais antigo.
 
-Para segurar a tigela de Sigyn, jogue [A tigela de Sigyn](/jogo-a-tigela-de-sigyn/).
+Para segurar a tigela de Sigyn, jogue [A tigela de Sigyn](/pt/jogo-a-tigela-de-sigyn/).

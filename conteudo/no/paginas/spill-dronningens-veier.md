@@ -23,4 +23,4 @@ Trykk på en vei for å bygge den eller angre den. Hver vei har en kostnad. Knyt
 
 ## Historien bak
 
-Emma av Normandie var dronning av England to ganger: hun giftet seg med Æthelred i 1002 og med Knut i 1017. Å planlegge veier til lavest mulig pris er oppfunnet. Les historien i [Emma av Normandie: dronningen som giftet seg med to konger av England og var mor til to til](/no/2027/01/31/emma-da-normandia-rainha-da-inglaterra-encomium/).
+Emma av Normandie var dronning av England to ganger: hun giftet seg med Æthelred i 1002 og med Knut i 1017. Å planlegge veier til lavest mulig pris er oppfunnet. Les historien i [Emma av Normandie: dronningen som giftet seg med to konger av England og var mor til to til](/no/emma-av-normandie-dronningen-som-giftet-seg-med-to-konger/).

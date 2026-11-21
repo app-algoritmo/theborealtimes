@@ -40,4 +40,4 @@ A ideia de que os berserkers comiam o cogumelo *Amanita muscaria* para entrar em
 
 Os historiadores também não sabem se os berserkers existiram como grupo organizado, como as fontes sugerem, ou se são, em parte, um tema literário, usado para dar medo e fascínio às batalhas.
 
-Para canalizar a fúria sem perder o controle, jogue [Fúria de berserker](/jogo-furia-de-berserker/).
+Para canalizar a fúria sem perder o controle, jogue [Fúria de berserker](/pt/jogo-furia-de-berserker/).

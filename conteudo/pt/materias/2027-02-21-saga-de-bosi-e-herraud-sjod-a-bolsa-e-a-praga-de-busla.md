@@ -48,4 +48,4 @@ Uma *saga lendária* é uma saga que conta um passado remoto, com elementos fant
 
 As fontes não dizem quem escreveu a saga. A cronologia está achatada, e por isso as personagens não servem para datar nada. A etimologia do nome de Sjód é a explicação dada pela própria saga, e não deve ser tomada como uma prova da origem da palavra. O papel exato de cada episódio no enredo não é detalhado nas fontes usadas aqui.
 
-Para juntar moedas até o valor certo da bolsa, jogue [A bolsa de Sjód](/jogo-a-bolsa-de-sjod/).
+Para juntar moedas até o valor certo da bolsa, jogue [A bolsa de Sjód](/pt/jogo-a-bolsa-de-sjod/).

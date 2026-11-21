@@ -46,4 +46,4 @@ In Skáldskaparmál, Ægir, also called Hlér, lives on an island now called Hl�
 
 We do not know whether Gymir, the father of Gerðr, is the same being as Ægir or another with the same name. It is also unclear whether Ægir was a worshipped sea god or rather a figure of poetry and myth, and the sources about him are all medieval.
 
-To serve the ale to the gods at the right moment, play [The gods' ale](/en/game-the-gods-ale/).
+To serve the ale to the gods at the right moment, play [The gods' ale](/game-the-gods-ale/).

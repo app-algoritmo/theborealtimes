@@ -23,4 +23,4 @@ Tap a torch to flip its state and that of its four neighbours (lit or unlit). Li
 
 ## The story behind it
 
-In the Hyndluljóð, Freyja takes Óttarr to the cave of the seeress Hyndla. The torches and the light puzzle are made up. Read the story in [Hyndluljóð: Freyja rides a boar to the cave of the seeress who knows every family](/en/2026/12/06/hyndluljod-freyja-hyndla-genealogia/).
+In the Hyndluljóð, Freyja takes Óttarr to the cave of the seeress Hyndla. The torches and the light puzzle are made up. Read the story in [Hyndluljóð: Freyja rides a boar to the cave of the seeress who knows every family](/hyndluljod-freyja-rides-a-boar-to-the-cave-of-the-seeress/).

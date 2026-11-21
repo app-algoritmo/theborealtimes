@@ -43,4 +43,4 @@ Ravens recall Huginn and Muninn, Odin's ravens, and the article lists them as re
 
 The age of the belief is doubtful: the ballad is of the late Middle Ages, and the idea of the battlefield raven comes from a single account of 1893. The sense of "Verne" is a hypothesis. There is no way to say, from these texts, that the valravn was a general belief.
 
-To guide a knight-raven over every square of a board, play [The knight-raven](/en/game-the-knight-raven/).
+To guide a knight-raven over every square of a board, play [The knight-raven](/game-the-knight-raven/).

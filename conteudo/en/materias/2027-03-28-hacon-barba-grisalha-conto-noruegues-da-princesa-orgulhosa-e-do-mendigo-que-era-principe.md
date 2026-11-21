@@ -44,4 +44,4 @@ A *wool-winder* is an object on which thread is wound. The *king's fool* is the 
 
 I read the tale in English and not in the Norwegian original, and the passage I consulted does not say where Asbjørnsen and Moe took it from. Many readers today find it strange that the "lesson" given to the princess is a series of humiliations, and the tale does not explain why Hacon chooses that path.
 
-To repeat the order of the three golden bargains of the disguise, play [The three trades](/en/game-the-three-trades/).
+To repeat the order of the three golden bargains of the disguise, play [The three trades](/game-the-three-trades/).

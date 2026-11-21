@@ -23,4 +23,4 @@ There are five differences between the two drawings. Tap where you spot each one
 
 ## The story behind it
 
-In Scandinavian tradition, the mara is a spirit that sits on the chest of sleepers, and is said to tangle horses' manes. The game is made up. Read the story in [The mara: the spirit that rides sleepers and gave its name to the nightmare](/en/2026/11/18/mara-pesadelo-nordico/).
+In Scandinavian tradition, the mara is a spirit that sits on the chest of sleepers, and is said to tangle horses' manes. The game is made up. Read the story in [The mara: the spirit that rides sleepers and gave its name to the nightmare](/the-mara-the-spirit-that-rides-sleepers-and-gave-its-name/).

@@ -23,4 +23,4 @@ De norrøne skipene flykter nedover elvemunningen med tidevannet. Trykk på en r
 
 ## Historien bak
 
-Slaget ved Clontarf stod i 1014, nær Dublin. Skipsjakten er diktet opp for spillet. Les historien i [Clontarf, 1014: langfredagsslaget der Brian Boru døde, og hvorfor det ikke bare var irer mot vikinger](/no/2026/11/19/clontarf-1014-brian-boru-dublin/).
+Slaget ved Clontarf stod i 1014, nær Dublin. Skipsjakten er diktet opp for spillet. Les historien i [Clontarf, 1014: langfredagsslaget der Brian Boru døde, og hvorfor det ikke bare var irer mot vikinger](/no/clontarf-1014-langfredagsslaget-der-brian-boru-dode/).

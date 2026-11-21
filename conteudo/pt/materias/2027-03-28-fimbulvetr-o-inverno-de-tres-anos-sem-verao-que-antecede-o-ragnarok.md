@@ -41,4 +41,4 @@ O Fimbulvetr é o inverno que abre o fim do mundo nórdico: três invernos segui
 
 As fontes não dizem que o mito nasceu de um evento real. Essa ligação com o ano 536 é uma hipótese que os próprios estudiosos discutem com cautela. Os dois textos também descrevem o inverno de modos diferentes: Snorri fala em três invernos seguidos, e a estrofe do poema só fala no "grande inverno". Não sei dizer, a partir destas fontes, se Snorri tirou os detalhes do poema ou de outra tradição.
 
-Para varrer a neve que chega dos quatro lados antes que ela alcance a casa, jogue [A neve dos quatro lados](/jogo-a-neve-dos-quatro-lados/).
+Para varrer a neve que chega dos quatro lados antes que ela alcance a casa, jogue [A neve dos quatro lados](/pt/jogo-a-neve-dos-quatro-lados/).

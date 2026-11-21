@@ -23,4 +23,4 @@ En loddstein vises under en kopp. Så går alle koppene ned og bytter plass. Fø
 
 ## Historien bak
 
-I Gautreks saga blir Starkad oppdratt sammen med Vikar, og Odins lodd faller på Vikar, som blir ofret. Å skjule steinen under kopper er oppfunnet. Les historien i [Starkad: helten med tre liv, Odins lodd og Tors forbannelser](/no/2027/02/14/starkad-gigante-de-oito-bracos-sorteio-de-odin/).
+I Gautreks saga blir Starkad oppdratt sammen med Vikar, og Odins lodd faller på Vikar, som blir ofret. Å skjule steinen under kopper er oppfunnet. Les historien i [Starkad: helten med tre liv, Odins lodd og Tors forbannelser](/no/starkad-helten-med-tre-liv-odins-lodd-og-tors-forbannelser/).

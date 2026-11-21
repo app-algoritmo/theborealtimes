@@ -47,4 +47,4 @@ Kennings multiply when one sits inside another, and the result can be difficult 
 
 Skalds had two devices. One was the *heiti*, a simple poetic word in place of the ordinary one, such as a rare name for "ship". The other was the kenning, which joined two words. The more refined the poet, the more elements he piled up. One of the most famous, Egill Skallagrímsson, is said in his saga to have composed, in England, a poem to save his own head before King Eiríkr Bloodaxe. In many verses the king was called a "ring-breaker", for handing out gold.
 
-To solve the skalds' riddles, play [Kenning riddles](/en/game-kenning-riddles/).
+To solve the skalds' riddles, play [Kenning riddles](/game-kenning-riddles/).

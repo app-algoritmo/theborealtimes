@@ -39,4 +39,4 @@ Na segunda parte, Gestr, "hóspede", tem um cão chamado Snati. Ele viaja à cor
 
 A data provável é o início do século XIV, mas Halldór Hermansson propôs por volta de 900, uma exceção. A paternidade de Sólrún, que diz ser filha de Gestr, é contestada dentro da própria saga, que afirma não haver registro de filhos dele. Quanto a Grímr, o pescador misterioso, só se registra que o povo achava que "devia ser" Thor. A adoração a Bárðr é descrita como crença popular, não como prática comprovada.
 
-Para fazer o caminho certo sobre o gelo, escorregando até parar no buraco, jogue [O gelo à deriva](/jogo-o-gelo-a-deriva/).
+Para fazer o caminho certo sobre o gelo, escorregando até parar no buraco, jogue [O gelo à deriva](/pt/jogo-o-gelo-a-deriva/).

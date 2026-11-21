@@ -40,4 +40,4 @@ Na primeira fonte, no fim da vida Þórir esconde o ouro, e corre o boato de que
 
 As fontes não concordam na data nem na autoria. A segunda fala em cerca de 1350, enquanto a primeira não dá data e relata argumentos de que Sturla Þórðarson a teria escrito, com estudos de 2015 e de 2021 (este por estilometria) a favor e uma resenha que questiona a abordagem pelo vocabulário. O único manuscrito conservado é de cerca de 1400, com páginas raspadas, e partes do texto foram completadas com cópias do século XIX. Os dois resumos divergem sobre onde e como o ouro foi ganho, e a primeira fonte trata a transformação em dragão como boato, enquanto a segunda a narra como fato da história.
 
-Para saltar moedas de ouro num tabuleiro até sobrar uma só, como num tesouro guardado, jogue [As moedas do dragão](/jogo-as-moedas-do-dragao/).
+Para saltar moedas de ouro num tabuleiro até sobrar uma só, como num tesouro guardado, jogue [As moedas do dragão](/pt/jogo-as-moedas-do-dragao/).

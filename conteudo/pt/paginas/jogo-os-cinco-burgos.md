@@ -23,4 +23,4 @@ Cinco burgos têm 1, 2, 3, 4 e 5 fichas. Você joga primeiro, e depois o advers�
 
 ## A história por trás
 
-Os Cinco Burgos eram Leicester, Nottingham, Derby, Stamford e Lincoln. O termo Danelaw só aparece no início do século XI, na forma Dena lage, em inglês antigo. O jogo é invenção. Leia a história em [O Danelaw, a "lei dos dinamarqueses" na Inglaterra: o tratado, os Cinco Burgos e os nomes de lugar](/2027/01/17/danelaw-cinco-burgos-lei-dinamarquesa-inglaterra/).
+Os Cinco Burgos eram Leicester, Nottingham, Derby, Stamford e Lincoln. O termo Danelaw só aparece no início do século XI, na forma Dena lage, em inglês antigo. O jogo é invenção. Leia a história em [O Danelaw, a "lei dos dinamarqueses" na Inglaterra: o tratado, os Cinco Burgos e os nomes de lugar](/pt/danelaw-cinco-burgos-lei-dinamarquesa-inglaterra/).

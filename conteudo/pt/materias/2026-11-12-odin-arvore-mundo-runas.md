@@ -42,4 +42,4 @@ O mito dá a esse alfabeto uma origem divina e um preço. Nas fontes nórdicas, 
 Na prática, as pedras rúnicas da era viking têm usos bem mais cotidianos que o mito. A maior parte são memoriais: uma família grava o nome de um parente morto, às vezes com a lembrança de onde ele esteve ou de quem mandou erguer a pedra.
 
 
-Para voar com os corvos de Odin, jogue [O voo de Huginn](/jogo-voo-de-huginn/).
+Para voar com os corvos de Odin, jogue [O voo de Huginn](/pt/jogo-voo-de-huginn/).

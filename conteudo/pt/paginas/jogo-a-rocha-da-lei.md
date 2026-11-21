@@ -23,4 +23,4 @@ Uma só rocha guarda a lei, e ela tem um número. Toque num número para tentar.
 
 ## A história por trás
 
-O recitador da lei, o lagman, foi um cargo da Escandinávia. Adivinhar um número entre rochas é invenção. Leia a história em [O recitador da lei: o lagman na Escandinávia, da Islândia à Suécia](/2027/02/28/o-recitador-da-lei-o-lagman-na-escandinavia-da-islandia-a-suecia/).
+O recitador da lei, o lagman, foi um cargo da Escandinávia. Adivinhar um número entre rochas é invenção. Leia a história em [O recitador da lei: o lagman na Escandinávia, da Islândia à Suécia](/pt/o-recitador-da-lei-o-lagman-na-escandinavia-da-islandia-a-suecia/).

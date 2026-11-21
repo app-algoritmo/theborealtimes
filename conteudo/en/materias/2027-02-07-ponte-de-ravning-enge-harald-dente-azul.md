@@ -40,4 +40,4 @@ The purpose is much debated. Excavations in 1993 and 1996 indicated that it serv
 
 The sources differ on the exact length, the width, the distance to Jelling (about 10 kilometres in one, 14 in the other), the year of discovery (1953 in one, 1934 in the other), the excavation campaigns (1972 plus 1993 and 1996, against the 1970s and 1990s) and the length of use. The date of the timber retains a margin, and the toll function is only a possibility.
 
-To join pairs of ends with paths without crossing any, like the planks of a bridge, play [The paths of the bridge](/en/game-the-bridge-paths/).
+To join pairs of ends with paths without crossing any, like the planks of a bridge, play [The paths of the bridge](/game-the-bridge-paths/).

@@ -40,4 +40,4 @@ There is a winter and there is a fire. In the midst of them, two people hide in 
 
 It is not known who Hoddmímir is. The idea that he is Mímir is only a possibility. It is also uncertain whether the wood is the tree Yggdrasil itself, and the answer depends on the scholar. The etymologies of Lífþrasir are speculative. The texts summarised here do not say how the couple hide, and what happens to Yggdrasil during the fire is not declared. None of this proves or refutes a belief; it shows what the material allows one to affirm.
 
-To fill in the right squares of a hiding place with the help of the number clues, play [Líf’s hiding place](/en/game-lifs-hiding-place/).
+To fill in the right squares of a hiding place with the help of the number clues, play [Líf’s hiding place](/game-lifs-hiding-place/).

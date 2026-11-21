@@ -44,4 +44,4 @@ A squirrel makes the way between the crown and the roots of an enormous tree and
 
 The meaning of the name is generally accepted, but it is not certain, and Vigfússon and Bugge proposed other readings. The role of the squirrel may be only an embellishing detail. The existence of the hawk depends on Snorri. The readings of Davidson, of Lindow and of Thorington Jr. and Ferrell are theories. The sources used here do not give the stanza number of the Grímnismál or the manuscripts.
 
-To find the pairs of creatures of the tree by turning the cards, play [The creatures of the tree](/en/game-the-creatures-of-the-tree/).
+To find the pairs of creatures of the tree by turning the cards, play [The creatures of the tree](/game-the-creatures-of-the-tree/).

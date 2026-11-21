@@ -48,4 +48,4 @@ A *burial mound* is a mound of earth that covers a tomb. *Runic* describes the w
 
 The sources do not speak of offerings, and for that reason this piece does not state any. There is no way to confirm the 1861 report of the mummies and the skeleton, which is a newspaper account cited by the source. The link between the mound of Maeshowe and the hogboon, and the madness of the saga's warriors, is the author's inference, and the first source also observes that these stories were already forgotten in 1931.
 
-To find the hidden door of a mound by hot and cold clues, play [The door of the mound](/en/game-the-door-of-the-mound/).
+To find the hidden door of a mound by hot and cold clues, play [The door of the mound](/game-the-door-of-the-mound/).

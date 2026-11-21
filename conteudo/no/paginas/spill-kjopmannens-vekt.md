@@ -23,4 +23,4 @@ Kjøperen ber om en nøyaktig vekt sølv. Trykk på bitene for å legge dem på 
 
 ## Historien bak
 
-Vikingene veide sølv på små vekter og kuttet mynter og smykker i biter (hacksilver). Arabiske mynter, dirhamer, dukker opp i tusenvis i skandinaviske skatter. Vektene og handlene i spillet er diktet opp. Les historien i [Kalifatsølv og lommevekter: hvordan arabiske mynter havnet i vikingenes skatter](/no/2026/11/14/dirhams-prata-vikings/).
+Vikingene veide sølv på små vekter og kuttet mynter og smykker i biter (hacksilver). Arabiske mynter, dirhamer, dukker opp i tusenvis i skandinaviske skatter. Vektene og handlene i spillet er diktet opp. Les historien i [Kalifatsølv og lommevekter: hvordan arabiske mynter havnet i vikingenes skatter](/no/kalifatsolv-og-lommevekter-hvordan-arabiske-mynter-havnet/).

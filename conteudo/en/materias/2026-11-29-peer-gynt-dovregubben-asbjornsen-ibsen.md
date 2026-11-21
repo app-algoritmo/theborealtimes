@@ -39,4 +39,4 @@ Historians also debate whether there was a real person who gave rise to the stor
 
 The case of Peer Gynt shows how a character changes as it passes from hand to hand. From the exaggerating hunter of the tale, he became a symbol of dreaming and self-deception, and the hall of the mountain king remained one of the strongest images of Norwegian culture.
 
-To run from one side of the mountain king's hall to the other, switching lanes to dodge the trolls that advance, play [The Mountain King's hall](/en/game-the-mountain-kings-hall/).
+To run from one side of the mountain king's hall to the other, switching lanes to dodge the trolls that advance, play [The Mountain King's hall](/game-the-mountain-kings-hall/).

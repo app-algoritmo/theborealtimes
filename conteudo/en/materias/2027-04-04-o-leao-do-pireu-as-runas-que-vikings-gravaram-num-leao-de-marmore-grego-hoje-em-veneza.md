@@ -51,4 +51,4 @@ The marble lion of Piraeus, in Venice, has three runic inscriptions made by thre
 
 The readings of the inscriptions are uncertain, and parts of them are worn away. The page consulted says that the reading of Harald Hardrada's name is doubtful and gives no certainty about who the carvers were.
 
-To find the pairs of runes carved on the lion, play [The runes of the lion](/en/game-the-runes-of-the-lion/).
+To find the pairs of runes carved on the lion, play [The runes of the lion](/game-the-runes-of-the-lion/).

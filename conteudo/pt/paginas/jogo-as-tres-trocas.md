@@ -23,4 +23,4 @@ Disfarçado de mendigo, Hacon troca três objetos de ouro com a princesa. Veja a
 
 ## A história por trás
 
-No conto, o mendigo Hacon troca uma roda de fiar dourada, o suporte dela e um enrolador de lã de ouro por noites perto da princesa. A ordem que você repete e as trocas de lugar são invenção. Leia a história em [Hacon Barba-Grisalha: o conto norueguês da princesa orgulhosa e do mendigo que era príncipe](/2027/03/28/hacon-barba-grisalha-conto-noruegues-da-princesa-orgulhosa-e-do-mendigo-que-era-principe/).
+No conto, o mendigo Hacon troca uma roda de fiar dourada, o suporte dela e um enrolador de lã de ouro por noites perto da princesa. A ordem que você repete e as trocas de lugar são invenção. Leia a história em [Hacon Barba-Grisalha: o conto norueguês da princesa orgulhosa e do mendigo que era príncipe](/pt/hacon-barba-grisalha-conto-noruegues-da-princesa-orgulhosa-e-do-mendigo-que-era-principe/).

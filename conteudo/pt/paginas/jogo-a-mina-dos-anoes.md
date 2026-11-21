@@ -23,4 +23,4 @@ Toque numa casa para cavar. Cada número diz quantas das casas vizinhas escondem
 
 ## A história por trás
 
-Nas fontes nórdicas, os anões são ferreiros de joias e armas dos deuses. A mina e as armadilhas são invenção. Leia a história em [Os anões do Edda: vermes na carne de Ymir, ferreiros dos deuses e pedras ao nascer do sol](/2027/01/03/anoes-dvergar-edda-ymir-ferreiros/).
+Nas fontes nórdicas, os anões são ferreiros de joias e armas dos deuses. A mina e as armadilhas são invenção. Leia a história em [Os anões do Edda: vermes na carne de Ymir, ferreiros dos deuses e pedras ao nascer do sol](/pt/anoes-dvergar-edda-ymir-ferreiros/).

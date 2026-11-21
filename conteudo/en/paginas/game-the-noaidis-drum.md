@@ -23,4 +23,4 @@ Listen to the rhythm and repeat it by tapping the screen (or Space) in the same 
 
 ## The story behind it
 
-The noaidi, shamans of the Sámi people, used decorated skin drums. The rhythms in the game are made up and do not reproduce rituals. Read the story in [The Sámi noaidi and the drum: what missionaries recorded and what museums still keep](/en/2026/11/18/noaidi-tambor-sami/).
+The noaidi, shamans of the Sámi people, used decorated skin drums. The rhythms in the game are made up and do not reproduce rituals. Read the story in [The Sámi noaidi and the drum: what missionaries recorded and what museums still keep](/the-sami-noaidi-and-the-drum-what-missionaries-recorded/).

@@ -35,4 +35,4 @@ What the sources show is that Scandinavians gave a face to the sea, which gave t
 
 It is also worth noting that Rán's net appears in only a few passages, and that the image of a goddess who "fishes" for sailors is, in part, a synthesis by modern authors. The ancient sources are more sober than the popular illustrations.
 
-To close, line by line, the meshes of Rán's net and end up with more squares than she has, play [Rán's meshes](/en/game-rans-meshes/).
+To close, line by line, the meshes of Rán's net and end up with more squares than she has, play [Rán's meshes](/game-rans-meshes/).

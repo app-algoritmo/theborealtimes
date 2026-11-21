@@ -35,4 +35,4 @@ Em 1926, o arqueólogo Sune Lindqvist encontrou buracos de postes sob a igreja d
 
 Há duas lições. A primeira é que o lugar foi, sem dúvida, um centro político e religioso. A segunda é que um relato isolado, escrito de fora e com um objetivo, deve ser lido com cuidado. Muita coisa que se diz hoje sobre "sacrifícios a cada nove anos" repete Adão, sem outra fonte que o confirme. Mais tarde, fontes medievais diziam que o rei Inge, o Velho, destruíra o templo nos anos 1080, mas nenhuma fonte da época o diz.
 
-Para ordenar nove peças deslizantes numa grade de três por três, jogue [O templo de Uppsala](/jogo-o-templo-de-uppsala/).
+Para ordenar nove peças deslizantes numa grade de três por três, jogue [O templo de Uppsala](/pt/jogo-o-templo-de-uppsala/).

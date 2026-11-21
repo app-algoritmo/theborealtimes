@@ -23,4 +23,4 @@ Arraste as peças para frente ou para trás, só na direção em que estão deit
 
 ## A história por trás
 
-Tácito conta que Nerthus percorria a terra numa carroça coberta, puxada por vacas, e que a paz reinava enquanto ela passava. O bosque de peças é invenção. Leia a história em [Nerthus, a deusa da carroça coberta: o que Tácito conta e o que ninguém sabe](/2027/01/10/nerthus-deusa-germanica-tacito-germania-carroca/).
+Tácito conta que Nerthus percorria a terra numa carroça coberta, puxada por vacas, e que a paz reinava enquanto ela passava. O bosque de peças é invenção. Leia a história em [Nerthus, a deusa da carroça coberta: o que Tácito conta e o que ninguém sabe](/pt/nerthus-deusa-germanica-tacito-germania-carroca/).

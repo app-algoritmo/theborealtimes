@@ -41,4 +41,4 @@ Aurvandil é um homem carregado por Thor no cesto, cujo dedo congelado virou est
 
 O verbete diz que a estrela não é identificada: sugeriram Sirius, Vênus e Rigel, o pé de Órion. O sentido do nome é discutido, com várias propostas. Não se sabe se Snorri inventou a cena do dedo ou se recolheu uma tradição mais antiga, nem se as histórias de outras regiões vêm da mesma raiz.
 
-Para atravessar um rio de gelo pulando de bloco em bloco, sem cair na água, jogue [O rio de gelo](/jogo-o-rio-de-gelo/).
+Para atravessar um rio de gelo pulando de bloco em bloco, sem cair na água, jogue [O rio de gelo](/pt/jogo-o-rio-de-gelo/).

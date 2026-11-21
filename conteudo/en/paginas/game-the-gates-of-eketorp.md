@@ -23,4 +23,4 @@ Each ring of the fort has an opening. Tap a ring on its left side to turn it one
 
 ## The story behind it
 
-Eketorp is a circular fort on Öland, in Sweden, used from the Iron Age to the 13th century. Turning rings is invented. Read the story in [Eketorp: the ring fort of Öland, in Sweden, from the Iron Age to the 13th century](/en/2027/02/28/eketorp-o-forte-circular-de-oland-na-suecia-da-idade-do-ferro-ao-seculo-xiii/).
+Eketorp is a circular fort on Öland, in Sweden, used from the Iron Age to the 13th century. Turning rings is invented. Read the story in [Eketorp: the ring fort of Öland, in Sweden, from the Iron Age to the 13th century](/eketorp-the-ring-fort-of-oland-in-sweden-from-the-iron-age/).

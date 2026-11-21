@@ -23,4 +23,4 @@ Den gråbrune oksen skyver kasser til de gylne merkene på gulvet. Bruk piltaste
 
 ## Historien bak
 
-I Kari Trestakk av Asbjørnsen og Moe gir en gråbrun okse jenta mat og flykter med henne fra stemoren; i kobber-, sølv- og gullskogen kjemper han mot et troll i hver, og jenta tar med blader og et gulleple. Å skyve kasser er oppfunnet. Les historien i [Kari Trestakk: den gråbrune oksen, stemoren og gullskoen i et eventyr av Asbjørnsen og Moe](/no/2027/01/24/kari-trestakk-boi-pardo-madrasta-asbjornsen-moe/).
+I Kari Trestakk av Asbjørnsen og Moe gir en gråbrun okse jenta mat og flykter med henne fra stemoren; i kobber-, sølv- og gullskogen kjemper han mot et troll i hver, og jenta tar med blader og et gulleple. Å skyve kasser er oppfunnet. Les historien i [Kari Trestakk: den gråbrune oksen, stemoren og gullskoen i et eventyr av Asbjørnsen og Moe](/no/kari-trestakk-den-grabrune-oksen-stemoren-og-gullskoen/).

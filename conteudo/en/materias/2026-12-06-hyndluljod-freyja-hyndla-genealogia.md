@@ -37,4 +37,4 @@ The *Hyndluljóð* is not in the Codex Regius, the main manuscript of the Eddic 
 
 The interest of the poem lies in the way it treats memory and family. For the medieval audience in Iceland, knowing whom one descended from was a practical matter: it served to claim land, inheritance and prestige. Freyja, here, appears less as a goddess of love and more as the protector of a devotee and as the mistress of a hard task, that of forcing someone to remember.
 
-To light, one by one, all the torches in Hyndla's cave, knowing that each touch also changes its neighbours, play [Hyndla's torches](/en/game-hyndlas-torches/).
+To light, one by one, all the torches in Hyndla's cave, knowing that each touch also changes its neighbours, play [Hyndla's torches](/game-hyndlas-torches/).

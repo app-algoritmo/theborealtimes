@@ -23,4 +23,4 @@ Trykk på en side ved siden av det tomme feltet for å skyve den. Sett sidene fr
 
 ## Historien bak
 
-Codex Regius, fra omkring 1270, mistet åtte sider før 1643. Skyvepuslespillet er oppfunnet. Les historien i [Codex Regius: kalveskinnsboka som tok vare på gudediktene og kom tilbake til Island](/no/2027/01/03/codex-regius-manuscrito-edda-poetica/).
+Codex Regius, fra omkring 1270, mistet åtte sider før 1643. Skyvepuslespillet er oppfunnet. Les historien i [Codex Regius: kalveskinnsboka som tok vare på gudediktene og kom tilbake til Island](/no/codex-regius-kalveskinnsboka-som-tok-vare-pa-gudediktene/).

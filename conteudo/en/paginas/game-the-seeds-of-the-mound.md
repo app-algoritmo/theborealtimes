@@ -23,4 +23,4 @@ Tap one of your pits, at the bottom, to sow counter-clockwise. If the last seed 
 
 ## The story behind it
 
-In Grettis saga, Kárr the Old is called a draugr and lies in a mound that reeks horribly. The seed game is invented. Read the story in [The draugr, the dead who do not stay in the mound: what the Icelandic sagas tell](/en/2027/01/10/draugr-morto-vivo-sagas-islandesas-monte/).
+In Grettis saga, Kárr the Old is called a draugr and lies in a mound that reeks horribly. The seed game is invented. Read the story in [The draugr, the dead who do not stay in the mound: what the Icelandic sagas tell](/the-draugr-the-dead-who-do-not-stay-in-the-mound-what/).

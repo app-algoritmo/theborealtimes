@@ -23,4 +23,4 @@ Você e Loki servem taças no salão de Ægir. Toque numa coluna (ou use as seta
 
 ## A história por trás
 
-No Lokasenna, Loki insulta os deuses no banquete de Ægir, até que Thor chega. A partida de taças é invenção do jogo. Leia a história em [Lokasenna: a festa de Ægir em que Loki insultou os deuses um a um](/2026/11/21/lokasenna-festa-de-aegir/).
+No Lokasenna, Loki insulta os deuses no banquete de Ægir, até que Thor chega. A partida de taças é invenção do jogo. Leia a história em [Lokasenna: a festa de Ægir em que Loki insultou os deuses um a um](/pt/lokasenna-festa-de-aegir/).

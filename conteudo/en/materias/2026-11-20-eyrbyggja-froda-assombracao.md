@@ -37,4 +37,4 @@ No excavation has confirmed the events, and the saga was written about two centu
 
 It is worth remembering that the *Eyrbyggja saga* is not only about ghosts. It is a chronicle of families and disputes in the Snæfellsnes region, and the chieftain Snorri goði is one of its central characters. The Fróðá episode is only one part of it, and the author seems more interested in showing how a community dealt with a problem than in frightening his audience.
 
-To find out, as in the court, the right order of the accused waiting at the door, play [The accused at the door](/en/game-the-accused-at-the-door/).
+To find out, as in the court, the right order of the accused waiting at the door, play [The accused at the door](/game-the-accused-at-the-door/).

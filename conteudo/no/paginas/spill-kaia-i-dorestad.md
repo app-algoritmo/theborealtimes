@@ -23,4 +23,4 @@ Trykk på en vare og så på en nabo (eller dra) for å bytte dem. Byttet teller
 
 ## Historien bak
 
-Dorestad, en handelsby ved nedre Rhinen, ble angrepet av vikinger fra 834. Varebyttet er diktet opp for spillet. Les historien i [Dorestad: Rhinens store havn og vikingtoktene fra 834 til 863](/no/2026/12/20/dorestad-vikings-835-porto-do-reno/).
+Dorestad, en handelsby ved nedre Rhinen, ble angrepet av vikinger fra 834. Varebyttet er diktet opp for spillet. Les historien i [Dorestad: Rhinens store havn og vikingtoktene fra 834 til 863](/no/dorestad-rhinens-store-havn-og-vikingtoktene-fra-834-til-863/).

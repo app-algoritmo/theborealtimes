@@ -35,4 +35,4 @@ O gigante confessa ainda que, se os golpes de martelo de Thor tivessem acertado,
 
 Os estudiosos leem a história como uma reflexão sobre limites, sobre o que a força não vence e sobre o poder da ilusão. É também um conto de humor, com um deus poderoso derrotado por truques. Como boa parte da Edda em Prosa, ele só chegou até nós pelo texto de Snorri, e é difícil separar o que vem da tradição oral do que é invenção literária do autor.
 
-Para enfrentar as provas, jogue [Os desafios de Útgarða-Loki](/jogo-os-desafios-de-utgarda-loki/).
+Para enfrentar as provas, jogue [Os desafios de Útgarða-Loki](/pt/jogo-os-desafios-de-utgarda-loki/).

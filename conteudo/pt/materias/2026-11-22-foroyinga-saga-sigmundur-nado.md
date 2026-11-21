@@ -35,4 +35,4 @@ A arqueologia mostra que as Faroé foram povoadas antes da época do relato, e o
 
 O fio do texto, de disputas entre famílias, lembra as sagas da Islândia, e muitos estudiosos pensam que o autor se baseou em histórias contadas por gerações. Os detalhes, como a travessia a nado, podem ter sido ampliados pela tradição. Mas o que a saga mostra bem é a vida de um arquipélago pequeno, em que todos se conhecem, e em que uma inimizade pode durar uma vida inteira.
 
-Para atravessar, a nado, o braço de mar entre as ilhas, alternando as braçadas sem esgotar o fôlego, jogue [A nado entre as ilhas](/jogo-a-nado-entre-as-ilhas/).
+Para atravessar, a nado, o braço de mar entre as ilhas, alternando as braçadas sem esgotar o fôlego, jogue [A nado entre as ilhas](/pt/jogo-a-nado-entre-as-ilhas/).

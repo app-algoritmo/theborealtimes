@@ -69,4 +69,4 @@ Asbjørnsen and Moe, two friends, spent years listening to and writing down stor
 
 Trolls, creatures of the mountains and forests, are a constant presence in Scandinavian folklore. The tale of the Bruse goats is today one of the best known in Norwegian folklore.
 
-To cross the bridge yourself, play [The Three Billy Goats Bruse](/en/game-three-billy-goats/).
+To cross the bridge yourself, play [The Three Billy Goats Bruse](/game-three-billy-goats/).

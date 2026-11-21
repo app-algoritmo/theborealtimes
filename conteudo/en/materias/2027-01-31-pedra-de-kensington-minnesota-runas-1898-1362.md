@@ -40,4 +40,4 @@ Who made the stone is uncertain. The source considers Ohman the most likely, and
 
 The authorship of the forgery is not proved: Ohman is the most often named, but there is no confession. Wolter's conclusions, of 2003, contest the consensus but have not changed it. The stone does not prove that Norsemen reached Minnesota in 1362.
 
-To black out repeated numbers until the stone is deciphered, play [The erased runes](/en/game-the-erased-runes/).
+To black out repeated numbers until the stone is deciphered, play [The erased runes](/game-the-erased-runes/).

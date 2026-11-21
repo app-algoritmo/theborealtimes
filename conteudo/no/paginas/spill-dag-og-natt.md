@@ -23,4 +23,4 @@ Hver rute i rutenettet skal ha en sol eller en måne. Trykk på en tom rute for 
 
 ## Historien bak
 
-I Eddaene får Nótt og Dagr hver sin vogn og hver sin hest av Odin og farer over himmelen hvert døgn, med Nótt foran. Å fylle sol og måne er oppfunnet. Les historien i [Nótt og Dagr: Natten og Dagen i Eddaene, hver med vogn og hest](/no/2027/02/14/nott-dagr-noite-dia-carruagens-eddas/).
+I Eddaene får Nótt og Dagr hver sin vogn og hver sin hest av Odin og farer over himmelen hvert døgn, med Nótt foran. Å fylle sol og måne er oppfunnet. Les historien i [Nótt og Dagr: Natten og Dagen i Eddaene, hver med vogn og hest](/no/nott-og-dagr-natten-og-dagen-i-eddaene-hver-med-vogn-og-hest/).

@@ -44,4 +44,4 @@ Some scholars see a special link between the two because of what they share, and
 
 Frigg's association with the Earth is ambiguous, since Jörð is personified separately. The folk etymology that ties her to "Frigida", from Snorri's prologue, is not a correct derivation. And almost everything we know comes from texts written centuries after the cult, by Christians.
 
-To find the matching pairs among turned-over pieces, in few tries, play [Frigg's pairs](/en/game-friggs-pairs/).
+To find the matching pairs among turned-over pieces, in few tries, play [Frigg's pairs](/game-friggs-pairs/).

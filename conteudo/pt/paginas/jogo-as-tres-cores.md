@@ -23,4 +23,4 @@ A ponte Bifröst tem três cores, e os deuses só a cruzam se você acender as c
 
 ## A história por trás
 
-Na Edda em prosa de Snorri, escrita no século XIII, a ponte Bifröst tem três cores, e os deuses a cruzam todo dia, menos Thor. A sequência de cores que você repete é invenção. Leia a história em [Bifröst: a ponte de três cores que os deuses cruzam todo dia](/2027/03/21/bifrost-a-ponte-de-tres-cores-que-os-deuses-cruzam-todo-dia/).
+Na Edda em prosa de Snorri, escrita no século XIII, a ponte Bifröst tem três cores, e os deuses a cruzam todo dia, menos Thor. A sequência de cores que você repete é invenção. Leia a história em [Bifröst: a ponte de três cores que os deuses cruzam todo dia](/pt/bifrost-a-ponte-de-tres-cores-que-os-deuses-cruzam-todo-dia/).

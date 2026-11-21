@@ -37,4 +37,4 @@ Ari's passage is the closest source. There are later versions, such as the *Kris
 
 The scene shows an unusual way of deciding: a country without a king settles a religious conflict by means of an arbiter, a law and an agreement. It also shows that the conversion was gradual. The new creed was officially imposed, but old customs remained for some time. Ari wrote as a Christian priest, so the account has a point of view. Historians read it carefully, comparing it with other sources.
 
-To move, one by one, four blocks between three pillars, never putting a larger block on a smaller one, as in a decision that demands order, play [The four blocks](/en/game-the-four-blocks/).
+To move, one by one, four blocks between three pillars, never putting a larger block on a smaller one, as in a decision that demands order, play [The four blocks](/game-the-four-blocks/).

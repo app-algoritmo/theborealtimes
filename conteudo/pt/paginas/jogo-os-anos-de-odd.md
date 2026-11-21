@@ -23,4 +23,4 @@ card:
 
 ## A história por trás
 
-A tradição islandesa dá a Örvar-Oddr cerca de 300 anos de vida. Os números do jogo são invenção. Leia a história em [Örvar-Oddr e o cavalo Faxi: o herói que enterrou o cavalo para fugir de uma profecia](/2026/11/20/orvar-oddr-faxi-profecia/).
+A tradição islandesa dá a Örvar-Oddr cerca de 300 anos de vida. Os números do jogo são invenção. Leia a história em [Örvar-Oddr e o cavalo Faxi: o herói que enterrou o cavalo para fugir de uma profecia](/pt/orvar-oddr-faxi-profecia/).

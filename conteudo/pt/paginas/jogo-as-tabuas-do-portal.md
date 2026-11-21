@@ -23,4 +23,4 @@ As tábuas entalhadas do portal estão fora de ordem. Deslize-as até ficarem em
 
 ## A história por trás
 
-O portal norte da igreja de Urnes tem animais entrelaçados e deu nome ao estilo Urnes. Deslizar tábuas até a ordem certa é invenção. Leia a história em [Urnes: a igreja de madeira da Noruega e o estilo de entalhe que leva seu nome](/2027/02/28/urnes-a-igreja-de-madeira-da-noruega-e-o-estilo-que-leva-seu-nome/).
+O portal norte da igreja de Urnes tem animais entrelaçados e deu nome ao estilo Urnes. Deslizar tábuas até a ordem certa é invenção. Leia a história em [Urnes: a igreja de madeira da Noruega e o estilo de entalhe que leva seu nome](/pt/urnes-a-igreja-de-madeira-da-noruega-e-o-estilo-que-leva-seu-nome/).

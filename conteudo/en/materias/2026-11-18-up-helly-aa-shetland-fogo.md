@@ -38,4 +38,4 @@ But the costumes are fantasy. Helmets with wings or horns, for example, do not c
 
 The squads rehearse for months, write satires about local life and prepare their acts and costumes. The galley is built by volunteers, with a dragon head and painted shields. There are smaller festivals in other places on the islands, on different dates between January and March. The contrast between months of work and a few minutes of fire is part of the meaning of the festival. For many residents, the night is a community celebration, and the fire is only its end.
 
-To assemble the galley part by part before time runs out, play [The Up Helly Aa galley](/en/game-the-up-helly-aa-galley/).
+To assemble the galley part by part before time runs out, play [The Up Helly Aa galley](/game-the-up-helly-aa-galley/).

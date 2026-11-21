@@ -41,4 +41,4 @@ O artigo cita, na documentação posterior, Qvigstad (1926), Hallström (1932), 
 
 As fontes antigas copiavam umas às outras e nem sempre deixam claro se descrevem a região onde o autor vivia. Além disso, foram escritas por quem queria destruir essas práticas e podem ser tendenciosas. As práticas variavam muito de lugar para lugar, e por isso é arriscado falar de "o" sieidi como uma tradição uniforme. Alguns depósitos modernos são difíceis de interpretar, e não se sabe se continuam uma tradição sámi.
 
-Para lançar, ajustando o ângulo e a força, pedras de oferenda até a pedra sagrada, acertando cinco vezes com oito pedras, jogue [A pedra sagrada](/jogo-a-pedra-sagrada/).
+Para lançar, ajustando o ângulo e a força, pedras de oferenda até a pedra sagrada, acertando cinco vezes com oito pedras, jogue [A pedra sagrada](/pt/jogo-a-pedra-sagrada/).

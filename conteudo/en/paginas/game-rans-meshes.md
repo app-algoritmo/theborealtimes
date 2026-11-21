@@ -23,4 +23,4 @@ Each move joins two neighbouring dots with a thread. Whoever closes the fourth s
 
 ## The story behind it
 
-In the sources, Rán owns a net with which she catches the drowned. The game of closing meshes is made up. Read the story in [Rán, lady of the Norse sea, and the net that caught the drowned](/en/2026/11/22/ran-aegir-rede-dos-afogados/).
+In the sources, Rán owns a net with which she catches the drowned. The game of closing meshes is made up. Read the story in [Rán, lady of the Norse sea, and the net that caught the drowned](/ran-lady-of-the-norse-sea-and-the-net-that-caught/).

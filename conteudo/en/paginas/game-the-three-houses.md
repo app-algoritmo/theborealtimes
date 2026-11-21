@@ -23,4 +23,4 @@ Look at the tool the family brings and tap the right house (or use keys 1, 2 and
 
 ## The story behind it
 
-In the poem Rígsþula, the god Rígr, identified with Heimdall, visits three houses and founds three social groups. The families in the game are made up. Read the story in [Rígsþula: how Heimdall, in disguise, visited three houses and gave rise to the orders of society](/en/2026/11/17/rigsthula-heimdall-tres-casas/).
+In the poem Rígsþula, the god Rígr, identified with Heimdall, visits three houses and founds three social groups. The families in the game are made up. Read the story in [Rígsþula: how Heimdall, in disguise, visited three houses and gave rise to the orders of society](/rigsthula-how-heimdall-in-disguise-visited-three-houses/).

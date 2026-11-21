@@ -35,4 +35,4 @@ The poem ends there. It does not say what became of the wager, and many scholars
 
 The poem also helps us understand how the Norse organised knowledge. The questions about names of horses, rivers and fields, and about the origin of the world, work like a list of things a good poet was expected to master. Snorri quotes stanzas of the *Vafþrúðnismál* in several passages of the *Gylfaginning*, which shows that by the 13th century the poem was already treated as a store of mythological knowledge.
 
-To face an opponent who knows every trick and prove who can count the stones better, play [The duel of the stones](/en/game-the-duel-of-the-stones/).
+To face an opponent who knows every trick and prove who can count the stones better, play [The duel of the stones](/game-the-duel-of-the-stones/).

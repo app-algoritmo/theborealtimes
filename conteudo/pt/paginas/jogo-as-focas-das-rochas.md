@@ -23,4 +23,4 @@ Focas surgem nas rochas e somem logo. Toque na foca antes de ela sumir. Foca que
 
 ## A história por trás
 
-Os selkies são, no folclore, focas que tiram a pele e viram gente, sobretudo nas ilhas do norte da Escócia; o nome vem do escocês "selch", foca-cinzenta. Tocar focas que surgem é invenção. Leia a história em [Selkie: a foca que tira a pele e vira gente nas ilhas do norte da Escócia](/2027/02/21/selkie-a-foca-que-vira-gente-orcadas-shetland-pele-roubada/).
+Os selkies são, no folclore, focas que tiram a pele e viram gente, sobretudo nas ilhas do norte da Escócia; o nome vem do escocês "selch", foca-cinzenta. Tocar focas que surgem é invenção. Leia a história em [Selkie: a foca que tira a pele e vira gente nas ilhas do norte da Escócia](/pt/selkie-a-foca-que-vira-gente-orcadas-shetland-pele-roubada/).

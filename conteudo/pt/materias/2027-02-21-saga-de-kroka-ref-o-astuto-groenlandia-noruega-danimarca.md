@@ -48,4 +48,4 @@ Uma *saga* é uma narrativa em prosa da Islândia medieval. *Rímur* são poemas
 
 Quem escreveu a saga, e se Ref foi uma pessoa real, não é dito. A data do texto é de séculos depois da época em que a história se passa. Os detalhes de Gest, de Bard e da fortaleza aparecem nas fontes de modo resumido, e o ensaio mistura enredo e opinião. Por isso, o que se pode afirmar com segurança é o enredo, e não os fatos por trás dele.
 
-Para empurrar as caixas até as marcas douradas, como Ref com seu navio, jogue [As caixas de Ref](/jogo-as-caixas-de-ref/).
+Para empurrar as caixas até as marcas douradas, como Ref com seu navio, jogue [As caixas de Ref](/pt/jogo-as-caixas-de-ref/).

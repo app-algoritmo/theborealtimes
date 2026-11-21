@@ -37,4 +37,4 @@ Uksáhkká, "door woman", lives under the door of the *goahti*, protects steppin
 
 Ganander blurs the daughters' roles, and different sources disagree on whether Juoksáhkká and Uksáhkká are the same. Nor is it known how much of this system is old and how much comes from contact with other peoples, and the sources, as summarised in the articles, do not settle the matter.
 
-To tap in time with the drum, at the instant the ring reaches the centre, play [The Áhkká's drum](/en/game-the-ahkka-drum/).
+To tap in time with the drum, at the instant the ring reaches the centre, play [The Áhkká's drum](/game-the-ahkka-drum/).

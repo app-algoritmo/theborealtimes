@@ -23,4 +23,4 @@ There are 16 face-down cards forming 8 pairs of objects. Turn two at a time; if 
 
 ## The story behind it
 
-Grave Bj 581 at Birka was excavated in the 19th century, and the skeleton was read as a warrior's. In 2017, DNA showed it was a woman. What she did in life is still debated. The pairs game is made up. Read the story in [The Birka warrior: the grave excavated in 1878 and the debate DNA reopened in 2017](/en/2026/11/14/guerreira-birka/).
+Grave Bj 581 at Birka was excavated in the 19th century, and the skeleton was read as a warrior's. In 2017, DNA showed it was a woman. What she did in life is still debated. The pairs game is made up. Read the story in [The Birka warrior: the grave excavated in 1878 and the debate DNA reopened in 2017](/the-birka-warrior-the-grave-excavated-in-1878/).

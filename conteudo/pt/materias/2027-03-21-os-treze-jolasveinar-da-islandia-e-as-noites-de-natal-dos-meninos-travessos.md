@@ -41,4 +41,4 @@ Os Jólasveinar são treze rapazes do folclore islandês que visitam as casas na
 
 As fontes consultadas não dão as datas das primeiras menções a cada Jólasveinn nem explicam como cada nome nasceu. Também não está claro quanto das travessuras vem de crenças antigas e quanto foi acrescentado pelos escritores dos séculos XIX e XX.
 
-Para esconder a comida certa antes que cada rapaz a roube, jogue [A ceia guardada](/jogo-a-ceia-guardada/).
+Para esconder a comida certa antes que cada rapaz a roube, jogue [A ceia guardada](/pt/jogo-a-ceia-guardada/).

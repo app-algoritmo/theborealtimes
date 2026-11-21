@@ -43,4 +43,4 @@ There is more than one theory. One ties the silence to abstentions linked to ven
 
 The sources do not agree on how Fenrir dies: heart pierced, in the *Völuspá* poem, and jaw torn apart, in *Vafþrúðnismál* and Snorri. What they all say is that Víðarr kills him to avenge Odin and that, after the end, he lives.
 
-To stop the marker at the right point five times and force the jaw apart before you miss three, play [Víðarr's shoe](/en/game-vidarrs-shoe/).
+To stop the marker at the right point five times and force the jaw apart before you miss three, play [Víðarr's shoe](/game-vidarrs-shoe/).

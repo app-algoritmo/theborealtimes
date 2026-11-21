@@ -23,4 +23,4 @@ A heavy stone slides from side to side. Tap to drop it onto the wall. Whatever s
 
 ## The story behind it
 
-The stone church at Hvalsey, in Greenland, has walls of stones weighing many tonnes. Stacking to the right rhythm is invented. Read the story in [Hvalsey: the stone church of Greenland and the wedding of 1408](/en/2027/02/28/hvalsey-a-igreja-de-pedra-da-groenlandia-e-o-casamento-de-1408/).
+The stone church at Hvalsey, in Greenland, has walls of stones weighing many tonnes. Stacking to the right rhythm is invented. Read the story in [Hvalsey: the stone church of Greenland and the wedding of 1408](/hvalsey-the-stone-church-of-greenland-and-the-wedding/).

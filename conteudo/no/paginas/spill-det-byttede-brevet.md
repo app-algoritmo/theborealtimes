@@ -23,4 +23,4 @@ Se hvilket brev som har seglet, følg det mens de tre bytter plass og trykk på 
 
 ## Historien bak
 
-Hos Saxo bytter Amleth ut meldingen som skulle drepe ham, og det er brevbærerne som dør. Brevbyttet i spillet er diktet opp. Les historien i [Amleth: den danske prinsen som lot som han var gal, og som Shakespeare gjorde til Hamlet](/no/2026/11/18/amleth-saxo-origem-hamlet/).
+Hos Saxo bytter Amleth ut meldingen som skulle drepe ham, og det er brevbærerne som dør. Brevbyttet i spillet er diktet opp. Les historien i [Amleth: den danske prinsen som lot som han var gal, og som Shakespeare gjorde til Hamlet](/no/amleth-den-danske-prinsen-som-lot-som-han-var-gal/).

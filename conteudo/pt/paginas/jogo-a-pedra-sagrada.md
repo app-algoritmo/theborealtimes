@@ -23,4 +23,4 @@ Toque e arraste a partir da pessoa: a direção dá o ângulo e a distância dá
 
 ## A história por trás
 
-Entre os sámi, o sieidi era um lugar de oferenda e respeito. O lançamento de pedras é invenção do jogo. Leia a história em [Sieidi: as pedras sagradas dos sámi e as oferendas deixadas diante delas](/2026/12/20/sieidi-pedras-sagradas-sami-oferendas/).
+Entre os sámi, o sieidi era um lugar de oferenda e respeito. O lançamento de pedras é invenção do jogo. Leia a história em [Sieidi: as pedras sagradas dos sámi e as oferendas deixadas diante delas](/pt/sieidi-pedras-sagradas-sami-oferendas/).

@@ -41,4 +41,4 @@ A small image of the Buddha, made in North India in the 6th century, ended up on
 
 The article says the statuette is believed to have come to Helgö in the Viking Age, which sits awkwardly with the 6th-century date and the chronology of the site, and it does not settle the point. Another text cited speaks of a copper torque on the neck, not a leather strap. The article also gives two dates for the settlement: from 200, and from the 3rd to the 8th century. The sources describe the Coptic piece in different ways.
 
-To find the hidden statuette after the pots are shuffled, play [Where is the Buddha?](/en/game-where-is-the-buddha/).
+To find the hidden statuette after the pots are shuffled, play [Where is the Buddha?](/game-where-is-the-buddha/).

@@ -23,4 +23,4 @@ See which letter has the seal, follow it while the three change places and tap i
 
 ## The story behind it
 
-In Saxo, Amleth changes the message that would have killed him, and the bearers die instead. The letter swapping in the game is made up. Read the story in [Amleth: the Danish prince who feigned madness and whom Shakespeare turned into Hamlet](/en/2026/11/18/amleth-saxo-origem-hamlet/).
+In Saxo, Amleth changes the message that would have killed him, and the bearers die instead. The letter swapping in the game is made up. Read the story in [Amleth: the Danish prince who feigned madness and whom Shakespeare turned into Hamlet](/amleth-the-danish-prince-who-feigned-madness/).

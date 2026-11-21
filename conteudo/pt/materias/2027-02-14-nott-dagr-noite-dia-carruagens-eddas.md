@@ -40,4 +40,4 @@ A *Gylfaginning*, em prosa, conta que Odin pôs Nótt e Dagr no céu e traz os c
 
 Os manuscritos divergem sobre a mãe de Dagr. O mais antigo, o U, faz de Jörð a mulher de Dellingr e mãe de Dagr, enquanto os R, W e T dão Nótt como mãe. Haukur Thorgeirsson argumenta que a versão do U nasceu de um encurtamento acidental do texto por um copista. O pai de Nótt aparece como Nörvi, Norfi ou Narfi. Otto Höfler propôs que Dagr talvez se ligue a Svipdagr, mas isso é teoria, não fato estabelecido. As fontes também não explicam o outro nome do cavalo da noite, Fjörsvartnir.
 
-Para equilibrar sóis e luas numa grade, com tantos de um quanto do outro, jogue [Dia e noite](/jogo-dia-e-noite/).
+Para equilibrar sóis e luas numa grade, com tantos de um quanto do outro, jogue [Dia e noite](/pt/jogo-dia-e-noite/).

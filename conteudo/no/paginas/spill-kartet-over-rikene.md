@@ -23,4 +23,4 @@ Kartet er delt inn i riker. Trykk på et rike for å male det: hvert trykk bytte
 
 ## Historien bak
 
-Knýtlinga saga, skrevet rundt 1250, forteller om danske konger fra Harald Blåtann til slutten av 1100-tallet. Å fargelegge kart er oppfunnet. Les historien i [Knýtlinga saga: Danmarks konger fra Harald Blåtann til 1100-tallet, skrevet på Island](/no/2027/01/31/knytlinga-saga-reis-da-dinamarca-harald-valdemar/).
+Knýtlinga saga, skrevet rundt 1250, forteller om danske konger fra Harald Blåtann til slutten av 1100-tallet. Å fargelegge kart er oppfunnet. Les historien i [Knýtlinga saga: Danmarks konger fra Harald Blåtann til 1100-tallet, skrevet på Island](/no/knytlinga-saga-danmarks-konger-fra-harald-blatann-til-1100/).

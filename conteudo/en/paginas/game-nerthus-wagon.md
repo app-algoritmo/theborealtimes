@@ -23,4 +23,4 @@ Drag the pieces forward or back, only in the direction they lie or stand. Clear 
 
 ## The story behind it
 
-Tacitus says Nerthus travelled the land in a covered wagon drawn by heifers, and that peace reigned while she passed. The grove of pieces is invented. Read the story in [Nerthus, the goddess of the covered wagon: what Tacitus tells and what no one knows](/en/2027/01/10/nerthus-deusa-germanica-tacito-germania-carroca/).
+Tacitus says Nerthus travelled the land in a covered wagon drawn by heifers, and that peace reigned while she passed. The grove of pieces is invented. Read the story in [Nerthus, the goddess of the covered wagon: what Tacitus tells and what no one knows](/nerthus-the-goddess-of-the-covered-wagon-what-tacitus-tells/).

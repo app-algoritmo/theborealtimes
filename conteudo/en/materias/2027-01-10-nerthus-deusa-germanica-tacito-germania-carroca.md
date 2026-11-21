@@ -43,4 +43,4 @@ The meaning of the name is unclear. "The powerful one" has been suggested, and l
 
 Since the rite is known from Tacitus's description, and he does not say where he took it from, it is wise to treat the account as what an outside observer recorded, not as the testimony of someone who took part. The description of peace and the drowning of the enslaved sit in the same paragraph, and the article does not explain that tension.
 
-To steer a wagon through a grove full of obstacles, play [Nerthus's wagon](/en/game-nerthus-wagon/).
+To steer a wagon through a grove full of obstacles, play [Nerthus's wagon](/game-nerthus-wagon/).

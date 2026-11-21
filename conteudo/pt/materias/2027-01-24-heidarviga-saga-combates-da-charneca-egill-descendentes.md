@@ -43,4 +43,4 @@ O artigo lista estudos recentes. Joanne Shortt Butler (2020) examina como as lac
 
 O artigo não dá a data de composição, nem o motivo de a considerarem possivelmente antiga. O resumo de Jón Grunnvíkingur foi feito de memória, e o que ele traz do trecho perdido não pode ser conferido com o manuscrito original, que queimou. O artigo também não descreve Borgarfjörður como cenário, apesar de ele aparecer num título de bibliografia sobre as sagas de Borgarfjörður.
 
-Para varrer uma charneca em busca de grupos escondidos, jogue [A charneca dos combates](/jogo-a-charneca-dos-combates/).
+Para varrer uma charneca em busca de grupos escondidos, jogue [A charneca dos combates](/pt/jogo-a-charneca-dos-combates/).

@@ -39,4 +39,4 @@ O cervo celeste Eikþyrnir está ligado ao nome de Heiðrún. Anatoly Liberman p
 
 O artigo diz que a etimologia de Heiðrún "continua debatida", e o mesmo vale para o nome alemão moderno Heidrun. A hipótese de Liberman é uma proposta de um estudioso, e não um fato. O artigo também está marcado como precisando de citações adicionais, de modo que o que ele afirma sobre a *Grímnismál* e a *Gylfaginning* merece ser conferido nos próprios textos. Não há aqui descrição de manuscritos, e a matéria não pode dizer mais sobre o hidromel do que as fontes citadas dizem.
 
-Para servir o hidromel em medidas exatas, com vasilhas sem marcas, jogue [O hidromel de Heiðrún](/jogo-o-hidromel-de-heidrun/).
+Para servir o hidromel em medidas exatas, com vasilhas sem marcas, jogue [O hidromel de Heiðrún](/pt/jogo-o-hidromel-de-heidrun/).

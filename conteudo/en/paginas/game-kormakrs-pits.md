@@ -23,4 +23,4 @@ Six pits are yours, in the bottom row, and six are your rival's, in the top row;
 
 ## The story behind it
 
-The Kormáks saga tells how Kormákr, an Icelandic poet of the 10th century, loves Steingerðr; because of a curse he arrives late for the wedding and she marries another man. The seed game with the rival is invented. Read the story in [Kormáks saga: the poet Kormákr, Steingerðr and a wedding that comes too late](/en/2027/01/24/kormaks-saga-kormakr-steingerdr-poeta-islandia/).
+The Kormáks saga tells how Kormákr, an Icelandic poet of the 10th century, loves Steingerðr; because of a curse he arrives late for the wedding and she marries another man. The seed game with the rival is invented. Read the story in [Kormáks saga: the poet Kormákr, Steingerðr and a wedding that comes too late](/kormaks-saga-the-poet-kormakr-steingerdr-and-a-wedding/).

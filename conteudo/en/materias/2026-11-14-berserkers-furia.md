@@ -40,4 +40,4 @@ The idea that berserkers ate the mushroom *Amanita muscaria* to enter their fury
 
 Historians also do not know whether berserkers existed as an organised group, as the sources suggest, or whether they are in part a literary theme, used to lend fear and fascination to battles.
 
-To channel the fury without losing control, play [Berserker fury](/en/game-berserker-fury/).
+To channel the fury without losing control, play [Berserker fury](/game-berserker-fury/).

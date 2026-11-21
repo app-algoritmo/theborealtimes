@@ -23,4 +23,4 @@ Les uttrykket og trykk på riktig svar (eller bruk tastene 1, 2 og 3). Hver gåt
 
 ## Historien bak
 
-Skaldene brukte kenninger, uttrykk som «hvalveien» for hav. Gåtene i spillet følger den modellen. Les historien i [Kenninger: hvordan skaldene snakket om gull, skip og slag uten å si ordet](/no/2026/11/17/kennings-poesia-escaldica/).
+Skaldene brukte kenninger, uttrykk som «hvalveien» for hav. Gåtene i spillet følger den modellen. Les historien i [Kenninger: hvordan skaldene snakket om gull, skip og slag uten å si ordet](/no/kenninger-hvordan-skaldene-snakket-om-gull-skip-og-slag/).

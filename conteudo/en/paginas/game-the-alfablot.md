@@ -23,4 +23,4 @@ Each offering has an altar of the same colour. Drag from an offering to its alta
 
 ## The story behind it
 
-The Álfablót was an offering to the elves, mentioned in the poetry of Sigvatr Þórðarson. The paths in the game are made up. Read the story in [Álfablót: the sacrifice to the elves, the door closed to a Christian skald and what the sources say about the rite](/en/2026/11/19/alfablot-sacrificio-aos-elfos-sigvatr/).
+The Álfablót was an offering to the elves, mentioned in the poetry of Sigvatr Þórðarson. The paths in the game are made up. Read the story in [Álfablót: the sacrifice to the elves, the door closed to a Christian skald and what the sources say about the rite](/alfablot-the-sacrifice-to-the-elves-the-door-closed/).

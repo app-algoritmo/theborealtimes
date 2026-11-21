@@ -43,4 +43,4 @@ A fonte propõe que a saga pode refletir a situação da Islândia nos séculos 
 
 A data de composição é dada como "talvez" dos séculos XVI ou XVII, e a origem do autor é "provavelmente" o leste da Islândia. Os motivos sociais e políticos da saga aparecem como "pode refletir" e "pode ter querido". A fonte descreve a Droplaugarsona saga como uma narrativa semelhante sobre os mesmos irmãos, sem dar mais detalhes.
 
-Para apagar tochas de um vale, uma a uma, sem acender outras sem querer, jogue [As tochas do vale](/jogo-as-tochas-do-vale/).
+Para apagar tochas de um vale, uma a uma, sem acender outras sem querer, jogue [As tochas do vale](/pt/jogo-as-tochas-do-vale/).

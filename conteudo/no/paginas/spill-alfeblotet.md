@@ -23,4 +23,4 @@ Hver gave har et alter i samme farge. Dra fra en gave til alteret dens og tegn e
 
 ## Historien bak
 
-Alfeblotet var et offer til alvene, nevnt i diktningen til Sigvat Tordsson. Stiene i spillet er diktet opp. Les historien i [Alvablót: offeret til alvene, døra som ble lukket for en kristen skald og hva kildene sier om ritualet](/no/2026/11/19/alfablot-sacrificio-aos-elfos-sigvatr/).
+Alfeblotet var et offer til alvene, nevnt i diktningen til Sigvat Tordsson. Stiene i spillet er diktet opp. Les historien i [Alvablót: offeret til alvene, døra som ble lukket for en kristen skald og hva kildene sier om ritualet](/no/alvablot-offeret-til-alvene-dora-som-ble-lukket/).

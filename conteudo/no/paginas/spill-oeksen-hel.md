@@ -23,4 +23,4 @@ Forsvar slaglinjen. Vendiske krigere rykker fram i tre baner. Trykk på venstre 
 
 ## Historien bak
 
-I 1043, på Lyrskov hede, slo Magnus den gode en hær av vendere, og kildene nevner Olav den helliges øks Hel. Slagene på rad er oppfunnet. Les historien i [Magnus den gode og slaget på Lyrskov hede i 1043 mot venderne](/no/2027/03/07/magnus-o-bom-e-a-batalha-de-lyrskov-hede-em-1043-contra-os-wendos/).
+I 1043, på Lyrskov hede, slo Magnus den gode en hær av vendere, og kildene nevner Olav den helliges øks Hel. Slagene på rad er oppfunnet. Les historien i [Magnus den gode og slaget på Lyrskov hede i 1043 mot venderne](/no/magnus-den-gode-og-slaget-pa-lyrskov-hede-i-1043-mot/).

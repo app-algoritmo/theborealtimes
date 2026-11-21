@@ -23,4 +23,4 @@ At Ribe, a bone amulet with runes asked for protection against a dwarf. Dwarves 
 
 ## The story behind it
 
-The Ribe skull, of about 725, bears runes that seem to invoke Odin and protect against a dwarf. The dwarves that invade the market and the rhythm of the game are invention. Read the story in [The Ribe skull: runes on an amulet against a dwarf, around the year 725](/en/2027/03/28/o-cranio-de-ribe-runas-de-um-amuleto-contra-um-anao-por-volta-do-ano-725/).
+The Ribe skull, of about 725, bears runes that seem to invoke Odin and protect against a dwarf. The dwarves that invade the market and the rhythm of the game are invention. Read the story in [The Ribe skull: runes on an amulet against a dwarf, around the year 725](/the-ribe-skull-runes-on-an-amulet-against-a-dwarf-around/).

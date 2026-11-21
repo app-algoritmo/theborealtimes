@@ -35,4 +35,4 @@ O conto pertence a um tipo conhecido internacionalmente, que os catálogos de fo
 
 Algumas leituras veem na história uma imagem das provas do casamento, em que a noiva deve aceitar o que é estranho no outro. Outras notam que o texto é duro com as duas primeiras jovens, e que as versões variam na maneira de tratá-las. Como em muitos contos, a moral não é dita, e cada época a interpreta à sua maneira. O ritmo do conto, com o pedido do verme e a resposta da noiva repetidos a cada camisa, é típico da narrativa oral, e ajudava quem contava a manter a atenção de quem ouvia.
 
-Para tirar, uma a uma, as dez peles do verme, acertando a pancada do chicote no instante certo, jogue [O chicote da noiva](/jogo-o-chicote-da-noiva/).
+Para tirar, uma a uma, as dez peles do verme, acertando a pancada do chicote no instante certo, jogue [O chicote da noiva](/pt/jogo-o-chicote-da-noiva/).

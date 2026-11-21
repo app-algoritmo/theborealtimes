@@ -45,4 +45,4 @@ The *Primary Chronicle* keeps a treaty of 911 between the Rus and Byzantium, wit
 
 The authenticity and the date of the treaty are debated. It is not known whether the text we have is a faithful copy of an original, and the Norse forms of the names are reconstructions by scholars, not certain readings.
 
-To seal each document at the right moment, play [Scroll, seal and quill](/en/game-scroll-seal-and-quill/).
+To seal each document at the right moment, play [Scroll, seal and quill](/game-scroll-seal-and-quill/).

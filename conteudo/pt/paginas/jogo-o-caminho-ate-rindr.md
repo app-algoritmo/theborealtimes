@@ -23,4 +23,4 @@ Cada casa tem um trecho de trilha reto ou em curva. Toque numa casa para girá-l
 
 ## A história por trás
 
-Nas fontes nórdicas, Rindr é a mãe de Váli, filho de Odin. Em Saxo Grammaticus, ela vira a princesa Rinda, filha do rei dos rutenos, e Odin se disfarça para chegar até ela. Girar trilhas é invenção. Leia a história em [Rindr: a mãe de Váli, o feitiço de Odin e a princesa Rinda de Saxo Gramático](/2027/02/07/rindr-mae-de-vali-odin-saxo-rinda/).
+Nas fontes nórdicas, Rindr é a mãe de Váli, filho de Odin. Em Saxo Grammaticus, ela vira a princesa Rinda, filha do rei dos rutenos, e Odin se disfarça para chegar até ela. Girar trilhas é invenção. Leia a história em [Rindr: a mãe de Váli, o feitiço de Odin e a princesa Rinda de Saxo Gramático](/pt/rindr-mae-de-vali-odin-saxo-rinda/).

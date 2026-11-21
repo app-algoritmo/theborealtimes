@@ -23,4 +23,4 @@ Osborn keeps the king's hares in the field. Now and then a hare turns orange and
 
 ## The story behind it
 
-In Asbjørnsen's tale in Dasent's translation, Osborn keeps the king's hares with a magic pipe that scatters and gathers whatever he wishes. The hares that run for the edge of the field are invention. Read the story in [Osborn's pipe and the king's hares: a tale from the Asbjørnsen collection](/en/2027/03/21/a-flauta-de-osborn-e-as-lebres-do-rei-conto-da-colecao-de-asbjornsen/).
+In Asbjørnsen's tale in Dasent's translation, Osborn keeps the king's hares with a magic pipe that scatters and gathers whatever he wishes. The hares that run for the edge of the field are invention. Read the story in [Osborn's pipe and the king's hares: a tale from the Asbjørnsen collection](/osborn-s-pipe-and-the-king-s-hares-a-tale/).

@@ -23,4 +23,4 @@ As cobras se erguem das tocas, uma por vez. Observe a ordem e toque nas tocas na
 
 ## A história por trás
 
-Nas sagas, Ragnar Lodbrok morre no poço de cobras do rei Ælla da Nortúmbria, cantando. É uma lenda, não um registro histórico confirmado. O jogo de memória é invenção. Leia a história em [Ragnar Lodbrok e o poço de cobras: o herói das sagas e o que as crônicas guardaram dele](/2026/11/14/ragnar-lodbrok-cobras/).
+Nas sagas, Ragnar Lodbrok morre no poço de cobras do rei Ælla da Nortúmbria, cantando. É uma lenda, não um registro histórico confirmado. O jogo de memória é invenção. Leia a história em [Ragnar Lodbrok e o poço de cobras: o herói das sagas e o que as crônicas guardaram dele](/pt/ragnar-lodbrok-cobras/).

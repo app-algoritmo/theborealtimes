@@ -23,4 +23,4 @@ Led den hvite bjørnen gjennom isblandingen til slottet i det motsatte hjørnet.
 
 ## Historien bak
 
-I eventyret følger prinsessen den hvite bjørnen, som er den fortryllede kong Valemon, til slottet til en heks. Labyrinten er oppfunnet. Les historien i [Kvitebjørn kong Valemon: Asbjørnsen og Moes eventyr om en fortryllet brudgom](/no/2027/03/07/o-urso-branco-rei-valemon-conto-de-asbjornsen-e-moe-sobre-um-noivo-enfeiticado/).
+I eventyret følger prinsessen den hvite bjørnen, som er den fortryllede kong Valemon, til slottet til en heks. Labyrinten er oppfunnet. Les historien i [Kvitebjørn kong Valemon: Asbjørnsen og Moes eventyr om en fortryllet brudgom](/no/kvitebjorn-kong-valemon-asbjornsen-og-moes-eventyr-om/).

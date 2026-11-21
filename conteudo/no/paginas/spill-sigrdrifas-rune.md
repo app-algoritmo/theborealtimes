@@ -23,4 +23,4 @@ Tallene viser hvor mange ruter på rad som skal fylles i hver rad og kolonne, i 
 
 ## Historien bak
 
-I Sigrdrífumál lærer valkyrjen Sigurd runer. Ledetrådrutenettet er diktet opp. Les historien i [Sigrdrífumál: valkyrjen som våknet og lærte Sigurd runene](/no/2026/12/06/sigrdrifumal-valquiria-ensina-runas/).
+I Sigrdrífumál lærer valkyrjen Sigurd runer. Ledetrådrutenettet er diktet opp. Les historien i [Sigrdrífumál: valkyrjen som våknet og lærte Sigurd runene](/no/sigrdrifumal-valkyrjen-som-vaknet-og-laerte-sigurd-runene/).

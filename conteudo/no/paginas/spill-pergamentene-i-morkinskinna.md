@@ -23,4 +23,4 @@ Sveip, eller bruk piltastene, for å skyve alle pergamentene til én side. To me
 
 ## Historien bak
 
-Morkinskinna betyr «muggent pergament»: det er en kongesaga om Norge skrevet på Island omkring 1220, med rundt 270 strofer skaldekunst. Tallene er oppfunnet. Les historien i [Morkinskinna, det «muggne pergamentet»: kongesagaen om Norge skrevet på Island omkring 1220](/no/2027/01/10/morkinskinna-pergaminho-bolorento-saga-dos-reis/).
+Morkinskinna betyr «muggent pergament»: det er en kongesaga om Norge skrevet på Island omkring 1220, med rundt 270 strofer skaldekunst. Tallene er oppfunnet. Les historien i [Morkinskinna, det «muggne pergamentet»: kongesagaen om Norge skrevet på Island omkring 1220](/no/morkinskinna-det-muggne-pergamentet-kongesagaen-om-norge/).

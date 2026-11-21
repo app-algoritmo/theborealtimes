@@ -23,4 +23,4 @@ Scandinavians of the 11th century carved runes into a marble lion, now in front 
 
 ## The story behind it
 
-The marble lion from Piraeus, in Venice, has three runic inscriptions from the 11th century. The runes on the stones in the game, the pairs and the rhythm are invention. Read the story in [The Piraeus Lion: the runes Vikings carved on a Greek marble lion, now in Venice](/en/2027/04/04/o-leao-do-pireu-as-runas-que-vikings-gravaram-num-leao-de-marmore-grego-hoje-em-veneza/).
+The marble lion from Piraeus, in Venice, has three runic inscriptions from the 11th century. The runes on the stones in the game, the pairs and the rhythm are invention. Read the story in [The Piraeus Lion: the runes Vikings carved on a Greek marble lion, now in Venice](/the-piraeus-lion-the-runes-vikings-carved-on-a-greek-marble/).

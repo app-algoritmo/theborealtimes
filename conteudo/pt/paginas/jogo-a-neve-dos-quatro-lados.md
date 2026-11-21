@@ -23,4 +23,4 @@ No Fimbulvetr a neve chega de todos os lados. Quatro montes de neve crescem ao r
 
 ## A história por trás
 
-Na Edda em prosa, Snorri diz que o Fimbulvetr traz três invernos seguidos sem verão e que a neve vem de todos os lados. Os montes a varrer e o ritmo do jogo são invenção. Leia a história em [Fimbulvetr: o inverno de três anos sem verão que antecede o Ragnarök](/2027/03/28/fimbulvetr-o-inverno-de-tres-anos-sem-verao-que-antecede-o-ragnarok/).
+Na Edda em prosa, Snorri diz que o Fimbulvetr traz três invernos seguidos sem verão e que a neve vem de todos os lados. Os montes a varrer e o ritmo do jogo são invenção. Leia a história em [Fimbulvetr: o inverno de três anos sem verão que antecede o Ragnarök](/pt/fimbulvetr-o-inverno-de-tres-anos-sem-verao-que-antecede-o-ragnarok/).

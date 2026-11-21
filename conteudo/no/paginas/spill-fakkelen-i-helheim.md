@@ -23,4 +23,4 @@ Helheim er mørkt, og bare lyset fra fakkelen viser veien. Dra en finger (eller 
 
 ## Historien bak
 
-I Snorres Edda rir Hermod ni netter i mørket før han kommer til broen Gjallarbrú. Labyrinten er diktet opp for spillet. Les historien i [Hel og Helheim: dronningen over de døde som bodde i et hus der Sult var tallerkenen](/no/2026/11/20/hel-helheim-rainha-dos-mortos/).
+I Snorres Edda rir Hermod ni netter i mørket før han kommer til broen Gjallarbrú. Labyrinten er diktet opp for spillet. Les historien i [Hel og Helheim: dronningen over de døde som bodde i et hus der Sult var tallerkenen](/no/hel-og-helheim-dronningen-over-de-dode-som-bodde-i-et-hus/).

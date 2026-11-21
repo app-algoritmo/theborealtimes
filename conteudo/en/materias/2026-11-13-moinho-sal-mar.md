@@ -36,4 +36,4 @@ Literary historians see the two stories as relatives, but there is no proof that
 
 Even without proof of direct kinship, the two accounts share a warning: whoever takes hold of a power they cannot control ends up swallowed by it.
 
-To fill a ship with salt without sinking it, play [The mill that grinds salt](/en/game-salt-mill/).
+To fill a ship with salt without sinking it, play [The mill that grinds salt](/game-salt-mill/).

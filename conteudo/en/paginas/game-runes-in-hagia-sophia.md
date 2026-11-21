@@ -23,4 +23,4 @@ Search the marble panel for the five runes among dozens of scratches and tap eac
 
 ## The story behind it
 
-In Hagia Sophia in Istanbul there are runic graffiti attributed to a certain Halfdan. The runes in the game are made up. Read the story in [Halfdan at Hagia Sophia: the runes a Norseman scratched into the marble of Constantinople](/en/2026/11/17/halfdan-runas-hagia-sophia/).
+In Hagia Sophia in Istanbul there are runic graffiti attributed to a certain Halfdan. The runes in the game are made up. Read the story in [Halfdan at Hagia Sophia: the runes a Norseman scratched into the marble of Constantinople](/halfdan-at-hagia-sophia-the-runes-a-norseman-scratched/).

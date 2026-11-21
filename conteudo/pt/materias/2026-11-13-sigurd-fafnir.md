@@ -42,4 +42,4 @@ Na Suécia, uma rocha em Ramsund traz a mesma sequência gravada em runas e figu
 
 O dragão da saga não cospe fogo. É uma serpente enorme, com peçonha, que se arrasta pelo chão. Foi a tradição posterior que acrescentou as chamas.
 
-Para tentar a manobra de Sigurd, jogue [A cova do dragão](/jogo-cova-do-dragao/).
+Para tentar a manobra de Sigurd, jogue [A cova do dragão](/pt/jogo-cova-do-dragao/).

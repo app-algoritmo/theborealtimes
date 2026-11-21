@@ -23,4 +23,4 @@ At Ægir's feast the gods drink fast. Five horns stand on the table and slowly e
 
 ## The story behind it
 
-In the prose introduction to the Lokasenna, Ægir welcomes the gods to a feast where the ale serves itself and the servants Eldir and Fimafeng are praised. The horns that empty and the rhythm of the game are invention. Read the story in [Ægir: the sea giant who brews ale for the gods and the feast of the Lokasenna](/en/2027/03/21/aegir-o-gigante-do-mar-que-oferece-cerveja-aos-deuses-e-a-festa-da-lokasenna/).
+In the prose introduction to the Lokasenna, Ægir welcomes the gods to a feast where the ale serves itself and the servants Eldir and Fimafeng are praised. The horns that empty and the rhythm of the game are invention. Read the story in [Ægir: the sea giant who brews ale for the gods and the feast of the Lokasenna](/aegir-the-sea-giant-who-brews-ale-for-the-gods/).

@@ -23,4 +23,4 @@ I fortellingen om islendingen som kunne sagaer, skjer alt i rekkefølge. En scen
 
 ## Historien bak
 
-I Íslendings þáttr sögufróða forteller den unge islendingen sagaer for kong Harald, tør ikke fortelle den om kongens reiser til jul og sier senere at han lærte den av Halldórr Snorrason. De tre boksene og rytmen i spillet er oppdiktet. Les historien i [Islendingen som fortalte sagaer: juleberetningen ved kong Harald Hardrådes hoff](/no/2027/04/04/o-islandes-que-contava-sagas-a-historia-de-natal-na-corte-do-rei-harald-hardrada/).
+I Íslendings þáttr sögufróða forteller den unge islendingen sagaer for kong Harald, tør ikke fortelle den om kongens reiser til jul og sier senere at han lærte den av Halldórr Snorrason. De tre boksene og rytmen i spillet er oppdiktet. Les historien i [Islendingen som fortalte sagaer: juleberetningen ved kong Harald Hardrådes hoff](/no/islendingen-som-fortalte-sagaer-juleberetningen-ved-kong/).

@@ -23,4 +23,4 @@ Uma vittra faz jarras de leite e pedras descerem por uma trilha de três faixas.
 
 ## A história por trás
 
-As vittror são seres do norte da Suécia que vivem sob a terra e têm gado próprio; podem ficar perigosas se forem desrespeitadas. Recolher leite entre pedras é invenção. Leia a história em [Vittra: os seres subterrâneos do norte da Suécia e o leite entre as pedras](/2027/02/07/vittra-seres-subterraneos-norte-da-suecia/).
+As vittror são seres do norte da Suécia que vivem sob a terra e têm gado próprio; podem ficar perigosas se forem desrespeitadas. Recolher leite entre pedras é invenção. Leia a história em [Vittra: os seres subterrâneos do norte da Suécia e o leite entre as pedras](/pt/vittra-seres-subterraneos-norte-da-suecia/).

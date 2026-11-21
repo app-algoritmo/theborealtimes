@@ -23,4 +23,4 @@ Rurik and his men row upriver. Tap (or use the arrows) on the left and on the ri
 
 ## The story behind it
 
-The Primary Chronicle says Rurik arrived at Ladoga and Novgorod around 862. The strokes in the game are made up. Read the story in [Rurik and Oleg: how the Primary Chronicle tells of the call to the Varangians that gave rise to Kyivan Rus', and what archaeology adds](/en/2026/11/19/rurik-oleg-rus-cronica-primaria/).
+The Primary Chronicle says Rurik arrived at Ladoga and Novgorod around 862. The strokes in the game are made up. Read the story in [Rurik and Oleg: how the Primary Chronicle tells of the call to the Varangians that gave rise to Kyivan Rus', and what archaeology adds](/rurik-and-oleg-how-the-primary-chronicle-tells-of-the-call/).

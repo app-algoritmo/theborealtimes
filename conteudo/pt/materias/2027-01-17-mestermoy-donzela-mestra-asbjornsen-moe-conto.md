@@ -39,4 +39,4 @@ O artigo nomeia contos aparentados: "Os filhos de dois reis", "A ninfa da água"
 
 O artigo diz que a moça que ajuda o herói "pode ser" a filha do gigante ou uma de suas filhas, de modo que sua identidade não é fixa. A forma-base proposta por Joseph Jacobs é uma reconstrução, e não um texto registrado. A ligação com *A Tempestade*, de Shakespeare, é descrita como "possível antecessor", e não como fonte confirmada. E o artigo dá "Filha do Diabo" como nome alternativo, sem explicar o quanto é usado.
 
-Para pôr os fardos de um estábulo em ordem, um espaço vazio por vez, jogue [O estábulo da Mestermøy](/jogo-o-estabulo-da-mestermoy/).
+Para pôr os fardos de um estábulo em ordem, um espaço vazio por vez, jogue [O estábulo da Mestermøy](/pt/jogo-o-estabulo-da-mestermoy/).

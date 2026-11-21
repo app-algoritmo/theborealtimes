@@ -37,4 +37,4 @@ It is also unknown whether the saga's *sólarsteinn* was really a crystal. The w
 
 What is known is that finding one's way at sea in Viking times depended on a trained eye, memory and attention to what nature offered, and that the idea of a crystal able to see the sun through the clouds still fascinates those who study the subject.
 
-To try to find the hidden sun, play [The sunstone](/en/game-the-sunstone/).
+To try to find the hidden sun, play [The sunstone](/game-the-sunstone/).

@@ -44,4 +44,4 @@ O reino foi repartido entre os vencedores. Eirik e seu irmão Sveinn governaram 
 
 O mais antigo relato é de Adão de Bremen, por volta de 1080, e há outros em Oddr Snorrason, na Fagrskinna, na Ágrip e na Historia Norwegie. A versão mais detalhada é de Snorri, no século XIII, bem mais tarde que os fatos, e isso torna cuidadoso tomar cada detalhe como certo.
 
-Para acertar os alvos sem romper o arco, jogue [A batalha de Svolder](/jogo-a-batalha-de-svolder/).
+Para acertar os alvos sem romper o arco, jogue [A batalha de Svolder](/pt/jogo-a-batalha-de-svolder/).

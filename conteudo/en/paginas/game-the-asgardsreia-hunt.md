@@ -23,4 +23,4 @@ You play the light pieces, which go up. Tap a piece and then the dark square to 
 
 ## The story behind it
 
-Ghostly riders, hounds and storm make up the Wild Hunt, called Åsgårdsreia or Oskoreia in the North. The capture board is invented. Read the story in [Åsgårdsreia: the Wild Hunt that Norway heard passing in midwinter](/en/2026/12/27/asgardsreia-cacada-selvagem-oskoreia/).
+Ghostly riders, hounds and storm make up the Wild Hunt, called Åsgårdsreia or Oskoreia in the North. The capture board is invented. Read the story in [Åsgårdsreia: the Wild Hunt that Norway heard passing in midwinter](/asgardsreia-the-wild-hunt-that-norway-heard-passing/).

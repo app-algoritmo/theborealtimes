@@ -35,4 +35,4 @@ Nos contos noruegueses, os trolls vivem nas montanhas e nas florestas e, em vár
 
 Os contos de Asbjørnsen e Moe são de domínio público e podem ser lidos hoje em muitas edições e traduções, inclusive em versões digitalizadas pela Biblioteca Nacional da Noruega.
 
-Para tentar o truque do saco escondido, jogue [Askeladden e o troll](/jogo-askeladden-e-o-troll/).
+Para tentar o truque do saco escondido, jogue [Askeladden e o troll](/pt/jogo-askeladden-e-o-troll/).

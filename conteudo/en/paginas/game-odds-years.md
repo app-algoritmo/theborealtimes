@@ -23,4 +23,4 @@ card:
 
 ## The story behind it
 
-Icelandic tradition gives Örvar-Oddr about 300 years of life. The numbers in the game are made up. Read the story in [Örvar-Oddr and the horse Faxi: the hero who buried his horse to escape a prophecy](/en/2026/11/20/orvar-oddr-faxi-profecia/).
+Icelandic tradition gives Örvar-Oddr about 300 years of life. The numbers in the game are made up. Read the story in [Örvar-Oddr and the horse Faxi: the hero who buried his horse to escape a prophecy](/orvar-oddr-and-the-horse-faxi-the-hero-who-buried-his-horse/).

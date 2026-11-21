@@ -23,4 +23,4 @@ Mímir's head asks five questions about the story. Tap the right answer (or use 
 
 ## The story behind it
 
-In the Norse sources, Mímir's well lies under a root of Yggdrasil, and Mímir's head appears in the Ynglinga saga. The questions in the game are made up. Read the story in [Mímir and the well of wisdom: the eye Odin gave and the head that kept speaking](/en/2026/11/15/mimir-poco-sabedoria/).
+In the Norse sources, Mímir's well lies under a root of Yggdrasil, and Mímir's head appears in the Ynglinga saga. The questions in the game are made up. Read the story in [Mímir and the well of wisdom: the eye Odin gave and the head that kept speaking](/mimir-and-the-well-of-wisdom-the-eye-odin-gave-and-the-head/).

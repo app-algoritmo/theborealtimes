@@ -44,4 +44,4 @@ Um esquilo faz o caminho entre a copa e as raízes de uma árvore enorme e liga 
 
 O significado do nome é aceito em geral, mas não é certo, e Vigfússon e Bugge propuseram outras leituras. O papel do esquilo pode ser só um detalhe de enfeite. A existência do gavião depende de Snorri. As leituras de Davidson, de Lindow e de Thorington Jr. e Ferrell são teorias. As fontes usadas aqui não dão o número da estrofe da Grímnismál nem os manuscritos.
 
-Para achar os pares de criaturas da árvore virando as cartas, jogue [As criaturas da árvore](/jogo-as-criaturas-da-arvore/).
+Para achar os pares de criaturas da árvore virando as cartas, jogue [As criaturas da árvore](/pt/jogo-as-criaturas-da-arvore/).

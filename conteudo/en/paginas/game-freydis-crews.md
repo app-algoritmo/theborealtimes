@@ -23,4 +23,4 @@ Each square of the 4-by-4 board holds a crew with a certain number of men. Slide
 
 ## The story behind it
 
-In the Saga of the Greenlanders, Freydís makes a deal to share profits equally with the Icelandic brothers Helgi and Finnbogi for a voyage to Vinland and secretly brings more men than agreed; in the Saga of Erik the Red, she appears only once, in the attack by the Skrælingar. The merging crews are invented. Read the story in [Freydís Eiríksdóttir: two sagas, two Freydíses, and Vinland between them](/en/2027/01/24/freydis-eiriksdottir-vinlandia-duas-sagas/).
+In the Saga of the Greenlanders, Freydís makes a deal to share profits equally with the Icelandic brothers Helgi and Finnbogi for a voyage to Vinland and secretly brings more men than agreed; in the Saga of Erik the Red, she appears only once, in the attack by the Skrælingar. The merging crews are invented. Read the story in [Freydís Eiríksdóttir: two sagas, two Freydíses, and Vinland between them](/freydis-eiriksdottir-two-sagas-two-freydises-and-vinland/).

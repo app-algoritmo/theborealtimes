@@ -48,4 +48,4 @@ Lejre is the place that joins a saga, an English poem and an excavation. There i
 
 The dates given on the page do not fit together perfectly: the hall is from the mid tenth century, and the artefacts place the halls and the settlement between about 600 and 900, so I treat the dates as approximate. Thietmar wrote about eighty years after the events and was a Christian, and the page does not mention traces of the sacrifices. The link with Heorot and with Hrólfr Kraki is a hypothesis.
 
-To collect the gold threads and the bronze of the prince of Grydehøj, play [The Grydehøj mound](/en/game-the-grydehoj-mound/).
+To collect the gold threads and the bronze of the prince of Grydehøj, play [The Grydehøj mound](/game-the-grydehoj-mound/).

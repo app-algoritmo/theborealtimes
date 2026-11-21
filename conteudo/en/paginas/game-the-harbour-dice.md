@@ -23,4 +23,4 @@ Tap Roll to throw the die: each result adds to the voyage haul on the boat. If a
 
 ## The story behind it
 
-Among the Vanir, Njörðr is the lord of wind, sea and fishing. The dice game and the harbour are invented. Read the story in [Njörðr: the god of the sea and wealth who married Skaði and could not stand the mountains](/en/2026/12/27/njordr-deus-do-mar-skadi-nootun/).
+Among the Vanir, Njörðr is the lord of wind, sea and fishing. The dice game and the harbour are invented. Read the story in [Njörðr: the god of the sea and wealth who married Skaði and could not stand the mountains](/njordr-the-god-of-the-sea-and-wealth-who-married-skadi/).

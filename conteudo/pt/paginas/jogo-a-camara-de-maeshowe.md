@@ -23,4 +23,4 @@ Há uma sequência secreta de 4 runas, de 6 tipos possíveis (podem repetir). To
 
 ## A história por trás
 
-Em Maeshowe, nas ilhas Órcades, vikings deixaram inscrições rúnicas nas paredes. A sequência secreta é invenção. Leia a história em [Maeshowe: o túmulo de cinco mil anos onde nórdicos escreveram nas paredes](/2026/12/06/maeshowe-runas-vikings-orcadas/).
+Em Maeshowe, nas ilhas Órcades, vikings deixaram inscrições rúnicas nas paredes. A sequência secreta é invenção. Leia a história em [Maeshowe: o túmulo de cinco mil anos onde nórdicos escreveram nas paredes](/pt/maeshowe-runas-vikings-orcadas/).

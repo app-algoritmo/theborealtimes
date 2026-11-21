@@ -38,4 +38,4 @@ Mas os trajes são fantasia. Os capacetes com asas ou chifres, por exemplo, não
 
 Os grupos ensaiam por meses, escrevem sátiras sobre a vida local e preparam seus números e fantasias. A galera é construída por voluntários, com cabeça de dragão e escudos pintados. Há festivais menores em outras localidades das ilhas, em datas diferentes entre janeiro e março. O contraste entre meses de trabalho e alguns minutos de fogo é parte do sentido da festa. Para muitos moradores, a noite é uma festa da comunidade, e o fogo é só o fim dela.
 
-Para montar a galera peça por peça antes que o tempo acabe, jogue [A galera de Up Helly Aa](/jogo-a-galera-de-up-helly-aa/).
+Para montar a galera peça por peça antes que o tempo acabe, jogue [A galera de Up Helly Aa](/pt/jogo-a-galera-de-up-helly-aa/).

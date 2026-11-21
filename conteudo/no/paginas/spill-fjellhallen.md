@@ -23,4 +23,4 @@ Du ble tatt inn i fjellet. Dra sidelengs (eller bruk piltastene) for å unngå d
 
 ## Historien bak
 
-I norske sagn kan den som er bergtatt komme tilbake, men forandret. Hallen og steinene er diktet opp for spillet. Les historien i [Bergtatt: den norske troen på dem som ble tatt inn i fjellet](/no/2026/11/20/bergtatt-levado-pela-montanha/).
+I norske sagn kan den som er bergtatt komme tilbake, men forandret. Hallen og steinene er diktet opp for spillet. Les historien i [Bergtatt: den norske troen på dem som ble tatt inn i fjellet](/no/bergtatt-den-norske-troen-pa-dem-som-ble-tatt-inn-i-fjellet/).

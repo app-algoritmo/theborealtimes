@@ -23,4 +23,4 @@ Ved Ales stenar tegner 59 blokker et skip på 67 meter. Tolv plasser danner omri
 
 ## Historien bak
 
-I Kåseberga i Skåne tegner 59 blokker på opptil 1800 kilo et skip på 67 meter, som radiokarbon daterer til omkring 1400 år siden. De tolv plassene i spillet, markøren og rytmen er oppdiktet. Les historien i [Ales stenar: skipssetningen i Sverige og debatten om alderen](/no/2027/03/28/ales-stenar-o-navio-de-pedra-da-suecia-e-o-debate-sobre-a-sua-idade/).
+I Kåseberga i Skåne tegner 59 blokker på opptil 1800 kilo et skip på 67 meter, som radiokarbon daterer til omkring 1400 år siden. De tolv plassene i spillet, markøren og rytmen er oppdiktet. Les historien i [Ales stenar: skipssetningen i Sverige og debatten om alderen](/no/ales-stenar-skipssetningen-i-sverige-og-debatten-om-alderen/).

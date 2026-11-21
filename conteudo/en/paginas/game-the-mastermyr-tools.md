@@ -23,4 +23,4 @@ Move the 4 tools from the first peg to the last, one at a time: tap a peg to pic
 
 ## The story behind it
 
-The Mästermyr chest, found on Gotland in 1936, held more than 200 tools. The tower of pegs is invented. Read the story in [The Mästermyr chest: more than two hundred tools of a Viking craftsman found in a Gotland mire](/en/2027/01/03/mastermyr-bau-de-ferramentas-gotland/).
+The Mästermyr chest, found on Gotland in 1936, held more than 200 tools. The tower of pegs is invented. Read the story in [The Mästermyr chest: more than two hundred tools of a Viking craftsman found in a Gotland mire](/the-mastermyr-chest-more-than-two-hundred-tools-of-a-viking/).

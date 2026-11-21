@@ -23,4 +23,4 @@ Gefjon vil skjære jorda i tomter. Dra fra en rute til en annen for å markere e
 
 ## Historien bak
 
-Ifølge Snorre pløyde Gefjon en hel øy på én natt. Tomtene i spillet er diktet opp. Les historien i [Gefjon og Sjælland: gudinnen som pløyde en hel øy på én natt, med fire okser](/no/2026/11/19/gefjon-zelandia-bois-arado/).
+Ifølge Snorre pløyde Gefjon en hel øy på én natt. Tomtene i spillet er diktet opp. Les historien i [Gefjon og Sjælland: gudinnen som pløyde en hel øy på én natt, med fire okser](/no/gefjon-og-sjaelland-gudinnen-som-ployde-en-hel-oy/).

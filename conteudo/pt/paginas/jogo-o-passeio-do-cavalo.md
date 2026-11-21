@@ -23,4 +23,4 @@ O cavalo anda em L: duas casas numa direção e uma na outra. Toque numa casa ma
 
 ## A história por trás
 
-Entre as peças de Lewis há cavaleiros e peões esculpidos em marfim de morsa. O passeio no tabuleiro é invenção. Leia a história em [As peças de xadrez de Lewis: marfim de morsa, guerreiros mordendo o escudo e um tesouro das Hébridas](/2026/11/22/pecas-de-xadrez-de-lewis-marfim/).
+Entre as peças de Lewis há cavaleiros e peões esculpidos em marfim de morsa. O passeio no tabuleiro é invenção. Leia a história em [As peças de xadrez de Lewis: marfim de morsa, guerreiros mordendo o escudo e um tesouro das Hébridas](/pt/pecas-de-xadrez-de-lewis-marfim/).

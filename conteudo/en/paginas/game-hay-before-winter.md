@@ -23,4 +23,4 @@ Tap or drag on the screen to move Flóki across the field. Catch the falling bal
 
 ## The story behind it
 
-According to the Landnámabók, Flóki fished so much that he forgot to gather hay, and the sheep died in winter; in spring, seeing a fjord full of ice, he named the land Iceland. The hay harvest is invented. Read the story in [Hrafna-Flóki, the forgotten hay and the name of Iceland in the Landnámabók](/en/2027/03/14/hrafna-floki-o-feno-esquecido-e-o-nome-da-islandia-na-landnamabok/).
+According to the Landnámabók, Flóki fished so much that he forgot to gather hay, and the sheep died in winter; in spring, seeing a fjord full of ice, he named the land Iceland. The hay harvest is invented. Read the story in [Hrafna-Flóki, the forgotten hay and the name of Iceland in the Landnámabók](/hrafna-floki-the-forgotten-hay-and-the-name-of-iceland/).

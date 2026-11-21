@@ -23,4 +23,4 @@ Arraste o dedo (ou use as setas do teclado) para mover a mira ao longo do horizo
 
 ## A história por trás
 
-Na *Rauðúlfs þáttr*, o rei Olavo usa uma pedra do sol para ver onde está o sol num dia de neve e nuvens. Experimentos modernos mostram que um cristal poderia funcionar assim, mas ninguém sabe se os vikings o usavam. O jogo é uma simplificação: o brilho das duas luzes e a mira são invenção. Leia a história em [A pedra do sol: o cristal que talvez ajudasse os vikings a achar o sol num céu de nuvens](/2026/11/13/pedra-solar/).
+Na *Rauðúlfs þáttr*, o rei Olavo usa uma pedra do sol para ver onde está o sol num dia de neve e nuvens. Experimentos modernos mostram que um cristal poderia funcionar assim, mas ninguém sabe se os vikings o usavam. O jogo é uma simplificação: o brilho das duas luzes e a mira são invenção. Leia a história em [A pedra do sol: o cristal que talvez ajudasse os vikings a achar o sol num céu de nuvens](/pt/pedra-solar/).

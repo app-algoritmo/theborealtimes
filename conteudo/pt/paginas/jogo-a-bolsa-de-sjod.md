@@ -23,4 +23,4 @@ Cada moeda tem um valor. Toque nas moedas para colocá-las na bolsa até a soma 
 
 ## A história por trás
 
-Na Bósa saga ok Herrauðs, Sjód é o tesoureiro e cobrador de impostos do rei Hring, e a saga diz que a palavra "sjóðr", "bolsa", vem do nome dele. Somar moedas até um valor exato é invenção. Leia a história em [A saga de Bósi e Herrauðr: o tesoureiro Sjód, a bolsa e a praga da feiticeira Busla](/2027/02/21/saga-de-bosi-e-herraud-sjod-a-bolsa-e-a-praga-de-busla/).
+Na Bósa saga ok Herrauðs, Sjód é o tesoureiro e cobrador de impostos do rei Hring, e a saga diz que a palavra "sjóðr", "bolsa", vem do nome dele. Somar moedas até um valor exato é invenção. Leia a história em [A saga de Bósi e Herrauðr: o tesoureiro Sjód, a bolsa e a praga da feiticeira Busla](/pt/saga-de-bosi-e-herraud-sjod-a-bolsa-e-a-praga-de-busla/).

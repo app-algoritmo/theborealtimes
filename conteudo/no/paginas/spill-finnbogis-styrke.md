@@ -23,4 +23,4 @@ En stolpe har en markør som går fram og tilbake. Trykk når markøren er inne 
 
 ## Historien bak
 
-I Finnboga saga ramma gir keiser Johannes I Tzimiskes Finnbogi tilnavnet «rammi», «den sterke». Å time slaget er oppfunnet. Les historien i [Sagaen om Finnbogi den sterke: fra det utsatte barnet til Konstantinopel og Island](/no/2027/02/21/finnboga-saga-ramma-finnbogi-o-forte-constantinopla-islandia/).
+I Finnboga saga ramma gir keiser Johannes I Tzimiskes Finnbogi tilnavnet «rammi», «den sterke». Å time slaget er oppfunnet. Les historien i [Sagaen om Finnbogi den sterke: fra det utsatte barnet til Konstantinopel og Island](/no/sagaen-om-finnbogi-den-sterke-fra-det-utsatte-barnet/).

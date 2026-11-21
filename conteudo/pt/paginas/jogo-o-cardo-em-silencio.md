@@ -23,4 +23,4 @@ A irmã precisa colher a penugem dos cardos sem falar, rir nem chorar. Cardos ro
 
 ## A história por trás
 
-No conto de Asbjørnsen e Moe, a irmã deve colher cardo e fazer doze camisas sem falar, rir nem chorar. A chuva de cardos e de bolhas e o ritmo do jogo são invenção. Leia a história em [Os doze patos selvagens: o conto norueguês da irmã que não podia falar nem rir nem chorar](/2027/03/28/os-doze-patos-selvagens-conto-de-asbjornsen-e-moe-da-irma-que-nao-podia-falar/).
+No conto de Asbjørnsen e Moe, a irmã deve colher cardo e fazer doze camisas sem falar, rir nem chorar. A chuva de cardos e de bolhas e o ritmo do jogo são invenção. Leia a história em [Os doze patos selvagens: o conto norueguês da irmã que não podia falar nem rir nem chorar](/pt/os-doze-patos-selvagens-conto-de-asbjornsen-e-moe-da-irma-que-nao-podia-falar/).

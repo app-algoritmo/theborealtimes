@@ -23,4 +23,4 @@ Em Járnviðr, a mata se espalha a partir de um canto. Toque numa cor da paleta 
 
 ## A história por trás
 
-Na Völuspá, uma velha em Járnviðr, a Floresta de Ferro, cria a prole de Fenrir; os estudiosos a identificam, como mais provável, com Angrboða, mãe de Fenrir, Jörmungandr e Hel na Gylfaginning. A mancha que se espalha é invenção. Leia a história em [Angrboða, a giganta de Járnviðr: mãe de Fenrir, Jörmungandr e Hel](/2027/01/24/angrboda-giganta-jarnvidr-mae-de-fenrir/).
+Na Völuspá, uma velha em Járnviðr, a Floresta de Ferro, cria a prole de Fenrir; os estudiosos a identificam, como mais provável, com Angrboða, mãe de Fenrir, Jörmungandr e Hel na Gylfaginning. A mancha que se espalha é invenção. Leia a história em [Angrboða, a giganta de Járnviðr: mãe de Fenrir, Jörmungandr e Hel](/pt/angrboda-giganta-jarnvidr-mae-de-fenrir/).

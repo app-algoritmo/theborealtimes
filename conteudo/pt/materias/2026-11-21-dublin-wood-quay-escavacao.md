@@ -39,4 +39,4 @@ Os resultados também ajudaram a corrigir uma ideia antiga. Durante muito tempo,
 
 Hoje, parte desse acervo pode ser vista em museus de Dublin, e o assunto ainda é discutido por quem se interessa pela memória urbana. A lição que muitos tiram do caso é que o patrimônio enterrado só pode ser estudado uma vez, e que uma escavação bem documentada é muitas vezes a única chance de conservar a informação.
 
-Para ir ocupando, lote por lote, o mapa da cidade até pintá-lo de uma só cor, jogue [Os lotes de Dublin](/jogo-os-lotes-de-dublin/).
+Para ir ocupando, lote por lote, o mapa da cidade até pintá-lo de uma só cor, jogue [Os lotes de Dublin](/pt/jogo-os-lotes-de-dublin/).

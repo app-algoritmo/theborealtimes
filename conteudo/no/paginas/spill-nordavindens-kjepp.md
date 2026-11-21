@@ -23,4 +23,4 @@ Vertens menn titter ut av vinduene. Trykk (eller bruk tastene 1 til 9, lagt ut s
 
 ## Historien bak
 
-I eventyret samlet av Asbjørnsen og Moe får gutten en kjeppen av Nordavinden som slår på ordre. Huset med vinduer er diktet opp. Les historien i [Gutten som gikk til Nordenvinden: et norsk eventyr om mjøl, tyver og en kjepp](/no/2026/11/21/gutten-nordenvinden-bastao/).
+I eventyret samlet av Asbjørnsen og Moe får gutten en kjeppen av Nordavinden som slår på ordre. Huset med vinduer er diktet opp. Les historien i [Gutten som gikk til Nordenvinden: et norsk eventyr om mjøl, tyver og en kjepp](/no/gutten-som-gikk-til-nordenvinden-et-norsk-eventyr-om-mjol/).

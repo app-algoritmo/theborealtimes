@@ -41,4 +41,4 @@ Some scholars think *dísir* may be the original term and "valkyrie" a kenning f
 
 It is not known whether the dísir were fertility goddesses, clan guardians, war figures or spirits of the dead. Rudolf Simek sees them as varied manifestations of female goddesses. The *dísarsalr* is also poorly understood, as is the purpose of the Uppsala sacrifice. The *Hervarar saga* suggests the rite was performed by women, and the *Ynglinga saga*, that the king was the priest. And the article records that Gabriel Turville-Petre associated it with the Anglo-Saxon *modranect*, the "mothers' night", without saying whether this is accepted.
 
-To repeat a sequence of lights that grows ever longer, without a mistake, play [The dísir's lights](/en/game-the-disirs-lights/).
+To repeat a sequence of lights that grows ever longer, without a mistake, play [The dísir's lights](/game-the-disirs-lights/).

@@ -23,4 +23,4 @@ Lyset rykker frem fra høyre mot venstre. Trykk på hvert troll for å få det t
 
 ## Historien bak
 
-I skandinaviske eventyr blir troll til stein i sollys. Det er et vanlig motiv; hulene og kappløpet er diktet opp for spillet. Les historien i [Hvorfor troll blir til stein i sola: den nordiske troen som lærer oss å lese landskapet](/no/2026/11/16/trolls-viram-pedra-ao-sol/).
+I skandinaviske eventyr blir troll til stein i sollys. Det er et vanlig motiv; hulene og kappløpet er diktet opp for spillet. Les historien i [Hvorfor troll blir til stein i sola: den nordiske troen som lærer oss å lese landskapet](/no/hvorfor-troll-blir-til-stein-i-sola-den-nordiske-troen/).

@@ -43,4 +43,4 @@ What survives of the *Íslendingabók* is a short book that arranges the settlem
 
 The medieval exemplar, probably from around 1200, was lost in the late 17th century, and so was the older version about the Norwegian kings. The dating depends on the prologue's mentions. The account of Grímr Goatshoe's exploration is unclear, and the article says he was probably looking for a meeting place. Dates such as that of the calendar reform and that of the conversion are approximate.
 
-To arrange, one by one, the scrolls of a stack of laws, play [Ari's scrolls](/en/game-aris-scrolls/).
+To arrange, one by one, the scrolls of a stack of laws, play [Ari's scrolls](/game-aris-scrolls/).

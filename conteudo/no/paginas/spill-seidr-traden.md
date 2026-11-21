@@ -23,4 +23,4 @@ Det er flere perlerekker. Når det er din tur, trykker du på en perle for å ta
 
 ## Historien bak
 
-Seiðr er en nordisk magisk praksis; ordet gjengis som «snor, tråd, snare», og utøveren holdt en rituell rokk. Å ta perler fra rekker er oppfunnet. Les historien i [Seiðr: den norrøne magien med tråden, den rituelle rokken og seerne, völur](/no/2027/02/21/seidr-magia-nordica-volva-roca-ritual-eiriks-saga/).
+Seiðr er en nordisk magisk praksis; ordet gjengis som «snor, tråd, snare», og utøveren holdt en rituell rokk. Å ta perler fra rekker er oppfunnet. Les historien i [Seiðr: den norrøne magien med tråden, den rituelle rokken og seerne, völur](/no/seidr-den-norrone-magien-med-traden-den-rituelle-rokken/).

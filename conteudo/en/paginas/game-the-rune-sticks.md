@@ -23,4 +23,4 @@ On the wharf at Bergen, merchants bring sticks with runes. Read the text of the 
 
 ## The story behind it
 
-Among the runic inscriptions of Bryggen, in Bergen, there are tags such as "Eysteinn á mik", messages such as "Ást min, kyss mik" and Latin texts such as "Ave Maria". Some phrases in the game are inspired by them, and the sorting into boxes is invention. Read the story in [Bryggen: the rune sticks of Bergen, merchants' notes and love charms](/en/2027/03/21/bryggen-os-paus-de-runas-de-bergen-bilhetes-de-comerciantes-e-juras-de-amor/).
+Among the runic inscriptions of Bryggen, in Bergen, there are tags such as "Eysteinn á mik", messages such as "Ást min, kyss mik" and Latin texts such as "Ave Maria". Some phrases in the game are inspired by them, and the sorting into boxes is invention. Read the story in [Bryggen: the rune sticks of Bergen, merchants' notes and love charms](/bryggen-the-rune-sticks-of-bergen-merchants-notes-and-love/).

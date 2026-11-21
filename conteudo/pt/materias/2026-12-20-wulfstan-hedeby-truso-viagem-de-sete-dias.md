@@ -41,4 +41,4 @@ O texto não é um mapa: é uma lista de terras vistas à direita e à esquerda 
 
 O objetivo da viagem não é claro. Uma hipótese é que Alfredo quisesse aliados contra os vikings e por isso se interessasse pelos prussianos. A página não trata da localização exata de Truso, de costumes dos *Aesti* como funerais, cavalos ou hidromel, nem de ilhas como Bornholm ou Öland. Esses pontos ficam, por isso, fora do relato.
 
-Para preencher uma grade de quatro por quatro com quatro marcas de rota, sem repetir nenhuma em linha, coluna ou bloco, jogue [As marcas da rota](/jogo-as-marcas-da-rota/).
+Para preencher uma grade de quatro por quatro com quatro marcas de rota, sem repetir nenhuma em linha, coluna ou bloco, jogue [As marcas da rota](/pt/jogo-as-marcas-da-rota/).

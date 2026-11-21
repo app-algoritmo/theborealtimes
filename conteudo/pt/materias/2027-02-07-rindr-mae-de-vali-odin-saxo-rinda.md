@@ -39,4 +39,4 @@ Nas fontes nórdicas o vingador é Váli. Em Saxo, o vingador é Bous. As duas f
 
 A etimologia do nome é incerta, e a ligação com Vrinnevi é só uma possibilidade. O verso de Kormákr diz apenas que Yggr enfeitiçou Rindr, sem dar mais detalhes. A identidade de Rani no Grógaldr não é explicada na fonte. As fontes nórdicas não descrevem o encontro entre Odin e Rindr com o detalhe que Saxo dá, e a história de Rinda em Saxo é uma versão tardia e reelaborada, não um relato paralelo do mesmo tipo.
 
-Para abrir caminho girando trechos de trilha até a saída, como Odin precisou abrir o seu até Rinda, jogue [O caminho até Rindr](/jogo-o-caminho-ate-rindr/).
+Para abrir caminho girando trechos de trilha até a saída, como Odin precisou abrir o seu até Rinda, jogue [O caminho até Rindr](/pt/jogo-o-caminho-ate-rindr/).

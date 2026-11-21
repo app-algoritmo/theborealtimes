@@ -43,4 +43,4 @@ A saga foi composta por volta do ano 1300, mais de trezentos anos depois dos fat
 
 O que torna a saga memorável é que o protagonista é, durante um tempo, um homem que renegou os deuses. Ele não se converte a outra religião. Apenas aprende que a lealdade a um deus que não o protegeu não vale mais do que a lealdade ao que o ajuda, e que pode confiar apenas em si mesmo.
 
-Para vigiar o cavalo, jogue [O cavalo de Freyr](/jogo-o-cavalo-de-freyr/).
+Para vigiar o cavalo, jogue [O cavalo de Freyr](/pt/jogo-o-cavalo-de-freyr/).

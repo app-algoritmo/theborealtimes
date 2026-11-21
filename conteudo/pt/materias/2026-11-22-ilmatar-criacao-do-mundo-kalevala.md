@@ -35,4 +35,4 @@ Os estudiosos lembram que essa narrativa é parte do trabalho de Elias Lönnrot,
 
 O tema do mundo nascido de um ovo existe em outras regiões da Eurásia, e é um dos motivos mais difundidos na mitologia. O interesse do canto finlandês está na imagem de uma criação feita sem violência, e em que uma mulher, mais do que um deus, dá forma à terra. O canto também mostra um traço da poesia finlandesa recolhida por Lönnrot: o verso de oito sílabas, com aliteração, que tornava as palavras fáceis de decorar e de cantar.
 
-Para medir, com dois vasos, a quantidade exata de água, como quem dá forma ao mar primordial, jogue [Os vasos de Ilmatar](/jogo-os-vasos-de-ilmatar/).
+Para medir, com dois vasos, a quantidade exata de água, como quem dá forma ao mar primordial, jogue [Os vasos de Ilmatar](/pt/jogo-os-vasos-de-ilmatar/).

@@ -41,4 +41,4 @@ A palavra reaparece em muitos lugares. O escritor Ole Edvart Rølvaag escreveu e
 
 Como em todo conto de fadas, a fonte não é uma só: Asbjørnsen e Moe recolheram e reescreveram as histórias, e o que ouviram era já uma mistura de tradições. Para um conto de busca como este, essa mistura parece quase apropriada.
 
-Para achar o caminho até o castelo, jogue [Rumo a Soria Moria](/jogo-rumo-a-soria-moria/).
+Para achar o caminho até o castelo, jogue [Rumo a Soria Moria](/pt/jogo-rumo-a-soria-moria/).

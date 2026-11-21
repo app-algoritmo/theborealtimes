@@ -23,4 +23,4 @@ Uma ponte tem quatro pedras por fileira, mas só uma pedra de cada fileira é se
 
 ## A história por trás
 
-Na balada norueguesa Draumkvedet, Olav Åsteson dorme da noite de Natal até o décimo terceiro dia e, ao acordar, conta seus sonhos, entre eles uma ponte muito alta. Memorizar a trilha é invenção. Leia a história em [Draumkvedet: o sonho de Olav Åsteson e a balada medieval da Noruega](/2027/02/07/draumkvedet-olav-asteson-sonho-balada/).
+Na balada norueguesa Draumkvedet, Olav Åsteson dorme da noite de Natal até o décimo terceiro dia e, ao acordar, conta seus sonhos, entre eles uma ponte muito alta. Memorizar a trilha é invenção. Leia a história em [Draumkvedet: o sonho de Olav Åsteson e a balada medieval da Noruega](/pt/draumkvedet-olav-asteson-sonho-balada/).

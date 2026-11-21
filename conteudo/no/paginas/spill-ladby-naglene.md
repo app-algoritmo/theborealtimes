@@ -23,4 +23,4 @@ Femten nagler holder skrogplankene, og én av dem er løs. Trykk på en nagle og
 
 ## Historien bak
 
-Ladbyskipet i Danmark var en vikinghøvdings grav, med skroget holdt av nagler. Hoppespillet er diktet opp. Les historien i [Ladby: skipsgraven i Danmark som bare etterlot merker og nagler i jorda](/no/2026/11/21/ladby-navio-funerario-dinamarca/).
+Ladbyskipet i Danmark var en vikinghøvdings grav, med skroget holdt av nagler. Hoppespillet er diktet opp. Les historien i [Ladby: skipsgraven i Danmark som bare etterlot merker og nagler i jorda](/no/ladby-skipsgraven-i-danmark-som-bare-etterlot-merker/).

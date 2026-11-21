@@ -51,4 +51,4 @@ Harald Klak perdeu o trono duas vezes, buscou apoio franco e foi batizado em 826
 
 O pai de Harald e as datas exatas de seu reinado são incertos. Não se sabe se ele governou além da Jutlândia, nem se as famílias de Sigifrid, Anulo e Harald se ligavam como supõem alguns genealogistas. O lugar do batismo é Mainz ou Ingelheim, conforme a fonte. Um Harald que morre em 852 pode ser outro. Os filhos e a filha dele são disputados, e as sagas dão genealogias diferentes.
 
-Para ligar os números em sequência por casas vizinhas, até a foz do rio, jogue [Até a foz do rio](/jogo-ate-a-foz-do-rio/).
+Para ligar os números em sequência por casas vizinhas, até a foz do rio, jogue [Até a foz do rio](/pt/jogo-ate-a-foz-do-rio/).

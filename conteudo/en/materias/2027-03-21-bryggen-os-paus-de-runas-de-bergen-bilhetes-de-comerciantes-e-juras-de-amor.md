@@ -45,4 +45,4 @@ At Bryggen, Bergen, about 670 medieval runic inscriptions were found, among them
 
 The dates of many inscriptions are approximate, and some are so short or damaged that the reading is disputed. We do not know who wrote each stick, and whether pieces such as the love charm relate to real magical practices or only literary ones remains debated.
 
-To sort each rune stick into the right box, play [The rune sticks](/en/game-the-rune-sticks/).
+To sort each rune stick into the right box, play [The rune sticks](/game-the-rune-sticks/).

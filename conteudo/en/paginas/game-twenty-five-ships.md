@@ -23,4 +23,4 @@ Drag to steer the front ship, or use the arrow keys; the others follow its wake.
 
 ## The story behind it
 
-According to Eirik the Red's Saga, 25 ships set out from Iceland for Greenland and 14 arrived. The routes and obstacles in the game are made up. Read the story in [Eirik the Red: the outlaw who gave Greenland the name of a good land](/en/2026/11/14/eirik-vermelho-groenlandia/).
+According to Eirik the Red's Saga, 25 ships set out from Iceland for Greenland and 14 arrived. The routes and obstacles in the game are made up. Read the story in [Eirik the Red: the outlaw who gave Greenland the name of a good land](/eirik-the-red-the-outlaw-who-gave-greenland-the-name/).

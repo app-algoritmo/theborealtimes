@@ -23,4 +23,4 @@ Hay bales of different kinds are mixed on posts. Tap a post to lift its top bale
 
 ## The story behind it
 
-In Hœnsa-Þóris saga, the enriched merchant Hœnsa-Þórir refuses to sell hay to his neighbours one winter; they take it, and he burns them alive in a farmhouse. Stacking bales is invented. Read the story in [Hœnsa-Þóris saga: the merchant, the refused hay and a 13th-century law](/en/2027/02/07/haensa-thoris-saga-feno-vizinhos-lei/).
+In Hœnsa-Þóris saga, the enriched merchant Hœnsa-Þórir refuses to sell hay to his neighbours one winter; they take it, and he burns them alive in a farmhouse. Stacking bales is invented. Read the story in [Hœnsa-Þóris saga: the merchant, the refused hay and a 13th-century law](/hoensa-thoris-saga-the-merchant-the-refused-hay-and-a-13th/).

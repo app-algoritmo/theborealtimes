@@ -23,4 +23,4 @@ Cada runa é formada por traços. Arraste o dedo (ou o mouse) do ponto amarelo a
 
 ## A história por trás
 
-A pedra de Jelling foi erguida por volta de 965 pelo rei Harald Dente Azul e usa o futhark recente. As runas do jogo são simplificadas, e a escolha das cinco é nossa. Leia a história em [A pedra de Jelling: o que Harald Dente Azul mandou gravar em runas](/2026/11/13/jelling-harald-runas/).
+A pedra de Jelling foi erguida por volta de 965 pelo rei Harald Dente Azul e usa o futhark recente. As runas do jogo são simplificadas, e a escolha das cinco é nossa. Leia a história em [A pedra de Jelling: o que Harald Dente Azul mandou gravar em runas](/pt/jelling-harald-runas/).

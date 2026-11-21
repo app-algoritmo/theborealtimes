@@ -23,4 +23,4 @@ Hver rute får en haug med høyde fra 1 til N; trykk på ruten for å endre høy
 
 ## Historien bak
 
-Nær Liepāja i Latvia hadde Grobiņa en skandinavisk bosetning, og gravfeltet Priediens har omtrent 2000 hauger. Å ordne hauger etter synlighet er oppfunnet. Les historien i [Grobiņa i Latvia: den skandinaviske bosetningen, haugene og Rimberts «Seeburg"](/no/2027/02/21/grobina-assentamento-escandinavo-na-letonia-montes-funerarios/).
+Nær Liepāja i Latvia hadde Grobiņa en skandinavisk bosetning, og gravfeltet Priediens har omtrent 2000 hauger. Å ordne hauger etter synlighet er oppfunnet. Les historien i [Grobiņa i Latvia: den skandinaviske bosetningen, haugene og Rimberts «Seeburg"](/no/grobina-i-latvia-den-skandinaviske-bosetningen-haugene/).

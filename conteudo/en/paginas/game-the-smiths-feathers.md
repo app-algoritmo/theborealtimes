@@ -23,4 +23,4 @@ Tap one feather and then another to swap them (or use the arrows and Space), sho
 
 ## The story behind it
 
-In the poem, Völund escapes through the air after years held on an island. The feathers and swaps in the game are made up. Read the story in [Völund, the smith whom a king held on an island and who escaped by flight](/en/2026/11/18/volund-ferreiro-nidud-asas/).
+In the poem, Völund escapes through the air after years held on an island. The feathers and swaps in the game are made up. Read the story in [Völund, the smith whom a king held on an island and who escaped by flight](/volund-the-smith-whom-a-king-held-on-an-island/).

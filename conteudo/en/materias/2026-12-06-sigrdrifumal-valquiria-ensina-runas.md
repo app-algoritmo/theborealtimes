@@ -37,4 +37,4 @@ The Codex Regius ends this poem abruptly, in the middle of stanza 29, because pa
 
 For those who study Norse religion, the *Sigrdrífumál* is valuable because it shows the rune as more than a letter: an instrument of power, tied to rituals, objects and words. But care is needed. The poem is late, mutilated and mixes periods. It shows what medieval Icelandic poets imagined about runes, not necessarily what was done in the Viking Age.
 
-To reveal, cell by cell, a rune hidden in a grid, following the clues for each row and column, play [Sigrdrífa's rune](/en/game-sigrdrifas-rune/).
+To reveal, cell by cell, a rune hidden in a grid, following the clues for each row and column, play [Sigrdrífa's rune](/game-sigrdrifas-rune/).

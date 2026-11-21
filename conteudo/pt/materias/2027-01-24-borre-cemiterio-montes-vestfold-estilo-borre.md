@@ -47,4 +47,4 @@ Em março de 2019, arqueólogos acharam o que se acredita ser um navio da Era Vi
 
 O artigo diz que o cemitério "pode ter sido maior", que o navio de 2019 é apenas "acreditado" como enterro viking e que as provas são preliminares, e que o porto é "sugerido" e "provável", não confirmado. A leitura do local como centro de poder é algo que ele "pode ser visto" como mostrando. O artigo também não dá nomes de quem foi enterrado.
 
-Para percorrer cada fio de um nó sem repetir nenhum, no espírito dos ornamentos de Borre, jogue [O nó de Borre](/jogo-o-no-de-borre/).
+Para percorrer cada fio de um nó sem repetir nenhum, no espírito dos ornamentos de Borre, jogue [O nó de Borre](/pt/jogo-o-no-de-borre/).

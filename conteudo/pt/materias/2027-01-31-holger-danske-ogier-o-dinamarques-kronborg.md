@@ -43,4 +43,4 @@ A fonte menciona nomes que os estudiosos propuseram como modelo histórico: Autc
 
 O modelo histórico de Holger é disputado, e nenhum dos nomes é aceito por todos. A tradição de que os guias de Kronborg contam a lenda hoje não é um fato documentado sobre o castelo: a fonte a apresenta como tradição. Também não se pode dizer, com base nesta fonte, que a lenda de Kronborg seja tão antiga quanto as canções francesas: ela é registrada por escritores do século XIX.
 
-Para guardar na memória formas coloridas e achar a que sumiu, jogue [A forma que sumiu](/jogo-a-forma-que-sumiu/).
+Para guardar na memória formas coloridas e achar a que sumiu, jogue [A forma que sumiu](/pt/jogo-a-forma-que-sumiu/).

@@ -39,4 +39,4 @@ Nor is it known for sure how the poem was recited. The stanzas vary in length, t
 
 The interest of the *Hárbarðsljóð* lies in its tone. The Norse gods appear here as characters who argue, boast and tease each other, far from the solemn tone often associated with mythology. For those who study the subject, the poem shows that humour was also part of these narratives, and that the image of the thunder god as a simple, almost naive figure already existed in medieval sources.
 
-To carry, step by step, Thor's load across the strait, respecting what fits in the boat and what cannot be left alone on the shore, play [Hárbarðr's boat](/en/game-harbardrs-boat/).
+To carry, step by step, Thor's load across the strait, respecting what fits in the boat and what cannot be left alone on the shore, play [Hárbarðr's boat](/game-harbardrs-boat/).

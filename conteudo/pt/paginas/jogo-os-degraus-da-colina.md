@@ -23,4 +23,4 @@ Quatro discos estão no poste da esquerda. Leve todos para o poste da direita, u
 
 ## A história por trás
 
-Em Tynwald Hill, na Ilha de Man, a colina tem quatro níveis em degraus. Os discos e as regras do jogo são invenção. Leia a história em [Tynwald: a assembleia da Ilha de Man, cujo nome vem do nórdico e que ainda se reúne sobre uma colina](/2026/11/20/tynwald-ilha-de-man-thing/).
+Em Tynwald Hill, na Ilha de Man, a colina tem quatro níveis em degraus. Os discos e as regras do jogo são invenção. Leia a história em [Tynwald: a assembleia da Ilha de Man, cujo nome vem do nórdico e que ainda se reúne sobre uma colina](/pt/tynwald-ilha-de-man-thing/).

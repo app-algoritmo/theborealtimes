@@ -45,4 +45,4 @@ O disco é um fragmento pequeno, e a hipótese da bússola de sol é a mais acei
 
 O material, conífera ou carvalho, é discutido. A bússola magnética só aparece na Europa no começo do século XIII, e o verbete lembra que, com a terra fora de vista, achar o norte verdadeiro de dia seria difícil. Alguns estudiosos continuam contra a ideia de instrumentos de navegação nórdicos. O uso para medir a latitude e a bússola do crepúsculo são propostas de pesquisadores, não conclusões.
 
-Para manter o rumo de um navio pela sombra do disco, corrigindo a deriva, jogue [O rumo pelo sol](/jogo-o-rumo-pelo-sol/).
+Para manter o rumo de um navio pela sombra do disco, corrigindo a deriva, jogue [O rumo pelo sol](/pt/jogo-o-rumo-pelo-sol/).

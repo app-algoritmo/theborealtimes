@@ -23,4 +23,4 @@ Observe a sequência de cores que acende e repita a ordem tocando nas quatro cor
 
 ## A história por trás
 
-Nas fontes nórdicas, Heimdall guarda a ponte Bifröst e tem um chifre, o Gjallarhorn. A sequência de cores é invenção do jogo. Leia a história em [Heimdall: o vigia que quase não dorme e guarda a ponte do arco-íris](/2026/11/16/heimdall-bifrost-vigia/).
+Nas fontes nórdicas, Heimdall guarda a ponte Bifröst e tem um chifre, o Gjallarhorn. A sequência de cores é invenção do jogo. Leia a história em [Heimdall: o vigia que quase não dorme e guarda a ponte do arco-íris](/pt/heimdall-bifrost-vigia/).

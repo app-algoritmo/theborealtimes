@@ -23,4 +23,4 @@ Dra fingeren (eller bruk piltastene) for å flytte markøren langs horisonten. I
 
 ## Historien bak
 
-I *Rauðúlfs þáttr* bruker kong Olav en solstein for å se hvor solen er en dag med snø og skyer. Moderne forsøk viser at en krystall kunne fungere slik, men ingen vet om vikingene brukte en. Spillet er en forenkling: lysstyrken på de to lysene og markøren er diktet opp. Les historien i [Solsteinen: krystallen som kanskje hjalp vikingene å finne solen på en overskyet himmel](/no/2026/11/13/pedra-solar/).
+I *Rauðúlfs þáttr* bruker kong Olav en solstein for å se hvor solen er en dag med snø og skyer. Moderne forsøk viser at en krystall kunne fungere slik, men ingen vet om vikingene brukte en. Spillet er en forenkling: lysstyrken på de to lysene og markøren er diktet opp. Les historien i [Solsteinen: krystallen som kanskje hjalp vikingene å finne solen på en overskyet himmel](/no/solsteinen-krystallen-som-kanskje-hjalp-vikingene-a-finne/).

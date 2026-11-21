@@ -39,4 +39,4 @@ Two sources tell the same death with different values, and neither contradicts t
 
 That is why it is worth reading the two sources together: the saga shows what a Christian chronicler of the 13th century thought worth noting, and the poem what a poet close to the king thought worth singing after his death.
 
-To try to clear the battlefield, removing shields by colour before the day ends, play [The shields of Fitjar](/en/game-the-shields-of-fitjar/).
+To try to clear the battlefield, removing shields by colour before the day ends, play [The shields of Fitjar](/game-the-shields-of-fitjar/).

@@ -23,4 +23,4 @@ When the wind warning appears, hold your finger (or the space bar) to shield the
 
 ## The story behind it
 
-In Scandinavian tradition, Lussi night is the longest of the year, and candles are lit. The gusts in the game are made up. Read the story in [Lussinatta: the longest night and the legend of Lussi riding with the shadows](/en/2026/11/17/lussinatta-noite-mais-longa/).
+In Scandinavian tradition, Lussi night is the longest of the year, and candles are lit. The gusts in the game are made up. Read the story in [Lussinatta: the longest night and the legend of Lussi riding with the shadows](/lussinatta-the-longest-night-and-the-legend-of-lussi-riding/).

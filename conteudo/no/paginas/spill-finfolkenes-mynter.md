@@ -23,4 +23,4 @@ En stabel med sølvmynter i ulik størrelse ligger i feil rekkefølge. Trykk på
 
 ## Historien bak
 
-I folketroen på Orknøyene er Finfolk trollmenn fra havet som bortfører folk; en sølvmynt sies å være en måte å slippe unna dem på. Å snu myntstabler er oppfunnet. Les historien i [Finfolk: havtrollmennene på Orknøyene, sølvmynten og krittkorset](/no/2027/02/14/finfolk-feiticeiros-do-mar-das-orcades-moedas-de-prata/).
+I folketroen på Orknøyene er Finfolk trollmenn fra havet som bortfører folk; en sølvmynt sies å være en måte å slippe unna dem på. Å snu myntstabler er oppfunnet. Les historien i [Finfolk: havtrollmennene på Orknøyene, sølvmynten og krittkorset](/no/finfolk-havtrollmennene-pa-orknoyene-solvmynten/).

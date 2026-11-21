@@ -23,4 +23,4 @@ Coisas do mundo aparecem na tela por alguns segundos: fogo, água, ferro, pedra,
 
 ## A história por trás
 
-Snorri Sturluson conta que Frigg tomou juramento de todas as coisas, menos de um broto de visco que lhe pareceu novo demais, e que foi com ele que Baldr morreu. O jogo mostra o momento anterior à tragédia. O número de juramentos, o tempo e a escolha de lembrar o visco são invenção do jogo. Leia a história em [Baldr, o deus que nada podia ferir, e o ramo de visco que ninguém lembrou de proteger](/2026/11/13/baldr-visco/).
+Snorri Sturluson conta que Frigg tomou juramento de todas as coisas, menos de um broto de visco que lhe pareceu novo demais, e que foi com ele que Baldr morreu. O jogo mostra o momento anterior à tragédia. O número de juramentos, o tempo e a escolha de lembrar o visco são invenção do jogo. Leia a história em [Baldr, o deus que nada podia ferir, e o ramo de visco que ninguém lembrou de proteger](/pt/baldr-visco/).

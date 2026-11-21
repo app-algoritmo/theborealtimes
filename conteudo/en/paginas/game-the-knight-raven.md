@@ -23,4 +23,4 @@ Visit all 25 squares of the board, each only once, moving like the chess knight:
 
 ## The story behind it
 
-The valravn is a supernatural raven of Danish folklore, and the earliest version of the ballad "Valravnen" is in Jens Bille's handwritten notes, from 1555 to 1559. The board is invented. Read the story in [The valravn, the knight-raven of Danish folklore: the ballad and Jens Bille's notes](/en/2027/01/10/valravn-corvo-cavaleiro-folclore-dinamarques/).
+The valravn is a supernatural raven of Danish folklore, and the earliest version of the ballad "Valravnen" is in Jens Bille's handwritten notes, from 1555 to 1559. The board is invented. Read the story in [The valravn, the knight-raven of Danish folklore: the ballad and Jens Bille's notes](/the-valravn-the-knight-raven-of-danish-folklore-the-ballad/).

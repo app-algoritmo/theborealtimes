@@ -23,4 +23,4 @@ The ring Draupnir lets go of its eight rings only every ninth night. Watch the c
 
 ## The story behind it
 
-In the Prose Edda, Snorri says that every ninth night eight gold rings of equal weight fall from Draupnir. The fast count of the nights and the rhythm of the game are invention. Read the story in [Draupnir: Odin's ring that drips eight rings every nine nights](/en/2027/03/21/draupnir-o-anel-de-odin-que-pinga-oito-aneis-a-cada-nove-noites/).
+In the Prose Edda, Snorri says that every ninth night eight gold rings of equal weight fall from Draupnir. The fast count of the nights and the rhythm of the game are invention. Read the story in [Draupnir: Odin's ring that drips eight rings every nine nights](/draupnir-odin-s-ring-that-drips-eight-rings-every-nine/).

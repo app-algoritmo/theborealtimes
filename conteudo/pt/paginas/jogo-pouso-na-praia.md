@@ -23,4 +23,4 @@ O navio cai sozinho. Segure o dedo na tela (ou a tecla Espaço) para acionar o i
 
 ## A história por trás
 
-A Landnámabók conta quem chegou à Islândia e onde se instalou. O pouso com combustível limitado é invenção. Leia a história em [Landnámabók: o livro que lista mais de três mil pessoas e cerca de 1.400 fazendas da Islândia](/2026/12/27/landnamabok-livro-dos-assentamentos-islandia/).
+A Landnámabók conta quem chegou à Islândia e onde se instalou. O pouso com combustível limitado é invenção. Leia a história em [Landnámabók: o livro que lista mais de três mil pessoas e cerca de 1.400 fazendas da Islândia](/pt/landnamabok-livro-dos-assentamentos-islandia/).

@@ -23,4 +23,4 @@ Seksten nummererte soler vises i tilfeldig rekkefølge. Trykk på dem i rekkefø
 
 ## Historien bak
 
-Blant samene er sola også en guddom, knyttet til våren og reinen. De seksten nummererte solene er oppfunnet. Les historien i [Beaivi: samenes sol, datteren i en vogn av reinsdyrbein og ringene på trommene](/no/2026/12/27/beaivi-sol-sami-tambor-oferendas/).
+Blant samene er sola også en guddom, knyttet til våren og reinen. De seksten nummererte solene er oppfunnet. Les historien i [Beaivi: samenes sol, datteren i en vogn av reinsdyrbein og ringene på trommene](/no/beaivi-samenes-sol-datteren-i-en-vogn-av-reinsdyrbein/).

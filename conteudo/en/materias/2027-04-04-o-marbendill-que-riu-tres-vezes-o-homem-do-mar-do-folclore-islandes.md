@@ -49,4 +49,4 @@ The marbendill is the merman who knows what is hidden. In Jón Árnason's tale h
 
 I did not see the original text of the tale or of the sagas, only descriptions on reference pages, so I treat the details as reported by them. The relation between the marbendill and other sea beings, such as the selkie or the nix, is only a comparison made by the page consulted.
 
-To hook the marbendill the moment he appears, play [The marbendill in the water](/en/game-the-marbendill-in-the-water/).
+To hook the marbendill the moment he appears, play [The marbendill in the water](/game-the-marbendill-in-the-water/).

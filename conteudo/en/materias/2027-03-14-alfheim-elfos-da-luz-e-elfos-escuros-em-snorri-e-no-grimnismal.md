@@ -41,4 +41,4 @@ According to some scholars, the division is too tidy to be old, and they suspect
 
 With only two mentions, context is missing. We do not know how people in the 9th and 10th centuries pictured elves, or whether the split into light and dark was old or Snorri's own creation. The relation between the dark elves and the dwarfs is also unresolved.
 
-To send each elf up or below according to its colour, play [Light and shadow](/en/game-light-and-shadow/).
+To send each elf up or below according to its colour, play [Light and shadow](/game-light-and-shadow/).

@@ -23,4 +23,4 @@ Trykk på en av dine 6 groper (nederst) for å ta steinene og så dem, én i hve
 
 ## Historien bak
 
-I Heimskringla vokter fire vesener Island mot en invasjon. Såespillet er diktet opp. Les historien i [Landvættir: dragen, fuglen, oksen og jotunen som verner Island, ifølge Heimskringla](/no/2026/12/13/landvaettir-guardioes-islandia-heimskringla/).
+I Heimskringla vokter fire vesener Island mot en invasjon. Såespillet er diktet opp. Les historien i [Landvættir: dragen, fuglen, oksen og jotunen som verner Island, ifølge Heimskringla](/no/landvaettir-dragen-fuglen-oksen-og-jotunen-som-verner/).

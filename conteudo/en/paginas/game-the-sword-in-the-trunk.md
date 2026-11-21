@@ -23,4 +23,4 @@ In the great hall, a sword is thrust into the trunk of the Branstock. To pull it
 
 ## The story behind it
 
-In the Saga of the Völsungs, a one-eyed old man thrusts a sword into the trunk in the hall, and only Sigmund can pull it out. The alternating pulls are invented. Read the story in [Sigmund and the sword in the Barnstokkr, in the Völsunga saga](/en/2027/03/14/sigmund-e-a-espada-cravada-no-barnstokkr-na-saga-dos-volsungos/).
+In the Saga of the Völsungs, a one-eyed old man thrusts a sword into the trunk in the hall, and only Sigmund can pull it out. The alternating pulls are invented. Read the story in [Sigmund and the sword in the Barnstokkr, in the Völsunga saga](/sigmund-and-the-sword-in-the-barnstokkr-in-the-volsunga-saga/).

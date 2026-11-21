@@ -23,4 +23,4 @@ Six chests hold pieces of four mixed materials. Tap a chest to pick up its top p
 
 ## The story behind it
 
-In September 2014, the metal detectorist Derek McLennan found the first object of the Galloway hoard. The National Museum of Scotland acquired it in 2017 for £1.98 million. The game is invented. Read the story in [The Galloway Hoard, in Scotland: what the article says about the 2014 find](/en/2027/01/17/galloway-hoard-tesouro-viking-escocia-2014/).
+In September 2014, the metal detectorist Derek McLennan found the first object of the Galloway hoard. The National Museum of Scotland acquired it in 2017 for £1.98 million. The game is invented. Read the story in [The Galloway Hoard, in Scotland: what the article says about the 2014 find](/the-galloway-hoard-in-scotland-what-the-article-says-about/).

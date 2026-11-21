@@ -41,4 +41,4 @@ The Prose Edda tells the same story without the threats, which shows there were 
 
 Researchers of the mid-20th century tended to see the union as a sacred marriage tied to the fertility of the land, with Gerðr as the field the god fertilises. Stephen A. Mitchell proposed another reading, that of a model for resolving conflict between opposed groups. More recent studies look at the coercion in Skírnir's threats, which makes the story uncomfortable for today's reader. Parallels in other texts, such as a rune charm from Bergen and a curse in Bósa saga, suggest the audience took the formulas seriously.
 
-To help Skírnir's horse cross the flames, play [Leap the wall of fire](/en/game-leap-the-wall-of-fire/).
+To help Skírnir's horse cross the flames, play [Leap the wall of fire](/game-leap-the-wall-of-fire/).

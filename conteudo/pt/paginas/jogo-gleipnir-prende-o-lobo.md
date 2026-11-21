@@ -23,4 +23,4 @@ Toque nas bolhas com as seis coisas impossíveis (passos de gato, barba de mulhe
 
 ## A história por trás
 
-Na história contada por Snorri Sturluson na Edda em prosa, os anões fazem a fita Gleipnir com seis coisas que não existem, e os deuses a usam para prender Fenrir. Juntar essas coisas como uma brincadeira é invenção do jogo. Leia a história em [Como os deuses nórdicos prenderam o lobo Fenrir e por que Týr perdeu a mão](/2026/11/12/fenrir-lobo-corrente-gleipnir/).
+Na história contada por Snorri Sturluson na Edda em prosa, os anões fazem a fita Gleipnir com seis coisas que não existem, e os deuses a usam para prender Fenrir. Juntar essas coisas como uma brincadeira é invenção do jogo. Leia a história em [Como os deuses nórdicos prenderam o lobo Fenrir e por que Týr perdeu a mão](/pt/fenrir-lobo-corrente-gleipnir/).

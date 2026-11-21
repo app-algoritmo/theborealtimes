@@ -23,4 +23,4 @@ Dra brikkene fram eller tilbake, bare i den retningen de ligger eller står. Ryd
 
 ## Historien bak
 
-Tacitus forteller at Nerthus reiste gjennom landet i en tildekket vogn trukket av kviger, og at freden rådde mens hun fór forbi. Lunden av brikker er oppfunnet. Les historien i [Nerthus, gudinnen med den tildekte vogna: hva Tacitus forteller og hva ingen vet](/no/2027/01/10/nerthus-deusa-germanica-tacito-germania-carroca/).
+Tacitus forteller at Nerthus reiste gjennom landet i en tildekket vogn trukket av kviger, og at freden rådde mens hun fór forbi. Lunden av brikker er oppfunnet. Les historien i [Nerthus, gudinnen med den tildekte vogna: hva Tacitus forteller og hva ingen vet](/no/nerthus-gudinnen-med-den-tildekte-vogna-hva-tacitus/).

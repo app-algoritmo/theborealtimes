@@ -47,4 +47,4 @@ Gjellestad is a ship burial, found by georadar beside the Jellhaugen mound, in a
 
 The sources give different counts of mounds: at least eight, at least ten and 15 other monumental mounds, which seems to reflect fuller surveys over time. The upper part of the ship and the total length are estimated. The museum says there is as yet no evidence of the sex of human remains, and the date of the looting is unknown. The chronology of the site still needs more work.
 
-To cross the sea with a ship, gather runes and dodge rocks and ice, play [The ship crossing](/en/game-the-ship-crossing/).
+To cross the sea with a ship, gather runes and dodge rocks and ice, play [The ship crossing](/game-the-ship-crossing/).

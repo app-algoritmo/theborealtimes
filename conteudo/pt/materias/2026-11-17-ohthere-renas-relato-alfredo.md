@@ -42,4 +42,4 @@ O relato é a mais antiga descrição escrita da pecuária de renas no norte da 
 
 Ohthere também descreve a viagem para o sul. Segundo o texto, ele navegava até Sciringesheal, que os arqueólogos identificam com o mercado de Kaupang, na região de Vestfold, e dali seguia para Hedeby, no sul da Jutlândia. Esses dois portos eram centros de comércio da Era Viking. O relato de Wulfstan, que vem logo depois, descreve uma viagem pelo Báltico de Hedeby até Truso, na costa da atual Polônia, e mostra a mesma rede de rotas.
 
-Para conduzir o rebanho ao curral antes que escureça, jogue [As renas de Ohthere](/jogo-as-renas-de-ohthere/).
+Para conduzir o rebanho ao curral antes que escureça, jogue [As renas de Ohthere](/pt/jogo-as-renas-de-ohthere/).

@@ -23,4 +23,4 @@ The numbers beside each row and above each column say how many squares in a row 
 
 ## The story behind it
 
-In the Vafþrúðnismál, Líf and Lífþrasir survive the winter at the end of the world hidden in the wood Hoddmímis holt, and eat the morning dew. Filling squares by clues is invented. Read the story in [Líf and Lífþrasir: the couple who survive the end of the world in Hoddmímir's wood](/en/2027/02/21/lif-e-lifthrasir-sobreviventes-do-fim-do-mundo-hoddmimis-holt/).
+In the Vafþrúðnismál, Líf and Lífþrasir survive the winter at the end of the world hidden in the wood Hoddmímis holt, and eat the morning dew. Filling squares by clues is invented. Read the story in [Líf and Lífþrasir: the couple who survive the end of the world in Hoddmímir's wood](/lif-and-lifthrasir-the-couple-who-survive-the-end/).

@@ -23,4 +23,4 @@ Uma pilha de moedas de prata de tamanhos diferentes está fora de ordem. Toque n
 
 ## A história por trás
 
-No folclore de Orkney, os Finfolk são feiticeiros do mar que raptam pessoas; uma moeda de prata é dita um modo de escapar deles. Virar pilhas de moedas é invenção. Leia a história em [Finfolk: os feiticeiros do mar das Órcades, a moeda de prata e a cruz de giz](/2027/02/14/finfolk-feiticeiros-do-mar-das-orcades-moedas-de-prata/).
+No folclore de Orkney, os Finfolk são feiticeiros do mar que raptam pessoas; uma moeda de prata é dita um modo de escapar deles. Virar pilhas de moedas é invenção. Leia a história em [Finfolk: os feiticeiros do mar das Órcades, a moeda de prata e a cruz de giz](/pt/finfolk-feiticeiros-do-mar-das-orcades-moedas-de-prata/).

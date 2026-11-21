@@ -23,4 +23,4 @@ Toque em duas cartas por vez para virá-las. Se forem a mesma runa, ficam aberta
 
 ## A história por trás
 
-Snorri Sturluson escreveu a Edda em Prosa por volta de 1220. As cartas de runas são invenção do jogo. Leia a história em [Snorri Sturluson: o islandês que salvou os mitos nórdicos e morreu por política](/2026/11/16/snorri-sturluson-edda/).
+Snorri Sturluson escreveu a Edda em Prosa por volta de 1220. As cartas de runas são invenção do jogo. Leia a história em [Snorri Sturluson: o islandês que salvou os mitos nórdicos e morreu por política](/pt/snorri-sturluson-edda/).

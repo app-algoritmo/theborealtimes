@@ -23,4 +23,4 @@ Toque numa casa vazia e depois numa das quatro marcas embaixo. Cada marca deve a
 
 ## A história por trás
 
-Em c. 880, Wulfstan navegou de Hedeby a Truso em sete dias e noites. A grade e as marcas são invenção do jogo. Leia a história em [Wulfstan de Hedeby: a viagem de sete dias e noites até Truso, no Báltico](/2026/12/20/wulfstan-hedeby-truso-viagem-de-sete-dias/).
+Em c. 880, Wulfstan navegou de Hedeby a Truso em sete dias e noites. A grade e as marcas são invenção do jogo. Leia a história em [Wulfstan de Hedeby: a viagem de sete dias e noites até Truso, no Báltico](/pt/wulfstan-hedeby-truso-viagem-de-sete-dias/).

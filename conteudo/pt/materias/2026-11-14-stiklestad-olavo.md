@@ -36,4 +36,4 @@ Snorri escreve que, no dia da batalha, o sol ficou "vermelho como sangue", um pr
 
 O poema de Per Sivle, de 1901, trouxe o porta-estandarte Tord Foleson, cuja bandeira ficou erguida depois da queda do rei. Um monumento, a Olavsstøtta, foi levantada em 1807, e desde 1954 a peça *Saint Olav Drama* é encenada todo julho em Stiklestad. Nada disso está em Snorri, mas ajuda a explicar por que a batalha segue viva na memória norueguesa.
 
-Para manter a linha até o sol escurecer, jogue [Segure a linha em Stiklestad](/jogo-segure-a-linha-em-stiklestad/).
+Para manter a linha até o sol escurecer, jogue [Segure a linha em Stiklestad](/pt/jogo-segure-a-linha-em-stiklestad/).

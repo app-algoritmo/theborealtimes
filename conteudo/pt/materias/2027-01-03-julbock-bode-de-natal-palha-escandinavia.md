@@ -43,4 +43,4 @@ O que o artigo documenta é uma sequência: uma figura de bode do século XI lig
 
 A origem pagã não é provada, e a ligação com Thor é só um palpite. Também não se sabe quando o feixe de colheita ganhou o nome de *Julbocken*.
 
-Para descobrir um código de cores de palha, com pistas depois de cada tentativa, jogue [O código do bode de palha](/jogo-o-codigo-do-bode-de-palha/).
+Para descobrir um código de cores de palha, com pistas depois de cada tentativa, jogue [O código do bode de palha](/pt/jogo-o-codigo-do-bode-de-palha/).

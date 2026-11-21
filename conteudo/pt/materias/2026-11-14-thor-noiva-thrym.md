@@ -40,4 +40,4 @@ Thrym manda trazer Mjölnir para abençoar a noiva, e o martelo é posto no colo
 
 Nada indica que o poema fosse recitado como rito. Ele lê-se como uma história de humor, em que o deus mais forte precisa passar pelo que mais teme, o ridículo, para salvar os outros. Há quem veja nele uma crítica leve à imagem do guerreiro, e há quem o leia como simples diversão. A fonte não diz. O que se pode afirmar é o que está no texto: o roubo, o disfarce e o martelo no colo.
 
-Para descobrir onde o martelo foi escondido, jogue [Cadê o martelo?](/jogo-cade-o-martelo/).
+Para descobrir onde o martelo foi escondido, jogue [Cadê o martelo?](/pt/jogo-cade-o-martelo/).

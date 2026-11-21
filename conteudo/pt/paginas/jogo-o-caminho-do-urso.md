@@ -23,4 +23,4 @@ Cada casa mostra o custo de passar por ela. Parta da casa de cima, à esquerda, 
 
 ## A história por trás
 
-Na história de Auðun, um islandês pobre compra um urso-polar na Groenlândia e o leva de presente ao rei Sveinn da Dinamarca. Achar o caminho mais barato é invenção. Leia a história em [Auðun dos Fiordes do Oeste: o urso-polar, o rei dinamarquês e o anel de ouro](/2027/02/21/audun-dos-fiordes-do-oeste-o-urso-polar-e-o-rei-sveinn/).
+Na história de Auðun, um islandês pobre compra um urso-polar na Groenlândia e o leva de presente ao rei Sveinn da Dinamarca. Achar o caminho mais barato é invenção. Leia a história em [Auðun dos Fiordes do Oeste: o urso-polar, o rei dinamarquês e o anel de ouro](/pt/audun-dos-fiordes-do-oeste-o-urso-polar-e-o-rei-sveinn/).

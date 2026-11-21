@@ -41,4 +41,4 @@ A conquista de 1013 foi rápida demais para ser explicada só pela força. Muito
 
 As fontes têm limites. A *Crônica* foi escrita por ingleses, e não há um relato equivalente do lado dinamarquês, de modo que o ponto de vista de Sweyn é visto só por fora.
 
-Para conduzir a frota de Sweyn rio acima, tocando para subir e soltando para descer entre os bancos de areia, jogue [A frota de Sweyn](/jogo-a-frota-de-sweyn/).
+Para conduzir a frota de Sweyn rio acima, tocando para subir e soltando para descer entre os bancos de areia, jogue [A frota de Sweyn](/pt/jogo-a-frota-de-sweyn/).

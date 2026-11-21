@@ -39,4 +39,4 @@ The story circulated in other sources, and the *Hervarar saga* also mentions Odd
 
 The saga is classed as a *fornaldarsaga*, "saga of ancient times", a group of Icelandic texts that mixes legendary heroes, monsters and journeys to distant lands. Unlike the sagas of the Icelanders, which are set in Iceland and have a more realistic tone, these works are set mostly in Scandinavia and in imaginary places, and their authors wanted less to record facts than to entertain and preserve old stories.
 
-To add up Odd's years, merging equal numbers until you reach the right total, play [Odd's years](/en/game-odds-years/).
+To add up Odd's years, merging equal numbers until you reach the right total, play [Odd's years](/game-odds-years/).

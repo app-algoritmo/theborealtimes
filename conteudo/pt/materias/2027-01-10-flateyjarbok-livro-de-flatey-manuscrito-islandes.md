@@ -43,4 +43,4 @@ O manuscrito é obra de duas mãos, a de Jón no trecho central e a de Magnús n
 
 As datas de escrita são inferidas. O artigo não dá o tamanho das folhas nem diz quantas peles foram usadas, e é prudente não inventar esses números. Também não trata da fazenda onde o livro teria sido feito.
 
-Para preencher folhas, casa por casa, com a ajuda dos números nas bordas, jogue [As folhas da Flateyjarbók](/jogo-as-folhas-da-flateyjarbok/).
+Para preencher folhas, casa por casa, com a ajuda dos números nas bordas, jogue [As folhas da Flateyjarbók](/pt/jogo-as-folhas-da-flateyjarbok/).

@@ -23,4 +23,4 @@ Toque numa peça e depois numa vizinha (ou arraste) para trocá-las de lugar. Fo
 
 ## A história por trás
 
-Em Salme, na ilha de Saaremaa, escavaram-se navios com guerreiros e objetos. Os desenhos de achados no jogo são invenção. Leia a história em [Salme: dois navios enterrados com guerreiros, antes da Era Viking](/2026/11/29/salme-navios-ilha-saaremaa-estonia/).
+Em Salme, na ilha de Saaremaa, escavaram-se navios com guerreiros e objetos. Os desenhos de achados no jogo são invenção. Leia a história em [Salme: dois navios enterrados com guerreiros, antes da Era Viking](/pt/salme-navios-ilha-saaremaa-estonia/).

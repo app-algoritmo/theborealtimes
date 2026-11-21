@@ -23,4 +23,4 @@ Tap fast (or hammer the space bar) to pull. When the monster thrashes, the scree
 
 ## The story behind it
 
-In the Anglo-Saxon poem Beowulf, the hero tears off Grendel's arm with his bare hands. The test of strength in the game is made up. Read the story in [Beowulf and the hall of Heorot: the English poem set in Scandinavia and the monster Grendel](/en/2026/11/17/beowulf-heorot-grendel/).
+In the Anglo-Saxon poem Beowulf, the hero tears off Grendel's arm with his bare hands. The test of strength in the game is made up. Read the story in [Beowulf and the hall of Heorot: the English poem set in Scandinavia and the monster Grendel](/beowulf-and-the-hall-of-heorot-the-english-poem-set/).

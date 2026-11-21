@@ -23,4 +23,4 @@ Read each riddle and tap the right answer before its time runs out. Get at least
 
 ## The story behind it
 
-In the Hervarar saga, Gestumblindi poses riddles to King Heidrek. The riddles in this game are made up for the site. Read the story in [Gestumblindi: disguised Odin challenges King Heiðrekr with 37 riddles](/en/2026/12/13/gestumblindi-hervarar-saga-enigmas/).
+In the Hervarar saga, Gestumblindi poses riddles to King Heidrek. The riddles in this game are made up for the site. Read the story in [Gestumblindi: disguised Odin challenges King Heiðrekr with 37 riddles](/gestumblindi-disguised-odin-challenges-king-heidrekr/).

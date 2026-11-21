@@ -23,4 +23,4 @@ A vela de Thorvard corria à frente de todas as outras. Rajadas de vento cruzam 
 
 ## A história por trás
 
-No conto islandês, o rei Harald recusa a vela de Thorvard, e depois a vela de Eystein corre à frente do navio do rei. As rajadas de vento do jogo e o ritmo são invenção. Leia a história em [Thorvard Bico-de-Corvo: o islandês cuja vela o rei Harald recusou](/2027/03/28/thorvard-bico-de-corvo-o-islandes-cuja-vela-o-rei-harald-recusou/).
+No conto islandês, o rei Harald recusa a vela de Thorvard, e depois a vela de Eystein corre à frente do navio do rei. As rajadas de vento do jogo e o ritmo são invenção. Leia a história em [Thorvard Bico-de-Corvo: o islandês cuja vela o rei Harald recusou](/pt/thorvard-bico-de-corvo-o-islandes-cuja-vela-o-rei-harald-recusou/).

@@ -23,4 +23,4 @@ Dra fingeren (eller bruk ← →) for å flytte krigeren din; han kaster et spyd
 
 ## Historien bak
 
-I januar 871 beseiret vestsakserne vikingene ved Ashdown. Spillet med å skyte nedenfra er diktet opp. Les historien i [Ashdown, 871: Alfred angriper oppoverbakke og beseirer Den store hæren](/no/2026/12/20/ashdown-871-alfredo-ethelred-vikings/).
+I januar 871 beseiret vestsakserne vikingene ved Ashdown. Spillet med å skyte nedenfra er diktet opp. Les historien i [Ashdown, 871: Alfred angriper oppoverbakke og beseirer Den store hæren](/no/ashdown-871-alfred-angriper-oppoverbakke-og-beseirer/).

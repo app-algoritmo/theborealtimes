@@ -42,4 +42,4 @@ Em Mikladalur, uma estátua de bronze, inaugurada em 2014, mostra a mulher-foca 
 
 A estátua de Mikladalur é obra do escultor faroês Hans Pauli Olsen, e mostra a mulher-foca ainda em transformação, entre as duas formas. Fora das Faroé, o tema também virou canção: *The Great Silkie of Sule Skerry*, balada das Órcades, foi catalogada pelo estudioso Francis James Child no século XIX com o número 113. Nela, um homem-foca visita uma mulher em terra e deixa um filho. A ideia de um ser entre dois mundos atravessa as versões.
 
-Para guiar a foca pelo fundo do mar até a pele que a espera, jogue [A pele de foca](/jogo-a-pele-de-foca/).
+Para guiar a foca pelo fundo do mar até a pele que a espera, jogue [A pele de foca](/pt/jogo-a-pele-de-foca/).

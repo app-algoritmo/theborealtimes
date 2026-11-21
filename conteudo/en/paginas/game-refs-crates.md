@@ -23,4 +23,4 @@ Tap a square next to your character to walk to it. If there is a crate on that s
 
 ## The story behind it
 
-In the Króka-Refs saga, Ref builds a notable ship and is given the nickname "Ref the Sly" by King Harald Hardrada. Pushing crates onto marks is invented. Read the story in [The saga of Króka-Ref: the sly Icelander who went through Greenland, Norway and Denmark](/en/2027/02/21/saga-de-kroka-ref-o-astuto-groenlandia-noruega-danimarca/).
+In the Króka-Refs saga, Ref builds a notable ship and is given the nickname "Ref the Sly" by King Harald Hardrada. Pushing crates onto marks is invented. Read the story in [The saga of Króka-Ref: the sly Icelander who went through Greenland, Norway and Denmark](/the-saga-of-kroka-ref-the-sly-icelander-who-went-through/).

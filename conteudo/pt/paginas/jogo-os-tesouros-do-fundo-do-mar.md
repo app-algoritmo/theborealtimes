@@ -23,4 +23,4 @@ Toque numa peça e depois numa vizinha para trocá-las (ou arraste). Alinhe trê
 
 ## A história por trás
 
-Na balada, Agnete vive no fundo do mar com o tritão e acaba voltando à terra. Os tesouros do jogo são invenção. Leia a história em [Agnete e o tritão: a balada dinamarquesa da mulher que viveu no fundo do mar](/2026/11/20/agnete-tritao-balada-dinamarquesa/).
+Na balada, Agnete vive no fundo do mar com o tritão e acaba voltando à terra. Os tesouros do jogo são invenção. Leia a história em [Agnete e o tritão: a balada dinamarquesa da mulher que viveu no fundo do mar](/pt/agnete-tritao-balada-dinamarquesa/).

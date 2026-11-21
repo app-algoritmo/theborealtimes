@@ -41,4 +41,4 @@ As fontes não concordam em tudo. Em alguns poemas, as razões da morte de Sigur
 
 Isso mostra que ninguém tem a versão única. A história é um conjunto de narrativas heroicas escritas séculos depois dos tempos em que se passam, e nenhuma delas é um registro de fatos.
 
-Para tentar atravessar o círculo de fogo apagando todas as chamas, jogue [O círculo de fogo](/jogo-o-circulo-de-fogo/).
+Para tentar atravessar o círculo de fogo apagando todas as chamas, jogue [O círculo de fogo](/pt/jogo-o-circulo-de-fogo/).

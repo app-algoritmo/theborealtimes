@@ -44,4 +44,4 @@ Por fim, ela é vestida de noiva para substituir a noiva doente. No meio da dan�
 
 Li o conto em inglês e não no norueguês original, e o trecho que consultei não diz de onde Asbjørnsen e Moe o tiraram. Muitos leitores de hoje estranham que a "lição" dada à princesa seja uma série de humilhações, e o conto não explica por que Hacon escolhe esse caminho.
 
-Para repetir a ordem das três trocas de ouro do disfarce, jogue [As três trocas](/jogo-as-tres-trocas/).
+Para repetir a ordem das três trocas de ouro do disfarce, jogue [As três trocas](/pt/jogo-as-tres-trocas/).

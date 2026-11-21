@@ -23,4 +23,4 @@ Nå elva, i kolonnen til høyre, før nuckelaveen tar deg igjen. Den tar ett skr
 
 ## Historien bak
 
-Nuckelaveen er et vesen fra Orknøyene i Skottland som ikke tåler rennende ferskvann, og et offer kan slippe unna ved å krysse en elv eller bekk; den viktigste tidlige skriftlige kilden er Walter Traill Dennison, mellom 1880 og 1894. Heia er oppfunnet. Les historien i [Nuckelaveen fra Orknøyene: hestedemonen som ikke krysser rennende ferskvann](/no/2027/01/10/nuckelavee-demonio-cavalo-orkney-folclore/).
+Nuckelaveen er et vesen fra Orknøyene i Skottland som ikke tåler rennende ferskvann, og et offer kan slippe unna ved å krysse en elv eller bekk; den viktigste tidlige skriftlige kilden er Walter Traill Dennison, mellom 1880 og 1894. Heia er oppfunnet. Les historien i [Nuckelaveen fra Orknøyene: hestedemonen som ikke krysser rennende ferskvann](/no/nuckelaveen-fra-orknoyene-hestedemonen-som-ikke-krysser/).

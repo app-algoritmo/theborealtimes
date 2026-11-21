@@ -23,4 +23,4 @@ En markør går fram og tilbake over linjen. Trykk (eller bruk mellomromstasten)
 
 ## Historien bak
 
-Den 8. juni 793 angrep vikinger klosteret på Lindisfarne i Northumbria, og datoen ble merket for begynnelsen på vikingtiden. Detaljene om overfarten og åretaktene er diktet opp for spillet. Les historien i [Lindisfarne, 793: angrepet på klosteret som Europa husker som begynnelsen på vikingtiden](/no/2026/11/14/lindisfarne-793/).
+Den 8. juni 793 angrep vikinger klosteret på Lindisfarne i Northumbria, og datoen ble merket for begynnelsen på vikingtiden. Detaljene om overfarten og åretaktene er diktet opp for spillet. Les historien i [Lindisfarne, 793: angrepet på klosteret som Europa husker som begynnelsen på vikingtiden](/no/lindisfarne-793-angrepet-pa-klosteret-som-europa-husker/).

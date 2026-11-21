@@ -23,4 +23,4 @@ Primeiro, toque várias vezes (ou aperte a barra de espaço) para cavar a cova a
 
 ## A história por trás
 
-Na *Saga dos Volsungos*, Sigurd cava uma cova no caminho de Fafnir e o fere por baixo, seguindo o conselho de um velho que é Odin disfarçado. O jogo é uma simplificação: o tempo para cavar, as três passadas e o ponto claro da barriga são invenção. Leia a história em [Sigurd e o dragão Fafnir: como um herói matou a fera escondido numa cova](/2026/11/13/sigurd-fafnir/).
+Na *Saga dos Volsungos*, Sigurd cava uma cova no caminho de Fafnir e o fere por baixo, seguindo o conselho de um velho que é Odin disfarçado. O jogo é uma simplificação: o tempo para cavar, as três passadas e o ponto claro da barriga são invenção. Leia a história em [Sigurd e o dragão Fafnir: como um herói matou a fera escondido numa cova](/pt/sigurd-fafnir/).

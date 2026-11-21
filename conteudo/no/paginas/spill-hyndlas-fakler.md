@@ -23,4 +23,4 @@ Trykk på en fakkel for å bytte tilstanden til den og de fire naboene (tent ell
 
 ## Historien bak
 
-I Hyndluljóð tar Freyja med Óttarr til hulen til seeren Hyndla. Faklene og lysgåten er diktet opp. Les historien i [Hyndluljóð: Freyja rir en villsvin til hulen der seeren kjenner alle slekter](/no/2026/12/06/hyndluljod-freyja-hyndla-genealogia/).
+I Hyndluljóð tar Freyja med Óttarr til hulen til seeren Hyndla. Faklene og lysgåten er diktet opp. Les historien i [Hyndluljóð: Freyja rir en villsvin til hulen der seeren kjenner alle slekter](/no/hyndluljod-freyja-rir-en-villsvin-til-hulen-der-seeren/).

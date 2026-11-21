@@ -33,4 +33,4 @@ Há muitos achados que se leem como Odin com aves. Em bracteatos de ouro da Era 
 
 Nenhuma dessas leituras é pacífica. Rudolf Simek acha improvável que os nomes tenham sido criados antes dos séculos IX ou X e vê os corvos como derivados de um simbolismo mais antigo do corvo, como o estandarte do corvo. John Lindow propõe aproximá-los da viagem do xamã em transe. Anthony Winterbourne os liga aos espíritos guardiões de forma animal. Essas são hipóteses, não conclusões.
 
-Para guiar um corvo entre pedras e árvores, tocando para ele bater as asas, até completar uma volta sobre Midgard, jogue [A volta sobre Midgard](/jogo-a-volta-sobre-midgard/).
+Para guiar um corvo entre pedras e árvores, tocando para ele bater as asas, até completar uma volta sobre Midgard, jogue [A volta sobre Midgard](/pt/jogo-a-volta-sobre-midgard/).

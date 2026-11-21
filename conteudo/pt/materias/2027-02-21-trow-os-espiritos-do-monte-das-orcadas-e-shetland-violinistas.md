@@ -52,4 +52,4 @@ O trow é um espírito de monte que sai à noite e gosta de violino. A palavra �
 
 A etimologia de *trow*, se de *troll* ou de *draugr*, não está resolvida. A leitura de "trowis" em 1529 é disputada. A síntese de Emerick é especulação dela, e a ideia de Dey sobre a conquista nórdica também é especulativa. O que as histórias dizem sobre o tempo nos montes é tradição, e não há prova de nada disso.
 
-Para repetir a melodia na ordem certa, como quem aprende uma música de trows, jogue [A melodia dos trows](/jogo-a-melodia-dos-trows/).
+Para repetir a melodia na ordem certa, como quem aprende uma música de trows, jogue [A melodia dos trows](/pt/jogo-a-melodia-dos-trows/).

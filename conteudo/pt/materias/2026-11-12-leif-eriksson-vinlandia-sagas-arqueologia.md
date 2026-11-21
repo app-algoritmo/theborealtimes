@@ -45,4 +45,4 @@ Em 2021, um estudo publicado na revista Nature datou com precisão a madeira cor
 O resultado confirma presença nórdica na América do Norte pelo menos 470 anos antes da primeira viagem de Colombo, em 1492. Não resolve, porém, se L'Anse aux Meadows é a Vinlândia de Leif. Entre os restos achados no sítio havia nozes de uma árvore, a nogueira-branca, que não cresce tão ao norte, o que sugere que os nórdicos conheciam terras mais ao sul.
 
 
-Para navegar até a Vinlândia, jogue [A viagem de Leif](/jogo-viagem-de-leif/).
+Para navegar até a Vinlândia, jogue [A viagem de Leif](/pt/jogo-viagem-de-leif/).

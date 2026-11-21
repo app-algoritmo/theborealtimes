@@ -40,4 +40,4 @@ The English source cites a chapter by Rebecca Merkelbach, from 2020, titled "The
 
 The two sources differ on the date: the first speaks of the first half of the 14th century, and the second of the end of the 14th century. They also give different names for the opening character, Thorstein Svarfað and Torstein Torgnysson, and the sources do not clarify whether they are the same person. Because there is a lacuna in the 17th-century copy, the link between the two parts of the saga is left unclear, and neither source details the characters of the dispute or the events of the lost part.
 
-To put the plots of a valley into the right order, sliding one at a time, play [The pieces of the valley](/en/game-the-pieces-of-the-valley/).
+To put the plots of a valley into the right order, sliding one at a time, play [The pieces of the valley](/game-the-pieces-of-the-valley/).

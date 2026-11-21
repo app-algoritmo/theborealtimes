@@ -43,4 +43,4 @@ Há diferenças grandes. Em Saxo, Amleth age sem demora e termina vitorioso. Sha
 
 Saxo escreveu em latim culto, com versos e ecos de autores clássicos, e adaptou a matéria nórdica ao gosto de um clérigo da Dinamarca medieval. Por isso a história de Amleth traz traços de contos que existem em outras culturas, como o do herói que se faz de tolo para sobreviver. Os estudiosos a comparam ao romano Bruto, que, segundo Lívio, também fingiu estupidez. Eles discutem quanto vem de tradição oral dinamarquesa e quanto foi composto ou reformulado pelo próprio Saxo. Nenhuma fonte independente confirma a existência de Amleth ou de Feng, e a história deve ser lida como lenda.
 
-Para tentar acompanhar com os olhos a carta que Amleth troca, jogue [A carta trocada](/jogo-a-carta-trocada/).
+Para tentar acompanhar com os olhos a carta que Amleth troca, jogue [A carta trocada](/pt/jogo-a-carta-trocada/).

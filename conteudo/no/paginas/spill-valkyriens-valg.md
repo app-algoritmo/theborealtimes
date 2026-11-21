@@ -23,4 +23,4 @@ Krigere faller fra slagmarken, én etter én. De med ravnefjær går til Valhall
 
 ## Historien bak
 
-I de norrøne kildene velger valkyrjene krigere som er falt i kamp; Odin mottar en del av dem i Valhall, og Frøya velger de andre til Folkvang. Regelen med ravn og halsbånd er diktet opp for spillet. Les historien i [Valkyrjer og Valhall: hvem Odin og Frøya tar imot blant dem som faller i strid](/no/2026/11/14/valquirias-valhalla/).
+I de norrøne kildene velger valkyrjene krigere som er falt i kamp; Odin mottar en del av dem i Valhall, og Frøya velger de andre til Folkvang. Regelen med ravn og halsbånd er diktet opp for spillet. Les historien i [Valkyrjer og Valhall: hvem Odin og Frøya tar imot blant dem som faller i strid](/no/valkyrjer-og-valhall-hvem-odin-og-froya-tar-imot-blant-dem/).

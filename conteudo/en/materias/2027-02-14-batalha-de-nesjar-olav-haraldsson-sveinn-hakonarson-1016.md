@@ -44,4 +44,4 @@ A *co-ruler* is someone who governs jointly with another. A *naval battle* is a 
 
 The number of men and ships is not known. The exact site is a matter of tradition, not of proof. The date of Olaf's arrival varies between 1014, 1015 and 1016, and the end of Sveinn, dead of illness in Sweden, is given only with the approximate date of 1016. The *Heimskringla* and the *Fagrskinna* were written after the event. The sources used here are encyclopaedia entries and do not allow the manoeuvres of the battle to be reconstructed.
 
-To take a map of waters and lands in a single colour, like a conquered fjord, play [The fjord taken](/en/game-the-fjord-taken/).
+To take a map of waters and lands in a single colour, like a conquered fjord, play [The fjord taken](/game-the-fjord-taken/).

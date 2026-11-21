@@ -23,4 +23,4 @@ O cavalo do riacho espera num vau escondido no rio. Toque numa pedra para pisar 
 
 ## A história por trás
 
-Na tradição sueca, o cavalo do riacho espera junto à água e quem sobe nele não desce mais. O vau escondido e as pistas são invenção. Leia a história em [Bäckahäst: o cavalo branco do riacho que afoga quem sobe nas suas costas](/2026/12/27/backahast-cavalo-do-riacho-folclore-sueco/).
+Na tradição sueca, o cavalo do riacho espera junto à água e quem sobe nele não desce mais. O vau escondido e as pistas são invenção. Leia a história em [Bäckahäst: o cavalo branco do riacho que afoga quem sobe nas suas costas](/pt/backahast-cavalo-do-riacho-folclore-sueco/).

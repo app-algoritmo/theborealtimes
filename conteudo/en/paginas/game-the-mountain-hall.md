@@ -23,4 +23,4 @@ You were taken inside the mountain. Drag sideways (or use the arrows) to dodge t
 
 ## The story behind it
 
-In Norwegian legends, someone who is bergtatt, "taken by the mountain", may return, but changed. The hall and the stones are made up for the game. Read the story in [Bergtatt: the Norwegian belief in those taken into the mountain](/en/2026/11/20/bergtatt-levado-pela-montanha/).
+In Norwegian legends, someone who is bergtatt, "taken by the mountain", may return, but changed. The hall and the stones are made up for the game. Read the story in [Bergtatt: the Norwegian belief in those taken into the mountain](/bergtatt-the-norwegian-belief-in-those-taken/).

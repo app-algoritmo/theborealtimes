@@ -48,4 +48,4 @@ Em 1050, o rei norueguês Harald Hardrada atacou a cidade e a incendiou. Em 1066
 
 Como ninguém reconstruiu a cidade por cima, o solo preservou muitos vestígios. Em 2018, a Unesco incluiu o complexo de Hedeby e Danevirke na lista do Patrimônio Mundial. O museu ao lado do sítio mostra casas reconstruídas, e é um dos melhores lugares para ver a Era Viking como um tempo de trocas, e não apenas de ataques.
 
-Para organizar as cargas do cais, jogue [O porto de Hedeby](/jogo-o-porto-de-hedeby/).
+Para organizar as cargas do cais, jogue [O porto de Hedeby](/pt/jogo-o-porto-de-hedeby/).

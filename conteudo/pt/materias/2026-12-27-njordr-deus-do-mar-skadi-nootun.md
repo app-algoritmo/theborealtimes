@@ -45,4 +45,4 @@ O nome vem do protogermânico *Nerþuz. Muitos estudiosos o ligam a Nerthus, a d
 
 Quase tudo que se sabe vem de textos escritos no século XIII, séculos depois da conversão. O que vem das fontes é o desenho de um deus ligado ao mar e à riqueza, e o resto, como uma devoção popular antiga, é hipótese.
 
-Para jogar dados arriscando o ganho de uma viagem, guardando os pontos no porto antes de chegar a 50, jogue [Os dados do porto](/jogo-os-dados-do-porto/).
+Para jogar dados arriscando o ganho de uma viagem, guardando os pontos no porto antes de chegar a 50, jogue [Os dados do porto](/pt/jogo-os-dados-do-porto/).

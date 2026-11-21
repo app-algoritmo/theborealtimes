@@ -23,4 +23,4 @@ There are 3 boats buried in the grid, straight and not touching. The numbers on 
 
 ## The story behind it
 
-Valsgärde lies about 3 km north of Gamla Uppsala. Uppsala University excavated eight boat graves in 1928–1936 and the remaining six in 1946–1952. The grid is invented. Read the story in [Valsgärde, the boat graves near Uppsala: what Uppsala University has excavated since 1928](/en/2027/01/10/valsgarde-tumulos-de-barco-uppland-vendel/).
+Valsgärde lies about 3 km north of Gamla Uppsala. Uppsala University excavated eight boat graves in 1928–1936 and the remaining six in 1946–1952. The grid is invented. Read the story in [Valsgärde, the boat graves near Uppsala: what Uppsala University has excavated since 1928](/valsgarde-the-boat-graves-near-uppsala-what-uppsala/).

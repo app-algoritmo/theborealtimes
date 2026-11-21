@@ -41,4 +41,4 @@ The Jólasveinar are thirteen lads of Icelandic folklore who visit houses on the
 
 The sources consulted do not give the dates of the first mention of each Jólasveinn or explain how each name arose. It is also unclear how much of the mischief comes from old beliefs and how much was added by writers of the nineteenth and twentieth centuries.
 
-To hide the right food before each lad steals it, play [The guarded supper](/en/game-the-guarded-supper/).
+To hide the right food before each lad steals it, play [The guarded supper](/game-the-guarded-supper/).

@@ -23,4 +23,4 @@ Kong Harald vil sette Brands raushet på prøve. Kongens ønske står øverst p�
 
 ## Historien bak
 
-I fortellingen om Brand den rause ber kong Harald om Brands kappe, øks og tunika, og Brand gir dem og beholder bare det ene ermet. Den tilfeldige rekkefølgen på ønskene og bytten av plass er oppdiktet. Les historien i [Brand den gavmilde: islendingen som ga kappe, øks og et halvt erme til kong Harald](/no/2027/03/28/brand-o-generoso-o-islandes-que-deu-capa-machado-e-meia-tunica-ao-rei-harald/).
+I fortellingen om Brand den rause ber kong Harald om Brands kappe, øks og tunika, og Brand gir dem og beholder bare det ene ermet. Den tilfeldige rekkefølgen på ønskene og bytten av plass er oppdiktet. Les historien i [Brand den gavmilde: islendingen som ga kappe, øks og et halvt erme til kong Harald](/no/brand-den-gavmilde-islendingen-som-ga-kappe-oks-og-et-halvt/).

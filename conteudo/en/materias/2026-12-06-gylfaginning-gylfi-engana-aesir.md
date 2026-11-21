@@ -37,4 +37,4 @@ At the end of the book, when Gangleri has finished listening, a great noise is h
 
 When reading the *Gylfaginning* one must remember that Snorri was a Christian writing about two centuries after the end of the Viking Age. He uses the frame of the illusion as a way of presenting this mythology without saying that it is true: what is told is what the "gods" said to a deceived king. This helps to understand why a Christian author could preserve so many pagan stories. For research the book is one of our main sources, but also a literary work, with the author's own choices.
 
-To knock down, with a ball and a paddle, the bricks of the hall that dissolves before King Gylfi, play [Gylfi's hall](/en/game-gylfis-hall/).
+To knock down, with a ball and a paddle, the bricks of the hall that dissolves before King Gylfi, play [Gylfi's hall](/game-gylfis-hall/).

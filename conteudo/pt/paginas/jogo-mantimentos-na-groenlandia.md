@@ -23,4 +23,4 @@ Toque ou arraste na tela para mover o viajante pela praia. Pegue os caixotes de 
 
 ## A história por trás
 
-Na Flóamanna saga, Þorgils naufraga na Groenlândia, os companheiros adoecem e ele fica com um bebê para criar. A chuva de gelo e de caixotes é invenção. Leia a história em [Flóamanna saga: Þorgils Orrabeinsfóstri e a viagem à Groenlândia](/2027/03/07/floamanna-saga-porgils-orrabeinsfostri-e-a-viagem-a-groenlandia/).
+Na Flóamanna saga, Þorgils naufraga na Groenlândia, os companheiros adoecem e ele fica com um bebê para criar. A chuva de gelo e de caixotes é invenção. Leia a história em [Flóamanna saga: Þorgils Orrabeinsfóstri e a viagem à Groenlândia](/pt/floamanna-saga-porgils-orrabeinsfostri-e-a-viagem-a-groenlandia/).

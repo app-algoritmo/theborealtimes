@@ -49,4 +49,4 @@ Flóki, o dos corvos, pescou demais, esqueceu o feno e perdeu as ovelhas. Do alt
 
 A Landnámabók foi escrita séculos depois do povoamento, e o próprio texto só vale se o relato for verdadeiro. A data por volta de 860 a 870 depende disso. Quanto à montanha de onde Flóki viu o gelo, os moradores só dizem que "talvez" seja a Lónfell, e as ruínas Flókatóftir são atribuídas a ele por tradição, sem prova.
 
-Para pegar o feno que cai e deixar o peixe passar, jogue [Feno antes do inverno](/jogo-feno-antes-do-inverno/).
+Para pegar o feno que cai e deixar o peixe passar, jogue [Feno antes do inverno](/pt/jogo-feno-antes-do-inverno/).

@@ -23,4 +23,4 @@ Three jugs hold 8, 5 and 3 measures, and only the largest starts full. Tap a jug
 
 ## The story behind it
 
-A thrall (þræll) was an enslaved person of the Viking Age, below the karl, the freeman, and the jarl, according to the poem Rígsþula; the word comes from a Germanic root meaning "runner". The jugs are invented. Read the story in [Thralls: the enslaved people of the Viking Age, between the free karl and the noble jarl](/en/2027/01/10/thralls-escravizados-era-viking-rigsthula/).
+A thrall (þræll) was an enslaved person of the Viking Age, below the karl, the freeman, and the jarl, according to the poem Rígsþula; the word comes from a Germanic root meaning "runner". The jugs are invented. Read the story in [Thralls: the enslaved people of the Viking Age, between the free karl and the noble jarl](/thralls-the-enslaved-people-of-the-viking-age-between/).

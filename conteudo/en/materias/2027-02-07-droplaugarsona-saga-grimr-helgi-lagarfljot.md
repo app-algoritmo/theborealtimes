@@ -48,4 +48,4 @@ The characters the sources mention are Droplaug, the mother; Grímr and Helgi, t
 
 The date is given as "probably" the 13th century, and the sources say nothing about the author or the manuscripts. It is also unclear at which exact points the two sagas, Droplaugarsona and Fljótsdœla, differ: the English source only states that they differ. The two sources, moreover, give differently spelled names for the adversary, Helgi Ásbjarnarson and Helge Åsbjørnsson, which seem to be the same person in different spellings, but that is our reading, not a statement of the sources.
 
-To guide two brothers at the same time, each in his own field, play [The mirrored brothers](/en/game-the-mirrored-brothers/).
+To guide two brothers at the same time, each in his own field, play [The mirrored brothers](/game-the-mirrored-brothers/).

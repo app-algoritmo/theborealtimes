@@ -23,4 +23,4 @@ O inimigo empurra a linha. Toque (ou use a barra de espaço) para empurrar de vo
 
 ## A história por trás
 
-A batalha de Stiklestad, em 1030, custou a vida ao rei Olavo Haraldsson. As sagas dizem que o sol escureceu durante o combate; se foi um eclipse, os estudiosos discutem. O jogo é uma simplificação. Leia a história em [Stiklestad, 1030: a batalha em que morreu o rei Olavo e nasceu o santo da Noruega](/2026/11/14/stiklestad-olavo/).
+A batalha de Stiklestad, em 1030, custou a vida ao rei Olavo Haraldsson. As sagas dizem que o sol escureceu durante o combate; se foi um eclipse, os estudiosos discutem. O jogo é uma simplificação. Leia a história em [Stiklestad, 1030: a batalha em que morreu o rei Olavo e nasceu o santo da Noruega](/pt/stiklestad-olavo/).

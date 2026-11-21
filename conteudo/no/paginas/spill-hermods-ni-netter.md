@@ -23,4 +23,4 @@ Hermóð rir Sleipnir mot Hel. Hver natt løper en markør fram og tilbake langs
 
 ## Historien bak
 
-I Gylfaginning rir Hermóð Odins Sleipnir i ni netter, forbi Gjallarbrua og hopper over porten til Hel. Stien med markører er oppfunnet. Les historien i [Hermóð, Odins sønn som red ni netter til Hel for å hente Baldr](/no/2027/01/17/hermodr-cavalgada-nove-noites-hel-baldr/).
+I Gylfaginning rir Hermóð Odins Sleipnir i ni netter, forbi Gjallarbrua og hopper over porten til Hel. Stien med markører er oppfunnet. Les historien i [Hermóð, Odins sønn som red ni netter til Hel for å hente Baldr](/no/hermod-odins-sonn-som-red-ni-netter-til-hel-for-a-hente/).

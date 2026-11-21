@@ -45,4 +45,4 @@ Today, archaeology shows a people who adapted for a long time to a hard place. I
 
 Brattahlíð, Eirik's farm, and Garðar, the bishop's seat, are among the most studied sites. At Garðar the ruins of a cathedral remain. At Herjolfsnes, excavations in 1921 found graves with woollen clothing preserved by the frozen soil, in the style of European fashion of the late Middle Ages. These finds show that the Greenlanders followed the fashion of the continent, even living far away, and that they cared for their dead as in any European parish. Recent excavations keep revising the picture, and each new find changes a little the question of why the farms were left empty.
 
-To try to cross the fjord by hopping from one ice floe to the next, play [Crossing the fjord](/en/game-crossing-the-fjord/).
+To try to cross the fjord by hopping from one ice floe to the next, play [Crossing the fjord](/game-crossing-the-fjord/).

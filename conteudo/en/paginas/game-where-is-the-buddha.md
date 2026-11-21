@@ -23,4 +23,4 @@ The Buddha statuette is under one of the pots. See where it lies, watch the pots
 
 ## The story behind it
 
-At Helgö, in Sweden, excavations in 1954 found a bronze statuette of the Buddha, from the 6th century and in North Indian style. The swapping of the pots is invented. Read the story in [Helgö: the Buddha statuette found on an island in Lake Mälaren, Sweden](/en/2027/03/07/helgo-a-estatueta-de-buda-achada-numa-ilha-do-lago-malaren-na-suecia/).
+At Helgö, in Sweden, excavations in 1954 found a bronze statuette of the Buddha, from the 6th century and in North Indian style. The swapping of the pots is invented. Read the story in [Helgö: the Buddha statuette found on an island in Lake Mälaren, Sweden](/helgo-the-buddha-statuette-found-on-an-island-in-lake/).

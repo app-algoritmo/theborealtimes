@@ -43,4 +43,4 @@ A *Fagrskinna* e a *Heimskringla* usaram a *Morkinskinna*. Isso importa para que
 
 O artigo não nomeia um autor nem discute a autoria, e não trata de folhas perdidas. Também não diz se a saga era mais longa do que a cópia que sobrou, apenas que termina de forma abrupta. Quem a lê deve lembrar que se trata de uma narrativa composta quase dois séculos depois dos fatos que começa a contar.
 
-Para juntar pergaminhos iguais até formar um só, o de número 128, jogue [Os pergaminhos da Morkinskinna](/jogo-os-pergaminhos-da-morkinskinna/).
+Para juntar pergaminhos iguais até formar um só, o de número 128, jogue [Os pergaminhos da Morkinskinna](/pt/jogo-os-pergaminhos-da-morkinskinna/).

@@ -23,4 +23,4 @@ Det er to kar i ulik størrelse og ingen målestreker. Trykk på knappene: fyll 
 
 ## Historien bak
 
-I Kalevala oppstår verden av et egg som brytes over havet. Karene og målene i spillet er diktet opp. Les historien i [Ilmatar: luftas datter som fløt sju hundre år på havet og anda som la verden](/no/2026/11/22/ilmatar-criacao-do-mundo-kalevala/).
+I Kalevala oppstår verden av et egg som brytes over havet. Karene og målene i spillet er diktet opp. Les historien i [Ilmatar: luftas datter som fløt sju hundre år på havet og anda som la verden](/no/ilmatar-luftas-datter-som-flot-sju-hundre-ar-pa-havet/).

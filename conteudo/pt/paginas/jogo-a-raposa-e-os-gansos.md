@@ -23,4 +23,4 @@ Você move os gansos: toque num ganso e depois numa casa livre ao lado dele. A r
 
 ## A história por trás
 
-Harald Hardrada serviu em Kiev e em Constantinopla e voltou para ser rei da Noruega. A raposa e os gansos são invenção. Leia a história em [Harald Hardrada: do campo de Stiklestad à Guarda Varegue e à morte em Stamford Bridge](/2026/12/27/harald-hardrada-varegue-rei-stamford-bridge/).
+Harald Hardrada serviu em Kiev e em Constantinopla e voltou para ser rei da Noruega. A raposa e os gansos são invenção. Leia a história em [Harald Hardrada: do campo de Stiklestad à Guarda Varegue e à morte em Stamford Bridge](/pt/harald-hardrada-varegue-rei-stamford-bridge/).

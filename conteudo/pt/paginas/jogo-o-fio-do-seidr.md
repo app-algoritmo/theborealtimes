@@ -23,4 +23,4 @@ Há vários fios de contas. Na sua vez, toque numa conta para tirar essa conta e
 
 ## A história por trás
 
-Seiðr é uma prática de magia nórdica; a palavra é glosada como "corda, fio, laço", e quem a praticava segurava uma roca ritual. Tirar contas de fios é invenção. Leia a história em [Seiðr: a magia nórdica do fio, da roca ritual e das videntes, as völur](/2027/02/21/seidr-magia-nordica-volva-roca-ritual-eiriks-saga/).
+Seiðr é uma prática de magia nórdica; a palavra é glosada como "corda, fio, laço", e quem a praticava segurava uma roca ritual. Tirar contas de fios é invenção. Leia a história em [Seiðr: a magia nórdica do fio, da roca ritual e das videntes, as völur](/pt/seidr-magia-nordica-volva-roca-ritual-eiriks-saga/).

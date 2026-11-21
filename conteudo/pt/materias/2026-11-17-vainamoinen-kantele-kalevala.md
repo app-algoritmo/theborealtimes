@@ -44,4 +44,4 @@ Para os finlandeses do século XIX, o *Kalevala* ajudou a dar valor à língua e
 
 A versão ampliada do *Kalevala*, de 1849, tem cinquenta cantos e cerca de vinte e dois mil versos. A Finlândia celebra o Dia do Kalevala em 28 de fevereiro, data ligada à publicação da primeira versão. O poema inspirou o compositor Jean Sibelius, que escreveu obras como a *Suíte Lemminkäinen*, e também o escritor J. R. R. Tolkien, que reconheceu o peso da história de Kullervo na criação de Túrin, personagem do seu *Silmarillion*.
 
-Para afinar as cordas do kantele de Väinämöinen de ouvido, jogue [Afine o kantele](/jogo-afine-o-kantele/).
+Para afinar as cordas do kantele de Väinämöinen de ouvido, jogue [Afine o kantele](/pt/jogo-afine-o-kantele/).

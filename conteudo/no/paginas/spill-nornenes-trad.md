@@ -23,4 +23,4 @@ Dra fingeren (eller musa, eller bruk pil opp og ned) for å flytte trådspissen.
 
 ## Historien bak
 
-I de norrøne kildene former nornene skjebnen ved Urds brønn. Tråden og båndet i spillet er diktet opp. Les historien i [Nornene: de tre kvinnene som steller verdenstreet og skjebnen til alle](/no/2026/11/16/nornas-urdarbrunnr-destino/).
+I de norrøne kildene former nornene skjebnen ved Urds brønn. Tråden og båndet i spillet er diktet opp. Les historien i [Nornene: de tre kvinnene som steller verdenstreet og skjebnen til alle](/no/nornene-de-tre-kvinnene-som-steller-verdenstreet/).

@@ -39,4 +39,4 @@ Muitos editores incluem o poema entre os da Edda Poética, mesmo que ele não es
 
 A página consultada não traz data de composição do poema, nem a quantidade de estrofes. A cronologia de Snorri, que liga a paz de Fróði a Augusto e ao nascimento de Cristo, faz parte da narrativa lendária e não é uma data histórica. Há versões populares posteriores, entre elas a do sal do mar, que sobrevive em contos folclóricos e em tradições das Órcades e das Shetland.
 
-Para juntar, de duas em duas, as peças de mesmo número num quadro de quatro por quatro, até chegar à peça de 256, jogue [As mós de Grotti](/jogo-as-mos-de-grotti/).
+Para juntar, de duas em duas, as peças de mesmo número num quadro de quatro por quatro, até chegar à peça de 256, jogue [As mós de Grotti](/pt/jogo-as-mos-de-grotti/).

@@ -23,4 +23,4 @@ Move through the channels of the river. Arrows or WASD, or tap in the direction 
 
 ## The story behind it
 
-In the Kalevala, Lemminkäinen's mother rakes his pieces out of the river of Tuonela. The chasing swan in the game is made up. Read the story in [Lemminkäinen in the river of Tuonela: the mother who fished her son's pieces out with a rake](/en/2026/11/22/lemminkainen-tuonela-mae-rastelo/).
+In the Kalevala, Lemminkäinen's mother rakes his pieces out of the river of Tuonela. The chasing swan in the game is made up. Read the story in [Lemminkäinen in the river of Tuonela: the mother who fished her son's pieces out with a rake](/lemminkainen-in-the-river-of-tuonela-the-mother-who-fished/).

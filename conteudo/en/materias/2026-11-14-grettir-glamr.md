@@ -38,4 +38,4 @@ What Glámr said comes true. Grettir becomes afraid of walking alone in the dark
 
 The text of the saga calls Glámr a troll, not a *draugr*, the undead of Norse tradition. Some scholars call him a draugr, because he brings together what is said of such beings: supernatural strength, the refusal to stay buried and the harm done to the living. What the saga clearly shows is a ghost whose strongest weapon is his gaze.
 
-To face Glámr, play [Glámr's eyes](/en/game-glamrs-eyes/).
+To face Glámr, play [Glámr's eyes](/game-glamrs-eyes/).

@@ -23,4 +23,4 @@ Toque numa casa para escurecê-la, e de novo para clareá-la. Escureça casas at
 
 ## A história por trás
 
-A Pedra de Kensington, relatada em 1898 por Olof Ohman em Minnesota, traz uma inscrição rúnica que fala do ano de 1362. A maioria dos estudiosos a considera uma falsificação do século XIX. Apagar números é invenção. Leia a história em [A Pedra de Kensington: a inscrição rúnica de 1362 achada em Minnesota em 1898](/2027/01/31/pedra-de-kensington-minnesota-runas-1898-1362/).
+A Pedra de Kensington, relatada em 1898 por Olof Ohman em Minnesota, traz uma inscrição rúnica que fala do ano de 1362. A maioria dos estudiosos a considera uma falsificação do século XIX. Apagar números é invenção. Leia a história em [A Pedra de Kensington: a inscrição rúnica de 1362 achada em Minnesota em 1898](/pt/pedra-de-kensington-minnesota-runas-1898-1362/).

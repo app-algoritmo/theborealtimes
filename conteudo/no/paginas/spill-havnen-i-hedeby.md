@@ -23,4 +23,4 @@ Kassen svinger fra side til side. Trykk (eller bruk mellomromstasten) for å sli
 
 ## Historien bak
 
-Hedeby var en stor handelshavn, i bruk fra 700-tallet til midten av 1000-tallet. Kassene og kranen er diktet opp for spillet. Les historien i [Hedeby: vikinghavnen der verdens kjøpmenn møttes](/no/2026/11/16/hedeby-porto-viking/).
+Hedeby var en stor handelshavn, i bruk fra 700-tallet til midten av 1000-tallet. Kassene og kranen er diktet opp for spillet. Les historien i [Hedeby: vikinghavnen der verdens kjøpmenn møttes](/no/hedeby-vikinghavnen-der-verdens-kjopmenn-mottes/).

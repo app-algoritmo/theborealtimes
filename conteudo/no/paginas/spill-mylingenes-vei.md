@@ -23,4 +23,4 @@ Du går alene på en vei om natten. Trykk på venstre eller høyre halvdel av sk
 
 ## Historien bak
 
-I skandinavisk folklore er mylingen sjelen til et barn som døde udøpt. Veien og løpet er oppfunnet. Les historien i [Mylingen: barnesjelen som ber om å bli båret på veien om natten i nordisk folklore](/no/2027/01/03/mylingen-alma-de-crianca-folclore-nordico/).
+I skandinavisk folklore er mylingen sjelen til et barn som døde udøpt. Veien og løpet er oppfunnet. Les historien i [Mylingen: barnesjelen som ber om å bli båret på veien om natten i nordisk folklore](/no/mylingen-barnesjelen-som-ber-om-a-bli-baret-pa-veien-om/).

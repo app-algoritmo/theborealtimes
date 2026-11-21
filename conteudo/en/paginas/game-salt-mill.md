@@ -23,4 +23,4 @@ Hold your finger (or the space bar) to turn the mill and pour salt into the ship
 
 ## The story behind it
 
-In the Norwegian tale collected by Asbjørnsen and Moe, the sailor cannot stop the mill, the ship sinks and the mill keeps grinding salt at the bottom of the sea. It has a relative in the *Prose Edda*, the mill Grotti. The game is a simplification. Read the story in [The mill that still grinds salt at the bottom of the sea: the Norwegian tale and its relative in the Edda](/en/2026/11/13/moinho-sal-mar/).
+In the Norwegian tale collected by Asbjørnsen and Moe, the sailor cannot stop the mill, the ship sinks and the mill keeps grinding salt at the bottom of the sea. It has a relative in the *Prose Edda*, the mill Grotti. The game is a simplification. Read the story in [The mill that still grinds salt at the bottom of the sea: the Norwegian tale and its relative in the Edda](/the-mill-that-still-grinds-salt-at-the-bottom-of-the-sea/).

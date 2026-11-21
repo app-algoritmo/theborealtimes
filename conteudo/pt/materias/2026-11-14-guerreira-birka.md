@@ -39,4 +39,4 @@ Em 2019, Neil Price e colegas responderam na revista *Antiquity*, mantendo a con
 
 As sagas e os poemas falam de mulheres guerreiras, as *skjaldmeyjar*, "donzelas de escudo", mas poucos estudiosos as tomam como fato. Bj 581 é o enterro que mais se aproxima de provar que uma mulher, na era viking, podia ter sido enterrada com todos os símbolos de um chefe de guerra. Mesmo quem a vê como líder militar admite que um único túmulo não permite falar de muitas mulheres como ela.
 
-Para escolher o que cabia ao túmulo, jogue [Os bens do túmulo](/jogo-os-bens-do-tumulo/).
+Para escolher o que cabia ao túmulo, jogue [Os bens do túmulo](/pt/jogo-os-bens-do-tumulo/).

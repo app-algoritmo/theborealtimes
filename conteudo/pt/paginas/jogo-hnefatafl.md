@@ -23,4 +23,4 @@ Você joga com o rei (com coroa) e os quatro defensores, de roxo, e começa. Toq
 
 ## A história por trás
 
-O hnefatafl foi jogado na Era Viking, mas as regras originais se perderam e foram reconstruídas a partir de fontes posteriores. Este tabuleiro 7×7 é uma versão simplificada. Leia a história em [Hnefatafl: o jogo de tabuleiro que os vikings jogavam e que ninguém sabe exatamente como era](/2026/11/13/hnefatafl-tabuleiro/).
+O hnefatafl foi jogado na Era Viking, mas as regras originais se perderam e foram reconstruídas a partir de fontes posteriores. Este tabuleiro 7×7 é uma versão simplificada. Leia a história em [Hnefatafl: o jogo de tabuleiro que os vikings jogavam e que ninguém sabe exatamente como era](/pt/hnefatafl-tabuleiro/).

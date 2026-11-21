@@ -23,4 +23,4 @@ En melding er byttet ut med en hemmelig rekke av fargede segl, og den samme farg
 
 ## Historien bak
 
-I Bjarnar saga Hítdœlakappa forfalsker Þórðr meldingen der Björn friet til Oddný, sprer at han er død og gifter seg med henne. Å tyde segl er oppfunnet. Les historien i [Bjarnar saga Hítdœlakappa: to skalder, én kvinne og en fatal feide](/no/2027/02/14/bjarnar-saga-hitdaelakappa-bjorn-thordr-oddny/).
+I Bjarnar saga Hítdœlakappa forfalsker Þórðr meldingen der Björn friet til Oddný, sprer at han er død og gifter seg med henne. Å tyde segl er oppfunnet. Les historien i [Bjarnar saga Hítdœlakappa: to skalder, én kvinne og en fatal feide](/no/bjarnar-saga-hitdoelakappa-to-skalder-en-kvinne-og-en-fatal/).

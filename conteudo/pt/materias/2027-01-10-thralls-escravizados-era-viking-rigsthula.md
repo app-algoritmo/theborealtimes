@@ -43,4 +43,4 @@ As Leis do Ganso Cinzento, da Islândia, permitiam a escravidão até 1270, mas 
 
 O artigo não dá o preço de um thrall em xelins. As cifras de trinta escravizados por casa são estimativas, e a tensão sobre o valor da vida de um escravizado diante da lei, vista acima, ficou sem resposta.
 
-Para medir quatro e quatro com jarros de 8, 5 e 3 medidas, jogue [Os jarros do thrall](/jogo-os-jarros-do-thrall/).
+Para medir quatro e quatro com jarros de 8, 5 e 3 medidas, jogue [Os jarros do thrall](/pt/jogo-os-jarros-do-thrall/).

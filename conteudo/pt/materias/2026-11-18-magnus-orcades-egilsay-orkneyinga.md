@@ -42,4 +42,4 @@ Segundo a tradição, a história virou um exemplo de coragem sem violência. Pa
 
 A saga é, em parte, uma narrativa de santidade. Os autores medievais queriam mostrar que Magnus era piedoso e que sua morte foi um martírio, e por isso destacam a humildade, a oração e o perdão aos assassinos. Isso não significa que tudo seja invenção, mas ajuda a ler o texto com cuidado. Existem versões da vida de Magnus, em nórdico antigo e em latim, e elas divergem em detalhes. Sua festa é lembrada em 16 de abril, e o culto se espalhou pelas Órcades e além delas.
 
-Para contar quantos navios Hákon trouxe à ilha antes de o encontro começar, jogue [Os navios de Magnus](/jogo-os-navios-de-magnus/).
+Para contar quantos navios Hákon trouxe à ilha antes de o encontro começar, jogue [Os navios de Magnus](/pt/jogo-os-navios-de-magnus/).

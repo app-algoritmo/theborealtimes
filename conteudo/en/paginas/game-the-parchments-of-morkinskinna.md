@@ -23,4 +23,4 @@ Swipe, or use the arrow keys, to push all the parchments to one side. Two with t
 
 ## The story behind it
 
-Morkinskinna means "mouldy parchment": it is a kings' saga of Norway written in Iceland around 1220, with some 270 stanzas of skaldic verse. The numbers are invented. Read the story in [Morkinskinna, the "mouldy parchment": the saga of the kings of Norway written in Iceland around 1220](/en/2027/01/10/morkinskinna-pergaminho-bolorento-saga-dos-reis/).
+Morkinskinna means "mouldy parchment": it is a kings' saga of Norway written in Iceland around 1220, with some 270 stanzas of skaldic verse. The numbers are invented. Read the story in [Morkinskinna, the "mouldy parchment": the saga of the kings of Norway written in Iceland around 1220](/morkinskinna-the-mouldy-parchment-the-saga-of-the-kings/).

@@ -43,4 +43,4 @@ Ilmarinen forja uma noiva de ouro e prata para substituir a esposa morta, mas el
 
 Li o episódio numa tradução inglesa de 1888, e os detalhes das peças e dos metais podem variar em outras traduções. O texto não diz como a noiva foi feita a não ser pelas ações do ferreiro, e a explicação do aviso final é uma leitura minha: é o conselho de Väinämöinen, e não uma regra do poema.
 
-Para pôr ouro na brasa sem queimar nem esfriar demais, jogue [O ouro na brasa](/jogo-o-ouro-na-brasa/).
+Para pôr ouro na brasa sem queimar nem esfriar demais, jogue [O ouro na brasa](/pt/jogo-o-ouro-na-brasa/).

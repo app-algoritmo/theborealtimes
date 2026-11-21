@@ -48,4 +48,4 @@ In Reykjavík, a turf hall from the settlement age was found under a layer of as
 
 The page consulted does not give the hall's measurements. Archaeology does not identify the inhabitants. The link with Ingólfr is a reading of the *Landnámabók*, written centuries later, and not proof.
 
-To sift the finds from the hall, play [The sieve of finds](/en/game-the-sieve-of-finds/).
+To sift the finds from the hall, play [The sieve of finds](/game-the-sieve-of-finds/).

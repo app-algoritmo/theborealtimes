@@ -37,4 +37,4 @@ What we know of the belief comes from accounts by peasants collected by 19th-cen
 
 The idea that people could vanish into the mountains also has, according to many scholars, a practical side. In a land of fjords, cliffs and forests, walking alone at dusk was risky, and those who did not return had, in most cases, got lost or suffered an accident. The belief offered an explanation and, at the same time, a warning to the young: it was unwise to stray from home after sunset.
 
-To cross the mountain hall dodging the falling stones, until you find the way out, play [The mountain hall](/en/game-the-mountain-hall/).
+To cross the mountain hall dodging the falling stones, until you find the way out, play [The mountain hall](/game-the-mountain-hall/).

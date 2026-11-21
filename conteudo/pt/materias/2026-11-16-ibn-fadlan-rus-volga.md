@@ -45,4 +45,4 @@ Os arqueólogos já encontraram sepultamentos em navios na Escandinávia e em ou
 
 O relato inspirou romance e filme, inclusive uma versão de Hollywood com monstros que não aparecem no texto. A versão real é menos colorida, e mais interessante: um homem de Bagdá, de olhar atento, que viu homens do Norte longe de casa e anotou o que viu.
 
-Para separar o que o cronista escreveu do que se inventou depois, jogue [O relato de Ibn Fadlan](/jogo-o-relato-de-ibn-fadlan/).
+Para separar o que o cronista escreveu do que se inventou depois, jogue [O relato de Ibn Fadlan](/pt/jogo-o-relato-de-ibn-fadlan/).

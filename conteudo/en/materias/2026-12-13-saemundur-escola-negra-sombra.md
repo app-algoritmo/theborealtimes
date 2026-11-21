@@ -34,4 +34,4 @@ Another story says Sæmundur made a pact with the devil to be carried home, from
 
 The tale derives from an international type, that of the devil's school, which exists in other countries. What Iceland did was to link the story to a scholar who really existed and who travelled abroad. A reputation for knowing a great deal, in times when travel was rare, could lead people to imagine that such a man had made some bargain.
 
-To escape the maze of the Black School before the devil reaches your shadow, searching for the exit among the corridors, play [The Black School](/en/game-the-black-school/).
+To escape the maze of the Black School before the devil reaches your shadow, searching for the exit among the corridors, play [The Black School](/game-the-black-school/).

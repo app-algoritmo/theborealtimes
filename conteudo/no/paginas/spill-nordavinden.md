@@ -23,4 +23,4 @@ Trykk på skjermen (eller bruk mellomromstasten) for å stige; uten trykk synker
 
 ## Historien bak
 
-I det norske eventyret bærer Nordavinden jenta til slottet østenfor sol og vestenfor måne. Skyene er diktet opp for spillet. Les historien i [Østenfor sol og vestenfor måne: eventyret om den hvite bjørnen og Nordavinden](/no/2026/11/16/a-leste-do-sol-oeste-da-lua/).
+I det norske eventyret bærer Nordavinden jenta til slottet østenfor sol og vestenfor måne. Skyene er diktet opp for spillet. Les historien i [Østenfor sol og vestenfor måne: eventyret om den hvite bjørnen og Nordavinden](/no/ostenfor-sol-og-vestenfor-mane-eventyret-om-den-hvite/).

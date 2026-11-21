@@ -23,4 +23,4 @@ Dezesseis folhas de pergaminho estão viradas para baixo, cada uma com um selo q
 
 ## A história por trás
 
-A Fagrskinna foi escrita por volta de 1220 e narra a história da Noruega desde Halfdan, o Negro, até a batalha de Re, em 1177. O autor não é conhecido. Os selos são invenção. Leia a história em [Fagrskinna, o "Pergaminho Belo": a história dos reis da Noruega escrita por volta de 1220](/2027/01/17/fagrskinna-pergaminho-belo-reis-noruega-1220/).
+A Fagrskinna foi escrita por volta de 1220 e narra a história da Noruega desde Halfdan, o Negro, até a batalha de Re, em 1177. O autor não é conhecido. Os selos são invenção. Leia a história em [Fagrskinna, o "Pergaminho Belo": a história dos reis da Noruega escrita por volta de 1220](/pt/fagrskinna-pergaminho-belo-reis-noruega-1220/).

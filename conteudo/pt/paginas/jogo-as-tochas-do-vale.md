@@ -23,4 +23,4 @@ Algumas tochas estão acesas. Ao tocar numa tocha, ela e as quatro vizinhas, de 
 
 ## A história por trás
 
-A Fljótsdœla saga conta de novo a história dos irmãos Droplaugarsons, com detalhes que diferem da outra saga; foi provavelmente escrita bem mais tarde, talvez nos séculos XVI ou XVII. Apagar tochas é invenção. Leia a história em [Fljótsdœla saga: Droplaug, Þórdís e uma saga provavelmente escrita muito depois](/2027/02/07/fljotsdaela-saga-droplaug-todda-saga-tardia/).
+A Fljótsdœla saga conta de novo a história dos irmãos Droplaugarsons, com detalhes que diferem da outra saga; foi provavelmente escrita bem mais tarde, talvez nos séculos XVI ou XVII. Apagar tochas é invenção. Leia a história em [Fljótsdœla saga: Droplaug, Þórdís e uma saga provavelmente escrita muito depois](/pt/fljotsdaela-saga-droplaug-todda-saga-tardia/).

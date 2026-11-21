@@ -23,4 +23,4 @@ Tap or drag on the screen to move the traveller along the beach. Catch the falli
 
 ## The story behind it
 
-In the Flóamanna saga, Þorgils is shipwrecked in Greenland, his companions fall ill and he is left with an infant to raise. The rain of ice and crates is invented. Read the story in [Flóamanna saga: Þorgils Orrabeinsfóstri and the voyage to Greenland](/en/2027/03/07/floamanna-saga-porgils-orrabeinsfostri-e-a-viagem-a-groenlandia/).
+In the Flóamanna saga, Þorgils is shipwrecked in Greenland, his companions fall ill and he is left with an infant to raise. The rain of ice and crates is invented. Read the story in [Flóamanna saga: Þorgils Orrabeinsfóstri and the voyage to Greenland](/floamanna-saga-thorgils-orrabeinsfostri-and-the-voyage/).

@@ -23,4 +23,4 @@ The sister has to gather thistle down without speaking, laughing or crying. Purp
 
 ## The story behind it
 
-In the tale by Asbjørnsen and Moe, the sister must gather thistle and make twelve shirts without speaking, laughing or crying. The rain of thistles and bubbles and the rhythm of the game are invention. Read the story in [The Twelve Wild Ducks: the Norwegian tale of the sister who could not speak, laugh or weep](/en/2027/03/28/os-doze-patos-selvagens-conto-de-asbjornsen-e-moe-da-irma-que-nao-podia-falar/).
+In the tale by Asbjørnsen and Moe, the sister must gather thistle and make twelve shirts without speaking, laughing or crying. The rain of thistles and bubbles and the rhythm of the game are invention. Read the story in [The Twelve Wild Ducks: the Norwegian tale of the sister who could not speak, laugh or weep](/the-twelve-wild-ducks-the-norwegian-tale-of-the-sister/).

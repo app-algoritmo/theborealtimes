@@ -23,4 +23,4 @@ Ting fra verden dukker opp på skjermen i noen sekunder: ild, vann, jern, stein,
 
 ## Historien bak
 
-Snorre Sturlason forteller at Frigg tok ed av alle ting unntatt et misteltein-skudd som så for ungt ut, og at det var med det skuddet Balder døde. Spillet viser øyeblikket før tragedien. Antallet eder, klokken og valget om å huske misteltein er diktet opp. Les historien i [Balder, guden ingenting kunne skade, og misteltein-skuddet ingen husket å beskytte](/no/2026/11/13/baldr-visco/).
+Snorre Sturlason forteller at Frigg tok ed av alle ting unntatt et misteltein-skudd som så for ungt ut, og at det var med det skuddet Balder døde. Spillet viser øyeblikket før tragedien. Antallet eder, klokken og valget om å huske misteltein er diktet opp. Les historien i [Balder, guden ingenting kunne skade, og misteltein-skuddet ingen husket å beskytte](/no/balder-guden-ingenting-kunne-skade-og-misteltein-skuddet/).

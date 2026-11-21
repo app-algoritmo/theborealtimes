@@ -23,4 +23,4 @@ Hold fingeren (eller mellomromstasten) for å gå langs stien. Når øynene til 
 
 ## Historien bak
 
-Stállo er en jotun i samiske eventyr. Stien og blikket til jotunen er diktet opp for spillet. Les historien i [Stállo: den enfoldige kjempen i samiske eventyr, som alltid taper mot listen til dem han vil sluke](/no/2026/11/19/stallo-gigante-conto-sami/).
+Stállo er en jotun i samiske eventyr. Stien og blikket til jotunen er diktet opp for spillet. Les historien i [Stállo: den enfoldige kjempen i samiske eventyr, som alltid taper mot listen til dem han vil sluke](/no/stallo-den-enfoldige-kjempen-i-samiske-eventyr-som-alltid/).

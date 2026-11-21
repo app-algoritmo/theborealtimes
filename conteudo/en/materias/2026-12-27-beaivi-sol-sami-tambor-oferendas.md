@@ -42,4 +42,4 @@ Several sentences are flagged as "citation needed": the importance of the sun cu
 
 The Sámi sun deity is described differently by region, period and recorder, usually missionaries and ethnographers. What the sources suggest is a Sun tied to life, spring and the reindeer; the rest calls for caution.
 
-To touch the suns in order from 1 to 16, as fast as you can, play [Beaivi's suns](/en/game-beaivis-suns/).
+To touch the suns in order from 1 to 16, as fast as you can, play [Beaivi's suns](/game-beaivis-suns/).

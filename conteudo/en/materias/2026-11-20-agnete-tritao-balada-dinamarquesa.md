@@ -37,4 +37,4 @@ Today the story is read as a narrative about the choice between belongings. What
 
 The sea beings of Scandinavian traditions take varied forms. The *havmand* and the *havfrue*, in the Danish names, appear in coastal ballads and legends, and some of these stories deal with encounters between people and sea creatures, which rarely end well for one side. The ballad of Agnete draws attention because, for many readers, it gives voice to longing for the land, and because the final choice is a woman's, not an imposed fate.
 
-To gather the treasures of the sea floor, swapping neighbouring pieces until three alike line up, like someone seeking a path between two worlds, play [Treasures of the sea floor](/en/game-treasures-of-the-sea-floor/).
+To gather the treasures of the sea floor, swapping neighbouring pieces until three alike line up, like someone seeking a path between two worlds, play [Treasures of the sea floor](/game-treasures-of-the-sea-floor/).

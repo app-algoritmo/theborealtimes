@@ -45,4 +45,4 @@ It was a short battle on open ground, with a victory that gained a reputation as
 
 The size of the Wendish army is unknown, and the sources speak of 60 Wends for every Dane. The count of 15,000 dead is an estimate. The two articles do not agree on the church of the bell. The motive for Magnus's campaign in Wendland is described as "possibly" political. Faith in Saint Olaf on the battlefield comes from late texts.
 
-To defend the battle line with the axe Hel, striking each warrior at the right moment, play [The axe Hel](/en/game-the-axe-hel/).
+To defend the battle line with the axe Hel, striking each warrior at the right moment, play [The axe Hel](/game-the-axe-hel/).

@@ -23,4 +23,4 @@ Fienden presser linjen. Trykk (eller bruk mellomromstasten) for å presse tilbak
 
 ## Historien bak
 
-Slaget ved Stiklestad i 1030 kostet kong Olav Haraldsson livet. Sagaene sier at solen mørknet under kampen; om det var en solformørkelse, diskuterer forskerne. Spillet er en forenkling. Les historien i [Stiklestad, 1030: slaget der kong Olav døde og Norges helgen ble født](/no/2026/11/14/stiklestad-olavo/).
+Slaget ved Stiklestad i 1030 kostet kong Olav Haraldsson livet. Sagaene sier at solen mørknet under kampen; om det var en solformørkelse, diskuterer forskerne. Spillet er en forenkling. Les historien i [Stiklestad, 1030: slaget der kong Olav døde og Norges helgen ble født](/no/stiklestad-1030-slaget-der-kong-olav-dode-og-norges-helgen/).

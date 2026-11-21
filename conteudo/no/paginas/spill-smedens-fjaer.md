@@ -23,4 +23,4 @@ Trykk på en fjær og så på en annen for å bytte dem (eller bruk piltastene o
 
 ## Historien bak
 
-I diktet flykter Völund gjennom luften etter år som fange på en øy. Fjærene og byttene i spillet er diktet opp. Les historien i [Völund, smeden som en konge holdt fanget på en øy og som flyktet gjennom luften](/no/2026/11/18/volund-ferreiro-nidud-asas/).
+I diktet flykter Völund gjennom luften etter år som fange på en øy. Fjærene og byttene i spillet er diktet opp. Les historien i [Völund, smeden som en konge holdt fanget på en øy og som flyktet gjennom luften](/no/volund-smeden-som-en-konge-holdt-fanget-pa-en-oy/).

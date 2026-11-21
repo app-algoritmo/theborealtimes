@@ -39,4 +39,4 @@ In the Norse sources the avenger is Váli. In Saxo, the avenger is Bous. The two
 
 The etymology of the name is uncertain, and the link with Vrinnevi is only a possibility. Kormákr's verse says only that Yggr enchanted Rindr, without giving further detail. The identity of Rani in Grógaldr is not explained in the source. The Norse sources do not describe the meeting between Odin and Rindr in the detail Saxo gives, and the story of Rinda in Saxo is a late and reworked version, not a parallel account of the same kind.
 
-To open a way by turning stretches of path until they reach the exit, as Odin had to open his way to Rinda, play [The way to Rindr](/en/game-the-way-to-rindr/).
+To open a way by turning stretches of path until they reach the exit, as Odin had to open his way to Rinda, play [The way to Rindr](/game-the-way-to-rindr/).

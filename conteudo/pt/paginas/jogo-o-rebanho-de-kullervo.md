@@ -23,4 +23,4 @@ Arraste o dedo (ou use as setas / WASD) para mover o pastor. Os animais fogem de
 
 ## A história por trás
 
-No Kalevala, o pastor Kullervo, escravizado, cuida do rebanho de Ilmarinen. A tarefa de levar os animais ao curral é invenção. Leia a história em [Kullervo: o jovem escravo do *Kalevala* que fez lobos virarem rebanho](/2026/11/29/kullervo-kalevala-pastor-vingador/).
+No Kalevala, o pastor Kullervo, escravizado, cuida do rebanho de Ilmarinen. A tarefa de levar os animais ao curral é invenção. Leia a história em [Kullervo: o jovem escravo do *Kalevala* que fez lobos virarem rebanho](/pt/kullervo-kalevala-pastor-vingador/).

@@ -23,4 +23,4 @@ Trykk på en brikke og deretter på en nabo for å bytte dem (eller dra). Få tr
 
 ## Historien bak
 
-I balladen bor Agnete på havbunnen med havmannen og vender til slutt tilbake til land. Skattene i spillet er diktet opp. Les historien i [Agnete og havmannen: den danske balladen om kvinnen som bodde på havets bunn](/no/2026/11/20/agnete-tritao-balada-dinamarquesa/).
+I balladen bor Agnete på havbunnen med havmannen og vender til slutt tilbake til land. Skattene i spillet er diktet opp. Les historien i [Agnete og havmannen: den danske balladen om kvinnen som bodde på havets bunn](/no/agnete-og-havmannen-den-danske-balladen-om-kvinnen/).

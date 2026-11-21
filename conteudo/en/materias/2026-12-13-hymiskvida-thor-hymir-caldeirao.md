@@ -41,4 +41,4 @@ The editor Bellows himself, in 1936, judged the text uneven in quality, assemble
 
 The interest of the poem lies in the way it mixes strength and cunning. Thor wins by force, but he learns the giant's weak point only because a woman of the house tells him. The story works as an explanation for the origin of the gods' ale.
 
-To carry Hymir's cauldron without letting it tip over, keeping it balanced at every step, play [Hymir's cauldron](/en/game-hymirs-cauldron/).
+To carry Hymir's cauldron without letting it tip over, keeping it balanced at every step, play [Hymir's cauldron](/game-hymirs-cauldron/).

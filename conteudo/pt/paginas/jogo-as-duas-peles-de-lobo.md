@@ -23,4 +23,4 @@ Duas peles de lobo se cruzam e dividem duas contas. As contas estão fora do lug
 
 ## A história por trás
 
-Na Völsunga saga, Sinfjötli e Sigmund vestem peles de lobo amaldiçoadas e ficam sob uma maldição de licantropia. Girar anéis de contas é invenção. Leia a história em [Sinfjötli: o filho de Sigmund, as peles de lobo e a vingança dos Völsungar](/2027/02/14/sinfjotli-filho-de-sigmund-peles-de-lobo-volsunga/).
+Na Völsunga saga, Sinfjötli e Sigmund vestem peles de lobo amaldiçoadas e ficam sob uma maldição de licantropia. Girar anéis de contas é invenção. Leia a história em [Sinfjötli: o filho de Sigmund, as peles de lobo e a vingança dos Völsungar](/pt/sinfjotli-filho-de-sigmund-peles-de-lobo-volsunga/).

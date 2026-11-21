@@ -23,4 +23,4 @@ Uma tábua desliza de um lado para o outro. Toque para soltá-la sobre a anterio
 
 ## A história por trás
 
-Os navios de Oseberg e Gokstad foram construídos de carvalho, com tábuas sobrepostas e rebitadas, a técnica chamada de "clinker". A mecânica de empilhar é invenção do jogo. Leia a história em [Os navios de Oseberg e Gokstad: dois barcos vikings enterrados com seus mortos](/2026/11/12/navios-oseberg-gokstad-vikings/).
+Os navios de Oseberg e Gokstad foram construídos de carvalho, com tábuas sobrepostas e rebitadas, a técnica chamada de "clinker". A mecânica de empilhar é invenção do jogo. Leia a história em [Os navios de Oseberg e Gokstad: dois barcos vikings enterrados com seus mortos](/pt/navios-oseberg-gokstad-vikings/).

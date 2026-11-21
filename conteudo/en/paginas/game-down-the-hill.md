@@ -23,4 +23,4 @@ The pancake rolls down the hill and the animals on the road want to eat it. In e
 
 ## The story behind it
 
-In Asbjørnsen's tale in Dasent's translation, the pancake runs from a family and from several animals before it is swallowed by a pig. The lanes and the rows of animals are invention. Read the story in [The runaway pancake: an Asbjørnsen tale with the pig at the brook](/en/2027/03/21/a-panqueca-que-fugiu-conto-de-asbjornsen-com-o-porco-no-riacho/).
+In Asbjørnsen's tale in Dasent's translation, the pancake runs from a family and from several animals before it is swallowed by a pig. The lanes and the rows of animals are invention. Read the story in [The runaway pancake: an Asbjørnsen tale with the pig at the brook](/the-runaway-pancake-an-asbjornsen-tale-with-the-pig/).

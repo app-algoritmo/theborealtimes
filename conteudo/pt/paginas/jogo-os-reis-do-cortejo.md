@@ -23,4 +23,4 @@ Preencha a grade com os números de 1 até o tamanho dela, sem repetir nenhum em
 
 ## A história por trás
 
-No Eiríksmál, Érico chega ao Valhalla e diz que cinco reis o acompanham e que ele é o sexto. Ordenar números com sinais é invenção. Leia a história em [Eiríksmál: o poema que recebe Érico Machado-Sangrento no Valhalla](/2027/02/28/eiriksmal-o-poema-que-recebe-erico-machado-sangrento-no-valhalla/).
+No Eiríksmál, Érico chega ao Valhalla e diz que cinco reis o acompanham e que ele é o sexto. Ordenar números com sinais é invenção. Leia a história em [Eiríksmál: o poema que recebe Érico Machado-Sangrento no Valhalla](/pt/eiriksmal-o-poema-que-recebe-erico-machado-sangrento-no-valhalla/).

@@ -23,4 +23,4 @@ Drag your finger (or the mouse, or use the up and down arrows) to move the threa
 
 ## The story behind it
 
-In the Norse sources, the Norns shape fate by the well of Urðr. The thread and the band in the game are made up. Read the story in [The Norns: the three women who tend the world tree and everyone's fate](/en/2026/11/16/nornas-urdarbrunnr-destino/).
+In the Norse sources, the Norns shape fate by the well of Urðr. The thread and the band in the game are made up. Read the story in [The Norns: the three women who tend the world tree and everyone's fate](/the-norns-the-three-women-who-tend-the-world-tree/).

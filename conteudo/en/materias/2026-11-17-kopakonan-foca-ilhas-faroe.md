@@ -42,4 +42,4 @@ In Mikladalur, a bronze statue, unveiled in 2014, shows the seal woman midway th
 
 The Mikladalur statue is the work of the Faroese sculptor Hans Pauli Olsen, and shows the seal woman still in transformation, between the two shapes. Outside the Faroes the theme also became song: *The Great Silkie of Sule Skerry*, a ballad from Orkney, was catalogued by the scholar Francis James Child in the nineteenth century as number 113. In it a seal man visits a woman on land and leaves a son. The idea of a being between two worlds runs through the versions.
 
-To guide the seal through the deep to the skin that awaits her, play [The sealskin](/en/game-the-sealskin/).
+To guide the seal through the deep to the skin that awaits her, play [The sealskin](/game-the-sealskin/).

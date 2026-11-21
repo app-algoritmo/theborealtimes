@@ -49,4 +49,4 @@ A raposa engana o urso para que ele pesque com o rabo no gelo. O rabo congela e 
 
 O conto não diz onde se passa nem quando, e o mesmo enredo existe com outros animais em outros países. Não se sabe qual versão é a mais antiga.
 
-Para pôr o rabo no buraco e puxar na hora em que a água borbulha, jogue [A pesca no gelo](/jogo-a-pesca-no-gelo/).
+Para pôr o rabo no buraco e puxar na hora em que a água borbulha, jogue [A pesca no gelo](/pt/jogo-a-pesca-no-gelo/).

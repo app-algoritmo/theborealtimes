@@ -23,4 +23,4 @@ Na ponta do céu, o gigante Hræsvelgr, em forma de águia, bate as asas, e o ve
 
 ## A história por trás
 
-Na Vafþrúðnismál e na Gylfaginning, o gigante Hræsvelgr, em forma de águia, senta na ponta do céu, e o vento vem das suas asas. As rajadas azuis e vermelhas e o ritmo do jogo são invenção. Leia a história em [Hræsvelgr: o gigante em forma de águia que faz o vento com as asas](/2027/04/04/hraesvelgr-o-gigante-em-forma-de-aguia-que-faz-o-vento-com-as-asas/).
+Na Vafþrúðnismál e na Gylfaginning, o gigante Hræsvelgr, em forma de águia, senta na ponta do céu, e o vento vem das suas asas. As rajadas azuis e vermelhas e o ritmo do jogo são invenção. Leia a história em [Hræsvelgr: o gigante em forma de águia que faz o vento com as asas](/pt/hraesvelgr-o-gigante-em-forma-de-aguia-que-faz-o-vento-com-as-asas/).

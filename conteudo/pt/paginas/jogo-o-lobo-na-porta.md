@@ -23,4 +23,4 @@ O carneiro e o porco construíram uma casa na floresta com o ganso, a lebre e o 
 
 ## A história por trás
 
-No conto de Asbjørnsen e Moe, o carneiro, o porco, o ganso, a lebre e o galo constroem uma casa na floresta e afastam dois lobos, cada um à sua maneira. Os lobos que chegam em fila e o ritmo do jogo são invenção. Leia a história em [O carneiro e o porco que foram morar na floresta: um conto de Asbjørnsen e Moe e os lobos](/2027/04/04/o-carneiro-e-o-porco-que-foram-morar-na-floresta-conto-de-asbjornsen-e-moe-e-os-lobos/).
+No conto de Asbjørnsen e Moe, o carneiro, o porco, o ganso, a lebre e o galo constroem uma casa na floresta e afastam dois lobos, cada um à sua maneira. Os lobos que chegam em fila e o ritmo do jogo são invenção. Leia a história em [O carneiro e o porco que foram morar na floresta: um conto de Asbjørnsen e Moe e os lobos](/pt/o-carneiro-e-o-porco-que-foram-morar-na-floresta-conto-de-asbjornsen-e-moe-e-os-lobos/).

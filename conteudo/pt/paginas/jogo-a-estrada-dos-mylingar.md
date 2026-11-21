@@ -23,4 +23,4 @@ Você anda sozinho numa estrada à noite. Toque na metade esquerda ou direita da
 
 ## A história por trás
 
-No folclore escandinavo, o myling é a alma de uma criança morta sem batismo. A estrada e a corrida são invenção. Leia a história em [Mylingen: a alma de criança que pede colo na estrada à noite no folclore nórdico](/2027/01/03/mylingen-alma-de-crianca-folclore-nordico/).
+No folclore escandinavo, o myling é a alma de uma criança morta sem batismo. A estrada e a corrida são invenção. Leia a história em [Mylingen: a alma de criança que pede colo na estrada à noite no folclore nórdico](/pt/mylingen-alma-de-crianca-folclore-nordico/).

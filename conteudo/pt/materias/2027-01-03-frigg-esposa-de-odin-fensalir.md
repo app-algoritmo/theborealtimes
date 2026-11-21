@@ -44,4 +44,4 @@ Há estudiosos que veem uma ligação especial entre as duas, pelo que têm em c
 
 A associação de Frigg com a Terra é ambígua, já que Jörð é personificada à parte. A etimologia popular que a liga a "Frigida", do prefácio de Snorri, não é uma derivação correta. E quase tudo o que sabemos vem de textos escritos séculos depois do culto, por cristãos.
 
-Para achar os pares iguais entre peças viradas, com poucas tentativas, jogue [Os pares de Frigg](/jogo-os-pares-de-frigg/).
+Para achar os pares iguais entre peças viradas, com poucas tentativas, jogue [Os pares de Frigg](/pt/jogo-os-pares-de-frigg/).

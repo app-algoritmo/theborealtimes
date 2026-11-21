@@ -51,4 +51,4 @@ A narrativa foi escrita por volta do século XIII, bem depois da época em que s
 
 Para quem lê hoje, a história mostra quanto os islandeses medievais se interessavam por temas como honra, palavra dada e destino, e como sabiam contá-los de forma enxuta.
 
-Para tentar vencer o duelo em Dingenes, jogue [O duelo de Gunnlaug](/jogo-o-duelo-de-gunnlaug/).
+Para tentar vencer o duelo em Dingenes, jogue [O duelo de Gunnlaug](/pt/jogo-o-duelo-de-gunnlaug/).

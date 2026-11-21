@@ -23,4 +23,4 @@ Há um código secreto de 4 feixes, em 5 cores que podem se repetir. Escolha as 
 
 ## A história por trás
 
-O julbock, o bode de Natal escandinavo, ganhou muitas formas, e o bode de palha é comum até hoje. O código é invenção. Leia a história em [O bode de Natal escandinavo: do último feixe de trigo ao grande bode de palha](/2027/01/03/julbock-bode-de-natal-palha-escandinavia/).
+O julbock, o bode de Natal escandinavo, ganhou muitas formas, e o bode de palha é comum até hoje. O código é invenção. Leia a história em [O bode de Natal escandinavo: do último feixe de trigo ao grande bode de palha](/pt/julbock-bode-de-natal-palha-escandinavia/).

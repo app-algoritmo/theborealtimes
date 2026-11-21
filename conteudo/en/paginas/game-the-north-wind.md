@@ -23,4 +23,4 @@ Tap the screen (or press Space) to rise; without taps it sinks. Pass through the
 
 ## The story behind it
 
-In the Norwegian folk tale, the North Wind carries the girl to the castle east of the sun and west of the moon. The clouds are made up for the game. Read the story in [East of the Sun and West of the Moon: the Norwegian tale of the white bear and the North Wind](/en/2026/11/16/a-leste-do-sol-oeste-da-lua/).
+In the Norwegian folk tale, the North Wind carries the girl to the castle east of the sun and west of the moon. The clouds are made up for the game. Read the story in [East of the Sun and West of the Moon: the Norwegian tale of the white bear and the North Wind](/east-of-the-sun-and-west-of-the-moon-the-norwegian-tale/).

@@ -41,4 +41,4 @@ O apelido "Machado Sangrento" (*blóðøx*) aparece em textos escritos depois da
 
 Érico mostra como era frágil o poder dos reis escandinavos na Inglaterra. Eles dependiam do apoio de nobres locais, da Igreja e da ameaça constante do rei de Wessex. Quando perdiam um desses apoios, perdiam o trono.
 
-Para girar os trechos de estrada e ligar, de ponta a ponta, o caminho até York, jogue [As estradas de York](/jogo-as-estradas-de-york/).
+Para girar os trechos de estrada e ligar, de ponta a ponta, o caminho até York, jogue [As estradas de York](/pt/jogo-as-estradas-de-york/).

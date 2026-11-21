@@ -48,4 +48,4 @@ Eketorp had three phases: an occasional refuge, a hamlet of about 150 people, fr
 
 The two sources differ in parts: the article gives Eketorp I as from 300 to 400 and the reuse at about 1170, and the entry gives the original fort as from about 400 and the reuse in the early 11th century. The reason for the abandonment around 650 is inferred, and the purpose of Eketorp I is deduced from few finds. The gate’s portcullis is a possibility, and the populations are estimates.
 
-To turn three rings until the gates of the fort are in line, play [The gates of Eketorp](/en/game-the-gates-of-eketorp/).
+To turn three rings until the gates of the fort are in line, play [The gates of Eketorp](/game-the-gates-of-eketorp/).

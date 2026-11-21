@@ -23,4 +23,4 @@ Trykk på en brikke ved siden av tomrommet for å skyve den (eller bruk piltaste
 
 ## Historien bak
 
-I Kalevala går Sampo i stykker på havet, og bitene gir Finland overflod. Puslespillet er diktet opp for spillet. Les historien i [Sampo og Louhi: den magiske kverna smeden Ilmarinen smidde og som gikk i stykker på havet](/no/2026/11/18/sampo-louhi-kalevala/).
+I Kalevala går Sampo i stykker på havet, og bitene gir Finland overflod. Puslespillet er diktet opp for spillet. Les historien i [Sampo og Louhi: den magiske kverna smeden Ilmarinen smidde og som gikk i stykker på havet](/no/sampo-og-louhi-den-magiske-kverna-smeden-ilmarinen-smidde/).

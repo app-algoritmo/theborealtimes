@@ -23,4 +23,4 @@ Peças de formas diferentes precisam preencher o bolso, uma grade, sem sobrar ca
 
 ## A história por trás
 
-Nas fontes nórdicas, o navio Skíðblaðnir se dobra como pano e cabe num bolso, mas elas não dizem como. O encaixe das peças é invenção. Leia a história em [Skíðblaðnir: o navio de Freyr que se dobra como pano e cabe no bolso](/2027/02/28/skidbladnir-o-navio-de-freyr-que-se-dobra-como-pano/).
+Nas fontes nórdicas, o navio Skíðblaðnir se dobra como pano e cabe num bolso, mas elas não dizem como. O encaixe das peças é invenção. Leia a história em [Skíðblaðnir: o navio de Freyr que se dobra como pano e cabe no bolso](/pt/skidbladnir-o-navio-de-freyr-que-se-dobra-como-pano/).

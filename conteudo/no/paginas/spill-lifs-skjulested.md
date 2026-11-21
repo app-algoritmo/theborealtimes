@@ -23,4 +23,4 @@ Tallene ved siden av hver rad og over hver kolonne sier hvor mange ruter på rad
 
 ## Historien bak
 
-I Vafþrúðnismál overlever Líf og Lífþrasir vinteren ved verdens ende skjult i skogen Hoddmímis holt, og de spiser morgendugg. Å fylle ruter etter hint er oppfunnet. Les historien i [Líf og Lífþrasir: paret som overlever verdens ende i Hoddmímirs skog](/no/2027/02/21/lif-e-lifthrasir-sobreviventes-do-fim-do-mundo-hoddmimis-holt/).
+I Vafþrúðnismál overlever Líf og Lífþrasir vinteren ved verdens ende skjult i skogen Hoddmímis holt, og de spiser morgendugg. Å fylle ruter etter hint er oppfunnet. Les historien i [Líf og Lífþrasir: paret som overlever verdens ende i Hoddmímirs skog](/no/lif-og-lifthrasir-paret-som-overlever-verdens-ende/).

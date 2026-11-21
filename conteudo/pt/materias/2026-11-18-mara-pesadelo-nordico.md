@@ -41,4 +41,4 @@ Explicar uma crença não a desvaloriza. Ela mostra como os povos do Norte davam
 
 O tema é antigo e espalhado. O francês *cauchemar* junta o verbo antigo *caucher*, “pisar”, ao mesmo termo *mare*, e a imagem de algo que pisa em quem dorme é a mesma da *Ynglinga saga*. O alemão antigo tinha *Mahr*, e o inglês antigo, *mære*. As formas variam, mas a ideia de um ser que cavalga ou pisa em quem dorme se repete por toda a Europa.
 
-Para descobrir o que a mara mexeu no estábulo durante a noite, jogue [O estábulo da Mara](/jogo-o-estabulo-da-mara/).
+Para descobrir o que a mara mexeu no estábulo durante a noite, jogue [O estábulo da Mara](/pt/jogo-o-estabulo-da-mara/).

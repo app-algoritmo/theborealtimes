@@ -23,4 +23,4 @@ Fardos de feno de tipos diferentes estão misturados em estacas. Toque numa esta
 
 ## A história por trás
 
-Na Hœnsa-Þóris saga, o mercador enriquecido Hœnsa-Þórir se recusa a vender feno aos vizinhos num inverno; eles o tomam, e ele os queima vivos numa casa de fazenda. Empilhar fardos é invenção. Leia a história em [Hœnsa-Þóris saga: o mercador, o feno recusado e uma lei do século XIII](/2027/02/07/haensa-thoris-saga-feno-vizinhos-lei/).
+Na Hœnsa-Þóris saga, o mercador enriquecido Hœnsa-Þórir se recusa a vender feno aos vizinhos num inverno; eles o tomam, e ele os queima vivos numa casa de fazenda. Empilhar fardos é invenção. Leia a história em [Hœnsa-Þóris saga: o mercador, o feno recusado e uma lei do século XIII](/pt/haensa-thoris-saga-feno-vizinhos-lei/).

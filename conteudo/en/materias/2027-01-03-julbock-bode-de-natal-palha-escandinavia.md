@@ -43,4 +43,4 @@ What the article documents is a sequence: a goat figure of the eleventh century 
 
 The pagan origin is not proven, and the link with Thor is only a guess. Nor is it known when the harvest sheaf took the name *Julbocken*.
 
-To discover a code of straw colours, with clues after each attempt, play [The straw goat code](/en/game-the-straw-goat-code/).
+To discover a code of straw colours, with clues after each attempt, play [The straw goat code](/game-the-straw-goat-code/).

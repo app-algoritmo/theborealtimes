@@ -38,4 +38,4 @@ The crossing is remembered every year in the Birkebeinerrennet, a ski race creat
 
 Details vary by source, and the saga clearly has an interest in glorifying the royal family. The core of the story, however, is accepted by historians: a baby prince was saved by skiers in the mountains of Norway.
 
-To ski down the mountain with the little prince, play [The Birkebeiner crossing](/en/game-birkebeiner-crossing/).
+To ski down the mountain with the little prince, play [The Birkebeiner crossing](/game-birkebeiner-crossing/).

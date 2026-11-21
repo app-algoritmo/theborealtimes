@@ -23,4 +23,4 @@ Du spiller de lyse brikkene, som går oppover. Trykk på en brikke og så på de
 
 ## Historien bak
 
-Spøkelsesryttere, hunder og storm utgjør Villjakta, kalt Åsgårdsreia eller Oskoreia i Norden. Brettet med tak er oppfunnet. Les historien i [Åsgårdsreia: den ville jakten som Norge hørte passere midtvinters](/no/2026/12/27/asgardsreia-cacada-selvagem-oskoreia/).
+Spøkelsesryttere, hunder og storm utgjør Villjakta, kalt Åsgårdsreia eller Oskoreia i Norden. Brettet med tak er oppfunnet. Les historien i [Åsgårdsreia: den ville jakten som Norge hørte passere midtvinters](/no/asgardsreia-den-ville-jakten-som-norge-horte-passere/).

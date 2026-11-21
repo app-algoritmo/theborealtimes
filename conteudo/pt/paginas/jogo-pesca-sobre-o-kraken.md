@@ -23,4 +23,4 @@ Segure o dedo, ou a barra de espaço, para pescar; solte para guardar o que pego
 
 ## A história por trás
 
-Em 1752, o bispo Erik Pontoppidan descreveu o kraken como um monstro enorme que a pesca farta denunciaria. A lula-gigante, que existe, só foi bem documentada no século XIX. O jogo é invenção. Leia a história em [O Kraken: do monstro dos pescadores noruegueses à lula-gigante que a ciência acabou confirmando](/2026/11/14/kraken-pontoppidan/).
+Em 1752, o bispo Erik Pontoppidan descreveu o kraken como um monstro enorme que a pesca farta denunciaria. A lula-gigante, que existe, só foi bem documentada no século XIX. O jogo é invenção. Leia a história em [O Kraken: do monstro dos pescadores noruegueses à lula-gigante que a ciência acabou confirmando](/pt/kraken-pontoppidan/).

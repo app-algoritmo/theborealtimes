@@ -23,4 +23,4 @@ O tratado de 911 entre os rus e Bizâncio chegou até nós na Crônica Primária
 
 ## A história por trás
 
-A Crônica Primária guarda um tratado de 911 entre os rus e Bizâncio. O pergaminho, o selo, a pena, a ordem em que brilham e as trocas de lugar são invenção. Leia a história em [O tratado de 911 entre os rus e Bizâncio: os nomes nórdicos que a crônica guardou](/2027/04/04/o-tratado-de-911-entre-os-rus-e-bizancio-os-nomes-nordicos-que-a-cronica-guardou/).
+A Crônica Primária guarda um tratado de 911 entre os rus e Bizâncio. O pergaminho, o selo, a pena, a ordem em que brilham e as trocas de lugar são invenção. Leia a história em [O tratado de 911 entre os rus e Bizâncio: os nomes nórdicos que a crônica guardou](/pt/o-tratado-de-911-entre-os-rus-e-bizancio-os-nomes-nordicos-que-a-cronica-guardou/).

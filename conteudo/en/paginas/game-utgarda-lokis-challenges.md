@@ -23,4 +23,4 @@ In the first test, hold to drink from the horn and release to breathe. In the se
 
 ## The story behind it
 
-In the Prose Edda, Thor loses all three tests because they were illusions: the horn was linked to the sea, the cat was Jörmungandr and the old woman was Old Age. In the game you succeed, which the myth does not tell. Read the story in [Thor in Útgarðr: the giant's challenges that were all illusions](/en/2026/11/15/thor-utgarda-loki-ilusoes/).
+In the Prose Edda, Thor loses all three tests because they were illusions: the horn was linked to the sea, the cat was Jörmungandr and the old woman was Old Age. In the game you succeed, which the myth does not tell. Read the story in [Thor in Útgarðr: the giant's challenges that were all illusions](/thor-in-utgardr-the-giant-s-challenges-that-were-all/).

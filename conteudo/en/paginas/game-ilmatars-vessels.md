@@ -23,4 +23,4 @@ There are two vessels of different sizes and no measuring marks. Tap the buttons
 
 ## The story behind it
 
-In the Kalevala, the creation of the world comes from an egg that breaks over the sea. The vessels and measures in the game are made up. Read the story in [Ilmatar: the daughter of the air who floated seven hundred years at sea and the duck that laid the world](/en/2026/11/22/ilmatar-criacao-do-mundo-kalevala/).
+In the Kalevala, the creation of the world comes from an egg that breaks over the sea. The vessels and measures in the game are made up. Read the story in [Ilmatar: the daughter of the air who floated seven hundred years at sea and the duck that laid the world](/ilmatar-the-daughter-of-the-air-who-floated-seven-hundred/).

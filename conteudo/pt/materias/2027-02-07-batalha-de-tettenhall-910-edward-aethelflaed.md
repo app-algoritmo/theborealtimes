@@ -41,4 +41,4 @@ Com os dinamarqueses do norte subjugados, as forças de Wessex e da Mércia pude
 
 A data e o local dependem, segundo a primeira fonte, de um só cronista, Æthelweard, e o local é dado apenas como "perto de" Tettenhall, sem ponto exato. As fontes divergem nos nomes dos reis mortos: a primeira cita Eowils, Halfdan e Ingwær, enquanto a de divulgação cita Ivarr, Eowils e Halfdan. Nenhuma das fontes dá o tamanho dos exércitos nem a tática da batalha, e a de divulgação reconhece que "não se sabe muito" dos detalhes. Se o exército viking foi inteiramente destruído, a mesma fonte diz apenas que talvez tenha sido.
 
-Para achar saqueadores escondidos num campo sem pisar em nenhum, jogue [Os saqueadores escondidos](/jogo-os-saqueadores-escondidos/).
+Para achar saqueadores escondidos num campo sem pisar em nenhum, jogue [Os saqueadores escondidos](/pt/jogo-os-saqueadores-escondidos/).

@@ -23,4 +23,4 @@ Tap a piece and then a neighbour (or drag) to swap them. Make lines of three or 
 
 ## The story behind it
 
-At Salme, on the island of Saaremaa, ships with warriors and objects were excavated. The find icons in the game are made up. Read the story in [Salme: two ships buried with warriors, before the Viking Age](/en/2026/11/29/salme-navios-ilha-saaremaa-estonia/).
+At Salme, on the island of Saaremaa, ships with warriors and objects were excavated. The find icons in the game are made up. Read the story in [Salme: two ships buried with warriors, before the Viking Age](/salme-two-ships-buried-with-warriors-before-the-viking-age/).

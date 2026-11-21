@@ -23,4 +23,4 @@ Cada cor tem duas pontas marcadas com um círculo. Arraste o dedo de uma ponta a
 
 ## A história por trás
 
-A ponte de Ravning Enge, no vale do rio Vejle, na Dinamarca, tinha cerca de 760 metros e 280 vãos de carvalho; a madeira foi cortada na década de 980, e a obra é atribuída a Harald Dente Azul. Ligar trilhas é invenção. Leia a história em [A ponte de Ravning Enge: 760 metros de carvalho perto de Jelling](/2027/02/07/ponte-de-ravning-enge-harald-dente-azul/).
+A ponte de Ravning Enge, no vale do rio Vejle, na Dinamarca, tinha cerca de 760 metros e 280 vãos de carvalho; a madeira foi cortada na década de 980, e a obra é atribuída a Harald Dente Azul. Ligar trilhas é invenção. Leia a história em [A ponte de Ravning Enge: 760 metros de carvalho perto de Jelling](/pt/ponte-de-ravning-enge-harald-dente-azul/).

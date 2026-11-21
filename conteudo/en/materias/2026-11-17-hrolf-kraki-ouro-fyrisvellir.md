@@ -42,4 +42,4 @@ No one knows whether a real flight took place. What the sources support is that 
 
 The late saga says Hrólf's most feared champion was Böðvarr Bjarki, whose name means "little bear". In the final battle at Hleiðra he fights in the shape of a great bear while his body sleeps in the tent. The kingdom falls to King Hjörvarðr and the sorceress Skuld, Hrólf's half-sister, and the king dies beside his men. Many scholars compare this bear-warrior to the Beowulf of the English poem, whose name may also mean "bee-wolf", that is, the bear.
 
-To scatter the gold at the right moment and shake off Aðils's riders, play [Hrólf's gold](/en/game-hrolfs-gold/).
+To scatter the gold at the right moment and shake off Aðils's riders, play [Hrólf's gold](/game-hrolfs-gold/).

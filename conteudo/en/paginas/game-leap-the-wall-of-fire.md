@@ -23,4 +23,4 @@ Tap the screen (or press Space or the up arrow) to jump. The fires come faster a
 
 ## The story behind it
 
-In the poem Skírnismál, Skírnir's horse crosses flames to the hall of the giant Gymir. The race is made up for the game. Read the story in [Freyr and Gerðr: the god who gave away his sword for love](/en/2026/11/16/freyr-gerdr-amor-e-espada/).
+In the poem Skírnismál, Skírnir's horse crosses flames to the hall of the giant Gymir. The race is made up for the game. Read the story in [Freyr and Gerðr: the god who gave away his sword for love](/freyr-and-gerdr-the-god-who-gave-away-his-sword-for-love/).

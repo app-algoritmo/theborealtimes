@@ -51,4 +51,4 @@ O caçula de sete príncipes salva seis irmãos petrificados porque ajudou um co
 
 O verbete não diz a data nem a fonte exata da recolha de Asbjørnsen e Moe, não nomeia o rei, os príncipes, a princesa ou o castelo, e não explica como o coração foi parar no ovo nem por que o lobo ajuda. O enredo do verbete também não cita baú nem anel. Algumas afirmações vêm atribuídas a estudiosos sem mais detalhes.
 
-Para achar os números certos numa grade e deixar em pedra só os repetidos, jogue [Os irmãos de pedra](/jogo-os-irmaos-de-pedra/).
+Para achar os números certos numa grade e deixar em pedra só os repetidos, jogue [Os irmãos de pedra](/pt/jogo-os-irmaos-de-pedra/).

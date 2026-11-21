@@ -23,4 +23,4 @@ Trykk på vannet for å skyte en stein. Den bruker et øyeblikk på å lande og 
 
 ## Historien bak
 
-Under beleiringen i 885–886 forsvarte parisere broen mot en vikingflåte. Katapulten og siktingen er diktet opp for spillet. Les historien i [Beleiringen av Paris, 885–886: da vikingene prøvde å seile opp Seinen og møtte en bro](/no/2026/11/16/paris-885-cerco/).
+Under beleiringen i 885–886 forsvarte parisere broen mot en vikingflåte. Katapulten og siktingen er diktet opp for spillet. Les historien i [Beleiringen av Paris, 885–886: da vikingene prøvde å seile opp Seinen og møtte en bro](/no/beleiringen-av-paris-885-886-da-vikingene-provde-a-seile/).

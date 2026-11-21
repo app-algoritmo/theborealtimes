@@ -41,4 +41,4 @@ In the 19th century, Peter Christen Asbjørnsen collected and published stories 
 
 Today the huldra appears in books, in games and in place names: there are places in Denmark and Norway that bear her name, such as Huldremose in Jutland and, in Sámi lands, the mountain Ulddaidvárri, "mountain of the hulders". The figure lives on, even without anyone needing to believe in her.
 
-To find out who is hiding a tail, play [Spot the tail](/en/game-spot-the-tail/).
+To find out who is hiding a tail, play [Spot the tail](/game-spot-the-tail/).

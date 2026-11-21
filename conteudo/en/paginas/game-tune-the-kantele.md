@@ -23,4 +23,4 @@ Pick a string and drag up or down (or use the arrows) until the sound is right; 
 
 ## The story behind it
 
-In the Kalevala, the Finnish epic, Väinämöinen makes the first kantele and plays to enchant the forest. The tuning in the game is made up. Read the story in [Väinämöinen and the kantele: the music that made nature weep](/en/2026/11/17/vainamoinen-kantele-kalevala/).
+In the Kalevala, the Finnish epic, Väinämöinen makes the first kantele and plays to enchant the forest. The tuning in the game is made up. Read the story in [Väinämöinen and the kantele: the music that made nature weep](/vainamoinen-and-the-kantele-the-music-that-made-nature-weep/).

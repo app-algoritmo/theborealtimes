@@ -23,7 +23,7 @@ The games are inspired by the stories and made for entertainment. When a game in
 
 ## 4. Newsletter
 
-The newsletter is free and requires your consent, confirmed by email. You can unsubscribe at any time, in one click, through the link at the bottom of each message. The data processed and your rights are set out in the [privacy policy](/en/privacy/).
+The newsletter is free and requires your consent, confirmed by email. You can unsubscribe at any time, in one click, through the link at the bottom of each message. The data processed and your rights are set out in the [privacy policy](/privacy/).
 
 ## 5. Intellectual property
 

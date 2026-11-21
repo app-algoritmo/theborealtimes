@@ -23,4 +23,4 @@ Bjørnen vil fiske på isen, slik reven lærte ham. Trykk på skjermen, eller tr
 
 ## Historien bak
 
-I eventyret til Asbjørnsen og Moe får reven bjørnen til å fiske med halen i et hull i isen, og halen fryser og knekker. Slik, sier eventyret, fikk bjørnen kort hale. Fisketurene i runder er oppfunnet. Les historien i [Hvorfor bjørnen har kort hale: reven, isen og fisken](/no/2027/03/14/por-que-o-urso-tem-o-rabo-curto-a-raposa-o-gelo-e-o-peixe/).
+I eventyret til Asbjørnsen og Moe får reven bjørnen til å fiske med halen i et hull i isen, og halen fryser og knekker. Slik, sier eventyret, fikk bjørnen kort hale. Fisketurene i runder er oppfunnet. Les historien i [Hvorfor bjørnen har kort hale: reven, isen og fisken](/no/hvorfor-bjornen-har-kort-hale-reven-isen-og-fisken/).

@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-Ifølge Snorre sluttet æser og vaner fred og byttet gisler. Vekten og gavene er diktet opp for spillet. Les historien i [Krigen mellom æser og vaner: verdens første krig og gisselutvekslingen som ga fred](/no/2026/11/19/aesir-vanir-guerra-refens/).
+Ifølge Snorre sluttet æser og vaner fred og byttet gisler. Vekten og gavene er diktet opp for spillet. Les historien i [Krigen mellom æser og vaner: verdens første krig og gisselutvekslingen som ga fred](/no/krigen-mellom-aeser-og-vaner-verdens-forste-krig/).

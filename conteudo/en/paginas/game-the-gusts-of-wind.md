@@ -23,4 +23,4 @@ Thorvard's sail ran ahead of all the others. Gusts of wind cross the sea. The bl
 
 ## The story behind it
 
-In the Icelandic tale, King Harald refuses Thorvard's sail, and later Eystein's sail runs ahead of the king's ship. The gusts of wind in the game and the rhythm are invention. Read the story in [Thorvard Crow-Nose: the Icelander whose sail King Harald refused](/en/2027/03/28/thorvard-bico-de-corvo-o-islandes-cuja-vela-o-rei-harald-recusou/).
+In the Icelandic tale, King Harald refuses Thorvard's sail, and later Eystein's sail runs ahead of the king's ship. The gusts of wind in the game and the rhythm are invention. Read the story in [Thorvard Crow-Nose: the Icelander whose sail King Harald refused](/thorvard-crow-nose-the-icelander-whose-sail-king-harald/).

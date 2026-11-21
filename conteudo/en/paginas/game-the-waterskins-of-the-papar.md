@@ -23,4 +23,4 @@ You have two waterskins of different capacities, with no measuring marks, a spri
 
 ## The story behind it
 
-According to Landnámabók, Irish monks lived in Iceland before the Norse and left books, bells and crosiers; archaeology has not confirmed their presence. Measuring water is invented. Read the story in [The papar: the "Christian men" the sources say lived in Iceland before the Norse](/en/2027/02/14/papar-monges-irlandeses-islandia-antes-dos-nordicos/).
+According to Landnámabók, Irish monks lived in Iceland before the Norse and left books, bells and crosiers; archaeology has not confirmed their presence. Measuring water is invented. Read the story in [The papar: the "Christian men" the sources say lived in Iceland before the Norse](/the-papar-the-christian-men-the-sources-say-lived/).

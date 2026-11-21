@@ -39,4 +39,4 @@ Scholars observe that the saga's taste for black humour is not mere decoration. 
 
 The figure of Þormóðr is literary, and there is little independent information about him. This does not mean that he never existed. It only means that what we know comes from texts written much later, which have an interest in telling a good story. For the present-day reader, the value of the saga lies precisely there: it shows how medieval Icelanders imagined their poets and their warriors.
 
-To hit, with the bow, a target in the middle of the wind, adjusting angle and strength with every arrow, play [Thormod's bow](/en/game-thormods-bow/).
+To hit, with the bow, a target in the middle of the wind, adjusting angle and strength with every arrow, play [Thormod's bow](/game-thormods-bow/).

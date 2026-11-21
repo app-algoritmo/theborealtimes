@@ -40,4 +40,4 @@ The *Gylfaginning*, in prose, tells that Odin set Nótt and Dagr in the sky and 
 
 The manuscripts disagree on the mother of Dagr. The oldest, U, makes Jörð the wife of Dellingr and mother of Dagr, while R, W and T give Nótt as mother. Haukur Thorgeirsson argues that the U version arose from an accidental shortening of the text by a scribe. The father of Nótt appears as Nörvi, Norfi or Narfi. Otto Höfler proposed that Dagr may be linked to Svipdagr, but this is theory, not established fact. The sources also do not explain the other name of the night's horse, Fjörsvartnir.
 
-To balance suns and moons on a grid, with as many of one as of the other, play [Day and night](/en/game-day-and-night/).
+To balance suns and moons on a grid, with as many of one as of the other, play [Day and night](/game-day-and-night/).

@@ -23,4 +23,4 @@ O Gato de Natal ronda a casa. Guie o fio de lã e recolha 12 novelos antes que e
 
 ## A história por trás
 
-Na tradição islandesa, quem ganhava uma peça de roupa nova antes do Natal escapava do Gato de Natal. O fio de lã do jogo é invenção. Leia a história em [Jólakötturinn, o Gato de Natal da Islândia: quem não ganhava roupa nova podia virar seu jantar](/2026/11/20/jolakotturinn-gato-de-natal-islandia/).
+Na tradição islandesa, quem ganhava uma peça de roupa nova antes do Natal escapava do Gato de Natal. O fio de lã do jogo é invenção. Leia a história em [Jólakötturinn, o Gato de Natal da Islândia: quem não ganhava roupa nova podia virar seu jantar](/pt/jolakotturinn-gato-de-natal-islandia/).

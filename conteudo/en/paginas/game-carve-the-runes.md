@@ -23,4 +23,4 @@ Each rune is made of strokes. Drag your finger (or mouse) from the yellow dot to
 
 ## The story behind it
 
-The Jelling stone was raised around 965 by King Harald Bluetooth and uses the Younger Futhark. The runes in the game are simplified, and the choice of five is ours. Read the story in [The Jelling stone: what Harald Bluetooth had carved in runes](/en/2026/11/13/jelling-harald-runas/).
+The Jelling stone was raised around 965 by King Harald Bluetooth and uses the Younger Futhark. The runes in the game are simplified, and the choice of five is ours. Read the story in [The Jelling stone: what Harald Bluetooth had carved in runes](/the-jelling-stone-what-harald-bluetooth-had-carved-in-runes/).

@@ -41,4 +41,4 @@ No século XIX, Peter Christen Asbjørnsen coletou e publicou histórias sobre o
 
 Hoje a huldra aparece em livros, em jogos e na toponímia: há lugares na Dinamarca e na Noruega que levam o nome dela, como Huldremose, na Jutlândia, e, em terras sámi, o monte Ulddaidvárri, "monte das hulders". A figura continua viva, mesmo sem que ninguém precise acreditar nela.
 
-Para descobrir quem está escondendo a cauda, jogue [Quem tem cauda?](/jogo-quem-tem-cauda/).
+Para descobrir quem está escondendo a cauda, jogue [Quem tem cauda?](/pt/jogo-quem-tem-cauda/).

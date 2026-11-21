@@ -23,4 +23,4 @@ Each square of the grid must hold a sun or a moon. Tap an empty square to place 
 
 ## The story behind it
 
-In the Eddas, Nótt and Dagr are each given a chariot and a horse by Odin and travel across the sky every 24 hours, with Nótt ahead. Filling suns and moons is invented. Read the story in [Nótt and Dagr: Night and Day in the Eddas, each with a chariot and a horse](/en/2027/02/14/nott-dagr-noite-dia-carruagens-eddas/).
+In the Eddas, Nótt and Dagr are each given a chariot and a horse by Odin and travel across the sky every 24 hours, with Nótt ahead. Filling suns and moons is invented. Read the story in [Nótt and Dagr: Night and Day in the Eddas, each with a chariot and a horse](/nott-and-dagr-night-and-day-in-the-eddas-each/).

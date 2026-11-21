@@ -40,4 +40,4 @@ The *Anglo-Saxon Chronicle* records that a great Norse army, the Great Heathen A
 
 Scholars who study Ragnar generally conclude that the figure in the saga combines the deeds of more than one chief, woven with legendary motifs such as the serpent and the pit. That is why some historians doubt that a single Ragnar existed. Others argue that a real leader stands behind the legend.
 
-To face the pit, play [The snake pit](/en/game-the-snake-pit/).
+To face the pit, play [The snake pit](/game-the-snake-pit/).

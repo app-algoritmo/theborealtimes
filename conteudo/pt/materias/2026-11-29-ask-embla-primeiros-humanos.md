@@ -39,4 +39,4 @@ O freixo também tem destaque na mitologia nórdica por outro motivo: Yggdrasill
 
 Com as fontes que temos, só duas coisas são seguras. Primeiro, que a *Völuspá* e Snorri falam de um casal chamado Askr e Embla, feito de madeira e animado por deuses. Segundo, que os detalhes variam de uma fonte para outra. Todo o resto, inclusive o sentido exato dos dons, é debate de especialistas. Essa lacuna não é um defeito do mito, mas uma característica de textos escritos séculos depois da época em que as histórias circulavam em voz.
 
-Para juntar, dois a dois, os blocos iguais até formar um só, como se os troncos ganhassem valor a cada dom recebido, jogue [Os dons dos deuses](/jogo-os-dons-dos-deuses/).
+Para juntar, dois a dois, os blocos iguais até formar um só, como se os troncos ganhassem valor a cada dom recebido, jogue [Os dons dos deuses](/pt/jogo-os-dons-dos-deuses/).

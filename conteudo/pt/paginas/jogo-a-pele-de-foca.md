@@ -23,4 +23,4 @@ Arraste o dedo (ou use as setas) para cima e para baixo. Colha oito pérolas e d
 
 ## A história por trás
 
-Na lenda das ilhas Faroe, a Kópakonan é uma mulher-foca que perde e reencontra a sua pele. O mergulho do jogo é invenção. Leia a história em [Kópakonan: a mulher-foca de Mikladalur, uma lenda das Ilhas Faroé](/2026/11/17/kopakonan-foca-ilhas-faroe/).
+Na lenda das ilhas Faroe, a Kópakonan é uma mulher-foca que perde e reencontra a sua pele. O mergulho do jogo é invenção. Leia a história em [Kópakonan: a mulher-foca de Mikladalur, uma lenda das Ilhas Faroé](/pt/kopakonan-foca-ilhas-faroe/).

@@ -23,4 +23,4 @@ Arraste o dedo (ou o mouse, ou use as setas) para conduzir o barco até as seis 
 
 ## A história por trás
 
-Na tradição norueguesa, o draug é o espírito de um afogado visto na neblina. A caça às bóias é invenção do jogo. Leia a história em [Draugen: o fantasma do mar que os pescadores noruegueses temiam ver](/2026/11/16/draugen-fantasma-do-mar/).
+Na tradição norueguesa, o draug é o espírito de um afogado visto na neblina. A caça às bóias é invenção do jogo. Leia a história em [Draugen: o fantasma do mar que os pescadores noruegueses temiam ver](/pt/draugen-fantasma-do-mar/).

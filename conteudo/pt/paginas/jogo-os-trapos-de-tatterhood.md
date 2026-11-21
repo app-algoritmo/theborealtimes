@@ -23,4 +23,4 @@ Seis trapos de comprimentos diferentes estão empilhados. Toque num trapo para v
 
 ## A história por trás
 
-Em Tatterhood (Lurvehette), de Asbjørnsen e Moe, uma princesa feia, que anda numa cabra e leva uma colher de pau, vai com a irmã à ilha dos trolls e recupera a cabeça dela; no dia do casamento, a cabra, a colher e o capuz viram um cavalo, uma varinha ou um leque, conforme a versão, e uma coroa de ouro. A pilha de trapos é invenção. Leia a história em [Tatterhood (Lurvehette): a princesa feia que anda de cabra e derrota os trolls](/2027/01/24/tatterhood-lurvehette-princesa-feia-cabra-asbjornsen-moe/).
+Em Tatterhood (Lurvehette), de Asbjørnsen e Moe, uma princesa feia, que anda numa cabra e leva uma colher de pau, vai com a irmã à ilha dos trolls e recupera a cabeça dela; no dia do casamento, a cabra, a colher e o capuz viram um cavalo, uma varinha ou um leque, conforme a versão, e uma coroa de ouro. A pilha de trapos é invenção. Leia a história em [Tatterhood (Lurvehette): a princesa feia que anda de cabra e derrota os trolls](/pt/tatterhood-lurvehette-princesa-feia-cabra-asbjornsen-moe/).

@@ -23,4 +23,4 @@ A word shows at the top of the stone. Tap the runes in the order of the letters;
 
 ## The story behind it
 
-The Rök Stone, from the 9th century, has about 725 runes, and the reading of several parts is still debated. The spellings in the game are simplified. Read the story in [The Rök Stone: the longest runic inscription in the world and the secrets it still keeps](/en/2026/11/15/pedra-de-rok-runas/).
+The Rök Stone, from the 9th century, has about 725 runes, and the reading of several parts is still debated. The spellings in the game are simplified. Read the story in [The Rök Stone: the longest runic inscription in the world and the secrets it still keeps](/the-rok-stone-the-longest-runic-inscription-in-the-world/).

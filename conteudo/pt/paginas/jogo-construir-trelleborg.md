@@ -23,4 +23,4 @@ Uma cruz de estacas gira sobre o terreno. Toque (ou use a barra de espaço) quan
 
 ## A história por trás
 
-Trelleborg foi erguida por volta de 981, com quatro portões e dezesseis casas compridas no anel. O jogo simplifica a obra em quatro etapas. Leia a história em [Trelleborg: a fortaleza circular que os vikings construíram com geometria perfeita](/2026/11/15/trelleborg-fortaleza-circular/).
+Trelleborg foi erguida por volta de 981, com quatro portões e dezesseis casas compridas no anel. O jogo simplifica a obra em quatro etapas. Leia a história em [Trelleborg: a fortaleza circular que os vikings construíram com geometria perfeita](/pt/trelleborg-fortaleza-circular/).

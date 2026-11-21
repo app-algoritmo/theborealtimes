@@ -23,4 +23,4 @@ Tap above, below or beside yourself (or use the arrows) to hop from floe to floe
 
 ## The story behind it
 
-The Norse lived in Greenland for centuries, on farms by the fjords, as at Hvalsey. Crossing on the ice is made up for the game. Read the story in [Norse Greenland: four centuries of farms on the ice and the mystery of their end](/en/2026/11/18/groenlandia-nordica-desaparecimento/).
+The Norse lived in Greenland for centuries, on farms by the fjords, as at Hvalsey. Crossing on the ice is made up for the game. Read the story in [Norse Greenland: four centuries of farms on the ice and the mystery of their end](/norse-greenland-four-centuries-of-farms-on-the-ice/).

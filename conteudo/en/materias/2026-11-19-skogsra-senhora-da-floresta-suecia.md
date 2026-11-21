@@ -39,4 +39,4 @@ A common reading is that the stories served to make sense of real dangers. Someo
 
 Today the skogsrå appears in children's books, illustrations and games, usually gentler than in the old collections. What is known, and should be said, is that these stories are legends and that belief in them varied a great deal from place to place.
 
-To see how much you know about the lady of the forest and other beings of Nordic folklore, play [The lady of the forest](/en/game-the-lady-of-the-forest/).
+To see how much you know about the lady of the forest and other beings of Nordic folklore, play [The lady of the forest](/game-the-lady-of-the-forest/).

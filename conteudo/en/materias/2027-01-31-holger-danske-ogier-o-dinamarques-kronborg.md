@@ -43,4 +43,4 @@ A *chanson de geste* is a medieval French song of heroic deeds. The *Chanson de 
 
 Holger's historical model is disputed, and none of the names is accepted by all. The tradition that the guides of Kronborg tell the legend today is not a documented fact about the castle: the source presents it as tradition. Nor can it be said, on the basis of this source, that the Kronborg legend is as old as the French songs: it is recorded by writers of the 19th century.
 
-To keep coloured shapes in memory and find the one that vanished, play [The shape that vanished](/en/game-the-shape-that-vanished/).
+To keep coloured shapes in memory and find the one that vanished, play [The shape that vanished](/game-the-shape-that-vanished/).

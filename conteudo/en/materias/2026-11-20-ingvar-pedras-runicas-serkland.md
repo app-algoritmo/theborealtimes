@@ -37,4 +37,4 @@ We do not know what the expedition really was. No trace of Ingvar has been ident
 
 Ingvar's stones are also useful to linguists, because they preserve forms of the language spoken in 11th-century Sweden and names of people who appear in no other source. That is why the reading of the runes, done by specialists in databases such as the one at Uppsala, helps us understand not only the expedition, but also the lives of the families who remembered it.
 
-To carve the runes into the stone, filling the right squares according to the clues of each row and column, play [Runes on the stone](/en/game-runes-on-the-stone/).
+To carve the runes into the stone, filling the right squares according to the clues of each row and column, play [Runes on the stone](/game-runes-on-the-stone/).

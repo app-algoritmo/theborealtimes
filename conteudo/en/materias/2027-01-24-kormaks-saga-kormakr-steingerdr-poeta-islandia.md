@@ -51,4 +51,4 @@ A *saga of Icelanders* is the genre of prose narratives about Icelandic families
 
 The article says the author relies on oral tradition, but it does not identify which traditions, and the dating is a probability. The text does not tell who cast the curse or what the Scottish wizard wanted. The stanzas are attributed to Kormák, and the article does not discuss how far they are his.
 
-To decide who takes more seeds in a contest of pits, like someone contesting a bride, play [Kormákr's pits](/en/game-kormakrs-pits/).
+To decide who takes more seeds in a contest of pits, like someone contesting a bride, play [Kormákr's pits](/game-kormakrs-pits/).

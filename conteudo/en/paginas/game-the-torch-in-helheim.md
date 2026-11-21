@@ -23,4 +23,4 @@ Helheim is dark and only the light of your torch shows the way. Drag a finger (o
 
 ## The story behind it
 
-In the Prose Edda, Hermóðr rides nine nights in the dark until he reaches the bridge Gjallarbrú. The maze is made up for the game. Read the story in [Hel and Helheim: the queen of the dead who lived in a house where Hunger was the plate](/en/2026/11/20/hel-helheim-rainha-dos-mortos/).
+In the Prose Edda, Hermóðr rides nine nights in the dark until he reaches the bridge Gjallarbrú. The maze is made up for the game. Read the story in [Hel and Helheim: the queen of the dead who lived in a house where Hunger was the plate](/hel-and-helheim-the-queen-of-the-dead-who-lived-in-a-house/).

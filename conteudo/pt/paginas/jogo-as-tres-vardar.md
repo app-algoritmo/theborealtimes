@@ -23,4 +23,4 @@ Três homens levantam três pilhas de pedras no alto de uma ilha. Uma pedra vai 
 
 ## A história por trás
 
-A pedra de Kingittorsuaq, achada em 1824 numa ilha do noroeste da Groenlândia, diz que três homens fizeram pilhas de pedras. A forma de empilhar e a conta de pedras do jogo são invenção. Leia a história em [Pedra de Kingittorsuaq: três nórdicos e três pilhas de pedras na Groenlândia](/2027/03/21/pedra-de-kingittorsuaq-tres-nordicos-e-tres-pilhas-de-pedras-na-groenlandia/).
+A pedra de Kingittorsuaq, achada em 1824 numa ilha do noroeste da Groenlândia, diz que três homens fizeram pilhas de pedras. A forma de empilhar e a conta de pedras do jogo são invenção. Leia a história em [Pedra de Kingittorsuaq: três nórdicos e três pilhas de pedras na Groenlândia](/pt/pedra-de-kingittorsuaq-tres-nordicos-e-tres-pilhas-de-pedras-na-groenlandia/).

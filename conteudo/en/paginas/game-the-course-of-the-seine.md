@@ -23,4 +23,4 @@ Turn the river pieces, one tap at a time (or use the arrows and Space), until th
 
 ## The story behind it
 
-Rollo and his men settled on the lower Seine, and Normandy grew from there. The river puzzle is made up for the game. Read the story in [Rollo and Normandy: how a Viking chief received lands from the Frankish king in 911](/en/2026/11/18/rollo-normandia-saint-clair-911/).
+Rollo and his men settled on the lower Seine, and Normandy grew from there. The river puzzle is made up for the game. Read the story in [Rollo and Normandy: how a Viking chief received lands from the Frankish king in 911](/rollo-and-normandy-how-a-viking-chief-received-lands/).

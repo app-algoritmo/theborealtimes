@@ -47,4 +47,4 @@ The source records two opinions. Dasent published a version with a hero called B
 
 The source does not mention the Greek hero Perseus or the serpent Jörmungandr: links of that kind are free, and this piece does not assert them. Whether the tale is of Norse origin or of a common European type is debated. The form in which we know it was recorded in the 19th century, and it is not known precisely how much of it is much older.
 
-To slice embers in the air without touching the bubbles, play [Assipattle’s embers](/en/game-assipattles-embers/).
+To slice embers in the air without touching the bubbles, play [Assipattle’s embers](/game-assipattles-embers/).

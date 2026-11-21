@@ -23,4 +23,4 @@ Cada nó da raiz está inteiro (claro) ou roído (escuro). Ao tocar num nó, ele
 
 ## A história por trás
 
-Na Gylfaginning, Níðhöggr rói uma das três raízes de Yggdrasill, a que fica sobre Niflheimr. A grade de nós é invenção. Leia a história em [Níðhöggr, o dragão que rói as raízes de Yggdrasill: o que dizem os textos](/2027/01/17/nidhoggr-dragao-raiz-yggdrasill-nastrond/).
+Na Gylfaginning, Níðhöggr rói uma das três raízes de Yggdrasill, a que fica sobre Niflheimr. A grade de nós é invenção. Leia a história em [Níðhöggr, o dragão que rói as raízes de Yggdrasill: o que dizem os textos](/pt/nidhoggr-dragao-raiz-yggdrasill-nastrond/).

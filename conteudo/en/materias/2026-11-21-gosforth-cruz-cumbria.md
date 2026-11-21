@@ -37,4 +37,4 @@ The cross also helps us understand how art circulated. The style of the figures 
 
 Another point is the choice of red sandstone, a local stone that lets itself be carved in detail. The height of the cross demanded careful transport, fitting and installation, which suggests the monument was designed to be seen from afar, in a gathering place of the community. Today it still stands in the same churchyard where it was probably raised, and is visited by those who study the relations between Christians and Scandinavians in England.
 
-To complete the interlace, turning each piece until the thread links the source to the end, like a knot carved in stone, play [The cross's interlace](/en/game-the-cross-interlace/).
+To complete the interlace, turning each piece until the thread links the source to the end, like a knot carved in stone, play [The cross's interlace](/game-the-cross-interlace/).

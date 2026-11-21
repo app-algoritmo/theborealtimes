@@ -23,4 +23,4 @@ Først, trykk om og om igjen (eller trykk mellomromstasten) for å grave gropa f
 
 ## Historien bak
 
-I *Volsungasaga* graver Sigurd en grop på Fåvnes vei og sårer ham nedenfra, etter råd fra en gammel mann som er Odin i forkledning. Spillet er en forenkling: tidsgrensen for graving, de tre passeringene og den bleke buk-flekken er diktet opp. Les historien i [Sigurd og dragen Fåvne: hvordan en helt drepte udyret fra en grop](/no/2026/11/13/sigurd-fafnir/).
+I *Volsungasaga* graver Sigurd en grop på Fåvnes vei og sårer ham nedenfra, etter råd fra en gammel mann som er Odin i forkledning. Spillet er en forenkling: tidsgrensen for graving, de tre passeringene og den bleke buk-flekken er diktet opp. Les historien i [Sigurd og dragen Fåvne: hvordan en helt drepte udyret fra en grop](/no/sigurd-og-dragen-favne-hvordan-en-helt-drepte-udyret/).

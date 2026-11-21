@@ -23,4 +23,4 @@ Read each sentence and tap "In the account" or "Invented" (or use the left and r
 
 ## The story behind it
 
-Ibn Fadlan's account, from 921–922, describes the Rus' of the Volga. The sentences in the game were written for it and summarise what is known. Read the story in [Ibn Fadlan and the Rus' of the Volga: the Baghdad diplomat who described the Vikings](/en/2026/11/16/ibn-fadlan-rus-volga/).
+Ibn Fadlan's account, from 921–922, describes the Rus' of the Volga. The sentences in the game were written for it and summarise what is known. Read the story in [Ibn Fadlan and the Rus' of the Volga: the Baghdad diplomat who described the Vikings](/ibn-fadlan-and-the-rus-of-the-volga-the-baghdad-diplomat/).

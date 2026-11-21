@@ -33,4 +33,4 @@ O período dos Jólasveinar vai de 12 de dezembro à Epifania, em 6 de janeiro, 
 
 Como acontece com o folclore em geral, cada família islandesa conta a história do seu jeito, e os detalhes mudam de casa em casa.
 
-Para proteger a despensa durante as treze noites, jogue [Os treze Jólasveinar](/jogo-os-treze-jolasveinar/).
+Para proteger a despensa durante as treze noites, jogue [Os treze Jólasveinar](/pt/jogo-os-treze-jolasveinar/).

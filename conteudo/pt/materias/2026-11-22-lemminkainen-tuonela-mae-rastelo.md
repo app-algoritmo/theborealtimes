@@ -35,4 +35,4 @@ Os estudiosos observam que o canto trata de um tema comum em muitas tradições,
 
 Vale lembrar que o *Kalevala* é uma obra de compilação: Lönnrot juntou versos de fontes diferentes e os ordenou, de modo que a história que lemos é, em parte, um trabalho do editor. Mesmo assim, a imagem da mãe de pé na margem, com o ancinho, ficou na memória finlandesa e inspirou pinturas, música e teatro.
 
-Para recolher, no rio de Tuonela, os pedaços do filho, sem ser alcançado pelo cisne negro que vigia as águas, jogue [O rio de Tuonela](/jogo-o-rio-de-tuonela/).
+Para recolher, no rio de Tuonela, os pedaços do filho, sem ser alcançado pelo cisne negro que vigia as águas, jogue [O rio de Tuonela](/pt/jogo-o-rio-de-tuonela/).

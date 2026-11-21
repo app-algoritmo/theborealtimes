@@ -44,4 +44,4 @@ The article's numbers are simple: 29 poems, 45 leaves preserved and 8 lost by 16
 
 The text of the Codex Regius probably copies even older sources, from the early thirteenth century, that did not survive. Who compiled the book, where and why, and when the eight pages vanished, remain unanswered. What is known is that without this book the poems of the Norse gods would have reached us much poorer.
 
-To put numbered pages in order, sliding one piece at a time, play [The Codex pages](/en/game-the-codex-pages/).
+To put numbered pages in order, sliding one piece at a time, play [The Codex pages](/game-the-codex-pages/).

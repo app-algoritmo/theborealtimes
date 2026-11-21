@@ -40,4 +40,4 @@ Historians debate what is real behind the saga. Njál seems to have existed, and
 
 The saga mixes the Christian conversions of Njál and his family with old notions of honor and revenge. Njál's line, that God will not let them burn in this life or the next, is one of the passages where the two traditions meet.
 
-To escape the fire like Kári, play [Kári's escape](/en/game-karis-escape/).
+To escape the fire like Kári, play [Kári's escape](/game-karis-escape/).

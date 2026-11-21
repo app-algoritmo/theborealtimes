@@ -46,4 +46,4 @@ Depois da vitória, Alfredo reorganizou o reino. Construiu fortificações, as *
 
 Por isso é o único rei inglês chamado "o Grande". Seu mérito está menos na batalha de Edington do que na obra que veio depois.
 
-Para vigiar os bolos sem queimá-los, jogue [Os bolos de Alfredo](/jogo-os-bolos-de-alfredo/).
+Para vigiar os bolos sem queimá-los, jogue [Os bolos de Alfredo](/pt/jogo-os-bolos-de-alfredo/).

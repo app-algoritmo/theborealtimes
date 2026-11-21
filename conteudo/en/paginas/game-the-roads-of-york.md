@@ -23,4 +23,4 @@ Tap a piece to rotate it. Connect all 25 pieces to the starting point, marked wi
 
 ## The story behind it
 
-Eric ruled York, in northern England, in 947–948 and 952–954. The roads in the game are made up. Read the story in [Eric Bloodaxe: the Norwegian king who ruled York and lost the throne twice](/en/2026/12/06/erico-machado-sangrento-york-954/).
+Eric ruled York, in northern England, in 947–948 and 952–954. The roads in the game are made up. Read the story in [Eric Bloodaxe: the Norwegian king who ruled York and lost the throne twice](/eric-bloodaxe-the-norwegian-king-who-ruled-york-and-lost/).

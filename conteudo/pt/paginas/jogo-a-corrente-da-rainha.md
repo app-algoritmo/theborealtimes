@@ -23,4 +23,4 @@ A verdadeira rainha está presa por uma corrente de ferro. Um elo brilhante gira
 
 ## A história por trás
 
-No conto islandês, o rei Sigurd corta, na terceira noite, a corrente que prende a verdadeira rainha, trocada por uma troll. O corte de elos aos poucos é invenção. Leia a história em [A bruxa no barco de pedra: conto islandês do rei Sigurd e da corrente](/2027/03/14/a-bruxa-no-barco-de-pedra-conto-islandes-do-rei-sigurd-e-da-corrente/).
+No conto islandês, o rei Sigurd corta, na terceira noite, a corrente que prende a verdadeira rainha, trocada por uma troll. O corte de elos aos poucos é invenção. Leia a história em [A bruxa no barco de pedra: conto islandês do rei Sigurd e da corrente](/pt/a-bruxa-no-barco-de-pedra-conto-islandes-do-rei-sigurd-e-da-corrente/).

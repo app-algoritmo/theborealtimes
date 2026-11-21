@@ -23,4 +23,4 @@ Toque numa peça para girá-la. Ligue todas as 25 peças ao ponto de partida, ma
 
 ## A história por trás
 
-Érico governou York, no norte da Inglaterra, em 947–948 e 952–954. As estradas do jogo são invenção. Leia a história em [Érico Machado Sangrento: o rei norueguês que governou York e perdeu o trono duas vezes](/2026/12/06/erico-machado-sangrento-york-954/).
+Érico governou York, no norte da Inglaterra, em 947–948 e 952–954. As estradas do jogo são invenção. Leia a história em [Érico Machado Sangrento: o rei norueguês que governou York e perdeu o trono duas vezes](/pt/erico-machado-sangrento-york-954/).

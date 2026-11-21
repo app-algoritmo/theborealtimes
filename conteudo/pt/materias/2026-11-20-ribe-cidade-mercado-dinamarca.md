@@ -37,4 +37,4 @@ Ribe continuou como centro. Hoje, é uma cidade pequena, com uma catedral mediev
 
 Os arqueólogos notam que o sedimento de Ribe é rico porque o lugar foi ocupado de forma contínua por séculos. Cada nova camada de terra traz objetos que mostram mudanças na cidade: as casas, as oficinas, os poços e as sepulturas. Para quem escava, a cidade é como um livro com várias páginas empilhadas, e cada centímetro de sedimento corresponde a anos da vida cotidiana de pessoas comuns.
 
-Para destravar a rua cheia de carroças e abrir caminho até o cais, como num dia de mercado em Ribe, jogue [Carroças no mercado de Ribe](/jogo-carrocas-no-mercado-de-ribe/).
+Para destravar a rua cheia de carroças e abrir caminho até o cais, como num dia de mercado em Ribe, jogue [Carroças no mercado de Ribe](/pt/jogo-carrocas-no-mercado-de-ribe/).

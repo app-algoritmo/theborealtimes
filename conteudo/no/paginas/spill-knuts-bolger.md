@@ -23,4 +23,4 @@ Start i øvre venstre hjørne. For hver runde velger du en farge: Territoriet di
 
 ## Historien bak
 
-Knut styrte England, Danmark og Norge. Legenden om tidevannet er kjent, men puslespillet er diktet opp for spillet. Les historien i [Knut den mektige og Nordsjøimperiet: kongen som styrte England, Danmark og Norge](/no/2026/11/18/cnut-imperio-mar-do-norte/).
+Knut styrte England, Danmark og Norge. Legenden om tidevannet er kjent, men puslespillet er diktet opp for spillet. Les historien i [Knut den mektige og Nordsjøimperiet: kongen som styrte England, Danmark og Norge](/no/knut-den-mektige-og-nordsjoimperiet-kongen-som-styrte/).

@@ -23,4 +23,4 @@ Rytteren rir opp glassberget i tre felt. Trykk på et felt, eller bruk piltasten
 
 ## Historien bak
 
-I «Jomfruen på glassberget», samlet av Asbjørnsen og Moe, vokter den yngste sønnen enga på St. Hans-natten og får en hest; etter tre forsøk, i messing-, sølv- og gullrustning, rir han opp berget og tar prinsessens tre gulleple. Oppstigningen i felt er oppfunnet. Les historien i [Jomfruen på glassberget: den yngste sønnen, hesten og de tre gulleplene](/no/2027/01/24/a-princesa-na-montanha-de-vidro-asbjornsen-moe/).
+I «Jomfruen på glassberget», samlet av Asbjørnsen og Moe, vokter den yngste sønnen enga på St. Hans-natten og får en hest; etter tre forsøk, i messing-, sølv- og gullrustning, rir han opp berget og tar prinsessens tre gulleple. Oppstigningen i felt er oppfunnet. Les historien i [Jomfruen på glassberget: den yngste sønnen, hesten og de tre gulleplene](/no/jomfruen-pa-glassberget-den-yngste-sonnen-hesten-og-de-tre/).

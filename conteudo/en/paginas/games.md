@@ -9,7 +9,7 @@ ax:
   btn_sorteio: "Pick a random adventure"
   btn_ver: "See all games"
   progresso: "My progress"
-  progresso_url: "/en/my-progress/"
+  progresso_url: "/my-progress/"
   sorteando: "Rolling..."
   stat_jogos: "games"
   stat_historias: "stories"
@@ -24,7 +24,7 @@ ax:
     - {i: "🔒", t: "No sign-up", d: "No game asks for an account, and none collects data about who plays."}
     - {i: "📖", t: "Based on stories", d: "Every game links to a story on the site and says what is invention and what comes from the sources."}
   fim_link: "Prefer to read first? See the stories"
-  fim_url: "/en/"
+  fim_url: "/"
 ---
 
 The games are a pastime inspired by the stories. When one of them changes something the sources tell, the game's page says how it really was.

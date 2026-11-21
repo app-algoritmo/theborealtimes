@@ -41,4 +41,4 @@ Most current historians see Clontarf less as a war of liberation against invader
 
 The saga tells that, on the morning of the battle, a man in Caithness saw women weaving on a loom made of weapons and entrails and singing the poem *Darraðarljóð*, which announces the fight. It is a literary episode, with no proof that it happened. The annals, for their part, suggest that the victory came at a high price: Brian's death opened a dispute over the succession, and the idea of a strong High King was slow to return.
 
-To try to sink the ships fleeing with the tide at Clontarf, play [The tide at Clontarf](/en/game-the-tide-at-clontarf/).
+To try to sink the ships fleeing with the tide at Clontarf, play [The tide at Clontarf](/game-the-tide-at-clontarf/).

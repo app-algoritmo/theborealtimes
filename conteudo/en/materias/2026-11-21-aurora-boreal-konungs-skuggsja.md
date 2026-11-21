@@ -37,4 +37,4 @@ Science today explains the phenomenon as the result of charged particles from th
 
 The *Konungs skuggsjá* is also useful because it shows an interest in observation. The author describes where and when the lights usually appear, and notes that they are most visible on dark nights. This kind of description, common in medieval didactic texts, is one of the reasons the book is cited in histories of science in the North. Even without the right explanation, he recorded what he saw with clarity.
 
-To switch off, one by one, the lights of the sky that turn on and off, play [The lights of the sky](/en/game-the-lights-of-the-sky/).
+To switch off, one by one, the lights of the sky that turn on and off, play [The lights of the sky](/game-the-lights-of-the-sky/).

@@ -45,4 +45,4 @@ Para escapar da princesa troll, ele propõe uma prova: casará com quem lavar su
 
 O tipo de história, de um marido misterioso que é perdido por uma quebra de promessa, é muito antigo e aparece em muitos países. O mito grego de Cupido e Psiquê é um parente conhecido. A versão norueguesa tem o urso branco, os ventos e os trolls, que a tornam típica do Norte.
 
-Para ajudar a jovem a cruzar o céu levada pelo Vento Norte, jogue [O Vento Norte](/jogo-o-vento-norte/).
+Para ajudar a jovem a cruzar o céu levada pelo Vento Norte, jogue [O Vento Norte](/pt/jogo-o-vento-norte/).

@@ -23,4 +23,4 @@ Seler dukker opp på skjærene og forsvinner snart. Trykk på selen før den for
 
 ## Historien bak
 
-Selkier er i folketroen seler som tar av seg skinnet og blir mennesker, særlig på de nordlige øyene av Skottland; navnet kommer fra skotsk «selch», gråsel. Å trykke på seler som dukker opp er oppfunnet. Les historien i [Selkie: selen som tar av seg skinnet og blir menneske på de nordlige øyene i Skottland](/no/2027/02/21/selkie-a-foca-que-vira-gente-orcadas-shetland-pele-roubada/).
+Selkier er i folketroen seler som tar av seg skinnet og blir mennesker, særlig på de nordlige øyene av Skottland; navnet kommer fra skotsk «selch», gråsel. Å trykke på seler som dukker opp er oppfunnet. Les historien i [Selkie: selen som tar av seg skinnet og blir menneske på de nordlige øyene i Skottland](/no/selkie-selen-som-tar-av-seg-skinnet-og-blir-menneske/).

@@ -23,4 +23,4 @@ Divide the field into rectangles. Each rectangle must contain exactly one number
 
 ## The story behind it
 
-Víga-Glúms saga is set in Eyjafjörður, in northern Iceland, where Glúmr Eyjólfsson lives at Þverá; one of the fields in the story is called Vitazgjafi. Dividing the field into rectangles is invented. Read the story in [Víga-Glúms saga: the chieftain of Eyjafjörður, the field Vitazgjafi and the cult of Freyr](/en/2027/01/31/viga-glums-saga-eyjafjordur-campo-vitazgjafi/).
+Víga-Glúms saga is set in Eyjafjörður, in northern Iceland, where Glúmr Eyjólfsson lives at Þverá; one of the fields in the story is called Vitazgjafi. Dividing the field into rectangles is invented. Read the story in [Víga-Glúms saga: the chieftain of Eyjafjörður, the field Vitazgjafi and the cult of Freyr](/viga-glums-saga-the-chieftain-of-eyjafjordur-the-field/).

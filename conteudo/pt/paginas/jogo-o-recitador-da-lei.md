@@ -23,4 +23,4 @@ As palavras caem em três faixas. Toque na faixa certa (ou use as setas) quando 
 
 ## A história por trás
 
-O Althing foi fundado por volta de 930, e o recitador da lei dizia as leis de cor na Lögberg. O ritmo do jogo é invenção. Leia a história em [Althing, 930: o parlamento ao ar livre de Þingvellir e o homem que recitava as leis de cor](/2026/11/15/althing-930-thingvellir/).
+O Althing foi fundado por volta de 930, e o recitador da lei dizia as leis de cor na Lögberg. O ritmo do jogo é invenção. Leia a história em [Althing, 930: o parlamento ao ar livre de Þingvellir e o homem que recitava as leis de cor](/pt/althing-930-thingvellir/).

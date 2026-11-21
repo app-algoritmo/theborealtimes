@@ -48,4 +48,4 @@ A *place-name* is the name of a place. A *settlement* is a small cluster of hous
 
 Who the people were who gave the names is not said by the names. When each name was born, and whether it was in the time of the Vikings or after, is not always known. Some endings, like *-wick* and *-borough*, are ambiguous. The idea that *-thwaite* would be more Norwegian is only a supposition of the sources.
 
-To mark the farmsteads by the sums of the rows and columns, play [The farmsteads of the Danelaw](/en/game-the-farmsteads-of-the-danelaw/).
+To mark the farmsteads by the sums of the rows and columns, play [The farmsteads of the Danelaw](/game-the-farmsteads-of-the-danelaw/).

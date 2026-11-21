@@ -23,4 +23,4 @@ O comprador pede um peso exato de prata. Toque nos pedaços para pôr ou tirar d
 
 ## A história por trás
 
-Os vikings pesavam prata em balanças pequenas e cortavam moedas e joias em pedaços (hacksilver). Moedas árabes, os dirhams, aparecem aos milhares nos tesouros da Escandinávia. Os pesos e os negócios do jogo são inventados. Leia a história em [Prata do califado, balanças de bolso: como moedas árabes foram parar nos tesouros vikings](/2026/11/14/dirhams-prata-vikings/).
+Os vikings pesavam prata em balanças pequenas e cortavam moedas e joias em pedaços (hacksilver). Moedas árabes, os dirhams, aparecem aos milhares nos tesouros da Escandinávia. Os pesos e os negócios do jogo são inventados. Leia a história em [Prata do califado, balanças de bolso: como moedas árabes foram parar nos tesouros vikings](/pt/dirhams-prata-vikings/).

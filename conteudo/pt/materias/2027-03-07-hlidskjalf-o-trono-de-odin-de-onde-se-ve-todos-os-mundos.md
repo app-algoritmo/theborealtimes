@@ -45,4 +45,4 @@ Hliðskjálf é o posto de observação dos deuses. Odin o usa para vigiar, Frig
 
 O verbete não explica a origem do nome além da tradução. A ligação com o *seiðhjallr* é uma hipótese de Simek. Quem de fato pode sentar no assento é um ponto que as fontes não resolvem.
 
-Para vigiar o mundo lá de cima e achar a luz que se acende entre as cabanas, jogue [O trono do alto](/jogo-o-trono-do-alto/).
+Para vigiar o mundo lá de cima e achar a luz que se acende entre as cabanas, jogue [O trono do alto](/pt/jogo-o-trono-do-alto/).

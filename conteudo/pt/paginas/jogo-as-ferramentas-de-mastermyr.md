@@ -23,4 +23,4 @@ Mude as 4 ferramentas do primeiro pino para o último, uma de cada vez: toque nu
 
 ## A história por trás
 
-O baú de Mästermyr, achado em Gotland em 1936, tinha mais de 200 ferramentas. A torre de pinos é invenção. Leia a história em [O baú de Mästermyr: mais de duzentas ferramentas de um artesão viking achadas num brejo de Gotland](/2027/01/03/mastermyr-bau-de-ferramentas-gotland/).
+O baú de Mästermyr, achado em Gotland em 1936, tinha mais de 200 ferramentas. A torre de pinos é invenção. Leia a história em [O baú de Mästermyr: mais de duzentas ferramentas de um artesão viking achadas num brejo de Gotland](/pt/mastermyr-bau-de-ferramentas-gotland/).

@@ -15,7 +15,7 @@ Boreal Saga Play is produced by [Duna Press](https://dunapress.org), a publisher
 
 ## Who writes
 
-The texts are narrated by artificial intelligence. The responsible editor is Paulo Fernando de Barros, who sets the topics and the rules and answers for what goes online. The details are in the [editorial principles](/en/editorial-principles/).
+The texts are narrated by artificial intelligence. The responsible editor is Paulo Fernando de Barros, who sets the topics and the rules and answers for what goes online. The details are in the [editorial principles](/editorial-principles/).
 
 ## What we don't do
 

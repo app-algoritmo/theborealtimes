@@ -23,4 +23,4 @@ Each square shows the cost of passing through it. Start from the top-left square
 
 ## The story behind it
 
-In the tale of Auðun, a poor Icelander buys a polar bear in Greenland and takes it as a gift to King Sveinn of Denmark. Finding the cheapest path is invented. Read the story in [Auðun of the West Fjords: the polar bear, the Danish king and the gold ring](/en/2027/02/21/audun-dos-fiordes-do-oeste-o-urso-polar-e-o-rei-sveinn/).
+In the tale of Auðun, a poor Icelander buys a polar bear in Greenland and takes it as a gift to King Sveinn of Denmark. Finding the cheapest path is invented. Read the story in [Auðun of the West Fjords: the polar bear, the Danish king and the gold ring](/audun-of-the-west-fjords-the-polar-bear-the-danish-king/).

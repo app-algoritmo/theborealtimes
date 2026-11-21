@@ -23,4 +23,4 @@ Uma pedra pesada vai de um lado a outro. Toque para soltá-la sobre o muro. O qu
 
 ## A história por trás
 
-A igreja de pedra de Hvalsey, na Groenlândia, tem paredes de pedra de muitas toneladas. Empilhar no ritmo certo é invenção. Leia a história em [Hvalsey: a igreja de pedra da Groenlândia e o casamento de 1408](/2027/02/28/hvalsey-a-igreja-de-pedra-da-groenlandia-e-o-casamento-de-1408/).
+A igreja de pedra de Hvalsey, na Groenlândia, tem paredes de pedra de muitas toneladas. Empilhar no ritmo certo é invenção. Leia a história em [Hvalsey: a igreja de pedra da Groenlândia e o casamento de 1408](/pt/hvalsey-a-igreja-de-pedra-da-groenlandia-e-o-casamento-de-1408/).

@@ -48,4 +48,4 @@ There is a chamber dated with precision, to 970 or 971, with a man, a cloak of w
 
 The sources do not say whether the man was Christian or pagan. It is also not known who he was. The idea that he is Harald Bluetooth is only a suggestion. The wax candle is described as "probably" a Christian symbol, and that is an interpretation. The relation of the hoard of 1871 to the grave is not explained beyond the distance.
 
-To place the axes on the board without their attacking each other, play [The axes of Mammen](/en/game-the-axes-of-mammen/).
+To place the axes on the board without their attacking each other, play [The axes of Mammen](/game-the-axes-of-mammen/).

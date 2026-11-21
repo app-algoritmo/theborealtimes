@@ -23,4 +23,4 @@ A princesa responde a tudo e quer sempre a última palavra. O caçula colheu coi
 
 ## A história por trás
 
-No conto de Asbjørnsen e Moe, o caçula responde às frases da princesa com o que achou no caminho: a cunha, o caco de pires e o chifre de cabra. A ordem das frases e as trocas de lugar são invenção. Leia a história em [A princesa que ninguém conseguia calar: o conto de Asbjørnsen e Moe em que o caçula vence com seis achados](/2027/04/04/a-princesa-que-ninguem-conseguia-calar-o-conto-de-asbjornsen-e-moe-em-que-o-cacula-vence-com-seis-achados/).
+No conto de Asbjørnsen e Moe, o caçula responde às frases da princesa com o que achou no caminho: a cunha, o caco de pires e o chifre de cabra. A ordem das frases e as trocas de lugar são invenção. Leia a história em [A princesa que ninguém conseguia calar: o conto de Asbjørnsen e Moe em que o caçula vence com seis achados](/pt/a-princesa-que-ninguem-conseguia-calar-o-conto-de-asbjornsen-e-moe-em-que-o-cacula-vence-com-seis-achados/).

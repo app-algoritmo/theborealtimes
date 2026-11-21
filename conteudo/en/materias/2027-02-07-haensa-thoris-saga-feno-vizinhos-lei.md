@@ -39,4 +39,4 @@ The source cites the manuscript AM 162 G fol, catalogued by the National and Uni
 
 The source gives no firm date of composition. The link with the 1281 objection and with Magnus VI's law is presented as a suggestion ("it has been suggested"), not as established fact, and the reading of the "saga as propaganda" is a theory based on the work of Björn Sigfússon and Jan de Vries, not a conclusion accepted by all. The source also does not say when the change to the Quarter Thing took effect, and does not name the neighbours who were the victims of the fire.
 
-To put hay bales into tidy stacks, each of a single kind, play [The hay bales](/en/game-the-hay-bales/).
+To put hay bales into tidy stacks, each of a single kind, play [The hay bales](/game-the-hay-bales/).

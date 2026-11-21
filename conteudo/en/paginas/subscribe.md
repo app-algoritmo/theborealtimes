@@ -40,7 +40,7 @@ You enter your email and tick the consent box. We send a confirmation message, a
 
 ## What we keep
 
-Your email, the language you chose, the date of sign-up and of confirmation, and the version of the consent text. We do not store your IP and we do not ask for a name. The data is held on a server in Norway. Details are in the [privacy policy](/en/privacy/).
+Your email, the language you chose, the date of sign-up and of confirmation, and the version of the consent text. We do not store your IP and we do not ask for a name. The data is held on a server in Norway. Details are in the [privacy policy](/privacy/).
 
 ## How to unsubscribe
 

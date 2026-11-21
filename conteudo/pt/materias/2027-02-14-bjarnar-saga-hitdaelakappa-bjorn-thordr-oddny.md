@@ -40,4 +40,4 @@ A leitura tradicional faz de Björn o herói e de Þórðr o vilão. Sävborg pr
 
 O texto é incompleto, já que nenhum manuscrito traz a saga inteira. A data da composição não consta na primeira fonte e é disputada na segunda: o início do século XIII, para Bjarni Einarsson, por volta de 1300 ou mais tarde, para Bjarni Guðnason, e não muito antes de 1230 se houve influência de romances, segundo Sävborg. As duas fontes divergem também sobre a falsificação da mensagem, que só a primeira menciona.
 
-Para decifrar uma sequência secreta de selos coloridos, como numa mensagem trocada, jogue [A mensagem falsificada](/jogo-a-mensagem-falsificada/).
+Para decifrar uma sequência secreta de selos coloridos, como numa mensagem trocada, jogue [A mensagem falsificada](/pt/jogo-a-mensagem-falsificada/).

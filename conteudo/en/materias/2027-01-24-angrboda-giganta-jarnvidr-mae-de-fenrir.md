@@ -39,4 +39,4 @@ A *jötunn* is a giant or giantess, and *Járnviðr* is the Iron Wood, where fem
 
 Some scholars consider the name Angrboða a late invention, no earlier than the 12th century. The tradition of three monsters born of Loki and a giantess may be older than the name. The identification of the giantess of Járnviðr with Angrboða is a deduction, described as "most likely", and not an explicit attestation. Peter H. Salus and Paul B. Taylor suggest that Eggþér may have been Angrboða's wolf-herder, which is also a hypothesis. The article does not deal with the *Skáldskaparmál*.
 
-To watch a patch grow across a whole forest until it has a single colour, play [The Iron Wood](/en/game-the-iron-wood/).
+To watch a patch grow across a whole forest until it has a single colour, play [The Iron Wood](/game-the-iron-wood/).

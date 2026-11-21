@@ -45,4 +45,4 @@ A study of about 38 people buried in six Christian cemeteries, using DNA, bones 
 
 The source consulted says that in 1187 raiders from the Baltic pillaged the town, but excavations have not verified the destruction. In the thirteenth century the town lost importance, partly because the land rose and navigation became difficult.
 
-To sort what arrives at the workshop, sending each piece to the left or to the right, play [Sigtuna's workshop](/en/game-sigtunas-workshop/).
+To sort what arrives at the workshop, sending each piece to the left or to the right, play [Sigtuna's workshop](/game-sigtunas-workshop/).

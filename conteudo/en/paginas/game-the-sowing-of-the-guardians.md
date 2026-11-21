@@ -23,4 +23,4 @@ Tap one of your 6 pits (bottom) to pick up its stones and sow them, one per pit,
 
 ## The story behind it
 
-In the Heimskringla, four guardians protect Iceland from an invasion. The sowing game is made up. Read the story in [Landvættir: the dragon, the bird, the bull and the giant that protect Iceland, according to the Heimskringla](/en/2026/12/13/landvaettir-guardioes-islandia-heimskringla/).
+In the Heimskringla, four guardians protect Iceland from an invasion. The sowing game is made up. Read the story in [Landvættir: the dragon, the bird, the bull and the giant that protect Iceland, according to the Heimskringla](/landvaettir-the-dragon-the-bird-the-bull-and-the-giant/).

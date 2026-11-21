@@ -23,4 +23,4 @@ Move the axe (drag, or use the arrows) to bounce the ball and knock down every s
 
 ## The story behind it
 
-Ivar the Boneless was one of the leaders of the Great Heathen Army that invaded England around 865. The wall in the game is made up. Read the story in [Ivar the Boneless and the Great Heathen Army: what is known about the invasion that changed England](/en/2026/11/18/ivar-sem-ossos-grande-exercito-pagao/).
+Ivar the Boneless was one of the leaders of the Great Heathen Army that invaded England around 865. The wall in the game is made up. Read the story in [Ivar the Boneless and the Great Heathen Army: what is known about the invasion that changed England](/ivar-the-boneless-and-the-great-heathen-army-what-is-known/).

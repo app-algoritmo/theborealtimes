@@ -23,4 +23,4 @@ Dra hver del (eller velg med piltastene og bruk mellomromstasten) til riktig pla
 
 ## Historien bak
 
-På Up Helly Aa i Lerwick på Shetland blir en galei brent hver vinter under en ildfest. Byggingen i spillet er diktet opp. Les historien i [Up Helly Aa: ildfestivalen der Shetland brenner et vikingskip, og hva som er gammelt og hva som er moderne ved den](/no/2026/11/18/up-helly-aa-shetland-fogo/).
+På Up Helly Aa i Lerwick på Shetland blir en galei brent hver vinter under en ildfest. Byggingen i spillet er diktet opp. Les historien i [Up Helly Aa: ildfestivalen der Shetland brenner et vikingskip, og hva som er gammelt og hva som er moderne ved den](/no/up-helly-aa-ildfestivalen-der-shetland-brenner/).

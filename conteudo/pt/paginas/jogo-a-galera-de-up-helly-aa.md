@@ -23,4 +23,4 @@ Arraste cada peça (ou escolha com as setas e use a barra de espaço) até o lug
 
 ## A história por trás
 
-Em Up Helly Aa, em Lerwick, nas Shetland, uma galera é queimada todo inverno num festival de fogo. A montagem do jogo é invenção. Leia a história em [Up Helly Aa: o festival de fogo em que Shetland queima um navio viking, e o que ele tem de antigo e de moderno](/2026/11/18/up-helly-aa-shetland-fogo/).
+Em Up Helly Aa, em Lerwick, nas Shetland, uma galera é queimada todo inverno num festival de fogo. A montagem do jogo é invenção. Leia a história em [Up Helly Aa: o festival de fogo em que Shetland queima um navio viking, e o que ele tem de antigo e de moderno](/pt/up-helly-aa-shetland-fogo/).

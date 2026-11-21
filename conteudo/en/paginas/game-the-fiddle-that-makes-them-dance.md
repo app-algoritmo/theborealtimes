@@ -23,4 +23,4 @@ Freddy's fiddle makes everyone dance, but only if he plays in time. Rings shrink
 
 ## The story behind it
 
-In the tale, Freddy gets a fiddle that makes everything alive dance and, at the gallows, plays until the sheriff, the judge and the soldiers dance. The rhythm game is invented. Read the story in [Little Freddy with his Fiddle: the Norwegian tale of the fiddle that makes everyone dance](/en/2027/03/07/o-pequeno-freddy-e-seu-violino-conto-noruegues-do-violino-que-faz-todos-dancarem/).
+In the tale, Freddy gets a fiddle that makes everything alive dance and, at the gallows, plays until the sheriff, the judge and the soldiers dance. The rhythm game is invented. Read the story in [Little Freddy with his Fiddle: the Norwegian tale of the fiddle that makes everyone dance](/little-freddy-with-his-fiddle-the-norwegian-tale/).

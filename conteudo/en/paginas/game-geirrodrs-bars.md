@@ -23,4 +23,4 @@ The giant hurls glowing iron bars. Drag a finger (or use the arrows) to move Tho
 
 ## The story behind it
 
-According to Snorri, Thor used iron gloves to catch the glowing bar. The rain of bars is made up for the game. Read the story in [Thor and the giant Geirrøðr: the glowing iron, the iron gloves and the rising river](/en/2026/11/20/thor-geirrod-luvas-de-ferro/).
+According to Snorri, Thor used iron gloves to catch the glowing bar. The rain of bars is made up for the game. Read the story in [Thor and the giant Geirrøðr: the glowing iron, the iron gloves and the rising river](/thor-and-the-giant-geirrodr-the-glowing-iron-the-iron/).

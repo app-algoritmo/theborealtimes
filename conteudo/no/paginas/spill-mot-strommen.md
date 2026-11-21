@@ -23,4 +23,4 @@ Ro oppover elva, mot strømmen. Trykk på venstre side av skjermen for å ro med
 
 ## Historien bak
 
-I eventyret leter mannen oppover elva og finner kona over en foss, flytende mot strømmen. Roingen er oppfunnet. Les historien i [Kjerringa mot strømmen: eventyret om sta kjerringer og elva](/no/2027/03/07/a-mulher-contraria-conto-noruegues-sobre-a-teimosia-e-o-rio/).
+I eventyret leter mannen oppover elva og finner kona over en foss, flytende mot strømmen. Roingen er oppfunnet. Les historien i [Kjerringa mot strømmen: eventyret om sta kjerringer og elva](/no/kjerringa-mot-strommen-eventyret-om-sta-kjerringer-og-elva/).

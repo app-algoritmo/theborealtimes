@@ -23,4 +23,4 @@ Fyll hver rad, kolonne og 2×2-rute med tallene 1 til 4, uten gjentakelser. Tryk
 
 ## Historien bak
 
-I Repton (Derbyshire) overvintret Den store hæren i 873–874. Tallrutenettet i spillet er diktet opp. Les historien i [Repton, 873: vinterleiren til Den store hær](/no/2026/11/29/repton-873-acampamento-de-inverno-vikings/).
+I Repton (Derbyshire) overvintret Den store hæren i 873–874. Tallrutenettet i spillet er diktet opp. Les historien i [Repton, 873: vinterleiren til Den store hær](/no/repton-873-vinterleiren-til-den-store-haer/).

@@ -23,4 +23,4 @@ Prinsessen svarer på alt og vil alltid ha det siste ordet. Minstemann har samle
 
 ## Historien bak
 
-I eventyret til Asbjørnsen og Moe svarer minstemann på prinsessens setninger med det han fant på veien: kilen, skåret av et fat og bukkehornet. Rekkefølgen på setningene og plassbyttene er oppdiktet. Les historien i [Prinsessen som ingen kunne målbinde: eventyret fra Asbjørnsen og Moe der yngstemann vinner med seks funn](/no/2027/04/04/a-princesa-que-ninguem-conseguia-calar-o-conto-de-asbjornsen-e-moe-em-que-o-cacula-vence-com-seis-achados/).
+I eventyret til Asbjørnsen og Moe svarer minstemann på prinsessens setninger med det han fant på veien: kilen, skåret av et fat og bukkehornet. Rekkefølgen på setningene og plassbyttene er oppdiktet. Les historien i [Prinsessen som ingen kunne målbinde: eventyret fra Asbjørnsen og Moe der yngstemann vinner med seks funn](/no/prinsessen-som-ingen-kunne-malbinde-eventyret/).

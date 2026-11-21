@@ -45,4 +45,4 @@ Ukko é o velho do céu finlandês: trovão, tempo e colheita. Seu culto mais no
 
 Como o culto só aparece por escrito em 1551, não se sabe quanto do que Agricola e os coletores posteriores descrevem era antigo e quanto vinha de mistura com a fé cristã. O próprio lugar de Ukko entre os deuses, se supremo ou um entre vários, segue em debate.
 
-Para guiar uma nuvem de trovão sobre os campos e soltar a chuva no lugar certo, jogue [A chuva no campo](/jogo-a-chuva-no-campo/).
+Para guiar uma nuvem de trovão sobre os campos e soltar a chuva no lugar certo, jogue [A chuva no campo](/pt/jogo-a-chuva-no-campo/).

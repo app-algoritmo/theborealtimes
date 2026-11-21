@@ -23,4 +23,4 @@ Conduza o urso branco pelo labirinto de gelo até o castelo no canto oposto. Toq
 
 ## A história por trás
 
-No conto, a princesa segue o urso branco, que é o rei Valemon enfeitiçado, até o castelo de uma bruxa. O labirinto é invenção. Leia a história em [O Urso Branco, Rei Valemon: conto de Asbjørnsen e Moe sobre um noivo enfeitiçado](/2027/03/07/o-urso-branco-rei-valemon-conto-de-asbjornsen-e-moe-sobre-um-noivo-enfeiticado/).
+No conto, a princesa segue o urso branco, que é o rei Valemon enfeitiçado, até o castelo de uma bruxa. O labirinto é invenção. Leia a história em [O Urso Branco, Rei Valemon: conto de Asbjørnsen e Moe sobre um noivo enfeitiçado](/pt/o-urso-branco-rei-valemon-conto-de-asbjornsen-e-moe-sobre-um-noivo-enfeiticado/).

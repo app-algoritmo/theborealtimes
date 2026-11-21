@@ -39,4 +39,4 @@ A fonte cita o manuscrito AM 162 G fol, catalogado pela Biblioteca Nacional e Un
 
 A fonte não dá uma data firme de composição. A ligação com a objeção de 1281 e com a lei de Magnus VI é apresentada como sugestão ("foi sugerido"), e não como fato estabelecido, e a leitura de "saga como propaganda" é uma teoria baseada em trabalhos de Björn Sigfússon e de Jan de Vries, não uma conclusão aceita por todos. A fonte também não diz quando a mudança para o Thing do Quarto entrou em vigor, e não nomeia os vizinhos vítimas do incêndio.
 
-Para pôr fardos de feno em pilhas arrumadas, cada uma com um tipo só, jogue [Os fardos de feno](/jogo-os-fardos-de-feno/).
+Para pôr fardos de feno em pilhas arrumadas, cada uma com um tipo só, jogue [Os fardos de feno](/pt/jogo-os-fardos-de-feno/).

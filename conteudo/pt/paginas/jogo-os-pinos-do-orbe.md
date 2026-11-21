@@ -23,4 +23,4 @@ Há 14 pinos e um buraco. Toque num pino e depois no buraco para onde ele deve p
 
 ## A história por trás
 
-Heimskringla, atribuída a Snorri Sturluson por volta de 1230, tem o nome tirado das palavras iniciais da Ynglinga saga, "o orbe da Terra". Os pinos são invenção. Leia a história em [Heimskringla, o "orbe do mundo": as sagas dos reis da Noruega atribuídas a Snorri Sturluson](/2027/01/10/heimskringla-snorri-sturluson-orbe-do-mundo-sagas-reis/).
+Heimskringla, atribuída a Snorri Sturluson por volta de 1230, tem o nome tirado das palavras iniciais da Ynglinga saga, "o orbe da Terra". Os pinos são invenção. Leia a história em [Heimskringla, o "orbe do mundo": as sagas dos reis da Noruega atribuídas a Snorri Sturluson](/pt/heimskringla-snorri-sturluson-orbe-do-mundo-sagas-reis/).

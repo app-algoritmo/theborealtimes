@@ -23,4 +23,4 @@ Peer løper gjennom salen. Sveip sidelengs (eller trykk på venstre/høyre halvd
 
 ## Historien bak
 
-I Ibsens Peer Gynt tar Dovregubben Peer med til trollsalen sin. Løpet gjennom salen er diktet opp. Les historien i [Peer Gynt og Dovregubben: fra folkeeventyr til Ibsens scene](/no/2026/11/29/peer-gynt-dovregubben-asbjornsen-ibsen/).
+I Ibsens Peer Gynt tar Dovregubben Peer med til trollsalen sin. Løpet gjennom salen er diktet opp. Les historien i [Peer Gynt og Dovregubben: fra folkeeventyr til Ibsens scene](/no/peer-gynt-og-dovregubben-fra-folkeeventyr-til-ibsens-scene/).

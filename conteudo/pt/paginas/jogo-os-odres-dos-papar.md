@@ -23,4 +23,4 @@ Você tem dois odres de capacidades diferentes, sem marcas de medida, uma fonte 
 
 ## A história por trás
 
-Segundo a Landnámabók, monges irlandeses viveram na Islândia antes dos nórdicos e deixaram livros, sinos e báculos; a arqueologia não comprovou a presença deles. Medir água é invenção. Leia a história em [Os papar: os "homens cristãos" que as fontes dizem ter vivido na Islândia antes dos nórdicos](/2027/02/14/papar-monges-irlandeses-islandia-antes-dos-nordicos/).
+Segundo a Landnámabók, monges irlandeses viveram na Islândia antes dos nórdicos e deixaram livros, sinos e báculos; a arqueologia não comprovou a presença deles. Medir água é invenção. Leia a história em [Os papar: os "homens cristãos" que as fontes dizem ter vivido na Islândia antes dos nórdicos](/pt/papar-monges-irlandeses-islandia-antes-dos-nordicos/).

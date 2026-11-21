@@ -43,4 +43,4 @@ Ao dizer que o livro era um volume e hoje são três partes, o artigo lembra que
 
 Partes importantes se perderam. Haukr copiou sobretudo de manuscritos mais antigos, hoje perdidos, e tendia a reescrever e encurtar as sagas, de modo que os textos dele podem diferir dos originais. O artigo liga o livro a Haukr Erlendsson, mas descreve a ligação como uma "associação", e não afirma sem ressalvas que ele tenha sido o autor de tudo. Por fim, as indicações de folhas na lista de conteúdo do artigo não são consistentes entre si, e por isso esta matéria não as repete.
 
-Para somar números até a conta pedida, como num trecho do *Algorismus*, jogue [O algorismo de Haukr](/jogo-o-algorismo-de-haukr/).
+Para somar números até a conta pedida, como num trecho do *Algorismus*, jogue [O algorismo de Haukr](/pt/jogo-o-algorismo-de-haukr/).

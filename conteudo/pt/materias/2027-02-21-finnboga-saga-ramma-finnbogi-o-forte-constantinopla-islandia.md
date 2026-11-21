@@ -56,4 +56,4 @@ Finnbogi percorre um caminho que vai de um começo humilde, como bebê exposto, 
 
 A saga foi escrita séculos depois dos fatos que narra, e as fontes não dizem se Finnbogi existiu. A ligação exata com a Vatnsdæla saga é debatida, e as opiniões divergem. O número de manuscritos e as datas são aproximados. Os detalhes das disputas na Islândia aparecem de modo resumido, e o que se afirma aqui é o enredo geral.
 
-Para acertar o golpe quando o marcador estiver na zona dourada, como um herói que merece o epíteto, jogue [A força de Finnbogi](/jogo-a-forca-de-finnbogi/).
+Para acertar o golpe quando o marcador estiver na zona dourada, como um herói que merece o epíteto, jogue [A força de Finnbogi](/pt/jogo-a-forca-de-finnbogi/).

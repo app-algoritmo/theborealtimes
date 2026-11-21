@@ -23,4 +23,4 @@ Alterne as braçadas: toque no lado esquerdo e no direito da tela, um de cada ve
 
 ## A história por trás
 
-A Saga dos Faroeses fala de um homem que escapou a nado. O trajeto e as medidas do jogo são invenção. Leia a história em [A saga dos Faroeses: Sigmundur, Tróndur e a fuga a nado entre as ilhas](/2026/11/22/foroyinga-saga-sigmundur-nado/).
+A Saga dos Faroeses fala de um homem que escapou a nado. O trajeto e as medidas do jogo são invenção. Leia a história em [A saga dos Faroeses: Sigmundur, Tróndur e a fuga a nado entre as ilhas](/pt/foroyinga-saga-sigmundur-nado/).

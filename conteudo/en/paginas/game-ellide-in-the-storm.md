@@ -23,4 +23,4 @@ The sorceresses have raised waves against the Ellide. Tap beside the ship, or sw
 
 ## The story behind it
 
-In the saga, the Ellide withstands a storm raised by two sorceresses. The bands of waves in the game are made up. Read the story in [Fridtjof and the ship Ellide: the saga of the young man who faced a storm made by witches](/en/2026/11/21/fridtjof-ellide-tempestade/).
+In the saga, the Ellide withstands a storm raised by two sorceresses. The bands of waves in the game are made up. Read the story in [Fridtjof and the ship Ellide: the saga of the young man who faced a storm made by witches](/fridtjof-and-the-ship-ellide-the-saga-of-the-young-man/).

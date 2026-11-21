@@ -41,4 +41,4 @@ The word reappears in many places. The writer Ole Edvart Rølvaag wrote The Boat
 
 As with every fairy tale, the source is not a single one: Asbjørnsen and Moe collected and rewrote the stories, and what they heard was already a mixture of traditions. For a quest tale like this one, that mixture seems almost fitting.
 
-To find the way to the castle, play [To Soria Moria](/en/game-to-soria-moria/).
+To find the way to the castle, play [To Soria Moria](/game-to-soria-moria/).

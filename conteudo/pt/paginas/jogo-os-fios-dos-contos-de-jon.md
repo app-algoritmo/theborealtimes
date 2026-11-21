@@ -23,4 +23,4 @@ Num quadro de 7 colunas por 6 linhas, você e o adversário deixam cair fichas, 
 
 ## A história por trás
 
-Jón Árnason (1819–1888) foi o primeiro bibliotecário do que viria a ser a Biblioteca Nacional da Islândia. Sua coletânea Íslenzkar þjóðsögur og æfintýri saiu em dois volumes, em 1862 e 1864. O jogo é invenção. Leia a história em [Jón Árnason e os contos populares da Islândia: a coletânea publicada em Leipzig em 1862 e 1864](/2027/01/17/jon-arnason-contos-populares-islandeses-leipzig-1862/).
+Jón Árnason (1819–1888) foi o primeiro bibliotecário do que viria a ser a Biblioteca Nacional da Islândia. Sua coletânea Íslenzkar þjóðsögur og æfintýri saiu em dois volumes, em 1862 e 1864. O jogo é invenção. Leia a história em [Jón Árnason e os contos populares da Islândia: a coletânea publicada em Leipzig em 1862 e 1864](/pt/jon-arnason-contos-populares-islandeses-leipzig-1862/).

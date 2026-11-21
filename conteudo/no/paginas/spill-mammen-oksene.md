@@ -23,4 +23,4 @@ Trykk på en rute for å sette ut eller ta bort en øks. Sett én øks per rad, 
 
 ## Historien bak
 
-I graven i Mammen, nær Viborg i Danmark, lå det to økser, og den ene, med sølvinnlegg, ga navn til Mammen-stilen. Tømmeret i kammeret ble felt i 970/971. Å sette ut økser som ikke angriper hverandre er oppfunnet. Les historien i [Mammen-graven: en øks med sølv, et lys og et kammer datert til 970](/no/2027/02/21/sepultura-de-mammen-machado-com-prata-dinamarca-ano-970/).
+I graven i Mammen, nær Viborg i Danmark, lå det to økser, og den ene, med sølvinnlegg, ga navn til Mammen-stilen. Tømmeret i kammeret ble felt i 970/971. Å sette ut økser som ikke angriper hverandre er oppfunnet. Les historien i [Mammen-graven: en øks med sølv, et lys og et kammer datert til 970](/no/mammen-graven-en-oks-med-solv-et-lys-og-et-kammer-datert/).

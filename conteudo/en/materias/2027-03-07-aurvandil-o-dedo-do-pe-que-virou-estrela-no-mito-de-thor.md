@@ -41,4 +41,4 @@ Aurvandil is a man carried by Thor in a basket, whose frozen toe became a star. 
 
 The article says the star is not identified: Sirius, Venus and Rigel, the foot of Orion, have been suggested. The meaning of the name is debated, with several proposals. It is not known whether Snorri invented the toe scene or gathered an older tradition, nor whether the stories from other regions come from the same root.
 
-To cross a river of ice by hopping from block to block, without falling into the water, play [The river of ice](/en/game-the-river-of-ice/).
+To cross a river of ice by hopping from block to block, without falling into the water, play [The river of ice](/game-the-river-of-ice/).

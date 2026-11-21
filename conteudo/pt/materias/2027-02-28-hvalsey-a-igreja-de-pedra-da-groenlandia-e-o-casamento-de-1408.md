@@ -50,4 +50,4 @@ A igreja de Hvalsey é a ruína nórdica mais bem preservada da Groenlândia e o
 
 A data exata da construção não é clara, e pode ter existido uma igreja anterior. Não se sabe se a argamassa ficava entre as pedras ou só como reboco por fora, e o telhado de turfa é só suposição. A ligação com Thorkell Farserk é incerta. A data do casamento vem de documento posterior, e o oficiante é presumido. A lenda inuíte contradiz os achados. O artigo do jornal não diz qual fonte dá o dia exato.
 
-Para empilhar pedras de muitas toneladas, uma sobre a outra, sem deixar a parede cair, jogue [O muro de pedras](/jogo-o-muro-de-pedras/).
+Para empilhar pedras de muitas toneladas, uma sobre a outra, sem deixar a parede cair, jogue [O muro de pedras](/pt/jogo-o-muro-de-pedras/).

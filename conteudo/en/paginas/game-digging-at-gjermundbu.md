@@ -23,4 +23,4 @@ Drag your finger (or mouse) over the soil to clear it. When almost everything is
 
 ## The story behind it
 
-The Gjermundbu helmet was found in 1943 in a grave in Ringerike, Norway, and is the only nearly complete Viking helmet known: round, iron, with eye protection and no horns. The digging in the game is a simplification. Read the story in [Did the Vikings wear horned helmets? What the Gjermundbu find shows](/en/2026/11/12/capacete-viking-chifres-gjermundbu/).
+The Gjermundbu helmet was found in 1943 in a grave in Ringerike, Norway, and is the only nearly complete Viking helmet known: round, iron, with eye protection and no horns. The digging in the game is a simplification. Read the story in [Did the Vikings wear horned helmets? What the Gjermundbu find shows](/did-the-vikings-wear-horned-helmets-what-the-gjermundbu/).

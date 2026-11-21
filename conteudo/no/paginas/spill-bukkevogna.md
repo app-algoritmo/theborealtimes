@@ -23,4 +23,4 @@ Kjør vognen til Tor langs den steinete veien. Trykk på skjermen, eller trykk m
 
 ## Historien bak
 
-I Den yngre Edda spiser Tor bukkene om kvelden og henter dem tilbake ved daggry, og ingen bein må brytes. Vognferden er oppfunnet. Les historien i [Tanngrisnir og Tanngnjóstr: bukkene som trekker vognen til Tor](/no/2027/03/07/tanngrisnir-e-tanngnjostr-os-bodes-que-puxam-o-carro-de-thor/).
+I Den yngre Edda spiser Tor bukkene om kvelden og henter dem tilbake ved daggry, og ingen bein må brytes. Vognferden er oppfunnet. Les historien i [Tanngrisnir og Tanngnjóstr: bukkene som trekker vognen til Tor](/no/tanngrisnir-og-tanngnjostr-bukkene-som-trekker-vognen/).

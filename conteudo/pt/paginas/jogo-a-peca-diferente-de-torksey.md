@@ -23,4 +23,4 @@ Em cada rodada aparecem peças de jogo quase iguais: uma delas tem um tom um pou
 
 ## A história por trás
 
-No inverno de 872–873, o Grande Exército acampou em Torksey, Lincolnshire, e deixou mais de 300 peças de jogo de chumbo. As rodadas são invenção. Leia a história em [Torksey, 872–873: o acampamento de inverno do Grande Exército que parecia uma cidade em marcha](/2026/12/27/torksey-acampamento-de-inverno-grande-exercito-872/).
+No inverno de 872–873, o Grande Exército acampou em Torksey, Lincolnshire, e deixou mais de 300 peças de jogo de chumbo. As rodadas são invenção. Leia a história em [Torksey, 872–873: o acampamento de inverno do Grande Exército que parecia uma cidade em marcha](/pt/torksey-acampamento-de-inverno-grande-exercito-872/).

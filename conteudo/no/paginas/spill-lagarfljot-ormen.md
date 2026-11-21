@@ -23,4 +23,4 @@ Slangen beveger seg av seg selv. Trykk på venstre halvdel av skjermen for å sv
 
 ## Historien bak
 
-I islandsk folketro vokste en orm i innsjøen Lagarfljót etter at den ble kastet i den med en gullring. Spillet er diktet opp. Les historien i [Lagarfljót-ormen: islandsk innsjømonster som ble filmet i 2012](/no/2026/11/15/lagarfljot-serpente-lago/).
+I islandsk folketro vokste en orm i innsjøen Lagarfljót etter at den ble kastet i den med en gullring. Spillet er diktet opp. Les historien i [Lagarfljót-ormen: islandsk innsjømonster som ble filmet i 2012](/no/lagarfljot-ormen-islandsk-innsjomonster-som-ble-filmet/).

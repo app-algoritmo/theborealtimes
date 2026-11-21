@@ -47,4 +47,4 @@ O entalhe de Ramsund, de cerca de 1030, mostra em pedra a história de Sigurd, d
 
 A inscrição de Gök nunca foi lida e traduzida de modo satisfatório. As inscrições de Årsunda e de Österfärnebo foram reconstruídas em parte de desenhos de 1690, e a de Ockelbo é uma cópia de 1932. O sentido dos cinco runas ligadas da pia de Norum não é conhecido. As duas leituras da família de Ramsund são alternativas, e não fatos assentados. A pedra de Hunninge, em Gotland, tem mais de uma leitura.
 
-Para ligar pontos e fechar uma só volta de serpente, jogue [A volta da serpente](/jogo-a-volta-da-serpente/).
+Para ligar pontos e fechar uma só volta de serpente, jogue [A volta da serpente](/pt/jogo-a-volta-da-serpente/).

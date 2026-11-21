@@ -44,4 +44,4 @@ Snorri apresenta Hjúki e Bil como crianças tiradas da terra por Máni, que and
 
 Snorri não explica por que a Lua levou as crianças, nem se elas foram para o céu por vontade própria. Ele também não diz que as figuras sejam visíveis na superfície da Lua, e as fontes que li não confirmam a leitura das manchas. O que o texto afirma de forma clara é só a lista de nomes e a frase de que as crianças seguem a Lua.
 
-Para escolher a fase da lua que vem a seguir, como Máni conduz o seu crescer e o seu minguar, jogue [As fases da lua](/jogo-as-fases-da-lua/).
+Para escolher a fase da lua que vem a seguir, como Máni conduz o seu crescer e o seu minguar, jogue [As fases da lua](/pt/jogo-as-fases-da-lua/).

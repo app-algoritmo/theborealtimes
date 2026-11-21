@@ -23,4 +23,4 @@ Dra en finger (eller bruk piltastene) for å flytte skjoldet og slå ballen mot 
 
 ## Historien bak
 
-I sagaen holdt jomsvikingene en festning ved Østersjøen, der den nøyaktige plasseringen er omdiskutert. Blokkene i spillet er diktet opp. Les historien i [Jomsvikingene: festningen med strenge regler og slaget ved Hjørungavåg](/no/2026/11/21/jomsvikings-hjorungavagr-986/).
+I sagaen holdt jomsvikingene en festning ved Østersjøen, der den nøyaktige plasseringen er omdiskutert. Blokkene i spillet er diktet opp. Les historien i [Jomsvikingene: festningen med strenge regler og slaget ved Hjørungavåg](/no/jomsvikingene-festningen-med-strenge-regler-og-slaget-ved/).

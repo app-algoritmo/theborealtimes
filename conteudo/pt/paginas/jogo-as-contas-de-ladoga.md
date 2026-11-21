@@ -23,4 +23,4 @@ Toque numa casa vazia para pôr uma conta dourada; o adversário põe contas azu
 
 ## A história por trás
 
-Staraya Ladoga (Aldeigjuborg) foi, desde o século VIII, um centro de comércio e de ofícios. O jogo de alinhar contas é invenção. Leia a história em [Staraya Ladoga: o entreposto à beira do Volkhov onde se faziam contas de vidro](/2026/11/29/staraya-ladoga-aldeigjuborg-contas-de-vidro/).
+Staraya Ladoga (Aldeigjuborg) foi, desde o século VIII, um centro de comércio e de ofícios. O jogo de alinhar contas é invenção. Leia a história em [Staraya Ladoga: o entreposto à beira do Volkhov onde se faziam contas de vidro](/pt/staraya-ladoga-aldeigjuborg-contas-de-vidro/).

@@ -23,4 +23,4 @@ Hold your finger, or the space bar, to fish; release to keep what you caught. At
 
 ## The story behind it
 
-In 1752, Bishop Erik Pontoppidan described the kraken as an enormous monster that unusually rich fishing would give away. The giant squid, which does exist, was only well documented in the 19th century. The game is made up. Read the story in [The Kraken: from the sea monster of Norwegian fishermen to the giant squid science eventually confirmed](/en/2026/11/14/kraken-pontoppidan/).
+In 1752, Bishop Erik Pontoppidan described the kraken as an enormous monster that unusually rich fishing would give away. The giant squid, which does exist, was only well documented in the 19th century. The game is made up. Read the story in [The Kraken: from the sea monster of Norwegian fishermen to the giant squid science eventually confirmed](/the-kraken-from-the-sea-monster-of-norwegian-fishermen/).

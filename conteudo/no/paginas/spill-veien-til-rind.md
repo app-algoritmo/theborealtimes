@@ -23,4 +23,4 @@ Hver rute har et rett eller bøyd stykke sti. Trykk på en rute for å dreie den
 
 ## Historien bak
 
-I de nordiske kildene er Rindr mor til Váli, Odins sønn. Hos Saxo Grammaticus blir hun prinsessen Rinda, datter av kongen over rutenerne, og Odin forkler seg for å nå henne. Å dreie stier er oppfunnet. Les historien i [Rindr: Vális mor, Odins forheksing og Saxo Grammaticus' prinsesse Rinda](/no/2027/02/07/rindr-mae-de-vali-odin-saxo-rinda/).
+I de nordiske kildene er Rindr mor til Váli, Odins sønn. Hos Saxo Grammaticus blir hun prinsessen Rinda, datter av kongen over rutenerne, og Odin forkler seg for å nå henne. Å dreie stier er oppfunnet. Les historien i [Rindr: Vális mor, Odins forheksing og Saxo Grammaticus' prinsesse Rinda](/no/rindr-valis-mor-odins-forheksing-og-saxo-grammaticus/).

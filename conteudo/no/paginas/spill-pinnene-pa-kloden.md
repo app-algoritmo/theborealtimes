@@ -23,4 +23,4 @@ Det er 14 pinner og ett hull. Trykk på en pinne og deretter på hullet den skal
 
 ## Historien bak
 
-Heimskringla, tilskrevet Snorre Sturluson omkring 1230, har navnet fra åpningsordene i Ynglinga saga, «jordens krets». Pinnene er oppfunnet. Les historien i [Heimskringla, «jordens krets»: kongesagaene om Norge tilskrevet Snorre Sturluson](/no/2027/01/10/heimskringla-snorri-sturluson-orbe-do-mundo-sagas-reis/).
+Heimskringla, tilskrevet Snorre Sturluson omkring 1230, har navnet fra åpningsordene i Ynglinga saga, «jordens krets». Pinnene er oppfunnet. Les historien i [Heimskringla, «jordens krets»: kongesagaene om Norge tilskrevet Snorre Sturluson](/no/heimskringla-jordens-krets-kongesagaene-om-norge-tilskrevet/).

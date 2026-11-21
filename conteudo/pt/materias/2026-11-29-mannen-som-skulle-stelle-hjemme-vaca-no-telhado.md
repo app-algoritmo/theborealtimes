@@ -45,4 +45,4 @@ A versão norueguesa ficou conhecida fora do país graças à tradução de Geor
 
 O conto é bom exemplo do humor de situação, de que os contos populares gostam. Nada precisa ser explicado: basta ver o homem preso na chaminé e a vaca pendurada. Isso ajuda a entender por que histórias como essa sobreviveram por tanto tempo em voz alta, antes de serem escritas.
 
-Para apanhar com o cesto as tarefas da casa que caem do telhado, e desviar do que só atrapalha, como o porco, jogue [O homem e os afazeres da casa](/jogo-o-homem-e-os-afazeres/).
+Para apanhar com o cesto as tarefas da casa que caem do telhado, e desviar do que só atrapalha, como o porco, jogue [O homem e os afazeres da casa](/pt/jogo-o-homem-e-os-afazeres/).

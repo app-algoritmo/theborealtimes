@@ -42,4 +42,4 @@ Várias frases estão sinalizadas como "precisa de fonte": a importância do cul
 
 A divindade solar sámi é descrita de forma diferente conforme a região, a época e quem registrou, em geral missionários e etnógrafos. O que as fontes sugerem é um Sol ligado à vida, à primavera e à rena; o resto precisa de cautela.
 
-Para tocar nos sóis na ordem de 1 a 16, o mais depressa que puder, jogue [Os sóis de Beaivi](/jogo-os-sois-de-beaivi/).
+Para tocar nos sóis na ordem de 1 a 16, o mais depressa que puder, jogue [Os sóis de Beaivi](/pt/jogo-os-sois-de-beaivi/).

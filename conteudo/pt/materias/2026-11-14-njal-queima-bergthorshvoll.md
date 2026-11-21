@@ -40,4 +40,4 @@ Os historiadores discutem o que há de real por trás da saga. Njál parece ter 
 
 A saga mistura as conversões cristãs de Njál e de sua família com as antigas noções de honra e vingança. A fala de Njál, de que Deus não os deixará queimar nesta vida nem na outra, é uma das passagens em que as duas tradições se encontram.
 
-Para escapar do fogo como Kári, jogue [A fuga de Kári](/jogo-a-fuga-de-kari/).
+Para escapar do fogo como Kári, jogue [A fuga de Kári](/pt/jogo-a-fuga-de-kari/).

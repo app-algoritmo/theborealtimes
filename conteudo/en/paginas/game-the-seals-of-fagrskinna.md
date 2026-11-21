@@ -23,4 +23,4 @@ Sixteen sheets of parchment lie face down, each with a seal that appears on two 
 
 ## The story behind it
 
-Fagrskinna was written around 1220 and tells the history of Norway from Halfdan the Black to the battle of Re in 1177. The author is not known. The seals are invented. Read the story in [Fagrskinna, the "Fair Parchment": the history of the kings of Norway written around 1220](/en/2027/01/17/fagrskinna-pergaminho-belo-reis-noruega-1220/).
+Fagrskinna was written around 1220 and tells the history of Norway from Halfdan the Black to the battle of Re in 1177. The author is not known. The seals are invented. Read the story in [Fagrskinna, the "Fair Parchment": the history of the kings of Norway written around 1220](/fagrskinna-the-fair-parchment-the-history-of-the-kings/).

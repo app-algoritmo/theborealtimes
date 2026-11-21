@@ -42,4 +42,4 @@ Extremist groups have tried to use the poem's physical descriptions to justify r
 
 The link between Heimdall and humankind appears outside the *Rígsþula*. The *Völuspá* opens by asking silence of the "sons of Heimdall", understood as human beings. The prose introduction to the *Rígsþula*, which may have been added later, identifies Ríg with Heimdall. For medieval readers, then, the god who guarded the bridge was also a kind of symbolic father of men, which helps explain why the poem chooses him to visit the houses.
 
-To give each family the right house, play [The three houses](/en/game-the-three-houses/).
+To give each family the right house, play [The three houses](/game-the-three-houses/).

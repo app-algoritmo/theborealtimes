@@ -23,4 +23,4 @@ Each round shows almost identical gaming pieces: one of them has a slightly diff
 
 ## The story behind it
 
-In the winter of 872–873, the Great Army camped at Torksey, Lincolnshire, and left more than 300 lead gaming pieces. The rounds are invented. Read the story in [Torksey, 872–873: the winter camp of the Great Army that looked like a town on the move](/en/2026/12/27/torksey-acampamento-de-inverno-grande-exercito-872/).
+In the winter of 872–873, the Great Army camped at Torksey, Lincolnshire, and left more than 300 lead gaming pieces. The rounds are invented. Read the story in [Torksey, 872–873: the winter camp of the Great Army that looked like a town on the move](/torksey-872-873-the-winter-camp-of-the-great-army/).

@@ -43,4 +43,4 @@ The draug grew out of a real situation. Fishing was vital and dangerous, familie
 
 Today the draug appears in children's books, in games and even in contemporary art. But for the fishermen of old, the fog one must not answer was a serious matter.
 
-To cross the fog without meeting Draugen, play [The fog of the Draug](/en/game-the-fog-of-the-draug/).
+To cross the fog without meeting Draugen, play [The fog of the Draug](/game-the-fog-of-the-draug/).

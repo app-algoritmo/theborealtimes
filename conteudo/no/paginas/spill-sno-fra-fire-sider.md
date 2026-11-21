@@ -23,4 +23,4 @@ I Fimbulvetr kommer snøen fra alle kanter. Fire snøfonner vokser rundt huset, 
 
 ## Historien bak
 
-I Snorres Edda sier Snorre at Fimbulvetr gir tre vintre på rad uten sommer, og at snøen kommer fra alle kanter. Fonnene som skal måkes, og rytmen i spillet er oppdiktet. Les historien i [Fimbulvetr: den tre år lange vinteren uten sommer før Ragnarok](/no/2027/03/28/fimbulvetr-o-inverno-de-tres-anos-sem-verao-que-antecede-o-ragnarok/).
+I Snorres Edda sier Snorre at Fimbulvetr gir tre vintre på rad uten sommer, og at snøen kommer fra alle kanter. Fonnene som skal måkes, og rytmen i spillet er oppdiktet. Les historien i [Fimbulvetr: den tre år lange vinteren uten sommer før Ragnarok](/no/fimbulvetr-den-tre-ar-lange-vinteren-uten-sommer/).

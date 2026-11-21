@@ -23,4 +23,4 @@ Terrenget er delt i 49 ruter og skjuler 6 myrhull. Trykk på en rute for å unde
 
 ## Historien bak
 
-Helge og Anne Stine Ingstad gravde ut L'Anse aux Meadows mellom 1961 og 1968. Det finnes rester av åtte bygninger, og en studie fra 2021 pekte på året 1021 som et år med norrøn aktivitet på stedet. Myrhullene er oppfunnet. Les historien i [L'Anse aux Meadows, det norrøne stedet på Newfoundland: hva utgravingene viste](/no/2027/01/17/lanse-aux-meadows-sitio-nordico-terra-nova-ingstad/).
+Helge og Anne Stine Ingstad gravde ut L'Anse aux Meadows mellom 1961 og 1968. Det finnes rester av åtte bygninger, og en studie fra 2021 pekte på året 1021 som et år med norrøn aktivitet på stedet. Myrhullene er oppfunnet. Les historien i [L'Anse aux Meadows, det norrøne stedet på Newfoundland: hva utgravingene viste](/no/l-anse-aux-meadows-det-norrone-stedet-pa-newfoundland-hva/).

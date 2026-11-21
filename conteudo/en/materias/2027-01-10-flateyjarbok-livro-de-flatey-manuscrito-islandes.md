@@ -43,4 +43,4 @@ The manuscript is the work of two hands, Jón's in the central stretch and Magn�
 
 The writing dates are inferred. The article does not give the size of the leaves or say how many skins were used, and it is prudent not to invent those numbers. Nor does it deal with the farm where the book would have been made.
 
-To fill leaves, square by square, with the help of the numbers on the edges, play [The leaves of the Flateyjarbók](/en/game-the-leaves-of-the-flateyjarbok/).
+To fill leaves, square by square, with the help of the numbers on the edges, play [The leaves of the Flateyjarbók](/game-the-leaves-of-the-flateyjarbok/).

@@ -23,4 +23,4 @@ Hver farge har to ender merket med en sirkel. Dra fingeren fra den ene enden til
 
 ## Historien bak
 
-Broen ved Ravning Enge, i Vejle-dalen i Danmark, var omtrent 760 meter lang med 280 spenn i eik; tømmeret ble felt på 980-tallet, og verket tilskrives Harald Blåtann. Å knytte sammen stier er oppfunnet. Les historien i [Broen ved Ravning Enge: 760 meter eik nær Jelling](/no/2027/02/07/ponte-de-ravning-enge-harald-dente-azul/).
+Broen ved Ravning Enge, i Vejle-dalen i Danmark, var omtrent 760 meter lang med 280 spenn i eik; tømmeret ble felt på 980-tallet, og verket tilskrives Harald Blåtann. Å knytte sammen stier er oppfunnet. Les historien i [Broen ved Ravning Enge: 760 meter eik nær Jelling](/no/broen-ved-ravning-enge-760-meter-eik-naer-jelling/).

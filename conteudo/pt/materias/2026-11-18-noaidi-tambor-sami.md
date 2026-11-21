@@ -43,4 +43,4 @@ Hoje, artistas e comunidades sámi recuperam o tambor como símbolo cultural, e 
 
 Muito do que se registrou foi reprimido, e não só o tambor. O *joik*, o canto tradicional sámi, também foi condenado pelos missionários em muitas comunidades. Hoje, pesquisadores e museus sámi, como o Siida, em Inari, na Finlândia, contam a história desses objetos de seu próprio ponto de vista. A pergunta que eles fazem é o que o tambor significava para quem o usava, e não só o que os outros escreveram sobre ele.
 
-Os padrões de batidas do jogo foram inventados, e não reproduzem rituais. Para repetir o ritmo do tambor que o noaidi toca, jogue [O tambor do noaidi](/jogo-o-tambor-do-noaidi/).
+Os padrões de batidas do jogo foram inventados, e não reproduzem rituais. Para repetir o ritmo do tambor que o noaidi toca, jogue [O tambor do noaidi](/pt/jogo-o-tambor-do-noaidi/).

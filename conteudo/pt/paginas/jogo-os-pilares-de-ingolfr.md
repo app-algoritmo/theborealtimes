@@ -23,4 +23,4 @@ Segure o dedo (ou a barra de espaço) para encher a barra de força e solte para
 
 ## A história por trás
 
-Segundo o Livro dos Assentamentos, Ingólfr lançou ao mar os pilares do seu assento de honra e se fixou onde eles chegaram. O vento e a baía do jogo são invenção. Leia a história em [Ingólfr Arnarson e os pilares do trono: como a tradição conta a fundação de Reykjavík](/2026/11/17/ingolfr-arnarson-pilares-reykjavik/).
+Segundo o Livro dos Assentamentos, Ingólfr lançou ao mar os pilares do seu assento de honra e se fixou onde eles chegaram. O vento e a baía do jogo são invenção. Leia a história em [Ingólfr Arnarson e os pilares do trono: como a tradição conta a fundação de Reykjavík](/pt/ingolfr-arnarson-pilares-reykjavik/).

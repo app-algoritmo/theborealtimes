@@ -23,4 +23,4 @@ Tap in the direction you want to walk, or use the arrow keys, to take a step. Re
 
 ## The story behind it
 
-Soria Moria is the castle in a tale by Asbjørnsen and Moe. The mazes in the game are random and made up. Read the story in [Soria Moria: the castle every Norwegian seeks without ever having seen it](/en/2026/11/15/soria-moria-castelo/).
+Soria Moria is the castle in a tale by Asbjørnsen and Moe. The mazes in the game are random and made up. Read the story in [Soria Moria: the castle every Norwegian seeks without ever having seen it](/soria-moria-the-castle-every-norwegian-seeks-without-ever/).

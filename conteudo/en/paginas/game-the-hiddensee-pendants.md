@@ -23,4 +23,4 @@ Each tube holds coloured pieces, and 4 fit in each. Tap a tube, then another, to
 
 ## The story behind it
 
-In 1873, after floods, 16 pendants, a brooch and a neck ring, all of gold and from the 10th century, were found on the German island of Hiddensee. The pendants combine Thor’s hammer and the cross. Sorting pieces by colour is invented. Read the story in [The Hiddensee treasure: gold pendants that join Thor's hammer and the cross](/en/2027/02/21/tesouro-de-hiddensee-pingentes-de-ouro-martelo-de-thor-e-cruz/).
+In 1873, after floods, 16 pendants, a brooch and a neck ring, all of gold and from the 10th century, were found on the German island of Hiddensee. The pendants combine Thor’s hammer and the cross. Sorting pieces by colour is invented. Read the story in [The Hiddensee treasure: gold pendants that join Thor's hammer and the cross](/the-hiddensee-treasure-gold-pendants-that-join-thor-s/).

@@ -45,4 +45,4 @@ O crânio de Ribe é um osso com runas que invoca Odin, Týr e um certo Ulfr par
 
 Parte da leitura é discutida, como o nome do anão e a presença de uma anã, e a data de 725 vem de uma única estimativa. Também é incerto se o furo servia para pendurar o objeto, e o furo sem desgaste sugere que não. Também é debatido se o texto trata de uma doença, e esse ponto depende da leitura.
 
-Para parar os anões antes que cheguem às barracas do mercado, jogue [Os anões do mercado](/jogo-os-anoes-do-mercado/).
+Para parar os anões antes que cheguem às barracas do mercado, jogue [Os anões do mercado](/pt/jogo-os-anoes-do-mercado/).

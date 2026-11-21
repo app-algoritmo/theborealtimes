@@ -23,4 +23,4 @@ Toque rápido (ou martele a barra de espaço) para puxar. Quando o monstro se de
 
 ## A história por trás
 
-No poema anglo-saxão Beowulf, o herói arranca o braço de Grendel com as próprias mãos. A luta de força do jogo é invenção. Leia a história em [Beowulf e o salão de Heorot: o poema inglês que se passa na Escandinávia e o monstro Grendel](/2026/11/17/beowulf-heorot-grendel/).
+No poema anglo-saxão Beowulf, o herói arranca o braço de Grendel com as próprias mãos. A luta de força do jogo é invenção. Leia a história em [Beowulf e o salão de Heorot: o poema inglês que se passa na Escandinávia e o monstro Grendel](/pt/beowulf-heorot-grendel/).

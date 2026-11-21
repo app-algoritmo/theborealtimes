@@ -23,4 +23,4 @@ To ulveskinn krysser hverandre og deler to perler. Perlene er på feil plass. Br
 
 ## Historien bak
 
-I Völsunga saga tar Sinfjötli og Sigmund på seg forbannede ulveskinn og kommer under en forbannelse om varulv. Å dreie perleringer er oppfunnet. Les historien i [Sinfjötli: Sigmunds sønn, ulveskinnene og völsungenes hevn](/no/2027/02/14/sinfjotli-filho-de-sigmund-peles-de-lobo-volsunga/).
+I Völsunga saga tar Sinfjötli og Sigmund på seg forbannede ulveskinn og kommer under en forbannelse om varulv. Å dreie perleringer er oppfunnet. Les historien i [Sinfjötli: Sigmunds sønn, ulveskinnene og völsungenes hevn](/no/sinfjotli-sigmunds-sonn-ulveskinnene-og-volsungenes-hevn/).

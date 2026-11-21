@@ -45,4 +45,4 @@ Canute wanted to take the crown of England, but the fleet dissolved before saili
 
 The cause of the revolt is unknown: the article cites the fines after the 1085 call-up and the tithe policy. Ælnoth speaks of a lance in the flank, but CT scans in 2008 indicated a thrust to the sacrum, through the abdomen, without signs of a fight against many. The year of birth is approximate. Some see in him a violent tyrant, others a strict but just king.
 
-To gather the fleet of the Limfjord, repeating the order in which the ships light up, play [The fleet of the Limfjord](/en/game-the-fleet-of-the-limfjord/).
+To gather the fleet of the Limfjord, repeating the order in which the ships light up, play [The fleet of the Limfjord](/game-the-fleet-of-the-limfjord/).

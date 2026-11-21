@@ -23,4 +23,4 @@ Hver runde viser nesten like spillebrikker: én av dem har en litt annen nyanse.
 
 ## Historien bak
 
-Vinteren 872–873 slo Den store hæren leir ved Torksey i Lincolnshire og etterlot mer enn 300 spillebrikker av bly. Rundene er oppfunnet. Les historien i [Torksey, 872–873: vinterleiren til Den store hæren som lignet en by på flyttefot](/no/2026/12/27/torksey-acampamento-de-inverno-grande-exercito-872/).
+Vinteren 872–873 slo Den store hæren leir ved Torksey i Lincolnshire og etterlot mer enn 300 spillebrikker av bly. Rundene er oppfunnet. Les historien i [Torksey, 872–873: vinterleiren til Den store hæren som lignet en by på flyttefot](/no/torksey-872-873-vinterleiren-til-den-store-haeren/).

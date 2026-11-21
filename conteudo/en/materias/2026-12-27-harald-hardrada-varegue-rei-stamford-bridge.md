@@ -49,4 +49,4 @@ Tostig Godwinson invited him to invade England. On 20 September 1066, at Fulford
 
 Among the points the article treats as uncertain are the descent from Harald Fairhair, the marriage to a "Maria", the trip to Jerusalem and the blinding of Michael V.
 
-To trap a fox on a cross-shaped board with thirteen geese, without letting it eat too many, play [The fox and the geese](/en/game-the-fox-and-the-geese/).
+To trap a fox on a cross-shaped board with thirteen geese, without letting it eat too many, play [The fox and the geese](/game-the-fox-and-the-geese/).

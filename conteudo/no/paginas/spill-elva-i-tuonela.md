@@ -23,4 +23,4 @@ Beveg deg gjennom elvas kanaler. Piltaster eller WASD, eller trykk i retningen d
 
 ## Historien bak
 
-I Kalevala river Lemminkäinens mor opp delene hans fra elva i Tuonela. Den jagende svanen i spillet er diktet opp. Les historien i [Lemminkäinen i Tuonelas elv: moren som fisket opp sønnens deler med en rive](/no/2026/11/22/lemminkainen-tuonela-mae-rastelo/).
+I Kalevala river Lemminkäinens mor opp delene hans fra elva i Tuonela. Den jagende svanen i spillet er diktet opp. Les historien i [Lemminkäinen i Tuonelas elv: moren som fisket opp sønnens deler med en rive](/no/lemminkainen-i-tuonelas-elv-moren-som-fisket-opp-sonnens/).

@@ -23,4 +23,4 @@ Billedhuggeren dekker taket på en hogback med singler i et gjentatt mønster. S
 
 ## Historien bak
 
-Hogbacks er hus-formede gravsteiner laget mellom 900- og 1100-tallet i Nord-England og Sørvest-Skottland, mange med utskårne singler på sidene. Mønstrene av brikker i spillet er oppdiktet. Les historien i [Hogbacks: de hus-formede gravsteinene til vikingene i England og Skottland](/no/2027/03/21/hogbacks-as-lapides-em-forma-de-casa-dos-vikings-na-inglaterra-e-na-escocia/).
+Hogbacks er hus-formede gravsteiner laget mellom 900- og 1100-tallet i Nord-England og Sørvest-Skottland, mange med utskårne singler på sidene. Mønstrene av brikker i spillet er oppdiktet. Les historien i [Hogbacks: de hus-formede gravsteinene til vikingene i England og Skottland](/no/hogbacks-de-hus-formede-gravsteinene-til-vikingene/).

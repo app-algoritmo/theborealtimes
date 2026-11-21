@@ -45,4 +45,4 @@ Foi um enterro de três pessoas num barco curto, com objetos de uso diário e de
 
 A origem do barco e dos ocupantes é incerta: o verbete diz apenas que podem ter vindo da Noruega ou de outro lugar. As causas das mortes são desconhecidas, e o sexo da criança também. O verbete não diz onde os achados estão guardados hoje, e não lista objetos junto à criança. A relação entre as três pessoas não é conhecida.
 
-Para erguer camada por camada o recinto de pedras dentro do barco, jogue [O recinto de pedras](/jogo-o-recinto-de-pedras/).
+Para erguer camada por camada o recinto de pedras dentro do barco, jogue [O recinto de pedras](/pt/jogo-o-recinto-de-pedras/).

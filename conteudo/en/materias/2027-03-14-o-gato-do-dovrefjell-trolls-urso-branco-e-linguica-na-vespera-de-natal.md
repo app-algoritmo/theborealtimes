@@ -45,4 +45,4 @@ The *Dovrefjell* is a mountain plateau in Norway. *Finnmark* is the far north of
 
 Who first told the tale is unknown, and the version of Asbjørnsen and Moe is only the best known, not necessarily the oldest. The text does not explain why the trolls take over the house every year.
 
-To scare off the trolls that lift the fork with the sausage, without touching those that are only eating, play [The trolls' feast](/en/game-the-trolls-feast/).
+To scare off the trolls that lift the fork with the sausage, without touching those that are only eating, play [The trolls' feast](/game-the-trolls-feast/).

@@ -23,4 +23,4 @@ Gefjon wants to cut the land into plots. Drag from one square to another to mark
 
 ## The story behind it
 
-According to Snorri, Gefjon ploughed a whole island in one night. The plots in the game are made up. Read the story in [Gefjon and Zealand: the goddess who ploughed an entire island in one night, with four oxen](/en/2026/11/19/gefjon-zelandia-bois-arado/).
+According to Snorri, Gefjon ploughed a whole island in one night. The plots in the game are made up. Read the story in [Gefjon and Zealand: the goddess who ploughed an entire island in one night, with four oxen](/gefjon-and-zealand-the-goddess-who-ploughed-an-entire/).

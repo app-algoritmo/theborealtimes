@@ -23,4 +23,4 @@ Invasores avançam em cinco faixas até o muro, à esquerda. Toque numa casa vaz
 
 ## A história por trás
 
-O Danevirke era uma muralha de terra e madeira no sul da Dinamarca, ampliada ao longo dos séculos. A defesa em faixas é invenção do jogo. Leia a história em [Danevirke: a muralha de terra que os dinamarqueses ergueram contra o Império Franco](/2026/11/21/danevirke-muralha-dinamarquesa/).
+O Danevirke era uma muralha de terra e madeira no sul da Dinamarca, ampliada ao longo dos séculos. A defesa em faixas é invenção do jogo. Leia a história em [Danevirke: a muralha de terra que os dinamarqueses ergueram contra o Império Franco](/pt/danevirke-muralha-dinamarquesa/).

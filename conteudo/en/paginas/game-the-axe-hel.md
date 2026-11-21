@@ -23,4 +23,4 @@ Defend the battle line. Wendish warriors advance along three lanes. Tap the left
 
 ## The story behind it
 
-In 1043, at Lyrskov Heath, Magnus the Good defeated an army of Wends, and the sources speak of Saint Olaf's axe Hel. The strikes in a row are invented. Read the story in [Magnus the Good and the battle of Lyrskov Heath, in 1043, against the Wends](/en/2027/03/07/magnus-o-bom-e-a-batalha-de-lyrskov-hede-em-1043-contra-os-wendos/).
+In 1043, at Lyrskov Heath, Magnus the Good defeated an army of Wends, and the sources speak of Saint Olaf's axe Hel. The strikes in a row are invented. Read the story in [Magnus the Good and the battle of Lyrskov Heath, in 1043, against the Wends](/magnus-the-good-and-the-battle-of-lyrskov-heath-in-1043/).

@@ -23,4 +23,4 @@ Toque num pilar para pegar o bloco de cima e toque noutro pilar para soltá-lo. 
 
 ## A história por trás
 
-No ano 1000, o Althing da Islândia decidiu que todos aceitariam o cristianismo. O quebra-cabeça dos pilares é invenção. Leia a história em [A conversão da Islândia: o chefe pagão que decidiu a questão deitado sob uma capa](/2026/12/06/conversao-da-islandia-ano-1000/).
+No ano 1000, o Althing da Islândia decidiu que todos aceitariam o cristianismo. O quebra-cabeça dos pilares é invenção. Leia a história em [A conversão da Islândia: o chefe pagão que decidiu a questão deitado sob uma capa](/pt/conversao-da-islandia-ano-1000/).

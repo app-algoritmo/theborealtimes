@@ -51,4 +51,4 @@ O conjunto reúne peças de origens muito diferentes: braceletes com inscriçõe
 
 O artigo lista dúvidas: quem enterrou o tesouro, e se eram vikings ou anglo-saxões; por que foi enterrado, e por que em dois níveis; e se ele tem relação com uma construção de madeira e um sítio eclesiástico antigo ali perto. Uma sugestão citada é a de que seria "um cofre de banco que nunca foi reclamado".
 
-Para separar as peças por material, em cofres de quatro lugares, jogue [O tesouro de Galloway](/jogo-o-tesouro-de-galloway/).
+Para separar as peças por material, em cofres de quatro lugares, jogue [O tesouro de Galloway](/pt/jogo-o-tesouro-de-galloway/).

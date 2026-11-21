@@ -23,4 +23,4 @@ De nummererte fargede rutene står i feil rekkefølge. Trykk på en pil ved side
 
 ## Historien bak
 
-Overhogdal-tapetene ble funnet i 1909 i en kirke i Härjedalen; tolkningen av figurene er omdiskutert, og den mest siterte er Ragnarok. Å skyve striper er oppfunnet. Les historien i [Överhogdal-teppene: tekstiler fra vikingtiden funnet i en svensk kirke](/no/2027/02/14/tapecarias-de-overhogdal-tecidos-da-era-viking-harjedalen/).
+Overhogdal-tapetene ble funnet i 1909 i en kirke i Härjedalen; tolkningen av figurene er omdiskutert, og den mest siterte er Ragnarok. Å skyve striper er oppfunnet. Les historien i [Överhogdal-teppene: tekstiler fra vikingtiden funnet i en svensk kirke](/no/overhogdal-teppene-tekstiler-fra-vikingtiden-funnet/).

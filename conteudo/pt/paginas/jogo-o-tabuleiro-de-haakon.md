@@ -23,4 +23,4 @@ Você joga com as peças claras. Toque numa casa marcada para pôr uma peça: as
 
 ## A história por trás
 
-Haakon Sigurdsson governou a Noruega do norte como jarl de Lade e morreu por volta de 995. O tabuleiro é invenção. Leia a história em [Haakon Sigurdsson, jarl de Lade: o senhor da Noruega que morreu num chiqueiro](/2027/01/03/haakon-sigurdsson-jarl-de-lade/).
+Haakon Sigurdsson governou a Noruega do norte como jarl de Lade e morreu por volta de 995. O tabuleiro é invenção. Leia a história em [Haakon Sigurdsson, jarl de Lade: o senhor da Noruega que morreu num chiqueiro](/pt/haakon-sigurdsson-jarl-de-lade/).

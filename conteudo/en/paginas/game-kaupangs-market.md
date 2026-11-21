@@ -23,4 +23,4 @@ Four goods, four stalls in each row. Fill the empty squares so that no good repe
 
 ## The story behind it
 
-Kaupang, in Norway, was a Viking Age market near Larvik. The squares in the game are made up. Read the story in [Kaupang: the Viking market of Skiringssal, in Norway, and what scales, silver and graves reveal](/en/2026/11/19/kaupang-skiringssal-mercado-viking/).
+Kaupang, in Norway, was a Viking Age market near Larvik. The squares in the game are made up. Read the story in [Kaupang: the Viking market of Skiringssal, in Norway, and what scales, silver and graves reveal](/kaupang-the-viking-market-of-skiringssal-in-norway-and-what/).

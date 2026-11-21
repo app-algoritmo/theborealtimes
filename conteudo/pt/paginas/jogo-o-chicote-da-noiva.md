@@ -23,4 +23,4 @@ Um marcador corre de um lado a outro da barra. Toque (ou use espaço) quando ele
 
 ## A história por trás
 
-No conto dinamarquês Kong Lindorm, a noiva precisa enfrentar o rei-verme e livrá-lo da pele. Os golpes do jogo são invenção. Leia a história em [Kong Lindorm: o conto dinamarquês do príncipe-serpente e da noiva de camisas](/2026/11/22/kong-lindorm-conto-dinamarques/).
+No conto dinamarquês Kong Lindorm, a noiva precisa enfrentar o rei-verme e livrá-lo da pele. Os golpes do jogo são invenção. Leia a história em [Kong Lindorm: o conto dinamarquês do príncipe-serpente e da noiva de camisas](/pt/kong-lindorm-conto-dinamarques/).

@@ -23,4 +23,4 @@ Escandinavos do século XI gravaram runas num leão de mármore, hoje diante do 
 
 ## A história por trás
 
-O leão de mármore do Pireu, em Veneza, tem três inscrições rúnicas do século XI. As runas das pedras do jogo, os pares e o ritmo são invenção. Leia a história em [O Leão do Pireu: as runas que vikings gravaram num leão de mármore grego, hoje em Veneza](/2027/04/04/o-leao-do-pireu-as-runas-que-vikings-gravaram-num-leao-de-marmore-grego-hoje-em-veneza/).
+O leão de mármore do Pireu, em Veneza, tem três inscrições rúnicas do século XI. As runas das pedras do jogo, os pares e o ritmo são invenção. Leia a história em [O Leão do Pireu: as runas que vikings gravaram num leão de mármore grego, hoje em Veneza](/pt/o-leao-do-pireu-as-runas-que-vikings-gravaram-num-leao-de-marmore-grego-hoje-em-veneza/).

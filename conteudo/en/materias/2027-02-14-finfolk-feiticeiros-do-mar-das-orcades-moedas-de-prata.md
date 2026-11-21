@@ -45,4 +45,4 @@ The Finman is tall and thin and crosses the sea by boat, while the Finwife begin
 
 The location of Hildaland is not stated. The sources differ on whether the captured bride or groom goes to live in Finfolkaheem and on the tail of the Finwife. The origin of the stories is another open point. The essay says the Finmen probably were foreigners from Scandinavia, and that is an interpretation, not an established fact. The essay also was not reviewed and has citation errors, so it does not serve as support on its own. The role of Eynhallow, another island of Orkney, also remains unexplained in the sources.
 
-To flip silver coins from a stack, as a defence against the Finfolk, play [The Finfolk’s coins](/en/game-the-finfolks-coins/).
+To flip silver coins from a stack, as a defence against the Finfolk, play [The Finfolk’s coins](/game-the-finfolks-coins/).

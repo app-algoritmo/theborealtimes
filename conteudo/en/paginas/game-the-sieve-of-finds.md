@@ -23,4 +23,4 @@ In a basement in Reykjavík, the excavation found the remains of a hall from the
 
 ## The story behind it
 
-At Aðalstræti 16 in Reykjavík, the excavation of the settlement-age hall found a layer of ash dated to 871, give or take two years. The finds passing along the sieve and the rhythm of the game are invention. Read the story in [Reykjavík 871±2: the longhouse under the city and the ash that dates the settlement](/en/2027/04/04/reykjavik-871-a-casa-longa-sob-a-cidade-e-a-cinza-que-data-o-assentamento/).
+At Aðalstræti 16 in Reykjavík, the excavation of the settlement-age hall found a layer of ash dated to 871, give or take two years. The finds passing along the sieve and the rhythm of the game are invention. Read the story in [Reykjavík 871±2: the longhouse under the city and the ash that dates the settlement](/reykjavik-871-2-the-longhouse-under-the-city-and-the-ash/).

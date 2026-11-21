@@ -39,4 +39,4 @@ Other researchers recall that the location, on top of a hill, near an old road, 
 
 The value of the find lies in showing the other side of the story. The Viking is often imagined as the attacker, and here he appears as the victim. It also shows how archaeology combines bones, chemistry and documents to reconstruct people who left no name. The remains were treated with respect and studied with modern methods, and are a reminder that each number, in this case, was a person.
 
-To fill, cell by cell, a six-by-six table with two marks, without putting more than two equal ones in a row and with the same number in each line, play [Ridgeway's table](/en/game-ridgeways-table/).
+To fill, cell by cell, a six-by-six table with two marks, without putting more than two equal ones in a row and with the same number in each line, play [Ridgeway's table](/game-ridgeways-table/).

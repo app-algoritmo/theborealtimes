@@ -23,4 +23,4 @@ Tre kaker steker samtidig. Trykk på hver når stolpen er i den gylne sonen (ell
 
 ## Historien bak
 
-Legenden om de brente kakene finnes bare i sene tekster, ikke i de eldste om Alfred. Spillet er diktet opp. Les historien i [Alfred den store, kongen som mistet alt og vant ved Edington — og de brente kakene](/no/2026/11/16/alfredo-edington-bolos/).
+Legenden om de brente kakene finnes bare i sene tekster, ikke i de eldste om Alfred. Spillet er diktet opp. Les historien i [Alfred den store, kongen som mistet alt og vant ved Edington — og de brente kakene](/no/alfred-den-store-kongen-som-mistet-alt-og-vant-ved-edington/).

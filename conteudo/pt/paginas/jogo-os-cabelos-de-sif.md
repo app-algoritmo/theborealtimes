@@ -23,4 +23,4 @@ As oito tranças de ouro de Sif foram embaralhadas. Toque numa trança vizinha d
 
 ## A história por trás
 
-Segundo Snorri, Loki cortou o cabelo de Sif e os anões o refizeram em ouro. As tranças do jogo são invenção. Leia a história em [Sif: a deusa dos cabelos de ouro, esposa de Thor, que quase não aparece nos mitos](/2026/11/21/sif-cabelo-de-ouro-thor/).
+Segundo Snorri, Loki cortou o cabelo de Sif e os anões o refizeram em ouro. As tranças do jogo são invenção. Leia a história em [Sif: a deusa dos cabelos de ouro, esposa de Thor, que quase não aparece nos mitos](/pt/sif-cabelo-de-ouro-thor/).

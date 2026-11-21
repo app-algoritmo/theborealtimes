@@ -47,4 +47,4 @@ No inverno seguinte, 873–874, o exército esteve em Repton, onde escavações 
 
 O quadro de Torksey vem de achados de detector, não de uma escavação de cidade inteira, e o número de pessoas é uma estimativa. Mesmo assim, as peças de jogo, as balanças e as moedas cortadas mostram um exército que fabricava, medindo prata, e se divertia no inverno.
 
-Para achar, entre peças parecidas, a que é diferente, em rodadas cada vez mais difíceis, jogue [A peça diferente de Torksey](/jogo-a-peca-diferente-de-torksey/).
+Para achar, entre peças parecidas, a que é diferente, em rodadas cada vez mais difíceis, jogue [A peça diferente de Torksey](/pt/jogo-a-peca-diferente-de-torksey/).

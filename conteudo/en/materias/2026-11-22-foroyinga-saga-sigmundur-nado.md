@@ -35,4 +35,4 @@ Archaeology shows that the Faroes were settled before the time of the account, a
 
 The thread of the text, of disputes between families, recalls the sagas of Iceland, and many scholars think the author relied on stories told over generations. The details, such as the crossing by swimming, may have been enlarged by tradition. But what the saga shows well is the life of a small archipelago, where everyone knows everyone, and where an enmity can last a lifetime.
 
-To cross, swimming, the strait between the islands, alternating your strokes without exhausting your breath, play [Swimming between the islands](/en/game-swimming-between-the-islands/).
+To cross, swimming, the strait between the islands, alternating your strokes without exhausting your breath, play [Swimming between the islands](/game-swimming-between-the-islands/).

@@ -49,4 +49,4 @@ A *cotehardie* is a close-fitting medieval garment. A *liripipe* is the long tip
 
 Whether the community was thriving or in decline, and why the Norse presence vanishes from the sources after about 1410, is still debated. The clothes say how people dressed, not why they disappeared.
 
-To weave a wool cloth by checking the order of the coloured threads, play [The wool cloth](/en/game-the-wool-cloth/).
+To weave a wool cloth by checking the order of the coloured threads, play [The wool cloth](/game-the-wool-cloth/).

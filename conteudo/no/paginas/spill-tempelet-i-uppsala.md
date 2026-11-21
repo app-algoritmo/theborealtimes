@@ -23,4 +23,4 @@ Trykk på en brikke ved siden av den tomme ruten for å skyve den. Legg runene i
 
 ## Historien bak
 
-Adam av Bremen beskrev rundt 1070 et stort tempel i Uppsala. Gåten er diktet opp. Les historien i [Tempelet i Uppsala: hva Adam av Bremen fortalte og hva arkeologene har funnet](/no/2026/12/06/uppsala-templo-adao-de-bremen/).
+Adam av Bremen beskrev rundt 1070 et stort tempel i Uppsala. Gåten er diktet opp. Les historien i [Tempelet i Uppsala: hva Adam av Bremen fortalte og hva arkeologene har funnet](/no/tempelet-i-uppsala-hva-adam-av-bremen-fortalte-og-hva/).

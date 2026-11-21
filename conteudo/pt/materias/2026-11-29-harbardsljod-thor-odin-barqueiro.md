@@ -39,4 +39,4 @@ Também não se sabe ao certo como o poema era recitado. As estrofes variam de t
 
 O interesse do *Hárbarðsljóð* está no tom. Os deuses nórdicos aparecem aqui como personagens que discutem, se vangloriam e se provocam, longe do tom solene que muitas vezes se associa à mitologia. Para quem estuda o assunto, o poema mostra que o humor também fazia parte dessas narrativas, e que a imagem do deus dos trovões como figura simples, quase ingênua, já existia nas fontes medievais.
 
-Para levar, passo a passo, a carga de Thor ao outro lado do estreito, respeitando o que cabe no barco e o que não pode ficar sozinho na margem, jogue [O barco de Hárbarðr](/jogo-o-barco-de-harbardr/).
+Para levar, passo a passo, a carga de Thor ao outro lado do estreito, respeitando o que cabe no barco e o que não pode ficar sozinho na margem, jogue [O barco de Hárbarðr](/pt/jogo-o-barco-de-harbardr/).

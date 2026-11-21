@@ -23,4 +23,4 @@ Pastores atravessam o campo, uns a pé e outros montados. Toque apenas nos que m
 
 ## A história por trás
 
-Na saga de Hrafnkell, o chefe jura matar quem montar Freyfaxi e cumpre o juramento com um pastor, o que leva à sua queda. O jogo é uma simplificação. Leia a história em [Hrafnkell e Freyfaxi: o cavalo que ninguém podia montar e o chefe que perdeu os deuses](/2026/11/15/hrafnkell-cavalo-freyfaxi/).
+Na saga de Hrafnkell, o chefe jura matar quem montar Freyfaxi e cumpre o juramento com um pastor, o que leva à sua queda. O jogo é uma simplificação. Leia a história em [Hrafnkell e Freyfaxi: o cavalo que ninguém podia montar e o chefe que perdeu os deuses](/pt/hrafnkell-cavalo-freyfaxi/).

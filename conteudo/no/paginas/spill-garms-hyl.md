@@ -23,4 +23,4 @@ Fire steiner gir gjenlyd ved hulemunnen, hver med en lyd og en farge. Se på rek
 
 ## Historien bak
 
-I Völuspá vender Garms hyl foran Gnipahelleren tilbake som et refreng og varsler ragnarok. Ekkospillet er oppfunnet. Les historien i [Garm, hunden som uler foran Gnipahelleren: hva de norrøne kildene forteller](/no/2027/01/17/garmr-cao-hel-gnipahellir-ragnarok/).
+I Völuspá vender Garms hyl foran Gnipahelleren tilbake som et refreng og varsler ragnarok. Ekkospillet er oppfunnet. Les historien i [Garm, hunden som uler foran Gnipahelleren: hva de norrøne kildene forteller](/no/garm-hunden-som-uler-foran-gnipahelleren-hva-de-norrone/).

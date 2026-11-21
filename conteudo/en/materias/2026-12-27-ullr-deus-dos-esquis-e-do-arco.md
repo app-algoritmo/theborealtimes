@@ -45,4 +45,4 @@ Some scholars see in Ullr an old god whose importance declined before northern N
 
 Today the god has become a patron of skiers, with medallions and even a week-long festival in Breckenridge, in the United States, since 1963. That is modern reception and has nothing to do with the ancient sources.
 
-To slide across the ice, unable to stop halfway, until you reach the marker in few moves, play [Ullr's ice](/en/game-ullrs-ice/).
+To slide across the ice, unable to stop halfway, until you reach the marker in few moves, play [Ullr's ice](/game-ullrs-ice/).

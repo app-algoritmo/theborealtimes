@@ -23,4 +23,4 @@ Fire skiver ligger på den venstre stolpen. Flytt alle til den høyre stolpen, �
 
 ## Historien bak
 
-Tynwald Hill på Isle of Man har fire trinn. Skivene og reglene i spillet er diktet opp. Les historien i [Tynwald: forsamlingen på Isle of Man, med norrønt navn, som fortsatt møtes på en høyde](/no/2026/11/20/tynwald-ilha-de-man-thing/).
+Tynwald Hill på Isle of Man har fire trinn. Skivene og reglene i spillet er diktet opp. Les historien i [Tynwald: forsamlingen på Isle of Man, med norrønt navn, som fortsatt møtes på en høyde](/no/tynwald-forsamlingen-pa-isle-of-man-med-norront-navn/).

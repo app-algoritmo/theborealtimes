@@ -44,4 +44,4 @@ An *accumulating-flight tale* is one in which a fugitive escapes a growing numbe
 
 We do not know how the tale circulated orally before Asbjørnsen. The funny names of the animals, in the English version, are translation choices, and the original Norwegian version has its own names and rhymes.
 
-To dodge the animals on the road and keep the pancake rolling, play [Down the hill](/en/game-down-the-hill/).
+To dodge the animals on the road and keep the pancake rolling, play [Down the hill](/game-down-the-hill/).

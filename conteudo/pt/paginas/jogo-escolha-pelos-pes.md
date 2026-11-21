@@ -23,4 +23,4 @@ Uma fileira de pés aparece sob a cortina. Toque no par sem manchas antes que a 
 
 ## A história por trás
 
-No mito, os deuses deixam Skaði escolher um marido apenas pelos pés, e ela escolhe Njörðr pensando ser Baldr. As manchas e o tempo são invenção do jogo. Leia a história em [Skaði escolhe um marido pelos pés: a deusa das montanhas que queria Baldr e ficou com Njörðr](/2026/11/15/skadi-escolhe-pelos-pes/).
+No mito, os deuses deixam Skaði escolher um marido apenas pelos pés, e ela escolhe Njörðr pensando ser Baldr. As manchas e o tempo são invenção do jogo. Leia a história em [Skaði escolhe um marido pelos pés: a deusa das montanhas que queria Baldr e ficou com Njörðr](/pt/skadi-escolhe-pelos-pes/).

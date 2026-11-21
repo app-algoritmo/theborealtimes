@@ -23,4 +23,4 @@ Fill the grid with the numbers from 1 up to its size, with no repeats in any row
 
 ## The story behind it
 
-In Eiríksmál, Eric arrives in Valhalla and says that five kings follow him and that he is the sixth. Ordering numbers with signs is invented. Read the story in [Eiríksmál: the poem that welcomes Eric Bloodaxe into Valhalla](/en/2027/02/28/eiriksmal-o-poema-que-recebe-erico-machado-sangrento-no-valhalla/).
+In Eiríksmál, Eric arrives in Valhalla and says that five kings follow him and that he is the sixth. Ordering numbers with signs is invented. Read the story in [Eiríksmál: the poem that welcomes Eric Bloodaxe into Valhalla](/eiriksmal-the-poem-that-welcomes-eric-bloodaxe-into-valhalla/).

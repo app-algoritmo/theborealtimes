@@ -45,4 +45,4 @@ Fyrkat é um forte geométrico, feito de uma só vez, usado por poucos anos e ab
 
 O verbete não define quem o construiu, Harald ou Sweyn, nem o uso exato. Os detalhes do telhado e do portão são discutidos. Não se sabe o total de túmulos, nem se havia montes. Também não se sabe por que foi abandonado e queimado.
 
-Para escavar o terreno do forte, achar os objetos escondidos e seguir as pistas de cada buraco, jogue [A escavação do forte](/jogo-a-escavacao-do-forte/).
+Para escavar o terreno do forte, achar os objetos escondidos e seguir as pistas de cada buraco, jogue [A escavação do forte](/pt/jogo-a-escavacao-do-forte/).

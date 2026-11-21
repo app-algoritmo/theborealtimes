@@ -37,4 +37,4 @@ Valhalla is not the only destination. Grímnismál, stanza 14, says Freyja rules
 
 The image of fair-haired women in winged helmets flying over the battlefield comes in large part from the 19th century, from Romantic art and from Wagner's opera *Die Walküre*, first staged in 1870. In the old sources, valkyries appear also as warrior women and as servants of the hall, and the idea that only those who died in combat went to Valhalla is a simplification: the sources have exceptions.
 
-To choose who goes to each hall, play [The valkyrie's choice](/en/game-the-valkyries-choice/).
+To choose who goes to each hall, play [The valkyrie's choice](/game-the-valkyries-choice/).

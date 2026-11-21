@@ -23,4 +23,4 @@ Tap a good and then a neighbour (or drag) to swap them. The swap only counts if 
 
 ## The story behind it
 
-Dorestad, a trading port on the Lower Rhine, was attacked by Vikings from 834. The swapping of goods is made up for the game. Read the story in [Dorestad: the great port of the Rhine and the Viking raids from 834 to 863](/en/2026/12/20/dorestad-vikings-835-porto-do-reno/).
+Dorestad, a trading port on the Lower Rhine, was attacked by Vikings from 834. The swapping of goods is made up for the game. Read the story in [Dorestad: the great port of the Rhine and the Viking raids from 834 to 863](/dorestad-the-great-port-of-the-rhine-and-the-viking-raids/).

@@ -39,4 +39,4 @@ The interest of the story grows when it is compared with the *Nibelungenlied*, t
 
 For the medieval audience, the story showed the cost of betrayal inside a family, and the poem offers no comfort. It is remembered, among other things, for Gunnar, who faces death without giving up the secret of the gold, and for a revenge that wipes out an entire dynasty.
 
-To drive away, one by one, the snakes that rise from the pit, tapping them before they bite, play [The snake pit](/en/game-gunnars-snake-pit/).
+To drive away, one by one, the snakes that rise from the pit, tapping them before they bite, play [The snake pit](/game-gunnars-snake-pit/).

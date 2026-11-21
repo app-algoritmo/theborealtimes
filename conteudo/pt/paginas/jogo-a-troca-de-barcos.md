@@ -23,4 +23,4 @@ Dois grupos de barcos se encontram num trecho estreito, com um só lugar vago. T
 
 ## A história por trás
 
-Gnezdovo é um grande sítio varegue perto de Smolensk. Trocar barcos de lado é invenção. Leia a história em [Gnezdovo: o grande sítio varegue perto de Smolensk, três mil túmulos e uma inscrição](/2027/02/28/gnezdovo-o-grande-sitio-varegue-perto-de-smolensk-tres-mil-tumulos-e-uma-inscricao/).
+Gnezdovo é um grande sítio varegue perto de Smolensk. Trocar barcos de lado é invenção. Leia a história em [Gnezdovo: o grande sítio varegue perto de Smolensk, três mil túmulos e uma inscrição](/pt/gnezdovo-o-grande-sitio-varegue-perto-de-smolensk-tres-mil-tumulos-e-uma-inscricao/).

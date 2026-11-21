@@ -23,4 +23,4 @@ En markør løper fra side til side langs linjen. Trykk (eller mellomrom) når d
 
 ## Historien bak
 
-I det danske eventyret Kong Lindorm må bruden møte ormekongen og befri ham fra skinnet. Slagene i spillet er diktet opp. Les historien i [Kong Lindorm: det danske eventyret om slangeprinsen og bruden med skjortene](/no/2026/11/22/kong-lindorm-conto-dinamarques/).
+I det danske eventyret Kong Lindorm må bruden møte ormekongen og befri ham fra skinnet. Slagene i spillet er diktet opp. Les historien i [Kong Lindorm: det danske eventyret om slangeprinsen og bruden med skjortene](/no/kong-lindorm-det-danske-eventyret-om-slangeprinsen/).

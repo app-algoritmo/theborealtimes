@@ -43,4 +43,4 @@ Até meados do século XIX, historiadores confiavam nas sagas como fato. A crít
 
 A autoria é uma suposição, e não um dado. O título é bem posterior à obra. E a distância entre os fatos e o texto é grande, de modo que cada saga deve ser lida conforme o período que narra.
 
-Para tirar pinos de um orbe de pinos, até restarem poucos, jogue [Os pinos do orbe](/jogo-os-pinos-do-orbe/).
+Para tirar pinos de um orbe de pinos, até restarem poucos, jogue [Os pinos do orbe](/pt/jogo-os-pinos-do-orbe/).

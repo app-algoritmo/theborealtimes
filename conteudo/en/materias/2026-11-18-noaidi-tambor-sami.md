@@ -43,4 +43,4 @@ Today, Sámi artists and communities reclaim the drum as a cultural symbol, and 
 
 Much of what was recorded was suppressed, and not only the drum. The *joik*, the traditional Sámi song, was also condemned by missionaries in many communities. Today, Sámi researchers and museums, such as the Siida in Inari, Finland, tell the story of these objects from their own point of view. The question they ask is what the drum meant to those who used it, and not only what others wrote about it.
 
-The beat patterns in the game were invented, and do not reproduce rituals. To repeat the rhythm of the drum that the noaidi plays, play [The noaidi's drum](/en/game-the-noaidis-drum/).
+The beat patterns in the game were invented, and do not reproduce rituals. To repeat the rhythm of the drum that the noaidi plays, play [The noaidi's drum](/game-the-noaidis-drum/).

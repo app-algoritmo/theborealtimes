@@ -45,4 +45,4 @@ Bifröst is the bridge of the gods, three-coloured, partly fire, guarded by Heim
 
 The sources do not say what the bridge is made of or what the three colours are, only that one of them is red. It is also unclear whether the bridge was seen as a rainbow, as another sky phenomenon or as a poetic image.
 
-To repeat the colours of the bridge in the right order and keep the gods safe, play [The three colours](/en/game-the-three-colours/).
+To repeat the colours of the bridge in the right order and keep the gods safe, play [The three colours](/game-the-three-colours/).

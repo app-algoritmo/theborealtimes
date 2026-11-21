@@ -45,4 +45,4 @@ Um velho de um olho só, que é Odin, crava uma espada no tronco do salão. Só 
 
 A saga foi escrita séculos depois dos fatos que narra, e a cena é lenda, não história. O sentido do nome Barnstokkr é hipótese, e a identificação com o Yggdrasil é uma proposta de estudiosos, não algo que o texto diga.
 
-Para puxar a espada do tronco alternando as duas mãos, jogue [A espada no tronco](/jogo-a-espada-no-tronco/).
+Para puxar a espada do tronco alternando as duas mãos, jogue [A espada no tronco](/pt/jogo-a-espada-no-tronco/).

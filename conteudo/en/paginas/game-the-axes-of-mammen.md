@@ -23,4 +23,4 @@ Tap a square to place or remove an axe. Place one axe per row, with no two on th
 
 ## The story behind it
 
-In the Mammen grave, near Viborg in Denmark, there were two axes, and one of them, with silver inlay, gave its name to the Mammen style. The timber of the chamber was felled in 970/971. Placing axes that do not attack each other is invented. Read the story in [The Mammen grave: an axe with silver, a candle and a chamber dated to 970](/en/2027/02/21/sepultura-de-mammen-machado-com-prata-dinamarca-ano-970/).
+In the Mammen grave, near Viborg in Denmark, there were two axes, and one of them, with silver inlay, gave its name to the Mammen style. The timber of the chamber was felled in 970/971. Placing axes that do not attack each other is invented. Read the story in [The Mammen grave: an axe with silver, a candle and a chamber dated to 970](/the-mammen-grave-an-axe-with-silver-a-candle-and-a-chamber/).

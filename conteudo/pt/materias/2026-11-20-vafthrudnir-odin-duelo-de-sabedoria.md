@@ -35,4 +35,4 @@ O poema termina aí. Não diz o que Odin fez com a aposta, e muitos estudiosos s
 
 O poema também ajuda a entender como os nórdicos organizavam o saber. As perguntas sobre nomes de cavalos, rios e campos, e sobre a origem do mundo, funcionam como uma lista de conhecimentos que um bom poeta devia dominar. Snorri cita estrofes do *Vafþrúðnismál* em várias passagens do *Gylfaginning*, o que mostra que, no século XIII, o poema já era tratado como uma reserva de saber mitológico.
 
-Para disputar com um adversário que conhece todos os truques e provar quem sabe contar melhor as pedras, jogue [O duelo das pedras](/jogo-o-duelo-das-pedras/).
+Para disputar com um adversário que conhece todos os truques e provar quem sabe contar melhor as pedras, jogue [O duelo das pedras](/pt/jogo-o-duelo-das-pedras/).

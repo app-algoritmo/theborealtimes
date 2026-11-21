@@ -43,4 +43,4 @@ Numa estalagem, Freddy toca, e todos dançam. O xerife o acusa de roubo e tentat
 
 Não há data da coleta nesta matéria, e o texto depende da tradução inglesa consultada. A identidade do mendigo não é dita com todas as letras. Outras versões do conto podem diferir nos detalhes do enredo.
 
-Para tocar o violino no ritmo certo e fazer todos dançarem, jogue [O violino que faz dançar](/jogo-o-violino-que-faz-dancar/).
+Para tocar o violino no ritmo certo e fazer todos dançarem, jogue [O violino que faz dançar](/pt/jogo-o-violino-que-faz-dancar/).

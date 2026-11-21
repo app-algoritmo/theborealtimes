@@ -51,4 +51,4 @@ A forja do edifício J e a cabana de redução mostram que se trabalhava ferro a
 
 Duas sagas descrevem povoamentos chamados Leifsbudir e Hóp, e ambos já foram ligados ao sítio. O dr. Stuart C. Brown chamou de "totalmente pouco convincente" a afirmação de Ingstad de que o sítio seria Leifsbudir. O sentido do nome Vinland proposto pelos Ingstad é discutido, e as nozes sugerem que os nórdicos chegaram também a regiões onde crescem uvas. Ou seja, o sítio é nórdico, e a data é firme, mas a ligação com os nomes das sagas continua em disputa.
 
-Para sondar o terreno, quadrado por quadrado, guiado pelos números dos vizinhos, jogue [A sondagem em L'Anse aux Meadows](/jogo-a-sondagem-em-lanse-aux-meadows/).
+Para sondar o terreno, quadrado por quadrado, guiado pelos números dos vizinhos, jogue [A sondagem em L'Anse aux Meadows](/pt/jogo-a-sondagem-em-lanse-aux-meadows/).

@@ -41,4 +41,4 @@ Anthony Winterbourne, cited on the page about Huginn and Muninn, links Odin's ra
 
 The Hurstwic page does not deal with the hamingja, and the Norse-mythology.org one cites no sagas for the fylgja. The mirror consulted is from 2016 and rests on the interpretations of a few scholars. The origin of the term, which also means "afterbirth", is described by the source as "mysterious and unclear".
 
-To lead an attendant spirit across the field, gathering lights that make it grow, without touching itself or the edges, play [The spirit that follows](/en/game-the-spirit-that-follows/).
+To lead an attendant spirit across the field, gathering lights that make it grow, without touching itself or the edges, play [The spirit that follows](/game-the-spirit-that-follows/).

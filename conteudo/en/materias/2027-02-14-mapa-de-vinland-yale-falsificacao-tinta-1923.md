@@ -44,4 +44,4 @@ The dates the sources give, in order, are these: after the Second World War, the
 
 The sources do not say who made the map, when, or why. The provenance before the Swiss dealer remains unknown. It also remains to be known what the forger had in front of him, since the 2018 research points to an 18th-century map, and the 2021 one links the back to a medieval text.
 
-To find differences between a map and its copy, as in a forgery examined closely, play [The map and the copy](/en/game-the-map-and-the-copy/).
+To find differences between a map and its copy, as in a forgery examined closely, play [The map and the copy](/game-the-map-and-the-copy/).

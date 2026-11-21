@@ -23,4 +23,4 @@ A rua está entupida de carroças. Arraste cada carroça no sentido do seu compr
 
 ## A história por trás
 
-Escavações em Ribe mostram um mercado ativo desde o início do século VIII. As carroças do jogo são invenção. Leia a história em [Ribe: a cidade-mercado dinamarquesa que já existia antes da era dos ataques vikings](/2026/11/20/ribe-cidade-mercado-dinamarca/).
+Escavações em Ribe mostram um mercado ativo desde o início do século VIII. As carroças do jogo são invenção. Leia a história em [Ribe: a cidade-mercado dinamarquesa que já existia antes da era dos ataques vikings](/pt/ribe-cidade-mercado-dinamarca/).

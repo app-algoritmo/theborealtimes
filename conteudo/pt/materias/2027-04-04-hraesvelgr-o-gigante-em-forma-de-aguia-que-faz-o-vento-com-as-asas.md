@@ -49,4 +49,4 @@ Hræsvelgr é um gigante em forma de águia que, na ponta do céu, faz o vento c
 
 Nenhuma fonte diz por que o nome fala de cadáveres. A página consultada não indica o capítulo da *Gylfaginning* nem resume o artigo de 1998. É provável, mas não está provado, que Snorri tenha tirado a imagem do próprio poema.
 
-Para soprar o vento na direção certa, jogue [O vento das asas](/jogo-o-vento-das-asas/).
+Para soprar o vento na direção certa, jogue [O vento das asas](/pt/jogo-o-vento-das-asas/).

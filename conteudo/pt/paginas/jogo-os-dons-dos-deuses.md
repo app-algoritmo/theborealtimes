@@ -23,4 +23,4 @@ Deslize o dedo (ou use as setas) para mover todos os blocos. Dois blocos iguais 
 
 ## A história por trás
 
-Na Völuspá e em Snorri, dois troncos recebem dons dos deuses e viram o primeiro casal. O jogo de juntar blocos é invenção. Leia a história em [Ask e Embla: o primeiro homem e a primeira mulher nas fontes nórdicas](/2026/11/29/ask-embla-primeiros-humanos/).
+Na Völuspá e em Snorri, dois troncos recebem dons dos deuses e viram o primeiro casal. O jogo de juntar blocos é invenção. Leia a história em [Ask e Embla: o primeiro homem e a primeira mulher nas fontes nórdicas](/pt/ask-embla-primeiros-humanos/).

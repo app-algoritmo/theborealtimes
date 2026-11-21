@@ -23,4 +23,4 @@ Hver runde gir deg fire tall, og du må komme til 24. Trykk på et tall, så på
 
 ## Historien bak
 
-Hauksbók ble satt sammen av Haukr Erlendsson, omkring 1302 til 1310 ifølge studiet av håndskriften, og samler Landnámabók, Eiríks saga rauða, Völuspá og en matematikkdel, Algorismus. Spillet er oppfunnet. Les historien i [Hauksbók, boka til Haukr Erlendsson: håndskriftet som samler Landnámabók, Völuspá og en avhandling om regning](/no/2027/01/17/hauksbok-haukr-erlendsson-manuscrito-landnamabok/).
+Hauksbók ble satt sammen av Haukr Erlendsson, omkring 1302 til 1310 ifølge studiet av håndskriften, og samler Landnámabók, Eiríks saga rauða, Völuspá og en matematikkdel, Algorismus. Spillet er oppfunnet. Les historien i [Hauksbók, boka til Haukr Erlendsson: håndskriftet som samler Landnámabók, Völuspá og en avhandling om regning](/no/hauksbok-boka-til-haukr-erlendsson-handskriftet-som-samler/).

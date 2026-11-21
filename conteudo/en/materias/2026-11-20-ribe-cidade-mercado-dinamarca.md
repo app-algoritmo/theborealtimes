@@ -37,4 +37,4 @@ Ribe remained a centre. Today it is a small town, with a medieval cathedral and 
 
 Archaeologists note that the sediment at Ribe is rich because the place was occupied continuously for centuries. Each new layer of earth brings objects that show changes in the town: houses, workshops, wells and graves. For those who dig, the town is like a book with many pages stacked together, and each centimetre of sediment corresponds to years of everyday life of ordinary people.
 
-To unblock the street full of carts and clear a way to the quay, as on a market day in Ribe, play [Carts at the Ribe market](/en/game-carts-at-the-ribe-market/).
+To unblock the street full of carts and clear a way to the quay, as on a market day in Ribe, play [Carts at the Ribe market](/game-carts-at-the-ribe-market/).

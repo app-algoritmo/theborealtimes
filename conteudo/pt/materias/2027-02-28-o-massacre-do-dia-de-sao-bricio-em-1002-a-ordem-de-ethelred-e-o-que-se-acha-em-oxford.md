@@ -52,4 +52,4 @@ Em 13 de novembro de 1002, Æthelred ordenou a morte de dinamarqueses na Inglate
 
 Não existe estimativa de quantos morreram. Ian Howard supõe no máximo algumas centenas, quase todos do exército invasor e de suas famílias. O historiador Levi Roach nota que não se pode ligar com certeza as covas de Oxford e de outros lugares ao dia de São Brício, porque a violência entre grupos era comum no período. O verbete diz que Gunhilde, irmã de Sweyn, teria morrido com o marido Pallig, mas a única fonte é William de Malmesbury, e a historiadora Ann Williams a considera um mito. A History Today a dá como "aparentemente" morta em Oxford, o que mostra a divergência entre as duas fontes.
 
-Para refazer a ordem dos números de um quadrado em que todas as linhas somam o mesmo, jogue [O quadrado de números](/jogo-o-quadrado-de-numeros/).
+Para refazer a ordem dos números de um quadrado em que todas as linhas somam o mesmo, jogue [O quadrado de números](/pt/jogo-o-quadrado-de-numeros/).

@@ -23,4 +23,4 @@ Cada jogada liga dois pontos vizinhos com um fio. Quem fecha o quarto lado de um
 
 ## A história por trás
 
-Nas fontes, Rán possui uma rede com que apanha os que se afogam. O jogo de fechar malhas é invenção. Leia a história em [Rán, a senhora do mar nórdico, e a rede que apanhava os afogados](/2026/11/22/ran-aegir-rede-dos-afogados/).
+Nas fontes, Rán possui uma rede com que apanha os que se afogam. O jogo de fechar malhas é invenção. Leia a história em [Rán, a senhora do mar nórdico, e a rede que apanhava os afogados](/pt/ran-aegir-rede-dos-afogados/).

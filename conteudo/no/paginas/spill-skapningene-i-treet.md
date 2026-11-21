@@ -23,4 +23,4 @@ Kortene ligger med forsiden ned, og hvert symbol finnes på to kort. Trykk på e
 
 ## Historien bak
 
-I Grímnismál løper ekornet Ratatoskr opp og ned Yggdrasil og bærer meldinger mellom ørnen, øverst, og Níðhöggr, nederst. Å finne kortpar er oppfunnet. Les historien i [Ratatoskr: ekornet som løper langs Yggdrasil og bærer meldinger mellom ørnen og Níðhöggr](/no/2027/02/21/ratatoskr-esquilo-de-yggdrasil-mensagens-entre-a-aguia-e-nidhoggr/).
+I Grímnismál løper ekornet Ratatoskr opp og ned Yggdrasil og bærer meldinger mellom ørnen, øverst, og Níðhöggr, nederst. Å finne kortpar er oppfunnet. Les historien i [Ratatoskr: ekornet som løper langs Yggdrasil og bærer meldinger mellom ørnen og Níðhöggr](/no/ratatoskr-ekornet-som-loper-langs-yggdrasil-og-baerer/).

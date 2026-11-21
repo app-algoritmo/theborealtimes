@@ -44,4 +44,4 @@ It is a tale of a sister who saves her brothers through silent work. The numbers
 
 I read the tale in English and not in the Norwegian original, so details of wording may differ. I also do not know, from these sources, from which region or from whom the collectors heard this version. Nor do I know whether the ending with the youngest brother's wing is a mark of the Norwegian version or appears in other European versions.
 
-To gather the thistle without speaking, laughing or weeping, play [The thistle in silence](/en/game-the-thistle-in-silence/).
+To gather the thistle without speaking, laughing or weeping, play [The thistle in silence](/game-the-thistle-in-silence/).

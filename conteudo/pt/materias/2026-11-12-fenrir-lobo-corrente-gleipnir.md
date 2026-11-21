@@ -50,4 +50,4 @@ Com Fenrir imobilizado, os deuses prenderam a fita a uma grande rocha, enterrada
 
 Quando chegar esse dia, segundo Snorri e a Völuspá, ele se soltará e matará Odin. Quem o vingará é Víðarr, filho de Odin: na versão de Snorri, ele rasga as mandíbulas do lobo; na Völuspá, enfia a espada em seu coração.
 
-Para tentar prender o lobo você mesmo, jogue [Gleipnir, a fita impossível](/jogo-gleipnir-prende-o-lobo/).
+Para tentar prender o lobo você mesmo, jogue [Gleipnir, a fita impossível](/pt/jogo-gleipnir-prende-o-lobo/).

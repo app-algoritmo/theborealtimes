@@ -23,4 +23,4 @@ Dra for å styre skipet foran, eller bruk piltastene; de andre følger kjølvann
 
 ## Historien bak
 
-Ifølge sagaen om Eirik Raude la 25 skip ut fra Island mot Grønland, og 14 kom fram. Rutene og hindrene i spillet er diktet opp. Les historien i [Eirik Raude: fredløsen som ga Grønland navnet på et godt land](/no/2026/11/14/eirik-vermelho-groenlandia/).
+Ifølge sagaen om Eirik Raude la 25 skip ut fra Island mot Grønland, og 14 kom fram. Rutene og hindrene i spillet er diktet opp. Les historien i [Eirik Raude: fredløsen som ga Grønland navnet på et godt land](/no/eirik-raude-fredlosen-som-ga-gronland-navnet-pa-et-godt-land/).

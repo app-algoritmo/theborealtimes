@@ -23,4 +23,4 @@ Three groups of warriors (of 2, 3 and 3 squares) are hidden in a 6-by-6 field. T
 
 ## The story behind it
 
-At Assandun, in 1016, Cnut defeated Edmund Ironside. The field, the groups and the shots are made up for the game. Read the story in [Assandun, 1016: the battle in which Cnut defeated Edmund Ironside](/en/2026/12/13/assandun-1016-canuto-edmundo/).
+At Assandun, in 1016, Cnut defeated Edmund Ironside. The field, the groups and the shots are made up for the game. Read the story in [Assandun, 1016: the battle in which Cnut defeated Edmund Ironside](/assandun-1016-the-battle-in-which-cnut-defeated-edmund/).

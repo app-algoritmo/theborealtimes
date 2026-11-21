@@ -23,4 +23,4 @@ Arraste o dedo (ou use ← →) para mover a bolsa e apanhar as moedas de ouro q
 
 ## A história por trás
 
-No Reginsmál, os deuses pagam o resgate de Otr com o ouro de Andvari, e o anel Andvaranaut leva a maldição. A bolsa que apanha ouro é invenção. Leia a história em [Reginsmál: Andvari, o anel Andvaranaut e a maldição do ouro](/2026/12/20/reginsmal-andvari-anel-maldito-ouro/).
+No Reginsmál, os deuses pagam o resgate de Otr com o ouro de Andvari, e o anel Andvaranaut leva a maldição. A bolsa que apanha ouro é invenção. Leia a história em [Reginsmál: Andvari, o anel Andvaranaut e a maldição do ouro](/pt/reginsmal-andvari-anel-maldito-ouro/).

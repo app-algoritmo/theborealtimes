@@ -23,4 +23,4 @@ Start ved det gylne merket. Trykk på et nabomerke (ved siden av, over eller und
 
 ## Historien bak
 
-På Lindholm Høje finnes graver med markeringer lagt i form av et skip. Ruten i spillet er diktet opp. Les historien i [Lindholm Høje: den danske gravplassen med skipssetninger dekket av sand](/no/2026/11/22/lindholm-hoje-barcos-de-pedra/).
+På Lindholm Høje finnes graver med markeringer lagt i form av et skip. Ruten i spillet er diktet opp. Les historien i [Lindholm Høje: den danske gravplassen med skipssetninger dekket av sand](/no/lindholm-hoje-den-danske-gravplassen-med-skipssetninger/).

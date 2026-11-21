@@ -43,4 +43,4 @@ O significado do nome não está claro. Foram sugeridos "a poderosa" e relaçõe
 
 Como o rito é conhecido pela descrição de Tácito, que não diz de onde a tirou, convém tratar o relato como o que um observador de fora registrou, e não como o testemunho de quem participava. A descrição de paz e do afogamento dos escravizados convive no mesmo parágrafo, e o artigo não explica essa tensão.
 
-Para guiar uma carroça por um bosque cheio de obstáculos, jogue [A carroça de Nerthus](/jogo-a-carroca-de-nerthus/).
+Para guiar uma carroça por um bosque cheio de obstáculos, jogue [A carroça de Nerthus](/pt/jogo-a-carroca-de-nerthus/).

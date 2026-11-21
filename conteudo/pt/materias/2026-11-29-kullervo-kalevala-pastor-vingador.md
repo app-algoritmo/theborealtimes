@@ -39,4 +39,4 @@ O *Kalevala* é, em geral, um livro de feitos extraordinários, mas esse canto l
 
 A história inspirou obras em várias áreas. O compositor Jean Sibelius escreveu uma sinfonia coral chamada *Kullervo*, estreada em 1892. O pintor Akseli Gallen-Kallela representou o rapaz em quadros famosos, e o escritor J. R. R. Tolkien, quando jovem, escreveu uma versão em prosa, que mais tarde serviu de base para a história de Túrin Turambar. Isso mostra como uma narrativa tão sombria pôde entrar na imaginação de gerações seguintes.
 
-Para conduzir ao curral, correndo em volta, os animais do rebanho antes que anoiteça, sem deixar que escapem para a floresta, jogue [O rebanho de Kullervo](/jogo-o-rebanho-de-kullervo/).
+Para conduzir ao curral, correndo em volta, os animais do rebanho antes que anoiteça, sem deixar que escapem para a floresta, jogue [O rebanho de Kullervo](/pt/jogo-o-rebanho-de-kullervo/).

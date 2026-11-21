@@ -23,4 +23,4 @@ Trykk mellom to nabopunkter for å trekke en strek. Den som lukker den fjerde si
 
 ## Historien bak
 
-I 2011 fant arkeologer en båtgrav fra 900-tallet ved Ardnamurchan i Skottland. Prikkspillet er diktet opp. Les historien i [Ardnamurchan: vikingkrigeren som ble gravlagt i en båt på kysten av Skottland](/no/2026/12/20/ardnamurchan-sepultura-em-barco-escocia-2011/).
+I 2011 fant arkeologer en båtgrav fra 900-tallet ved Ardnamurchan i Skottland. Prikkspillet er diktet opp. Les historien i [Ardnamurchan: vikingkrigeren som ble gravlagt i en båt på kysten av Skottland](/no/ardnamurchan-vikingkrigeren-som-ble-gravlagt-i-en-bat/).

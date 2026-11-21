@@ -23,4 +23,4 @@ Slottsporten har tre stolper og en stabel med ringer i ulike størrelser på sto
 
 ## Historien bak
 
-I Fjölsvinnsmál spør vokteren Fjölsviðr om Svipdagrs navn, og Svipdagr skjuler det til slutt; når han sier det, åpner portene seg og Menglöð hilser ham. Å flytte ringer mellom stolper er oppfunnet. Les historien i [Fjölsvinnsmál: slottsvokteren, Svipdagrs skjulte navn og Menglöð](/no/2027/02/07/fjolsvinnsmal-svipdagr-menglod-vigia-castelo/).
+I Fjölsvinnsmál spør vokteren Fjölsviðr om Svipdagrs navn, og Svipdagr skjuler det til slutt; når han sier det, åpner portene seg og Menglöð hilser ham. Å flytte ringer mellom stolper er oppfunnet. Les historien i [Fjölsvinnsmál: slottsvokteren, Svipdagrs skjulte navn og Menglöð](/no/fjolsvinnsmal-slottsvokteren-svipdagrs-skjulte-navn/).

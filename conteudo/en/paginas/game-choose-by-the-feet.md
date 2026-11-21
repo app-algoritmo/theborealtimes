@@ -23,4 +23,4 @@ A row of feet shows beneath the curtain. Tap the spotless pair before the time b
 
 ## The story behind it
 
-In the myth, the gods let Skaði choose a husband by the feet alone, and she picks Njörðr thinking he is Baldr. The spots and the time limit are made up for the game. Read the story in [Skaði chooses a husband by his feet: the mountain goddess who wanted Baldr and got Njörðr](/en/2026/11/15/skadi-escolhe-pelos-pes/).
+In the myth, the gods let Skaði choose a husband by the feet alone, and she picks Njörðr thinking he is Baldr. The spots and the time limit are made up for the game. Read the story in [Skaði chooses a husband by his feet: the mountain goddess who wanted Baldr and got Njörðr](/skadi-chooses-a-husband-by-his-feet-the-mountain-goddess/).

@@ -23,4 +23,4 @@ Cada jogador tem três pedras. Primeiro vocês colocam as pedras, uma por vez, e
 
 ## A história por trás
 
-No conto Gudbrand i Lia, o fazendeiro troca a vaca por um cavalo, o cavalo por um porco, e assim por diante, até ficar sem nada. Mesmo assim ganha a aposta, porque a mulher elogia cada troca. Jogar três em linha é invenção. Leia a história em [Gudbrand da Encosta: o fazendeiro que trocou a vaca até ficar sem nada e ainda ganhou a aposta](/2027/01/31/gudbrand-da-encosta-asbjornsen-moe-troca-vaca/).
+No conto Gudbrand i Lia, o fazendeiro troca a vaca por um cavalo, o cavalo por um porco, e assim por diante, até ficar sem nada. Mesmo assim ganha a aposta, porque a mulher elogia cada troca. Jogar três em linha é invenção. Leia a história em [Gudbrand da Encosta: o fazendeiro que trocou a vaca até ficar sem nada e ainda ganhou a aposta](/pt/gudbrand-da-encosta-asbjornsen-moe-troca-vaca/).

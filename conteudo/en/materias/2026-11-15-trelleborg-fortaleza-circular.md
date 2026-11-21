@@ -43,4 +43,4 @@ Trelleborg is not the only one. Similar fortresses have been found at Fyrkat, Ag
 
 Today the ring of Trelleborg is a visitor site, with reconstructed houses, and the original layout is still visible on the ground. For many people, the fortress is the image of a kind of state the Vikings knew how to build: planned, measured and made to last longer than it did.
 
-To raise the fortress yourself, play [Build Trelleborg](/en/game-build-trelleborg/).
+To raise the fortress yourself, play [Build Trelleborg](/game-build-trelleborg/).

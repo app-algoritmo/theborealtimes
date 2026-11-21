@@ -39,4 +39,4 @@ The ash also stands out in Norse mythology for another reason: Yggdrasill, the g
 
 With the sources we have, only two things are certain. First, that the *Völuspá* and Snorri speak of a couple called Askr and Embla, made of wood and animated by gods. Second, that the details vary from one source to another. Everything else, including the exact meaning of the gifts, is a debate among specialists. This gap is not a flaw of the myth, but a feature of texts written centuries after the time when the stories circulated by voice.
 
-To join, two by two, matching blocks until only one is left, as if the logs gained value with every gift received, play [The gods' gifts](/en/game-the-gods-gifts/).
+To join, two by two, matching blocks until only one is left, as if the logs gained value with every gift received, play [The gods' gifts](/game-the-gods-gifts/).

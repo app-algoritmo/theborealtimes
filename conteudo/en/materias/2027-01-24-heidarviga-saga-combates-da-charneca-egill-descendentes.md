@@ -43,4 +43,4 @@ The article lists recent studies. Joanne Shortt Butler (2020) examines how the g
 
 The article gives no date of composition, nor the reason why it is considered possibly old. Jón Grunnvíkingur's summary was made from memory, and what it carries of the lost stretch cannot be checked against the original manuscript, which burned. The article also does not describe Borgarfjörður as a setting, even though it appears in a bibliography title about the Borgarfjörður sagas.
 
-To sweep a heath in search of hidden bands, play [The heath of the fights](/en/game-the-heath-of-the-fights/).
+To sweep a heath in search of hidden bands, play [The heath of the fights](/game-the-heath-of-the-fights/).

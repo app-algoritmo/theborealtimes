@@ -23,4 +23,4 @@ Oito fardos numerados estão fora de ordem no estábulo, que tem um espaço vazi
 
 ## A história por trás
 
-Jørgen Moe anotou o conto da Mestermøy, a donzela que ajuda o filho do rei nas tarefas do gigante, com a narradora Anne Godlid, em Seljord, no outono de 1842. O quebra-cabeça é invenção. Leia a história em [A Mestermøy, a donzela-mestra: o conto de Asbjørnsen e Moe e a «fuga mágica»](/2027/01/17/mestermoy-donzela-mestra-asbjornsen-moe-conto/).
+Jørgen Moe anotou o conto da Mestermøy, a donzela que ajuda o filho do rei nas tarefas do gigante, com a narradora Anne Godlid, em Seljord, no outono de 1842. O quebra-cabeça é invenção. Leia a história em [A Mestermøy, a donzela-mestra: o conto de Asbjørnsen e Moe e a «fuga mágica»](/pt/mestermoy-donzela-mestra-asbjornsen-moe-conto/).

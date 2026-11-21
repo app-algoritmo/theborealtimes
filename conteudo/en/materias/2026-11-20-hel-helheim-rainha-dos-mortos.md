@@ -35,4 +35,4 @@ The *Völuspá*, a poem of the *Poetic Edda*, mentions the hound Garmr, who howl
 
 Care is needed with Snorri. He was an Icelandic Christian of the 13th century, collecting the myths of a religion no longer practised. The portrait of Hel as an underground realm, similar to the Christian hell, may reflect that setting. The name itself comes from a Germanic root meaning "to hide", and is related to the English word *hell*. In the oldest sources, to go "to Hel" simply means to die.
 
-To cross the darkness of Helheim without getting lost, guided only by the light of a torch, play [The torch in Helheim](/en/game-the-torch-in-helheim/).
+To cross the darkness of Helheim without getting lost, guided only by the light of a torch, play [The torch in Helheim](/game-the-torch-in-helheim/).

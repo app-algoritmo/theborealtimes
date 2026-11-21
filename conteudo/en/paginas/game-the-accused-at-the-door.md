@@ -23,4 +23,4 @@ Four of the six accused wait at the door, in a secret order. Tap the faces to bu
 
 ## The story behind it
 
-In the Eyrbyggja saga, the door court judged the dead who returned to the farm at Fróðá. The accused in the game are made up. Read the story in [The haunting of Fróðá: the door-court that tried the dead in Eyrbyggja saga](/en/2026/11/20/eyrbyggja-froda-assombracao/).
+In the Eyrbyggja saga, the door court judged the dead who returned to the farm at Fróðá. The accused in the game are made up. Read the story in [The haunting of Fróðá: the door-court that tried the dead in Eyrbyggja saga](/the-haunting-of-froda-the-door-court-that-tried-the-dead/).

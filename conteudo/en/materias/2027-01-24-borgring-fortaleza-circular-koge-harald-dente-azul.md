@@ -47,4 +47,4 @@ In 2023, the Viking-Age ring fortresses, Borgring among them, were inscribed by 
 
 The exact construction date has not been confirmed: the fort is usually dated to about 970–980, but conclusive dating has not been done. Only minor sections were excavated, and the purpose is uncertain, possibly defending trade routes or serving as barracks. The attribution to Harald Bluetooth is plausible but not proven. The name has also varied over time, and the renaming of 2014 caused public disagreement.
 
-To connect every path to the centre of a fortress ring, play [The paths of Borgring](/en/game-the-paths-of-borgring/).
+To connect every path to the centre of a fortress ring, play [The paths of Borgring](/game-the-paths-of-borgring/).

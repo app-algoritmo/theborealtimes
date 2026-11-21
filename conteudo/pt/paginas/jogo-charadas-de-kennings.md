@@ -23,4 +23,4 @@ Leia a expressão e toque na resposta certa (ou use as teclas 1, 2 e 3). Cada ch
 
 ## A história por trás
 
-Os escaldos usavam kennings, expressões como "estrada da baleia" para dizer mar. As charadas do jogo seguem esse modelo. Leia a história em [Kennings: como os escaldos falavam de ouro, navios e batalhas sem dizer a palavra](/2026/11/17/kennings-poesia-escaldica/).
+Os escaldos usavam kennings, expressões como "estrada da baleia" para dizer mar. As charadas do jogo seguem esse modelo. Leia a história em [Kennings: como os escaldos falavam de ouro, navios e batalhas sem dizer a palavra](/pt/kennings-poesia-escaldica/).

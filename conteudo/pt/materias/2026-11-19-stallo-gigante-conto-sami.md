@@ -39,4 +39,4 @@ Na arqueologia, existe um tipo de sítio chamado *stállotomt*, uma casa grande,
 
 Para quem conta, o gigante é um modo de falar de limites: o que é força bruta e o que é inteligência, o que se tem e o que se faz. A moral do pequeno que vence permanece, e o gigante serve de espelho para a vaidade.
 
-Para chegar até o fim do caminho sem ser visto quando o gigante olha para trás, jogue [A trilha de Stállo](/jogo-a-trilha-de-stallo/).
+Para chegar até o fim do caminho sem ser visto quando o gigante olha para trás, jogue [A trilha de Stállo](/pt/jogo-a-trilha-de-stallo/).

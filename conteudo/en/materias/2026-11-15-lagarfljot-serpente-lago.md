@@ -43,4 +43,4 @@ Scientists propose natural causes. Methane bubbles from the lake bed, logs and o
 
 Whatever people saw, the worm is a local symbol, and the more interesting question may be another: why a murky, long, cold lake produces so many humps in so many stories.
 
-To make the creature grow and fill the lake with gold, play [The Lagarfljót worm](/en/game-the-lagarfljot-worm/).
+To make the creature grow and fill the lake with gold, play [The Lagarfljót worm](/game-the-lagarfljot-worm/).

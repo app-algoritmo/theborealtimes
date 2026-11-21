@@ -23,4 +23,4 @@ Hver mynt har en verdi. Trykk på mynter for å legge dem i pungen til summen er
 
 ## Historien bak
 
-I Bósa saga ok Herrauðs er Sjód kong Hrings skattmester og skatteoppkrever, og sagaen sier at ordet «sjóðr», «pung», kommer fra navnet hans. Å legge sammen mynter til en nøyaktig verdi er oppfunnet. Les historien i [Sagaen om Bósi og Herrauðr: skattmesteren Sjód, pungen og forbannelsen fra trollkvinnen Busla](/no/2027/02/21/saga-de-bosi-e-herraud-sjod-a-bolsa-e-a-praga-de-busla/).
+I Bósa saga ok Herrauðs er Sjód kong Hrings skattmester og skatteoppkrever, og sagaen sier at ordet «sjóðr», «pung», kommer fra navnet hans. Å legge sammen mynter til en nøyaktig verdi er oppfunnet. Les historien i [Sagaen om Bósi og Herrauðr: skattmesteren Sjód, pungen og forbannelsen fra trollkvinnen Busla](/no/sagaen-om-bosi-og-herraudr-skattmesteren-sjod-pungen/).

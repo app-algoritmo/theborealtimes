@@ -48,4 +48,4 @@ O hogboon é o espírito de um monte funerário, e o nome vem de *haug-búi*. Qu
 
 As fontes não falam de oferendas, e por isso a matéria não afirma nenhuma. Não há como confirmar a notícia de 1861 sobre as múmias e o esqueleto, que é um relato de jornal citado pela fonte. A ligação entre o monte de Maeshowe e o hogboon, e a loucura dos guerreiros da saga, é inferência do autor, e a primeira fonte ainda observa que essas histórias já estavam esquecidas em 1931.
 
-Para achar a porta escondida de um monte por pistas de quente e frio, jogue [A porta do monte](/jogo-a-porta-do-monte/).
+Para achar a porta escondida de um monte por pistas de quente e frio, jogue [A porta do monte](/pt/jogo-a-porta-do-monte/).

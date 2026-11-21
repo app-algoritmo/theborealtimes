@@ -23,4 +23,4 @@ Atravesse o rio pulando de bloco em bloco. Toque na tela, ou use Espaço, para s
 
 ## A história por trás
 
-No mito, Thor atravessou os rios Élivágar com Aurvandil numa cesta, e um dedo do pé congelado virou estrela. A travessia aos saltos é invenção. Leia a história em [Aurvandil: o dedo do pé que virou estrela no mito de Thor](/2027/03/07/aurvandil-o-dedo-do-pe-que-virou-estrela-no-mito-de-thor/).
+No mito, Thor atravessou os rios Élivágar com Aurvandil numa cesta, e um dedo do pé congelado virou estrela. A travessia aos saltos é invenção. Leia a história em [Aurvandil: o dedo do pé que virou estrela no mito de Thor](/pt/aurvandil-o-dedo-do-pe-que-virou-estrela-no-mito-de-thor/).

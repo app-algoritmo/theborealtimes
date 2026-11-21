@@ -37,4 +37,4 @@ O Codex Regius termina esse poema de modo abrupto, no meio da estrofe 29, porque
 
 Para quem estuda a religião nórdica, o *Sigrdrífumál* é valioso porque mostra a runa como algo mais do que letra: um instrumento de poder, ligado a rituais, objetos e palavras. Mas é preciso cuidado. O poema é tardio, está mutilado e mistura épocas. Ele mostra o que os poetas islandeses medievais imaginavam sobre as runas, não necessariamente o que se fazia na Era Viking.
 
-Para revelar, casa por casa, uma runa escondida numa grade, seguindo as pistas de cada linha e coluna, jogue [A runa de Sigrdrífa](/jogo-a-runa-de-sigrdrifa/).
+Para revelar, casa por casa, uma runa escondida numa grade, seguindo as pistas de cada linha e coluna, jogue [A runa de Sigrdrífa](/pt/jogo-a-runa-de-sigrdrifa/).

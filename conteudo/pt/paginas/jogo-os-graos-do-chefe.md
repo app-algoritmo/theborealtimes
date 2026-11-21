@@ -23,4 +23,4 @@ Cada depósito tem 4 grãos. Escolha um dos seus (embaixo) e os grãos são repa
 
 ## A história por trás
 
-Em Borg, nas Lofoten, foi escavada uma grande casa longa de chefe. O jogo de repartir grãos é invenção. Leia a história em [Borg, nas Lofoten: a casa longa de 83 metros de um chefe do extremo norte](/2026/11/22/borg-lofoten-casa-longa-do-chefe/).
+Em Borg, nas Lofoten, foi escavada uma grande casa longa de chefe. O jogo de repartir grãos é invenção. Leia a história em [Borg, nas Lofoten: a casa longa de 83 metros de um chefe do extremo norte](/pt/borg-lofoten-casa-longa-do-chefe/).

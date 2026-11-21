@@ -23,4 +23,4 @@ Barcos inimigos sobem a ria de Arousa. Um medidor de força vai e volta na parte
 
 ## A história por trás
 
-Em Catoira, na Galícia, as Torres de Oeste guardavam a entrada da ria de Arousa contra ataques vindos do mar, e todo ano, em agosto, a Romaria Viking recria o ataque e a defesa. O lançamento de pedras é invenção. Leia a história em [Catoira: as Torres de Oeste e a Romaria Viking da Galícia](/2027/03/14/catoira-as-torres-de-oeste-e-a-romaria-vikinga-da-galicia/).
+Em Catoira, na Galícia, as Torres de Oeste guardavam a entrada da ria de Arousa contra ataques vindos do mar, e todo ano, em agosto, a Romaria Viking recria o ataque e a defesa. O lançamento de pedras é invenção. Leia a história em [Catoira: as Torres de Oeste e a Romaria Viking da Galícia](/pt/catoira-as-torres-de-oeste-e-a-romaria-vikinga-da-galicia/).

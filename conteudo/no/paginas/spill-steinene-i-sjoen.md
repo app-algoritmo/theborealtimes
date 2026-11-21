@@ -23,4 +23,4 @@ En trekant har 14 opptatte merker og 1 tomt. Trykk på et merke og så på det t
 
 ## Historien bak
 
-I Kalevala kaster Aino seg i sjøen for å slippe unna et giftermål. Hoppespillet på en trekant er diktet opp. Les historien i [Aino i Kalevala: den unge kvinnen som var lovet til Väinämöinen og valgte havet](/no/2026/12/13/aino-kalevala-peixe-no-mar/).
+I Kalevala kaster Aino seg i sjøen for å slippe unna et giftermål. Hoppespillet på en trekant er diktet opp. Les historien i [Aino i Kalevala: den unge kvinnen som var lovet til Väinämöinen og valgte havet](/no/aino-i-kalevala-den-unge-kvinnen-som-var-lovet/).

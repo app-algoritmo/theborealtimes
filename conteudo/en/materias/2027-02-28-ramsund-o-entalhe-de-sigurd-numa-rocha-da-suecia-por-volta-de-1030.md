@@ -47,4 +47,4 @@ The Ramsund carving, of about 1030, shows in stone the story of Sigurd, Fafnir a
 
 The Gök inscription has never been satisfactorily transcribed and translated. The inscriptions of Årsunda and Österfärnebo were reconstructed in part from drawings of 1690, and that of Ockelbo is a copy of 1932. The meaning of the five bind runes of the Norum font is not known. The two readings of the family of Ramsund are alternatives, not settled facts. The Hunninge stone, on Gotland, has more than one reading.
 
-To connect dots and close a single serpent loop, play [The loop of the serpent](/en/game-the-loop-of-the-serpent/).
+To connect dots and close a single serpent loop, play [The loop of the serpent](/game-the-loop-of-the-serpent/).

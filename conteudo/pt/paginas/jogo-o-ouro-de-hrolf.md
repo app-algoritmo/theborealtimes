@@ -23,4 +23,4 @@ Toque na pista (ou use as setas) para trocar de faixa e derrubar bolsas de ouro 
 
 ## A história por trás
 
-Nas sagas, Hrólf Kraki espalhou ouro pela planície de Fyrisvellir e o rei Aðils parou para apanhá-lo. A perseguição do jogo é invenção. Leia a história em [Hrólf Kraki e o ouro espalhado em Fyrisvellir: a fuga que virou poesia](/2026/11/17/hrolf-kraki-ouro-fyrisvellir/).
+Nas sagas, Hrólf Kraki espalhou ouro pela planície de Fyrisvellir e o rei Aðils parou para apanhá-lo. A perseguição do jogo é invenção. Leia a história em [Hrólf Kraki e o ouro espalhado em Fyrisvellir: a fuga que virou poesia](/pt/hrolf-kraki-ouro-fyrisvellir/).

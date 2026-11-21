@@ -40,4 +40,4 @@ Quem fez a pedra é incerto. A fonte considera Ohman o mais provável, e cita Fo
 
 A autoria da falsificação não está provada: Ohman é o nome mais citado, mas não há confissão. As conclusões de Wolter, de 2003, contestam o consenso, mas não o alteraram. A pedra não prova que nórdicos tenham chegado a Minnesota em 1362, e esta matéria também não afirma que tenham chegado.
 
-Para apagar números repetidos até a pedra ficar decifrada, jogue [As runas apagadas](/jogo-as-runas-apagadas/).
+Para apagar números repetidos até a pedra ficar decifrada, jogue [As runas apagadas](/pt/jogo-as-runas-apagadas/).

@@ -49,4 +49,4 @@ It is a tale of an enchanted bridegroom, with a broken prohibition and a long se
 
 The versions differ in details, such as the final test, the witch and the place where she lives. The article does not say which is the oldest. The origin of the tale, before it was collected, is not known.
 
-To cross a maze of ice and reach the castle on high, play [The ice maze](/en/game-the-ice-maze/).
+To cross a maze of ice and reach the castle on high, play [The ice maze](/game-the-ice-maze/).

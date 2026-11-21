@@ -23,4 +23,4 @@ Tap a piece next to the empty space to slide it. Put the runes in order, from 1 
 
 ## The story behind it
 
-Adam of Bremen described, around 1070, a great temple at Uppsala. The puzzle is made up. Read the story in [The temple at Uppsala: what Adam of Bremen told and what archaeologists found](/en/2026/12/06/uppsala-templo-adao-de-bremen/).
+Adam of Bremen described, around 1070, a great temple at Uppsala. The puzzle is made up. Read the story in [The temple at Uppsala: what Adam of Bremen told and what archaeologists found](/the-temple-at-uppsala-what-adam-of-bremen-told-and-what/).

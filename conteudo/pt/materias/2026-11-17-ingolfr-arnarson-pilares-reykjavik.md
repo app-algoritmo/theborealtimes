@@ -45,4 +45,4 @@ Reykjavík é hoje a capital da Islândia, e a estátua de Ingólfr Arnarson fic
 
 O *Íslendingabók*, o "Livro dos Islandeses", escrito por Ari Þorgilsson por volta de 1130, diz que a ilha foi toda ocupada em cerca de sessenta anos, e que em 930 foi fundado o Alþingi, a assembleia geral, em Þingvellir. Ari cita Ingólfr como o primeiro colono. Para os islandeses medievais, saber quem chegou primeiro era importante, porque as famílias ligavam suas terras e seu prestígio aos antepassados.
 
-Para tentar encaixar os pilares na baía certa, jogue [Os pilares de Ingólfr](/jogo-os-pilares-de-ingolfr/).
+Para tentar encaixar os pilares na baía certa, jogue [Os pilares de Ingólfr](/pt/jogo-os-pilares-de-ingolfr/).

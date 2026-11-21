@@ -23,4 +23,4 @@ Vaftrudne spiller nim med deg. Det er tre hauger med steiner. På din tur trykke
 
 ## Historien bak
 
-I Vaftrudnismål slår Odin jotunen med et spørsmål bare han kunne svare på. Steinspillet er diktet opp. Les historien i [Odin og Vaftrudne: visdomsduellen der hodet var innsatsen](/no/2026/11/20/vafthrudnir-odin-duelo-de-sabedoria/).
+I Vaftrudnismål slår Odin jotunen med et spørsmål bare han kunne svare på. Steinspillet er diktet opp. Les historien i [Odin og Vaftrudne: visdomsduellen der hodet var innsatsen](/no/odin-og-vaftrudne-visdomsduellen-der-hodet-var-innsatsen/).

@@ -39,4 +39,4 @@ The name is usually linked to Old Norse *bragr*, which may mean "poetry" or "the
 
 Klingenberg noted that Bragi is securely attested as a god only in sources after paganism. Jan de Vries saw in him the poetry of praise, regulated and life-affirming, and linked him, through Iðunn, to fertility cults, which Klingenberg found speculative. In other words, the god may always have been a man remembered in verse.
 
-To read runes on a grid, on a god's tongue, play [Bragi's runes](/en/game-bragis-runes/).
+To read runes on a grid, on a god's tongue, play [Bragi's runes](/game-bragis-runes/).

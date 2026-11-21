@@ -23,4 +23,4 @@ I norsk tro høres vardøgeret før personen kommer. Tre dører står foran deg.
 
 ## Historien bak
 
-Ifølge Store norske leksikon er vardøger en varslende ånd som man hører, sjeldnere også ser, før mennesket kommer. De tre dørene og rytmen i spillet er oppdiktet. Les historien i [Vardøger: ånden man hører før personen kommer, i norsk folketro](/no/2027/03/28/vardoger-o-espirito-que-se-ouve-antes-de-a-pessoa-chegar-na-crenca-noruega/).
+Ifølge Store norske leksikon er vardøger en varslende ånd som man hører, sjeldnere også ser, før mennesket kommer. De tre dørene og rytmen i spillet er oppdiktet. Les historien i [Vardøger: ånden man hører før personen kommer, i norsk folketro](/no/vardoger-anden-man-horer-for-personen-kommer-i-norsk/).

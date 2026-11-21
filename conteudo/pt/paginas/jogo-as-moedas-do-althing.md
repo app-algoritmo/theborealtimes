@@ -23,4 +23,4 @@ Há três montes de moedas. Na sua vez, toque numa moeda para levar essa e todas
 
 ## A história por trás
 
-Na Bandamanna saga, Ófeigr vence um processo com astúcia e pagamentos. O jogo de moedas é invenção. Leia a história em [Bandamanna saga: o processo em Thingvellir e a astúcia de Ófeigr](/2026/12/20/bandamanna-saga-oddr-ofeigr-suborno/).
+Na Bandamanna saga, Ófeigr vence um processo com astúcia e pagamentos. O jogo de moedas é invenção. Leia a história em [Bandamanna saga: o processo em Thingvellir e a astúcia de Ófeigr](/pt/bandamanna-saga-oddr-ofeigr-suborno/).

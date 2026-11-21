@@ -23,4 +23,4 @@ Disguised as a beggar, Hacon trades three golden objects with the princess. Watc
 
 ## The story behind it
 
-In the tale, the beggar Hacon trades a golden spinning wheel, its stand and a golden wool winder for nights near the princess. The order you repeat and the swaps of place are invention. Read the story in [Hacon Grizzlebeard: the Norwegian tale of the proud princess and the beggar who was a prince](/en/2027/03/28/hacon-barba-grisalha-conto-noruegues-da-princesa-orgulhosa-e-do-mendigo-que-era-principe/).
+In the tale, the beggar Hacon trades a golden spinning wheel, its stand and a golden wool winder for nights near the princess. The order you repeat and the swaps of place are invention. Read the story in [Hacon Grizzlebeard: the Norwegian tale of the proud princess and the beggar who was a prince](/hacon-grizzlebeard-the-norwegian-tale-of-the-proud-princess/).

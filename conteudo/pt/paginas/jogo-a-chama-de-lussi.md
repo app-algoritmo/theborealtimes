@@ -23,4 +23,4 @@ Quando o aviso do vento aparecer, segure o dedo (ou a barra de espaço) para pro
 
 ## A história por trás
 
-Na tradição escandinava, a noite de Lussi é a mais longa do ano, e se acendem velas. As rajadas do jogo são invenção. Leia a história em [Lussinatta: a noite mais longa e a lenda de Lussi que cavalga com as sombras](/2026/11/17/lussinatta-noite-mais-longa/).
+Na tradição escandinava, a noite de Lussi é a mais longa do ano, e se acendem velas. As rajadas do jogo são invenção. Leia a história em [Lussinatta: a noite mais longa e a lenda de Lussi que cavalga com as sombras](/pt/lussinatta-noite-mais-longa/).

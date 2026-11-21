@@ -23,4 +23,4 @@ Skip dukker opp og forsvinner på havet, ett om gangen. Tell bare skipene og try
 
 ## Historien bak
 
-Magnus Erlendsson ble drept på øya Egilsay, omkring 1117, og senere husket som helgen. Tellingene i spillet er diktet opp. Les historien i [Magnus av Orknøyene: jarlen som nektet å kjempe og ble drept på øya Egilsay](/no/2026/11/18/magnus-orcades-egilsay-orkneyinga/).
+Magnus Erlendsson ble drept på øya Egilsay, omkring 1117, og senere husket som helgen. Tellingene i spillet er diktet opp. Les historien i [Magnus av Orknøyene: jarlen som nektet å kjempe og ble drept på øya Egilsay](/no/magnus-av-orknoyene-jarlen-som-nektet-a-kjempe-og-ble-drept/).

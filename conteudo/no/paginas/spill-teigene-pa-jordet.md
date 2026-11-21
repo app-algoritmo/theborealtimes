@@ -23,4 +23,4 @@ Del jordet inn i rektangler. Hvert rektangel må inneholde nøyaktig ett tall, o
 
 ## Historien bak
 
-Víga-Glúms saga foregår i Eyjafjörður, nord på Island, der Glúmr Eyjólfsson bor på Þverá; en av markene i fortellingen heter Vitazgjafi. Å dele jordet i rektangler er oppfunnet. Les historien i [Víga-Glúms saga: høvdingen i Eyjafjörður, marken Vitazgjafi og kulten av Frøy](/no/2027/01/31/viga-glums-saga-eyjafjordur-campo-vitazgjafi/).
+Víga-Glúms saga foregår i Eyjafjörður, nord på Island, der Glúmr Eyjólfsson bor på Þverá; en av markene i fortellingen heter Vitazgjafi. Å dele jordet i rektangler er oppfunnet. Les historien i [Víga-Glúms saga: høvdingen i Eyjafjörður, marken Vitazgjafi og kulten av Frøy](/no/viga-glums-saga-hovdingen-i-eyjafjordur-marken-vitazgjafi/).

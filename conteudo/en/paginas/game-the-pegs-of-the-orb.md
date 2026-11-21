@@ -23,4 +23,4 @@ There are 14 pegs and one hole. Tap a peg and then the hole it should jump to, o
 
 ## The story behind it
 
-Heimskringla, attributed to Snorri Sturluson around 1230, takes its name from the opening words of the Ynglinga saga, "the orb of the Earth". The pegs are invented. Read the story in [Heimskringla, the "orb of the world": the sagas of the kings of Norway attributed to Snorri Sturluson](/en/2027/01/10/heimskringla-snorri-sturluson-orbe-do-mundo-sagas-reis/).
+Heimskringla, attributed to Snorri Sturluson around 1230, takes its name from the opening words of the Ynglinga saga, "the orb of the Earth". The pegs are invented. Read the story in [Heimskringla, the "orb of the world": the sagas of the kings of Norway attributed to Snorri Sturluson](/heimskringla-the-orb-of-the-world-the-sagas-of-the-kings/).

@@ -23,4 +23,4 @@ Toque numa peça para escolhê-la e toque numa casa livre na mesma fileira (ou c
 
 ## A história por trás
 
-Na Gylfaginning, a giganta Hyrrokkin empurra o navio de Baldr, Hringhorni, para o mar. O quebra-cabeça é invenção. Leia a história em [O funeral de Baldr: a giganta Hyrrokkin lança ao mar o maior navio dos deuses](/2026/12/13/funeral-de-baldr-hyrrokkin-hringhorni/).
+Na Gylfaginning, a giganta Hyrrokkin empurra o navio de Baldr, Hringhorni, para o mar. O quebra-cabeça é invenção. Leia a história em [O funeral de Baldr: a giganta Hyrrokkin lança ao mar o maior navio dos deuses](/pt/funeral-de-baldr-hyrrokkin-hringhorni/).

@@ -23,4 +23,4 @@ På hvert brett på 4 ganger 4 fyller du de tomme rutene med tall fra 1 til 4, s
 
 ## Historien bak
 
-Thorkell den høye var en dansk krigsherre som ledet angrep på England fra 1009, tjente senere kong Æthelred og enda senere Knut, som gjorde ham til jarl av Øst-Anglia. Å fylle segl er oppfunnet. Les historien i [Thorkell den høye: fra beleiringen av Canterbury til jarledømmet Øst-Anglia](/no/2027/02/07/thorkell-o-alto-canterbury-aelfheah-canuto/).
+Thorkell den høye var en dansk krigsherre som ledet angrep på England fra 1009, tjente senere kong Æthelred og enda senere Knut, som gjorde ham til jarl av Øst-Anglia. Å fylle segl er oppfunnet. Les historien i [Thorkell den høye: fra beleiringen av Canterbury til jarledømmet Øst-Anglia](/no/thorkell-den-hoye-fra-beleiringen-av-canterbury/).

@@ -23,4 +23,4 @@ Dra fingeren (eller musa, eller bruk piltastene) for å flytte skipet sidelengs 
 
 ## Historien bak
 
-Sagaene forteller at Gudrid krysset Atlanterhavet til Grønland og Vinland. Isflakene er diktet opp for spillet. Les historien i [Gudrid: islendingen som krysset Atlanterhavet, fikk en sønn i Amerika og dro til Roma](/no/2026/11/16/gudrid-a-viajante/).
+Sagaene forteller at Gudrid krysset Atlanterhavet til Grønland og Vinland. Isflakene er diktet opp for spillet. Les historien i [Gudrid: islendingen som krysset Atlanterhavet, fikk en sønn i Amerika og dro til Roma](/no/gudrid-islendingen-som-krysset-atlanterhavet-fikk-en-sonn/).

@@ -23,4 +23,4 @@ Leve todos para a outra margem. Toque num passageiro para pô-lo no barco (ou ti
 
 ## A história por trás
 
-No Hárbarðsljóð, o barqueiro se recusa a levar Thor. O quebra-cabeça de travessia é invenção. Leia a história em [Hárbarðsljóð: o barqueiro que não quis levar Thor ao outro lado](/2026/11/29/harbardsljod-thor-odin-barqueiro/).
+No Hárbarðsljóð, o barqueiro se recusa a levar Thor. O quebra-cabeça de travessia é invenção. Leia a história em [Hárbarðsljóð: o barqueiro que não quis levar Thor ao outro lado](/pt/harbardsljod-thor-odin-barqueiro/).

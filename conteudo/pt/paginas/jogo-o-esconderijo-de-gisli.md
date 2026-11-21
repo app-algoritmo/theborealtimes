@@ -23,4 +23,4 @@ Gísli, fora da lei, fecha o esconderijo com pedras. Empurre cada pedra até uma
 
 ## A história por trás
 
-Na Saga de Gísli, o herói vive anos como fora da lei na Islândia. As pedras e as fases do jogo são invenção. Leia a história em [Gísli Súrsson: a saga do fora da lei que fugiu por anos nos fiordes da Islândia, entre sonhos e emboscadas](/2026/11/19/gisli-sursson-saga-fora-da-lei/).
+Na Saga de Gísli, o herói vive anos como fora da lei na Islândia. As pedras e as fases do jogo são invenção. Leia a história em [Gísli Súrsson: a saga do fora da lei que fugiu por anos nos fiordes da Islândia, entre sonhos e emboscadas](/pt/gisli-sursson-saga-fora-da-lei/).

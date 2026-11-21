@@ -23,4 +23,4 @@ Trykk på skjermen (eller bruk mellomromstasten eller pil opp) for å hoppe. Bå
 
 ## Historien bak
 
-I diktet Skírnismál rir Skirnes hest gjennom flammer til jotunen Gymers hall. Løpet er diktet opp for spillet. Les historien i [Frøy og Gerd: guden som ga fra seg sverdet av kjærlighet](/no/2026/11/16/freyr-gerdr-amor-e-espada/).
+I diktet Skírnismál rir Skirnes hest gjennom flammer til jotunen Gymers hall. Løpet er diktet opp for spillet. Les historien i [Frøy og Gerd: guden som ga fra seg sverdet av kjærlighet](/no/froy-og-gerd-guden-som-ga-fra-seg-sverdet-av-kjaerlighet/).

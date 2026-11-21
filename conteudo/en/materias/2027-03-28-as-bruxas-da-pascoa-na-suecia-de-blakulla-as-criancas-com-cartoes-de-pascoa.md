@@ -48,4 +48,4 @@ The Swedish Easter witch was born from a belief about a journey to Blåkulla and
 
 The museum says the oldest written records are from the early nineteenth century, but that the tradition is probably older, so the starting date is uncertain. It also does not explain when the practice passed from adults to children. The text I read does not cite the museum's specific sources for this custom.
 
-To find the pairs of cards of the Easter children, play [The Easter cards](/en/game-the-easter-cards/).
+To find the pairs of cards of the Easter children, play [The Easter cards](/game-the-easter-cards/).

@@ -43,4 +43,4 @@ It is ATU type 711, "The Beautiful and the Ugly Twin(sisters)". According to Sti
 
 The sources on the distribution of the tale conflict. Hasan M. El-Shamy held that the type was confined to Europe, but there are reports of variants in Turkey. The article gives details that vary from version to version, such as trolls or witches and spoon, fan or wand, and it does not give exact collection dates. The article also has citation problems, among them a duplicated reference to Hodne.
 
-To put a stack of rags in order, flipping it from one rag upward, play [Tatterhood's rags](/en/game-tatterhoods-rags/).
+To put a stack of rags in order, flipping it from one rag upward, play [Tatterhood's rags](/game-tatterhoods-rags/).

@@ -23,4 +23,4 @@ Os elfos chegam um a um pela trilha. Os claros pertencem a Álfheimr: toque do l
 
 ## A história por trás
 
-Na Edda em Prosa, Snorri diz que os elfos claros vivem em Álfheimr e os escuros vivem sob a terra, mais negros que piche. A trilha e a triagem são invenção. Leia a história em [Álfheimr: elfos da luz e elfos escuros em Snorri e no Grímnismál](/2027/03/14/alfheim-elfos-da-luz-e-elfos-escuros-em-snorri-e-no-grimnismal/).
+Na Edda em Prosa, Snorri diz que os elfos claros vivem em Álfheimr e os escuros vivem sob a terra, mais negros que piche. A trilha e a triagem são invenção. Leia a história em [Álfheimr: elfos da luz e elfos escuros em Snorri e no Grímnismál](/pt/alfheim-elfos-da-luz-e-elfos-escuros-em-snorri-e-no-grimnismal/).

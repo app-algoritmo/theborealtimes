@@ -40,7 +40,7 @@ Você informa o e-mail e marca a caixa de aceite. Enviamos uma mensagem de confi
 
 ## O que guardamos
 
-O e-mail, o idioma escolhido, a data da inscrição e da confirmação, e a versão do texto de aceite. Não guardamos o seu IP e não pedimos nome. Os dados ficam em servidor na Noruega. Os detalhes estão na [política de privacidade](/privacidade/).
+O e-mail, o idioma escolhido, a data da inscrição e da confirmação, e a versão do texto de aceite. Não guardamos o seu IP e não pedimos nome. Os dados ficam em servidor na Noruega. Os detalhes estão na [política de privacidade](/pt/privacidade/).
 
 ## Como cancelar
 

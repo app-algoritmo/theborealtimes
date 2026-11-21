@@ -23,4 +23,4 @@ Tap the screen (or press space) to make the raven flap; without a tap it falls. 
 
 ## The story behind it
 
-In the Grímnismál, Huginn and Muninn fly every day over Midgard. The flight between obstacles is made up. Read the story in [Huginn and Muninn: Odin's ravens, in the sources and in the finds](/en/2026/12/20/huginn-muninn-corvos-de-odin/).
+In the Grímnismál, Huginn and Muninn fly every day over Midgard. The flight between obstacles is made up. Read the story in [Huginn and Muninn: Odin's ravens, in the sources and in the finds](/huginn-and-muninn-odin-s-ravens-in-the-sources/).

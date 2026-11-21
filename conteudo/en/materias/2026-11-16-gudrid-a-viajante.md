@@ -43,4 +43,4 @@ The most important thing to say is that both sagas were written around the 13th 
 
 That does not take away the story's value. It shows that people of that time imagined women able to face the ocean, death and distance, and that this memory was kept for generations.
 
-To steer Gudríð's ship between the ice floes, play [Gudríð's route](/en/game-gudrids-route/).
+To steer Gudríð's ship between the ice floes, play [Gudríð's route](/game-gudrids-route/).

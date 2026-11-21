@@ -23,4 +23,4 @@ While the moon shines, Glámr's eyes glow and paralyse: do not attack. When the 
 
 ## The story behind it
 
-In Grettir's saga, Glámr has a gaze that freezes people with fear, and the fight takes place on a moonlit night among clouds. The game mechanic is made up. Read the story in [Grettir and the undead Glámr: the saga in which the moon reveals a ghost's eyes](/en/2026/11/14/grettir-glamr/).
+In Grettir's saga, Glámr has a gaze that freezes people with fear, and the fight takes place on a moonlit night among clouds. The game mechanic is made up. Read the story in [Grettir and the undead Glámr: the saga in which the moon reveals a ghost's eyes](/grettir-and-the-undead-glamr-the-saga-in-which-the-moon/).

@@ -44,4 +44,4 @@ A *völva* is a Norse seeress. A *werewolf* is a person who turns into a wolf. *
 
 The second source observes that the she-wolf of the episode may be the mother of Siggeir, which the saga itself does not state. The sources treat Sinfjötli sometimes as the son and sometimes as the nephew of Sigmund. The etymology of the name and the reason Odin appears at the death also remain unanswered in the sources. Since the text is from the 13th century and the manuscript from about 1400, and the underlying legends are older, it is not possible to say what is oldest in the version we have.
 
-To turn two linked rings until the beads match the target image, like two skins put on, play [The two wolfskins](/en/game-the-two-wolfskins/).
+To turn two linked rings until the beads match the target image, like two skins put on, play [The two wolfskins](/game-the-two-wolfskins/).

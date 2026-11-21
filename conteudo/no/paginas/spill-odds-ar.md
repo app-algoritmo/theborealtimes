@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-Islandsk tradisjon gir Örvar-Oddr omtrent 300 års liv. Tallene i spillet er diktet opp. Les historien i [Orvar-Odd og hesten Faxe: helten som gravla hesten for å unngå en spådom](/no/2026/11/20/orvar-oddr-faxi-profecia/).
+Islandsk tradisjon gir Örvar-Oddr omtrent 300 års liv. Tallene i spillet er diktet opp. Les historien i [Orvar-Odd og hesten Faxe: helten som gravla hesten for å unngå en spådom](/no/orvar-odd-og-hesten-faxe-helten-som-gravla-hesten/).

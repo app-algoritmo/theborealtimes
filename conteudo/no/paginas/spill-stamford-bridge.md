@@ -23,4 +23,4 @@ Fiendene kommer fra høyre. Trykk over broen, eller bruk mellomromstasten, for �
 
 ## Historien bak
 
-I slaget ved Stamford Bridge i 1066 ble den norske kongen Harald Hardråde drept. Senere kilder, som Henry av Huntingdon, forteller om en øksemann som holdt broen til han ble truffet nedenfra. Seieren i spillet er diktet opp. Les historien i [Stamford Bridge 1066: mannen som holdt broen, og slaget tradisjonen kaller vikingtidens slutt](/no/2026/11/14/stamford-bridge-1066/).
+I slaget ved Stamford Bridge i 1066 ble den norske kongen Harald Hardråde drept. Senere kilder, som Henry av Huntingdon, forteller om en øksemann som holdt broen til han ble truffet nedenfra. Seieren i spillet er diktet opp. Les historien i [Stamford Bridge 1066: mannen som holdt broen, og slaget tradisjonen kaller vikingtidens slutt](/no/stamford-bridge-1066-mannen-som-holdt-broen-og-slaget/).

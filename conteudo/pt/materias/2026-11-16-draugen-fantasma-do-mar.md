@@ -43,4 +43,4 @@ O draug nasceu de uma situação real. A pesca era vital e perigosa, famílias p
 
 Hoje, o draug aparece em livros infantis, em jogos e até em obras de arte contemporâneas. Mas, para os pescadores de antigamente, o nevoeiro em que não se devia responder a nenhum chamado era coisa séria.
 
-Para atravessar o nevoeiro sem cruzar com o Draugen, jogue [A névoa do Draugen](/jogo-a-nevoa-do-draugen/).
+Para atravessar o nevoeiro sem cruzar com o Draugen, jogue [A névoa do Draugen](/pt/jogo-a-nevoa-do-draugen/).

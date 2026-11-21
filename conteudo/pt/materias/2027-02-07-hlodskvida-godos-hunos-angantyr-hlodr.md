@@ -37,4 +37,4 @@ A fonte diz que a maioria dos estudiosos situa a história nos séculos IV e V. 
 
 As identidades de pessoas, lugares e acontecimentos não têm resposta clara entre os estudiosos. A fonte não menciona a espada Tyrfing nem descreve o destino de Hervör além de citá-la entre as vítimas. Um verso se refere a um nome de lugar ligado a "Danpar", que a fonte não explica. O texto também mostra sinais de datas diferentes de composição, de modo que não se pode tratar o poema como obra de uma só época.
 
-Para pôr uma fileira de guerreiros em ordem, do mais baixo ao mais alto, trocando vizinhos de lugar, jogue [A fileira de guerreiros](/jogo-a-fileira-de-guerreiros/).
+Para pôr uma fileira de guerreiros em ordem, do mais baixo ao mais alto, trocando vizinhos de lugar, jogue [A fileira de guerreiros](/pt/jogo-a-fileira-de-guerreiros/).

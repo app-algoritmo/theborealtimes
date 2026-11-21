@@ -23,4 +23,4 @@ Você guia Sól e o lobo Sköll quer o sol. Arraste o dedo (ou use as setas) par
 
 ## A história por trás
 
-Segundo Snorri, Sól corre porque um lobo a persegue, e no Ragnarök ele a alcança. A partida de rebater é invenção do jogo. Leia a história em [Sól e Máni: os irmãos que puxam o sol e a lua com lobos nos calcanhares](/2026/11/21/sol-mani-lobos-skoll-hati/).
+Segundo Snorri, Sól corre porque um lobo a persegue, e no Ragnarök ele a alcança. A partida de rebater é invenção do jogo. Leia a história em [Sól e Máni: os irmãos que puxam o sol e a lua com lobos nos calcanhares](/pt/sol-mani-lobos-skoll-hati/).

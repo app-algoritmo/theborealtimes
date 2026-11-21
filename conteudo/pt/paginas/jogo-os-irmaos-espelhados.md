@@ -23,4 +23,4 @@ Dois irmãos andam ao mesmo tempo, cada um no seu campo. Toque na tela para move
 
 ## A história por trás
 
-Na Droplaugarsona saga, os irmãos Grímr e Helgi, filhos da viúva Droplaug, vivem perto do Lagarfljót, no leste da Islândia, por volta do ano 1000. Helgi morre e Grímr o vinga. Mover irmãos em espelho é invenção. Leia a história em [Droplaugarsona saga: os irmãos Grímr e Helgi, a vingança perto do Lagarfljót](/2027/02/07/droplaugarsona-saga-grimr-helgi-lagarfljot/).
+Na Droplaugarsona saga, os irmãos Grímr e Helgi, filhos da viúva Droplaug, vivem perto do Lagarfljót, no leste da Islândia, por volta do ano 1000. Helgi morre e Grímr o vinga. Mover irmãos em espelho é invenção. Leia a história em [Droplaugarsona saga: os irmãos Grímr e Helgi, a vingança perto do Lagarfljót](/pt/droplaugarsona-saga-grimr-helgi-lagarfljot/).

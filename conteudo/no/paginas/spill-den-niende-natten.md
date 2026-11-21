@@ -23,4 +23,4 @@ Ringen Draupner slipper de åtte ringene sine bare hver niende natt. Se på tell
 
 ## Historien bak
 
-I Snorres Edda sier Snorre at hver niende natt faller det åtte gullringer av samme vekt fra Draupner. Den raske tellingen av nettene og rytmen i spillet er oppdiktet. Les historien i [Draupner: Odins ring som drypper åtte ringer hver niende natt](/no/2027/03/21/draupnir-o-anel-de-odin-que-pinga-oito-aneis-a-cada-nove-noites/).
+I Snorres Edda sier Snorre at hver niende natt faller det åtte gullringer av samme vekt fra Draupner. Den raske tellingen av nettene og rytmen i spillet er oppdiktet. Les historien i [Draupner: Odins ring som drypper åtte ringer hver niende natt](/no/draupner-odins-ring-som-drypper-atte-ringer-hver-niende-natt/).

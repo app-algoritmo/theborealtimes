@@ -47,4 +47,4 @@ In March 2019, archaeologists found what is believed to be a buried Viking-era s
 
 The article says the cemetery "may have been larger", that the ship of 2019 is only "believed" to be a Viking-era burial and that the evidence is preliminary, and that the harbour is "suggested" and "likely", not confirmed. The reading of the site as a power centre is something it "can be seen as" showing. The article also gives no names for those who were buried.
 
-To run along every thread of a knot without repeating any, in the spirit of Borre's ornaments, play [Borre's knot](/en/game-borres-knot/).
+To run along every thread of a knot without repeating any, in the spirit of Borre's ornaments, play [Borre's knot](/game-borres-knot/).

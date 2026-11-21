@@ -23,4 +23,4 @@ A cada noite chega um dos treze filhos de Grýla, e o nome dele aparece no alto.
 
 ## A história por trás
 
-Segundo o folclore islandês, os treze Jólasveinar chegam um por noite a partir de 12 de dezembro e vão embora, um por noite, depois do Natal. As listas variam de região para região, e o jogo é uma invenção. Leia a história em [Grýla e os treze Jólasveinar: o Natal islandês tem uma ogra e treze filhos travessos](/2026/11/14/gryla-jolasveinar/).
+Segundo o folclore islandês, os treze Jólasveinar chegam um por noite a partir de 12 de dezembro e vão embora, um por noite, depois do Natal. As listas variam de região para região, e o jogo é uma invenção. Leia a história em [Grýla e os treze Jólasveinar: o Natal islandês tem uma ogra e treze filhos travessos](/pt/gryla-jolasveinar/).

@@ -23,4 +23,4 @@ Segure o toque (ou a barra de espaço) para retesar o arco e solte quando a barr
 
 ## A história por trás
 
-A batalha de Svolder, por volta do ano 1000, acabou com a derrota do rei Olaf Tryggvason. Na saga, o arco de um arqueiro se parte e o rei pergunta o que quebrou. A mecânica do jogo é invenção. Leia a história em [Svolder, ano 1000: a última batalha do rei Olaf Tryggvason e do navio Ormen Lange](/2026/11/15/svolder-ormen-lange-1000/).
+A batalha de Svolder, por volta do ano 1000, acabou com a derrota do rei Olaf Tryggvason. Na saga, o arco de um arqueiro se parte e o rei pergunta o que quebrou. A mecânica do jogo é invenção. Leia a história em [Svolder, ano 1000: a última batalha do rei Olaf Tryggvason e do navio Ormen Lange](/pt/svolder-ormen-lange-1000/).

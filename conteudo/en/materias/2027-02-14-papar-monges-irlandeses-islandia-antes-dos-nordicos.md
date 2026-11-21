@@ -44,4 +44,4 @@ The first source gathers the medieval texts and the place names, and shows that 
 
 Neither source demonstrates that the papar lived in Iceland. The written ones are late in relation to the settlement, since the *Íslendingabók* is from the 12th century, and archaeology has not confirmed their presence. The sources differ in how they describe them: Irish monks, in the *Landnámabók*, and another description in the *Historia Norwegiæ*. The place names show that the word existed, but not that anyone lived in those places. It is also not known how long they would have stayed or where they went.
 
-To fill and pour water between skins until the requested amount is measured, as on a hermits' voyage, play [The waterskins of the papar](/en/game-the-waterskins-of-the-papar/).
+To fill and pour water between skins until the requested amount is measured, as on a hermits' voyage, play [The waterskins of the papar](/game-the-waterskins-of-the-papar/).

@@ -23,4 +23,4 @@ In the tale of the Icelander who knew sagas, everything happens in order. A scen
 
 ## The story behind it
 
-In the Íslendings þáttr sögufróða, the young Icelander tells sagas to King Harald, fears telling the one about the king's travels at Christmas and later says he learned it from Halldórr Snorrason. The three boxes and the rhythm of the game are invention. Read the story in [The Icelander who told sagas: the Christmas story at the court of King Harald Hardrada](/en/2027/04/04/o-islandes-que-contava-sagas-a-historia-de-natal-na-corte-do-rei-harald-hardrada/).
+In the Íslendings þáttr sögufróða, the young Icelander tells sagas to King Harald, fears telling the one about the king's travels at Christmas and later says he learned it from Halldórr Snorrason. The three boxes and the rhythm of the game are invention. Read the story in [The Icelander who told sagas: the Christmas story at the court of King Harald Hardrada](/the-icelander-who-told-sagas-the-christmas-story/).

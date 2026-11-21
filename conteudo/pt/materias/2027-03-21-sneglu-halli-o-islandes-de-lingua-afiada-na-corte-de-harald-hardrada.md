@@ -45,4 +45,4 @@ Sneglu-Halli é um conto islandês do século XIII sobre um poeta que usa o humo
 
 Não há como saber se Halli existiu como pessoa nem quanto do conto reflete a corte real de Harald. As duas versões diferem, e a leitura do tom do rei, entre afeto e desprezo, depende do manuscrito e do estudioso.
 
-Para devolver cada insulto no momento certo, jogue [O retruque](/jogo-o-retruque/).
+Para devolver cada insulto no momento certo, jogue [O retruque](/pt/jogo-o-retruque/).

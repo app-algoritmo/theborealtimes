@@ -23,4 +23,4 @@ I en kjeller i Reykjavík fant utgravingen restene av en hall fra landnamstiden.
 
 ## Historien bak
 
-I Aðalstræti 16 i Reykjavík fant utgravingen av hallen fra landnamstiden et askelag datert til 871, pluss minus to år. Funnene som går forbi sikten og rytmen i spillet er oppdiktet. Les historien i [Reykjavík 871±2: langhuset under byen og asken som daterer landnåmet](/no/2027/04/04/reykjavik-871-a-casa-longa-sob-a-cidade-e-a-cinza-que-data-o-assentamento/).
+I Aðalstræti 16 i Reykjavík fant utgravingen av hallen fra landnamstiden et askelag datert til 871, pluss minus to år. Funnene som går forbi sikten og rytmen i spillet er oppdiktet. Les historien i [Reykjavík 871±2: langhuset under byen og asken som daterer landnåmet](/no/reykjavik-871-2-langhuset-under-byen-og-asken-som-daterer/).

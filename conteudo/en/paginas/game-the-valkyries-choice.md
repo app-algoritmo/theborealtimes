@@ -23,4 +23,4 @@ Warriors fall from the battlefield, one after another. Those with a raven feathe
 
 ## The story behind it
 
-In the Norse sources, the valkyries choose warriors killed in battle; Odin receives part of them in Valhalla, and Freyja chooses the others for Fólkvangr. The raven-and-necklace rule is made up for the game. Read the story in [Valkyries and Valhalla: whom Odin and Freyja receive among those slain in battle](/en/2026/11/14/valquirias-valhalla/).
+In the Norse sources, the valkyries choose warriors killed in battle; Odin receives part of them in Valhalla, and Freyja chooses the others for Fólkvangr. The raven-and-necklace rule is made up for the game. Read the story in [Valkyries and Valhalla: whom Odin and Freyja receive among those slain in battle](/valkyries-and-valhalla-whom-odin-and-freyja-receive-among/).

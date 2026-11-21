@@ -23,4 +23,4 @@ Dra fra en prikk av én farge til den andre prikken av samme farge gjennom nabo-
 
 ## Historien bak
 
-I 844 seilte vikingene opp elven Guadalquivir til Sevilla. Kartet og parene er diktet opp for spillet. Les historien i [Sevilla, 844: vikingflåten som seilte opp Guadalquivir og ble slått av en emir](/no/2026/12/13/sevilha-844-vikings-guadalquivir/).
+I 844 seilte vikingene opp elven Guadalquivir til Sevilla. Kartet og parene er diktet opp for spillet. Les historien i [Sevilla, 844: vikingflåten som seilte opp Guadalquivir og ble slått av en emir](/no/sevilla-844-vikingflaten-som-seilte-opp-guadalquivir-og-ble/).

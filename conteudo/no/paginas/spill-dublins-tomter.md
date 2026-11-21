@@ -23,4 +23,4 @@ Du starter på tomten i øvre venstre hjørne. Velg en farge nederst: området d
 
 ## Historien bak
 
-Utgravingene på Wood Quay i Dublin avdekket tomter med vikinghus langs gater. Tomtemalingen er diktet opp for spillet. Les historien i [Wood Quay: utgravingen som avslørte vikingtidens Dublin og protesten som prøvde å berge den](/no/2026/11/21/dublin-wood-quay-escavacao/).
+Utgravingene på Wood Quay i Dublin avdekket tomter med vikinghus langs gater. Tomtemalingen er diktet opp for spillet. Les historien i [Wood Quay: utgravingen som avslørte vikingtidens Dublin og protesten som prøvde å berge den](/no/wood-quay-utgravingen-som-avslorte-vikingtidens-dublin/).

@@ -23,4 +23,4 @@ You start on the plot in the top left corner. Pick a colour below: your territor
 
 ## The story behind it
 
-The Wood Quay excavations in Dublin revealed plots of Viking houses laid out along streets. The painting of plots is made up for the game. Read the story in [Wood Quay: the excavation that revealed Viking Dublin and the protest that tried to save it](/en/2026/11/21/dublin-wood-quay-escavacao/).
+The Wood Quay excavations in Dublin revealed plots of Viking houses laid out along streets. The painting of plots is made up for the game. Read the story in [Wood Quay: the excavation that revealed Viking Dublin and the protest that tried to save it](/wood-quay-the-excavation-that-revealed-viking-dublin/).

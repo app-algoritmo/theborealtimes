@@ -41,4 +41,4 @@ Anthony Winterbourne, citado na página sobre Huginn e Muninn, liga os corvos de
 
 A página do Hurstwic não trata da hamingja, e a de Norse-mythology.org não cita sagas para a fylgja. O espelho consultado é de 2016 e apoia-se em interpretações de poucos estudiosos. A origem do termo, que também significa "placenta" ou "secundinas", é descrita pela fonte como "misteriosa e incerta".
 
-Para conduzir um espírito acompanhante pelo campo, recolhendo luzes que o fazem crescer, sem encostar nele mesmo nem nas bordas, jogue [O espírito que segue](/jogo-o-espirito-que-segue/).
+Para conduzir um espírito acompanhante pelo campo, recolhendo luzes que o fazem crescer, sem encostar nele mesmo nem nas bordas, jogue [O espírito que segue](/pt/jogo-o-espirito-que-segue/).

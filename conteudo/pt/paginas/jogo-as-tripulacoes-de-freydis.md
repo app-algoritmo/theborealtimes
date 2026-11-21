@@ -23,4 +23,4 @@ Cada casa do quadro 4 por 4 leva uma tripulação com certo número de homens. D
 
 ## A história por trás
 
-Na Saga dos Groenlandeses, Freydís faz um acordo de lucros iguais com os irmãos islandeses Helgi e Finnbogi para uma viagem à Vinlândia e leva em segredo mais homens do que o combinado; na Saga de Érico, o Vermelho, ela aparece uma só vez, no ataque dos skrælingar. As tripulações que se fundem são invenção. Leia a história em [Freydís Eiríksdóttir: duas sagas, duas Freydís, e a Vinlândia entre elas](/2027/01/24/freydis-eiriksdottir-vinlandia-duas-sagas/).
+Na Saga dos Groenlandeses, Freydís faz um acordo de lucros iguais com os irmãos islandeses Helgi e Finnbogi para uma viagem à Vinlândia e leva em segredo mais homens do que o combinado; na Saga de Érico, o Vermelho, ela aparece uma só vez, no ataque dos skrælingar. As tripulações que se fundem são invenção. Leia a história em [Freydís Eiríksdóttir: duas sagas, duas Freydís, e a Vinlândia entre elas](/pt/freydis-eiriksdottir-vinlandia-duas-sagas/).

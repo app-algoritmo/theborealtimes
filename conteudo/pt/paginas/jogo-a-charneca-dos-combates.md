@@ -23,4 +23,4 @@ Quatro grupos de homens se escondem na charneca: um de 4 casas, dois de 3 e um d
 
 ## A história por trás
 
-A Heiðarvíga saga, a história dos combates da charneca, segue descendentes de Egill Skallagrímsson em disputas que terminam em mortes numa charneca. Ela chegou mal conservada: doze folhas do único manuscrito queimaram em Copenhague, em 1728. Os grupos escondidos são invenção. Leia a história em [Heiðarvíga saga: a história dos combates da charneca, e as folhas que queimaram em Copenhague](/2027/01/24/heidarviga-saga-combates-da-charneca-egill-descendentes/).
+A Heiðarvíga saga, a história dos combates da charneca, segue descendentes de Egill Skallagrímsson em disputas que terminam em mortes numa charneca. Ela chegou mal conservada: doze folhas do único manuscrito queimaram em Copenhague, em 1728. Os grupos escondidos são invenção. Leia a história em [Heiðarvíga saga: a história dos combates da charneca, e as folhas que queimaram em Copenhague](/pt/heidarviga-saga-combates-da-charneca-egill-descendentes/).

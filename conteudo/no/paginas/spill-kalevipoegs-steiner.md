@@ -23,4 +23,4 @@ Hver stein viser vekten (stort tall) og verdien (tall med stjerne). Trykk på st
 
 ## Historien bak
 
-Kalevipoeg, et estisk epos satt sammen av Friedrich Reinhold Kreutzwald etter 1850, forteller om en kjempehelts bragder, blant dem steinkasting. Å velge steiner til sekken er oppfunnet. Les historien i [Kalevipoeg: Kreutzwalds estiske epos, kjempehelten og de kastede steinene](/no/2027/01/31/kalevipoeg-epopeia-estoniana-kreutzwald/).
+Kalevipoeg, et estisk epos satt sammen av Friedrich Reinhold Kreutzwald etter 1850, forteller om en kjempehelts bragder, blant dem steinkasting. Å velge steiner til sekken er oppfunnet. Les historien i [Kalevipoeg: Kreutzwalds estiske epos, kjempehelten og de kastede steinene](/no/kalevipoeg-kreutzwalds-estiske-epos-kjempehelten/).

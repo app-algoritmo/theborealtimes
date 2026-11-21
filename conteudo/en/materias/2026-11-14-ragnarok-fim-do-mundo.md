@@ -51,4 +51,4 @@ The name is usually translated as "fate of the powers" (*ragna rök*). A variant
 
 Scholars debate how much of the idea of a world that is born again already existed before the conversion and how much came from Christianity. The stanza in which "the mighty one comes" to judgment is seen by many as Christian influence. Others argue that the cycle of destruction and renewal is a pagan inheritance. The debate remains open, and the poem does not leave the question settled.
 
-To defend the gods' hall for one night, play [The last battle](/en/game-the-last-battle/).
+To defend the gods' hall for one night, play [The last battle](/game-the-last-battle/).

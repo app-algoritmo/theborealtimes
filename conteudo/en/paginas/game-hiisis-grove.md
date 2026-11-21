@@ -23,4 +23,4 @@ A sacred grove has 16 clearings and four kinds of tree, numbered 1 to 4. Every r
 
 ## The story behind it
 
-In Estonian, hiis is a sacred grove, usually on elevated ground; in Finnish, hiisi first named sacred places and only later mythical beings. In the Kalevala, Hiisi makes Lemminkäinen's elk from rotten wood, willow and reeds. The numbered grove is invented. Read the story in [Hiisi: from sacred grove to demon, and the elk he made of rotten wood](/en/2027/01/24/hiisi-bosque-sagrado-alce-kalevala/).
+In Estonian, hiis is a sacred grove, usually on elevated ground; in Finnish, hiisi first named sacred places and only later mythical beings. In the Kalevala, Hiisi makes Lemminkäinen's elk from rotten wood, willow and reeds. The numbered grove is invented. Read the story in [Hiisi: from sacred grove to demon, and the elk he made of rotten wood](/hiisi-from-sacred-grove-to-demon-and-the-elk-he-made/).

@@ -23,4 +23,4 @@ Dois mapas parecem iguais, mas a cópia tem diferenças: algo some, muda de cor 
 
 ## A história por trás
 
-O Mapa de Vinland foi apresentado ao público em 1965; em 2021, a análise da tinta, com um composto de titânio só produzido a partir dos anos 1920, mostrou que é falso. Achar diferenças entre dois mapas é invenção. Leia a história em [O Mapa de Vinland: o que as análises de Yale mostraram sobre a tinta](/2027/02/14/mapa-de-vinland-yale-falsificacao-tinta-1923/).
+O Mapa de Vinland foi apresentado ao público em 1965; em 2021, a análise da tinta, com um composto de titânio só produzido a partir dos anos 1920, mostrou que é falso. Achar diferenças entre dois mapas é invenção. Leia a história em [O Mapa de Vinland: o que as análises de Yale mostraram sobre a tinta](/pt/mapa-de-vinland-yale-falsificacao-tinta-1923/).

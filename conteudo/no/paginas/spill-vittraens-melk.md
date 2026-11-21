@@ -23,4 +23,4 @@ En vittra lar melkekrukker og steiner falle nedover en sti med tre felt. Du stå
 
 ## Historien bak
 
-Vittrene er vesener i Nord-Sverige som bor under jorden og har sin egen buskap; de kan bli farlige hvis de ikke blir vist respekt. Å samle melk mellom steiner er oppfunnet. Les historien i [Vittra: de underjordiske vesenene i Nord-Sverige og melken mellom steinene](/no/2027/02/07/vittra-seres-subterraneos-norte-da-suecia/).
+Vittrene er vesener i Nord-Sverige som bor under jorden og har sin egen buskap; de kan bli farlige hvis de ikke blir vist respekt. Å samle melk mellom steiner er oppfunnet. Les historien i [Vittra: de underjordiske vesenene i Nord-Sverige og melken mellom steinene](/no/vittra-de-underjordiske-vesenene-i-nord-sverige-og-melken/).

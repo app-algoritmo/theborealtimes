@@ -37,4 +37,4 @@ The *Russian Primary Chronicle*, written much later, in the early 12th century, 
 
 Ladoga shows a history that the traditional image of the Vikings tends to forget. There, the Scandinavians not only attacked, but also traded, worked and lived beside other peoples. The glass beads, found by the thousands, are a reminder that the Viking Age was also a time of trade and crafts.
 
-To line up five beads of the same colour in a row, before your rival, on the board of the Ladoga workshop, play [The beads of Ladoga](/en/game-the-beads-of-ladoga/).
+To line up five beads of the same colour in a row, before your rival, on the board of the Ladoga workshop, play [The beads of Ladoga](/game-the-beads-of-ladoga/).

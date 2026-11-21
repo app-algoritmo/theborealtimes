@@ -23,4 +23,4 @@ Fyll rutenettet på 4 ganger 4 med fire runer, uten å gjenta noen i hver rad, h
 
 ## Historien bak
 
-I Sigrdrífumál ristes runer på mange ting, blant dem tungen til Bragi, diktningens gud. Rutenettet er oppfunnet. Les historien i [Bragi, diktningens gud: hva Eddaene og hoffdiktene sier om ham](/no/2027/01/10/bragi-deus-da-poesia-eddas-skaldico/).
+I Sigrdrífumál ristes runer på mange ting, blant dem tungen til Bragi, diktningens gud. Rutenettet er oppfunnet. Les historien i [Bragi, diktningens gud: hva Eddaene og hoffdiktene sier om ham](/no/bragi-diktningens-gud-hva-eddaene-og-hoffdiktene-sier-om-ham/).

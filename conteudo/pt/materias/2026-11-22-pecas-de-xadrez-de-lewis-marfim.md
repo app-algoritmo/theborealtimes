@@ -35,4 +35,4 @@ Embora sejam do século XII, e portanto do fim do período viking, as peças sã
 
 As peças de Lewis ficaram famosas fora dos museus, e hoje aparecem em livros e filmes. O seu interesse está em mostrar que a arte do norte, mesmo depois da Era Viking, continuava a unir ofício, humor e uma certa ferocidade.
 
-Para percorrer, de cavalo, todas as casas de um tabuleiro uma única vez, sem pisar duas vezes no mesmo lugar, jogue [O passeio do cavalo](/jogo-o-passeio-do-cavalo/).
+Para percorrer, de cavalo, todas as casas de um tabuleiro uma única vez, sem pisar duas vezes no mesmo lugar, jogue [O passeio do cavalo](/pt/jogo-o-passeio-do-cavalo/).

@@ -37,4 +37,4 @@ The story gained new life in 1825, when the Swedish poet Esaias Tegnér turned i
 
 It is also worth remembering that the saga exists in several versions and manuscripts, and that the details vary from one to another. The name of Ellide, for example, is spelled in different ways, and some episodes appear only in certain copies. This is common in medieval works, which were copied by hand and changed according to whoever copied them.
 
-To cross, with the Ellide, the furious sea, steering clear of the waves and obstacles, play [Ellide in the storm](/en/game-ellide-in-the-storm/).
+To cross, with the Ellide, the furious sea, steering clear of the waves and obstacles, play [Ellide in the storm](/game-ellide-in-the-storm/).

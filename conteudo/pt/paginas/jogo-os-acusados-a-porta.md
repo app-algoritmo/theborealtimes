@@ -23,4 +23,4 @@ Quatro dos seis acusados esperam à porta, numa ordem secreta. Toque nos rostos 
 
 ## A história por trás
 
-Na Saga de Eyrbyggja, o tribunal da porta julgou os mortos que voltavam à casa de Fróðá. Os acusados do jogo são invenção. Leia a história em [A assombração de Fróðá: o tribunal da porta que julgou os mortos na Saga de Eyrbyggja](/2026/11/20/eyrbyggja-froda-assombracao/).
+Na Saga de Eyrbyggja, o tribunal da porta julgou os mortos que voltavam à casa de Fróðá. Os acusados do jogo são invenção. Leia a história em [A assombração de Fróðá: o tribunal da porta que julgou os mortos na Saga de Eyrbyggja](/pt/eyrbyggja-froda-assombracao/).

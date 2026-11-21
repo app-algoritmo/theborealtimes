@@ -23,4 +23,4 @@ Na grande sala, uma espada está cravada no tronco do Branstock. Para puxá-la, 
 
 ## A história por trás
 
-Na Saga dos Volsungos, um velho de um olho só crava uma espada no tronco da sala e só Sigmund consegue arrancá-la. Os puxões alternados são invenção. Leia a história em [Sigmund e a espada cravada no Barnstokkr, na Saga dos Volsungos](/2027/03/14/sigmund-e-a-espada-cravada-no-barnstokkr-na-saga-dos-volsungos/).
+Na Saga dos Volsungos, um velho de um olho só crava uma espada no tronco da sala e só Sigmund consegue arrancá-la. Os puxões alternados são invenção. Leia a história em [Sigmund e a espada cravada no Barnstokkr, na Saga dos Volsungos](/pt/sigmund-e-a-espada-cravada-no-barnstokkr-na-saga-dos-volsungos/).

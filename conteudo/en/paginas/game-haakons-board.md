@@ -23,4 +23,4 @@ You play the light discs. Tap a marked square to place a disc: the rival discs b
 
 ## The story behind it
 
-Haakon Sigurdsson ruled northern Norway as Earl of Lade and died around 995. The board is invented. Read the story in [Haakon Sigurdsson, Earl of Lade: the lord of Norway who died in a pigsty](/en/2027/01/03/haakon-sigurdsson-jarl-de-lade/).
+Haakon Sigurdsson ruled northern Norway as Earl of Lade and died around 995. The board is invented. Read the story in [Haakon Sigurdsson, Earl of Lade: the lord of Norway who died in a pigsty](/haakon-sigurdsson-earl-of-lade-the-lord-of-norway-who-died/).

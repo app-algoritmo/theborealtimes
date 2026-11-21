@@ -23,4 +23,4 @@ Na corte de Harald, os insultos voam em dois níveis, o de cima e o de baixo, na
 
 ## A história por trás
 
-O Sneglu-Halla þáttr conta que o islandês Halli enfrenta o rei Harald e o poeta Thjodolf com respostas ferinas, num senna. Os insultos que voam e a zona de devolução são invenção. Leia a história em [Sneglu-Halli: o islandês de língua afiada na corte de Harald Hardrada](/2027/03/21/sneglu-halli-o-islandes-de-lingua-afiada-na-corte-de-harald-hardrada/).
+O Sneglu-Halla þáttr conta que o islandês Halli enfrenta o rei Harald e o poeta Thjodolf com respostas ferinas, num senna. Os insultos que voam e a zona de devolução são invenção. Leia a história em [Sneglu-Halli: o islandês de língua afiada na corte de Harald Hardrada](/pt/sneglu-halli-o-islandes-de-lingua-afiada-na-corte-de-harald-hardrada/).

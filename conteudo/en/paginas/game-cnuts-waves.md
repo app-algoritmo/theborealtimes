@@ -23,4 +23,4 @@ Start at the top-left corner. Each turn pick a colour: your territory turns that
 
 ## The story behind it
 
-Cnut ruled England, Denmark and Norway. The tide legend is well known, but the puzzle is made up for the game. Read the story in [Cnut the Great and the North Sea Empire: the king who ruled England, Denmark and Norway](/en/2026/11/18/cnut-imperio-mar-do-norte/).
+Cnut ruled England, Denmark and Norway. The tide legend is well known, but the puzzle is made up for the game. Read the story in [Cnut the Great and the North Sea Empire: the king who ruled England, Denmark and Norway](/cnut-the-great-and-the-north-sea-empire-the-king-who-ruled/).

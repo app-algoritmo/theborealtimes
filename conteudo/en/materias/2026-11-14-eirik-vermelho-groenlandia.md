@@ -39,4 +39,4 @@ The Norse colony lasted about four centuries. It grew to between 2,000 and 3,000
 
 Eirik had children who entered the sagas in their own right. The most famous, Leif, was the one who, according to the *Grænlendinga saga*, reached Vinland. The saga says that Eirik, by then old, refused to convert to the Christianity his son brought and stayed faithful to the old religion.
 
-To steer a fleet to Greenland, play [Twenty-five ships](/en/game-twenty-five-ships/).
+To steer a fleet to Greenland, play [Twenty-five ships](/game-twenty-five-ships/).

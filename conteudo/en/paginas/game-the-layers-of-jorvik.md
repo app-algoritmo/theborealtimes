@@ -23,4 +23,4 @@ You dig a plot in Jórvík, in York. Tap a square to dig. The number tells how m
 
 ## The story behind it
 
-At Coppergate, in York, the 1976–81 excavations revealed houses and workshops of Viking Jórvík. The fragile layers in the game are made up. Read the story in [Jórvík: Viking York and the Coppergate excavation that found houses, crafts and even what the residents ate](/en/2026/11/19/jorvik-york-coppergate-escavacao/).
+At Coppergate, in York, the 1976–81 excavations revealed houses and workshops of Viking Jórvík. The fragile layers in the game are made up. Read the story in [Jórvík: Viking York and the Coppergate excavation that found houses, crafts and even what the residents ate](/jorvik-viking-york-and-the-coppergate-excavation-that-found/).

@@ -40,4 +40,4 @@ O poema segue com Regin criando Sigurd, forjando para ele a espada Gram e incita
 
 O poema não explica o que o anel faz nem como o ouro "multiplica" sozinho. Só diz que ele vale o resgate e que foi amaldiçoado duas vezes: por Andvari e por Loki. Tudo o que a tradição posterior acrescentou, como poderes mágicos do anel, deve ser lido como outra camada, e não como parte deste poema.
 
-Para apanhar, com uma bolsa, o ouro que cai do alto, deixando passar o anel marcado pela maldição, jogue [O ouro de Andvari](/jogo-o-ouro-de-andvari/).
+Para apanhar, com uma bolsa, o ouro que cai do alto, deixando passar o anel marcado pela maldição, jogue [O ouro de Andvari](/pt/jogo-o-ouro-de-andvari/).

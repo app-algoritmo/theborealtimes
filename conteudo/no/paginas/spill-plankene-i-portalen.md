@@ -23,4 +23,4 @@ De utskårne plankene i portalen er ute av rekkefølge. Skyv dem til de ligger i
 
 ## Historien bak
 
-Nordportalen i Urnes stavkirke har sammenflettede dyr og ga navn til urnesstilen. Å skyve planker i riktig rekkefølge er oppfunnet. Les historien i [Urnes: stavkirken i Norge og utskjæringsstilen som bærer navnet](/no/2027/02/28/urnes-a-igreja-de-madeira-da-noruega-e-o-estilo-que-leva-seu-nome/).
+Nordportalen i Urnes stavkirke har sammenflettede dyr og ga navn til urnesstilen. Å skyve planker i riktig rekkefølge er oppfunnet. Les historien i [Urnes: stavkirken i Norge og utskjæringsstilen som bærer navnet](/no/urnes-stavkirken-i-norge-og-utskjaeringsstilen-som-baerer/).

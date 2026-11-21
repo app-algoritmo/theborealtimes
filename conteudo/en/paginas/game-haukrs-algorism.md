@@ -23,4 +23,4 @@ Each round gives you four numbers and you must reach 24. Tap a number, then an o
 
 ## The story behind it
 
-The Hauksbók was put together by Haukr Erlendsson, around 1302 to 1310 according to the study of the handwriting, and gathers the Landnámabók, Eiríks saga rauða, the Völuspá and a mathematics section, the Algorismus. The game is invented. Read the story in [Hauksbók, the book of Haukr Erlendsson: the manuscript that gathers the Landnámabók, the Völuspá and a treatise on arithmetic](/en/2027/01/17/hauksbok-haukr-erlendsson-manuscrito-landnamabok/).
+The Hauksbók was put together by Haukr Erlendsson, around 1302 to 1310 according to the study of the handwriting, and gathers the Landnámabók, Eiríks saga rauða, the Völuspá and a mathematics section, the Algorismus. The game is invented. Read the story in [Hauksbók, the book of Haukr Erlendsson: the manuscript that gathers the Landnámabók, the Völuspá and a treatise on arithmetic](/hauksbok-the-book-of-haukr-erlendsson-the-manuscript/).

@@ -23,4 +23,4 @@ På et brett med 7 kolonner og 6 rader slipper du og motstanderen brikker, én o
 
 ## Historien bak
 
-Jón Árnason (1819–1888) var den første bibliotekaren i det som ble Islands nasjonalbibliotek. Samlingen hans, Íslenzkar þjóðsögur og æfintýri, kom ut i to bind, i 1862 og 1864. Spillet er oppfunnet. Les historien i [Jón Árnason og de islandske folkeeventyrene: samlingen utgitt i Leipzig i 1862 og 1864](/no/2027/01/17/jon-arnason-contos-populares-islandeses-leipzig-1862/).
+Jón Árnason (1819–1888) var den første bibliotekaren i det som ble Islands nasjonalbibliotek. Samlingen hans, Íslenzkar þjóðsögur og æfintýri, kom ut i to bind, i 1862 og 1864. Spillet er oppfunnet. Les historien i [Jón Árnason og de islandske folkeeventyrene: samlingen utgitt i Leipzig i 1862 og 1864](/no/jon-arnason-og-de-islandske-folkeeventyrene-samlingen/).

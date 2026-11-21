@@ -23,4 +23,4 @@ As cartas estão viradas para baixo, e cada símbolo aparece em duas cartas. Toq
 
 ## A história por trás
 
-Na Grímnismál, o esquilo Ratatoskr corre para cima e para baixo em Yggdrasil e leva mensagens entre a águia, no alto, e Níðhöggr, embaixo. Achar pares de cartas é invenção. Leia a história em [Ratatoskr: o esquilo que corre pela Yggdrasil levando mensagens entre a águia e Níðhöggr](/2027/02/21/ratatoskr-esquilo-de-yggdrasil-mensagens-entre-a-aguia-e-nidhoggr/).
+Na Grímnismál, o esquilo Ratatoskr corre para cima e para baixo em Yggdrasil e leva mensagens entre a águia, no alto, e Níðhöggr, embaixo. Achar pares de cartas é invenção. Leia a história em [Ratatoskr: o esquilo que corre pela Yggdrasil levando mensagens entre a águia e Níðhöggr](/pt/ratatoskr-esquilo-de-yggdrasil-mensagens-entre-a-aguia-e-nidhoggr/).

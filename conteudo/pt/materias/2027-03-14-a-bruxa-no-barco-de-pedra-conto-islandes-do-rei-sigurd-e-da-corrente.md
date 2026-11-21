@@ -53,4 +53,4 @@ Uma troll chega num barco de pedra, toma o lugar da rainha e prende a verdadeira
 
 O sentido de *steinnökkvi* é incerto. O tipo do conto, o ATU 462, tem parentes em outros países, e não se sabe quando a versão islandesa foi composta.
 
-Para cortar o elo brilhante da corrente quando ele passa sob a espada, jogue [A corrente da rainha](/jogo-a-corrente-da-rainha/).
+Para cortar o elo brilhante da corrente quando ele passa sob a espada, jogue [A corrente da rainha](/pt/jogo-a-corrente-da-rainha/).

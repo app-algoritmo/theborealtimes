@@ -23,4 +23,4 @@ Grunnen til borgen er delt i jordblokker. Trykk på en blokk for å grave. Hver 
 
 ## Historien bak
 
-Fyrkat ble gravd ut fra 1950 til 1958 og har 16 langhus og omtrent 30 graver. De skjulte funnene i spillet er oppfunnet. Les historien i [Fyrkat: ringborgen fra vikingtiden ved Hobro i Danmark, rundt 980](/no/2027/03/07/fyrkat-o-forte-circular-viking-perto-de-hobro-na-dinamarca-por-volta-de-980/).
+Fyrkat ble gravd ut fra 1950 til 1958 og har 16 langhus og omtrent 30 graver. De skjulte funnene i spillet er oppfunnet. Les historien i [Fyrkat: ringborgen fra vikingtiden ved Hobro i Danmark, rundt 980](/no/fyrkat-ringborgen-fra-vikingtiden-ved-hobro-i-danmark-rundt/).

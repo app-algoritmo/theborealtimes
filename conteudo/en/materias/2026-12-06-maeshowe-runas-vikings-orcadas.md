@@ -37,4 +37,4 @@ It is not known whether the treasure the runes speak of really existed, nor what
 
 Maeshowe is a place where two ages separated by millennia meet. For the Norse of the 12th century it was a mysterious mound, tied to stories of treasure and hauntings. For us it is a rare direct record of ordinary people writing by hand, in a joking tone, about what interested them.
 
-To decode, by guesses and clues, a secret sequence of four runes, play [The chamber of Maeshowe](/en/game-the-chamber-of-maeshowe/).
+To decode, by guesses and clues, a secret sequence of four runes, play [The chamber of Maeshowe](/game-the-chamber-of-maeshowe/).

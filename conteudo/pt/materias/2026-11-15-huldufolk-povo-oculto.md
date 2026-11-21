@@ -37,4 +37,4 @@ O álfhóll, a colina dos elfos, é um conceito reconhecido, e há mapas com cas
 
 Para os estudiosos, o huldufólk mostra como uma sociedade moderna pode manter uma relação respeitosa com a paisagem. Tratar uma rocha como lar de alguém é uma forma de pedir licença a um lugar antes de transformá-lo, e a disposição de desviar uma estrada é só a sua expressão mais visível.
 
-Para desviar a estrada das rochas, jogue [Desvie a estrada](/jogo-desvie-a-estrada/).
+Para desviar a estrada das rochas, jogue [Desvie a estrada](/pt/jogo-desvie-a-estrada/).

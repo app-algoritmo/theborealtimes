@@ -23,4 +23,4 @@ Hold your finger (or the space bar) to fill the power bar and release to throw. 
 
 ## The story behind it
 
-According to the Book of Settlements, Ingólfr threw his high-seat pillars into the sea and settled where they came ashore. The wind and the bay in the game are made up. Read the story in [Ingólfr Arnarson and the high-seat pillars: how tradition tells the founding of Reykjavík](/en/2026/11/17/ingolfr-arnarson-pilares-reykjavik/).
+According to the Book of Settlements, Ingólfr threw his high-seat pillars into the sea and settled where they came ashore. The wind and the bay in the game are made up. Read the story in [Ingólfr Arnarson and the high-seat pillars: how tradition tells the founding of Reykjavík](/ingolfr-arnarson-and-the-high-seat-pillars-how-tradition/).

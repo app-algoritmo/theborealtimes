@@ -23,4 +23,4 @@ Each player has three stones. First you place the stones, one at a time, on free
 
 ## The story behind it
 
-In the tale Gudbrand i Lia, the farmer trades the cow for a horse, the horse for a pig, and so on, until he is left with nothing. Even so he wins the bet, because his wife praises every trade. Playing three in a row is invented. Read the story in [Gudbrand on the Hill-side: the farmer who traded the cow down to nothing and still won the bet](/en/2027/01/31/gudbrand-da-encosta-asbjornsen-moe-troca-vaca/).
+In the tale Gudbrand i Lia, the farmer trades the cow for a horse, the horse for a pig, and so on, until he is left with nothing. Even so he wins the bet, because his wife praises every trade. Playing three in a row is invented. Read the story in [Gudbrand on the Hill-side: the farmer who traded the cow down to nothing and still won the bet](/gudbrand-on-the-hill-side-the-farmer-who-traded-the-cow/).

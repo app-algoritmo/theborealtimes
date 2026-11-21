@@ -48,4 +48,4 @@ Um tesouro de ouro do século X, achado depois de uma cheia, tem pingentes que m
 
 Não se sabe quem fez o conjunto nem a quem ele pertencia. A ligação com Harald Dente Azul é só uma possibilidade, e as moedas de Rügen não a confirmam. A mistura de martelo e cruz não vem explicada nas fontes. O texto jornalístico traz a declaração de Michael Schirren, que diz só que a ligação é possível, e isso não é uma conclusão firme.
 
-Para separar as peças por cor em tubos, como num cofre de ouro, jogue [Os pingentes de Hiddensee](/jogo-os-pingentes-de-hiddensee/).
+Para separar as peças por cor em tubos, como num cofre de ouro, jogue [Os pingentes de Hiddensee](/pt/jogo-os-pingentes-de-hiddensee/).

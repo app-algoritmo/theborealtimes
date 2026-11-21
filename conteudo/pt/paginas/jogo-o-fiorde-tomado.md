@@ -23,4 +23,4 @@ Você começa no canto de cima, à esquerda. Toque numa cor para pintar toda a s
 
 ## A história por trás
 
-Em 25 de março de 1016, Domingo de Ramos, Olav Haraldsson derrotou Sveinn Hákonarson em Nesjar; o local é indicado pela tradição. Pintar o fiorde é invenção. Leia a história em [A batalha de Nesjar, em 1016: Olav Haraldsson contra Sveinn Hákonarson](/2027/02/14/batalha-de-nesjar-olav-haraldsson-sveinn-hakonarson-1016/).
+Em 25 de março de 1016, Domingo de Ramos, Olav Haraldsson derrotou Sveinn Hákonarson em Nesjar; o local é indicado pela tradição. Pintar o fiorde é invenção. Leia a história em [A batalha de Nesjar, em 1016: Olav Haraldsson contra Sveinn Hákonarson](/pt/batalha-de-nesjar-olav-haraldsson-sveinn-hakonarson-1016/).

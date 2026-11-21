@@ -23,4 +23,4 @@ En markør går fram og tilbake på en stolpe. Trykk (eller trykk på mellomroms
 
 ## Historien bak
 
-Keiser Konstantin VII beskrev omkring 950 hvordan rusene bar eller dro båtene sine over land ved strykene på veien til Svartehavet. Spillet er en forenkling: markøren, tauet og tidsgrensen er diktet opp. Les historien i [Væringgarden: vikingene som beskyttet keiseren i Konstantinopel](/no/2026/11/13/guarda-varegue/).
+Keiser Konstantin VII beskrev omkring 950 hvordan rusene bar eller dro båtene sine over land ved strykene på veien til Svartehavet. Spillet er en forenkling: markøren, tauet og tidsgrensen er diktet opp. Les historien i [Væringgarden: vikingene som beskyttet keiseren i Konstantinopel](/no/vaeringgarden-vikingene-som-beskyttet-keiseren/).

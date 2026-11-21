@@ -23,4 +23,4 @@ Uma fileira de guerreiros de alturas diferentes está fora de ordem. Toque num g
 
 ## A história por trás
 
-A Hlöðskviða conta a guerra entre os irmãos Angantýr e Hlöðr pela herança do rei godo Heiðrekr; Hlöðr foi criado entre os hunos. O poema se preservou dentro da Hervarar saga. Ordenar guerreiros é invenção. Leia a história em [Hlöðskviða: a guerra de dois irmãos entre godos e hunos dentro da Hervarar saga](/2027/02/07/hlodskvida-godos-hunos-angantyr-hlodr/).
+A Hlöðskviða conta a guerra entre os irmãos Angantýr e Hlöðr pela herança do rei godo Heiðrekr; Hlöðr foi criado entre os hunos. O poema se preservou dentro da Hervarar saga. Ordenar guerreiros é invenção. Leia a história em [Hlöðskviða: a guerra de dois irmãos entre godos e hunos dentro da Hervarar saga](/pt/hlodskvida-godos-hunos-angantyr-hlodr/).

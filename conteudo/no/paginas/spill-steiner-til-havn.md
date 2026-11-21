@@ -23,4 +23,4 @@ Styr Absalons skip gjennom sundet. Trykk på venstre eller høyre side av skjerm
 
 ## Historien bak
 
-I 1167 grunnla biskop Absalon ifølge Saxo en borg ved Havn, på øya Slotsholmen, og byen København vokste fram rundt den. Sundet fullt av grunner er oppfunnet. Les historien i [Absalon grunnlegger borgen Havn i 1167, der København begynte](/no/2027/03/14/absalon-funda-o-castelo-de-havn-em-1167-onde-copenhague-comecou/).
+I 1167 grunnla biskop Absalon ifølge Saxo en borg ved Havn, på øya Slotsholmen, og byen København vokste fram rundt den. Sundet fullt av grunner er oppfunnet. Les historien i [Absalon grunnlegger borgen Havn i 1167, der København begynte](/no/absalon-grunnlegger-borgen-havn-i-1167-der-kobenhavn-begynte/).

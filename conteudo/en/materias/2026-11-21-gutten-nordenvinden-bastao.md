@@ -37,4 +37,4 @@ The North Wind, in the tale, is neither wholly good nor wholly bad. He errs, and
 
 It is worth remembering that winds appear as characters in many traditions, and that in Norway the north wind was a real presence, bringing cold and storms. Turning it into someone who can err, be called to account and still make up for the damage is a way of dealing with the uncertainty of the weather. The humour of the tale helps make this relationship lighter.
 
-To teach the innkeeper a lesson, ordering the cudgel to strike whoever dares to appear, play [The North Wind's cudgel](/en/game-the-north-winds-cudgel/).
+To teach the innkeeper a lesson, ordering the cudgel to strike whoever dares to appear, play [The North Wind's cudgel](/game-the-north-winds-cudgel/).

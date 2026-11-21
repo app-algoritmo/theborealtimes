@@ -23,4 +23,4 @@ Det finnes en hemmelig rekkefølge av 4 runer, av 6 mulige typer (de kan gjentas
 
 ## Historien bak
 
-I Maeshowe på Orknøyene la vikinger igjen runeinnskrifter på veggene. Den hemmelige rekkefølgen er diktet opp. Les historien i [Maeshowe: femtusen år gammel grav der nordboere skrev på veggene](/no/2026/12/06/maeshowe-runas-vikings-orcadas/).
+I Maeshowe på Orknøyene la vikinger igjen runeinnskrifter på veggene. Den hemmelige rekkefølgen er diktet opp. Les historien i [Maeshowe: femtusen år gammel grav der nordboere skrev på veggene](/no/maeshowe-femtusen-ar-gammel-grav-der-nordboere-skrev/).

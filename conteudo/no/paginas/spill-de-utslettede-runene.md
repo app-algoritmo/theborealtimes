@@ -23,4 +23,4 @@ Trykk på en rute for å gjøre den mørk, og igjen for å gjøre den lys. Gjør
 
 ## Historien bak
 
-Kensington-runesteinen, meldt funnet i 1898 av Olof Ohman i Minnesota, har en runeinnskrift datert 1362. De fleste forskere mener den er en forfalskning fra 1800-tallet. Å sverte ut tall er oppfunnet. Les historien i [Kensington-runesteinen: runeinnskriften fra 1362 som ble funnet i Minnesota i 1898](/no/2027/01/31/pedra-de-kensington-minnesota-runas-1898-1362/).
+Kensington-runesteinen, meldt funnet i 1898 av Olof Ohman i Minnesota, har en runeinnskrift datert 1362. De fleste forskere mener den er en forfalskning fra 1800-tallet. Å sverte ut tall er oppfunnet. Les historien i [Kensington-runesteinen: runeinnskriften fra 1362 som ble funnet i Minnesota i 1898](/no/kensington-runesteinen-runeinnskriften-fra-1362-som-ble/).

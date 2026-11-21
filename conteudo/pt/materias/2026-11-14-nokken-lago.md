@@ -37,4 +37,4 @@ O nøkken tem parentes em outros lugares. O näcken sueco também toca violino e
 
 Essas histórias circulavam de boca em boca, e cada região tinha a sua versão, com detalhes próprios sobre a aparência e os hábitos da criatura.
 
-Para tentar espantá-lo, jogue [O nome do Nøkken](/jogo-o-nome-do-nokken/).
+Para tentar espantá-lo, jogue [O nome do Nøkken](/pt/jogo-o-nome-do-nokken/).

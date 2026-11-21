@@ -23,4 +23,4 @@ Comece pelo canto de cima, à esquerda. A cada jogada, escolha uma cor: seu terr
 
 ## A história por trás
 
-Cnut governou a Inglaterra, a Dinamarca e a Noruega. A lenda da maré é conhecida, mas o quebra-cabeça é invenção do jogo. Leia a história em [Cnut, o Grande, e o Império do Mar do Norte: o rei que governou Inglaterra, Dinamarca e Noruega](/2026/11/18/cnut-imperio-mar-do-norte/).
+Cnut governou a Inglaterra, a Dinamarca e a Noruega. A lenda da maré é conhecida, mas o quebra-cabeça é invenção do jogo. Leia a história em [Cnut, o Grande, e o Império do Mar do Norte: o rei que governou Inglaterra, Dinamarca e Noruega](/pt/cnut-imperio-mar-do-norte/).

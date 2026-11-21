@@ -23,4 +23,4 @@ Há 16 cartas viradas para baixo, formando 8 pares de objetos. Vire duas por vez
 
 ## A história por trás
 
-A tumba Bj 581 de Birka foi escavada no século XIX, e o esqueleto foi lido como o de um guerreiro. Em 2017, o DNA mostrou que era de uma mulher. Ainda se debate o que ela fazia em vida. O jogo de pares é invenção. Leia a história em [A guerreira de Birka: o túmulo escavado em 1878 e o debate que o DNA reabriu em 2017](/2026/11/14/guerreira-birka/).
+A tumba Bj 581 de Birka foi escavada no século XIX, e o esqueleto foi lido como o de um guerreiro. Em 2017, o DNA mostrou que era de uma mulher. Ainda se debate o que ela fazia em vida. O jogo de pares é invenção. Leia a história em [A guerreira de Birka: o túmulo escavado em 1878 e o debate que o DNA reabriu em 2017](/pt/guerreira-birka/).

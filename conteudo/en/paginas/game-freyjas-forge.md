@@ -23,4 +23,4 @@ The four anvils glow in an order. Watch and repeat by tapping the same anvils (o
 
 ## The story behind it
 
-In the *Sörla þáttr*, preserved in a manuscript from the late 14th century, four dwarfs forge the necklace Freyja wants. The rhythm forge is the game’s invention, and the original text is hostile in tone to the goddess. Read the story in [Freyja and the Brísingamen necklace: what the Norse sources say about the goddess's jewel](/en/2026/11/13/freyja-brisingamen/).
+In the *Sörla þáttr*, preserved in a manuscript from the late 14th century, four dwarfs forge the necklace Freyja wants. The rhythm forge is the game’s invention, and the original text is hostile in tone to the goddess. Read the story in [Freyja and the Brísingamen necklace: what the Norse sources say about the goddess's jewel](/freyja-and-the-brisingamen-necklace-what-the-norse-sources/).

@@ -41,4 +41,4 @@ Ninguém pode dizer que Heorot tenha sido aquele salão. Mas o poema mostra que 
 
 O único manuscrito antigo do poema, o Cotton Vitellius A.xv, está hoje na Biblioteca Britânica. Em 1731, um incêndio na casa onde ficava a coleção chamuscou as bordas das páginas, e parte do texto só foi lida com ajuda de cópias feitas depois. O nome do poeta é desconhecido. Em 1936, o professor J. R. R. Tolkien deu uma conferência famosa em que defendia que os monstros eram o coração do poema, e não um enfeite.
 
-Para arrancar o braço de Grendel antes que ele escape, jogue [O braço de Grendel](/jogo-o-braco-de-grendel/).
+Para arrancar o braço de Grendel antes que ele escape, jogue [O braço de Grendel](/pt/jogo-o-braco-de-grendel/).

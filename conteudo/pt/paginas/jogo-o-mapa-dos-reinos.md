@@ -23,4 +23,4 @@ O mapa está dividido em reinos. Toque num reino para pintá-lo: cada toque muda
 
 ## A história por trás
 
-A Knýtlinga saga, escrita por volta de 1250, conta a história dos reis da Dinamarca desde Harald Dente Azul até o fim do século XII. Colorir mapas é invenção. Leia a história em [Knýtlinga saga: os reis da Dinamarca de Harald Dente Azul ao século XII, escritos na Islândia](/2027/01/31/knytlinga-saga-reis-da-dinamarca-harald-valdemar/).
+A Knýtlinga saga, escrita por volta de 1250, conta a história dos reis da Dinamarca desde Harald Dente Azul até o fim do século XII. Colorir mapas é invenção. Leia a história em [Knýtlinga saga: os reis da Dinamarca de Harald Dente Azul ao século XII, escritos na Islândia](/pt/knytlinga-saga-reis-da-dinamarca-harald-valdemar/).

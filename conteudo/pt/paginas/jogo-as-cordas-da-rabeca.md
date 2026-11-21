@@ -23,4 +23,4 @@ No porão do casamento, as notas da Fanitullen descem pelas quatro cordas da rab
 
 ## A história por trás
 
-Segundo o artigo do Norsk Kornølfestival, a Fanitullen é uma melodia de rabeca ligada à lenda de um violinista diabólico num casamento em Hol, em 1724. As notas que descem pelas cordas são invenção. Leia a história em [Fanitullen: a melodia do diabo e a briga do casamento de Hol em 1724](/2027/03/21/fanitullen-a-melodia-do-diabo-e-a-briga-do-casamento-de-hol-em-1724/).
+Segundo o artigo do Norsk Kornølfestival, a Fanitullen é uma melodia de rabeca ligada à lenda de um violinista diabólico num casamento em Hol, em 1724. As notas que descem pelas cordas são invenção. Leia a história em [Fanitullen: a melodia do diabo e a briga do casamento de Hol em 1724](/pt/fanitullen-a-melodia-do-diabo-e-a-briga-do-casamento-de-hol-em-1724/).

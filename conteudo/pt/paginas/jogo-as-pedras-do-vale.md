@@ -23,4 +23,4 @@ Cada casa do quadro 6 por 6 leva uma pedra clara ou escura. Toque numa casa para
 
 ## A história por trás
 
-A Vatnsdæla saga é uma crônica familiar sobre o vale de Vatnsdalur, no norte da Islândia. Ingimundr Þorsteinsson, que lutou por Haroldo Cabelo Belo em Hafrsfjord, muda-se para lá por instigação de uma feiticeira. As pedras claras e escuras são invenção. Leia a história em [Vatnsdæla saga: a crônica de uma família no vale de Vatnsdalur, no norte da Islândia](/2027/01/24/vatnsdaela-saga-ingimundr-vale-vatnsdalur-islandia/).
+A Vatnsdæla saga é uma crônica familiar sobre o vale de Vatnsdalur, no norte da Islândia. Ingimundr Þorsteinsson, que lutou por Haroldo Cabelo Belo em Hafrsfjord, muda-se para lá por instigação de uma feiticeira. As pedras claras e escuras são invenção. Leia a história em [Vatnsdæla saga: a crônica de uma família no vale de Vatnsdalur, no norte da Islândia](/pt/vatnsdaela-saga-ingimundr-vale-vatnsdalur-islandia/).

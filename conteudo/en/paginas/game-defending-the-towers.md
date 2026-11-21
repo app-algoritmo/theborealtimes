@@ -23,4 +23,4 @@ Enemy ships sail up the Arousa estuary. A power gauge swings back and forth at t
 
 ## The story behind it
 
-At Catoira in Galicia, the Western Towers guarded the entrance to the Arousa estuary against attacks from the sea, and every August the Viking Pilgrimage reenacts the attack and the defence. The stone throwing is invented. Read the story in [Catoira: the Torres de Oeste and the Viking Pilgrimage of Galicia](/en/2027/03/14/catoira-as-torres-de-oeste-e-a-romaria-vikinga-da-galicia/).
+At Catoira in Galicia, the Western Towers guarded the entrance to the Arousa estuary against attacks from the sea, and every August the Viking Pilgrimage reenacts the attack and the defence. The stone throwing is invented. Read the story in [Catoira: the Torres de Oeste and the Viking Pilgrimage of Galicia](/catoira-the-torres-de-oeste-and-the-viking-pilgrimage/).

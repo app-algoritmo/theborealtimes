@@ -41,4 +41,4 @@ No one can say that Heorot was that hall. But the poem shows that the hall was, 
 
 The only old manuscript of the poem, Cotton Vitellius A.xv, is now in the British Library. In 1731 a fire in the house where the collection was kept scorched the edges of the pages, and part of the text could only be read with the help of copies made afterwards. The poet's name is unknown. In 1936 Professor J. R. R. Tolkien gave a famous lecture arguing that the monsters were the heart of the poem, not decoration.
 
-To tear off Grendel's arm before he escapes, play [Grendel's arm](/en/game-grendels-arm/).
+To tear off Grendel's arm before he escapes, play [Grendel's arm](/game-grendels-arm/).

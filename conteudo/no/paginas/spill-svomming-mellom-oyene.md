@@ -23,4 +23,4 @@ Bytt mellom tak: trykk på venstre og høyre side av skjermen, én om gangen (el
 
 ## Historien bak
 
-Færøyingenes saga forteller om en mann som slapp unna ved å svømme. Ruten og målene i spillet er diktet opp. Les historien i [Færøyingenes saga: Sigmundur, Tróndur og flukten svømmende mellom øyene](/no/2026/11/22/foroyinga-saga-sigmundur-nado/).
+Færøyingenes saga forteller om en mann som slapp unna ved å svømme. Ruten og målene i spillet er diktet opp. Les historien i [Færøyingenes saga: Sigmundur, Tróndur og flukten svømmende mellom øyene](/no/faeroyingenes-saga-sigmundur-trondur-og-flukten-svommende/).

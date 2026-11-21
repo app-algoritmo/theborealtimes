@@ -23,4 +23,4 @@ Som Hønir blant vanene bytter du med en partner i 10 runder. I hver runde velge
 
 ## Historien bak
 
-I Ynglingesaga blir Hønir og Mímir sendt til vanene som gisler etter krigen mellom æsene og vanene; Hønir blir straks gjort til høvding, men er avhengig av Mímir for å bestemme. Byttene er oppfunnet. Les historien i [Hønir, guden som hjelper til å skape menneskene og er avhengig av Mímir: hva kildene sier](/no/2027/01/24/hoenir-deus-aesir-criacao-refem-lokka-tattur/).
+I Ynglingesaga blir Hønir og Mímir sendt til vanene som gisler etter krigen mellom æsene og vanene; Hønir blir straks gjort til høvding, men er avhengig av Mímir for å bestemme. Byttene er oppfunnet. Les historien i [Hønir, guden som hjelper til å skape menneskene og er avhengig av Mímir: hva kildene sier](/no/honir-guden-som-hjelper-til-a-skape-menneskene-og-er/).

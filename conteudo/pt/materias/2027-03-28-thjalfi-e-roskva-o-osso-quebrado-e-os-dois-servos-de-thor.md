@@ -44,4 +44,4 @@ Num capítulo da Edda em prosa, Thor come seus bodes numa fazenda, mas o osso da
 
 A tradução que li não diz por que Thor ressuscita os bodes por meio do martelo, nem explica a proibição de quebrar os ossos. Também não diz o que Thjálfi pensou ao quebrar o osso, nem se o fazendeiro sabia da regra. O texto apenas conta o que cada um fez e o preço que Thor cobrou.
 
-Para pôr os ossos sobre as peles sem tocar no osso da coxa, jogue [Os ossos sobre a pele](/jogo-os-ossos-sobre-a-pele/).
+Para pôr os ossos sobre as peles sem tocar no osso da coxa, jogue [Os ossos sobre a pele](/pt/jogo-os-ossos-sobre-a-pele/).

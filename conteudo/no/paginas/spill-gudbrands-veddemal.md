@@ -23,4 +23,4 @@ Hver spiller har tre steiner. Først plasserer dere steinene, én om gangen, på
 
 ## Historien bak
 
-I eventyret Gudbrand i Lia bytter bonden bort kua mot en hest, hesten mot en gris, og så videre, til han står igjen med ingenting. Likevel vinner han veddemålet, fordi kona roser hvert bytte. Å spille tre på rad er oppfunnet. Les historien i [Gudbrand i Lia: bonden som byttet bort kua til han satt igjen med ingenting og likevel vant veddemålet](/no/2027/01/31/gudbrand-da-encosta-asbjornsen-moe-troca-vaca/).
+I eventyret Gudbrand i Lia bytter bonden bort kua mot en hest, hesten mot en gris, og så videre, til han står igjen med ingenting. Likevel vinner han veddemålet, fordi kona roser hvert bytte. Å spille tre på rad er oppfunnet. Les historien i [Gudbrand i Lia: bonden som byttet bort kua til han satt igjen med ingenting og likevel vant veddemålet](/no/gudbrand-i-lia-bonden-som-byttet-bort-kua-til-han-satt/).

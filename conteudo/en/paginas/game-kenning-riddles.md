@@ -23,4 +23,4 @@ Read the expression and tap the right answer (or use keys 1, 2 and 3). Each ridd
 
 ## The story behind it
 
-The skalds used kennings, expressions such as "whale-road" for the sea. The riddles in the game follow that model. Read the story in [Kennings: how the skalds spoke of gold, ships and battles without saying the word](/en/2026/11/17/kennings-poesia-escaldica/).
+The skalds used kennings, expressions such as "whale-road" for the sea. The riddles in the game follow that model. Read the story in [Kennings: how the skalds spoke of gold, ships and battles without saying the word](/kennings-how-the-skalds-spoke-of-gold-ships-and-battles/).

@@ -23,4 +23,4 @@ Notas descem por 4 pistas. Toque na pista (ou use ← ↓ ↑ →) quando a nota
 
 ## A história por trás
 
-Na balada dinamarquesa de Herr Oluf, as elfas convidam o cavaleiro para dançar até o amanhecer. A melodia do jogo é invenção. Leia a história em [Elveskud: a balada do cavaleiro que recusou dançar com as elfas](/2026/12/06/elveskud-herr-oluf-danca-das-elfas/).
+Na balada dinamarquesa de Herr Oluf, as elfas convidam o cavaleiro para dançar até o amanhecer. A melodia do jogo é invenção. Leia a história em [Elveskud: a balada do cavaleiro que recusou dançar com as elfas](/pt/elveskud-herr-oluf-danca-das-elfas/).

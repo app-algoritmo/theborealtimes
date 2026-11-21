@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-Jørgen Moe skrev ned eventyret om Mestermøy, jenta som hjelper kongssønnen med kjempens oppgaver, etter fortelleren Anne Godlid, i Seljord, høsten 1842. Puslespillet er oppfunnet. Les historien i [Mestermøy, mesterjenta: eventyret til Asbjørnsen og Moe og «den magiske flukten»](/no/2027/01/17/mestermoy-donzela-mestra-asbjornsen-moe-conto/).
+Jørgen Moe skrev ned eventyret om Mestermøy, jenta som hjelper kongssønnen med kjempens oppgaver, etter fortelleren Anne Godlid, i Seljord, høsten 1842. Puslespillet er oppfunnet. Les historien i [Mestermøy, mesterjenta: eventyret til Asbjørnsen og Moe og «den magiske flukten»](/no/mestermoy-mesterjenta-eventyret-til-asbjornsen-og-moe/).

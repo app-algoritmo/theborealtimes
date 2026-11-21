@@ -23,4 +23,4 @@ Uma mensagem foi trocada por uma sequência secreta de selos coloridos, e a mesm
 
 ## A história por trás
 
-Na Bjarnar saga Hítdœlakappa, Þórðr falsifica a mensagem em que Björn pedia Oddný em casamento, espalha que ele morreu e casa com ela. Decifrar selos é invenção. Leia a história em [Bjarnar saga Hítdœlakappa: dois poetas, uma mulher e uma disputa fatal](/2027/02/14/bjarnar-saga-hitdaelakappa-bjorn-thordr-oddny/).
+Na Bjarnar saga Hítdœlakappa, Þórðr falsifica a mensagem em que Björn pedia Oddný em casamento, espalha que ele morreu e casa com ela. Decifrar selos é invenção. Leia a história em [Bjarnar saga Hítdœlakappa: dois poetas, uma mulher e uma disputa fatal](/pt/bjarnar-saga-hitdaelakappa-bjorn-thordr-oddny/).

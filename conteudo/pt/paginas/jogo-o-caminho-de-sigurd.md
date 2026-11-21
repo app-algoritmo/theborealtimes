@@ -23,4 +23,4 @@ Toque numa casa vazia para pôr uma pedra dourada. Ligue a margem da esquerda à
 
 ## A história por trás
 
-Segundo as sagas, o rei Sigurd cruzou a Europa até Jerusalém. O jogo de ligar margens é invenção. Leia a história em [Sigurd Jorsalfar: o rei norueguês que cruzou a Europa, atacou perto de Lisboa e chegou a Jerusalém](/2026/11/22/sigurd-jorsalfar-cruzada-lisboa-1108/).
+Segundo as sagas, o rei Sigurd cruzou a Europa até Jerusalém. O jogo de ligar margens é invenção. Leia a história em [Sigurd Jorsalfar: o rei norueguês que cruzou a Europa, atacou perto de Lisboa e chegou a Jerusalém](/pt/sigurd-jorsalfar-cruzada-lisboa-1108/).

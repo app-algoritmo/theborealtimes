@@ -23,4 +23,4 @@ Dra fingeren (eller bruk ← →) for å flytte posen og fange gullmyntene som f
 
 ## Historien bak
 
-I Reginsmál betaler gudene løsepengene for Otr med Andvaris gull, og ringen Andvaranaut bærer forbannelsen. Posen som fanger gull, er diktet opp. Les historien i [Reginsmál: Andvari, ringen Andvaranaut og forbannelsen over gullet](/no/2026/12/20/reginsmal-andvari-anel-maldito-ouro/).
+I Reginsmál betaler gudene løsepengene for Otr med Andvaris gull, og ringen Andvaranaut bærer forbannelsen. Posen som fanger gull, er diktet opp. Les historien i [Reginsmál: Andvari, ringen Andvaranaut og forbannelsen over gullet](/no/reginsmal-andvari-ringen-andvaranaut-og-forbannelsen/).

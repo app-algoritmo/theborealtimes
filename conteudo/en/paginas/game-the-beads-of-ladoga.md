@@ -23,4 +23,4 @@ Tap an empty cell to place a golden bead; your opponent places blue beads. Whoev
 
 ## The story behind it
 
-Staraya Ladoga (Aldeigjuborg) was, from the 8th century, a centre of trade and crafts. The bead-lining game is made up. Read the story in [Staraya Ladoga: the trading post on the Volkhov where glass beads were made](/en/2026/11/29/staraya-ladoga-aldeigjuborg-contas-de-vidro/).
+Staraya Ladoga (Aldeigjuborg) was, from the 8th century, a centre of trade and crafts. The bead-lining game is made up. Read the story in [Staraya Ladoga: the trading post on the Volkhov where glass beads were made](/staraya-ladoga-the-trading-post-on-the-volkhov-where-glass/).

@@ -23,4 +23,4 @@ Hver rute skjuler et stykke skog. Trykk for å tråkke: tallet sier hvor mange v
 
 ## Historien bak
 
-I finsk tradisjon er Tapio herre over skogen og viltet. De villedende omveiene i spillet er diktet opp. Les historien i [Tapio, herren over den finske skogen, og trolldommen med å gå seg bort mellom trærne](/no/2026/11/21/tapio-senhor-da-floresta-metsanpeitto/).
+I finsk tradisjon er Tapio herre over skogen og viltet. De villedende omveiene i spillet er diktet opp. Les historien i [Tapio, herren over den finske skogen, og trolldommen med å gå seg bort mellom trærne](/no/tapio-herren-over-den-finske-skogen-og-trolldommen-med-a-ga/).

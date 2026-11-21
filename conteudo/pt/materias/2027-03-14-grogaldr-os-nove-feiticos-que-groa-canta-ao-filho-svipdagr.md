@@ -41,4 +41,4 @@ Svipdagr acorda a mãe, Gróa, e ela lhe dá nove feitiços de proteção: contr
 
 O segundo feitiço é difícil de traduzir, e Hollander admite dúvida. A data de composição é discutida. Também se debate se a Gróa deste poema é a mesma que cura Thor no mito de Hrungnir, como alguns estudiosos propõem.
 
-Para afastar cada perigo com o feitiço de mesma forma e cor, jogue [Os nove feitiços](/jogo-os-nove-feiticos/).
+Para afastar cada perigo com o feitiço de mesma forma e cor, jogue [Os nove feitiços](/pt/jogo-os-nove-feiticos/).

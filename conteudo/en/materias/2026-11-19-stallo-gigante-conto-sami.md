@@ -39,4 +39,4 @@ In archaeology there is a type of site called a *stállotomt*, a large, rectangu
 
 For those who tell it, the giant is a way of speaking of limits: what is brute force and what is intelligence, what one has and what one does. The moral of the small one who wins remains, and the giant serves as a mirror for vanity.
 
-To reach the end of the path without being seen when the giant looks back, play [Stállo's trail](/en/game-stallos-trail/).
+To reach the end of the path without being seen when the giant looks back, play [Stállo's trail](/game-stallos-trail/).

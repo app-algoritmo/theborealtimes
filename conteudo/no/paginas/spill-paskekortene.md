@@ -23,4 +23,4 @@ Barna utkledd som påskekjerringer har med seg kort som de bytter mot søtsaker.
 
 ## Historien bak
 
-Ifølge Nordiska museet kler svenske barn seg ut som påskekjerringer og ønsker god påske med kort, i håp om søtsaker eller en mynt. Kortene i spillet og parene er oppdiktet. Les historien i [Påskekjerringer i Sverige: fra Blåkulla til barn med påskekort](/no/2027/03/28/as-bruxas-da-pascoa-na-suecia-de-blakulla-as-criancas-com-cartoes-de-pascoa/).
+Ifølge Nordiska museet kler svenske barn seg ut som påskekjerringer og ønsker god påske med kort, i håp om søtsaker eller en mynt. Kortene i spillet og parene er oppdiktet. Les historien i [Påskekjerringer i Sverige: fra Blåkulla til barn med påskekort](/no/paskekjerringer-i-sverige-fra-blakulla-til-barn/).

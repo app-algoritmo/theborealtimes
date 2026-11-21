@@ -23,4 +23,4 @@ Hild and the Hjaðningar fight on without rest. Move your blade (drag, arrows or
 
 ## The story behind it
 
-According to the Skáldskaparmál, the Hjaðningar fight without end, night after night. The match in the game is made up. Read the story in [Hjaðningavíg, the eternal battle: Hild, Heðinn and Högni, the fight that restarts every night until the end of the world](/en/2026/11/19/hjadningavig-batalha-eterna-hild/).
+According to the Skáldskaparmál, the Hjaðningar fight without end, night after night. The match in the game is made up. Read the story in [Hjaðningavíg, the eternal battle: Hild, Heðinn and Högni, the fight that restarts every night until the end of the world](/hjadningavig-the-eternal-battle-hild-hedinn-and-hogni/).

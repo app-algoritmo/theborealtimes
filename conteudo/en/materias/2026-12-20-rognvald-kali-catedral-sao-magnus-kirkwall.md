@@ -41,4 +41,4 @@ In August 1158, Rögnvald and eight men were killed by Thorbjörn Klerk, a forme
 
 Uncertain remain the exact place of birth, the financing of the cathedral, any vow and the canonisation: the page says Pope Celestine III canonised him in 1192, but notes that apparently no surviving record confirms it.
 
-To fit falling blocks of stone, completing whole rows, until you have raised the walls of the cathedral, play [The cathedral of Kirkwall](/en/game-the-cathedral-of-kirkwall/).
+To fit falling blocks of stone, completing whole rows, until you have raised the walls of the cathedral, play [The cathedral of Kirkwall](/game-the-cathedral-of-kirkwall/).

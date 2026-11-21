@@ -23,4 +23,4 @@ Each stone shows its weight (large number) and its value (number with a star). T
 
 ## The story behind it
 
-The Kalevipoeg, an Estonian epic compiled by Friedrich Reinhold Kreutzwald after 1850, tells of the deeds of a giant hero, among them stone-throwing. Choosing stones for the sack is invented. Read the story in [Kalevipoeg: Kreutzwald's Estonian epic, the giant hero and the thrown stones](/en/2027/01/31/kalevipoeg-epopeia-estoniana-kreutzwald/).
+The Kalevipoeg, an Estonian epic compiled by Friedrich Reinhold Kreutzwald after 1850, tells of the deeds of a giant hero, among them stone-throwing. Choosing stones for the sack is invented. Read the story in [Kalevipoeg: Kreutzwald's Estonian epic, the giant hero and the thrown stones](/kalevipoeg-kreutzwald-s-estonian-epic-the-giant-hero/).

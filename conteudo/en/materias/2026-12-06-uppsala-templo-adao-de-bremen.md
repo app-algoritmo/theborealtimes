@@ -35,4 +35,4 @@ In 1926 the archaeologist Sune Lindqvist found postholes under the church of Gam
 
 There are two lessons. The first is that the place was, without doubt, a political and religious centre. The second is that a single account, written from outside and with a purpose, must be read with care. Much of what is said today about "sacrifices every nine years" repeats Adam, with no other source to confirm it. Later, medieval sources said that King Inge the Elder had destroyed the temple in the 1080s, but no source of the time says so.
 
-To put in order nine sliding tiles on a three-by-three grid, play [The temple at Uppsala](/en/game-the-temple-at-uppsala/).
+To put in order nine sliding tiles on a three-by-three grid, play [The temple at Uppsala](/game-the-temple-at-uppsala/).

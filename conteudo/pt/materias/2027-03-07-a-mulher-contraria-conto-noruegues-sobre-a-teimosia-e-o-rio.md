@@ -39,4 +39,4 @@ Os títulos ingleses variam: "Goody 'Gainst-the-stream", de Dasent, "The Old Wom
 
 O verbete coloca o conto no tipo 901 do índice de Aarne, Thompson e Uther, "mulher teimosa que aprende a obedecer", e esse número deve ser conferido em outros catálogos. As datas das traduções também diferem dentro do verbete: Dasent aparece como 1859 no texto e 1874 nas citações. A idade do conto, antes da coleta, não é conhecida. O conto traz violência doméstica e deve ser lido como material folclórico, não como modelo.
 
-Para remar rio acima contra a correnteza, alternando os lados do barco, jogue [Contra a corrente](/jogo-contra-a-corrente/).
+Para remar rio acima contra a correnteza, alternando os lados do barco, jogue [Contra a corrente](/pt/jogo-contra-a-corrente/).

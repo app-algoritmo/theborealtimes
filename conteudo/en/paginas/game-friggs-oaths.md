@@ -23,4 +23,4 @@ Things of the world appear on screen for a few seconds: fire, water, iron, stone
 
 ## The story behind it
 
-Snorri Sturluson tells that Frigg took an oath from all things except a mistletoe sprout that seemed too young, and that it was with that sprout that Baldr died. The game shows the moment before the tragedy. The number of oaths, the clock and the choice to remember the mistletoe are made up. Read the story in [Baldr, the god nothing could harm, and the sprig of mistletoe nobody remembered to protect](/en/2026/11/13/baldr-visco/).
+Snorri Sturluson tells that Frigg took an oath from all things except a mistletoe sprout that seemed too young, and that it was with that sprout that Baldr died. The game shows the moment before the tragedy. The number of oaths, the clock and the choice to remember the mistletoe are made up. Read the story in [Baldr, the god nothing could harm, and the sprig of mistletoe nobody remembered to protect](/baldr-the-god-nothing-could-harm-and-the-sprig-of-mistletoe/).

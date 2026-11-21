@@ -37,4 +37,4 @@ The source says that most scholars date the tale to the 4th and 5th centuries. T
 
 The identities of persons, places and events have no clear answer among scholars. The source does not mention the sword Tyrfing or describe Hervör's fate beyond naming her among the casualties. One verse refers to a place name linked to "Danpar", which the source does not explain. The text also shows signs of different dates of composition, so the poem cannot be treated as the work of a single period.
 
-To put a line of warriors in order, from the shortest to the tallest, by swapping neighbours, play [The line of warriors](/en/game-the-line-of-warriors/).
+To put a line of warriors in order, from the shortest to the tallest, by swapping neighbours, play [The line of warriors](/game-the-line-of-warriors/).

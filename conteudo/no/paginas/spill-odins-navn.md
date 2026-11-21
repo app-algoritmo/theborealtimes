@@ -23,4 +23,4 @@ Styr gnisten gjennom salen. Piltaster eller WASD, eller trykk i retningen du vil
 
 ## Historien bak
 
-I Grímnismál sier Odin i forkledning mange av navnene sine, mellom to bål. Spillet med å samle navn er diktet opp. Les historien i [Grímnismál: Odin mellom to bål, mens han forteller om verden](/no/2026/11/29/grimnismal-odin-entre-fogos/).
+I Grímnismál sier Odin i forkledning mange av navnene sine, mellom to bål. Spillet med å samle navn er diktet opp. Les historien i [Grímnismál: Odin mellom to bål, mens han forteller om verden](/no/grimnismal-odin-mellom-to-bal-mens-han-forteller-om-verden/).

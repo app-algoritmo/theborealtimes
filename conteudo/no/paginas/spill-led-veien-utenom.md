@@ -23,4 +23,4 @@ Trykk på den grønne prikken og dra, uten å slippe, til den røde prikken. Rø
 
 ## Historien bak
 
-På Island har veiarbeid vært diskutert på grunn av steiner som sies å være hjem for det skjulte folket. Spillet leker med den tanken. Les historien i [Huldufólk: det skjulte folket som får veier lagt om i moderne Island](/no/2026/11/15/huldufolk-povo-oculto/).
+På Island har veiarbeid vært diskutert på grunn av steiner som sies å være hjem for det skjulte folket. Spillet leker med den tanken. Les historien i [Huldufólk: det skjulte folket som får veier lagt om i moderne Island](/no/huldufolk-det-skjulte-folket-som-far-veier-lagt-om/).

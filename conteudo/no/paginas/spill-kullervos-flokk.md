@@ -23,4 +23,4 @@ Dra fingeren (eller bruk piltastene / WASD) for å flytte gjeteren. Dyrene løpe
 
 ## Historien bak
 
-I Kalevala steller den slavebundne gjeteren Kullervo Ilmarinens buskap. Oppgaven med å drive dyrene inn i innhegningen er diktet opp. Les historien i [Kullervo: den unge slaven i *Kalevala* som gjorde ulver til en buskap](/no/2026/11/29/kullervo-kalevala-pastor-vingador/).
+I Kalevala steller den slavebundne gjeteren Kullervo Ilmarinens buskap. Oppgaven med å drive dyrene inn i innhegningen er diktet opp. Les historien i [Kullervo: den unge slaven i *Kalevala* som gjorde ulver til en buskap](/no/kullervo-den-unge-slaven-i-kalevala-som-gjorde-ulver/).

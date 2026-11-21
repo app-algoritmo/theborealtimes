@@ -23,4 +23,4 @@ Seis covas suas, na fileira de baixo, e seis do rival, na de cima; cada cova com
 
 ## A história por trás
 
-A Kormáks saga conta que Kormákr, poeta islandês do século X, ama Steingerðr; por causa de uma maldição ele chega tarde ao casamento e ela se casa com outro. O jogo de sementes com o rival é invenção. Leia a história em [Kormáks saga: o poeta Kormákr, Steingerðr e um casamento que chega tarde demais](/2027/01/24/kormaks-saga-kormakr-steingerdr-poeta-islandia/).
+A Kormáks saga conta que Kormákr, poeta islandês do século X, ama Steingerðr; por causa de uma maldição ele chega tarde ao casamento e ela se casa com outro. O jogo de sementes com o rival é invenção. Leia a história em [Kormáks saga: o poeta Kormákr, Steingerðr e um casamento que chega tarde demais](/pt/kormaks-saga-kormakr-steingerdr-poeta-islandia/).

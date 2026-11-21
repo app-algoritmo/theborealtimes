@@ -43,4 +43,4 @@ The tale is ATU type 510A, the "persecuted heroine". Other tales listed under th
 
 Variants recorded in Valdres and Telemark are closer to the classic Cinderella: the dead mother helps the girl, who is called Kirsti or Åse, and Åse wears a dirty leather dress. A tale "Kari Woodencoat" appears as from a Sámi source in a 1928 book by Frances Jenkins Olcott, but the article does not explain how that origin was established or how closely the version resembles the Norwegian one. That link therefore stays unconfirmed here.
 
-To push crates like the dun bull, until all reach the marks, play [The bull and the crates](/en/game-the-bull-and-the-crates/).
+To push crates like the dun bull, until all reach the marks, play [The bull and the crates](/game-the-bull-and-the-crates/).

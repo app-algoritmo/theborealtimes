@@ -23,4 +23,4 @@ Rings shrink toward the centre of the drum. Tap anywhere (or press Space) at the
 
 ## The story behind it
 
-For the Sámi, Máttaráhkká and her daughters Sáráhkká, Juoksáhkká and Uksáhkká looked after birth. The drum and the rhythm are invented. Read the story in [The Áhkká: the Sámi goddess of birth and the three daughters who guarded the fire, the door and the bow](/en/2027/01/03/ahkka-deusas-sami-maattarahkka-filhas/).
+For the Sámi, Máttaráhkká and her daughters Sáráhkká, Juoksáhkká and Uksáhkká looked after birth. The drum and the rhythm are invented. Read the story in [The Áhkká: the Sámi goddess of birth and the three daughters who guarded the fire, the door and the bow](/the-ahkka-the-sami-goddess-of-birth-and-the-three-daughters/).

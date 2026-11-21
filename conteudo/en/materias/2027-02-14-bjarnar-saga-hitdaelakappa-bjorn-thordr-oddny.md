@@ -40,4 +40,4 @@ A *skald* is a court or aristocratic poet of the Norse world. The *Thing* is the
 
 The text is incomplete, since no manuscript carries the whole saga. The date of composition is not given in the first source and is disputed in the second: the early 13th century, for Bjarni Einarsson, around 1300 or later, for Bjarni Guðnason, and not much before 1230 if romances influenced it, according to Sävborg. The two sources also differ on the falsification of the message, which only the first mentions.
 
-To decipher a secret sequence of coloured seals, as in a swapped message, play [The forged message](/en/game-the-forged-message/).
+To decipher a secret sequence of coloured seals, as in a swapped message, play [The forged message](/game-the-forged-message/).

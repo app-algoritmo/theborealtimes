@@ -23,4 +23,4 @@ Toque na tela (ou aperte espaço) para o corvo bater as asas; sem toque, ele cai
 
 ## A história por trás
 
-No Grímnismál, Huginn e Muninn voam todos os dias sobre Midgard. O voo entre obstáculos é invenção. Leia a história em [Huginn e Muninn: os corvos de Odin, nas fontes e nos achados](/2026/12/20/huginn-muninn-corvos-de-odin/).
+No Grímnismál, Huginn e Muninn voam todos os dias sobre Midgard. O voo entre obstáculos é invenção. Leia a história em [Huginn e Muninn: os corvos de Odin, nas fontes e nos achados](/pt/huginn-muninn-corvos-de-odin/).

@@ -44,4 +44,4 @@ No relato, o poder está no canto: Väinämöinen não usa arma, e o desafiante 
 
 A página não traz os números dos cantos (*runot*) em que a cena se passa, e por isso eles não são dados aqui. O que a fonte sustenta é a sequência: desafio, canto, brejo, promessa da irmã, morte de Aino e emboscada. As três leituras do nome são hipóteses de estudiosos, não achados.
 
-Para rebater a bola num duelo, como num duelo de cantos, até marcar sete pontos antes do rival, jogue [O duelo de cantos](/jogo-o-duelo-de-cantos/).
+Para rebater a bola num duelo, como num duelo de cantos, até marcar sete pontos antes do rival, jogue [O duelo de cantos](/pt/jogo-o-duelo-de-cantos/).

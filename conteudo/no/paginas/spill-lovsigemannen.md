@@ -23,4 +23,4 @@ Ordene faller i tre baner. Trykk på riktig bane (eller bruk piltastene) når or
 
 ## Historien bak
 
-Alltinget ble grunnlagt rundt 930, og lovsigemannen sa opp lovene utenat på Lovberget. Rytmen i spillet er diktet opp. Les historien i [Alltinget, 930: det åpne parlamentet på Tingvellir og mannen som sa opp lovene utenat](/no/2026/11/15/althing-930-thingvellir/).
+Alltinget ble grunnlagt rundt 930, og lovsigemannen sa opp lovene utenat på Lovberget. Rytmen i spillet er diktet opp. Les historien i [Alltinget, 930: det åpne parlamentet på Tingvellir og mannen som sa opp lovene utenat](/no/alltinget-930-det-apne-parlamentet-pa-tingvellir-og-mannen/).

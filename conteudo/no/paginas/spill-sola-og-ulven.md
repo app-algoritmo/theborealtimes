@@ -23,4 +23,4 @@ Du styrer Sol, og ulven Skoll vil ha sola. Dra en finger (eller bruk piltastene)
 
 ## Historien bak
 
-Ifølge Snorre løper Sol fordi en ulv jager henne, og i ragnarok tar den henne igjen. Slåkampen er diktet opp for spillet. Les historien i [Sol og Måne: søsknene som drar sola og månen med ulver i hælene](/no/2026/11/21/sol-mani-lobos-skoll-hati/).
+Ifølge Snorre løper Sol fordi en ulv jager henne, og i ragnarok tar den henne igjen. Slåkampen er diktet opp for spillet. Les historien i [Sol og Måne: søsknene som drar sola og månen med ulver i hælene](/no/sol-og-mane-sosknene-som-drar-sola-og-manen-med-ulver/).

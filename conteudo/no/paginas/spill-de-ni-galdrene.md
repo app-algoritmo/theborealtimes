@@ -23,4 +23,4 @@ Over Groas haug dukker farene på Svipdags ferd opp én etter én. Blant de ni s
 
 ## Historien bak
 
-I diktet Grógaldr synger Svipdags døde mor ni galder for å verne ham mot farer som vann, fiender, lenker, storm, frost, tåke og jøtner. Formene og fargene på steinene er oppfunnet. Les historien i [Grógaldr: de ni galdrene Gro synger for sønnen Svipdag](/no/2027/03/14/grogaldr-os-nove-feiticos-que-groa-canta-ao-filho-svipdagr/).
+I diktet Grógaldr synger Svipdags døde mor ni galder for å verne ham mot farer som vann, fiender, lenker, storm, frost, tåke og jøtner. Formene og fargene på steinene er oppfunnet. Les historien i [Grógaldr: de ni galdrene Gro synger for sønnen Svipdag](/no/grogaldr-de-ni-galdrene-gro-synger-for-sonnen-svipdag/).

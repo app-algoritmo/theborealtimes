@@ -34,4 +34,4 @@ Outra história diz que Sæmundur fez um pacto com o diabo para ser levado para 
 
 O conto deriva de um tipo internacional, o da escola do diabo, que existe em outros países. O que a Islândia fez foi ligar a história a um estudioso que de fato existiu e que viajou ao exterior. A fama de saber muito, em tempos em que viagens eram raras, podia levar as pessoas a imaginar que um homem assim havia feito algum acordo.
 
-Para escapar do labirinto da Escola Negra antes que o diabo alcance sua sombra, procurando a saída entre corredores, jogue [A Escola Negra](/jogo-a-escola-negra/).
+Para escapar do labirinto da Escola Negra antes que o diabo alcance sua sombra, procurando a saída entre corredores, jogue [A Escola Negra](/pt/jogo-a-escola-negra/).

@@ -45,4 +45,4 @@ Tissø is the lake of Tyr, with offerings in the water, a great lord's hall and 
 
 The National Museum writes "may have been" cult buildings and "may mark" an open-air sacrifice. Not everything found is proof of cult, and linking the lake to Tyr depends on the name being old and really coming from him. Human sacrifice is only a possibility.
 
-To find the pairs of offering objects lying face down on the table, play [The lake amulets](/en/game-the-lake-amulets/).
+To find the pairs of offering objects lying face down on the table, play [The lake amulets](/game-the-lake-amulets/).

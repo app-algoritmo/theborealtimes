@@ -23,4 +23,4 @@ Hver øy har et tall: det er hvor mange broer som skal gå ut fra den. Trykk på
 
 ## Historien bak
 
-Ifølge sagaen tjente skalden Hallfreðr Hákon Sigurðarson, Óláfr Tryggvason og Eiríkr Hákonarson, og fortalte i vers om sin vanskelige overgang til kristendommen. Å knytte øyer sammen med broer er oppfunnet. Les historien i [Hallfreðar saga: skalden som tjente tre høvdinger og hans vanskelige omvendelse](/no/2027/01/31/hallfredar-saga-vandraedaskald-poeta-conversao/).
+Ifølge sagaen tjente skalden Hallfreðr Hákon Sigurðarson, Óláfr Tryggvason og Eiríkr Hákonarson, og fortalte i vers om sin vanskelige overgang til kristendommen. Å knytte øyer sammen med broer er oppfunnet. Les historien i [Hallfreðar saga: skalden som tjente tre høvdinger og hans vanskelige omvendelse](/no/hallfredar-saga-skalden-som-tjente-tre-hovdinger-og-hans/).

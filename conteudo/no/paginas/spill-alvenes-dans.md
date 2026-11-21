@@ -23,4 +23,4 @@ Noter faller nedover 4 baner. Trykk på banen (eller bruk ← ↓ ↑ →) når 
 
 ## Historien bak
 
-I den danske balladen om Herr Oluf inviterer alvene ridderen til å danse til daggry. Spillets melodi er diktet opp. Les historien i [Elveskud: balladen om ridderen som nektet å danse med alvepikene](/no/2026/12/06/elveskud-herr-oluf-danca-das-elfas/).
+I den danske balladen om Herr Oluf inviterer alvene ridderen til å danse til daggry. Spillets melodi er diktet opp. Les historien i [Elveskud: balladen om ridderen som nektet å danse med alvepikene](/no/elveskud-balladen-om-ridderen-som-nektet-a-danse/).

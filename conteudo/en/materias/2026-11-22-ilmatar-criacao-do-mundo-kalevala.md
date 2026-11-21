@@ -35,4 +35,4 @@ Scholars remind us that this narrative is part of the work of Elias Lönnrot, wh
 
 The theme of the world born from an egg exists in other regions of Eurasia, and is one of the most widespread motifs in mythology. The interest of the Finnish canto lies in the image of a creation made without violence, and in which a woman, rather than a god, gives shape to the earth. The canto also shows a trait of the Finnish poetry collected by Lönnrot: the eight-syllable line, with alliteration, which made the words easy to memorise and to sing.
 
-To measure, with two vessels, the exact quantity of water, like someone giving shape to the primordial sea, play [Ilmatar's vessels](/en/game-ilmatars-vessels/).
+To measure, with two vessels, the exact quantity of water, like someone giving shape to the primordial sea, play [Ilmatar's vessels](/game-ilmatars-vessels/).

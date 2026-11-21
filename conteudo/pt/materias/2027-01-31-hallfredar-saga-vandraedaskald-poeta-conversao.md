@@ -39,4 +39,4 @@ A fonte registra que a atribuição a Hallfreðr da *Óláfsdrápa Tryggvasonar*
 
 As datas de vida de Hallfreðr são aproximadas. Como as versões dos manuscritos divergem, não há um texto único da saga. A fonte não afirma que todos os versos da saga sejam do poeta, e a própria saga é uma narrativa literária, escrita bem depois dos fatos: não prova que cada cena tenha ocorrido assim. Esta matéria também não traz o enredo detalhado de cada fase da vida de Hallfreðr, porque a fonte consultada não o faz; quem quiser os episódios deve ler a própria saga em tradução.
 
-Para ligar ilhas com pontes até formarem um só conjunto, jogue [As pontes de Hallfreðr](/jogo-as-pontes-de-hallfredr/).
+Para ligar ilhas com pontes até formarem um só conjunto, jogue [As pontes de Hallfreðr](/pt/jogo-as-pontes-de-hallfredr/).

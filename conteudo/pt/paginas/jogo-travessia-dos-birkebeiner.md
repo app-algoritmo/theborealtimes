@@ -23,4 +23,4 @@ Arraste o dedo (ou o mouse) para a esquerda e a direita, ou use as setas, para g
 
 ## A história por trás
 
-Segundo a saga de Haakon Haakonsson, em 1206 dois Birkebeiner levaram o pequeno príncipe sobre esquis até Trondheim. O percurso do jogo é uma simplificação. Leia a história em [Os Birkebeiner e a travessia de esqui que salvou o futuro rei Haakon da Noruega](/2026/11/13/birkebeiner-haakon/).
+Segundo a saga de Haakon Haakonsson, em 1206 dois Birkebeiner levaram o pequeno príncipe sobre esquis até Trondheim. O percurso do jogo é uma simplificação. Leia a história em [Os Birkebeiner e a travessia de esqui que salvou o futuro rei Haakon da Noruega](/pt/birkebeiner-haakon/).

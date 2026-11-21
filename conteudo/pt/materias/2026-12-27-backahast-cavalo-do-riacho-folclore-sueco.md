@@ -41,4 +41,4 @@ O texto registra superstições sobre evitá-lo na véspera de Natal e às quint
 
 O artigo não dá datas confiáveis da primeira menção, não sabe se o espírito tinha uma "forma verdadeira" e não deixa claro se o conto de Fagertärn é sueco. O que está bem descrito é a ideia central: um cavalo bonito e manso junto da água que é uma armadilha.
 
-Para achar, por tentativas, o vau onde o cavalo do riacho espera, guiado por pistas de quente e frio, jogue [O vau do cavalo do riacho](/jogo-o-vau-do-cavalo-do-riacho/).
+Para achar, por tentativas, o vau onde o cavalo do riacho espera, guiado por pistas de quente e frio, jogue [O vau do cavalo do riacho](/pt/jogo-o-vau-do-cavalo-do-riacho/).

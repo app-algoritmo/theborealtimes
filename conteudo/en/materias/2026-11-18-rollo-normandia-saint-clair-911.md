@@ -41,4 +41,4 @@ More than a century and a half after the treaty, in 1066, William, Duke of Norma
 
 The agreement made sense for both sides. The Frankish king, weak before powerful nobles, gained an ally who blocked the river to other bands. Rollo gained land and legitimacy. The initial territory was small, around Rouen, and was enlarged by his successors: around 933, Rollo's son, William Longsword, received regions to the west, such as the Cotentin and the Avranchin. Normandy, then, grew in stages, and was not born complete in 911.
 
-To help the river reach the sea again, by connecting the pieces of the Seine up to Rouen, play [The course of the Seine](/en/game-the-course-of-the-seine/).
+To help the river reach the sea again, by connecting the pieces of the Seine up to Rouen, play [The course of the Seine](/game-the-course-of-the-seine/).

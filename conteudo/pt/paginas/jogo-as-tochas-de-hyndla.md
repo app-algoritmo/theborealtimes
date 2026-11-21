@@ -23,4 +23,4 @@ Toque numa tocha para trocar o estado dela e o das quatro vizinhas (acesa ou apa
 
 ## A história por trás
 
-No Hyndluljóð, Freyja leva Óttarr à gruta da vidente Hyndla. As tochas e o quebra-cabeça de luzes são invenção. Leia a história em [Hyndluljóð: Freyja leva um javali até a gruta da vidente que sabe todas as famílias](/2026/12/06/hyndluljod-freyja-hyndla-genealogia/).
+No Hyndluljóð, Freyja leva Óttarr à gruta da vidente Hyndla. As tochas e o quebra-cabeça de luzes são invenção. Leia a história em [Hyndluljóð: Freyja leva um javali até a gruta da vidente que sabe todas as famílias](/pt/hyndluljod-freyja-hyndla-genealogia/).

@@ -23,4 +23,4 @@ Drag your finger (or the mouse, or use the arrow keys) to steer the boat to the 
 
 ## The story behind it
 
-In Norwegian tradition, the draug is the spirit of a drowned man seen in fog. The buoy hunt is made up for the game. Read the story in [Draugen: the sea ghost Norwegian fishermen feared to see](/en/2026/11/16/draugen-fantasma-do-mar/).
+In Norwegian tradition, the draug is the spirit of a drowned man seen in fog. The buoy hunt is made up for the game. Read the story in [Draugen: the sea ghost Norwegian fishermen feared to see](/draugen-the-sea-ghost-norwegian-fishermen-feared-to-see/).

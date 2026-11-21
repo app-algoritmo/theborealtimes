@@ -35,4 +35,4 @@ Scholars observe that the canto deals with a theme common to many traditions, th
 
 It is worth remembering that the *Kalevala* is a work of compilation: Lönnrot joined verses from different sources and ordered them, so the story we read is, in part, the editor's work. Even so, the image of the mother standing on the bank, with the rake, stayed in Finnish memory and inspired paintings, music and theatre.
 
-To gather, in the river of Tuonela, the pieces of the son, without being caught by the black swan that watches the waters, play [The river of Tuonela](/en/game-the-river-of-tuonela/).
+To gather, in the river of Tuonela, the pieces of the son, without being caught by the black swan that watches the waters, play [The river of Tuonela](/game-the-river-of-tuonela/).

@@ -23,4 +23,4 @@ Slangene reiser seg fra hullene, én om gangen. Se rekkefølgen og trykk på hul
 
 ## Historien bak
 
-I sagaene dør Ragnar Lodbrok i slangegropen til kong Ælla av Northumbria, syngende. Det er en legende, ikke en bekreftet historisk opptegnelse. Hukommelsesspillet er diktet opp. Les historien i [Ragnar Lodbrok og slangegropen: sagaens helt, og hva krønikene har bevart av ham](/no/2026/11/14/ragnar-lodbrok-cobras/).
+I sagaene dør Ragnar Lodbrok i slangegropen til kong Ælla av Northumbria, syngende. Det er en legende, ikke en bekreftet historisk opptegnelse. Hukommelsesspillet er diktet opp. Les historien i [Ragnar Lodbrok og slangegropen: sagaens helt, og hva krønikene har bevart av ham](/no/ragnar-lodbrok-og-slangegropen-sagaens-helt-og-hva/).

@@ -37,4 +37,4 @@ For over a century, scholars have debated the meaning of the war. One thesis, de
 
 What is known is that the sources are late, written by Christians in the 13th century, and that Snorri tends to treat the gods as human kings who later became divinities, which is called euhemerism. His version may therefore have been tidied to fit a logical story. The oldest thing the *Völuspá* has is only the fragment of the war, without the peace.
 
-To help both sides reach a fair deal, dividing the gifts into equal parts, play [The scales of peace](/en/game-the-scales-of-peace/).
+To help both sides reach a fair deal, dividing the gifts into equal parts, play [The scales of peace](/game-the-scales-of-peace/).

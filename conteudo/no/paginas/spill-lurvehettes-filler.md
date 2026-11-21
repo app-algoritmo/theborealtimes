@@ -23,4 +23,4 @@ Seks filler av ulik lengde ligger i en stabel. Trykk på en fille for å snu den
 
 ## Historien bak
 
-I Lurvehette av Asbjørnsen og Moe drar en stygg prinsesse, som rir på en geit og har en tresleiv, sammen med søsteren til trollenes øy og henter tilbake hodet hennes; på bryllupsdagen blir geita, sleiva og hetta til en hest, en tryllestav eller en vifte etter versjonen, og en gullkrone. Stabelen av filler er oppfunnet. Les historien i [Lurvehette: den stygge prinsessen som rir på en geit og beseirer trollene](/no/2027/01/24/tatterhood-lurvehette-princesa-feia-cabra-asbjornsen-moe/).
+I Lurvehette av Asbjørnsen og Moe drar en stygg prinsesse, som rir på en geit og har en tresleiv, sammen med søsteren til trollenes øy og henter tilbake hodet hennes; på bryllupsdagen blir geita, sleiva og hetta til en hest, en tryllestav eller en vifte etter versjonen, og en gullkrone. Stabelen av filler er oppfunnet. Les historien i [Lurvehette: den stygge prinsessen som rir på en geit og beseirer trollene](/no/lurvehette-den-stygge-prinsessen-som-rir-pa-en-geit/).

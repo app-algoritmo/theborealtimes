@@ -49,4 +49,4 @@ Herjólfsnes, na Groenlândia, rendeu em 1921 capuzes, chapéus e vestidos de l�
 
 Se a comunidade estava prosperando ou em declínio, e por que a presença nórdica some das fontes depois de 1410, mais ou menos, continua em debate. As roupas dizem como as pessoas se vestiam, não por que sumiram.
 
-Para tecer um pano de lã conferindo a ordem dos fios coloridos, jogue [O tecido de lã](/jogo-o-tecido-de-la/).
+Para tecer um pano de lã conferindo a ordem dos fios coloridos, jogue [O tecido de lã](/pt/jogo-o-tecido-de-la/).

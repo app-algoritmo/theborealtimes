@@ -23,4 +23,4 @@ En bro har fire steiner i hver rekke, men bare én stein i hver rekke er trygg. 
 
 ## Historien bak
 
-I den norske balladen Draumkvedet sover Olav Åsteson fra julaften til trettendedagen og forteller når han våkner om draumene sine, blant dem en svært høy bro. Å huske stien er oppfunnet. Les historien i [Draumkvedet: Olav Åstesons drøm og middelalderballaden fra Norge](/no/2027/02/07/draumkvedet-olav-asteson-sonho-balada/).
+I den norske balladen Draumkvedet sover Olav Åsteson fra julaften til trettendedagen og forteller når han våkner om draumene sine, blant dem en svært høy bro. Å huske stien er oppfunnet. Les historien i [Draumkvedet: Olav Åstesons drøm og middelalderballaden fra Norge](/no/draumkvedet-olav-astesons-drom-og-middelalderballaden/).

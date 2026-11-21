@@ -23,4 +23,4 @@ Tap a piece and then a neighbour to swap them (or drag). Line up three or more a
 
 ## The story behind it
 
-In the ballad, Agnete lives on the sea floor with the merman and in the end returns to land. The treasures in the game are made up. Read the story in [Agnete and the merman: the Danish ballad of the woman who lived at the bottom of the sea](/en/2026/11/20/agnete-tritao-balada-dinamarquesa/).
+In the ballad, Agnete lives on the sea floor with the merman and in the end returns to land. The treasures in the game are made up. Read the story in [Agnete and the merman: the Danish ballad of the woman who lived at the bottom of the sea](/agnete-and-the-merman-the-danish-ballad-of-the-woman/).

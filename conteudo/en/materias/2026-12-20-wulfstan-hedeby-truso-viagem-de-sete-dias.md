@@ -41,4 +41,4 @@ The text is not a map: it is a list of lands seen to the right and to the left o
 
 The purpose of the voyage is not clear. One hypothesis is that Alfred wanted allies against the Vikings and so was interested in the Prussians. The page does not deal with the exact location of Truso, with customs of the *Aesti* such as funerals, horses or mead, nor with islands such as Bornholm or Öland. These points are therefore left out of the account.
 
-To fill a four-by-four grid with four route marks, without repeating any in a row, column or block, play [The route marks](/en/game-the-route-marks/).
+To fill a four-by-four grid with four route marks, without repeating any in a row, column or block, play [The route marks](/game-the-route-marks/).

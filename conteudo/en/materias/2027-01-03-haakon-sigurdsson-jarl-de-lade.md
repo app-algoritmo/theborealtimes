@@ -40,4 +40,4 @@ Everything known about Haakon comes from texts written after his death, and the 
 
 The sources on Haakon are late, and neither the exact birth date nor the precise location of the hiding place is known. What is on firmer ground: that he ruled for a long time, that he opposed Olaf and that a slave killed him.
 
-To occupy the 6-by-6 board by surrounding the rival's pieces, play [Haakon's board](/en/game-haakons-board/).
+To occupy the 6-by-6 board by surrounding the rival's pieces, play [Haakon's board](/game-haakons-board/).

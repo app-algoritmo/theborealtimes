@@ -23,4 +23,4 @@ Five ships are hidden in the water. Tap a cell to shoot (or use the arrows and S
 
 ## The story behind it
 
-In Roskilde Fjord the remains of five sunken ships were found. The shots in the game are made up. Read the story in [Skuldelev: the five Viking ships deliberately sunk in Roskilde Fjord](/en/2026/11/22/skuldelev-navios-fiorde-de-roskilde/).
+In Roskilde Fjord the remains of five sunken ships were found. The shots in the game are made up. Read the story in [Skuldelev: the five Viking ships deliberately sunk in Roskilde Fjord](/skuldelev-the-five-viking-ships-deliberately-sunk/).

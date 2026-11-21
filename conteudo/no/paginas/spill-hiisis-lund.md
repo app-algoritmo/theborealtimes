@@ -23,4 +23,4 @@ En hellig lund har 16 glenner og fire slags trær, nummerert fra 1 til 4. Hver r
 
 ## Historien bak
 
-På estisk er hiis en hellig lund, vanligvis på høyt terreng; på finsk navnga hiisi først hellige steder og først senere mytiske vesener. I Kalevala lager Hiisi Lemminkäinens elg av råtten ved, pil og siv. Den nummererte lunden er oppfunnet. Les historien i [Hiisi: fra hellig lund til demon, og elgen han laget av råtten ved](/no/2027/01/24/hiisi-bosque-sagrado-alce-kalevala/).
+På estisk er hiis en hellig lund, vanligvis på høyt terreng; på finsk navnga hiisi først hellige steder og først senere mytiske vesener. I Kalevala lager Hiisi Lemminkäinens elg av råtten ved, pil og siv. Den nummererte lunden er oppfunnet. Les historien i [Hiisi: fra hellig lund til demon, og elgen han laget av råtten ved](/no/hiisi-fra-hellig-lund-til-demon-og-elgen-han-laget/).

@@ -23,4 +23,4 @@ A mancha parte do canto de cima à esquerda. Toque numa cor para pintar a mancha
 
 ## A história por trás
 
-As pedras pintadas de Gotland, na Suécia, mostram barcos de velas entre os séculos V e XII. O jogo de cores é invenção. Leia a história em [As pedras de imagens de Gotland: navios de vela entalhados e cores que quase não restam](/2026/12/06/gotland-pedras-pintadas-barcos-velas/).
+As pedras pintadas de Gotland, na Suécia, mostram barcos de velas entre os séculos V e XII. O jogo de cores é invenção. Leia a história em [As pedras de imagens de Gotland: navios de vela entalhados e cores que quase não restam](/pt/gotland-pedras-pintadas-barcos-velas/).

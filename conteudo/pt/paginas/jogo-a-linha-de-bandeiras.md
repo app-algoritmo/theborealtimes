@@ -23,4 +23,4 @@ Toque numa casa para mudar o número, que é a altura de uma bandeira. Cada linh
 
 ## A história por trás
 
-Na Batalha de Fulford, em 20 de setembro de 1066, ao sul de York, Harald Hardrada e Tostig derrotaram os condes Edwin e Morcar. Depois veio Stamford Bridge. Contar bandeiras visíveis é invenção. Leia a história em [A Batalha de Fulford, 1066: Harald Hardrada e Tostig diante dos condes do norte da Inglaterra](/2027/01/31/batalha-de-fulford-1066-hardrada-york/).
+Na Batalha de Fulford, em 20 de setembro de 1066, ao sul de York, Harald Hardrada e Tostig derrotaram os condes Edwin e Morcar. Depois veio Stamford Bridge. Contar bandeiras visíveis é invenção. Leia a história em [A Batalha de Fulford, 1066: Harald Hardrada e Tostig diante dos condes do norte da Inglaterra](/pt/batalha-de-fulford-1066-hardrada-york/).

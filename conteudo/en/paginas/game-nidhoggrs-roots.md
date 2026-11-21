@@ -23,4 +23,4 @@ Each knot of the root is whole (light) or gnawed (dark). Tapping a knot flips it
 
 ## The story behind it
 
-In the Gylfaginning, Níðhöggr gnaws one of the three roots of Yggdrasill, the one that lies over Niflheimr. The grid of knots is invented. Read the story in [Níðhöggr, the dragon that gnaws the roots of Yggdrasill: what the texts say](/en/2027/01/17/nidhoggr-dragao-raiz-yggdrasill-nastrond/).
+In the Gylfaginning, Níðhöggr gnaws one of the three roots of Yggdrasill, the one that lies over Niflheimr. The grid of knots is invented. Read the story in [Níðhöggr, the dragon that gnaws the roots of Yggdrasill: what the texts say](/nidhoggr-the-dragon-that-gnaws-the-roots-of-yggdrasill-what/).

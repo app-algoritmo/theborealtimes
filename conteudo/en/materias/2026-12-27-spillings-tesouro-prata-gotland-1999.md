@@ -41,4 +41,4 @@ The article describes it as the largest Viking silver treasure in the world. The
 
 Who buried the silver and why they never came back for it is something the source does not answer. What the find shows, in numbers and coins, is how silver from the Islamic world reached the Baltic.
 
-To add coins until you get as close as possible to 21, without going over, play [Spillings' coins](/en/game-spillings-coins/).
+To add coins until you get as close as possible to 21, without going over, play [Spillings' coins](/game-spillings-coins/).

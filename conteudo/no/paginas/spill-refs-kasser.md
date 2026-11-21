@@ -23,4 +23,4 @@ Trykk på en rute ved siden av figuren din for å gå dit. Hvis det står en kas
 
 ## Historien bak
 
-I Króka-Refs saga bygger Ref et bemerkelsesverdig skip og får tilnavnet «Ref den lure» av kong Harald Hardråde. Å skyve kasser til merker er oppfunnet. Les historien i [Króka-Refs saga: den listige islendingen som reiste via Grønland, Norge og Danmark](/no/2027/02/21/saga-de-kroka-ref-o-astuto-groenlandia-noruega-danimarca/).
+I Króka-Refs saga bygger Ref et bemerkelsesverdig skip og får tilnavnet «Ref den lure» av kong Harald Hardråde. Å skyve kasser til merker er oppfunnet. Les historien i [Króka-Refs saga: den listige islendingen som reiste via Grønland, Norge og Danmark](/no/kroka-refs-saga-den-listige-islendingen-som-reiste-via/).

@@ -23,4 +23,4 @@ Move the pointer (or ↑ ↓) to aim. Hold the touch (or Space) to charge power 
 
 ## The story behind it
 
-In Fóstbrœðra saga, Thormod fights at Stiklestad beside Olaf and later composes verses. The arrows in the game are made up. Read the story in [Þormóðr, the poet who followed King Olaf to Stiklestad](/en/2026/11/29/fostbraedra-saga-thormod-poeta-stiklestad/).
+In Fóstbrœðra saga, Thormod fights at Stiklestad beside Olaf and later composes verses. The arrows in the game are made up. Read the story in [Þormóðr, the poet who followed King Olaf to Stiklestad](/thormodr-the-poet-who-followed-king-olaf-to-stiklestad/).

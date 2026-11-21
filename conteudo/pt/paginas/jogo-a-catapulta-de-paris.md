@@ -23,4 +23,4 @@ Toque na água para lançar uma pedra. Ela leva um instante para cair e afunda o
 
 ## A história por trás
 
-No cerco de 885–886, os parisienses defenderam a ponte contra uma frota viking. A catapulta e a pontaria são invenção do jogo. Leia a história em [O cerco de Paris, 885–886: quando os vikings tentaram subir o Sena e esbarraram numa ponte](/2026/11/16/paris-885-cerco/).
+No cerco de 885–886, os parisienses defenderam a ponte contra uma frota viking. A catapulta e a pontaria são invenção do jogo. Leia a história em [O cerco de Paris, 885–886: quando os vikings tentaram subir o Sena e esbarraram numa ponte](/pt/paris-885-cerco/).

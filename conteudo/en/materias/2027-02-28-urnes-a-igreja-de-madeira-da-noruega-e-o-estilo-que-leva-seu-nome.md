@@ -52,4 +52,4 @@ Urnes is a stave church of about 1130 that reused the portal and other parts of 
 
 The readings of the portal, such as Ragnarök and Níðhöggr, are interpretations, and the original position of the portal and the decoration of the earlier church are speculation. The entry says the church is "believed" to be the oldest of its kind. The sources give slightly different counts of surviving stave churches in Norway, 28 or 30, and slightly different dates for the completion.
 
-To remake the portal plank, sliding the pieces until the design returns to its place, play [The planks of the portal](/en/game-the-planks-of-the-portal/).
+To remake the portal plank, sliding the pieces until the design returns to its place, play [The planks of the portal](/game-the-planks-of-the-portal/).

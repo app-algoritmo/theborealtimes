@@ -23,4 +23,4 @@ Hold fingeren, eller mellomromstasten, inne for å fiske; slipp for å beholde d
 
 ## Historien bak
 
-I 1752 beskrev biskop Erik Pontoppidan krakenen som et veldig udyr som uvanlig rikt fiske kunne røpe. Den kjempestore blekkspruten, som finnes, ble først godt dokumentert på 1800-tallet. Spillet er diktet opp. Les historien i [Krakenen: fra norske fiskeres havmonster til kjempeblekkspruten vitenskapen til slutt bekreftet](/no/2026/11/14/kraken-pontoppidan/).
+I 1752 beskrev biskop Erik Pontoppidan krakenen som et veldig udyr som uvanlig rikt fiske kunne røpe. Den kjempestore blekkspruten, som finnes, ble først godt dokumentert på 1800-tallet. Spillet er diktet opp. Les historien i [Krakenen: fra norske fiskeres havmonster til kjempeblekkspruten vitenskapen til slutt bekreftet](/no/krakenen-fra-norske-fiskeres-havmonster/).

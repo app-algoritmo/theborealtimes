@@ -45,4 +45,4 @@ Hammer and tongs appear alongside items of cooking and farming, and the report t
 
 The report is a journalistic summary, without the full methodology of the study. The isotopes "suggest", not prove, a Scandinavian origin. The link between Scandinavia and Ireland is a suggestion. The reuse of the stones is a possibility ("may have"). The report mentions no comb or Frankish objects, and does not give the exact position of the body. So everything beyond this, such as the man's name, the reason for his voyage or who buried him, remains unanswered.
 
-To connect dots, one line at a time, closing more squares than your rival, play [The dots of Swordle Bay](/en/game-the-dots-of-swordle-bay/).
+To connect dots, one line at a time, closing more squares than your rival, play [The dots of Swordle Bay](/game-the-dots-of-swordle-bay/).

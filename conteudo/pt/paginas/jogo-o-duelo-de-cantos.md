@@ -23,4 +23,4 @@ Arraste o dedo (ou use ← →) para mover sua barra, embaixo, e rebater a bola.
 
 ## A história por trás
 
-No Kalevala, o jovem Joukahainen desafia o velho Väinämöinen para um duelo de cantos e perde. A bola é invenção do jogo. Leia a história em [Joukahainen e Väinämöinen: o duelo de cantos do Kalevala](/2026/12/20/joukahainen-vainamoinen-duelo-de-cantos-kalevala/).
+No Kalevala, o jovem Joukahainen desafia o velho Väinämöinen para um duelo de cantos e perde. A bola é invenção do jogo. Leia a história em [Joukahainen e Väinämöinen: o duelo de cantos do Kalevala](/pt/joukahainen-vainamoinen-duelo-de-cantos-kalevala/).

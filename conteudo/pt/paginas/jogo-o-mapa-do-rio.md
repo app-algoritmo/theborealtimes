@@ -23,4 +23,4 @@ Arraste do ponto de uma cor até o outro ponto da mesma cor, passando por casas 
 
 ## A história por trás
 
-Em 844, os vikings subiram o rio Guadalquivir até Sevilha. O mapa e os pares são invenção do jogo. Leia a história em [Sevilha, 844: a frota viking que subiu o Guadalquivir e foi derrotada por um emir](/2026/12/13/sevilha-844-vikings-guadalquivir/).
+Em 844, os vikings subiram o rio Guadalquivir até Sevilha. O mapa e os pares são invenção do jogo. Leia a história em [Sevilha, 844: a frota viking que subiu o Guadalquivir e foi derrotada por um emir](/pt/sevilha-844-vikings-guadalquivir/).

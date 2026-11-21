@@ -23,4 +23,4 @@ De åtte gylne flettene til Sif er blandet sammen. Trykk på en fletning ved sid
 
 ## Historien bak
 
-Ifølge Snorre klippet Loke av håret til Sif, og dvergene lagde det på nytt i gull. Flettene i spillet er diktet opp. Les historien i [Sif: gudinnen med gullhåret, Tors kone, som nesten ikke dukker opp i myter](/no/2026/11/21/sif-cabelo-de-ouro-thor/).
+Ifølge Snorre klippet Loke av håret til Sif, og dvergene lagde det på nytt i gull. Flettene i spillet er diktet opp. Les historien i [Sif: gudinnen med gullhåret, Tors kone, som nesten ikke dukker opp i myter](/no/sif-gudinnen-med-gullharet-tors-kone-som-nesten-ikke-dukker/).

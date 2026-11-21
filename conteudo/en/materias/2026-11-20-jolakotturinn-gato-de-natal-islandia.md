@@ -37,4 +37,4 @@ The cat does not have the same presence in the sources as Grýla and the Yule La
 
 The cat's threat also helps us understand rural life at the time: winter was long, woollen clothing was essential against the cold, and a practical gift had real value. Receiving a new garment was not a luxury, and fear of the cat was, behind the image of the monster, fear of getting through the winter without warm clothes.
 
-To collect the balls of wool and knit before the cat arrives, without letting the thread tangle on itself, play [Wool before the cat](/en/game-wool-before-the-cat/).
+To collect the balls of wool and knit before the cat arrives, without letting the thread tangle on itself, play [Wool before the cat](/game-wool-before-the-cat/).

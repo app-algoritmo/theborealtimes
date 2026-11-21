@@ -23,4 +23,4 @@ Veja qual carta tem o selo, siga-a enquanto as três trocam de lugar e toque nel
 
 ## A história por trás
 
-Em Saxo, Amleth troca a mensagem que o levava à morte, e os portadores é que morrem. A troca de cartas do jogo é invenção. Leia a história em [Amleth: o príncipe dinamarquês que fingiu loucura e que Shakespeare transformou em Hamlet](/2026/11/18/amleth-saxo-origem-hamlet/).
+Em Saxo, Amleth troca a mensagem que o levava à morte, e os portadores é que morrem. A troca de cartas do jogo é invenção. Leia a história em [Amleth: o príncipe dinamarquês que fingiu loucura e que Shakespeare transformou em Hamlet](/pt/amleth-saxo-origem-hamlet/).

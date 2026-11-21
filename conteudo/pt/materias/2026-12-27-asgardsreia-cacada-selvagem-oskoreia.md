@@ -37,4 +37,4 @@ Há costumes registrados sem datação certa, como o de jogar pão e aço para a
 
 O artigo marca como conjectura a ligação com a tese de Grimm, a etimologia de *oskorei*, a teoria de Höfler (1934) sobre bandos rituais de guerreiros e a ideia de que lendas medievais da caçada moldaram o sabá das bruxas, que Hutton diz ter sido "fundamentalmente contestada". O artigo não descreve uma tradição natalina norueguesa, só nota que o Sinterklaas holandês pode ter sido influenciado pela caçada, o que é teoria.
 
-Para capturar as peças do rival num tabuleiro de 6 por 6, como numa caçada pela noite, jogue [A caçada de Åsgårdsreia](/jogo-a-cacada-de-asgardsreia/).
+Para capturar as peças do rival num tabuleiro de 6 por 6, como numa caçada pela noite, jogue [A caçada de Åsgårdsreia](/pt/jogo-a-cacada-de-asgardsreia/).

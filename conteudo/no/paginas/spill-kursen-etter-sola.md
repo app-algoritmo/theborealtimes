@@ -23,4 +23,4 @@ Skyggen fra skiven viser hvor skipet peker. Hold skyggen på nordmerket. Hold p�
 
 ## Historien bak
 
-På Uunartoq på Grønland ble det funnet et fragment av en treskive som, ifølge en hypotese, var et solkompass. Spillet er oppfunnet. Les historien i [Uunartoq: treskiven funnet på Grønland og tanken om solkompasset](/no/2027/03/07/uunartoq-o-disco-de-madeira-achado-na-groenlandia-e-a-ideia-da-bussola-de-sol/).
+På Uunartoq på Grønland ble det funnet et fragment av en treskive som, ifølge en hypotese, var et solkompass. Spillet er oppfunnet. Les historien i [Uunartoq: treskiven funnet på Grønland og tanken om solkompasset](/no/uunartoq-treskiven-funnet-pa-gronland-og-tanken-om/).

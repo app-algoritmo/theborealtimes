@@ -23,4 +23,4 @@ Each square of the 5-by-5 board has stretches of path. Tap a square to turn it a
 
 ## The story behind it
 
-Borgring, near Køge on Zealand, is a circular fort about 145 metres across, with a rampart 10 to 11 metres wide topped by a palisade. The 2014 excavations dated it to the 10th century and found the north and east gates where a trelleborg layout predicted them. The turning paths are invented. Read the story in [Borgring, the ring fortress of Køge: how a day's march pointed to a missing fortress](/en/2027/01/24/borgring-fortaleza-circular-koge-harald-dente-azul/).
+Borgring, near Køge on Zealand, is a circular fort about 145 metres across, with a rampart 10 to 11 metres wide topped by a palisade. The 2014 excavations dated it to the 10th century and found the north and east gates where a trelleborg layout predicted them. The turning paths are invented. Read the story in [Borgring, the ring fortress of Køge: how a day's march pointed to a missing fortress](/borgring-the-ring-fortress-of-koge-how-a-day-s-march/).

@@ -23,4 +23,4 @@ To brødre går samtidig, hver på sitt jorde. Trykk på skjermen for å flytte:
 
 ## Historien bak
 
-I Droplaugarsona saga bor brødrene Grímr og Helgi, sønner av enken Droplaug, ved Lagarfljót på Øst-Island omkring år 1000. Helgi blir drept, og Grímr hevner ham. Å flytte brødre i speil er oppfunnet. Les historien i [Droplaugarsona saga: brødrene Grímr og Helgi, hevn ved Lagarfljót](/no/2027/02/07/droplaugarsona-saga-grimr-helgi-lagarfljot/).
+I Droplaugarsona saga bor brødrene Grímr og Helgi, sønner av enken Droplaug, ved Lagarfljót på Øst-Island omkring år 1000. Helgi blir drept, og Grímr hevner ham. Å flytte brødre i speil er oppfunnet. Les historien i [Droplaugarsona saga: brødrene Grímr og Helgi, hevn ved Lagarfljót](/no/droplaugarsona-saga-brodrene-grimr-og-helgi-hevn-ved/).

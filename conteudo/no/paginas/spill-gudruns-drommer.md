@@ -23,4 +23,4 @@ De fire navnene vises nummerert, i ekteskapenes rekkefølge. Når tallene forsvi
 
 ## Historien bak
 
-I Laksdøla saga gifter Gudrun seg fire ganger: med Torvald, Tord, Bolle og Torkjell. Sagaens varslende drømmer er andre; spillet er diktet opp. Les historien i [Gudrun og hennes fire menn: den mest fengslende kvinnen i Laksdøla saga](/no/2026/11/15/gudrun-quatro-maridos/).
+I Laksdøla saga gifter Gudrun seg fire ganger: med Torvald, Tord, Bolle og Torkjell. Sagaens varslende drømmer er andre; spillet er diktet opp. Les historien i [Gudrun og hennes fire menn: den mest fengslende kvinnen i Laksdøla saga](/no/gudrun-og-hennes-fire-menn-den-mest-fengslende-kvinnen/).

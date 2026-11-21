@@ -23,4 +23,4 @@ Hvert trekk knytter to nabopunkter med en tråd. Den som lukker den fjerde siden
 
 ## Historien bak
 
-I kildene eier Rán et garn som hun fanger de druknede med. Maskespillet er diktet opp. Les historien i [Rán, havets frue i norrøn tradisjon, og nettet som fanget de druknede](/no/2026/11/22/ran-aegir-rede-dos-afogados/).
+I kildene eier Rán et garn som hun fanger de druknede med. Maskespillet er diktet opp. Les historien i [Rán, havets frue i norrøn tradisjon, og nettet som fanget de druknede](/no/ran-havets-frue-i-norron-tradisjon-og-nettet-som-fanget/).

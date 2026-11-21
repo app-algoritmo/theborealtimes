@@ -39,4 +39,4 @@ Em 18 de outubro de 1032, uma igreja foi consagrada em Assandun para lembrar a b
 
 Para os dinamarqueses, a vitória foi o último passo antes de governar a Inglaterra, e Canuto se tornou depois rei também da Dinamarca e da Noruega. Para os ingleses, a batalha mostrou como a divisão entre nobres podia custar um reino. Os pontos em aberto, como o lugar exato e os motivos de Eadric, continuam em discussão.
 
-Para achar, por tentativas, os grupos de guerreiros escondidos num campo de seis por seis casas, antes de esgotar os disparos, jogue [O campo de Assandun](/jogo-o-campo-de-assandun/).
+Para achar, por tentativas, os grupos de guerreiros escondidos num campo de seis por seis casas, antes de esgotar os disparos, jogue [O campo de Assandun](/pt/jogo-o-campo-de-assandun/).

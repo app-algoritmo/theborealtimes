@@ -23,4 +23,4 @@ A ättestupa é uma palavra que nasceu de uma saga e ganhou outras histórias co
 
 ## A história por trás
 
-Na Gautreks saga, o rei Gauti se perde e passa a noite na casa do fazendeiro Pão-duro, e o lugar se chama Ættarstapi. O penhasco da ättestupa veio depois, e a prática nunca foi comprovada. A divisão em três caixas e o ritmo do jogo são invenção. Leia a história em [Gautrek e a família avarenta: a saga por trás da "ättestupa" sueca](/2027/03/28/gautrek-e-a-familia-avarenta-a-saga-por-tras-da-attestupa-sueca/).
+Na Gautreks saga, o rei Gauti se perde e passa a noite na casa do fazendeiro Pão-duro, e o lugar se chama Ættarstapi. O penhasco da ättestupa veio depois, e a prática nunca foi comprovada. A divisão em três caixas e o ritmo do jogo são invenção. Leia a história em [Gautrek e a família avarenta: a saga por trás da "ättestupa" sueca](/pt/gautrek-e-a-familia-avarenta-a-saga-por-tras-da-attestupa-sueca/).

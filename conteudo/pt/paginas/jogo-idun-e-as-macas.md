@@ -23,4 +23,4 @@ Mova o dedo ou o mouse (ou use as setas) para levar a cesta de um lado a outro e
 
 ## A história por trás
 
-Segundo Snorri Sturluson, Idun guarda as maçãs que mantêm os deuses jovens. O gigante Thjazi, em forma de águia, a rapta, e Loki precisa trazê-la de volta. No jogo, quem protege as maçãs é você, o que não acontece na fonte. Leia o mito em [Os deuses envelhecem quando o gigante Thjazi rouba Idun e suas maçãs](/2026/11/12/idun-macas-juventude-thjazi/).
+Segundo Snorri Sturluson, Idun guarda as maçãs que mantêm os deuses jovens. O gigante Thjazi, em forma de águia, a rapta, e Loki precisa trazê-la de volta. No jogo, quem protege as maçãs é você, o que não acontece na fonte. Leia o mito em [Os deuses envelhecem quando o gigante Thjazi rouba Idun e suas maçãs](/pt/idun-macas-juventude-thjazi/).

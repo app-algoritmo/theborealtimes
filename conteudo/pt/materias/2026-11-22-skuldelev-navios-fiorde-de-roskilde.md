@@ -35,4 +35,4 @@ Os cascos reconstruídos serviram de modelo para réplicas. A mais famosa é a *
 
 Experiências assim ajudam os arqueólogos a separar o que o material comprova do que é apenas imaginação. Para o visitante, o que fica é a visão dos cascos reais, e a lembrança de que os vikings, além de guerreiros, eram construtores navais de grande habilidade.
 
-Para achar, tiro a tiro, os cinco navios afundados no fiorde, antes que os seus tiros acabem, jogue [Os cinco navios do fiorde](/jogo-os-cinco-navios-do-fiorde/).
+Para achar, tiro a tiro, os cinco navios afundados no fiorde, antes que os seus tiros acabem, jogue [Os cinco navios do fiorde](/pt/jogo-os-cinco-navios-do-fiorde/).

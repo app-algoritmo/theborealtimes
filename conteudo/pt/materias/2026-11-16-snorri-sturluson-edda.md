@@ -50,4 +50,4 @@ Em setembro de 1241, Gissur e seus homens chegaram a Reykholt à noite. Snorri t
 
 Snorri foi, ao mesmo tempo, cristão, político ambicioso e preservador de uma religião que já não existia. As próprias dúvidas sobre o que ele pensava dos deuses são parte do interesse. Hoje, uma estátua sua fica em Reykholt, e o pequeno museu local conta a história do homem que escreveu o Norte.
 
-Para treinar a memória como um escaldo, jogue [Os pares de Snorri](/jogo-os-pares-de-snorri/).
+Para treinar a memória como um escaldo, jogue [Os pares de Snorri](/pt/jogo-os-pares-de-snorri/).

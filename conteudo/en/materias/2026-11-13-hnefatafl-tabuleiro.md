@@ -37,4 +37,4 @@ Why did tafl disappear? The usual explanation is that chess, which arrived from 
 
 Boreal Saga Play board game uses that small version, but it is a simplification: here the king is only captured when surrounded on four sides, and other rules have been adapted.
 
-To play a match against the attackers, play [Hnefatafl in miniature](/en/game-hnefatafl/).
+To play a match against the attackers, play [Hnefatafl in miniature](/game-hnefatafl/).

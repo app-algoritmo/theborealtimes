@@ -23,4 +23,4 @@ Hold your finger, or the space bar, to raise the fury; release to lower it. When
 
 ## The story behind it
 
-The sagas describe berserkers who howled, bit their shields and seemed not to feel iron. What that really was is debated by historians. The fury gauge is made up for the game. Read the story in [Berserkers: the bearskin warriors, the fury the sagas describe and the Icelandic law that banned it](/en/2026/11/14/berserkers-furia/).
+The sagas describe berserkers who howled, bit their shields and seemed not to feel iron. What that really was is debated by historians. The fury gauge is made up for the game. Read the story in [Berserkers: the bearskin warriors, the fury the sagas describe and the Icelandic law that banned it](/berserkers-the-bearskin-warriors-the-fury-the-sagas/).

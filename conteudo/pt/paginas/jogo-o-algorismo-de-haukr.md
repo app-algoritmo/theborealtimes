@@ -23,4 +23,4 @@ Em cada rodada você recebe quatro números e precisa chegar a 24. Toque num nú
 
 ## A história por trás
 
-A Hauksbók foi organizada por Haukr Erlendsson, por volta de 1302 a 1310 segundo o estudo da escrita, e reúne a Landnámabók, a Eiríks saga rauða, a Völuspá e uma seção de matemática, o Algorismus. O jogo é invenção. Leia a história em [Hauksbók, o livro de Haukr Erlendsson: o manuscrito que reúne a Landnámabók, a Völuspá e um tratado de aritmética](/2027/01/17/hauksbok-haukr-erlendsson-manuscrito-landnamabok/).
+A Hauksbók foi organizada por Haukr Erlendsson, por volta de 1302 a 1310 segundo o estudo da escrita, e reúne a Landnámabók, a Eiríks saga rauða, a Völuspá e uma seção de matemática, o Algorismus. O jogo é invenção. Leia a história em [Hauksbók, o livro de Haukr Erlendsson: o manuscrito que reúne a Landnámabók, a Völuspá e um tratado de aritmética](/pt/hauksbok-haukr-erlendsson-manuscrito-landnamabok/).

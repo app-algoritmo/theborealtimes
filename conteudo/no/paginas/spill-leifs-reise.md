@@ -23,4 +23,4 @@ Dra fingeren eller musen (eller bruk piltastene) for å flytte skipet. Is og skj
 
 ## Historien bak
 
-De islandske sagaene sier at Leiv Eriksson, på vei fra Grønland, fant tre land: Helluland, «landet med flate steiner», Markland, «skoglandet», og Vinland. Ruten, isen og tønnene i spillet er diktet opp for leken. Les hva sagaene forteller og hva arkeologien viser i [Leiv Eriksson og Vinland: hva sagaene forteller og hva arkeologien viser](/no/2026/11/12/leif-eriksson-vinlandia-sagas-arqueologia/).
+De islandske sagaene sier at Leiv Eriksson, på vei fra Grønland, fant tre land: Helluland, «landet med flate steiner», Markland, «skoglandet», og Vinland. Ruten, isen og tønnene i spillet er diktet opp for leken. Les hva sagaene forteller og hva arkeologien viser i [Leiv Eriksson og Vinland: hva sagaene forteller og hva arkeologien viser](/no/leiv-eriksson-og-vinland-hva-sagaene-forteller-og-hva/).

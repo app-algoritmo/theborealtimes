@@ -41,4 +41,4 @@ The origin of the name Rus' is also debated. A much-cited hypothesis links it to
 
 What seems clear is that Rus' was born of a mixture of peoples, and that the Scandinavians were part of it, not the only part.
 
-To help Rurik's boat go up the river, working the oars in turn, play [Rurik's oars](/en/game-ruriks-oars/).
+To help Rurik's boat go up the river, working the oars in turn, play [Rurik's oars](/game-ruriks-oars/).

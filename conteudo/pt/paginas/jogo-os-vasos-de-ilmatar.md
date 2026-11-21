@@ -23,4 +23,4 @@ Há dois vasos de tamanhos diferentes e nenhuma marca de medida. Toque nos botõ
 
 ## A história por trás
 
-No Kalevala, a criação do mundo parte de um ovo que se parte sobre o mar. Os vasos e medidas do jogo são invenção. Leia a história em [Ilmatar: a filha do ar que flutuou setecentos anos no mar e a pata que botou o mundo](/2026/11/22/ilmatar-criacao-do-mundo-kalevala/).
+No Kalevala, a criação do mundo parte de um ovo que se parte sobre o mar. Os vasos e medidas do jogo são invenção. Leia a história em [Ilmatar: a filha do ar que flutuou setecentos anos no mar e a pata que botou o mundo](/pt/ilmatar-criacao-do-mundo-kalevala/).

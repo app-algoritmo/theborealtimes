@@ -23,4 +23,4 @@ Like Hœnir among the Vanir, you trade with a partner for 10 rounds. In each one
 
 ## The story behind it
 
-In the Ynglinga saga, after the war between the Æsir and the Vanir, Hœnir and Mímir are sent to the Vanir as hostages; Hœnir is soon made chief but depends on Mímir to decide. The rounds of exchange are invented. Read the story in [Hœnir, the god who helps make humans and relies on Mímir: what the sources say](/en/2027/01/24/hoenir-deus-aesir-criacao-refem-lokka-tattur/).
+In the Ynglinga saga, after the war between the Æsir and the Vanir, Hœnir and Mímir are sent to the Vanir as hostages; Hœnir is soon made chief but depends on Mímir to decide. The rounds of exchange are invented. Read the story in [Hœnir, the god who helps make humans and relies on Mímir: what the sources say](/hoenir-the-god-who-helps-make-humans-and-relies-on-mimir/).

@@ -37,4 +37,4 @@ Não sabemos se o cerimonial de hoje se parece com o dos tempos nórdicos. O que
 
 A Ilha de Man mostra também a mistura de culturas do mar da Irlanda. Cruzes de pedra com runas, que sobrevivem em várias partes da ilha, e os nomes de lugares revelam que ali conviveram nórdicos, celtas e cristãos. O manx, língua celta da ilha, ainda é usado na cerimônia, mesmo depois de séculos de domínio de reis nórdicos e depois de senhores escoceses e ingleses.
 
-Para subir os quatro degraus da colina, movendo os discos de um poste a outro sem pôr nenhum maior sobre um menor, jogue [Os degraus da colina](/jogo-os-degraus-da-colina/).
+Para subir os quatro degraus da colina, movendo os discos de um poste a outro sem pôr nenhum maior sobre um menor, jogue [Os degraus da colina](/pt/jogo-os-degraus-da-colina/).

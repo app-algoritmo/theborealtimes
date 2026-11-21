@@ -23,4 +23,4 @@ Toque numa de suas 6 casas (embaixo) para pegar as pedras e semeá-las, uma por 
 
 ## A história por trás
 
-Na Heimskringla, quatro guardiões protegem a Islândia de uma invasão. O jogo de semeadura é invenção. Leia a história em [Landvættir: o dragão, a ave, o touro e o gigante que protegem a Islândia, segundo a Heimskringla](/2026/12/13/landvaettir-guardioes-islandia-heimskringla/).
+Na Heimskringla, quatro guardiões protegem a Islândia de uma invasão. O jogo de semeadura é invenção. Leia a história em [Landvættir: o dragão, a ave, o touro e o gigante que protegem a Islândia, segundo a Heimskringla](/pt/landvaettir-guardioes-islandia-heimskringla/).

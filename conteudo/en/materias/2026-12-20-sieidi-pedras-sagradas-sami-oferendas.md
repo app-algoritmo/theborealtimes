@@ -41,4 +41,4 @@ The article cites, among later documentation, Qvigstad (1926), Hallström (1932)
 
 The early sources copied one another and do not always make clear whether they describe the region where the author lived. They were also written by people who wanted to destroy these practices and may be biased. Practices varied greatly from place to place, so it is risky to speak of "the" sieidi as a uniform tradition. Some modern deposits are hard to interpret, and it is not known whether they continue a Sámi tradition.
 
-To throw, adjusting the angle and the force, offering stones at the sacred stone, hitting it five times with eight stones, play [The sacred stone](/en/game-the-sacred-stone/).
+To throw, adjusting the angle and the force, offering stones at the sacred stone, hitting it five times with eight stones, play [The sacred stone](/game-the-sacred-stone/).

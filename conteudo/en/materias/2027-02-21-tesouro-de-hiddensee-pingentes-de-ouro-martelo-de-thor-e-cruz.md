@@ -48,4 +48,4 @@ A *pendant* is a piece hung on a cord. A *brooch* is a piece for fastening cloth
 
 It is not known who made the set or to whom it belonged. The link with Harald Bluetooth is only a possibility, and the coins of Rügen do not confirm it. The mixture of hammer and cross is not explained in the sources. The news text carries the statement of Michael Schirren, who says only that a link is possible, and that is not a firm conclusion.
 
-To sort the pieces by colour into tubes, as in a chest of gold, play [The Hiddensee pendants](/en/game-the-hiddensee-pendants/).
+To sort the pieces by colour into tubes, as in a chest of gold, play [The Hiddensee pendants](/game-the-hiddensee-pendants/).

@@ -23,4 +23,4 @@ Deslize o dedo (ou use as setas) para conduzir o espírito. Cada luz o faz cresc
 
 ## A história por trás
 
-Nas sagas, a fylgja é um espírito que acompanha uma pessoa. A condução de luzes é invenção do jogo. Leia a história em [Fylgja: o "seguidor", o espírito que acompanha uma pessoa nas sagas](/2026/12/20/fylgja-espirito-acompanhante-sagas-islandesas/).
+Nas sagas, a fylgja é um espírito que acompanha uma pessoa. A condução de luzes é invenção do jogo. Leia a história em [Fylgja: o "seguidor", o espírito que acompanha uma pessoa nas sagas](/pt/fylgja-espirito-acompanhante-sagas-islandesas/).

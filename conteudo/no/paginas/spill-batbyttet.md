@@ -23,4 +23,4 @@ To grupper båter møtes på en smal strekning med bare én ledig plass. Bytt si
 
 ## Historien bak
 
-Gnezdovo er et stort varjagisk område nær Smolensk. Å bytte båter fra side til side er oppfunnet. Les historien i [Gnezdovo: det store varjagiske stedet ved Smolensk, tre tusen hauger og en innskrift](/no/2027/02/28/gnezdovo-o-grande-sitio-varegue-perto-de-smolensk-tres-mil-tumulos-e-uma-inscricao/).
+Gnezdovo er et stort varjagisk område nær Smolensk. Å bytte båter fra side til side er oppfunnet. Les historien i [Gnezdovo: det store varjagiske stedet ved Smolensk, tre tusen hauger og en innskrift](/no/gnezdovo-det-store-varjagiske-stedet-ved-smolensk-tre-tusen/).

@@ -23,4 +23,4 @@ The Norse ships flee down the estuary with the tide. Tap a square of water to fi
 
 ## The story behind it
 
-The Battle of Clontarf was fought in 1014, near Dublin. The ship hunt is made up for the game. Read the story in [Clontarf, 1014: the Good Friday battle in which Brian Boru died, and why it was not just Irish against Vikings](/en/2026/11/19/clontarf-1014-brian-boru-dublin/).
+The Battle of Clontarf was fought in 1014, near Dublin. The ship hunt is made up for the game. Read the story in [Clontarf, 1014: the Good Friday battle in which Brian Boru died, and why it was not just Irish against Vikings](/clontarf-1014-the-good-friday-battle-in-which-brian-boru/).

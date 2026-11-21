@@ -23,4 +23,4 @@ Cinco navios estão escondidos na água. Toque numa casa para atirar (ou use as 
 
 ## A história por trás
 
-No fiorde de Roskilde foram achados restos de cinco navios afundados. Os tiros do jogo são invenção. Leia a história em [Skuldelev: os cinco navios vikings afundados de propósito no fiorde de Roskilde](/2026/11/22/skuldelev-navios-fiorde-de-roskilde/).
+No fiorde de Roskilde foram achados restos de cinco navios afundados. Os tiros do jogo são invenção. Leia a história em [Skuldelev: os cinco navios vikings afundados de propósito no fiorde de Roskilde](/pt/skuldelev-navios-fiorde-de-roskilde/).

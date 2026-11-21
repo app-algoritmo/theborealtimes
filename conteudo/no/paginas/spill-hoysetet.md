@@ -23,4 +23,4 @@ Fra høysetet følger du med på hyttene i dalen. Når en lykt tennes, trykk på
 
 ## Historien bak
 
-I tekstene ser Odin verdenene fra setet Hliðskjálf, og Frøy ser Gerd når han setter seg der. Lysene i dalen er oppfunnet. Les historien i [Hliðskjálf: Odins høysete der alle verdener kan sees](/no/2027/03/07/hlidskjalf-o-trono-de-odin-de-onde-se-ve-todos-os-mundos/).
+I tekstene ser Odin verdenene fra setet Hliðskjálf, og Frøy ser Gerd når han setter seg der. Lysene i dalen er oppfunnet. Les historien i [Hliðskjálf: Odins høysete der alle verdener kan sees](/no/hlidskjalf-odins-hoysete-der-alle-verdener-kan-sees/).

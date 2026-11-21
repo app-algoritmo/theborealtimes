@@ -40,4 +40,4 @@ The poem does not explain what the Sampo was, and scholars disagree. Some see a 
 
 The image marked Finnish art. The painter Akseli Gallen-Kallela made the canvas *The Defense of the Sampo* in 1896. February 28, a date tied to the preface of the first edition of the *Kalevala*, is remembered as Kalevala Day and as Finnish Culture Day.
 
-To put the pieces of the Sampo back together before time runs out, play [The shards of the Sampo](/en/game-the-shards-of-the-sampo/).
+To put the pieces of the Sampo back together before time runs out, play [The shards of the Sampo](/game-the-shards-of-the-sampo/).

@@ -23,4 +23,4 @@ Drag your finger (or the mouse, or use the arrow keys) to move the ship sideways
 
 ## The story behind it
 
-The sagas say Gudríð crossed the Atlantic to Greenland and Vinland. The ice floes are made up for the game. Read the story in [Gudríð: the Icelandic woman who crossed the Atlantic, had a son in America and went to Rome](/en/2026/11/16/gudrid-a-viajante/).
+The sagas say Gudríð crossed the Atlantic to Greenland and Vinland. The ice floes are made up for the game. Read the story in [Gudríð: the Icelandic woman who crossed the Atlantic, had a son in America and went to Rome](/gudrid-the-icelandic-woman-who-crossed-the-atlantic-had/).

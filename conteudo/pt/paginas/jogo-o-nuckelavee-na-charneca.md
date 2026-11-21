@@ -23,4 +23,4 @@ Chegue ao rio, na coluna da direita, antes que o nuckelavee o alcance. Ele dá u
 
 ## A história por trás
 
-O nuckelavee é uma criatura de Orkney, escocesa, que não suporta água doce corrente, e a vítima pode escapar atravessando um rio ou riacho; o registro escrito mais antigo vem de Walter Traill Dennison, entre 1880 e 1894. A charneca é invenção. Leia a história em [O nuckelavee de Orkney: o demônio-cavalo que não cruza a água doce corrente](/2027/01/10/nuckelavee-demonio-cavalo-orkney-folclore/).
+O nuckelavee é uma criatura de Orkney, escocesa, que não suporta água doce corrente, e a vítima pode escapar atravessando um rio ou riacho; o registro escrito mais antigo vem de Walter Traill Dennison, entre 1880 e 1894. A charneca é invenção. Leia a história em [O nuckelavee de Orkney: o demônio-cavalo que não cruza a água doce corrente](/pt/nuckelavee-demonio-cavalo-orkney-folclore/).

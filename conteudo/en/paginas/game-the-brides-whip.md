@@ -23,4 +23,4 @@ A marker runs from side to side along the bar. Tap (or press Space) when it is i
 
 ## The story behind it
 
-In the Danish tale Kong Lindorm, the bride has to face the worm king and free him from his skin. The lashes in the game are made up. Read the story in [Kong Lindorm: the Danish tale of the serpent prince and the bride of shirts](/en/2026/11/22/kong-lindorm-conto-dinamarques/).
+In the Danish tale Kong Lindorm, the bride has to face the worm king and free him from his skin. The lashes in the game are made up. Read the story in [Kong Lindorm: the Danish tale of the serpent prince and the bride of shirts](/kong-lindorm-the-danish-tale-of-the-serpent-prince/).

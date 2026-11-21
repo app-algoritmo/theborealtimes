@@ -23,4 +23,4 @@ Trykk (eller mellomrom) for å få skipet til å stige; når du slipper, synker 
 
 ## Historien bak
 
-Ifølge Den angelsaksiske krøniken seilte Svend opp Humber og Trent til Gainsborough i 1013. Passeringene i spillet er diktet opp. Les historien i [Svend Tveskjegg og erobringen av England i 1013](/no/2026/11/29/sweyn-barba-bifurcada-inglaterra-1013/).
+Ifølge Den angelsaksiske krøniken seilte Svend opp Humber og Trent til Gainsborough i 1013. Passeringene i spillet er diktet opp. Les historien i [Svend Tveskjegg og erobringen av England i 1013](/no/svend-tveskjegg-og-erobringen-av-england-i-1013/).

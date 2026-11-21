@@ -39,4 +39,4 @@ The saga also says that in old age she learned the Psalter and became very devou
 
 The Icelandic sagas are prose texts by anonymous authors, written centuries after the events they tell. The Laxdæla saga mixes events that seem historical with clearly literary scenes, such as the prophetic dreams around Gudrún, and it is not possible to separate with certainty what happened from what was composed. Still, it gives a rare portrait of a woman who acts, decides and bears the consequences.
 
-To test your memory of Gudrún's husbands, play [Gudrún's dreams](/en/game-gudruns-dreams/).
+To test your memory of Gudrún's husbands, play [Gudrún's dreams](/game-gudruns-dreams/).

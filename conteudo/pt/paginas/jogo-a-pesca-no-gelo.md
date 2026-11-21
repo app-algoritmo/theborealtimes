@@ -23,4 +23,4 @@ O urso quer pescar no gelo, como a raposa ensinou. Toque na tela, ou use Espaço
 
 ## A história por trás
 
-No conto de Asbjørnsen e Moe, a raposa convence o urso a pescar com o rabo num buraco no gelo, e o rabo congela e quebra. É assim, diz o conto, que o urso ficou de rabo curto. A pesca em rodadas é invenção. Leia a história em [Por que o urso tem o rabo curto: a raposa, o gelo e o peixe](/2027/03/14/por-que-o-urso-tem-o-rabo-curto-a-raposa-o-gelo-e-o-peixe/).
+No conto de Asbjørnsen e Moe, a raposa convence o urso a pescar com o rabo num buraco no gelo, e o rabo congela e quebra. É assim, diz o conto, que o urso ficou de rabo curto. A pesca em rodadas é invenção. Leia a história em [Por que o urso tem o rabo curto: a raposa, o gelo e o peixe](/pt/por-que-o-urso-tem-o-rabo-curto-a-raposa-o-gelo-e-o-peixe/).

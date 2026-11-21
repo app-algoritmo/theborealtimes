@@ -49,4 +49,4 @@ Eiríksmál é um poema anônimo, de cerca de 954, feito a pedido de Gunnhild pa
 
 O autor do poema não se conhece, e só o começo dele chegou até nós. A morte de Érico vem do relato de Roger de Wendover, que o verbete apresenta como sua fonte. O verbete também não discute outras controvérsias dos estudiosos.
 
-Para pôr os reis do cortejo de Érico na ordem certa, jogue [Os reis do cortejo](/jogo-os-reis-do-cortejo/).
+Para pôr os reis do cortejo de Érico na ordem certa, jogue [Os reis do cortejo](/pt/jogo-os-reis-do-cortejo/).

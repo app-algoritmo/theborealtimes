@@ -40,4 +40,4 @@ Há um inverno e há um fogo. Em meio a eles, duas pessoas se escondem num bosqu
 
 Não se sabe quem é Hoddmímir. A ideia de que ele seja Mímir é só uma possibilidade. Também é incerto se o bosque é a própria árvore Yggdrasil, e a resposta depende do estudioso. As etimologias de Lífþrasir são especulativas. Os textos resumidos aqui não dizem como o casal se esconde, e o que acontece com Yggdrasil durante o fogo não é declarado. Nada disso prova ou refuta uma crença; mostra o que o material permite afirmar.
 
-Para pintar as casas certas de um abrigo com a ajuda das dicas dos números, jogue [O abrigo de Líf](/jogo-o-abrigo-de-lif/).
+Para pintar as casas certas de um abrigo com a ajuda das dicas dos números, jogue [O abrigo de Líf](/pt/jogo-o-abrigo-de-lif/).

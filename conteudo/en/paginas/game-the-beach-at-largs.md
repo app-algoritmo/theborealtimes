@@ -23,4 +23,4 @@ Slide your finger (or use ← → / A D) to move your ship; it fires by itself. 
 
 ## The story behind it
 
-In 1263 King Haakon's fleet, battered by storms, fought ashore near Largs. The beach defence in the game is made up. Read the story in [Largs, 1263: King Haakon and the last great Norse expedition to Scotland](/en/2026/11/29/largs-1263-haakon-haakonsson-escocia/).
+In 1263 King Haakon's fleet, battered by storms, fought ashore near Largs. The beach defence in the game is made up. Read the story in [Largs, 1263: King Haakon and the last great Norse expedition to Scotland](/largs-1263-king-haakon-and-the-last-great-norse-expedition/).

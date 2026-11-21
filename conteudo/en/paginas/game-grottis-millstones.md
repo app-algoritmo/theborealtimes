@@ -23,4 +23,4 @@ Swipe (or use the arrow keys) to push all the pieces to one side. Two equal piec
 
 ## The story behind it
 
-In the Grottasöngr, Fenja and Menja turn the mill Grotti for King Fróði. The merging of numbered pieces is made up. Read the story in [Grottasöngr: Fenja, Menja and the mill that ground gold, peace and salt](/en/2026/12/20/grottasongr-fenja-menja-moinho-grotti/).
+In the Grottasöngr, Fenja and Menja turn the mill Grotti for King Fróði. The merging of numbered pieces is made up. Read the story in [Grottasöngr: Fenja, Menja and the mill that ground gold, peace and salt](/grottasongr-fenja-menja-and-the-mill-that-ground-gold-peace/).

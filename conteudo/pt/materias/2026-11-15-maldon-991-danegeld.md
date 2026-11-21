@@ -39,4 +39,4 @@ Depois da derrota, o arcebispo Sigeric aconselhou o rei a pagar. O valor foi de 
 
 A Batalha de Maldon é um poema de 325 versos em inglês antigo, mas é um fragmento, sem começo nem fim. O manuscrito se perdeu no incêndio da biblioteca Cotton, em 1731, e o texto sobrevive porque foi transcrito em 1724. Os estudiosos discutem quanto dele é fiel aos fatos.
 
-Para defender a calçada contra a maré e os invasores, jogue [A calçada de Maldon](/jogo-a-calcada-de-maldon/).
+Para defender a calçada contra a maré e os invasores, jogue [A calçada de Maldon](/pt/jogo-a-calcada-de-maldon/).

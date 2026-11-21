@@ -23,4 +23,4 @@ Det er julaften, og trollene har kommet til festmåltidet. Bjørnen sover ved si
 
 ## Historien bak
 
-I eventyret til Asbjørnsen og Moe tar trollene over Halvors hus på julekvelden, ett av dem pirker den hvite bjørnen med en pølse, og bjørnen jager dem ut. Spillet med å skremme troll er oppfunnet. Les historien i [Katten på Dovre: troll, en hvitbjørn og en pølse på julaften](/no/2027/03/14/o-gato-do-dovrefjell-trolls-urso-branco-e-linguica-na-vespera-de-natal/).
+I eventyret til Asbjørnsen og Moe tar trollene over Halvors hus på julekvelden, ett av dem pirker den hvite bjørnen med en pølse, og bjørnen jager dem ut. Spillet med å skremme troll er oppfunnet. Les historien i [Katten på Dovre: troll, en hvitbjørn og en pølse på julaften](/no/katten-pa-dovre-troll-en-hvitbjorn-og-en-polse-pa-julaften/).

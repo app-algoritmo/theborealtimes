@@ -44,4 +44,4 @@ Seiðr joins a thread, a staff and a trance. The texts show the practice through
 
 The sources are sparse, and almost everything comes from texts written after the Viking Age. The origin of the name, the link to the distaff, is only a theory. HandWiki says that Harald Bluetooth "apparently" kept a völva at Fyrkat, and the text also marks parts as lacking a citation. It is not known how the ritual really took place, and the graves do not show what people did with the staffs.
 
-To follow a thread of beads and end up with the last one, play [The thread of seiðr](/en/game-the-thread-of-seidr/).
+To follow a thread of beads and end up with the last one, play [The thread of seiðr](/game-the-thread-of-seidr/).

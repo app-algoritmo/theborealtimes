@@ -43,4 +43,4 @@ The written sources and the finds give a more modest picture than the cinema. Be
 
 Many ordinary fighters, however, probably fought without a helmet, in leather or wool caps, which left no trace.
 
-To do the digging yourself, play [Digging at Gjermundbu](/en/game-digging-at-gjermundbu/).
+To do the digging yourself, play [Digging at Gjermundbu](/game-digging-at-gjermundbu/).

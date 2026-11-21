@@ -23,4 +23,4 @@ Tap a page next to the empty space to slide it. Put the pages from 1 to 8 in ord
 
 ## The story behind it
 
-The Codex Regius, from about 1270, lost eight pages before 1643. The sliding puzzle is invented. Read the story in [Codex Regius: the calfskin book that kept the poems of the gods and came back to Iceland](/en/2027/01/03/codex-regius-manuscrito-edda-poetica/).
+The Codex Regius, from about 1270, lost eight pages before 1643. The sliding puzzle is invented. Read the story in [Codex Regius: the calfskin book that kept the poems of the gods and came back to Iceland](/codex-regius-the-calfskin-book-that-kept-the-poems/).

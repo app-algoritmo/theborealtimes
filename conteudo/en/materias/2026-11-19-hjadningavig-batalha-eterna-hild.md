@@ -43,4 +43,4 @@ Scholars see in the legend a theme that recurs in many cultures, that of a confl
 
 The name of the fight, *Hjaðningavíg*, comes from *Hjaðningar*, the followers or descendants of Heðinn. The word shows that the legend was identified by the abductor's side, and scholars do not explain why. The *Ragnarsdrápa*, for its part, describes the scene as painted on a shield, which indicates that the story circulated in verse and in images already in the 9th century.
 
-To help one side win the endless fight by parrying the blow before it lands, play [The battle without end](/en/game-the-battle-without-end/).
+To help one side win the endless fight by parrying the blow before it lands, play [The battle without end](/game-the-battle-without-end/).

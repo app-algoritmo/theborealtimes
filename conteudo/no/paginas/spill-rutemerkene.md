@@ -23,4 +23,4 @@ Trykk på en tom rute og så på ett av de fire merkene nederst. Hvert merke må
 
 ## Historien bak
 
-Omkring 880 seilte Wulfstan fra Hedeby til Truso på sju dager og netter. Rutenettet og merkene er diktet opp for spillet. Les historien i [Wulfstan fra Hedeby: reisen på sju dager og netter til Truso, ved Østersjøen](/no/2026/12/20/wulfstan-hedeby-truso-viagem-de-sete-dias/).
+Omkring 880 seilte Wulfstan fra Hedeby til Truso på sju dager og netter. Rutenettet og merkene er diktet opp for spillet. Les historien i [Wulfstan fra Hedeby: reisen på sju dager og netter til Truso, ved Østersjøen](/no/wulfstan-fra-hedeby-reisen-pa-sju-dager-og-netter-til-truso/).

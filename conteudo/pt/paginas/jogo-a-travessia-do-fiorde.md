@@ -23,4 +23,4 @@ Toque acima, abaixo ou ao lado de você (ou use as setas) para pular de bloco em
 
 ## A história por trás
 
-Os nórdicos viveram na Groenlândia por séculos, em fazendas à beira de fiordes, como em Hvalsey. A travessia sobre o gelo é invenção do jogo. Leia a história em [A Groenlândia nórdica: quatro séculos de fazendas no gelo e o mistério do seu fim](/2026/11/18/groenlandia-nordica-desaparecimento/).
+Os nórdicos viveram na Groenlândia por séculos, em fazendas à beira de fiordes, como em Hvalsey. A travessia sobre o gelo é invenção do jogo. Leia a história em [A Groenlândia nórdica: quatro séculos de fazendas no gelo e o mistério do seu fim](/pt/groenlandia-nordica-desaparecimento/).

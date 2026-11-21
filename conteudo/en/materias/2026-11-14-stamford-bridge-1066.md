@@ -43,4 +43,4 @@ Harold Godwinson granted a truce. Olaf, Harald's son, and the earl of Orkney, Pa
 
 On 28 September, three days later, William, duke of Normandy, landed at Pevensey, in the south. Harold had to march back, and the battle of Hastings, on 14 October, decided the English throne.
 
-To hold the bridge, play [Stamford Bridge](/en/game-stamford-bridge/).
+To hold the bridge, play [Stamford Bridge](/game-stamford-bridge/).

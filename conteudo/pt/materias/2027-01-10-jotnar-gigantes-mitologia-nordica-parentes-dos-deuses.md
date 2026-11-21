@@ -39,4 +39,4 @@ O artigo, por ser uma lista, não descreve Jötunheimr, não conta a origem de Y
 
 Por serem muitos nomes só de lista, não se sabe quantos desses seres tinham histórias próprias. Também não é possível, só por esta lista, dizer se os antigos nórdicos viam os gigantes como um grupo à parte ou como parentes distantes. O que as fontes citadas mostram é que a família divina está misturada com eles. Por isso a lista serve melhor como mapa de parentescos do que como retrato de um povo.
 
-Para levar três deuses e três jötnar de uma margem à outra sem que ninguém fique em minoria, jogue [Deuses e jötnar no rio](/jogo-deuses-e-jotnar-no-rio/).
+Para levar três deuses e três jötnar de uma margem à outra sem que ninguém fique em minoria, jogue [Deuses e jötnar no rio](/pt/jogo-deuses-e-jotnar-no-rio/).

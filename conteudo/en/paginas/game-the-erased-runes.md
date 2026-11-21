@@ -23,4 +23,4 @@ Tap a square to darken it, and again to lighten it. Darken squares until no numb
 
 ## The story behind it
 
-The Kensington Runestone, reported in 1898 by Olof Ohman in Minnesota, bears a runic inscription dated 1362. Most scholars regard it as a 19th-century hoax. Blacking out numbers is invented. Read the story in [The Kensington Runestone: the runic inscription of 1362 found in Minnesota in 1898](/en/2027/01/31/pedra-de-kensington-minnesota-runas-1898-1362/).
+The Kensington Runestone, reported in 1898 by Olof Ohman in Minnesota, bears a runic inscription dated 1362. Most scholars regard it as a 19th-century hoax. Blacking out numbers is invented. Read the story in [The Kensington Runestone: the runic inscription of 1362 found in Minnesota in 1898](/the-kensington-runestone-the-runic-inscription-of-1362/).

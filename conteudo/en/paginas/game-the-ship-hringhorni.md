@@ -23,4 +23,4 @@ Tap a piece to choose it and tap a free square in the same row (or column) to sl
 
 ## The story behind it
 
-In the Gylfaginning, the giantess Hyrrokkin pushes Baldr's ship, Hringhorni, into the sea. The puzzle is made up. Read the story in [The funeral of Baldr: the giantess Hyrrokkin launches the gods' greatest ship](/en/2026/12/13/funeral-de-baldr-hyrrokkin-hringhorni/).
+In the Gylfaginning, the giantess Hyrrokkin pushes Baldr's ship, Hringhorni, into the sea. The puzzle is made up. Read the story in [The funeral of Baldr: the giantess Hyrrokkin launches the gods' greatest ship](/the-funeral-of-baldr-the-giantess-hyrrokkin-launches/).

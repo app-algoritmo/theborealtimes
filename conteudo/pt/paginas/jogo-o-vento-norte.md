@@ -23,4 +23,4 @@ Toque na tela (ou use a barra de espaço) para o vento subir; sem toques, ele de
 
 ## A história por trás
 
-No conto popular norueguês, o Vento Norte leva a jovem ao castelo a leste do sol e a oeste da lua. As nuvens são invenção do jogo. Leia a história em [A leste do sol e a oeste da lua: o conto norueguês do urso branco e do Vento do Norte](/2026/11/16/a-leste-do-sol-oeste-da-lua/).
+No conto popular norueguês, o Vento Norte leva a jovem ao castelo a leste do sol e a oeste da lua. As nuvens são invenção do jogo. Leia a história em [A leste do sol e a oeste da lua: o conto norueguês do urso branco e do Vento do Norte](/pt/a-leste-do-sol-oeste-da-lua/).

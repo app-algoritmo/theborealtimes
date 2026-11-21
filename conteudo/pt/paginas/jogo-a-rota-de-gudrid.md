@@ -23,4 +23,4 @@ Arraste o dedo (ou o mouse, ou use as setas) para mover o navio para os lados e 
 
 ## A história por trás
 
-As sagas contam que Gudríð cruzou o Atlântico até a Groenlândia e a Vinlândia. Os blocos de gelo são invenção do jogo. Leia a história em [Gudríð: a islandesa que cruzou o Atlântico, teve um filho na América e foi a Roma](/2026/11/16/gudrid-a-viajante/).
+As sagas contam que Gudríð cruzou o Atlântico até a Groenlândia e a Vinlândia. Os blocos de gelo são invenção do jogo. Leia a história em [Gudríð: a islandesa que cruzou o Atlântico, teve um filho na América e foi a Roma](/pt/gudrid-a-viajante/).

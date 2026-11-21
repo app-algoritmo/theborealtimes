@@ -23,4 +23,4 @@ Os quadrados de cores numeradas estão fora de ordem. Toque numa seta ao lado de
 
 ## A história por trás
 
-As tapeçarias de Överhogdal foram achadas em 1909 numa igreja de Härjedalen; a leitura das figuras é debatida, e a mais citada é a de Ragnarök. Deslizar faixas é invenção. Leia a história em [As tapeçarias de Överhogdal: tecidos da Era Viking achados numa igreja sueca](/2027/02/14/tapecarias-de-overhogdal-tecidos-da-era-viking-harjedalen/).
+As tapeçarias de Överhogdal foram achadas em 1909 numa igreja de Härjedalen; a leitura das figuras é debatida, e a mais citada é a de Ragnarök. Deslizar faixas é invenção. Leia a história em [As tapeçarias de Överhogdal: tecidos da Era Viking achados numa igreja sueca](/pt/tapecarias-de-overhogdal-tecidos-da-era-viking-harjedalen/).

@@ -23,4 +23,4 @@ Cada casa vale um número: o da coluna, para a soma da linha, e o da linha, para
 
 ## A história por trás
 
-No Danelaw, na Inglaterra, há muitas centenas de topônimos de origem escandinava; "-by" designa uma fazenda e é o elemento mais comum, e "-thorpe" uma povoação secundária. Marcar casas por somas é invenção. Leia a história em [Nomes de lugares nórdicos na Inglaterra: o que dizem -by, -thorpe e -thwaite sobre o Danelaw](/2027/02/21/toponimos-nordicos-na-inglaterra-by-thorpe-e-o-danelaw/).
+No Danelaw, na Inglaterra, há muitas centenas de topônimos de origem escandinava; "-by" designa uma fazenda e é o elemento mais comum, e "-thorpe" uma povoação secundária. Marcar casas por somas é invenção. Leia a história em [Nomes de lugares nórdicos na Inglaterra: o que dizem -by, -thorpe e -thwaite sobre o Danelaw](/pt/toponimos-nordicos-na-inglaterra-by-thorpe-e-o-danelaw/).

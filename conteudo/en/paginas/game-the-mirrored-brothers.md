@@ -23,4 +23,4 @@ Two brothers walk at the same time, each in his own field. Tap the screen to mov
 
 ## The story behind it
 
-In Droplaugarsona saga, the brothers Grímr and Helgi, sons of the widow Droplaug, live near Lagarfljót in eastern Iceland around the year 1000. Helgi is killed and Grímr avenges him. Moving brothers in mirror is invented. Read the story in [Droplaugarsona saga: the brothers Grímr and Helgi, vengeance near Lagarfljót](/en/2027/02/07/droplaugarsona-saga-grimr-helgi-lagarfljot/).
+In Droplaugarsona saga, the brothers Grímr and Helgi, sons of the widow Droplaug, live near Lagarfljót in eastern Iceland around the year 1000. Helgi is killed and Grímr avenges him. Moving brothers in mirror is invented. Read the story in [Droplaugarsona saga: the brothers Grímr and Helgi, vengeance near Lagarfljót](/droplaugarsona-saga-the-brothers-grimr-and-helgi-vengeance/).

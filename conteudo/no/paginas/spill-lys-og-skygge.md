@@ -23,4 +23,4 @@ Alvene kommer én etter én langs stien. De lyse hører til i Álfheimr: trykk p
 
 ## Historien bak
 
-I Den yngre Edda sier Snorre at de lyse alvene bor i Álfheimr og de mørke alvene bor nede i jorda, svartere enn bek. Stien og sorteringen er oppfunnet. Les historien i [Álfheimr: lyse alver og mørke alver hos Snorre og i Grímnismál](/no/2027/03/14/alfheim-elfos-da-luz-e-elfos-escuros-em-snorri-e-no-grimnismal/).
+I Den yngre Edda sier Snorre at de lyse alvene bor i Álfheimr og de mørke alvene bor nede i jorda, svartere enn bek. Stien og sorteringen er oppfunnet. Les historien i [Álfheimr: lyse alver og mørke alver hos Snorre og i Grímnismál](/no/alfheimr-lyse-alver-og-morke-alver-hos-snorre/).

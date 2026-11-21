@@ -23,4 +23,4 @@ Start at the golden mark. Tap a neighbouring mark (beside, above or below) to mo
 
 ## The story behind it
 
-At Lindholm Høje there are graves with markers set in the shape of a ship. The route in the game is made up. Read the story in [Lindholm Høje: the Danish cemetery of stone ships covered by sand](/en/2026/11/22/lindholm-hoje-barcos-de-pedra/).
+At Lindholm Høje there are graves with markers set in the shape of a ship. The route in the game is made up. Read the story in [Lindholm Høje: the Danish cemetery of stone ships covered by sand](/lindholm-hoje-the-danish-cemetery-of-stone-ships-covered/).

@@ -43,4 +43,4 @@ The characters named by the source are Svipdagr, the young man; Gróa, his dead 
 
 The source does not give the number of stanzas, the content of the stepmother's task, or why the manuscripts reversed the order of the poems. Nor does it explain why the link to the ballad took so long to be noticed, beyond recording that it did. Likewise, it does not give the full text of the ballad or of its other parts, so the comparison between ballad and poems is, here, limited to what is said above.
 
-To carry a stack of rings from one post to another, like a castle gate that opens only when the right thing is done, play [The rings of the gate](/en/game-the-rings-of-the-gate/).
+To carry a stack of rings from one post to another, like a castle gate that opens only when the right thing is done, play [The rings of the gate](/game-the-rings-of-the-gate/).

@@ -23,4 +23,4 @@ The children dressed as Easter witches carry cards to trade for sweets. Sixteen 
 
 ## The story behind it
 
-According to the Nordiska museet, Swedish children dress up as Easter witches and wish a happy Easter with cards, hoping for sweets or a coin. The cards in the game and the pairs are invention. Read the story in [Easter witches in Sweden: from Blåkulla to children with Easter cards](/en/2027/03/28/as-bruxas-da-pascoa-na-suecia-de-blakulla-as-criancas-com-cartoes-de-pascoa/).
+According to the Nordiska museet, Swedish children dress up as Easter witches and wish a happy Easter with cards, hoping for sweets or a coin. The cards in the game and the pairs are invention. Read the story in [Easter witches in Sweden: from Blåkulla to children with Easter cards](/easter-witches-in-sweden-from-blakulla-to-children/).

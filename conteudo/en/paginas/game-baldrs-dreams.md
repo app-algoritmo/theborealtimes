@@ -23,4 +23,4 @@ Tap a card to turn it over, then another. If the two signs match, the pair stays
 
 ## The story behind it
 
-In the Baldrs draumar, Odin goes down to Hel to understand Baldr's dreams. The signs on the cards are made up. Read the story in [Baldrs draumar: Odin rides to Hel to hear what Baldr's dreams foretell](/en/2026/12/13/baldrs-draumar-odin-desce-a-hel/).
+In the Baldrs draumar, Odin goes down to Hel to understand Baldr's dreams. The signs on the cards are made up. Read the story in [Baldrs draumar: Odin rides to Hel to hear what Baldr's dreams foretell](/baldrs-draumar-odin-rides-to-hel-to-hear-what-baldr-s/).

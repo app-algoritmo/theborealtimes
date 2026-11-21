@@ -43,4 +43,4 @@ The article says the older law "may" have been created in the reign of Olaf the 
 
 Compensation for death, measured in cattle, shows a society in which justice ran through fixed sums. But the article does not describe how each amount was reached, and it is best not to imagine more than the text allows.
 
-To close accounts with tokens of exact value, as in a compensation, play [The accounts of the Gulating](/en/game-the-accounts-of-the-gulating/).
+To close accounts with tokens of exact value, as in a compensation, play [The accounts of the Gulating](/game-the-accounts-of-the-gulating/).

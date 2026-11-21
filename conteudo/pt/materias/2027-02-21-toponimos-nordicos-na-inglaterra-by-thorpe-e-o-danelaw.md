@@ -48,4 +48,4 @@ Os finais *-by* e *-thorpe* são os mais conhecidos e se concentram no Danelaw. 
 
 Quem eram as pessoas que deram os nomes não é dito pelos nomes. Quando cada nome nasceu, e se foi no tempo dos vikings ou depois, nem sempre se sabe. Alguns finais, como *-wick* e *-borough*, são ambíguos. A ideia de que *-thwaite* seria mais norueguês é só uma suposição das fontes.
 
-Para marcar as fazendas pelas somas das linhas e das colunas, jogue [As fazendas do Danelaw](/jogo-as-fazendas-do-danelaw/).
+Para marcar as fazendas pelas somas das linhas e das colunas, jogue [As fazendas do Danelaw](/pt/jogo-as-fazendas-do-danelaw/).

@@ -23,4 +23,4 @@ Harald Gille precisa andar descalço sobre nove relhas de arado que esquentam e 
 
 ## A história por trás
 
-Na Heimskringla, Harald Gille prova ser filho do rei Magnus Descalço andando sobre nove relhas de arado em brasa, na presença de dois bispos. As relhas que esquentam e esfriam em ciclos são invenção. Leia a história em [Harald Gille e as nove relhas em brasa: a prova do filho de Magnus Descalço](/2027/03/21/harald-gille-e-as-nove-relhas-em-brasa-a-prova-do-filho-de-magnus-descalco/).
+Na Heimskringla, Harald Gille prova ser filho do rei Magnus Descalço andando sobre nove relhas de arado em brasa, na presença de dois bispos. As relhas que esquentam e esfriam em ciclos são invenção. Leia a história em [Harald Gille e as nove relhas em brasa: a prova do filho de Magnus Descalço](/pt/harald-gille-e-as-nove-relhas-em-brasa-a-prova-do-filho-de-magnus-descalco/).

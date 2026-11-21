@@ -23,4 +23,4 @@ Dra fingeren (eller musen) over jorden for å fjerne den. Når nesten alt er ren
 
 ## Historien bak
 
-Gjermundbu-hjelmen ble funnet i 1943 i en grav på Ringerike i Norge, og er den eneste nesten komplette vikinghjelmen som er kjent: rund, av jern, med øyebeskyttelse og uten horn. Graveprosessen i spillet er en forenkling. Les historien i [Hadde vikingene hjelmer med horn? Hva Gjermundbu-funnet viser](/no/2026/11/12/capacete-viking-chifres-gjermundbu/).
+Gjermundbu-hjelmen ble funnet i 1943 i en grav på Ringerike i Norge, og er den eneste nesten komplette vikinghjelmen som er kjent: rund, av jern, med øyebeskyttelse og uten horn. Graveprosessen i spillet er en forenkling. Les historien i [Hadde vikingene hjelmer med horn? Hva Gjermundbu-funnet viser](/no/hadde-vikingene-hjelmer-med-horn-hva-gjermundbu-funnet-viser/).

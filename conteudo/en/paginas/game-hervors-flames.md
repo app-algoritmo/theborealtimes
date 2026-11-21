@@ -23,4 +23,4 @@ Four flames with runes light up in an order. Memorise it and repeat the order by
 
 ## The story behind it
 
-In Hervör's saga, flames and ghosts haunt Angantýr's mound. The order of the flames is made up for the game. Read the story in [Hervör and the sword Tyrfing: the woman who woke her dead father to take his sword](/en/2026/11/20/hervor-tyrfing-hervarar-saga/).
+In Hervör's saga, flames and ghosts haunt Angantýr's mound. The order of the flames is made up for the game. Read the story in [Hervör and the sword Tyrfing: the woman who woke her dead father to take his sword](/hervor-and-the-sword-tyrfing-the-woman-who-woke-her-dead/).

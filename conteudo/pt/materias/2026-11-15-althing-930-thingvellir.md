@@ -39,4 +39,4 @@ O Althing perdeu o poder aos poucos, sob domínio norueguês e depois dinamarqu�
 
 Para os islandeses, Þingvellir é um lugar de identidade. É um sítio do Patrimônio Mundial e um parque nacional, e o seu valor está menos em ruínas do que no que representa: a ideia de que as leis de um povo podem ser feitas por ele mesmo, em voz alta, ao ar livre.
 
-Para recitar a lei no ritmo certo, jogue [O recitador da lei](/jogo-o-recitador-da-lei/).
+Para recitar a lei no ritmo certo, jogue [O recitador da lei](/pt/jogo-o-recitador-da-lei/).

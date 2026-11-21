@@ -23,4 +23,4 @@ Tap a stack to pick up its top coin and tap another stack to drop it. A coin can
 
 ## The story behind it
 
-The Cuerdale hoard, found in 1840 in England, held thousands of silver coins of many origins. The sorting into stacks is made up. Read the story in [The Cuerdale Hoard: the largest Viking silver hoard ever found in Britain](/en/2026/12/06/cuerdale-tesouro-de-prata-vikings/).
+The Cuerdale hoard, found in 1840 in England, held thousands of silver coins of many origins. The sorting into stacks is made up. Read the story in [The Cuerdale Hoard: the largest Viking silver hoard ever found in Britain](/the-cuerdale-hoard-the-largest-viking-silver-hoard-ever/).

@@ -23,4 +23,4 @@ Flytt de 4 verktøyene fra første pinne til siste, ett om gangen: trykk på en 
 
 ## Historien bak
 
-Mästermyr-kisten, funnet på Gotland i 1936, inneholdt mer enn 200 verktøy. Pinnetårnet er oppfunnet. Les historien i [Mästermyr-kisten: mer enn to hundre verktøy fra en vikinghåndverker funnet i en myr på Gotland](/no/2027/01/03/mastermyr-bau-de-ferramentas-gotland/).
+Mästermyr-kisten, funnet på Gotland i 1936, inneholdt mer enn 200 verktøy. Pinnetårnet er oppfunnet. Les historien i [Mästermyr-kisten: mer enn to hundre verktøy fra en vikinghåndverker funnet i en myr på Gotland](/no/mastermyr-kisten-mer-enn-to-hundre-verktoy/).

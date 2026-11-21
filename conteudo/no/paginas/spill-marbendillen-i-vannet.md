@@ -23,4 +23,4 @@ En bonde fisker opp en marbendill, havmannen. Ni vannflekker ligger foran deg. M
 
 ## Historien bak
 
-I fortellingen til Jón Árnason fisker en bonde opp en marbendill, som ler tre ganger og frigjør seg ved å forklare hvorfor. Vannflekkene, opptredenene og rytmen i spillet er oppdiktet. Les historien i [Marbendillen som lo tre ganger: havmannen i islandsk folketro](/no/2027/04/04/o-marbendill-que-riu-tres-vezes-o-homem-do-mar-do-folclore-islandes/).
+I fortellingen til Jón Árnason fisker en bonde opp en marbendill, som ler tre ganger og frigjør seg ved å forklare hvorfor. Vannflekkene, opptredenene og rytmen i spillet er oppdiktet. Les historien i [Marbendillen som lo tre ganger: havmannen i islandsk folketro](/no/marbendillen-som-lo-tre-ganger-havmannen-i-islandsk-folketro/).

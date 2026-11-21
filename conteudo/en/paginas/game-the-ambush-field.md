@@ -23,4 +23,4 @@ Tap a cell to open it. Each number tells how many of the 8 neighbouring cells hi
 
 ## The story behind it
 
-Magnus Olafsson was killed in an ambush in Ireland in 1103. The number field is made up. Read the story in [Magnus Barefoot: the Norwegian king who died in an ambush in Ireland in 1103](/en/2026/12/06/magnus-pes-descalcos-ulster-1103/).
+Magnus Olafsson was killed in an ambush in Ireland in 1103. The number field is made up. Read the story in [Magnus Barefoot: the Norwegian king who died in an ambush in Ireland in 1103](/magnus-barefoot-the-norwegian-king-who-died-in-an-ambush/).

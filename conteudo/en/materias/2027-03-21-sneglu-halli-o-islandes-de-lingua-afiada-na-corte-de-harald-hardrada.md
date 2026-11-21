@@ -45,4 +45,4 @@ A *þáttr* is a short Icelandic tale. A *senna* is the ritual contest of insult
 
 There is no way to know whether Halli existed as a person or how much of the tale reflects Harald's real court. The two versions differ, and the reading of the king's tone, between affection and contempt, depends on the manuscript and the scholar.
 
-To return each insult at the right moment, play [The comeback](/en/game-the-comeback/).
+To return each insult at the right moment, play [The comeback](/game-the-comeback/).

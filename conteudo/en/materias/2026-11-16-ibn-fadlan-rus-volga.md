@@ -45,4 +45,4 @@ Archaeologists have found ship burials in Scandinavia and elsewhere, which gives
 
 The account inspired novel and film, including a Hollywood version with monsters that do not appear in the text. The real version is less colourful, and more interesting: a man from Baghdad, with a keen eye, who saw Northern men far from home and wrote down what he saw.
 
-To separate what the chronicler wrote from what was invented later, play [Ibn Fadlan's account](/en/game-ibn-fadlans-account/).
+To separate what the chronicler wrote from what was invented later, play [Ibn Fadlan's account](/game-ibn-fadlans-account/).

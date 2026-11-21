@@ -47,4 +47,4 @@ Since the work cites many skaldic verses, and some exist only in it, losing *Fag
 
 The author has not been identified, and the origin in Norway or Iceland is not settled. The main sources are "proposed", not confirmed. And since the original is lost, the text exists only in copies, which means reading the work with the caution one has before any text that arrived at second hand.
 
-To find, among turned-over sheets, the seals that repeat in pairs, play [The seals of Fagrskinna](/en/game-the-seals-of-fagrskinna/).
+To find, among turned-over sheets, the seals that repeat in pairs, play [The seals of Fagrskinna](/game-the-seals-of-fagrskinna/).

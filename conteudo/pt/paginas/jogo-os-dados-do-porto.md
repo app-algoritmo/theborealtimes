@@ -23,4 +23,4 @@ Toque em Lançar para rolar o dado: cada resultado soma ao ganho da viagem no ba
 
 ## A história por trás
 
-Entre os Vanir, Njörðr é o senhor do vento, do mar e da pesca. O jogo de dados e o porto são invenção. Leia a história em [Njörðr: o deus do mar e da riqueza que casou com Skaði e não suportou as montanhas](/2026/12/27/njordr-deus-do-mar-skadi-nootun/).
+Entre os Vanir, Njörðr é o senhor do vento, do mar e da pesca. O jogo de dados e o porto são invenção. Leia a história em [Njörðr: o deus do mar e da riqueza que casou com Skaði e não suportou as montanhas](/pt/njordr-deus-do-mar-skadi-nootun/).

@@ -23,4 +23,4 @@ Words fall down the screen. Tap only those that start with the letter shown at t
 
 ## The story behind it
 
-In Egil’s Saga, the poet composes the “Höfuðlausn” in one night to escape death before King Eirík. The real poem does not appear in the game. Alliteration, repeating initial sounds, is a true feature of skaldic poetry; the game mechanic is made up. Read the story in [Egil Skallagrímsson and the poem that, according to the saga, saved his head](/en/2026/11/12/egil-skallagrimsson-resgate-da-cabeca/).
+In Egil’s Saga, the poet composes the “Höfuðlausn” in one night to escape death before King Eirík. The real poem does not appear in the game. Alliteration, repeating initial sounds, is a true feature of skaldic poetry; the game mechanic is made up. Read the story in [Egil Skallagrímsson and the poem that, according to the saga, saved his head](/egil-skallagrimsson-and-the-poem-that-according-to-the-saga/).

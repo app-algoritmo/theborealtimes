@@ -39,4 +39,4 @@ A colônia nórdica durou cerca de quatro séculos. Chegou a ter de 2 mil a 3 mi
 
 Eirik teve filhos que entraram nas sagas por conta própria. O mais famoso, Leif, foi quem, segundo a *Grænlendinga saga*, chegou à Vinlândia. A saga diz que Eirik, já idoso, se recusou a se converter ao cristianismo que o filho trouxe e continuou fiel à antiga religião.
 
-Para conduzir uma frota até a Groenlândia, jogue [Vinte e cinco navios](/jogo-vinte-e-cinco-navios/).
+Para conduzir uma frota até a Groenlândia, jogue [Vinte e cinco navios](/pt/jogo-vinte-e-cinco-navios/).

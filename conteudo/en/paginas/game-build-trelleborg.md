@@ -23,4 +23,4 @@ A cross of stakes spins over the site. Tap (or press the space bar) when it line
 
 ## The story behind it
 
-Trelleborg was raised around 981, with four gates and sixteen longhouses inside the ring. The game simplifies the work into four stages. Read the story in [Trelleborg: the circular fortress the Vikings built with perfect geometry](/en/2026/11/15/trelleborg-fortaleza-circular/).
+Trelleborg was raised around 981, with four gates and sixteen longhouses inside the ring. The game simplifies the work into four stages. Read the story in [Trelleborg: the circular fortress the Vikings built with perfect geometry](/trelleborg-the-circular-fortress-the-vikings-built/).

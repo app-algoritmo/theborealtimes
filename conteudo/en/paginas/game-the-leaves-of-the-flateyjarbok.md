@@ -23,4 +23,4 @@ The numbers beside each row and above each column say how many squares in a row 
 
 ## The story behind it
 
-The Flateyjarbók has 225 vellum leaves, written between 1387 and 1394, and the priest Magnús Þórhallsson also drew the illustrations. The picture in the game is invented. Read the story in [Flateyjarbók, the Book of Flatey: 225 vellum leaves written in Iceland in the fourteenth century](/en/2027/01/10/flateyjarbok-livro-de-flatey-manuscrito-islandes/).
+The Flateyjarbók has 225 vellum leaves, written between 1387 and 1394, and the priest Magnús Þórhallsson also drew the illustrations. The picture in the game is invented. Read the story in [Flateyjarbók, the Book of Flatey: 225 vellum leaves written in Iceland in the fourteenth century](/flateyjarbok-the-book-of-flatey-225-vellum-leaves-written/).

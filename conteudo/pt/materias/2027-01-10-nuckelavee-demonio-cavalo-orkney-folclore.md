@@ -47,4 +47,4 @@ A mistura de elementos celtas e nórdicos, que o artigo propõe, sugere que a fi
 
 A origem é provável, e não demonstrada. A ligação do nome ao manuscrito de Jo Ben é duvidosa. As descrições diferem, e o artigo não escolhe uma. E, como o registro escrito mais citado é do final do século XIX, não se sabe o quanto das histórias coletadas por Dennison remonta a tempos mais antigos.
 
-Para escapar até a água doce corrente com o monstro atrás de você, jogue [O nuckelavee na charneca](/jogo-o-nuckelavee-na-charneca/).
+Para escapar até a água doce corrente com o monstro atrás de você, jogue [O nuckelavee na charneca](/pt/jogo-o-nuckelavee-na-charneca/).

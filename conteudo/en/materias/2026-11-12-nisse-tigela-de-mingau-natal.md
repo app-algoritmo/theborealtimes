@@ -39,4 +39,4 @@ No one saw the nisse. But when the girl came back at the end of the afternoon, t
 
 They say the family kept the stone on the kitchen shelf and that, from that year on, the bowl of porridge was never forgotten again.
 
-To look after the barn until dawn, play [The barn nisse](/en/game-barn-nisse/).
+To look after the barn until dawn, play [The barn nisse](/game-barn-nisse/).

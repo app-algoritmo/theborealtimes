@@ -41,4 +41,4 @@ The text records superstitions about avoiding it on Christmas Eve and on Thursda
 
 The article gives no reliable dates for the first mention, does not know whether the spirit had a "true shape" and does not make clear whether the Fagertärn tale is Swedish. What is well described is the central idea: a handsome, tame horse by the water that is a trap.
 
-To find, by trial, the ford where the brook horse waits, guided by hot-and-cold hints, play [The brook horse's ford](/en/game-the-brook-horses-ford/).
+To find, by trial, the ford where the brook horse waits, guided by hot-and-cold hints, play [The brook horse's ford](/game-the-brook-horses-ford/).

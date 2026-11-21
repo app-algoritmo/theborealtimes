@@ -23,4 +23,4 @@ Tap a square to dig. Each number tells how many of the neighbouring squares hide
 
 ## The story behind it
 
-In the Norse sources, dwarfs are smiths of the gods' jewels and weapons. The mine and the traps are invented. Read the story in [The dwarfs of the Edda: maggots in Ymir's flesh, smiths of the gods and stones at sunrise](/en/2027/01/03/anoes-dvergar-edda-ymir-ferreiros/).
+In the Norse sources, dwarfs are smiths of the gods' jewels and weapons. The mine and the traps are invented. Read the story in [The dwarfs of the Edda: maggots in Ymir's flesh, smiths of the gods and stones at sunrise](/the-dwarfs-of-the-edda-maggots-in-ymir-s-flesh-smiths/).

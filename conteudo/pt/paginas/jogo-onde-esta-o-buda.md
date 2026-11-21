@@ -23,4 +23,4 @@ A estatueta de Buda está sob um dos potes. Veja onde ela fica, observe os potes
 
 ## A história por trás
 
-Em Helgö, na Suécia, escavações de 1954 acharam uma estatueta de bronze do Buda, do século VI e de estilo do norte da Índia. A troca dos potes é invenção. Leia a história em [Helgö: a estatueta de Buda achada numa ilha do lago Mälaren, na Suécia](/2027/03/07/helgo-a-estatueta-de-buda-achada-numa-ilha-do-lago-malaren-na-suecia/).
+Em Helgö, na Suécia, escavações de 1954 acharam uma estatueta de bronze do Buda, do século VI e de estilo do norte da Índia. A troca dos potes é invenção. Leia a história em [Helgö: a estatueta de Buda achada numa ilha do lago Mälaren, na Suécia](/pt/helgo-a-estatueta-de-buda-achada-numa-ilha-do-lago-malaren-na-suecia/).

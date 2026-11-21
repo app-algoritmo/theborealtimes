@@ -23,4 +23,4 @@ Cada número só pode aparecer uma vez em cada linha e em cada coluna entre as c
 
 ## A história por trás
 
-No conto recolhido por Asbjørnsen e Moe, o gigante transforma seis príncipes e suas noivas em pedra. Pintar casas de pedra num quebra-cabeça de números é invenção. Leia a história em [O gigante sem coração no corpo: o conto norueguês de Asbjørnsen e Moe](/2027/02/28/o-gigante-sem-coracao-no-corpo-conto-de-asbjornsen-e-moe/).
+No conto recolhido por Asbjørnsen e Moe, o gigante transforma seis príncipes e suas noivas em pedra. Pintar casas de pedra num quebra-cabeça de números é invenção. Leia a história em [O gigante sem coração no corpo: o conto norueguês de Asbjørnsen e Moe](/pt/o-gigante-sem-coracao-no-corpo-conto-de-asbjornsen-e-moe/).

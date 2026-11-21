@@ -39,4 +39,4 @@ The *Kalevala* is, in general, a book of extraordinary deeds, but this song reca
 
 The story inspired works in several fields. The composer Jean Sibelius wrote a choral symphony called *Kullervo*, premiered in 1892. The painter Akseli Gallen-Kallela depicted the young man in famous paintings, and the writer J. R. R. Tolkien, as a young man, wrote a prose version, which later served as the basis for the story of Túrin Turambar. This shows how such a dark narrative could enter the imagination of later generations.
 
-To lead into the pen, running around them, the animals of the herd before night falls, without letting them escape into the forest, play [Kullervo's flock](/en/game-kullervos-flock/).
+To lead into the pen, running around them, the animals of the herd before night falls, without letting them escape into the forest, play [Kullervo's flock](/game-kullervos-flock/).

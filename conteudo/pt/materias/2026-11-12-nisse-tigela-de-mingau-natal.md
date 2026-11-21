@@ -40,4 +40,4 @@ Ninguém viu o nisse. Mas, quando a menina voltou ao fim da tarde, a tigela esta
 Dizem que a família guardou a pedra na prateleira da cozinha e que, a partir daquele ano, a tigela de mingau nunca mais foi esquecida.
 
 
-Para cuidar do celeiro até o amanhecer, jogue [O nisse do celeiro](/jogo-nisse-do-celeiro/).
+Para cuidar do celeiro até o amanhecer, jogue [O nisse do celeiro](/pt/jogo-nisse-do-celeiro/).

@@ -39,4 +39,4 @@ A história da forja aparece só em Snorri, escrito no século XIII por um islan
 
 A arqueologia confirma que o martelo importava. Foram achados muitos pingentes em forma de martelo de Thor em túmulos e povoados da Era Viking. Um molde encontrado na Dinamarca servia para fundir tanto martelos quanto cruzes, o que sugere gente que vivia entre as duas crenças. As fontes não dizem que o pingente tinha poder, e o texto não atribui poder a nenhum deles. O que se sabe é que as pessoas os usavam.
 
-Para tentar espantar as moscas da forja antes que estraguem o martelo, jogue [Moscas na forja](/jogo-moscas-na-forja/).
+Para tentar espantar as moscas da forja antes que estraguem o martelo, jogue [Moscas na forja](/pt/jogo-moscas-na-forja/).

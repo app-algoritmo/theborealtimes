@@ -23,4 +23,4 @@ card:
 
 ## The story behind it
 
-In the Ölkofra þáttr, Ölkofri burns charcoal, falls asleep, and the fire spreads to the forest of six chieftains. The three stretches of woodland, the sparks and the rhythm of the game are invention. Read the story in [Ölkofra þáttr: the ale-seller who burned the forest of six chieftains and escaped outlawry](/en/2027/04/04/olkofra-thattr-o-cervejeiro-que-queimou-a-floresta-de-seis-chefes-e-escapou-da-proscricao/).
+In the Ölkofra þáttr, Ölkofri burns charcoal, falls asleep, and the fire spreads to the forest of six chieftains. The three stretches of woodland, the sparks and the rhythm of the game are invention. Read the story in [Ölkofra þáttr: the ale-seller who burned the forest of six chieftains and escaped outlawry](/olkofra-thattr-the-ale-seller-who-burned-the-forest-of-six/).

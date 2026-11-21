@@ -23,4 +23,4 @@ Trykk på en blokk: den og alle blokker over og til høyre for den skjæres bort
 
 ## Historien bak
 
-I dalen Þjórsárdalur dekket aske fra Hekla middelalderske gårder. Spillet med å skjære torvblokker er oppfunnet. Les historien i [Stöng: den islandske gården som ble begravd av Hekla, og kopien som viser hvordan den kan ha sett ut](/no/2026/12/27/stong-fazenda-islandesa-soterrada-hekla/).
+I dalen Þjórsárdalur dekket aske fra Hekla middelalderske gårder. Spillet med å skjære torvblokker er oppfunnet. Les historien i [Stöng: den islandske gården som ble begravd av Hekla, og kopien som viser hvordan den kan ha sett ut](/no/stong-den-islandske-garden-som-ble-begravd-av-hekla/).

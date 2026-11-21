@@ -23,4 +23,4 @@ In the Fimbulvetr the snow comes from every side. Four drifts grow around the ho
 
 ## The story behind it
 
-In the Prose Edda, Snorri says the Fimbulvetr brings three winters in a row with no summer, and that snow comes from every quarter. The drifts to sweep and the rhythm of the game are invention. Read the story in [Fimbulvetr: the three-year winter with no summer that comes before Ragnarök](/en/2027/03/28/fimbulvetr-o-inverno-de-tres-anos-sem-verao-que-antecede-o-ragnarok/).
+In the Prose Edda, Snorri says the Fimbulvetr brings three winters in a row with no summer, and that snow comes from every quarter. The drifts to sweep and the rhythm of the game are invention. Read the story in [Fimbulvetr: the three-year winter with no summer that comes before Ragnarök](/fimbulvetr-the-three-year-winter-with-no-summer-that-comes/).

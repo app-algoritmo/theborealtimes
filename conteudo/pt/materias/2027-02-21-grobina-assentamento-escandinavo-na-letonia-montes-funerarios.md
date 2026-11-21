@@ -52,4 +52,4 @@ Em Grobiņa há cemitérios com muitos montes, uma pedra decorada ao estilo de G
 
 Se o assentamento foi uma colônia de Gotland é uma leitura de Nerman. Os números de tropas de Rimbert são alegações do autor. A frase de que é o assentamento mais antigo do outro lado do Báltico vem da candidatura. O verbete diz que Seeburg "geralmente" é identificado como Grobiņa, e isso deixa espaço para dúvida.
 
-Para erguer montes de alturas diferentes sem repeti-las, jogue [Os montes de Grobiņa](/jogo-os-montes-de-grobina/).
+Para erguer montes de alturas diferentes sem repeti-las, jogue [Os montes de Grobiņa](/pt/jogo-os-montes-de-grobina/).

@@ -23,4 +23,4 @@ Bruk piltastene (eller trykk ved siden av krigeren) for å gå og skyve kasser t
 
 ## Historien bak
 
-I 878, etter Edington, ble kong Guthrum døpt nær Wedmore. Kassene og merkene er diktet opp for spillet. Les historien i [Guthrum, 878: vikinghøvdingen som ble døpt, tok et kristent navn og ble konge](/no/2026/12/13/guthrum-wedmore-878-batismo/).
+I 878, etter Edington, ble kong Guthrum døpt nær Wedmore. Kassene og merkene er diktet opp for spillet. Les historien i [Guthrum, 878: vikinghøvdingen som ble døpt, tok et kristent navn og ble konge](/no/guthrum-878-vikinghovdingen-som-ble-dopt-tok-et-kristent/).

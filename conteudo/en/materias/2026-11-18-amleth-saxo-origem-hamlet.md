@@ -43,4 +43,4 @@ The differences are large. In Saxo, Amleth acts without delay and ends victoriou
 
 Saxo wrote in learned Latin, with verses and echoes of classical authors, and adapted the Nordic material to the taste of a cleric of medieval Denmark. For that reason the story of Amleth carries traits of tales found in other cultures, such as that of the hero who plays the fool to survive. Scholars compare him to the Roman Brutus, who, according to Livy, also feigned stupidity. They debate how much comes from Danish oral tradition and how much was composed or reshaped by Saxo himself. No independent source confirms the existence of Amleth or Feng, and the story should be read as legend.
 
-To try to follow with your eyes the letter that Amleth swaps, play [The swapped letter](/en/game-the-swapped-letter/).
+To try to follow with your eyes the letter that Amleth swaps, play [The swapped letter](/game-the-swapped-letter/).

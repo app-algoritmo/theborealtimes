@@ -23,4 +23,4 @@ Leia cada enigma e toque na resposta certa antes que o tempo da pergunta acabe. 
 
 ## A história por trás
 
-Na Hervarar saga, Gestumblindi propõe enigmas ao rei Heidrek. Os enigmas deste jogo são inventados para o site. Leia a história em [Gestumblindi: Odin disfarçado desafia o rei Heiðrekr com 37 enigmas](/2026/12/13/gestumblindi-hervarar-saga-enigmas/).
+Na Hervarar saga, Gestumblindi propõe enigmas ao rei Heidrek. Os enigmas deste jogo são inventados para o site. Leia a história em [Gestumblindi: Odin disfarçado desafia o rei Heiðrekr com 37 enigmas](/pt/gestumblindi-hervarar-saga-enigmas/).

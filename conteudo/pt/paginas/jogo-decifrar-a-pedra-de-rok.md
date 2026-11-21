@@ -23,4 +23,4 @@ Uma palavra aparece no alto da pedra. Toque nas runas, na ordem das letras; cada
 
 ## A história por trás
 
-A Pedra de Rök, do século IX, tem cerca de 725 runas, e a leitura de várias partes ainda é discutida. As grafias do jogo estão simplificadas. Leia a história em [A Pedra de Rök: a maior inscrição rúnica do mundo e os segredos que ela ainda guarda](/2026/11/15/pedra-de-rok-runas/).
+A Pedra de Rök, do século IX, tem cerca de 725 runas, e a leitura de várias partes ainda é discutida. As grafias do jogo estão simplificadas. Leia a história em [A Pedra de Rök: a maior inscrição rúnica do mundo e os segredos que ela ainda guarda](/pt/pedra-de-rok-runas/).

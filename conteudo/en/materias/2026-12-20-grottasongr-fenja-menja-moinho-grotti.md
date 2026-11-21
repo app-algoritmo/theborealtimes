@@ -39,4 +39,4 @@ Many editors include the poem among those of the Poetic Edda, even though it is 
 
 The page consulted gives no date of composition for the poem, nor the number of stanzas. Snorri's chronology, which links Fróði's peace to Augustus and the birth of Christ, is part of the legendary narrative and not a historical date. There are later popular versions, among them the salt of the sea, which survives in folktales and in traditions from Orkney and Shetland.
 
-To join, two by two, the pieces of the same number on a four-by-four board, until you reach the piece of 256, play [Grotti's millstones](/en/game-grottis-millstones/).
+To join, two by two, the pieces of the same number on a four-by-four board, until you reach the piece of 256, play [Grotti's millstones](/game-grottis-millstones/).

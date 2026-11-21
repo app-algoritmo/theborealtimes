@@ -37,4 +37,4 @@ It is wise to be careful with the idea of a "great Viking wall". The dates, the 
 
 The Danevirke is also a good example of how archaeology and writing complete each other. The chronicles give a year and a name, the timber gives other dates, and the earth shows how the palisades were made. When the three sources coincide, the result is firmer. When they diverge, researchers must explain why such a large work may have been rebuilt so many times.
 
-To defend the wall from a line of invaders, placing guards in each lane, play [The Danevirke wall](/en/game-the-danevirke-wall/).
+To defend the wall from a line of invaders, placing guards in each lane, play [The Danevirke wall](/game-the-danevirke-wall/).

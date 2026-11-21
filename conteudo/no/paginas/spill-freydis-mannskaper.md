@@ -23,4 +23,4 @@ Hver rute på brettet på 4 ganger 4 har et mannskap med et visst antall menn. S
 
 ## Historien bak
 
-I Grønlendingenes saga inngår Freydís en avtale om å dele fortjenesten likt med de islandske brødrene Helgi og Finnbogi for en reise til Vinland, og tar i hemmelighet med flere menn enn avtalt; i Eirik Raudes saga dukker hun bare opp én gang, i angrepet fra skrælingene. Mannskapene som smelter sammen er oppfunnet. Les historien i [Freydís Eiríksdóttir: to sagaer, to Freydíser, og Vinland imellom](/no/2027/01/24/freydis-eiriksdottir-vinlandia-duas-sagas/).
+I Grønlendingenes saga inngår Freydís en avtale om å dele fortjenesten likt med de islandske brødrene Helgi og Finnbogi for en reise til Vinland, og tar i hemmelighet med flere menn enn avtalt; i Eirik Raudes saga dukker hun bare opp én gang, i angrepet fra skrælingene. Mannskapene som smelter sammen er oppfunnet. Les historien i [Freydís Eiríksdóttir: to sagaer, to Freydíser, og Vinland imellom](/no/freydis-eiriksdottir-to-sagaer-to-freydiser-og-vinland/).

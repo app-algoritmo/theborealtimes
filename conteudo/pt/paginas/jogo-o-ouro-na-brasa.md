@@ -23,4 +23,4 @@ Ilmarinen forja uma noiva de ouro, e os servos sopram os foles. Doze brasas form
 
 ## A história por trás
 
-Na 37ª runa do Kalevala, Ilmarinen forja uma noiva de ouro e prata, com servos que sopram os foles, e a acha fria e sem vida. As doze brasas, a concha e o ritmo do jogo são invenção. Leia a história em [Ilmarinen e a noiva de ouro: o ferreiro do Kalevala que forjou uma esposa e a achou fria](/2027/04/04/ilmarinen-e-a-noiva-de-ouro-o-ferreiro-do-kalevala-que-forjou-uma-esposa-e-a-achou-fria/).
+Na 37ª runa do Kalevala, Ilmarinen forja uma noiva de ouro e prata, com servos que sopram os foles, e a acha fria e sem vida. As doze brasas, a concha e o ritmo do jogo são invenção. Leia a história em [Ilmarinen e a noiva de ouro: o ferreiro do Kalevala que forjou uma esposa e a achou fria](/pt/ilmarinen-e-a-noiva-de-ouro-o-ferreiro-do-kalevala-que-forjou-uma-esposa-e-a-achou-fria/).

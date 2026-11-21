@@ -23,4 +23,4 @@ Odin, Vili e Vé deram dons ao primeiro casal, Ask e Embla. Um dom aparece no al
 
 ## A história por trás
 
-Na Gylfaginning, Odin dá o fôlego e a vida, Vili dá o entendimento e o movimento ou a sensação, e Vé dá o rosto, a fala, a audição e a visão. A fila de dons, as três caixas e o ritmo do jogo são invenção. Leia a história em [Vili e Vé: os dois irmãos de Odin que ajudam a criar o mundo e o primeiro casal](/2027/04/04/vili-e-ve-os-dois-irmaos-de-odin-que-ajudam-a-criar-o-mundo-e-o-primeiro-casal/).
+Na Gylfaginning, Odin dá o fôlego e a vida, Vili dá o entendimento e o movimento ou a sensação, e Vé dá o rosto, a fala, a audição e a visão. A fila de dons, as três caixas e o ritmo do jogo são invenção. Leia a história em [Vili e Vé: os dois irmãos de Odin que ajudam a criar o mundo e o primeiro casal](/pt/vili-e-ve-os-dois-irmaos-de-odin-que-ajudam-a-criar-o-mundo-e-o-primeiro-casal/).

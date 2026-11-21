@@ -23,4 +23,4 @@ The Æsir and Vanir make peace by exchanging gifts. Tap a gift to move it: tray,
 
 ## The story behind it
 
-According to Snorri, the Æsir and Vanir made peace and exchanged hostages. The scales and the gifts are made up for the game. Read the story in [The war between Æsir and Vanir: the first war in the world and the exchange of hostages that brought peace](/en/2026/11/19/aesir-vanir-guerra-refens/).
+According to Snorri, the Æsir and Vanir made peace and exchanged hostages. The scales and the gifts are made up for the game. Read the story in [The war between Æsir and Vanir: the first war in the world and the exchange of hostages that brought peace](/the-war-between-aesir-and-vanir-the-first-war-in-the-world/).

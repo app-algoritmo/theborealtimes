@@ -41,4 +41,4 @@ The nickname "Bloodaxe" (*blóðøx*) appears in texts written after Eric's life
 
 Eric shows how fragile the power of Scandinavian kings in England was. They depended on the support of local nobles, of the Church and on the constant threat of the king of Wessex. When they lost one of these supports, they lost the throne.
 
-To turn the road pieces and join, end to end, the way to York, play [The roads of York](/en/game-the-roads-of-york/).
+To turn the road pieces and join, end to end, the way to York, play [The roads of York](/game-the-roads-of-york/).

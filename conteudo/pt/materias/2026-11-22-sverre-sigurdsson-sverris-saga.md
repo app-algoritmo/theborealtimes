@@ -37,4 +37,4 @@ O contexto ajuda a entender o texto. A Noruega do fim do século XII vivia guerr
 
 O reinado de Sverre também é visto como um passo na formação do Estado norueguês, com um exército organizado e uma administração mais forte, embora esse ponto seja discutido.
 
-Para encaixar peça sobre peça, formando fileiras compactas como as de um exército bem disciplinado, jogue [As fileiras de Sverre](/jogo-as-fileiras-de-sverre/).
+Para encaixar peça sobre peça, formando fileiras compactas como as de um exército bem disciplinado, jogue [As fileiras de Sverre](/pt/jogo-as-fileiras-de-sverre/).

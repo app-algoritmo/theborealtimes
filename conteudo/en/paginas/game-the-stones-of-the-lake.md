@@ -23,4 +23,4 @@ A triangle has 14 occupied marks and 1 empty. Tap a mark and then the empty hole
 
 ## The story behind it
 
-In the Kalevala, Aino throws herself into the lake to escape a marriage. The jumping game on a triangle is made up. Read the story in [Aino, in the Kalevala: the young woman promised to Väinämöinen who chose the sea](/en/2026/12/13/aino-kalevala-peixe-no-mar/).
+In the Kalevala, Aino throws herself into the lake to escape a marriage. The jumping game on a triangle is made up. Read the story in [Aino, in the Kalevala: the young woman promised to Väinämöinen who chose the sea](/aino-in-the-kalevala-the-young-woman-promised/).

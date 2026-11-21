@@ -46,4 +46,4 @@ Idun returned, the apples returned, and the gods regained their youth. Snorri's 
 
 Thjazi's death had a consequence, according to Snorri: his daughter, the giantess Skaði, went to Asgard in arms to demand compensation for her father.
 
-Want to protect the apples? Play [Idun and the apples](/en/game-idun-and-the-apples/).
+Want to protect the apples? Play [Idun and the apples](/game-idun-and-the-apples/).

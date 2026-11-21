@@ -41,4 +41,4 @@ Guthrum returned to East Anglia and ruled as a Christian king for more than ten 
 
 Guthrum's conversion shows that war did not always end in death or plunder. Sometimes an agreement was negotiated in which the defeated accepted the victor's religion. A doubt remains: was the gesture sincere or a form of politics? The sources do not allow us to say, but the fact that he minted coins with a Christian name suggests he took the role of king seriously.
 
-To push, one by one, the crates to the marks on the floor, across three increasingly tight levels, play [The crates of Wedmore](/en/game-the-crates-of-wedmore/).
+To push, one by one, the crates to the marks on the floor, across three increasingly tight levels, play [The crates of Wedmore](/game-the-crates-of-wedmore/).

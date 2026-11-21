@@ -23,4 +23,4 @@ Toque na direção em que quer andar, ou use as setas, para dar um passo. Chegue
 
 ## A história por trás
 
-Soria Moria é o castelo de um conto de Asbjørnsen e Moe. Os labirintos do jogo são sorteados e inventados. Leia a história em [Soria Moria: o castelo que todo norueguês procura sem nunca ter visto](/2026/11/15/soria-moria-castelo/).
+Soria Moria é o castelo de um conto de Asbjørnsen e Moe. Os labirintos do jogo são sorteados e inventados. Leia a história em [Soria Moria: o castelo que todo norueguês procura sem nunca ter visto](/pt/soria-moria-castelo/).

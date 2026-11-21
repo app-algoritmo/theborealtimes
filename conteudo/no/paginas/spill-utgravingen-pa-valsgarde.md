@@ -23,4 +23,4 @@ Det ligger 3 båter begravd i rutenettet, rette og uten å røre hverandre. Tall
 
 ## Historien bak
 
-Valsgärde ligger omkring 3 km nord for Gamla Uppsala. Uppsala universitet gravde ut åtte båtgraver i 1928–1936 og de seks siste i 1946–1952. Rutenettet er oppfunnet. Les historien i [Valsgärde, båtgravene nær Uppsala: hva Uppsala universitet har gravd ut siden 1928](/no/2027/01/10/valsgarde-tumulos-de-barco-uppland-vendel/).
+Valsgärde ligger omkring 3 km nord for Gamla Uppsala. Uppsala universitet gravde ut åtte båtgraver i 1928–1936 og de seks siste i 1946–1952. Rutenettet er oppfunnet. Les historien i [Valsgärde, båtgravene nær Uppsala: hva Uppsala universitet har gravd ut siden 1928](/no/valsgarde-batgravene-naer-uppsala-hva-uppsala-universitet/).

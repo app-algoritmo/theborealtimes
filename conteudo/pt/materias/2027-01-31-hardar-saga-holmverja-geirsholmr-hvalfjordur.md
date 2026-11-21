@@ -37,4 +37,4 @@ A ilhota é o centro do enredo: nela os homens se refugiam, contra o grupo que a
 
 A fonte não dá a data de composição da saga nesta matéria, e a relação entre os manuscritos e um texto mais antigo não é detalhada. A própria página da fonte traz uma citação que parece apontar para a *Hávarðar saga*, o que pode ser um erro de citação, e por isso a matéria não se apoia nela. O que a saga conta sobre os homens da ilhota é narrativa literária: não há aqui prova de que cada fato tenha ocorrido como está escrito.
 
-Para posicionar vigias em cada ilhota, sem que dois se toquem, jogue [Os vigias das ilhotas](/jogo-os-vigias-das-ilhotas/).
+Para posicionar vigias em cada ilhota, sem que dois se toquem, jogue [Os vigias das ilhotas](/pt/jogo-os-vigias-das-ilhotas/).

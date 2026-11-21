@@ -23,4 +23,4 @@ Each square holds a straight or curved stretch of path. Tap a square to turn it 
 
 ## The story behind it
 
-In the Norse sources, Rindr is the mother of Váli, Odin’s son. In Saxo Grammaticus, she becomes the princess Rinda, daughter of the king of the Ruthenians, and Odin disguises himself to reach her. Turning paths is invented. Read the story in [Rindr: the mother of Váli, Odin's spell and Saxo Grammaticus's princess Rinda](/en/2027/02/07/rindr-mae-de-vali-odin-saxo-rinda/).
+In the Norse sources, Rindr is the mother of Váli, Odin’s son. In Saxo Grammaticus, she becomes the princess Rinda, daughter of the king of the Ruthenians, and Odin disguises himself to reach her. Turning paths is invented. Read the story in [Rindr: the mother of Váli, Odin's spell and Saxo Grammaticus's princess Rinda](/rindr-the-mother-of-vali-odin-s-spell-and-saxo-grammaticus/).

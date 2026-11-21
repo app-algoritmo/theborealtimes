@@ -23,4 +23,4 @@ Cada hóspede pede fogo, água, comida ou manto. Toque no pedido certo (ou use a
 
 ## A história por trás
 
-O poema Hávamál, nas Eddas, dá conselhos de hospitalidade ao viajante: fogo, água e um manto. Os pedidos do jogo são invenção. Leia a história em [Hávamál e a hospitalidade viking: o que o poema pedia a quem chegava e a quem recebia](/2026/11/17/havamal-hospitalidade-viking/).
+O poema Hávamál, nas Eddas, dá conselhos de hospitalidade ao viajante: fogo, água e um manto. Os pedidos do jogo são invenção. Leia a história em [Hávamál e a hospitalidade viking: o que o poema pedia a quem chegava e a quem recebia](/pt/havamal-hospitalidade-viking/).

@@ -44,4 +44,4 @@ Snorri presents Hjúki and Bil as children taken from the earth by Máni, who wa
 
 Snorri does not explain why the Moon took the children, or whether they went to the sky willingly. He also does not say that the figures are visible on the Moon's surface, and the sources I read do not confirm the reading of the spots. What the text states clearly is only the list of names and the sentence that the children follow the Moon.
 
-To choose the phase of the moon that comes next, as Máni steers its waxing and waning, play [The phases of the moon](/en/game-the-phases-of-the-moon/).
+To choose the phase of the moon that comes next, as Máni steers its waxing and waning, play [The phases of the moon](/game-the-phases-of-the-moon/).

@@ -23,4 +23,4 @@ Cada quadrado do tabuleiro 5 por 5 tem trechos de caminho. Toque num quadrado pa
 
 ## A história por trás
 
-Borgring, perto de Køge, na Zelândia, é um forte circular de cerca de 145 metros de largura, com um muro de 10 a 11 metros coroado por uma paliçada. As escavações de 2014 o datam do século X e acharam as portas norte e leste onde um traçado do tipo trelleborg previa. Os caminhos girando são invenção. Leia a história em [Borgring, o forte circular de Køge: como um dia de marcha apontou uma fortaleza que faltava](/2027/01/24/borgring-fortaleza-circular-koge-harald-dente-azul/).
+Borgring, perto de Køge, na Zelândia, é um forte circular de cerca de 145 metros de largura, com um muro de 10 a 11 metros coroado por uma paliçada. As escavações de 2014 o datam do século X e acharam as portas norte e leste onde um traçado do tipo trelleborg previa. Os caminhos girando são invenção. Leia a história em [Borgring, o forte circular de Køge: como um dia de marcha apontou uma fortaleza que faltava](/pt/borgring-fortaleza-circular-koge-harald-dente-azul/).

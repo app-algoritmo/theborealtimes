@@ -23,4 +23,4 @@ At Lejre, the Grydehøj burial mound held gold threads and bronze pieces. Nine m
 
 ## The story behind it
 
-According to the UCLA page on Lejre, the Grydehøj burial mound, of about 550, held gold threads and bronze pieces. The mounds with glints and the rhythm of the game are invention. Read the story in [Lejre: the great royal hall in Denmark and the sacrifices every nine years](/en/2027/03/28/lejre-o-grande-salao-do-rei-na-dinamarca-e-os-sacrificios-de-nove-em-nove-anos/).
+According to the UCLA page on Lejre, the Grydehøj burial mound, of about 550, held gold threads and bronze pieces. The mounds with glints and the rhythm of the game are invention. Read the story in [Lejre: the great royal hall in Denmark and the sacrifices every nine years](/lejre-the-great-royal-hall-in-denmark-and-the-sacrifices/).

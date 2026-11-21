@@ -23,4 +23,4 @@ Bruk piltastene (eller hold fingeren på siden du vil gå mot) for å gå gjenno
 
 ## Historien bak
 
-I islandsk folketro flykter Sæmundur fra Svarteskolen uten at djevelen får tak i skyggen hans. Labyrinten er diktet opp for spillet. Les historien i [Sæmundur den vise: den islandske presten som lurte djevelen på Den svarte skole](/no/2026/12/13/saemundur-escola-negra-sombra/).
+I islandsk folketro flykter Sæmundur fra Svarteskolen uten at djevelen får tak i skyggen hans. Labyrinten er diktet opp for spillet. Les historien i [Sæmundur den vise: den islandske presten som lurte djevelen på Den svarte skole](/no/saemundur-den-vise-den-islandske-presten-som-lurte-djevelen/).

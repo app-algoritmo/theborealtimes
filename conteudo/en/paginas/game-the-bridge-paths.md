@@ -23,4 +23,4 @@ Each colour has two ends marked with a circle. Drag your finger from one end to 
 
 ## The story behind it
 
-The Ravning Enge bridge, in the Vejle river valley in Denmark, was about 760 metres long with 280 oak spans; the timber was felled in the 980s, and the work is attributed to Harald Bluetooth. Joining paths is invented. Read the story in [The Ravning Enge bridge: 760 metres of oak near Jelling](/en/2027/02/07/ponte-de-ravning-enge-harald-dente-azul/).
+The Ravning Enge bridge, in the Vejle river valley in Denmark, was about 760 metres long with 280 oak spans; the timber was felled in the 980s, and the work is attributed to Harald Bluetooth. Joining paths is invented. Read the story in [The Ravning Enge bridge: 760 metres of oak near Jelling](/the-ravning-enge-bridge-760-metres-of-oak-near-jelling/).

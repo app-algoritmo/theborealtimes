@@ -42,4 +42,4 @@ The account is the oldest written description of reindeer husbandry in northern 
 
 Ohthere also describes the voyage south. According to the text he sailed to Sciringesheal, which archaeologists identify with the market town of Kaupang, in Vestfold, and from there to Hedeby, in southern Jutland. These two ports were trading centres of the Viking Age. Wulfstan's account, which follows, describes a voyage across the Baltic from Hedeby to Truso, on the coast of present-day Poland, and shows the same network of routes.
 
-To lead the herd into the corral before dark, play [Ohthere's reindeer](/en/game-ohtheres-reindeer/).
+To lead the herd into the corral before dark, play [Ohthere's reindeer](/game-ohtheres-reindeer/).

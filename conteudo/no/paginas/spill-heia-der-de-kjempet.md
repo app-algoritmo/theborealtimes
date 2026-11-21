@@ -23,4 +23,4 @@ Fire grupper menn gjemmer seg på heia: én på 4 ruter, to på 3 og én på 2, 
 
 ## Historien bak
 
-Heiðarvíga saga, fortellingen om heidrapene, følger etterkommere av Egill Skallagrímsson i stridigheter som ender med drap på en hei. Den er dårlig bevart: tolv blad av det eneste manuskriptet brant i København i 1728. De skjulte gruppene er oppfunnet. Les historien i [Heiðarvíga saga: fortellingen om heidrapene, og bladene som brant i København](/no/2027/01/24/heidarviga-saga-combates-da-charneca-egill-descendentes/).
+Heiðarvíga saga, fortellingen om heidrapene, følger etterkommere av Egill Skallagrímsson i stridigheter som ender med drap på en hei. Den er dårlig bevart: tolv blad av det eneste manuskriptet brant i København i 1728. De skjulte gruppene er oppfunnet. Les historien i [Heiðarvíga saga: fortellingen om heidrapene, og bladene som brant i København](/no/heidarviga-saga-fortellingen-om-heidrapene-og-bladene/).

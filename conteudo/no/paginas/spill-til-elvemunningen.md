@@ -23,4 +23,4 @@ Hver rute skal få et tall i rekkefølge. Du starter på 1: trykk på en nabo-ru
 
 ## Historien bak
 
-Harald Klak var en dansk konge som ble døpt i 826. Å knytte sammen nabotall helt til en elvemunning er oppfunnet. Les historien i [Harald Klak: den danske kongen som ble døpt i 826, alliert med Ludvig den fromme](/no/2027/02/28/harald-klak-o-rei-dinamarques-batizado-em-826-aliado-de-luis-o-piedoso/).
+Harald Klak var en dansk konge som ble døpt i 826. Å knytte sammen nabotall helt til en elvemunning er oppfunnet. Les historien i [Harald Klak: den danske kongen som ble døpt i 826, alliert med Ludvig den fromme](/no/harald-klak-den-danske-kongen-som-ble-dopt-i-826-alliert/).

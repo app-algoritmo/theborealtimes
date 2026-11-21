@@ -23,4 +23,4 @@ Dra skålen, eller bruk piltastene, for å fange giftdråpene. Når den er full,
 
 ## Historien bak
 
-I Snorres Edda blir Loke bundet og en slange drypper gift på ham; kona hans Sigyn holder en skål, og når hun går for å tømme den, faller giften på ham, og han vrir seg og får jorden til å skjelve. Spillet er en forenkling. Les historien i [Loke i lenker: festen der han hånte gudene, og straffen som venter ham til Ragnarok](/no/2026/11/14/loki-acorrentado-sigyn/).
+I Snorres Edda blir Loke bundet og en slange drypper gift på ham; kona hans Sigyn holder en skål, og når hun går for å tømme den, faller giften på ham, og han vrir seg og får jorden til å skjelve. Spillet er en forenkling. Les historien i [Loke i lenker: festen der han hånte gudene, og straffen som venter ham til Ragnarok](/no/loke-i-lenker-festen-der-han-hante-gudene-og-straffen/).

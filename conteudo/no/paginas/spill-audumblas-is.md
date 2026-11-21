@@ -23,4 +23,4 @@ Dra fingeren (eller bruk piltastene og mellomromstasten) for å smelte isen og a
 
 ## Historien bak
 
-I Snorres Edda slikker kua Auðumbla isen, og Bure, Odins bestefar, kommer frem. Rundene i spillet er diktet opp. Les historien i [Auðumbla, isens ku: den nordiske myten der den første guden stiger fram](/no/2026/11/17/audumbla-ymir-gelo-primordial/).
+I Snorres Edda slikker kua Auðumbla isen, og Bure, Odins bestefar, kommer frem. Rundene i spillet er diktet opp. Les historien i [Auðumbla, isens ku: den nordiske myten der den første guden stiger fram](/no/audumbla-isens-ku-den-nordiske-myten-der-den-forste-guden/).

@@ -23,4 +23,4 @@ Passe por todas as 25 casas do tabuleiro, uma vez só cada, movendo-se como o ca
 
 ## A história por trás
 
-O valravn é um corvo sobrenatural do folclore dinamarquês, e a balada "Valravnen" mais antiga está nas anotações manuscritas de Jens Bille, de 1555 a 1559. O tabuleiro é invenção. Leia a história em [O valravn, o corvo-cavaleiro do folclore dinamarquês: a balada e as notas de Jens Bille](/2027/01/10/valravn-corvo-cavaleiro-folclore-dinamarques/).
+O valravn é um corvo sobrenatural do folclore dinamarquês, e a balada "Valravnen" mais antiga está nas anotações manuscritas de Jens Bille, de 1555 a 1559. O tabuleiro é invenção. Leia a história em [O valravn, o corvo-cavaleiro do folclore dinamarquês: a balada e as notas de Jens Bille](/pt/valravn-corvo-cavaleiro-folclore-dinamarques/).

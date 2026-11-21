@@ -23,4 +23,4 @@ Dra fingeren (eller bruk piltastene) opp og ned. Samle åtte perler og unngå kr
 
 ## Historien bak
 
-I legenden fra Færøyene er Kópakonan en selkvinne som mister og finner skinnet sitt igjen. Dykket i spillet er diktet opp. Les historien i [Kópakonan: selkvinnen fra Mikladalur, en legende fra Færøyene](/no/2026/11/17/kopakonan-foca-ilhas-faroe/).
+I legenden fra Færøyene er Kópakonan en selkvinne som mister og finner skinnet sitt igjen. Dykket i spillet er diktet opp. Les historien i [Kópakonan: selkvinnen fra Mikladalur, en legende fra Færøyene](/no/kopakonan-selkvinnen-fra-mikladalur-en-legende-fra-faeroyene/).

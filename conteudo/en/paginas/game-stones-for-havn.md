@@ -23,4 +23,4 @@ Steer Absalon's ship through the sound. Tap the left or right side of the screen
 
 ## The story behind it
 
-In 1167, according to Saxo, Bishop Absalon founded a castle at Havn, on the island of Slotsholmen, and the city of Copenhagen grew around it. The sound full of shoals is invented. Read the story in [Absalon founds the castle of Havn in 1167, where Copenhagen began](/en/2027/03/14/absalon-funda-o-castelo-de-havn-em-1167-onde-copenhague-comecou/).
+In 1167, according to Saxo, Bishop Absalon founded a castle at Havn, on the island of Slotsholmen, and the city of Copenhagen grew around it. The sound full of shoals is invented. Read the story in [Absalon founds the castle of Havn in 1167, where Copenhagen began](/absalon-founds-the-castle-of-havn-in-1167-where-copenhagen/).

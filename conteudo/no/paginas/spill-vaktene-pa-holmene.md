@@ -23,4 +23,4 @@ Brettet er delt inn i holmer med ulike farger. Sett én vakt på hver holme, med
 
 ## Historien bak
 
-I Harðar saga ok Hólmverja tar Hörðr og følgesvennene hans, fredløse, tilflukt på en holme i Hvalfjörður, som kommer til å hete Geirshólm. Vaktene på dette brettet er oppfunnet. Les historien i [Harðar saga ok Hólmverja: den fredløse, holmen Geirshólmr og sønnenes hevn](/no/2027/01/31/hardar-saga-holmverja-geirsholmr-hvalfjordur/).
+I Harðar saga ok Hólmverja tar Hörðr og følgesvennene hans, fredløse, tilflukt på en holme i Hvalfjörður, som kommer til å hete Geirshólm. Vaktene på dette brettet er oppfunnet. Les historien i [Harðar saga ok Hólmverja: den fredløse, holmen Geirshólmr og sønnenes hevn](/no/hardar-saga-ok-holmverja-den-fredlose-holmen-geirsholmr/).

@@ -23,4 +23,4 @@ Hild og hjadningene kjemper uten stans. Flytt bladet ditt (dra, piltaster eller 
 
 ## Historien bak
 
-Ifølge Skáldskaparmál kjemper hjadningene uten ende, natt etter natt. Kampen i spillet er diktet opp. Les historien i [Hjadningevig, den evige kampen: Hild, Hedin og Hogne, striden som starter på nytt hver natt til verdens ende](/no/2026/11/19/hjadningavig-batalha-eterna-hild/).
+Ifølge Skáldskaparmál kjemper hjadningene uten ende, natt etter natt. Kampen i spillet er diktet opp. Les historien i [Hjadningevig, den evige kampen: Hild, Hedin og Hogne, striden som starter på nytt hver natt til verdens ende](/no/hjadningevig-den-evige-kampen-hild-hedin-og-hogne-striden/).

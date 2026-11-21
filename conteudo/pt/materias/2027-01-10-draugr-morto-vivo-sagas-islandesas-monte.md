@@ -43,4 +43,4 @@ Os draugr costumam morar em montes funerários, muitas vezes guardando tesouros.
 
 O artigo avisa que o texto da *Grettis saga* não chama Glámr de draugr, e que os estudiosos modernos o fazem por conta própria. Isso mostra que a categoria "draugr" é, em parte, uma convenção moderna aplicada a relatos diferentes. As sagas têm autores e épocas distintas, e não formam um corpo único de crenças.
 
-Para disputar sementes com um draugr, numa mesa ao pé do monte, jogue [As sementes do monte](/jogo-as-sementes-do-monte/).
+Para disputar sementes com um draugr, numa mesa ao pé do monte, jogue [As sementes do monte](/pt/jogo-as-sementes-do-monte/).

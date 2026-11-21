@@ -44,4 +44,4 @@ A *Kufic coin* is an Arabic coin with Kufic script. A *solidus* is a Roman gold 
 
 The two sources differ in their counts. It is not known how the owner gathered objects from so far apart, whether by plunder, trade or gift. The reason for the deposit is also debated, between a religious offering and a hiding place, and the sources do not settle it. The first source treats the place as Hokksund and the second as Nedre Hoen, in Øvre Eiker, and this place-name detail is not explained by either.
 
-To link beads in a single line without repeating any, as on a necklace, play [The Hoen necklace](/en/game-the-hoen-necklace/).
+To link beads in a single line without repeating any, as on a necklace, play [The Hoen necklace](/game-the-hoen-necklace/).

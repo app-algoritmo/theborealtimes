@@ -23,4 +23,4 @@ En blokk glir fra side til side. Trykk (eller trykk mellomrom) for å slippe den
 
 ## Historien bak
 
-I Jarlshof på Shetland ble hus fra ulike tider bygd oppå hverandre. Blokktårnet er oppfunnet. Les historien i [Jarlshof på Shetland: fire tusen år med oppå hverandre bygde hus og et norrønt langhus](/no/2027/01/03/jarlshof-shetland-assentamento-nordico/).
+I Jarlshof på Shetland ble hus fra ulike tider bygd oppå hverandre. Blokktårnet er oppfunnet. Les historien i [Jarlshof på Shetland: fire tusen år med oppå hverandre bygde hus og et norrønt langhus](/no/jarlshof-pa-shetland-fire-tusen-ar-med-oppa-hverandre-bygde/).

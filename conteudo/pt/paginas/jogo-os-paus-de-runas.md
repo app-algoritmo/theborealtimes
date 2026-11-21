@@ -23,4 +23,4 @@ No cais de Bergen, os comerciantes trazem paus com runas. Leia o texto do pau, n
 
 ## A história por trás
 
-Nas inscrições rúnicas de Bryggen, em Bergen, há etiquetas como "Eysteinn á mik", recados como "Ást min, kyss mik" e textos em latim como "Ave Maria". Algumas frases do jogo são inspiradas nelas, e a separação em caixas é invenção. Leia a história em [Bryggen: os paus de runas de Bergen, bilhetes de comerciantes e juras de amor](/2027/03/21/bryggen-os-paus-de-runas-de-bergen-bilhetes-de-comerciantes-e-juras-de-amor/).
+Nas inscrições rúnicas de Bryggen, em Bergen, há etiquetas como "Eysteinn á mik", recados como "Ást min, kyss mik" e textos em latim como "Ave Maria". Algumas frases do jogo são inspiradas nelas, e a separação em caixas é invenção. Leia a história em [Bryggen: os paus de runas de Bergen, bilhetes de comerciantes e juras de amor](/pt/bryggen-os-paus-de-runas-de-bergen-bilhetes-de-comerciantes-e-juras-de-amor/).

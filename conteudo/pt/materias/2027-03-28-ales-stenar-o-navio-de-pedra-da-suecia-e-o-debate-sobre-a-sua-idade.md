@@ -49,4 +49,4 @@ Ales stenar é um navio de pedra de 59 blocos e 67 metros, que a maioria dos arq
 
 As reportagens não dizem qual material foi datado nem em que laboratório. Estudiosos divergem entre uma data de cerca de 600 e a de 2.500 anos. Perto dali, uma sondagem e uma trincheira (2006 e 2012) acharam um círculo de 165 metros e um dólmen, e pouco se sabe deles. Não há prova de que o rei Ale tenha existido.
 
-Para alinhar as pedras do navio de Ale, jogue [O navio de pedra](/jogo-o-navio-de-pedra/).
+Para alinhar as pedras do navio de Ale, jogue [O navio de pedra](/pt/jogo-o-navio-de-pedra/).

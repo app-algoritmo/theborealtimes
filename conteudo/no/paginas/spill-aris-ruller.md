@@ -23,4 +23,4 @@ Fire ruller i ulik størrelse ligger stablet på det første stativet. Flytt hel
 
 ## Historien bak
 
-Íslendingabók ble skrevet av presten Ari Þorgilsson, mellom 1122 og 1133, ut fra dateringen som kan utledes av biskopene i prologen. Middelalderkopien er tapt, og teksten bygger på kopier fra 1600-tallet. Spillet er oppfunnet. Les historien i [Íslendingabók, «Islendingenes bok» av presten Ari Þorgilsson: hva den forteller](/no/2027/01/17/islendingabok-ari-thorgilsson-livro-dos-islandeses/).
+Íslendingabók ble skrevet av presten Ari Þorgilsson, mellom 1122 og 1133, ut fra dateringen som kan utledes av biskopene i prologen. Middelalderkopien er tapt, og teksten bygger på kopier fra 1600-tallet. Spillet er oppfunnet. Les historien i [Íslendingabók, «Islendingenes bok» av presten Ari Þorgilsson: hva den forteller](/no/islendingabok-islendingenes-bok-av-presten-ari-thorgilsson/).

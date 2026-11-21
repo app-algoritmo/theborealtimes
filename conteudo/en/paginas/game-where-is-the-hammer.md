@@ -23,4 +23,4 @@ The hammer shows for a moment under one of three cushions. Then they swap places
 
 ## The story behind it
 
-In the poem Þrymskviða, the giant Thrym steals Thor's hammer and buries it, and Thor disguises himself as a bride to get it back. The cushion game is made up. Read the story in [Thor dressed as a bride: the poem in which the hammer is stolen and the giant Thrym expects to marry](/en/2026/11/14/thor-noiva-thrym/).
+In the poem Þrymskviða, the giant Thrym steals Thor's hammer and buries it, and Thor disguises himself as a bride to get it back. The cushion game is made up. Read the story in [Thor dressed as a bride: the poem in which the hammer is stolen and the giant Thrym expects to marry](/thor-dressed-as-a-bride-the-poem-in-which-the-hammer/).

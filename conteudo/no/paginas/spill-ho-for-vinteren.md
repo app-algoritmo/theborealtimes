@@ -23,4 +23,4 @@ Trykk eller dra på skjermen for å flytte Flóki over jordet. Fang høyballene 
 
 ## Historien bak
 
-Ifølge Landnámabók fisket Flóki så mye at han glemte å samle høy, og sauene døde om vinteren; om våren så han en fjord full av is og kalte landet Island. Høyhøstingen er oppfunnet. Les historien i [Hrafna-Flóki, det glemte høyet og navnet Island i Landnámabók](/no/2027/03/14/hrafna-floki-o-feno-esquecido-e-o-nome-da-islandia-na-landnamabok/).
+Ifølge Landnámabók fisket Flóki så mye at han glemte å samle høy, og sauene døde om vinteren; om våren så han en fjord full av is og kalte landet Island. Høyhøstingen er oppfunnet. Les historien i [Hrafna-Flóki, det glemte høyet og navnet Island i Landnámabók](/no/hrafna-floki-det-glemte-hoyet-og-navnet-island-i-landnamabok/).

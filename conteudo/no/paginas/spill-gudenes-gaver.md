@@ -23,4 +23,4 @@ Sveip (eller bruk piltastene) for å flytte alle blokkene. To like blokker slås
 
 ## Historien bak
 
-I Vǫluspá og hos Snorre får to trestammer gaver av gudene og blir det første paret. Spillet med sammenslåing av blokker er diktet opp. Les historien i [Ask og Embla: det første mennesket i de norrøne kildene](/no/2026/11/29/ask-embla-primeiros-humanos/).
+I Vǫluspá og hos Snorre får to trestammer gaver av gudene og blir det første paret. Spillet med sammenslåing av blokker er diktet opp. Les historien i [Ask og Embla: det første mennesket i de norrøne kildene](/no/ask-og-embla-det-forste-mennesket-i-de-norrone-kildene/).

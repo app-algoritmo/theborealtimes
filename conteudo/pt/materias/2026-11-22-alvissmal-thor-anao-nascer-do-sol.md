@@ -35,4 +35,4 @@ Há também uma questão de datação e de intenção. Alguns pesquisadores acha
 
 O que o poema deixa de lição é conhecido em várias culturas: quem fala sem olhar para a janela pode perder o que mais queria. Thor, que nas outras histórias vence com o martelo, aqui vence com paciência.
 
-Para empilhar, no tempo exato, uma pergunta sobre a outra até o sol nascer, jogue [As perguntas de Thor](/jogo-as-perguntas-de-thor/).
+Para empilhar, no tempo exato, uma pergunta sobre a outra até o sol nascer, jogue [As perguntas de Thor](/pt/jogo-as-perguntas-de-thor/).

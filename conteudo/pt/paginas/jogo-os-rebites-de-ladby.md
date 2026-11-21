@@ -23,4 +23,4 @@ Quinze rebites prendem as tábuas do casco, e um deles está solto. Toque num re
 
 ## A história por trás
 
-O navio de Ladby, na Dinamarca, era uma sepultura de um chefe viking, com o casco preso por rebites. O jogo de saltos é invenção. Leia a história em [Ladby: o navio funerário da Dinamarca que só deixou marcas e rebites na terra](/2026/11/21/ladby-navio-funerario-dinamarca/).
+O navio de Ladby, na Dinamarca, era uma sepultura de um chefe viking, com o casco preso por rebites. O jogo de saltos é invenção. Leia a história em [Ladby: o navio funerário da Dinamarca que só deixou marcas e rebites na terra](/pt/ladby-navio-funerario-dinamarca/).

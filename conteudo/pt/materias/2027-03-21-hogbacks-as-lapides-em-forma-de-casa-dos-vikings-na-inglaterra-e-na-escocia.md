@@ -44,4 +44,4 @@ Os hogbacks são lápides em forma de casa feitas entre os séculos X e XII no n
 
 A fonte consultada dá datas que não coincidem, falando em fim de moda no começo do século XI e, ao mesmo tempo, em produção até o século XII. Também não se sabe ao certo quem fazia os hogbacks nem o que as imagens de ursos e animais queriam dizer.
 
-Para completar o padrão de telhas de pedra com a peça certa, jogue [As telhas de pedra](/jogo-as-telhas-de-pedra/).
+Para completar o padrão de telhas de pedra com a peça certa, jogue [As telhas de pedra](/pt/jogo-as-telhas-de-pedra/).
