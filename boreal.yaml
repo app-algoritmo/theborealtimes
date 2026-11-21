@@ -492,6 +492,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_fulla: jogo-o-que-frigg-pede
+    jogo_folkvangr: jogo-as-escolhas-de-freyja
+    jogo_vipunen: jogo-a-forja-dentro-do-gigante
+    jogo_buttercup: jogo-o-saco-de-pedras
+    jogo_shortshanks: jogo-os-tres-presentes-das-bruxas
+    jogo_tresatias: jogo-cada-tia-no-seu-oficio
+    jogo_gunnhild: jogo-cada-passagem-na-sua-fonte
+    jogo_volsi: jogo-os-tres-viajantes-de-capa-cinza
+    jogo_torfeinarr: jogo-a-turfa-certa
+    jogo_hunnestad: jogo-os-pares-de-imagens
+    jogo_tjangvide: jogo-cada-detalhe-na-sua-parte
+    jogo_askold: jogo-guerreiros-e-mercadores
+    jogo_lund: jogo-os-lotes-da-cidade-nova
     jogo_saehrimnir: jogo-a-ceia-que-volta-inteira
     jogo_jord: jogo-cada-mencao-na-sua-fonte
     jogo_carvalho: jogo-as-lascas-do-carvalho
@@ -1084,6 +1097,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_fulla: game-what-frigg-asks
+    jogo_folkvangr: game-freyja-s-choices
+    jogo_vipunen: game-the-forge-inside-the-giant
+    jogo_buttercup: game-the-sack-of-stones
+    jogo_shortshanks: game-the-hags-three-gifts
+    jogo_tresatias: game-each-aunt-her-craft
+    jogo_gunnhild: game-each-passage-in-its-source
+    jogo_volsi: game-the-three-travellers-in-grey-cloaks
+    jogo_torfeinarr: game-the-right-turf
+    jogo_hunnestad: game-the-pairs-of-images
+    jogo_tjangvide: game-each-detail-in-its-part
+    jogo_askold: game-warriors-and-merchants
+    jogo_lund: game-the-plots-of-the-new-town
     jogo_saehrimnir: game-the-supper-that-returns-whole
     jogo_jord: game-every-mention-in-its-source
     jogo_carvalho: game-the-oak-chips
@@ -1676,6 +1702,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_fulla: spill-hva-frigg-ber-om
+    jogo_folkvangr: spill-freyjas-valg
+    jogo_vipunen: spill-smia-inni-jotunen
+    jogo_buttercup: spill-sekken-med-steiner
+    jogo_shortshanks: spill-heksenes-tre-gaver
+    jogo_tresatias: spill-hver-tante-sitt-handverk
+    jogo_gunnhild: spill-hver-passasje-i-sin-kilde
+    jogo_volsi: spill-de-tre-reisende-i-gra-kapper
+    jogo_torfeinarr: spill-den-rette-torven
+    jogo_hunnestad: spill-bildeparene
+    jogo_tjangvide: spill-hver-detalj-i-sin-del
+    jogo_askold: spill-krigere-og-kjopmenn
+    jogo_lund: spill-tomtene-i-den-nye-byen
     jogo_saehrimnir: spill-middagen-som-kommer-tilbake-hel
     jogo_jord: spill-hver-omtale-i-sin-kilde
     jogo_carvalho: spill-eikeflisene
@@ -1939,6 +1978,19 @@ es:
     jogo_froso: juego-las-tablas-del-puente
     jogo_maine: juego-los-pares-de-monedas
     jogo_aggersborg: juego-el-fuerte-cuadrante-por-cuadrante
+    jogo_fulla: juego-lo-que-pide-frigg
+    jogo_folkvangr: juego-las-elecciones-de-freyja
+    jogo_vipunen: juego-la-fragua-dentro-del-gigante
+    jogo_buttercup: juego-el-saco-de-piedras
+    jogo_shortshanks: juego-los-tres-regalos-de-las-brujas
+    jogo_tresatias: juego-cada-tia-su-oficio
+    jogo_gunnhild: juego-cada-pasaje-en-su-fuente
+    jogo_volsi: juego-los-tres-viajeros-de-capa-gris
+    jogo_torfeinarr: juego-la-turba-correcta
+    jogo_hunnestad: juego-las-parejas-de-imagenes
+    jogo_tjangvide: juego-cada-detalle-en-su-parte
+    jogo_askold: juego-guerreros-y-mercaderes
+    jogo_lund: juego-los-solares-de-la-ciudad-nueva
   curiosidades: []
   interface:
     capa: Portada
