@@ -1,11 +1,11 @@
 ---
 titulo: Quem somos
-resumo: Histórias da Escandinávia e do mundo nórdico, narradas por inteligência artificial, em português, inglês e norueguês.
+resumo: Histórias da Escandinávia e do mundo nórdico, narradas por inteligência artificial, em inglês, norueguês, português e espanhol.
 olho: O site
 atualizado: novembro de 2026
 ---
 
-O Boreal Saga Play conta histórias do Norte: mitos, sagas, lendas, contos e história da Escandinávia e do mundo nórdico, da era viking aos nossos dias. Elas podem ser verdadeiras, lendárias ou inventadas, e cada texto diz de qual tipo é. O site sai em português, inglês e norueguês.
+O Boreal Saga Play conta histórias do Norte: mitos, sagas, lendas, contos e história da Escandinávia e do mundo nórdico, da era viking aos nossos dias. Elas podem ser verdadeiras, lendárias ou inventadas, e cada texto diz de qual tipo é. O site sai em inglês, norueguês, português e espanhol.
 
 O nome vem do inglês, mas "Times" aqui quer dizer tempos: as histórias de todas as épocas.
 

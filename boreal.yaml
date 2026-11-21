@@ -84,7 +84,7 @@ idiomas:
     rotulo: Español
     principal: false
     slug_do_titulo: true
-    ativo: false   # pronto, mas fora do site até haver conteúdo; trocar por true para publicar
+    sugerir: false   # sem sugestão nem redirecionamento automático até haver matérias em espanhol
 
 # ============================================================
 # CONTEÚDO POR IDIOMA
@@ -101,7 +101,7 @@ pt:
     Boreal Saga Play é uma plataforma digital dedicada a histórias e jogos da Escandinávia: mitos, sagas e história do mundo nórdico, com mais de 300 narrativas, cada uma acompanhada de um jogo.
   rodape:
     sobre: >-
-      Histórias da Escandinávia e do mundo nórdico, em português, inglês e norueguês.
+      Histórias e jogos da Escandinávia e do mundo nórdico, em inglês, norueguês, português e espanhol.
     secoes: Seções
     jornal: O site
     legal: Legal
@@ -670,7 +670,7 @@ en:
     Boreal Saga Play is a digital platform dedicated to stories and games from Scandinavia: myths, sagas and history of the Nordic world, with more than 300 narratives, each one with its own game.
   rodape:
     sobre: >-
-      Stories of Scandinavia and the Nordic world, in English, Portuguese and Norwegian.
+      Stories and games from Scandinavia and the Nordic world, in English, Norwegian, Portuguese and Spanish.
     secoes: Sections
     jornal: The site
     legal: Legal
@@ -1236,7 +1236,7 @@ en:
     Boreal Saga Play er en digital plattform for historier og spill fra Skandinavia: myter, sagaer og historie fra Norden, med mer enn 300 fortellinger, hver med sitt eget spill.
   rodape:
     sobre: >-
-      Historier fra Skandinavia og Norden, på norsk, portugisisk og engelsk.
+      Historier og spill fra Skandinavia og Norden, på engelsk, norsk, portugisisk og spansk.
     secoes: Seksjoner
     jornal: Nettstedet
     legal: Juridisk
@@ -1802,7 +1802,7 @@ es:
     Boreal Saga Play es una plataforma digital dedicada a las historias y los juegos de Escandinavia: mitos, sagas e historia del mundo nórdico, con más de 300 narraciones, cada una con su propio juego.
   rodape:
     sobre: >-
-      Historias de Escandinavia y del mundo nórdico, en español, inglés, portugués y noruego.
+      Historias y juegos de Escandinavia y del mundo nórdico, en inglés, noruego, portugués y español.
     secoes: Secciones
     jornal: El sitio
     legal: Legal
