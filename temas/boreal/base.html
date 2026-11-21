@@ -15,7 +15,7 @@
 {% for i in cfg.idiomas %}
   {% set ul = alt|selectattr('curto','equalto',i.curto)|map(attribute='url')|list %}
   {% set u = ul[0] if ul else '' %}
-  {% set _ = menu_idiomas.append({'curto': i.curto, 'codigo': i.codigo, 'rotulo': i.rotulo, 'url': (u or (i.prefixo ~ '/')),
+  {% set _ = menu_idiomas.append({'curto': i.curto, 'codigo': i.codigo, 'rotulo': i.rotulo, 'sugerir': i.get('sugerir', true), 'url': (u or (i.prefixo ~ '/')),
       'sugestao': cfg[i.curto].interface.idioma_sugestao, 'botao': cfg[i.curto].interface.idioma_sugestao_botao}) %}
 {% endfor %}
 <link rel="canonical" href="{{ site.url }}{{ base_url }}">
@@ -168,6 +168,7 @@
   var nav = (navigator.language || 'en').slice(0, 2).toLowerCase();
   var quer = (nav === 'nb' || nav === 'nn') ? 'no' : (nav === 'pt' || nav === 'no' || nav === 'es') ? nav : 'en';
   var alvo = IDIOMAS.filter(function (i) { return i.curto === quer; })[0];
+  if (alvo && alvo.sugerir === false) alvo = null;
   /* Primeira visita a uma página inicial (/, /pt/, /no/, /es/): abre no idioma do navegador.
      Só uma vez por aparelho; depois disso o idioma é escolha do leitor. Matérias e jogos
      nunca trocam sozinhos (só mostram a sugestão abaixo), e robôs de busca não são desviados. */
