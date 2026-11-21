@@ -610,3 +610,7 @@ html.jogo-aberto,html.jogo-aberto body{overflow:hidden;overscroll-behavior:none}
 .rodape-ds a{color:#1F1040;font-weight:700}
 .rodape .rodape-edicao{margin-top:12px;max-width:none;font-family:var(--util);
   font-size:12px;letter-spacing:.06em;color:#2B1850}
+
+/* logo capacete no topo */
+.topo-marca{display:inline-flex;align-items:center;gap:6px}
+.faixa-topo .capacete{height:10px;width:auto;display:block;background:none}

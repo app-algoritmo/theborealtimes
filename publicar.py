@@ -656,10 +656,11 @@ def gerar_sitemap(cfg, urls, mapa):
                         f'    <xhtml:link rel="alternate" '
                         f'hreflang="{i["codigo"]}" '
                         f'href="{site["url"]}{onde[i["curto"]]}"/>')
-            if principal in onde:
+            xdef = "en" if "en" in onde else principal
+            if xdef in onde:
                 alt.append(f'    <xhtml:link rel="alternate" '
                            f'hreflang="x-default" '
-                           f'href="{site["url"]}{onde[principal]}"/>')
+                           f'href="{site["url"]}{onde[xdef]}"/>')
         corpo = f"  <url>\n    <loc>{site['url']}{u}</loc>\n"
         if alt:
             corpo += "\n".join(alt) + "\n"
