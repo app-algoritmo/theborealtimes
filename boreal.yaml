@@ -473,6 +473,19 @@ pt:
     jogo_lejre: jogo-o-monte-de-grydehoj
     jogo_ribecranio: jogo-os-anoes-do-mercado
     jogo_ales: jogo-o-navio-de-pedra
+    jogo_vili: jogo-os-dons-dos-irmaos
+    jogo_hraesvelgr: jogo-o-vento-das-asas
+    jogo_ilmarinen: jogo-o-ouro-na-brasa
+    jogo_princesa: jogo-a-resposta-de-cada-frase
+    jogo_pesta: jogo-a-menina-e-a-vassoura
+    jogo_marbendill: jogo-o-marbendill-na-agua
+    jogo_carneiro: jogo-o-lobo-na-porta
+    jogo_nornagest: jogo-a-chama-da-vela
+    jogo_islandes: jogo-as-cenas-do-conto
+    jogo_olkofra: jogo-as-faiscas-na-floresta
+    jogo_leao: jogo-as-runas-do-leao
+    jogo_reykjavik: jogo-a-peneira-dos-achados
+    jogo_tratado: jogo-pergaminho-selo-e-pena
     jogo_bifrost: jogo-as-tres-cores
     jogo_draupnir: jogo-a-nona-noite
     jogo_aegir: jogo-a-cerveja-dos-deuses
@@ -1028,6 +1041,19 @@ en:
     jogo_lejre: game-the-grydehoj-mound
     jogo_ribecranio: game-the-dwarves-of-the-market
     jogo_ales: game-the-stone-ship
+    jogo_vili: game-the-brothers-gifts
+    jogo_hraesvelgr: game-the-wind-from-the-wings
+    jogo_ilmarinen: game-the-gold-on-the-embers
+    jogo_princesa: game-an-answer-for-every-sentence
+    jogo_pesta: game-the-girl-and-the-broom
+    jogo_marbendill: game-the-marbendill-in-the-water
+    jogo_carneiro: game-the-wolf-at-the-door
+    jogo_nornagest: game-the-flame-of-the-candle
+    jogo_islandes: game-the-scenes-of-the-tale
+    jogo_olkofra: game-the-sparks-in-the-forest
+    jogo_leao: game-the-runes-of-the-lion
+    jogo_reykjavik: game-the-sieve-of-finds
+    jogo_tratado: game-scroll-seal-and-quill
     jogo_bifrost: game-the-three-colours
     jogo_draupnir: game-the-ninth-night
     jogo_aegir: game-the-gods-ale
@@ -1583,6 +1609,19 @@ en:
     jogo_lejre: spill-haugen-grydehoj
     jogo_ribecranio: spill-dvergene-pa-markedet
     jogo_ales: spill-skipet-av-stein
+    jogo_vili: spill-brodrenes-gaver
+    jogo_hraesvelgr: spill-vinden-fra-vingene
+    jogo_ilmarinen: spill-gullet-i-glorne
+    jogo_princesa: spill-et-svar-pa-hver-setning
+    jogo_pesta: spill-jenta-og-kosten
+    jogo_marbendill: spill-marbendillen-i-vannet
+    jogo_carneiro: spill-ulven-ved-dora
+    jogo_nornagest: spill-flammen-pa-lyset
+    jogo_islandes: spill-scenene-i-fortellingen
+    jogo_olkofra: spill-gnistene-i-skogen
+    jogo_leao: spill-runene-pa-loven
+    jogo_reykjavik: spill-sikten-med-funn
+    jogo_tratado: spill-pergament-segl-og-fjaerpenn
     jogo_bifrost: spill-de-tre-fargene
     jogo_draupnir: spill-den-niende-natten
     jogo_aegir: spill-gudenes-ol
