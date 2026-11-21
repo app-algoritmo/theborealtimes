@@ -492,6 +492,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_ymir: jogo-cada-parte-no-seu-lugar
+    jogo_sleipnir: jogo-a-estrada-de-sleipnir
+    jogo_sigyn: jogo-a-tigela-sob-o-veneno
+    jogo_marjatta: jogo-o-menino-entre-os-juncos
+    jogo_whiteland: jogo-o-chapeu-a-capa-e-as-botas
+    jogo_grimsborken: jogo-as-ferraduras-certas
+    jogo_sankthans: jogo-as-bruxas-e-a-fogueira
+    jogo_svein: jogo-o-vento-do-viking-da-primavera
+    jogo_karlsefni: jogo-as-cargas-do-vinland
+    jogo_snorri: jogo-cada-ato-na-sua-saga
+    jogo_uppakra: jogo-a-peneira-das-folhas-de-ouro
+    jogo_birka: jogo-os-barcos-no-cais
+    jogo_olof: jogo-as-moedas-de-sigtuna
     jogo_bifrost: jogo-as-tres-cores
     jogo_draupnir: jogo-a-nona-noite
     jogo_aegir: jogo-a-cerveja-dos-deuses
@@ -1058,6 +1071,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_ymir: game-every-part-in-its-place
+    jogo_sleipnir: game-sleipnir-s-road
+    jogo_sigyn: game-the-bowl-under-the-venom
+    jogo_marjatta: game-the-boy-among-the-reeds
+    jogo_whiteland: game-the-hat-the-cloak-and-the-boots
+    jogo_grimsborken: game-the-right-horseshoes
+    jogo_sankthans: game-the-witches-and-the-bonfire
+    jogo_svein: game-the-wind-of-the-spring-viking
+    jogo_karlsefni: game-the-cargoes-of-vinland
+    jogo_snorri: game-every-act-in-its-saga
+    jogo_uppakra: game-the-sieve-of-gold-foils
+    jogo_birka: game-the-boats-at-the-quay
+    jogo_olof: game-the-sigtuna-coins
     jogo_bifrost: game-the-three-colours
     jogo_draupnir: game-the-ninth-night
     jogo_aegir: game-the-gods-ale
@@ -1624,6 +1650,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_ymir: spill-hver-del-pa-sin-plass
+    jogo_sleipnir: spill-sleipnirs-vei
+    jogo_sigyn: spill-skalen-under-giften
+    jogo_marjatta: spill-gutten-mellom-sivene
+    jogo_whiteland: spill-hatten-kappen-og-stovlene
+    jogo_grimsborken: spill-de-rette-hesteskoene
+    jogo_sankthans: spill-heksene-og-balet
+    jogo_svein: spill-vinden-for-varvikingen
+    jogo_karlsefni: spill-lastene-fra-vinland
+    jogo_snorri: spill-hver-handling-i-sin-saga
+    jogo_uppakra: spill-sikten-med-gullblad
+    jogo_birka: spill-batene-ved-kaia
+    jogo_olof: spill-myntene-fra-sigtuna
     jogo_bifrost: spill-de-tre-fargene
     jogo_draupnir: spill-den-niende-natten
     jogo_aegir: spill-gudenes-ol
@@ -1835,6 +1874,19 @@ es:
     progresso: mi-progreso
     galeria: galeria
     album: album
+    jogo_ymir: juego-cada-parte-en-su-lugar
+    jogo_sleipnir: juego-el-camino-de-sleipnir
+    jogo_sigyn: juego-el-cuenco-bajo-el-veneno
+    jogo_marjatta: juego-el-nino-entre-los-juncos
+    jogo_whiteland: juego-el-sombrero-la-capa-y-las-botas
+    jogo_grimsborken: juego-las-herraduras-correctas
+    jogo_sankthans: juego-las-brujas-y-la-hoguera
+    jogo_svein: juego-el-viento-del-vikingo-de-primavera
+    jogo_karlsefni: juego-las-cargas-de-vinland
+    jogo_snorri: juego-cada-acto-en-su-saga
+    jogo_uppakra: juego-la-criba-de-las-laminas-de-oro
+    jogo_birka: juego-los-barcos-en-el-muelle
+    jogo_olof: juego-las-monedas-de-sigtuna
   curiosidades: []
   interface:
     capa: Portada
