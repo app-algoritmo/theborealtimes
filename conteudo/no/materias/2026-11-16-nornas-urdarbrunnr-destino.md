@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/nornas-fio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av tre kvinner i lange kapper ved en klar brønn under røttene til et gigantisk tre, en av dem veve gylne tråder, med to hvite svaner på vannet"
 fontes:
   - "Völuspá, strofe 19 og 20 (Den eldre Edda)"

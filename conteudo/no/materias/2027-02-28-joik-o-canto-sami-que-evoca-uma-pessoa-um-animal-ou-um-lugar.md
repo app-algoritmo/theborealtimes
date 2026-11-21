@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/joik-cantor-sami-tundra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en snødekt slette i skumringen, med reinsdyr i det fjerne, og, i forgrunnen, en person i blå og rød samisk drakt, med lukkede øyne og åpen munn, som synger vendt mot landskapet; fine lysstreker kommer ut av munnen og tegner et fjell."
 fontes:
   - "Wikipedia, \"Joik\" (navn, kjennetegn, historie, gjenoppliving, artister)"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/uppsala-templo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira de telhado dourado, ao lado de uma enorme árvore de folhas sempre verdes e de uma nascente, numa planície com colinas de sepultamento ao fundo; três estátuas de deuses, um com martelo, um de armadura e um com símbolo de fertilidade, sentam-se em tronos dentro do templo, e uma pequena multidão observa de longe."
 fontes:
   - "Adão de Bremen, *Gesta Hammaburgensis ecclesiae pontificum*, livro IV, caps. 26–27 (c. 1075)"

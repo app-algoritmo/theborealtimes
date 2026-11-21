@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/eirik-groenlandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en flåte vikingskip som seiler inn i en fjord med grønne skråninger og isbreer bak, med en rødskjegget mann i baugen på det første skipet"
 fontes:
   - "*Eiríks saga rauða* (1200-tallet)"

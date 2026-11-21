@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/kormaks-saga-poeta-islandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk skald med kort skjegg, i grå kappe, som står på en strand med mørke småstein ved kanten av en fjord og ser mot et torvhus der en ung kvinne i blå kjole står i døren; bak ham båten som brakte ham for sent; grå ettermiddagshimmel, lave bølger og måker."
 fontes:
   - "Wikipedia, «Kormáks saga» (handling, lausavísur, forfatterskap, datering, håndskriftet Möðruvallabók; bygger på Íslenzk fornrit VIII, Hollander, Viðar Hreinsson, Collingwood og Stefánsson, Poole og Wilson)"

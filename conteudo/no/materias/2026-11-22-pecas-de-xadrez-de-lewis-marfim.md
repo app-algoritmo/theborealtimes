@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/lewis-xadrez.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et trebord med et brett og middelalderske sjakkbrikker i blek elfenben, blant dem en sittende konge med sverd over knærne, en dronning med hånden mot kinnet, en biskop og en vidøyd kriger som biter i skjoldkanten, lyst opp av et stearinlys, med et kart over øyer bak"
 fontes:
   - "David Caldwell, Mark Hall og Caroline Wilkinson, «The Lewis hoard of gaming pieces», *Medieval Archaeology* 53 (2009)"

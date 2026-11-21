@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/tapecarias-de-overhogdal.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um tecido longo e estreito estendido sobre uma mesa de museu, tecido em lã em faixas horizontais, com fileiras de figuras humanas estilizadas, cavalos, cervos, árvores e pequenas casas, em tons de vermelho, azul e ocre desbotados; ao fundo, a janela de uma igreja de madeira sueca sob neve."
 fontes:
   - "Wikipedia, \"Överhogdal tapestries\" (achado, seções, contagem de figuras, datação, materiais, interpretações)"

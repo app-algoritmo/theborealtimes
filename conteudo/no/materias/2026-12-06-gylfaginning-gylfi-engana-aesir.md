@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/gylfi-salao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor gyllen hall med tak dekket av skjold, der en reisende i grå kappe med stav står foran tre menn som sitter på stablede troner; i bakgrunnen begynner veggene i hallen å oppløses i tåke, og en tom slette kommer til syne."
 fontes:
   - "Snorre Sturlason, *Yngre Edda*, *Gylfaginning* (1200-tallet; håndskrifter: Codex Regius GKS 2367 4to, Codex Wormianus, Codex Upsaliensis)"

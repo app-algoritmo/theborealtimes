@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/ran-rede.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av havbunnen i grønne og mørkeblå toner, med en kvinne med langt, flytende hår som holder et stort fiskegarn som stiger mot overflaten, ni bølger i form av unge kvinner rundt henne og, i bakgrunnen, det gylne skjæret fra en nedsunket hall"
 fontes:
   - "Snorre Sturlason, *Skáldskaparmál* (ca. 1220, kapitlene om Æger, Rán og døtrene deres)"

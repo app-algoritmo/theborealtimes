@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/jelling-harald-runas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande pedra rúnica viking com inscrições entalhadas num campo verde na Dinamarca ao amanhecer, ao lado de um túmulo em forma de montículo"
 fontes:
   - "Museu Nacional da Dinamarca, página sobre a pedra de Jelling"

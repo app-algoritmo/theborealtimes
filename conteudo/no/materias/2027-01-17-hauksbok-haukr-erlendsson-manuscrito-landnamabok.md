@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/hauksbok-haukr-manuscrito.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et trebord på en islandsk gård, med en stor kodeks åpen på et skrått stativ, sidene dekket av bokstaver og tabeller med tall; en middelaldrende mann i ulltunika og hette, med oppmerksomt uttrykk, skriver med en fjærpenn, og bak ham brenner et lavt bål og hyllene holder andre bøker."
 fontes:
   - "Wikipedia, «Hauksbók» (kompilator, datering etter Stefán Karlsson, innhold, delene AM 371 4to, AM 544 4to og AM 675 4to)"

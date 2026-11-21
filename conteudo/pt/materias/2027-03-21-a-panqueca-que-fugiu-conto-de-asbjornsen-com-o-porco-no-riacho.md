@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/panqueca-que-fugiu.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande panqueca dourada rolando como uma roda por um caminho de colina, perseguida por uma mulher, um homem e crianças; adiante esperam uma galinha, um galo, um ganso e um porco gordo perto de um riacho."
 fontes:
   - "Peter Christen Asbjørnsen, Tales from the Fjeld, tradução de George Webbe Dasent (Projeto Gutenberg, ebook 36385)"

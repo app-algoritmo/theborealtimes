@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/leste-do-sol.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma jovem de capa vermelha sobre as costas de um grande vento em forma de rosto soprando, atravessando um céu noturno de estrelas e lua, com um castelo de gelo ao longe"
 fontes:
   - "Norske Folkeeventyr, de Peter Christen Asbjørnsen e Jørgen Moe (coleção publicada a partir de 1841)"

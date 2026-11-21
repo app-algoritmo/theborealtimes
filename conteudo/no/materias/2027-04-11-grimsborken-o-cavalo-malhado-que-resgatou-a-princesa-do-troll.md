@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/grimsborken-o-cavalo-malhado.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm, lysende grå skimmel med gullsal og gullbissel som klatrer opp en nesten loddrett bergvegg med en ung rytter, og den mørke åpningen til en trollhule ovenfor."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, Norske Folkeeventyr, «Grimsborken»"

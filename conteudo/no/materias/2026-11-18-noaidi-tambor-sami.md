@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/noaidi-tambor.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en samisk mann med blå lue og en tunika med røde kanter som sitter i et teltduk-telt foran et lite bål og slår med en beinhammer på en oval skinntromme full av malte figurer, mens en messingring hopper over dem"
 fontes:
   - "Johannes Schefferus, *Lapponia* (1673)"

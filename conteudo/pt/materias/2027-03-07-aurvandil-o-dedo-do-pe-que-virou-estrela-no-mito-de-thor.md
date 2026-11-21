@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/aurvandil-dedo-estrela.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um gigante de barba ruiva, com um martelo à cintura, vadeando um rio largo e gelado sob céu escuro, com um cesto de vime nas costas; do cesto sai um pé descalço e, no alto, uma estrela branca brilha entre blocos de gelo à deriva."
 fontes:
   - "Snorri Sturluson, Edda em Prosa (Skáldskaparmál), conforme resumida no verbete \"Aurvandill\" da Wikipédia"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/barco-de-pedra-corrente.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um barco de proa alta feito de pedra cinza deslizando sobre um mar calmo ao anoitecer, com uma figura feminina corpulenta e sombria de pé na proa; no convés de um navio de madeira ao lado, um homem adormecido e uma mulher com uma criança nos braços."
 fontes:
   - "Jón Árnason, \"Skessan á steinnökkvanum\", em Íslenzkar Þjóðsögur og Æfintýri, volume 2 (1864)"

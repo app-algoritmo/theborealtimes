@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/bandamanna-oddr-ofeigr.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale islandês com um grande acampamento de tendas de pedra e turfa durante a assembleia, e um velho de capa escura e cajado conversando em voz baixa com dois homens ao pé de uma rocha; ao fundo, um jovem de ar contrariado vindo de uma fazenda e a luz clara de um dia de verão sobre o lago e as montanhas."
 fontes:
   - "Wikipedia, \"Bandamanna saga\" (resumo, manuscritos, datação e bibliografia)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/heidrun-cabra-valhalla-hidromel.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lys geit som står på taket av gullskjold på en stor tømmerhall og napper i bladene på et enormt tre med vridde greiner; en gylden tråd av mjød faller fra juret og ned i en stor jernkjel, mens skjeggete krigere løfter drikkehorn nedenfor, under en himmel av oransje skyer."
 fontes:
   - "Wikipedia, «Heiðrún» (Grímnismál, Gylfaginning, Hyndluljóð, treet Læraðr, hjorten Eikþyrnir, Libermans hypotese, omstridt etymologi)"

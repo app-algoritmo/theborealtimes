@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/kjartan-bolli-e-gudrun.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av tre skikkelser på en islandsk torvgård i skumringen: en høy og stolt mann, en annen som ser sidelengs på ham, og en kvinne i mørk slør mellom dem, med et brodert hodeplagg i hendene."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Laxdæla saga», med handlingen, dateringen og håndskriftene"

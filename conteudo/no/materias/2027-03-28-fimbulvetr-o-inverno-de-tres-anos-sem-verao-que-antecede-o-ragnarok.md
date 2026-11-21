@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/fimbulvetr-inverno-sem-verao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tømmergård nesten begravd av snø som kommer fra alle kanter, under en mørk himmel der sola ser blek og svak ut; en familie ser fra døra, og et enormt tre står imot vinden i bakgrunnen."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 51)"

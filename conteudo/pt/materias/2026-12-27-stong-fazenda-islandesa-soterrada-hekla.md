@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/stong-fazenda-hekla-cinza.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale islandês coberto de cinza e musgo com um vulcão de topo branco ao fundo, onde uma fazenda medieval de turfa, comprida e baixa, tem o telhado verde e uma fileira de pedras nas fundações; no pátio, uma mulher de véu e um homem de capa trazem lenha, e uma pequena igreja de turfa aparece mais além."
 fontes:
   - "Wikipedia, \"Þjóðveldisbærinn Stöng\" (localização, soterramento em 1104, reconstrução de 1974–1977, igreja de 2000)"

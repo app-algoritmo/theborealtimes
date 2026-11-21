@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/dublin-wood-quay.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma escavação arqueológica à beira de um rio, com paredes de varas trançadas de casas antigas expostas na terra escura, arqueólogos ajoelhados com pás pequenas, caixas de sapatos de couro e pentes de osso sobre uma mesa e, ao fundo, uma cidade moderna com guindastes"
 fontes:
   - "Patrick F. Wallace, *The Viking Age Buildings of Dublin* (Royal Irish Academy, 1992)"

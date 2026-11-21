@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/hoenir-deus-aesir-refem.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy, langbeint gud i en mosegrønn kappe som står ved kanten av en grunn innsjø ved daggry; sju hvite svaner hviler på vannet rundt ham, og i bakgrunnen ser en gutt i ullskjorte på fra land; tynn tåke over sivet og en blek rosa himmel."
 fontes:
   - "Wikipedia, «Hœnir» (Völuspá, Snorres Edda, Ynglingesaga, Haustlöng, Reginsmál, balladen Lokka táttur, etymologi og storkehypotesen; bygger på MacCulloch, Hopkins og Rydberg)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/halfdan-hagia-sophia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lysskjegget mann i ringbrynje som sitter på huk i et lyst marmorgalleri i en stor basilika og rister runer i et rekkverk med spissen av en kniv mens lyset slipper inn gjennom et høyt vindu"
 fontes:
   - "Studier av runeepigrafikk om innskriftene i Hagia Sofia og Pireus-løven"

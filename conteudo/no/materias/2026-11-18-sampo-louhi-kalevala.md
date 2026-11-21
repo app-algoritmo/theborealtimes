@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/sampo-louhi.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy kvinne i mørk kappe og iskrone foran et steinete fjell, med en stor kvern med fargerikt lokk som lyser i en hule, og bak henne en heltebåt som krysser havet under en nordlyshimmel"
 fontes:
   - "Elias Lönnrot, *Kalevala* (første utgave 1835, utvidet utgave 1849)"

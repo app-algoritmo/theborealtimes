@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/freyr-gerdr.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cavaleiro de capa verde num cavalo branco diante de um muro de chamas e de uma grande casa de gigantes ao fundo, enquanto uma figura dourada observa de uma torre alta"
 fontes:
   - "Skírnismál (Edda Poética)"

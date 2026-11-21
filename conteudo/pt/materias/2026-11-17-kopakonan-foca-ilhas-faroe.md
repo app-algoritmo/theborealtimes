@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/kopakonan-foca.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de cabelos longos e escuros na praia de uma baía faroesa ao crepúsculo, segurando uma pele cinzenta de foca nos braços, com falésias verdes atrás e várias cabeças de focas surgindo na água"
 fontes:
   - "Coletâneas de folclore das Ilhas Faroé, dos séculos XIX e XX"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/sao-bricio-oxford.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Nøktern illustrasjon av en steinkirke fra år 1000, med døren mørknet av røyk, sett utenfra i skumringen, med et åpent pergament i forgrunnen på et tre bord, med en urkunde med voksseglsett og linjer med skrift på gammelt latin, ved siden av et slukket lys."
 fontes:
   - "Wikipedia, \"St Brice's Day massacre\" (dato, ordren, Det anglosaksiske krønike, brevet fra 1004, funn i Oxford og Dorset, debatt)"

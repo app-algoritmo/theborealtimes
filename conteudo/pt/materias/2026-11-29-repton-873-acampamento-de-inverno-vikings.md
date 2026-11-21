@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/repton-acampamento.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um acampamento fortificado à beira de um rio largo no inverno, com um fosso em forma de D, uma pequena igreja de pedra servindo de portão, tendas e barcos puxados à margem, soldados de elmo em volta de fogueiras e neve fina sobre a relva"
 fontes:
   - "Martin Biddle e Birthe Kjølbye-Biddle, \"Repton and the Vikings\", *Antiquity* 66 (1992)"

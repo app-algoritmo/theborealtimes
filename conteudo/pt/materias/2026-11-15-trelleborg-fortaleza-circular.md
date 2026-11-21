@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/trelleborg-anel.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração aérea de uma fortaleza viking circular de terra e paliçada, com quatro portões em cruz e casas compridas dispostas em quadrados, cercada de campos verdes na Dinamarca"
 fontes:
   - "Museu Nacional da Dinamarca, escavações e datação por dendrocronologia em Trelleborg"

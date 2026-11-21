@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/aurora-boreal.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um céu noturno de inverno com cortinas ondulantes de luz verde e violeta sobre uma paisagem nevada, com uma pequena raposa clara correndo no topo de uma colina e levantando faíscas com a cauda, uma tenda sámi ao longe e pessoas de pé em silêncio olhando para cima"
 fontes:
   - "Autor desconhecido, *Konungs skuggsjá* (*O Espelho do Rei*, Noruega, por volta de 1250; tradução inglesa de Laurence M. Larson, 1917)"

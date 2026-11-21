@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/sol-mani.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher num carro dourado puxado por dois cavalos, cruzando um céu avermelhado, com um grande lobo de pelo escuro correndo atrás com a boca aberta e, ao fundo, uma lua pálida guiada por um jovem a pé sobre as nuvens"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Gylfaginning*, capítulos sobre o sol, a lua e os lobos, por volta de 1220)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/eyrbyggja-froda.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk torvgård om natten, med bleke, våte skikkelser som står ved døra, menn i kapper som holder fakler i en halvsirkel foran dem, og et selhode som stiger opp av tømmergulvet i ildskinnet"
 fontes:
   - "Ukjent forfatter, *Eyrbyggja saga* (islandsk saga fra 1200-tallet), i *Íslenzk fornrit* IV (Hið íslenzka fornritafélag, 1935)"

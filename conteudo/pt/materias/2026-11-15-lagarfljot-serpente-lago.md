@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/lagarfljot-serpente.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um longo lago cinzento islandês com neblina, e um corpo de serpente com várias corcovas emergindo da água, enquanto uma pequena figura na margem observa"
 fontes:
   - "Folclore islandês sobre o Lagarfljótsormur"

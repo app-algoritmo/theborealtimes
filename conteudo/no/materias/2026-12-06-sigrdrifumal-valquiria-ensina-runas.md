@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/sigrdrifa-runa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en steinhaug omgitt av en mur av skjold under en stjernehimmel, der en valkyrje i sølvrustning, nettopp våknet, rekker et drikkehorn til en lyshåret ung kriger; lysende runer svever i luften mellom dem."
 fontes:
   - "*Eldre Edda*, *Sigrdrífumál* (Codex Regius, ca. 1270, med hull; de siste strofene i senere papirhåndskrifter)"

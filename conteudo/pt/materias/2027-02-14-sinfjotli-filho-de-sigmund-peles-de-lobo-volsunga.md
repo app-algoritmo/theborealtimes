@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/sinfjotli-peles-de-lobo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois lobos cinza lado a lado numa clareira de floresta nevada, os olhos claros fixos no espectador, com duas peles dobradas ao pé de uma árvore; ao fundo, um grande salão de madeira entre pinheiros e, na margem de um rio, um barqueiro de chapéu largo com um pequeno barco."
 fontes:
   - "Wikipedia, \"Sinfjötli\" (nascimento, peles de lobo, morte, outras menções)"

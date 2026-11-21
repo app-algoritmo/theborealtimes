@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/marjatta-e-a-baga.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma jovem pastora num morro de vegetação baixa, colhendo uma baga vermelha, com ovelhas ao redor e, ao fundo, um pântano com juncos sob a luz do pôr do sol."
 fontes:
   - "Elias Lönnrot, Kalevala (edição de 1849), canto 50 (na tradução inglesa de John Martin Crawford)"

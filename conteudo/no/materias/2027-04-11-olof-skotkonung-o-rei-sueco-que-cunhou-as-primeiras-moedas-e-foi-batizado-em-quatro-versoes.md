@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/olof-skotkonung-rei-de-sigtuna.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konge med enkel krone og rød kappe som står på en ås i Uppsala, med en forsamling menn rundt, og en stor sølvmynt med byste i forgrunnen."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Olof Skötkonung», som oppsummerer Adam av Bremen, Snorres Heimskringla og andre kilder"

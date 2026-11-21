@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/sankthans-fogueira-do-solsticio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et enormt bål tent ved en fjord en lys sommernatt, med folk rundt, blomster plukket i en kurv og båter på vannet under en himmel som fortsatt er blå."
 fontes:
   - "ScienceNorway (Universitetet i Sørøst-Norge), «Why do Scandinavians celebrate midsummer?», med professor Herleik Baklid"

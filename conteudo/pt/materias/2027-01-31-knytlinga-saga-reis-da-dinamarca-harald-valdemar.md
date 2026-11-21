@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/knytlinga-saga-reis-dinamarca.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de coroa dourada sentado num trono de madeira num salão dinamarquês, com um escriba islandês de manto escuro registrando os feitos num pergaminho ao lado; ao fundo, por uma janela, um navio longo chega a uma costa com ídolos de madeira de várias cabeças, e uma cruz é erguida na praia."
 fontes:
   - "Wikipedia, \"Knýtlinga saga\" (data, autoria, reis da Dinamarca, Valdemar II, Heimskringla, vendos e deuses eslavos, Svantevit em Arkona, Gartz, conversões, tradução de Hermann Pálsson e Paul Edwards, 1986)"

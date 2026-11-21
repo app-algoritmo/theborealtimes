@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/ukko-deus-do-trovao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem muito velho, de barba comprida e manto azul-escuro, sentado numa nuvem de tempestade e erguendo um martelo; abaixo dele, campos de cevada sob chuva e, à beira de um bosque, pessoas levando uma vasilha de madeira."
 fontes:
   - "Mikael Agricola, prefácio de Dauidin Psaltari (1551)"

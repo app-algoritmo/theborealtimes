@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/yggdrasil-arvore.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kolossal ask med dype røtter og greiner som stiger mot stjernene, med en ørn i toppen, et ekorn på stammen og en slange blant røttene"
 fontes:
   - "*Vøluspå*, dikt i *Den eldre Edda* (håndskriftet Codex Regius, ca. 1270)"

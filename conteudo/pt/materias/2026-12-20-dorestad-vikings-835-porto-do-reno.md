@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/dorestad-porto-reno.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um porto fluvial do século IX com longos cais de madeira, armazéns retangulares e barcos de carga amarrados ao longo do Reno; mercadores em mantos coloridos negociando barris, peles e tecidos, e, ao fundo, uma fileira de navios vikings de proa alta aproximando-se pela água ao amanhecer."
 fontes:
   - "Frisia Coast Trail, \"The Batwing Doors of Dorestad. A Two-Way Gateway of Trade and Power\" (comércio, cunhagem, incursões, arqueologia e declínio)"

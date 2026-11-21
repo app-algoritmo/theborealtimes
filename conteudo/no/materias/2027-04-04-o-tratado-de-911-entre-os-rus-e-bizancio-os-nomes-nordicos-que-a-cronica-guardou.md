@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/tratado-de-911-rus-bizancio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et steinbord i en søylesal i Konstantinopel, med et åpent pergament og et voksseglet, på den ene siden to lyshårede menn i kapper med flettet skjegg, på den andre to bysantinske embetsmenn i lange tunikaer, under en oljelampe."
 fontes:
   - "Nestorkrøniken (Povest vremennykh let), teksten til avtalen under året 911"

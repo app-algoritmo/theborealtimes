@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/kullervo-rebanho.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkhåret gutt i enkle klær som står i en finsk skogsglenne i skumringen, med et lite horn i hendene, mens grå ulver og bjørner kommer ut fra trærne som en buskap, under en lilla himmel"
 fontes:
   - "Elias Lönnrot, *Kalevala* (1849), overs. Keith Bosley (Oxford University Press, 1989), runo 31 til 36"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/njal-queima.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande casa de turfa e madeira em chamas à noite, numa planície islandesa, com homens armados em círculo e uma figura saltando do telhado em fogo"
 fontes:
   - "*Brennu-Njáls saga*, a Saga de Njál, o Queimado (final do século XIII)"

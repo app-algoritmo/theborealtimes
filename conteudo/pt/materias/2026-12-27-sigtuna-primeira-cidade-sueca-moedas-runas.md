@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/sigtuna-oficina-moedas-runas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma rua larga de terra batida numa cidade de madeira à beira de um lago, com lotes compridos e estreitos de cada lado, casas de troncos com telhado de turfa e oficinas na frente; em primeiro plano, um artesão curva-se sobre uma bancada com cunhos de moeda, e ao fundo uma pedra rúnica ao lado do caminho e uma igreja de pedra em construção."
 fontes:
   - "medieval.eu, \"Sigtuna – a powerful political and cultural centre in Sweden c. 980–1200\" (fundação, moedas, plantas, runas, igrejas, população)"

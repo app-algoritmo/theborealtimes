@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/peer-gynt-dovre.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor steinsal inne i et fjell, opplyst av grønne fakler, med en ung mann i vest og filthatt som løper mellom troll med lange neser og spisse ører, og i bakgrunnen en trollkonge med steinkrone som sitter på en trone av berg"
 fontes:
   - "Peter Christen Asbjørnsen, *Norske Huldre-Eventyr og Folkesagn* (1845 til 1848)"

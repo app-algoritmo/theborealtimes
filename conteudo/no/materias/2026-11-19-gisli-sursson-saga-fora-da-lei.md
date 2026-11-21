@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/gisli-foradalei.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkskjegget mann i ullkappe som sitter på huk i en grunn hule ved en snødekt fjord og kikker gjennom en sprekk i steinen, mens ryttere med spyd i det fjerne rir opp en li i skumringen"
 fontes:
   - "Ukjent forfatter, *Gísle Sursons saga* (*Gísla saga Súrssonar*, islandsk tekst fra 1200-tallet, i to versjoner)"

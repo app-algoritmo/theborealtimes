@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/svein-asleifarson-de-gairsay.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et langskip med mørkt skrog som ligger for anker ved en øy med grønne åser under en skyet himmel, med en mann i kappe i baugen og et stort hus av tømmer og torv i skråningen."
 fontes:
   - "Orknøyingenes saga (skrevet omkring 1200 av en ukjent islandsk skriver)"

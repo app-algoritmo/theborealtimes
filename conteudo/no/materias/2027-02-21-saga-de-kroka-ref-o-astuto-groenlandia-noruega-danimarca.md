@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/kroka-ref-fortaleza-navio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i en kort kappe foran en festning av stein og tømmer på en høyde ved havet, med et skip med høy stavn til ankers i bukta og et flagg i vinden øverst på muren, under en himmel med lave skyer."
 fontes:
   - "Wikipedia, «Króka-Refs saga» (handling, datering, håndskrifter, rímur)"

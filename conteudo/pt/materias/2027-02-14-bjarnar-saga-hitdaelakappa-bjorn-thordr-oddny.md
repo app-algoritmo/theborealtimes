@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/bjarnar-saga-poetas-rivais.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois homens de capa em lados opostos de uma praia pedregosa de Snæfellsnes, com a geleira ao fundo, e uma mulher de véu no meio observando de uma casa de turfa; no chão, uma tábua de madeira com sinais riscados, sob um céu de inverno."
 fontes:
   - "Wikipedia, \"Bjarnar saga Hítdœlakappa\" (enredo, personagens, manuscritos)"

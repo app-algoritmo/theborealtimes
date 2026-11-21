@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/ragnarok-batalha.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en slette under en mørkerød himmel, der norrøne guder og en kjempeulv står mot hverandre, med en havslange i bakgrunnen og ild i horisonten"
 fontes:
   - "*Vøluspå*, dikt i *Den eldre Edda* (håndskriftet Codex Regius, ca. 1270)"

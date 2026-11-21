@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/islandes-que-contava-sagas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem de túnica simples em pé diante de um rei de barba ruiva sentado em cadeira alta num salão iluminado por velas, com homens da guarda sentados à mesa e ramos de pinheiro na parede, numa noite de inverno."
 fontes:
   - "Íslendings þáttr sögufróða, conservado em Morkinskinna, Hulda e Hrokkinskinna"

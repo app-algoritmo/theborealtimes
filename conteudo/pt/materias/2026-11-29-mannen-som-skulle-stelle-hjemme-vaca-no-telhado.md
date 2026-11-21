@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/mannen-casa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma casa norueguesa de troncos com telhado de turfa, uma vaca pendurada por uma corda ao lado da chaminé e um homem de camisa branca erguido pela outra ponta da corda, enquanto uma mulher de lenço na cabeça chega correndo ao pátio com uma faca na mão e um porco foge entre as galinhas"
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, *Norske Folkeeventyr* (1841 a 1844), conto «Mannen som skulle stelle hjemme»"

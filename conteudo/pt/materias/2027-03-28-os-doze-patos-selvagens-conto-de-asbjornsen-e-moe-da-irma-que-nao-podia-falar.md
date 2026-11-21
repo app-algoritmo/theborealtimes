@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/doze-patos-selvagens.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma moça sentada numa charneca cheia de cardos em flor, colhendo a penugem com as mãos, em silêncio; ao fundo, doze patos selvagens cruzam o céu frio ao entardecer e uma cabana de madeira aparece entre as árvores."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, contos populares noruegueses, tradução de George Webbe Dasent, \"Popular Tales from the Norse\" (Project Gutenberg, nº 8933): \"The Twelve Wild Ducks\""

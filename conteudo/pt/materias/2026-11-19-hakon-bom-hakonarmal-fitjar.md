@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/hakon-fitjar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei norueguês de elmo dourado e cota de malha caído ao pé de um mastro numa praia de seixos, com o braço ferido, enquanto duas figuras femininas de armadura brilhante e lança descem do céu nublado sobre um mar cinzento"
 fontes:
   - "Snorri Sturluson, *Heimskringla* (*Hákonar saga góða*, por volta de 1230)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/papar-monges-costa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk kyst av svart basalt og grønn mose, med en liten øy utenfor land, ruinen av en lav steinhytte og tre skikkelser i mørke kapper med et trekors ved siden av en skinnbåt; på himmelen lave skyer og et lysbånd."
 fontes:
   - "Wikipedia, «Papar» (Íslendingabók, Landnámabók, stedsnavn, andre kilder)"

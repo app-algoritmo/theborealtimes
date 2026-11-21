@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/lindholm-barco-pedra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma colina de relva e areia sob um céu de fim de tarde, com dezenas de pedras erguidas formando contornos de barcos, de proa e popa pontudas, entre pedras triangulares e ovais, e arqueólogos de roupas de lã ajoelhados para medir as pedras, com um fiorde ao fundo"
 fontes:
   - "Thorkild Ramskou, *Lindholm Høje Gravpladsen* (Nordiske Fortidsminder, 1976)"

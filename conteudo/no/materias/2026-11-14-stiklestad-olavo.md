@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/stiklestad-olavo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konge i kappe og krone som lener seg mot en stor stein, omgitt av krigere med skjold og spyd på en slagmark, under en himmel der solen er nesten helt dekket og lyset er rødlig"
 fontes:
   - "Snorre Sturlason, *Heimskringla*, sagaen om Olav den hellige (ca. 1230)"

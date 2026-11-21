@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/stamford-ponte.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro nórdico gigante de machado erguido, sozinho numa ponte de madeira sobre um rio, enfrentando uma multidão de soldados ingleses numa manhã de névoa"
 fontes:
   - "*Crônica Anglo-Saxônica*, versões C, D e E, entradas do ano 1066"

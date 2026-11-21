@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/heidarviga-saga-charneca.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vid, trefri islandsk hei med gulnet gress og grunne pytter under en stormfull himmel; i forgrunnen møtes to grupper av væpnede menn i mørke kapper på avstand, med spyd og skjold; i bakgrunnen blålige åser og et ensomt torvhus, og en ravn på en stein."
 fontes:
   - "Wikipedia, «Heiðarvíga saga» (tapet av tolv blad i brannen i København i 1728, Jón Grunnvíkingurs sammendrag, handling, datering, bibliografi av Finlay, Shortt Butler, Wilson, Byock og Viðar Hreinsson)"

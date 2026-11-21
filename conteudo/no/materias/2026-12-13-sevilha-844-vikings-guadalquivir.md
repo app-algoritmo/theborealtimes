@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/sevilha-guadalquivir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bred, rolig elv i skumringen, med vikingskip med drageformede stavner som seiler oppstrøms mot en by med lave murer og hvite minareter; på bredden samler soldater med turban og ryttere seg under grønne bannere, og røyk stiger opp fra noen hus."
 fontes:
   - "Ibn al-Qūṭiyya (d. 977), *Ta'rīkh iftitāḥ al-Andalus* (beretning om angrepet i 844)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/grettir-glamr.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en sterk kriger midt i en trehall med raste tak, foran en høy, blek skikkelse som ligger på rygg, og hvis øyne gløder i lyset fra månen som kommer fram bak skyene"
 fontes:
   - "Grettis saga Ásmundarsonar, kapittel 32 til 35 (1300-tallet), i oversettelsen av William Morris og Eiríkr Magnússon, 1869"

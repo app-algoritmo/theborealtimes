@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/birka-guerreira.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma câmara funerária de madeira com um esqueleto envolto em seda, armas, flechas, dois cavalos e peças de um jogo de tabuleiro, sob uma luz de lanterna"
 fontes:
   - "Charlotte Hedenstierna-Jonson e outros, 'A female Viking warrior confirmed by genomics', *American Journal of Physical Anthropology*, 2017"

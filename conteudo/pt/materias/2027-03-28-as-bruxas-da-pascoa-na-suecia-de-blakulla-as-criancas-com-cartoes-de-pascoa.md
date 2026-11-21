@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/bruxas-da-pascoa-criancas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de crianças vestidas de bruxas da Páscoa, com lenços na cabeça, saias coloridas, bochechas pintadas e cestas ou bules de café nas mãos, batendo à porta de uma casa vermelha de madeira na neve derretida, com uma vassoura encostada na parede."
 fontes:
   - "Nordiska museet, \"Easter\" (nordiskamuseet.se, seção sobre tradições e celebrações)"

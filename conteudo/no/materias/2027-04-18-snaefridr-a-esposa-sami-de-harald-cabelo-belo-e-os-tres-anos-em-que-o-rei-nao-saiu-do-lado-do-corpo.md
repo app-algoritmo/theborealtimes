@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/snaefridr-e-o-rei-harald.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konge med langt lyst hår som sitter ved siden av en seng av skinn der en ung kvinne med rolig ansikt ligger, i en trehytte ved lysskjær, mens en gammel mann med hvitt skjegg kaller på ham fra døra."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Snæfríthr Svásadottir»"

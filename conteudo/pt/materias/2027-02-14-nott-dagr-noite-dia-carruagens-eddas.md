@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/nott-dagr-carruagens.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de duas carruagens cruzando um céu nórdico: à frente, uma carruagem escura e prateada puxada por um cavalo de espuma branca, com uma figura feminina de capa; atrás, uma carruagem clara e dourada puxada por um cavalo de crina radiante, com um jovem luminoso; abaixo, uma terra coberta de orvalho."
 fontes:
   - "Wikipedia, \"Nótt\" (família, cavalo Hrímfaxi, fontes da Edda)"

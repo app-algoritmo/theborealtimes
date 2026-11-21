@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/svolder-ormen.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et stort vikingskip med drakehode omgitt av mindre skip på et grått hav, med krigere med runde skjold på dekk og en pil som krysser himmelen"
 fontes:
   - "Heimskringla, Óláfs saga Tryggvasonar (Snorre Sturlason)"

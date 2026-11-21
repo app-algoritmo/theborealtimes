@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/mylingen-alma-crianca-estrada.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma estrada de terra solitária na Suécia, à noite, sob lua cheia entre pinheiros e névoa baixa, com um viajante de lanterna na mão olhando para trás e uma pequena figura pálida de camisola surgindo na beira do caminho; ao fundo, as cruzes de um cemitério de aldeia com um muro de pedra e uma igreja de madeira."
 fontes:
   - "Wikipedia, \"Myling\" (nome e etimologia, o encontro e o peso, remédios, contexto histórico, estudos de af Klintberg, Kvideland e Sehmsdorf, Pentikäinen e Simpson)"

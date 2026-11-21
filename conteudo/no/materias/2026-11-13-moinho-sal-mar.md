@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/moinho-sal-mar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en magisk steinkvern som går rundt på bunnen av et mørkt hav og slipper ut skinnende hvitt salt, med skroget av et vikingskip som synker bak"
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, *Norske Folkeeventyr* (1841–1844)"

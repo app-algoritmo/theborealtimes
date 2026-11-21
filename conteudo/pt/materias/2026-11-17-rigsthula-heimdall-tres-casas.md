@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/rigsthula-casas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um viajante alto e claro de capa cinzenta batendo à porta de uma casa de turfa humilde, com duas outras casas ao fundo, uma de fazenda bem cuidada e outra de salão nobre com colunas esculpidas, ao entardecer"
 fontes:
   - "*Rígsþula*, poema nórdico antigo conservado de forma incompleta no manuscrito Codex Wormianus (por volta de 1350)"

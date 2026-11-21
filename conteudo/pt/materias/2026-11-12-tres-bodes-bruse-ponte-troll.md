@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/tres-bodes.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração em estilo de livro infantil de três bodes de tamanhos diferentes atravessando uma ponte de madeira, com um troll de olhos grandes espiando por baixo."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, *Norske Folkeeventyr* (Contos Populares Noruegueses), publicado a partir de 1841"

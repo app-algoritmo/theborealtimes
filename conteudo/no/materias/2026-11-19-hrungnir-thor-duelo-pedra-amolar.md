@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/hrungnir-duelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rødskjegget gud som kaster en hammer mot en steinjotun med skjold av fjell, på en sprukken slette under svarte skyer, med gnister i lufta, en kvikk gutt ved siden av guden og en stor leirskikkelse i bakgrunnen"
 fontes:
   - "Snorre Sturlason, *Snorres Edda* (*Skáldskaparmál*, omkring 1220)"

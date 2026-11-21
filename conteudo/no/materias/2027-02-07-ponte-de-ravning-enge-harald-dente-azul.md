@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/ponte-de-ravning-enge.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lang trebro i eik som krysser en flat, fuktig dal, med dusinvis av peler i en jevn rekke; på den passerer to vogner med hester hverandre, og i det fjerne, på en høyde, omrisset av to store jordhauger og en liten kirke."
 fontes:
   - "Wikipedia, «Ravning Bridge» (mål, radiokarbon- og dendrokronologisk datering, tilskriving til Harald Blåtann, utgravinger, formål)"

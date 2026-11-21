@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/rurik-ladoga.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande barco de madeira de proa entalhada subindo um rio calmo entre florestas escuras, com homens de elmo e escudos redondos nos bordos e um povoado de casas de madeira sobre um outeiro à margem, sob um céu pálido de manhã"
 fontes:
   - "*Crônica dos Anos Passados* (*Povest' vremennykh let*, ou *Crônica Primária*, compilada em Kiev por volta de 1113)"

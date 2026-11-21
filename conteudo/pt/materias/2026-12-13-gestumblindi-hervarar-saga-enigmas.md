@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/gestumblindi-enigmas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de madeira onde um rei de barba castanha, com uma espada na mão, está de pé diante de um velho de capa azul e chapéu de abas largas, com um olho coberto; entre os dois, uma mesa com um chifre de bebida, e uma ave de rapina escapando pela janela, com a cauda cortada."
 fontes:
   - "*Hervarar saga ok Heiðreks*, \"Gátur Gestumblinda\" (manuscritos R, U e H, este último a *Hauksbók*)"

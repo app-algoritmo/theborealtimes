@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/grimsborken-o-cavalo-malhado.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cavalo cinzento malhado, enorme e luminoso, com sela e rédeas douradas, subindo uma parede de rocha quase vertical com um jovem cavaleiro, e a boca escura de uma caverna de troll acima."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, Norske Folkeeventyr, \"Grimsborken\""

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/jon-arnason-contos-islandeses.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma sala de biblioteca do século XIX em Reykjavík, com estantes de madeira cheias de livros e manuscritos, e, sobre uma mesa, pilhas de folhas escritas à mão, um tinteiro e uma lamparina de óleo acesa; um homem de barba curta, de casaco escuro, lê uma folha com atenção, e pela janela vê-se uma rua de casas de madeira sob um céu claro."
 fontes:
   - "Wikipedia, \"Jón Árnason (author)\" (vida, bibliotecário, Magnús Grímsson, Konrad Maurer, publicação em 1862 e 1864, Grimm, edição de 1954–61)"

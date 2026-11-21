@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/toponimos-danelaw-mapa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et gammelt kart over østkysten av England, med små sirkler som markerer bosetninger og ved siden av hver et navn som ender på -by, -thorpe eller -thwaite skrevet for hånd; rundt kartet bølger og et skip med høy stavn."
 fontes:
   - "viking.no, tekst om skandinaviske stedsnavn i England (elementer, Danelaw, konsentrasjon i Lincolnshire)"

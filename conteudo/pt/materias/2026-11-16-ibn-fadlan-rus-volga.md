@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/ibn-fadlan-rus.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um viajante de turbante e túnica azul, com um rolo de pergaminho, diante de homens altos de barba loura e tatuagens verdes, ao lado de um grande navio de madeira na margem de um rio largo"
 fontes:
   - "Risala (Relato de viagem) de Ahmad ibn Fadlan, 921–922, em edições e traduções modernas"

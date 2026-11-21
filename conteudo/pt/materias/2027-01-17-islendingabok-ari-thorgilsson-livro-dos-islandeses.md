@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/islendingabok-ari-livro-islandeses.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um padre de hábito simples escrevendo à luz de uma vela numa mesa de madeira, sobre pergaminho, com um tinteiro de chifre e penas ao lado; atrás dele, uma janela estreita deixa ver uma planície de lava e montanhas azuladas, e numa prateleira se veem rolos de pergaminho e um pequeno barco de madeira entalhada."
 fontes:
   - "Wikipedia, \"Íslendingabók\" (autoria, data, versões, conteúdo, manuscritos AM 113 a e b fol., Jón Erlendsson)"

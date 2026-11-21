@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/groenlandia-hvalsey.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração das ruínas de pedra de uma igreja medieval sem telhado à beira de um fiorde verde da Groenlândia, com icebergs ao fundo, ovelhas pastando entre as pedras e um céu claro de fim de verão"
 fontes:
   - "*Grænlendinga saga* e *Eiríks saga rauða* (século XIII), sobre a fundação da colônia"

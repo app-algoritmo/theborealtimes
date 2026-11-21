@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/hrolf-ouro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei nórdico a cavalo galopando por uma planície ao amanhecer e espalhando moedas e anéis de ouro atrás de si, enquanto cavaleiros de capas escuras desmontam para recolhê-los"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, parte *Skáldskaparmál* (por volta de 1220)"

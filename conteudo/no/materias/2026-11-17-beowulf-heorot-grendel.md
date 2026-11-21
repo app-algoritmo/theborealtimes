@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/beowulf-grendel.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor nordisk trehall om natten med en bar overkropp-kriger med lyst hår som holder fast armen til en enorm mørk skapning som forsøker å flykte gjennom døra mens krigere ser på på avstand"
 fontes:
   - "*Beowulf*, gammelengelsk dikt (håndskrift fra rundt år 1000; diktets alder omdiskutert)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/lemminkainen-rio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bred, mørk elv under en stjerneløs himmel, der en eldre kvinne med hodeskaut og enkel kjole, stående på bredden, drar en enorm jernrive gjennom vannet og henter opp deler av en kropp, mens en svart svane flyter i det fjerne og en gyllen bie flyr oppover"
 fontes:
   - "Elias Lönnrot, *Kalevala* (utgaven fra 1849, sang 14 og 15), overs. Keith Bosley (Oxford World's Classics, 1989)"

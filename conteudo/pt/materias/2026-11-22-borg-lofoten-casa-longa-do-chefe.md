@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/borg-casa-longa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enorme casa longa de turfa e madeira, de telhado baixo e comprido, numa planície verde diante de montanhas escuras e do mar, com fumaça saindo do teto, pessoas de roupas de lã na entrada e um barco encostado na praia ao fundo"
 fontes:
   - "Gerd Stamsø Munch, Olav Sverre Johansen e Else Roesdahl (orgs.), *Borg in Lofoten* (Tapir Academic Press, 2003)"

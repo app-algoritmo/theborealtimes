@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/pequeno-freddy-violino.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tynn gutt i nye klær og pelsfrakk som spiller på fele oppe på en trestillas for galge, mens en lensmann, en dommer, soldater og bønder danser uten stans rundt ham, med revne klær; i bakgrunnen en bjørk og en vinterhimmel."
 fontes:
   - "Eventyret «Little Freddy with his Fiddle», av Asbjørnsen og Moe, i engelsk oversettelse (Tales from the Fjeld, av George Webbe Dasent)"

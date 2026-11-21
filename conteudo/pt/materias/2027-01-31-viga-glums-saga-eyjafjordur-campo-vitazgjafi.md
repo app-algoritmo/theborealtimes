@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/viga-glums-saga-eyjafjordur.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande chefe islandês de capa azul e lança na mão, parado diante de um campo verde com uma cerca de pedra, num vale ao pé de um fiorde ao entardecer; ao lado, um templo de madeira e um boi coroado de flores, e ao longe uma fazenda de turfa com fumaça subindo."
 fontes:
   - "Wikipedia, \"Víga-Glúms saga\" (Glúmr Eyjólfsson, Eyjafjörður, Þverá, Vigfúss, Vitazgjafi, culto de Freyr, cegueira e batismo, Möðruvallabók, data de composição, interpolações, DuBois, Turville-Petre)"

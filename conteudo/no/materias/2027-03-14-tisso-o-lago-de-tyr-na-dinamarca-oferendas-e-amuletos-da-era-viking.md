@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/tisso-lago-de-tyr.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rolig sjø i morgengry, med en lang tømmerhall med hvite vegger på stranda; i forgrunnen senker hender et sverd og et smykke i vannet, og på et steinbord ligger små sølvhammere og anheng av kvinner med drikkehorn."
 fontes:
   - "Nasjonalmuseet i Danmark (Nationalmuseet), \"Sacrifices to the Norse god Tyr\""

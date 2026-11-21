@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/ponte-de-ravning-enge.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma longa ponte de madeira de carvalho atravessando um vale úmido e plano, com dezenas de pilares em fileira regular; sobre ela, duas carroças com cavalos se cruzam, e ao longe, numa colina, aparece o contorno de dois grandes montes de terra e uma igreja pequena."
 fontes:
   - "Wikipedia, \"Ravning Bridge\" (medidas, datação por radiocarbono e dendrocronologia, atribuição a Harald Dente Azul, escavações, finalidade)"

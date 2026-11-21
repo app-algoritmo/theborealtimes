@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/audun-urso-polar-cais.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de capa simples caminhando por um cais coberto de neve, puxando com uma corrente um grande urso-polar; ao fundo, um navio de proa alta e o contorno de montanhas brancas sob um céu pálido."
 fontes:
   - "Wikipedia, \"The Tale of Auðun of the West Fjords\" (resumo, manuscritos, datas, estudiosos citados)"

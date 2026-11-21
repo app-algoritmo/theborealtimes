@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/sieidi-pedra-sami.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm, frittstående stein på kysten av Nord-Norge, formet som en sittende skikkelse, mellom bjørketrær, med reinhorn og fiskebein lagt foran seg og små metallgjenstander som glimter i jorda; i bakgrunnen det grå havet under den lave ettermiddagssola, og en samisk kvinne med blå lue og brodert kapp som ofrer noe med bøyd hode."
 fontes:
   - "*Religions* (MDPI), vol. 11, nr. 7, art. 317 (2020), «Introduction» (sieidi, offer, historiske kilder og moderne forskning)"

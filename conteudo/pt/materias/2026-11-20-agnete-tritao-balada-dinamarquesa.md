@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/agnete-mar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de vestido azul e cabelos soltos à beira de uma praia dinamarquesa ao entardecer, olhando as ondas, com um tritão de pele verde-azulada emergindo da água até a cintura, estendendo a mão, e uma pequena igreja com torre ao fundo"
 fontes:
   - "Svend Grundtvig (org.), *Danmarks gamle Folkeviser* (1853 em diante), balada \"Agnete og Havmanden\""

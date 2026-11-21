@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/olkofra-cervejeiro-capuz.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lav mann i ullhette foran en delvis svidd bjerkeskog, med røyk som stiger og seks høvdinger i fargede kapper på en stein i bakgrunnen, under en vårhimmel på Island."
 fontes:
   - "Ölkofra þáttr (Möðruvallabók, 1300-tallet), i en engelsk oversettelse jeg leste på siden «The Saga of Ale-Hood» (wevikings.com)"

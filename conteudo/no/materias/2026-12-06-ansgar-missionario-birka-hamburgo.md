@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/ansgar-birka.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en munk i brun kutte, med smalt ansikt og stav, som går langs en trebrygge i Birka, med kjøpmannsbåter i bakgrunnen og et lite trekors på en høyde; lokale i fargerike tunikaer ser nysgjerrig på ham."
 fontes:
   - "Rimbert, *Vita Anskarii* (ca. 870), engelsk overs. av Charles H. Robinson, *Anskar, the Apostle of the North* (1921)"

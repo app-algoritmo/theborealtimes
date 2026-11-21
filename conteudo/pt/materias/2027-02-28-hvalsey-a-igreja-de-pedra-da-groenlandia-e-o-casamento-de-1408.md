@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/hvalsey-igreja-de-pedra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração das ruínas de uma igreja de pedra cinzenta, de paredes grossas sem teto, num prado verde à beira de um fiorde com montanhas e gelo ao fundo; ao lado, uma jovem de vestido longo e um homem de capa, de mãos dadas, diante de um padre, em cena de casamento."
 fontes:
   - "Wikipedia, \"Hvalsey Church\" (local, construção, materiais, medidas, casamento de 1408, lenda inuíte, dúvidas)"

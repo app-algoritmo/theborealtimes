@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/batalha-de-nesjar-fiorde.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um fiorde norueguês de águas cinzentas em manhã de março, com dezenas de navios longos de proas entalhadas amarrados lado a lado, pessoas de capa e escudos nas bordas, neve nas encostas e uma igreja de madeira à distância; no primeiro plano, um poeta de capa anotando versos numa tábua."
 fontes:
   - "Wikipedia, \"Battle of Nesjar\" (data, forças, local, poemas, consequências, monumento)"

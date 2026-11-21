@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/leao-do-pireu-runas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande leão de mármore sentado diante de um portão de pedra em Veneza, com faixas de runas gravadas nos flancos em formato de laços, um canal de água verde ao fundo e dois visitantes pequenos olhando de perto."
 fontes:
   - "\"Vikings tagged the great lion in Venice with runes\", Science Norway (sciencenorway.no), sobre o estudo de Thorgunn Snædal"

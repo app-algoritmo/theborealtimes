@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/geirrod-ferro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus barbudo de ombros largos, de luvas de ferro, pegando no ar uma barra de ferro incandescente num salão de gigantes, com um gigante se escondendo atrás de uma coluna de ferro e fagulhas laranja por toda parte"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Skáldskaparmál*, relato de Thor na casa de Geirrøðr, por volta de 1220)"

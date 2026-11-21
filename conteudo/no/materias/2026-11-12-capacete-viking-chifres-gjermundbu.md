@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/capacete-gjermundbu.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon i museumsstil av en rund vikinghjelm av jern, uten horn, ved siden av en ringbrynje og et trekjold."
 fontes:
   - "Kulturhistorisk museum, Universitetet i Oslo, informasjon om Gjermundbu-hjelmen"

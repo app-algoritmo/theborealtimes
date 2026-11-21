@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/grobina-montes-funerarios.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et flatt landskap ved Østersjøen, med dusinvis av små gresskledde hauger på rekke i åpent landskap, en høyde med rester av en borg i bakgrunnen og en bildestein med inngravert mønster mellom haugene."
 fontes:
   - "Wikipedia, «Grobin» (beliggenhet, Nermans utgravinger, gravfelt, bildestein, Rimbert)"

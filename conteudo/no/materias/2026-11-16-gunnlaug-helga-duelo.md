@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/gunnlaug-helga.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to krigere med runde skjold som duellerer på en steinete slette under grå himmel, mens en ung kvinne i blå kappe ser på på avstand med et mørkt klede"
 fontes:
   - "Gunnlaugs saga ormstungu (Sagaen om Gunnlaug Ormstunge), 1200-tallet, ukjent forfatter"

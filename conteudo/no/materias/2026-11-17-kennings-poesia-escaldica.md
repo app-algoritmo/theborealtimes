@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/kennings-escaldo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en brunskjegget skald i rød kappe som står i en trehall foran en sittende konge og resiterer, med symboler som svever i lufta: en bølgehest, en gyllen hårmanke og en ravn"
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delen *Skáldskaparmál* (rundt 1220)"

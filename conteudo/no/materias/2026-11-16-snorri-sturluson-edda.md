@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/snorri-sturluson.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkskjegget mann ved et trebord i en islandsk hall, som skriver på pergament i lys fra et stearinlys, med bøker og et varmt steinbasseng i bakgrunnen"
 fontes:
   - "Snorres Edda (Gylfaginning, Skáldskaparmál og Háttatal), tilskrevet Snorre Sturlason"

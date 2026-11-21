@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/fridtjof-ellide.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio de guerra viking de proa alta lutando contra ondas gigantescas sob um céu negro cortado por relâmpagos, com um jovem de pé ao leme e remadores curvados sobre os remos e, nas nuvens acima, duas silhuetas femininas de cabelos soltos"
 fontes:
   - "Autor desconhecido, *Friðþjófs saga ins frœkna* (saga islandesa, século XIV)"

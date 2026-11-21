@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/aggersborg-a-fortaleza-circular.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Flyfoto-illustrasjon av en stor sirkel av voll og grøft på en slette ved en fjord, delt i fire kvadranter av to kryssende gater, med langhus av tre på rekke inne i hver fjerdedel og båter på fjorden i bakgrunnen."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Aggersborg»"

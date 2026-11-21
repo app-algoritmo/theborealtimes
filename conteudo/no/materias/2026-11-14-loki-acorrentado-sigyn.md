@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/loki-sigyn.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk hule der en gud bundet til tre steiner vrir seg, mens en kvinne ved siden av ham holder opp en skål for å fange giften som drypper fra en slange i taket"
 fontes:
   - "*Lokasenna*, dikt i *Den eldre Edda* (håndskriftet Codex Regius, ca. 1270)"

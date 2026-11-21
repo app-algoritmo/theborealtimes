@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/jomsborg-986.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande fortaleza de madeira à beira do mar Báltico, com muralhas de troncos e navios de guerra de proa alta ancorados em um porto, guerreiros de capacete reunidos num pátio e, ao fundo, um céu de nuvens baixas e ameaçadoras"
 fontes:
   - "Autor desconhecido, *Jómsvíkinga saga* (saga islandesa, manuscritos dos séculos XIII e XIV)"

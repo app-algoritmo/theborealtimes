@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/jotnar-gigantes-parentes-deuses.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et fjellandskap av is og stein under grå himmel, der to enorme skikkelser av stein og snø samtaler foran et steinbord, mens tre langt mindre skikkelser i røde og gylne kapper ser på dem fra en li; tåke stiger fra dalen og runer er ristet på en stein i forgrunnen."
 fontes:
   - "Wikipedia, «List of jötnar in Norse mythology» (definisjon, slektskap og kilder: Hávamál, Gylfaginning, Skáldskaparmál, Skírnismál, Lokasenna, Þrymskviða)"

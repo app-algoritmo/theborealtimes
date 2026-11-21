@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/vidarr-sapato-fenrir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo de capim alto e arbustos sob um céu vermelho de fim de mundo, onde um deus calado, de capa verde-escura, apoia um sapato enorme de couro remendado sobre a mandíbula inferior de um lobo gigantesco e segura a mandíbula de cima com a mão; ao fundo, a silhueta de Odin caído e o brilho do fogo de Surtr."
 fontes:
   - "Wikipedia, \"Víðarr\" (Edda Poética, Edda em Prosa, cruz de Gosforth e teorias)"

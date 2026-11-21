@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/sigyn-e-a-tigela.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i kappe som sitter i en mørk hule og holder en steinskål over en mann som er lenket til fjellet, med en slange som henger fra taket og en dråpe lys som faller."
 fontes:
   - "Den eldre Edda: Vøluspå (strofe 35) og prosaen som avslutter Lokasenna"

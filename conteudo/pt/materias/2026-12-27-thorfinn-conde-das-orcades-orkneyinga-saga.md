@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/thorfinn-orcades-conde.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha de campos verdes e falésias sobre o mar do Norte, com um conde nórdico de capa azul e cabelos escuros em pé na proa de um navio, olhando para uma praia onde há outra frota ancorada; ao fundo, as ruínas de uma pequena igreja de pedra numa ilhota ligada à terra por uma faixa de areia."
 fontes:
   - "Wikipedia, \"Thorfinn the Mighty\" (pais, reinado, Karl Hundason, Rögnvald, Roma, morte, tabela \"tradição vs. corroboração\")"

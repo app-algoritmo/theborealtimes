@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/floki-feno-e-gelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem barbudo de capa escura numa encosta de fiorde ao fim do inverno, olhando um fiorde cheio de blocos de gelo; ao lado, uma cabana de turfa, redes de pesca penduradas e um corvo pousado numa pedra; ovelhas mortas na neve."
 fontes:
   - "Landnámabók (Livro dos Povoamentos), conforme relatada pela Agência Ambiental da Islândia (Umhverfisstofnun) sobre Vatnsfjörður"

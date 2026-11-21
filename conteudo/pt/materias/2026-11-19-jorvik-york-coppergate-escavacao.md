@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/jorvik-coppergate.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma rua estreita de uma cidade viking com casas de pau a pique de telhado de palha, um artesão trabalhando couro à porta, outro entalhando um pente de osso, crianças e um cão, e um rio com barcos ao fundo sob céu nublado"
 fontes:
   - "*Crônica Anglo-Saxônica* (entradas dos anos 866 e 867, sobre a tomada de York)"

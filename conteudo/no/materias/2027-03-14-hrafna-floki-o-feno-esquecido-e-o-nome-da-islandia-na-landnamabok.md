@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/floki-feno-e-gelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en skjeggete mann i mørk kappe på en fjordskråning mot slutten av vinteren, som ser på en fjord full av isblokker; ved siden av en torvhytte, fiskegarn som henger og en ravn på en stein; døde sauer i snøen."
 fontes:
   - "Landnámabók (Landnåmsboken), slik den er gjengitt av Islands miljøbyrå (Umhverfisstofnun) om Vatnsfjörður"

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/gnezdovo-tumulos-e-inscricao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rio largo cercado de campos verdes, com uma pequena cidade fortificada de madeira na margem e, ao fundo, fileiras de montes redondos de terra cobertos de grama; em primeiro plano, mercadores de capas simples carregam fardos de peles e uma ânfora de barro com letras riscadas."
 fontes:
   - "Wikipedia, \"Gnezdovo\" (local, tamanho, datas, túmulos, presença varegue, inscrição, comércio, pesquisa, debate)"

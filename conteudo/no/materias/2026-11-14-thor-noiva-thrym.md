@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/thor-noiva.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm skjeggete gud med slør og brudekjole og et gyllent halsbånd, som sitter ved bordet i en jotunhall foran et fat med laks og en grillet okse, mens en jotun stirrer mistenksomt på ham"
 fontes:
   - "Trymskvida (Trymskvidi), i den eldre Edda, manuskriptet Codex Regius (ca. 1270)"

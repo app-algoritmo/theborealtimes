@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/jelling-harald-runas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor vikingtidens runestein med innrisset tekst på en grønn mark i Danmark ved daggry, ved siden av en gravhaug"
 fontes:
   - "Nationalmuseet i Danmark, side om Jellingsteinen"

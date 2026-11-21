@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/vainamoinen-kantele.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um velho de barba branca e longa sentado numa pedra à beira de um lago finlandês, tocando um kantele de madeira clara, com alces, aves e peixes reunidos ao redor sob uma aurora esverdeada"
 fontes:
   - "Elias Lönnrot, *Kalevala* (primeira edição de 1835, versão ampliada de 1849), compilação de poesia oral finlandesa e careliana"

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/ribe-craneo-com-runas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um fragmento de osso de crânio com uma pequena furo, coberto de runas entalhadas, apoiado sobre uma mesa de madeira numa barraca de mercado; ao fundo, mercadores e balanças de pesar prata sob um céu pálido."
 fontes:
   - "Fragmento de crânio de Ribe, achado em escavação em Ribe, Dinamarca, em 1973 e datado de cerca de 725"

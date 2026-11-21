@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/baldr-sonhos-hel.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rytter i blå kappe og bredbremmet hatt, på en grå hest med åtte ben, foran en åpen grav på en snødekt høyde, der en blek, hulkinnet kvinne reiser seg; i bakgrunnen en mørk hund med blodflekket bryst og en hall med pyntede benker."
 fontes:
   - "*Eldre Edda*, *Baldrs draumar* (håndskrift AM 748 I 4to)"

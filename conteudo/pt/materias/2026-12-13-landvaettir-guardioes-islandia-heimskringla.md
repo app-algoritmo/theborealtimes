@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/landvaettir-ilha.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha vulcânica vista do mar, com quatro figuras gigantes guardando cada lado da costa: um dragão alado cercado de serpentes no leste, uma ave enorme de asas abertas no norte, um touro de chifres de bronze entrando na água no oeste e um gigante de cajado de ferro maior que as montanhas ao sul; no mar, uma baleia escura se afasta."
 fontes:
   - "Snorri Sturluson, *Heimskringla*, *Saga de Olaf Tryggvason* (c. 1230), passagem sobre a espionagem de Harald Gormsson"

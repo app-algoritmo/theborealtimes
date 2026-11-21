@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/tres-bodes.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon i eventyrbokstil av tre bukker i ulik størrelse som krysser en trebro, med et troll med store øyne som titter fram under."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, *Norske Folkeeventyr*, utgitt fra 1841"

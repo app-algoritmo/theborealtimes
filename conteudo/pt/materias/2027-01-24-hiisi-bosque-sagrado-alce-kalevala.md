@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/hiisi-bosque-sagrado-alce.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um bosque de abetos escuros sobre uma colina, com uma clareira iluminada por luz azulada; no centro, um alce estranho de cabeça de madeira apodrecida, chifres de salgueiro e patas de varas e juncos, de olhos vazios; um caçador de pele de lobo recua entre os troncos, de arco na mão, sob uma lua pálida."
 fontes:
   - "Wikipedia, \"Hiisi\" (etimologia, bosque sagrado em estoniano, hipótese dos cemitérios, cantos mágicos, Agricola, Kalevala runos VI a XXVI, diabo cristão; apoia-se em Abercromby, Lönnrot, Tallgren, Koski e Wessman)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/thormod-estiklestad.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en slagmark i skumringen, med en såret mann i mørk kappe som sitter ved en tømret låve, med en pil stikkende ved siden av brystet, mens han resiterer vers, mens soldater går forbi i bakgrunnen under en sol som mørkner"
 fontes:
   - "*Fóstbrœðra saga*, i *The Complete Sagas of Icelanders*, bd. II (Leifur Eiríksson, 1997)"

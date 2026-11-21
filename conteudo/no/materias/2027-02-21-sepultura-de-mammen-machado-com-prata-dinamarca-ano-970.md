@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/mammen-camara-funeraria.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et gravkammer av tre inne i en haug, med en lang kiste på puter, en sammenbrettet brodert kappe, to økser på lokket, et stort tent voksys ved siden av og trebøtter ved veggen."
 fontes:
   - "Nationalmuseet (natmus.dk), side om Mammen-graven (funn, dendrokronologi, gjenstander, Harald Blåtann)"

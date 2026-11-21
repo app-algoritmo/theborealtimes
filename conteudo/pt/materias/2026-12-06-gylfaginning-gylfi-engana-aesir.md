@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/gylfi-salao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão dourado de telhado coberto de escudos, onde um viajante de capa cinzenta e cajado está diante de três homens sentados em tronos sobrepostos; ao fundo, as paredes do salão começam a se dissolver em névoa, deixando ver uma planície vazia."
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, *Gylfaginning* (século XIII; manuscritos: Codex Regius GKS 2367 4to, Codex Wormianus, Codex Upsaliensis)"

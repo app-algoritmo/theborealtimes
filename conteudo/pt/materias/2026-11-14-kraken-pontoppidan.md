@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/kraken-mar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pequeno barco de pesca sobre um mar calmo, cercado por peixes prateados, enquanto enormes tentáculos escuros começam a emergir da água ao lado do casco"
 fontes:
   - "Erik Pontoppidan, *Det første Forsøg paa Norges naturlige Historie* (1752–1753)"

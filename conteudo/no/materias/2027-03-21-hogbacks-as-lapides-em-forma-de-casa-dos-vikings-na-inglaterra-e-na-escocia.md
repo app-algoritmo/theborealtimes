@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/hogbacks-lapides-em-forma-de-casa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en engelsk kirkegård med flere buede gravsteiner som hustak, med utskårne singler på sidene og dyr i endene; en steinbjørn omfavner en av dem, under en skyet himmel."
 fontes:
   - "Corpus of Anglo-Saxon Stone Sculpture, bind VI"

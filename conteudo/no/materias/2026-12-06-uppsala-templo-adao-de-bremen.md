@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/uppsala-templo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerhall med gyllent tak, ved siden av et enormt eviggrønt tre og en kilde, på en slette med gravhauger i bakgrunnen; tre gudestatuer, én med hammer, én i rustning og én med fruktbarhetssymbol, sitter på troner inne i tempelet, og en liten folkemengde ser på på avstand."
 fontes:
   - "Adam av Bremen, *Gesta Hammaburgensis ecclesiae pontificum*, bok IV, kap. 26–27 (ca. 1075)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/o-grande-carvalho-do-kalevala.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um carvalho colossal cujos galhos tapam o céu, com o sol e a lua apagados, e na base um minúsculo herói de armadura de cobre que cresce, com um machado, diante de um velho de barba branca."
 fontes:
   - "Elias Lönnrot, Kalevala, runo 2 (\"A semeadura de Väinämöinen\"), na tradução inglesa de John Martin Crawford (1888), edição Standard Ebooks"

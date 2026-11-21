@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/seidr-volva-roca-ritual.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i mørkeblå kappe som sitter på en forhøyet plattform i en hall og holder en stav med kurvformet topp pyntet med metall, mens unge kvinner synger rundt henne og lyset fra et bål skjelver på treveggene."
 fontes:
   - "norse-mythology.org, «Seiðr» (ordet, praksisen, Eiríks saga rauða, Freyja, Odin, argr, Neil Price)"

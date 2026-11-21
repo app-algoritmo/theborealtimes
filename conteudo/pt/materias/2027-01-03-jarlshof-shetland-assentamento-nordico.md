@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/jarlshof-shetland-casa-longa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um sítio arqueológico à beira de uma baía ventosa no sul das ilhas Shetland, com paredes baixas de pedra de várias épocas empilhadas, uma torre redonda de pedra de ferro ao fundo e uma casa longa nórdica de 20 metros com telhado de turfa em reconstrução; em primeiro plano, um arqueólogo mede um pedaço de ardósia com desenho de navio com proa de dragão, e ovelhas pastam no morro."
 fontes:
   - "Wikipedia, \"Jarlshof\" (Shetland, camadas, escavações de 1925 e Alex Curle, assentamento nórdico, achados, nome de Walter Scott, Patrimônio Mundial provisório)"

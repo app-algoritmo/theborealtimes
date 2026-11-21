@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/eketorp-forte-circular.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon sett ovenfra av en rund steinborg på en flat slette ved en innsjø, med en tykk, rund mur og dusinvis av små bygg av stein og tre inne i ringen, en port mot nord og folk i ullklær som arbeider på gårdsplassen."
 fontes:
   - "Wikipedia, \"Eketorp\" (sted, faser, mål, funn, utgraving, teorier om bruk, rekonstruksjon)"

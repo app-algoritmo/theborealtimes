@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/kaupang-mercado.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um porto viking numa baía calma com navios de casco largo ancorados, mercadores pesando prata numa balança de bronze diante de uma tenda de madeira, caixas, peles e potes de cerâmica sobre uma doca, casas baixas e uma colina verde ao fundo"
 fontes:
   - "Dagfinn Skre (ed.), *Kaupang in Skiringssal* (resultados das escavações de 2000 a 2003, Universidade de Oslo)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/fossegrim-violino.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en blek ånd med flytende hvitt vannhår som sitter på en mosegrodd stein ved siden av en foss i skumringen og spiller fele, mens en gutt fra gården knebøyer og lytter"
 fontes:
   - "Benjamin Thorpe, *Northern Mythology*, 1851–1852, bind 2"

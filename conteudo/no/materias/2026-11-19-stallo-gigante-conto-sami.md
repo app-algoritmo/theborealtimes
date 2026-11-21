@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/stallo-gigante.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm skikkelse i rustent ringbrynje og hvitt skjegg som står bøyd under et skinntelt i et tundralandskap i skumringen, med snø, rein i det fjerne, en liten smart skikkelse i fargerike klær som sitter ved bålet og en dampende gryte"
 fontes:
   - "Just Qvigstad, *Lappiske eventyr og sagn* (samling av samiske eventyr, utgitt 1927–1929)"

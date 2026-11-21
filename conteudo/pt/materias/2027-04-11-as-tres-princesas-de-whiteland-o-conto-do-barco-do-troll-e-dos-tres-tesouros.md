@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/as-tres-princesas-de-whiteland.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem rei de pé numa charneca ventosa entre três irmãos que brigam, com um chapéu, uma capa e um par de botas no chão entre eles, e um castelo branco ao fundo."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, Norske Folkeeventyr"

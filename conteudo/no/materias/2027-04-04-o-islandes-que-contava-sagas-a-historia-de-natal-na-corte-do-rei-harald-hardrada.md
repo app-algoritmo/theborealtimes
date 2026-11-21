@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/islandes-que-contava-sagas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung mann i en enkel tunika som står foran en rødskjegget konge på en høy stol i en sal med levende lys, med livvakter ved bordet og grankvister på veggen, en vinternatt."
 fontes:
   - "Íslendings þáttr sögufróða, bevart i Morkinskinna, Hulda og Hrokkinskinna"

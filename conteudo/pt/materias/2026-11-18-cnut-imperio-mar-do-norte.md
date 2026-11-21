@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/cnut-mare.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de barba loura e coroa simples sentado num trono de madeira na praia, de mão erguida diante das ondas que chegam, com cortesãos de capas escuras observando de pé e navios de proa em dragão ao longe sob um céu cinzento"
 fontes:
   - "*Crônica Anglo-Saxônica* (compilada entre os séculos IX e XII), anos de 1013 a 1035"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/ragnarok-batalha.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma planície sob um céu escuro e vermelho, onde deuses nórdicos e um lobo gigante se enfrentam, com uma serpente marinha ao fundo e fogo no horizonte"
 fontes:
   - "*Völuspá*, poema da *Edda Poética* (manuscrito Codex Regius, cerca de 1270)"

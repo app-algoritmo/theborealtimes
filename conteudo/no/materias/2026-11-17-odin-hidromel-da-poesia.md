@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/odin-hidromel.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor gyllen ørn som flyr over snødekte fjell med en tråd av skinnende mjød som drypper fra nebbet, jaget av en mørkere ørn, med en hule i fjellet og tre store krukker i bakgrunnen"
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delene *Skáldskaparmál* og *Gylfaginning* (rundt 1220)"

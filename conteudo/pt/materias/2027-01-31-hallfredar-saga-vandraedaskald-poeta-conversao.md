@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/hallfredar-saga-poeta-conversao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um poeta de barba escura, de pé num salão de madeira, recitando versos diante de um chefe de coroa dourada, com cravos de luz de tocha ao fundo; ao lado, um grande navio de proa em dragão ancorado numa baía e uma cruz de madeira à margem, simbolizando a mudança de fé."
 fontes:
   - "Wikipedia, \"Hallfreðar saga vandræðaskálds\" (Hallfreðr, cerca de 965 a cerca de 1007, Hákon Sigurðarson, Óláfr Tryggvason, Eiríkr Hákonarson, conversão, lausavísur, manuscritos, Óláfsdrápa Tryggvasonar)"

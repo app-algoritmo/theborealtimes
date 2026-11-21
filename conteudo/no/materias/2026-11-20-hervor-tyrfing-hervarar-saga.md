@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/hervor-tumulo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinnelig kriger i mørk kappe og hjelm som holder en fakkel foran en gravhaug av stein omkranset av blå flammer på en vindfull øy, med den bleke skikkelsen av en kriger som reiser seg fra haugen i måneskinnet"
 fontes:
   - "Ukjent forfatter, *Hervarar saga ok Heiðreks* (islandsk saga fra 1200-tallet, bevart i flere versjoner)"

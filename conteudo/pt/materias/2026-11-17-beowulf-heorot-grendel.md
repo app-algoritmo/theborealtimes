@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/beowulf-grendel.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão nórdico de madeira à noite, com um guerreiro louro de torso nu segurando firme o braço de uma criatura enorme e sombria que tenta fugir pela porta, enquanto guerreiros observam de longe"
 fontes:
   - "*Beowulf*, poema em inglês antigo (manuscrito por volta do ano 1000; data de composição discutida)"

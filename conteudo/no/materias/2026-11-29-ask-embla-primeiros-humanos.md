@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/ask-embla.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en strand ved daggry, med to trestammer liggende i sanda, tre høye skikkelser i fargerike kapper bøyd over dem, og et gyllent lys som kommer fra veden, med rolig hav og blå fjell i bakgrunnen"
 fontes:
   - "*Eldre Edda*, *Vǫluspá*, strofe 17 og 18 (Codex Regius, ca. 1270)"

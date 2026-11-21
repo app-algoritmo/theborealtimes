@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/lanse-aux-meadows-sitio-nordico.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma costa baixa e verde no norte do Atlântico, em dia de vento, com os restos de edifícios de turfa de cantos arredondados no capim, ao lado de valas de escavação com tábuas e baldes; arqueólogos de capas de chuva trabalham de joelhos, e ao fundo um mar cinzento com icebergs distantes."
 fontes:
   - "Wikipedia, \"L'Anse aux Meadows\" (descoberta, escavações dos Ingstad e do Parks Canada, edifícios, forja, datação, nozes de butternut, Unesco, Vinland)"

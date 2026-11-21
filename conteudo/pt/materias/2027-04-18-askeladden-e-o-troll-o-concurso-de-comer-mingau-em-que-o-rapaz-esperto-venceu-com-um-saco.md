@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/askeladden-e-o-troll-do-mingau.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz de roupa simples sentado diante de um troll enorme numa cabana de floresta, com tigelas de mingau fumegando, e um saco de pano escondido sob a camisa do rapaz."
 fontes:
   - "George Webbe Dasent, Popular Tales from the Norse (Projeto Gutenberg, nº 8933), conto V, \"Boots who ate a match with the Troll\", tradução dos contos de Asbjørnsen e Moe"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/nokken-lago.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk innsjø i skumringen, med nøkkeroser og en blek mann med grønt hår som spiller fele ved vannkanten, og en hvit hest med våt manke i bakgrunnen"
 fontes:
   - "Samlinger av norsk og svensk folketro fra 1800- og 1900-tallet om nøkken og näcken"

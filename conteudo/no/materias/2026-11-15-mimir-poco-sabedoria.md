@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/mimir-poco.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en brønn med mørkt vann under den enorme roten på et tre, med en hettekledd énøyd gud som lener seg over kanten, og i vannet speilbildet av et hvitskjegget hode med lukkede øyne"
 fontes:
   - "Vøluspå, strofe 28 og 46 (Den eldre Edda)"

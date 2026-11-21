@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/louhi-pohjola.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et landskap av is og lysløs natt, med en høy kvinne i mørk kappe og langt hår foran et fjell med en halvåpen steindør som slipper ut en tynn gyllen stråle; i det fjerne nærmer to menn med fakler seg over snøen."
 fontes:
   - "Elias Lönnrot, *Kalevala* (utgaven fra 1849), runo 47–49"

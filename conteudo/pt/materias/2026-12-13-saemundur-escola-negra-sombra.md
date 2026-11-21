@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/saemundur-escola-negra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um corredor escuro de pedra de uma escola subterrânea, com livros de capa preta empilhados e uma inscrição sobre a porta, onde um jovem padre de capa grande foge com a luz de uma vela, enquanto uma sombra comprida e uma mão negra se estendem atrás dele; ao fundo, uma foca emerge das ondas sob um céu cinzento."
 fontes:
   - "Wikipédia (inglês), \"Sæmundr fróði Sigfússon\", com as fontes citadas (Stephen Flowers, *Icelandic Magic*; Stephen Mitchell, *Witchcraft and Magic in the Nordic Middle Ages*; Jón Hnefill Aðalsteinsson, \"Sæmundr Fróði: a medieval master of magic\", 1994)"

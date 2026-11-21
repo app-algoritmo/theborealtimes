@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/havamal-hospitalidade.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira por dentro, com uma lareira central acesa, bancos compridos, um viajante de capa molhada sendo recebido na porta e uma anfitriã oferecendo um chifre de bebida"
 fontes:
   - "*Hávamál*, na Edda Poética (manuscrito Codex Regius, por volta de 1270)"

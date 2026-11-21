@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/ilmarinen-noiva-de-ouro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en smed i lærforklede foran en glødende esse, som ser på en statue av ei jente med gullhår og sølvhode som ligger på en seng av skinn, i et mørkt verksted fullt av glør, med lærbelger ved siden av."
 fontes:
   - "Elias Lönnrot, Kalevala (utgaven fra 1849), runo 37, engelsk oversettelse av John Martin Crawford (1888, Standard Ebooks)"

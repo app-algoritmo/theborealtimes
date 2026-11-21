@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/mjolnir-forja.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois anões de barbas trançadas numa forja em caverna, um batendo num martelo de cabo curto sobre a bigorna e o outro soprando um fole, com uma mosca pousada no braço dele e ouro e brasas iluminando as paredes"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Skáldskaparmál*, por volta de 1220)"

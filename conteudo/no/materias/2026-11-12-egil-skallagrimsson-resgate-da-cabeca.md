@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/egil-poema.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vikingskald i en hall opplyst av lys som resiterer foran en kong og en dronning som sitter, mens krigere ser på i skyggene."
 fontes:
   - "*Egils saga Skallagrímssonar*, tidlig 1200-tall, forfatter usikker, ofte tilskrevet Snorre Sturlason"

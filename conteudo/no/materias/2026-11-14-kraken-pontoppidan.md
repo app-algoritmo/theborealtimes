@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/kraken-mar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en liten fiskebåt på et rolig hav, omgitt av sølvskinnende fisk, mens enorme mørke fangarmer begynner å stige opp av vannet ved siden av skroget"
 fontes:
   - "Erik Pontoppidan, *Det første Forsøg paa Norges naturlige Historie* (1752–1753)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/ales-stenar-navio-de-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et stort skip dannet av stående steinblokker, med høyere baug og akterende, på toppen av en gresskledd klippe over Østersjøen, med lav sol bak og en liten person som går mellom steinene."
 fontes:
   - "Märta Strömberg, «Ale's Stones: A Monument of Recycled Boulders?», Lund Archaeological Review 7, s. 77-87, Universitetet i Lund (utgitt i 2003)"

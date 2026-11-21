@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/marbendill-homem-do-mar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et lite grønnaktig vesen med skjegg av tang, fanget i et garn fra en robåt på et grått hav, som ser på en skjegget bonde med ullhette, mens måker flyr rundt under en kald nordlig himmel."
 fontes:
   - "Jón Árnason, «Þá hló marbendill», i Íslenzkar þjóðsögur og æfintýri (1800-tallet)"

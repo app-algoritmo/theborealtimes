@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/hnefatafl-tabuleiro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois vikings jogando um jogo de tabuleiro de madeira com peças de osso e vidro à luz de uma fogueira numa casa comprida"
 fontes:
   - "*Saga de Orkney* e *Saga de Hervör e Heidrek*, com menções ao jogo (séculos XIII-XIV)"

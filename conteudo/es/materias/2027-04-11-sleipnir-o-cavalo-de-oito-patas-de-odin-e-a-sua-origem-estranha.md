@@ -6,7 +6,7 @@ natureza: "Mito o leyenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/sleipnir-cavalo-de-oito-patas.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un caballo gris de ocho patas al galope por un camino nevado bajo un cielo oscuro, con un jinete de capa y sombrero de ala ancha, y una puerta de piedra al fondo."
 fontes:
   - "Snorri Sturluson, Edda prosaica (Gylfaginning, capítulos 15, 41, 42 y 49)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/thjalfi-osso-da-coxa-de-bode.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma sala de fazenda ao lado do fogo, com Thor erguendo um martelo sobre duas peles de bode estendidas e ossos limpos, enquanto um menino assustado e uma menina observam, e um dos bodes se levanta mancando."
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, capítulos 44 a 47)"

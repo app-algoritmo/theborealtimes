@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/magni-modi-filhos-de-thor.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gutt på bare noen dager med enorm styrke som med begge hender løfter den kjempestore foten til en falt steinjotun av nakken på en rødskjegget gud, på en slette av gjørme og storm; i det fjerne ser en gyllen hest med skinnende man på, og to unge krigere står side om side på en ruinmark ved daggry."
 fontes:
   - "Wikipedia, «Móði and Magni» (betydningen av navnene, Magnis mor, Hymiskviða, Þórsdrápa, Hárbarðsljóð, Gylfaginning, Skáldskaparmál, Vafþrúðnismál, studier av Lindow og Simek)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/jolasveinar-treze-rapazes.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma janela islandesa de inverno com um sapato no parapeito; do lado de fora, uma fila de treze homenzinhos de gorro e casaco de lã, cada um com um objeto roubado, como uma salsicha, uma vela e uma tigela, sob um céu de neve."
 fontes:
   - "Jóhannes úr Kötlum, Jólin koma (1932)"

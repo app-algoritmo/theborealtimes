@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/harald-gille-nove-relhas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de pedra à luz de tochas com nove relhas de arado em brasa dispostas no chão em fileira, um homem descalço de túnica clara avançando entre elas, e dois bispos de mitra observando ao lado de um rei sentado."
 fontes:
   - "Snorri Sturluson, Heimskringla (sagas de Magnus Descalço e de Harald Gille)"

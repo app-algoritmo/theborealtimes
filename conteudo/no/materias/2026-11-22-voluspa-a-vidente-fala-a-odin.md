@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/voluspa-vidente.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gammel kvinne i mørk kappe med stav som sitter på en høy stein og vender ansiktet mot en enøyd mann i bredbremmet hatt og blå kappe som lytter stående; rundt dem svever lysende runer i luften og, i bakgrunnen, et stort tre og en brennende himmel"
 fontes:
   - "*Völuspá*, i *Eldre Edda* (Codex Regius, ca. 1270) og i versjonen i *Hauksbók* (tidlig 1300-tall)"

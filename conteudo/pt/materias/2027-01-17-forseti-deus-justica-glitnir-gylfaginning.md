@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/forseti-deus-justica-glitnir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira clara sobre nuvens, com teto prateado e colunas douradas que brilham, ao entardecer; à porta, um homem barbado de manto simples, sentado num banco largo, ouve dois visitantes de aparência cansada que discutem e depois apertam as mãos; ao fundo, um céu avermelhado."
 fontes:
   - "New World Encyclopedia, \"Forseti\" (Gylfaginning, salão Glitnir, Fosite entre os frísios, etimologia; apoia-se em Orchard, Lindow e de Vries)"

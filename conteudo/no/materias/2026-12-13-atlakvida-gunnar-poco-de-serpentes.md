@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/atli-poco-serpentes.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk steingrop full av sammenrullede slanger midt i en stor tømmerhall, der en lyshåret kriger med bundne hender spiller harpe med tærne; i bakgrunnen ser en svarthåret konge og en kvinne i mørk slør ned ovenfra."
 fontes:
   - "*Eldre Edda*, *Atlakviða* (Codex Regius, ca. 1270)"

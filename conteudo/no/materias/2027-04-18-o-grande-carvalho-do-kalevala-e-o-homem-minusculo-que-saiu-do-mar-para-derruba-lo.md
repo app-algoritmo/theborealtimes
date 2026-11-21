@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/o-grande-carvalho-do-kalevala.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kolossal eik med greiner som dekker himmelen, med sol og måne slukket, og ved foten en bitte liten helt i kobberrustning som vokser, med en øks, foran en gammel mann med hvitt skjegg."
 fontes:
   - "Elias Lönnrot, Kalevala, runo 2 («Väinämöinens såing»), i John Martin Crawfords engelske oversettelse (1888), Standard Ebooks-utgaven"

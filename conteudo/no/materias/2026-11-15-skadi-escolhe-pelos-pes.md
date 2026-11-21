@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/skadi-pes.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy kvinne i rustning og på ski i snøen, foran en rekke guder skjult bak et pelsteppe der bare bare føtter titter fram, og én av dem er våt av sjøskum"
 fontes:
   - "Gylfaginning, kapittel 23 (Snorres Edda)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/vili-e-ve-irmaos-de-odin.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de três figuras altas de capa à beira-mar, uma de capuz azul e duas de capas cinzentas e marrons, diante de dois troncos de árvore deitados na areia, com ondas frias e céu de nuvens ao amanhecer."
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, sobre a criação do mundo e de Ask e Embla)"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/grimnismal-odin.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de madeira à noite, com um homem de capa azul e capuz sentado no chão entre duas fogueiras altas, as mãos amarradas à frente, e um rapaz ajoelhado lhe estendendo um chifre de beber, enquanto um rei de coroa de ferro olha de longe"
 fontes:
   - "*Edda Poética*, *Grímnismál* (Codex Regius, c. 1270)"

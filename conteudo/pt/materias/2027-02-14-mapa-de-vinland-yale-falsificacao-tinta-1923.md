@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/mapa-de-vinland-yale.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de laboratório de conservação com um mapa em pergaminho amarelado sobre papel mata-borrão, mostrando o contorno estilizado de ilhas e uma grande massa de terra a oeste, ao lado de um espectrômetro de bancada e uma lupa; ao fundo, estantes com livros antigos e uma janela de inverno."
 fontes:
   - "medievalists.net (2021), notícia sobre as análises do Mapa de Vinland em Yale (histórico, tinta, inscrição no verso, conclusão)"

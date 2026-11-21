@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/mulher-contraria-rio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gyllen kornåker ved en elv med klart vann, der en bonde i hvit skjorte knær på bredden og ser oppover elva, mens noe lyst langt borte, nær en liten foss, flyter mot strømmen; naboer med stenger går nedover bredden i bakgrunnen."
 fontes:
   - "Wikipedia-artikkelen «The Contrary-Minded Woman»"

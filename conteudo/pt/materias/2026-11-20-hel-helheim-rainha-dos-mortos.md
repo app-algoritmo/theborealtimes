@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/hel-ponte.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher alta com metade do rosto pálido e metade azul-escura, de pé diante de um grande salão de pedra escura sob um céu cinzento, com uma ponte coberta de ouro sobre um rio negro ao fundo e um cavaleiro pequeno chegando"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Gylfaginning*, capítulos sobre Hel e sobre a viagem de Hermóðr, por volta de 1220)"

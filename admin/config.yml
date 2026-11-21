@@ -39,7 +39,7 @@ collections:
       - { name: autor, label: "Editor responsável", widget: string, default: "Paulo Fernando de Barros", hint: "Nome próprio. O texto é narrado por IA; aqui vai quem responde pela publicação." }
       - { name: data, label: "Data de publicação", widget: datetime, format: "YYYY-MM-DD", time_format: false }
       - { name: imagem, label: "Imagem", widget: string, required: false, hint: "Caminho gerado por `publicar.py imagem`." }
-      - { name: imagem_credito, label: "Crédito da imagem", widget: string, required: false, hint: "Ex.: Ilustração gerada por inteligência artificial (Qwen)." }
+      - { name: imagem_credito, label: "Crédito da imagem", widget: string, required: false, hint: "Ex.: Ilustração gerada por IA." }
       - { name: imagem_alt, label: "Texto alternativo da imagem", widget: string, required: false, hint: "Obrigatório se houver imagem." }
       - { name: fontes, label: "Fontes", widget: list, required: false, hint: "Obras e estudos consultados. Obrigatório, exceto em conto original." }
       - { name: tags, label: "Etiquetas", widget: list, required: false, hint: "De duas a cinco, minúsculas, sem acento, com hífen." }

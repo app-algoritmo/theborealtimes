@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/bruxas-da-pascoa-criancas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av barn utkledd som påskekjerringer, med skaut, fargerike skjørt, malte kinn og kurver eller kaffekanner i hendene, som banker på døra til et rødt tretun i den smeltende snøen, med en kost lent mot veggen."
 fontes:
   - "Nordiska museet, «Easter» (nordiskamuseet.se, avsnitt om tradisjoner og høytider)"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/harald-hafrsfjord.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma batalha naval entre navios vikings em um fiorde norueguês, com um rei de cabelos longos na proa do navio principal."
 fontes:
   - "Snorri Sturluson, *Heimskringla*, Saga de Harald Cabelo Belo (cerca de 1230)"

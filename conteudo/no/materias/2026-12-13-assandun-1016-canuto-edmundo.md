@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/assandun-1016-campo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en grønn høyde under grå himmel, med to rekker av krigere med skjold og spyd på hver sin side; foran den ene siden løfter en lyshåret konge i rød kappe sverdet, mens en panserkledd rytter på flanken til den andre trekker seg tilbake med mennene sine."
 fontes:
   - "*Encomium Emmae Reginae* (ca. 1040), beretning om Knuts angrep på England"

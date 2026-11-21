@@ -6,7 +6,7 @@ natureza: "Saga o fuente medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/svein-asleifarson-de-gairsay.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un drakkar de casco oscuro anclado cerca de una isla de colinas verdes bajo un cielo nublado, con un hombre con capa de pie en la proa y una gran casa de madera y turba en la ladera."
 fontes:
   - "Orkneyinga saga (escrita hacia 1200 por un escriba islandés desconocido)"

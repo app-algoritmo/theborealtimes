@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/gudrid-viajante.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto azul de pé na proa de um navio viking, com os olhos voltados para um mar de icebergs sob o sol baixo, e uma vela quadrada de listras vermelhas atrás"
 fontes:
   - "Saga de Erik, o Vermelho (Eiríks saga rauða)"

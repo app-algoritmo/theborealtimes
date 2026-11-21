@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/a-moeda-norueguesa-do-maine.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gjennomhullet sølvmynt med et kongebryst og innskrifter, som hviler i en håndflate over et lag med mørk jord, med bukten og furuene i Maine i bakgrunnen, og et forstørrelsesglass ved siden av."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Maine penny» (funnet, identifiseringen, dateringen av stedet og de motstridende synene)"

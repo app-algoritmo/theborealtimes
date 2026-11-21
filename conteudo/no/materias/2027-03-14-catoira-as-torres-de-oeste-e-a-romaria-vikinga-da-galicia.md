@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/catoira-torres-de-oeste.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to ruinerte steintårn ved bredden av en rolig elvemunning, under en moderne bro; på vannet nærmer en høybaugt båt med stripete seil seg, mens folk kledd som bønder og som norrøne krigere står mot hverandre på land."
 fontes:
   - "Concello de Catoira, \"Historia\" (catoira.gal)"

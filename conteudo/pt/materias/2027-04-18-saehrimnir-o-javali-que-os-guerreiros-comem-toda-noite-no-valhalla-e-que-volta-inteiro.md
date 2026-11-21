@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/saehrimnir-o-javali-do-valhalla.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira com escudos nas paredes, onde guerreiros comem em longas mesas diante de um enorme caldeirão fumegante, e um cozinheiro mexe a carne de um javali sobre o fogo."
 fontes:
   - "Wikipédia em inglês, artigo \"Sæhrímnir\", com as passagens do Grímnismál (estrofe 18), da Gylfaginning (cap. 38) e do Skáldskaparmál"

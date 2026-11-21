@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/gigante-sem-coracao-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en innsjø med mørkt vann og en liten øy, en tretkirke på den og, vendt mot betrakteren, en ung prins i blå kappe som holder et egg i hånden, med en grå ulv ved siden av seg, en ravn på skulderen og en laks som hopper i vannet; i bakgrunnen silhuetten av et slott med seks steinstatuer i gårdsplassen."
 fontes:
   - "Wikipedia, \"The Giant Who Had No Heart in His Body\" (handling, Asbjørnsen og Moe, type ATU 302, varianter, ytre sjel)"

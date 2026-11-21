@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/rognvald-kirkwall-catedral.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma catedral de arenito vermelho e amarelo sendo erguida numa pequena cidade portuária das Órcades, com andaimes de madeira, pedreiros e carroças de pedra; no primeiro plano, um nobre de manto escuro e cabelos claros observando a obra com um pergaminho na mão, e ao fundo o mar cinzento com barcos de vela."
 fontes:
   - "Wikipedia, \"Rögnvald Kali Kolsson\" (vida, Órcades, catedral, peregrinação e morte)"

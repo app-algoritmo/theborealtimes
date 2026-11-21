@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/ribe-mercado.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma rua de mercado à beira de um rio na Dinamarca do século VIII, com fileiras de pequenas casas de madeira e tendas, carroças com barris e peles, mercadores de capas coloridas negociando e uma balança de prata sobre uma mesa"
 fontes:
   - "Claus Feveile (org.), *Ribe Studier: Det ældste Ribe* (Jysk Arkæologisk Selskab, 2006)"

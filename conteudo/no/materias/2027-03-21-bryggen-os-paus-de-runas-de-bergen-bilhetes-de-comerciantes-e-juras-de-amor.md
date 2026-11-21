@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/bryggen-paus-de-runas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelaldersk trebrygge i Bergen med rekker av fargerike plankehus, og i forgrunnen en kjøpmann som sitter og rister runer på en furupinne med kniv, ved siden av hauger med tørrfisk og tønner."
 fontes:
   - "Bryggens Museum, Bergen (runeinnskrifter fra Bryggen)"

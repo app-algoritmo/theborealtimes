@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/njal-queima.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et stort hus av torv og tre i flammer om natten på en islandsk slette, med væpnede menn i en ring og en skikkelse som hopper fra det brennende taket"
 fontes:
   - "*Brennu-Njáls saga*, Njåls saga, Njål den brente (slutten av 1200-tallet)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/geirrod-ferro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bredskuldret, skjegget gud med jernhansker som tar en glødende jernstang i lufta i en jotunhall, med en jotun som gjemmer seg bak en jernsøyle og oransje gnister overalt"
 fontes:
   - "Snorre Sturlason, *Yngre Edda* (*Skáldskaparmál*, beretningen om Tor hos Geirrød, omkring 1220)"

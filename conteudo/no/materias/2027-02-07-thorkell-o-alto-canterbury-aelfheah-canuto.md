@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/thorkell-o-alto-guerreiro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en svært høy kriger i ringbrynje og mørk kappe som står i baugen på et langskip fortøyd på en steinstrand, med en gruppe væpnede menn bak seg; i bakgrunnen murene og tårnet til en katedral i en engelsk by, under en tung himmel."
 fontes:
   - "Wikipedia, «Thorkell the Tall» (liv, Canterbury i 1009 og 1011, Ælfheah, Æthelred, Knut, jarledømmet Øst-Anglia, eksil og 1023)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/alfredo-edington.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kort-skjegget konge ved et ildsted i en hytte, fortapt i tanker, mens en kvinne ser på ham og mørke brød ryker på glørne, med myr og tåke utenfor vinduet"
 fontes:
   - "Den angelsaksiske krønike (oppføringer for årene 871 til 878)"

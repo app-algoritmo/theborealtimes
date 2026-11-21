@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/bergtatt-montanha.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinne i rød skjørt og skaut som går alene i skumringen langs en steinete norsk fjellside, med åpningen til en hule lyst opp av gyllent lys bak en stein, og diffuse skikkelser av skapninger med haler som titter fram mellom steinene"
 fontes:
   - "Peter Christen Asbjørnsen, *Norske Huldre-Eventyr og Folkesagn* (1845–1848)"

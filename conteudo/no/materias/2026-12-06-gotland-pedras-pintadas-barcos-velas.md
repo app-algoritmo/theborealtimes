@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/gotland-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en øy med åpne marker ved havet, med en soppformet kalksteinshelle satt i gresset; steinens framside viser et skip med stort råseil, ryttere og rader av figurer malt i rødt, blått og gult, mens to personer i enkle tunikaer ser på bildene."
 fontes:
   - "Gotlands Museum, *Gotlandic Picture Stones* (database og ikonografisk tekst)"

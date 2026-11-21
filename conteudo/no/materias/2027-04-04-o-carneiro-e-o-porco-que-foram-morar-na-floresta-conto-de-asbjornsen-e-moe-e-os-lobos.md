@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/carneiro-e-porco-na-floresta.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et lite tømmerhus med torvtak midt i en granskog, med en sau, en gris, en gås, en hare og en hane ved døra, mens to grå ulver titter fram bak et tre i skumringen."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, norske folkeeventyr, oversatt av George Webbe Dasent, «Tales from the Fjeld» (Project Gutenberg nr. 36385): «The Sheep and the Pig who Set Up House»"

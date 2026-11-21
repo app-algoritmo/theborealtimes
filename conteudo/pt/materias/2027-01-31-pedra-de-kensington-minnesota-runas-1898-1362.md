@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/pedra-de-kensington-minnesota.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande laje de pedra cinzenta coberta de runas, apoiada num campo de pradaria de Minnesota ao pôr do sol, no meio do campo; um fazendeiro de chapéu de aba larga e uma pá ao lado observa a pedra, enquanto, ao fundo, um estudioso de óculos examina as runas com uma lupa."
 fontes:
   - "Wikipedia, \"Kensington Runestone\" (descoberta de 1898, Olof Ohman, inscrição, exames de 1899 e 1910, Holand, Smithsonian em 1948, Moltke, Wahlgren, Blegen, Wolter, consenso, museu de Alexandria)"

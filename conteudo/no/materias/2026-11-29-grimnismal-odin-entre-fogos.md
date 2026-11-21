@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/grimnismal-odin.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trehall om natten, med en mann i blå kappe og hette som sitter på gulvet mellom to høye bål, med hendene bundet foran seg, og en gutt som knesetter seg for å rekke ham et drikkehorn, mens en konge med jernkrone ser på på avstand"
 fontes:
   - "*Eldre Edda*, *Grímnismál* (Codex Regius, ca. 1270)"

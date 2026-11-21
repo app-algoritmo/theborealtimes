@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/anoes-dvergar-forja-ymir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et underjordisk smie i en hule av mørkt fjell, med to langskjeggede dverger, én som holder tang og én som arbeider belgen, foran en kortskaftet hammer som fortsatt glør på ambolten; ved siden av en villsvin med gylne børster og en gullring, og ved hulemunningen de første solstrålene som berører en steinstatue."
 fontes:
   - "Wikipedia, «Dwarf (folklore)» (etymologi, opphav, Dvergatal, Andvare, Alvismál, Sindre og Brokk, Ivaldes sønner, Gleipne, sol og stein, tysk litteratur, sykdom og trylleformler)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/haakon-jarl-lade-kark.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn gård seint på høsten, med et stort trehus med torvtak og en jarl i mørk kappe og grått skjegg som sitter i et høysete, omgitt av krigere; i bakgrunnen en grisebinge av tre i regnet og en mann med kniv i hånden som titter gjennom døra, og på fjorden skip med stripete seil."
 fontes:
   - "Wikipedia, «Haakon Sigurdsson» (opphav, Lade, Harald Blåtann, Hjørungavåg, Olav Tryggvason, døden på Rimul, ettermæle)"

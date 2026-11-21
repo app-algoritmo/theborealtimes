@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/borg-casa-longa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et enormt langhus av torv og tre, med et langt, lavt tak, på en grønn slette foran mørke fjell og havet, med røyk som stiger fra taket, folk i ullklær ved inngangen og en båt trukket opp på stranda i bakgrunnen"
 fontes:
   - "Gerd Stamsø Munch, Olav Sverre Johansen og Else Roesdahl (red.), *Borg in Lofoten* (Tapir Academic Press, 2003)"

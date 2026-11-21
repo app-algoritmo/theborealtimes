@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/up-helly-aa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma longa procissão noturna de homens com tochas acesas e fantasias nórdicas, com escudos e machados, atravessando uma rua de pedra de uma pequena cidade portuária, enquanto no centro um navio de madeira com cabeça de dragão espera para ser queimado"
 fontes:
   - "Estudos históricos sobre o festival Up Helly Aa em Lerwick, nas ilhas Shetland"

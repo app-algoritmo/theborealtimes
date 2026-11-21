@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/lanse-aux-meadows-sitio-nordico.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lav grønn kyst i Nord-Atlanteren, på en vindfull dag, med rester av torvbygninger med avrundede hjørner i graset, ved siden av utgravingsgrøfter med planker og bøtter; arkeologer i regnjakker arbeider på knærne, og bak dem et grått hav med fjerne isfjell."
 fontes:
   - "Wikipedia, «L'Anse aux Meadows» (oppdagelse, utgravinger av Ingstad-paret og Parks Canada, bygninger, smie, datering, butternøtter, UNESCO, Vinland)"

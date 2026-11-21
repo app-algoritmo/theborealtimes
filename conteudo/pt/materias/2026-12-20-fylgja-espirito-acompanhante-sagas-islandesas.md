@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/fylgja-espirito-neve.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de capa andando sozinho por uma estrada de neve ao entardecer, com a sombra transformada numa grande figura de lobo à frente dele; ao fundo, a luz de uma fazenda, e uma mulher de véu pálido, quase transparente, parada ao lado do caminho sob uma árvore de ramos nus."
 fontes:
   - "Hurstwic, \"Supernatural Beings\" (fylgjur como espíritos guardiões)"

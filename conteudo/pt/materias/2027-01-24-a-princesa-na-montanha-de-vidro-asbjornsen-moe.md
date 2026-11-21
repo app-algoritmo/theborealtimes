@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/princesa-montanha-de-vidro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma montanha de vidro brilhante, em forma de cone, sob céu escuro de verão; no alto, uma princesa de vestido branco segura três maçãs de ouro; ao pé da encosta, um cavaleiro de armadura dourada, num cavalo de arreios de ouro, começa a subir deixando um rastro de faíscas; do lado, uma multidão de cavaleiros com armaduras de latão e prata observa."
 fontes:
   - "Wikipedia, \"The Princess on the Glass Hill\" (Norske Folkeeventyr; enredo; tipo ATU 530; variantes na Noruega, Alemanha, Escandinávia, Países Bálticos, Irlanda e outras; hipóteses de origem de von Sydow, Boberg, Honti, Krohn e Dzagurov; leitura parcial do artigo)"

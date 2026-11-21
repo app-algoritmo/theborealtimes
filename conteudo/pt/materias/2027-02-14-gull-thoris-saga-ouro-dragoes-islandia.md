@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/gull-thoris-saga-ouro-dragoes.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro nórdico de capa escura na entrada de uma caverna úmida junto a uma cachoeira, com baús e moedas de ouro ao fundo e a sombra de um dragão enrolado sobre o tesouro; ao longe, as colinas verdes de um fiorde islandês sob um céu de nuvens baixas."
 fontes:
   - "Wikipedia, \"Gull-Þóris saga\" (cenário, enredo, autoria atribuída a Sturla Þórðarson)"

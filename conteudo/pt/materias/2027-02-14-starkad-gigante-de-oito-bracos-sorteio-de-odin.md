@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/starkad-sorteio-de-odin.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro nórdico robusto e já idoso à beira de uma floresta de abetos, com uma lança na mão, e de um homem de chapéu largo e capa azul-escura que o observa por trás de uma árvore; no chão, uma tira de madeira com sinais riscados e, ao longe, um barco de casco claro numa baía."
 fontes:
   - "Wikipedia, \"Starkad\" (os dois Starkads, Odin e Thor, Vikar, Saxo, outras fontes)"

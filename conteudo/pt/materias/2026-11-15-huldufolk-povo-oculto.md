@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/huldufolk-pedra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande rocha de lava coberta de musgo num campo islandês, com uma pequena porta luminosa na base e uma estrada de asfalto que faz uma curva para contorná-la"
 fontes:
   - "Pesquisas de opinião da Universidade da Islândia (2007) e do jornal DV (1998)"

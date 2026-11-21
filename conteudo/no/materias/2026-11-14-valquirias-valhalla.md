@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/valquirias-valhalla.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en valkyrje i rustning på en hvit hest over en slagmark i skumringen, med falne krigere på bakken og, i bakgrunnen, en stor hall med tak som ser ut til å være laget av gylne skjold"
 fontes:
   - "Grímnismál, Vafþrúðnismál og Lokasenna, i den eldre Edda (manuskripter fra 1200-tallet)"

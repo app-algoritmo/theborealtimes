@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/erico-york.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma cidade murada de pedra e madeira à beira de um rio, sob céu cinzento, com um rei de barba loira e capa vermelha, machado ao cinto, descendo de um cavalo diante de uma igreja de pedra; guerreiros com escudos o acompanham."
 fontes:
   - "*Crônica Anglo-Saxônica*, manuscritos D e E, anos 947–954 (trad. Michael Swanton, *The Anglo-Saxon Chronicles*, Phoenix, 2000)"

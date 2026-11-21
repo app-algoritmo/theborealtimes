@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/sankthans-fogueira-do-solsticio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enorme fogueira acesa à beira de um fiorde numa noite clara de verão, com pessoas em volta, flores colhidas num cesto e barcos na água sob um céu ainda azul."
 fontes:
   - "ScienceNorway (Universidade do Sudeste da Noruega), \"Why do Scandinavians celebrate midsummer?\", com o professor Herleik Baklid"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/amleth-loucura.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem de cabelos escuros e roupas sujas de cinzas sentado junto à lareira de um salão de madeira, com um olhar atento por trás da expressão vazia, enquanto um homem de manto observa de uma sombra e três cartas de pergaminho estão sobre a mesa"
 fontes:
   - "Saxo Gramático, *Gesta Danorum*, livros III e IV (por volta de 1200)"

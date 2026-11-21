@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/hraesvelgr-gigante-aguia-vento.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enorme águia escura de asas abertas, empoleirada numa rocha no limite de um céu cinzento, com nuvens e ondas de vento curvando-se abaixo dela e minúsculos barcos de vela navegando num mar distante."
 fontes:
   - "Edda poética, Vafþrúðnismál (estrofe 37)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/gjellestad-navio-no-solo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en grønn slette ved daggry, med en stor jordhaug i bakgrunnen og, i forgrunnen, silhuetten av et langstrakt vikingskip med kledning av overlappende planker, tegnet i lysstreker over bakken, med arkeologer i vester som arbeider ved en søkkgrøft."
 fontes:
   - "NIKU (Norsk institutt for kulturminneforskning), \"Georadar detects a Viking ship in Norway\" (oktober 2018)"

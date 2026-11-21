@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/hacon-barba-grisalha-mendigo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um príncipe disfarçado de mendigo, com barba de musgo e manto de pele, oferecendo uma roda de fiar dourada a uma princesa na janela de um castelo de madeira; ao fundo, uma cabana de troncos perto do bosque."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, contos populares noruegueses, tradução de George Webbe Dasent, \"Popular Tales from the Norse\" (Project Gutenberg nº 8933): \"Hacon Grizzlebeard\""

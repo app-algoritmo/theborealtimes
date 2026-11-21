@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/leste-do-sol.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinne i rød kappe på ryggen av en stor vind formet som et blåsende ansikt, som krysser en nattehimmel med stjerner og måne, med et isslott i det fjerne"
 fontes:
   - "Norske Folkeeventyr, av Peter Christen Asbjørnsen og Jørgen Moe (samling utgitt fra 1841)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/gautrek-penhasco-da-familia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en jaktkonge som har gått seg vill i en skog i Götaland og kommer om natten til et avsidesliggende hus der en familie med magre ansikter tar imot ham; i bakgrunnen, under månen, stikker et høyt stup av grå stein opp mellom furuene."
 fontes:
   - "Gautreks saga (kort og lang versjon), bevart i sene håndskrifter; teksten ble skrevet mot slutten av 1200-tallet"

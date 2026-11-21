@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/sleipnir-muro-asgard.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kjempe av en byggmester som reiser en enorm steinmur ved siden av en grå hest som drar blokker, i snøstorm"
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, Gylfaginning, kapittel 42 (ca. 1220)"

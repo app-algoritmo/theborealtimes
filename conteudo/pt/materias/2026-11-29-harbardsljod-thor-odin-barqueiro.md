@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/harbard-barqueiro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um estreito de águas escuras ao entardecer, com um homem forte de barba ruiva parado na margem e, do outro lado, um barqueiro de barba cinzenta e chapéu largo, de pé num pequeno barco, ambos de braços abertos como quem discute, com montanhas ao fundo"
 fontes:
   - "*Edda Poética*, *Hárbarðsljóð* (Codex Regius, c. 1270, e fragmento AM 748 I 4to)"

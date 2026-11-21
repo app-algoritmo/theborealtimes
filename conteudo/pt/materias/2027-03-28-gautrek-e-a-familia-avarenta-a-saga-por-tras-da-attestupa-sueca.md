@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/gautrek-penhasco-da-familia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei caçador perdido numa floresta de Götaland chegando, à noite, a uma casa isolada onde uma família de rostos magros o recebe; ao fundo, sob a lua, um penhasco alto de pedra cinzenta se destaca entre os pinheiros."
 fontes:
   - "Gautreks saga (versões curta e longa), conservada em manuscritos tardios; texto escrito no fim do século XIII"

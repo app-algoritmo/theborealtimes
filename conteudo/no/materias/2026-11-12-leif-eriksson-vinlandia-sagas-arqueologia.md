@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/leif-vinlandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et vikingskip som ankommer en vill kyst ved daggry, med torvhus på stranden og skog bak."
 fontes:
   - "*Grønlendingenes saga* (1200-tallet, bevart i senere håndskrifter)"

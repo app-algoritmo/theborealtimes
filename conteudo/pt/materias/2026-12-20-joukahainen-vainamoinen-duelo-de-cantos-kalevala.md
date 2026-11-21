@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/joukahainen-kalevala-duelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma paisagem finlandesa de lago e floresta de abetos, onde um velho de barba branca e longa, de pé, canta com os braços abertos, enquanto um jovem de armadura de couro afunda numa charneca lamacenta até o peito, com as mãos erguidas; ao fundo, um cavalo e um trenó e uma jovem vestida de branco olhando de longe."
 fontes:
   - "Wikiwand, \"Joukahainen\" (personagem do *Kalevala*, nome e interpretações)"

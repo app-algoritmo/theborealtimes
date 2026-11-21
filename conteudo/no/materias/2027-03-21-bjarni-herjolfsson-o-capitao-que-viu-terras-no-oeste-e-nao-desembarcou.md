@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/bjarni-sem-bussola.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et norrønt skip med råseil midt i et grått hav innhyllet i tåke; i baugen peker en kaptein mot en lav, grønn kyst, og mannskapet ser på ham og ber om å få gå i land, men han holder roret fast."
 fontes:
   - "Grønlendingenes saga (Grænlendinga saga)"

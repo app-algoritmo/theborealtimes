@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/kopakonan-foca.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne med langt mørkt hår på stranda i en færøysk bukt i skumringen, med et grått selskinn i armene, grønne klipper bak og flere selhoder som stikker opp i vannet"
 fontes:
   - "Samlinger av færøysk folketro fra 1800- og 1900-tallet"

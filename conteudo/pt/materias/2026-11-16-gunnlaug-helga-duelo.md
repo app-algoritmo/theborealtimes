@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/gunnlaug-helga.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois guerreiros de escudos redondos duelando numa clareira rochosa sob um céu cinzento, enquanto uma jovem de manto azul observa de longe, segurando um tecido escuro"
 fontes:
   - "Gunnlaugs saga ormstungu (Saga de Gunnlaug Língua-de-Serpente), do século XIII, autoria desconhecida"

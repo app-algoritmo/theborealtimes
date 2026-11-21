@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/gudrid-viajante.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i blå kappe i baugen på et vikingskip med blikket mot et hav av isfjell under lav sol, med et rødstripet råseil bak henne"
 fontes:
   - "Eirik den raudes saga (Eiríks saga rauða)"

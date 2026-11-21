@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/tapecarias-de-overhogdal.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lang, smal duk lagt på et museumsbord, vevd i ull i vannrette bånd, med rekker av stiliserte menneskefigurer, hester, hjort, trær og små hus, i falmede røde, blå og oker toner; i bakgrunnen vinduet i en svensk tømmerkirke under snø."
 fontes:
   - "Wikipedia, «Överhogdal tapestries» (funn, deler, telling av figurer, datering, materialer, tolkninger)"

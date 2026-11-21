@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/thor-utgard.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus barbudo e forte erguendo uma pata de um enorme gato cinzento num salão de gigantes, observado por uma velha ao fundo e por gigantes que riem, com um chifre de beber enorme ao lado"
 fontes:
   - "Gylfaginning, capítulo 44 (Edda em Prosa, de Snorri Sturluson)"

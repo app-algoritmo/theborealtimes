@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/soria-moria.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um castelo dourado brilhando no alto de uma colina entre pinheiros ao pôr do sol, com um rapaz de capa e um navio pequeno numa baía ao longe"
 fontes:
   - "Asbjørnsen e Moe, Norske Folkeeventyr (contos populares noruegueses)"

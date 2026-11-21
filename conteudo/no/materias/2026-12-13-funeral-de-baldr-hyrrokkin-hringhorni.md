@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/baldr-funeral-navio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en strand i skumringen, med et enormt skip med høy baug som skyves ut i vannet av en sorthåret jotunkvinne som rir på en gigantisk ulv med slanger som tøyler, mens guder i mørke kapper ser på og trerullene sprer gnister."
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, *Gylfaginning* (ca. 1220), kapitlet om Balders død"

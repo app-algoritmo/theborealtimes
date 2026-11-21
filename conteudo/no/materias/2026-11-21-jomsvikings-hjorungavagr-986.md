@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/jomsborg-986.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerfestning ved Østersjøens kyst, med tømmerstokkmurer og krigsskip med høye stavner fortøyd i en havn, krigere med hjelm samlet på en gårdsplass og, i bakgrunnen, en himmel med lave, truende skyer"
 fontes:
   - "Ukjent forfatter, *Jómsvíkinga saga* (islandsk saga, håndskrifter fra 1200- og 1300-tallet)"

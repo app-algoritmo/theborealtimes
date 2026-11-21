@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/guarda-varegue.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av vikingkrigere i ringbrynje som drar et skip over tømmerstokker på en grønn elvebredd, med de gylne kuplene i Konstantinopel skinnende på horisonten"
 fontes:
   - "Konstantin VII Porfyrogennetos, *De Administrando Imperio* (ca. 950)"

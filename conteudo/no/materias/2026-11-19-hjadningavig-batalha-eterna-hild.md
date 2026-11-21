@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/hild-hjadningar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av krigere som kjemper på en strand i måneskinn, med en kvinne i mørk kappe som står mellom de falne kroppene, som reiser seg i stillhet, mens det sølvfargede havet slår mot lave klipper og tåke dekker øya"
 fontes:
   - "Snorre Sturlason, *Snorres Edda* (*Skáldskaparmál*, omkring 1220, med sitat fra *Ragnarsdrápa* av Bragi Boddason)"

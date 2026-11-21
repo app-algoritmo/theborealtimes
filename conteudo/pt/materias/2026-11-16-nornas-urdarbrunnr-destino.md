@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/nornas-fio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de três mulheres de vestes longas junto a um poço claro sob as raízes de uma árvore gigante, uma delas tecendo fios dourados, com dois cisnes brancos na água"
 fontes:
   - "Völuspá, estrofes 19 e 20 (Edda Poética)"

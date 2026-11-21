@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/sigurd-cruzada.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en flåte langskip med stripete seil som seiler forbi en steinete, solbelyst kyst med en befestet by på åsen, mens en ung konge i rød kappe og enkel krone ser fra baugen på det første skipet, med det gylne drakehodet foran"
 fontes:
   - "Snorre Sturlason, *Heimskringla*, *Sigurd Jorsalfars saga* (ca. 1230)"

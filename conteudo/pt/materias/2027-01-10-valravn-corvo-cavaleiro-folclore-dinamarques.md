@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/valravn-corvo-cavaleiro-dinamarca.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo de batalha dinamarquês ao amanhecer, com neblina baixa e lanças caídas na grama, onde um enorme corvo negro de olhos humanos pousa sobre a armadura de um cavaleiro tombado; ao fundo, um castelo de tijolos em silhueta, um bando de corvos comuns no céu pálido e um cavalo solto de pé à distância."
 fontes:
   - "Wikipedia, \"Valravn\" (balada \"Valravnen\", Jens Bille 1555-1559, Evald Tang Kristensen 1893, Svend Grundtvig 1856, Jacob Grimm)"

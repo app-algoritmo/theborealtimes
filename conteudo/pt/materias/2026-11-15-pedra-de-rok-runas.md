@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/pedra-rok.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande pedra cinzenta coberta de runas numa campina sueca, com uma igreja de madeira ao fundo e nuvens baixas, e um homem de capa tocando a superfície da pedra"
 fontes:
   - "Britannica, verbete Rök runestone"

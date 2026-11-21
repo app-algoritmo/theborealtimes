@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/lindholm-barco-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gress- og sandbakke under en kveldshimmel, med dusinvis av reiste steiner som danner omrisset av skip med spiss baug og hekk, mellom trekantede og ovale steiner, og arkeologer i ullklær som knelende måler steinene, med en fjord i bakgrunnen"
 fontes:
   - "Thorkild Ramskou, *Lindholm Høje Gravpladsen* (Nordiske Fortidsminder, 1976)"

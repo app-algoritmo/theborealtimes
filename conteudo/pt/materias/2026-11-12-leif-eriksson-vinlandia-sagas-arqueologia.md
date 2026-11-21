@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/leif-vinlandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio viking chegando a uma costa selvagem ao amanhecer, com casas de turfa na praia e floresta ao fundo."
 fontes:
   - "*Saga dos Groenlandeses* (século XIII, preservada em manuscritos mais tardios)"

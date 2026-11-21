@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/thor-noiva.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus barbudo e enorme, de véu e vestido de noiva e com um colar dourado, sentado à mesa de um salão de gigantes, diante de uma travessa com salmões e de um boi assado, enquanto um gigante o encara desconfiado"
 fontes:
   - "Þrymskviða (Canto de Thrym), na Edda Poética, manuscrito Codex Regius (cerca de 1270)"

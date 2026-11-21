@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/conversao-islandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av Lovbergets plass ved Thingvellir, en slette omgitt av lavaklipper, hundrevis av mennesker i grupper av fargerike telt og, i forgrunnen, en mann i tykk kappe som ligger på bakken med ansiktet tildekket; i det fjerne står en gruppe kristne med et trekors og en gruppe hedninger med bannere mot hverandre."
 fontes:
   - "Ari Þorgilsson, *Íslendingabók* (ca. 1122–1133), kapittel 7"

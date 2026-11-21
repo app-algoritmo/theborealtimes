@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/barco-de-pedra-corrente.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høybaugt båt av grå stein som glir over et rolig hav i skumringen, med en kraftig, dyster kvinneskikkelse stående i baugen; på dekket av et treskip ved siden av en sovende mann og en kvinne med et barn i armene."
 fontes:
   - "Jón Árnason, \"Skessan á steinnökkvanum\", i Íslenzkar Þjóðsögur og Æfintýri, bind 2 (1864)"

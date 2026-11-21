@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/marjatta-e-a-baga.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung gjeterjente på en li med lav vegetasjon som plukker et rødt bær, med sauer rundt seg og et myrområde med siv i solnedgangslyset bak."
 fontes:
   - "Elias Lönnrot, Kalevala (utgaven fra 1849), runo 50 (i John Martin Crawfords engelske oversettelse)"

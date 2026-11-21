@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/o-diacono-de-myrka.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma noite de lua cheia sobre um rio escuro, com um cavaleiro de chapéu e cachecol que esconde o rosto, levando uma jovem na garupa, e ao fundo uma pequena igreja com um sino e um túmulo aberto."
 fontes:
   - "Wikipédia em inglês, artigo \"Djákninn á Myrká\", com o resumo do conto, a história da publicação e a classificação ATU 365"

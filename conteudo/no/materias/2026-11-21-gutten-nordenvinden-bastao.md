@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/nordenvinden-gutten.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gutt i lappede klær som står på en vindpint høyde med hevede armer, foran en enorm skyskikkelse med utblåste kinn som blåser en kastevind, en liten mjølsekk som flyr i lufta og, i bakgrunnen, et tømret gjestgiveri med en mistenksom vert"
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, *Norske Folkeeventyr* (Christiania, 1843–1844, eventyret «Gutten som gik til Nordenvinden»)"

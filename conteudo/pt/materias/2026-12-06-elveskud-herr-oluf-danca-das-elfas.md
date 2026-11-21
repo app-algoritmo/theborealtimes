@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/elveskud-danca.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um bosque de bétulas ao amanhecer, com um cavaleiro de capa azul parado ao lado do cavalo diante de um círculo de elfas de véus claros dançando sobre a névoa; uma delas estende a mão, enquanto ao fundo se vê, pequena, a luz de uma casa de campo."
 fontes:
   - "Svend Grundtvig (org.), *Danmarks gamle Folkeviser*, n.º 47 \"Elveskud\" (Copenhague, 1853 em diante)"

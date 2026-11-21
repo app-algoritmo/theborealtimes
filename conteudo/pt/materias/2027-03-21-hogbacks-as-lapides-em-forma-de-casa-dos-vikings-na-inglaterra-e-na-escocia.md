@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/hogbacks-lapides-em-forma-de-casa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cemitério de igreja inglesa com várias lápides de pedra arqueadas como telhados de casa, com telhas esculpidas nas laterais e animais nas pontas; um urso de pedra abraça uma delas, sob um céu nublado."
 fontes:
   - "Corpus of Anglo-Saxon Stone Sculpture, volume VI"

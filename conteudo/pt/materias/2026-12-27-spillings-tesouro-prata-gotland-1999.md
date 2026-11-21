@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/spillings-tesouro-gotland.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha báltica de campos planos e muros de pedra baixos ao amanhecer, onde dois arqueólogos de casacos escuros e luvas ajoelham sobre um piso de tábuas arrancado, expondo dois baldes cheios de moedas prateadas e braceletes de prata enrolados; ao lado, um cavalete com balança e uma lanterna, e ao fundo uma fazenda de pedra e madeira."
 fontes:
   - "Wikipedia, \"Spillings Hoard\" (descoberta, peso, moedas, braceletes, datação, contexto da fazenda)"

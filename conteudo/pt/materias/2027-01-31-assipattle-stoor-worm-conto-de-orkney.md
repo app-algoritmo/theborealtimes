@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/assipattle-stoor-worm-orkney.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem de cabelos desgrenhados num pequeno barco, remando para a boca de um verme marinho gigantesco e escamoso, enquanto segura uma turfa em brasa; ao fundo, uma costa de falésias e, nas ondas, ilhotas que parecem dentes de pedra, com uma princesa vista de longe em uma torre e um cavalo na margem."
 fontes:
   - "Wikipedia, \"Assipattle and the Stoor Worm\" (conto de Orkney, Walter Traill Dennison, The Scottish Antiquary 1891, coletânea de Douglas, Marwick, Dasent, Hartland, Simpson, enredo, origem das ilhas)"

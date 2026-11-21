@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/freyr-gerdr.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rytter i grønn kappe på en hvit hest foran en flammevegg og en stor jotunhall i bakgrunnen, mens en gylden skikkelse ser fra et høyt tårn"
 fontes:
   - "Skírnismál (Den eldre Edda)"

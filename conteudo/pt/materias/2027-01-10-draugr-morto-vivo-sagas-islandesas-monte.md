@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/draugr-morto-vivo-monte.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um monte funerário coberto de capim numa noite de inverno na Islândia, com um brilho pálido e azulado saindo da terra e, à frente, uma figura alta e inchada, de pele cor de ardósia e roupa rasgada, rastejando para fora de uma abertura de pedras; ao longe, uma fazenda de turfa com uma janela acesa e montanhas nevadas sob céu estrelado."
 fontes:
   - "Wikipedia, \"Draugr\" (Grettis saga, Laxdæla saga, Eyrbyggja saga, Hrómundar saga Gripssonar, Harðar saga; características, Glámr, meios de dispersão, montes funerários)"

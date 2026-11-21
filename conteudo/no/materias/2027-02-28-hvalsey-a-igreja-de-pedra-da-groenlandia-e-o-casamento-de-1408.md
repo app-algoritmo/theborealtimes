@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/hvalsey-igreja-de-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av ruinene av en grå steinkirke med tykke vegger uten tak, på en grønn eng ved en fjord med fjell og is i bakgrunnen; ved siden av en ung kvinne i lang kjole og en mann i kappe, hånd i hånd, foran en prest, i en bryllupsscene."
 fontes:
   - "Wikipedia, \"Hvalsey Church\" (sted, bygging, materialer, mål, bryllupet i 1408, inuittisk sagn, tvil)"

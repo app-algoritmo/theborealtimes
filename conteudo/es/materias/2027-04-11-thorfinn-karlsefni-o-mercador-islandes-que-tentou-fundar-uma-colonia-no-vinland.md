@@ -6,7 +6,7 @@ natureza: "Saga o fuente medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/thorfinn-karlsefni-no-vinland.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un drakkar nórdico varado en una playa de guijarros bajo un cielo gris, con hombres con capa descargando cajas, un toro pardo suelto en la arena y figuras con pieles a lo lejos entre los árboles."
 fontes:
   - "Eiríks saga rauða (Saga de Erico el Rojo)"

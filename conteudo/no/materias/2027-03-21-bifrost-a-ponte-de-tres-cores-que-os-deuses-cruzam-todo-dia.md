@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/bifrost-ponte-de-tres-cores.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en glødende bro av tre fargebånd, ett rødt som glør, som buer seg mellom en grønn ås og et slott på himmelen; over den holder en vakt med et stort horn utkikk, og ryttere rir over broen i skumringen."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 13, 15, 17, 27 og 51; Skáldskaparmál, kapittel 16)"

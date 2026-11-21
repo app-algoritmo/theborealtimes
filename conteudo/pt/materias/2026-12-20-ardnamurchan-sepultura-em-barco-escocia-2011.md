@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/ardnamurchan-barco-escocia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma baía isolada do oeste da Escócia com areia clara e colinas verdes sob céu nublado, onde arqueólogos de coletes escuros escavam uma grande cova em forma de barco; no fundo da cova, rebites de ferro em fileira, uma espada e um escudo redondo parcialmente expostos, e uma pequena pilha de pedras antigas de um túmulo ao lado."
 fontes:
   - "Live Science, \"Viking VIP: Grave Belonging to 'Warrior of High Status' Uncovered\" (Laura Geggel, 8 de fevereiro de 2017)"

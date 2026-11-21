@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/mulher-contraria-rio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo de trigo dourado à beira de um rio de águas claras, onde um camponês de camisa branca procura de joelhos na margem, olhando rio acima, enquanto, ao longe, perto de uma pequena cachoeira, algo claro flutua contra a corrente; vizinhos com varas de arrastar descem a margem ao fundo."
 fontes:
   - "Verbete \"The Contrary-Minded Woman\", Wikipédia"

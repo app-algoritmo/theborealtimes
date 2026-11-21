@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/kylver-futhark-em-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en flat hellestein av lys kalkstein sett ovenfra, med en rad runer risset i rekkefølge, et lite tre av streker i enden av raden og et symmetrisk ord under; bak den åpne jorda i en grav på Gotland."
 fontes:
   - "Terje Spurkland, Norwegian Runes and Runic Inscriptions (2005)"

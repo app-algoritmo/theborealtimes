@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/gjellestad-navio-no-solo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma planície verde ao amanhecer, com um grande monte de terra ao fundo e, em primeiro plano, a silhueta de um navio viking alongado, de casco de tábuas sobrepostas, desenhada em linhas de luz sobre o solo, com arqueólogos de colete trabalhando junto a uma trincheira."
 fontes:
   - "NIKU (Instituto Norueguês de Pesquisa do Patrimônio Cultural), \"Georadar detects a Viking ship in Norway\" (outubro de 2018)"

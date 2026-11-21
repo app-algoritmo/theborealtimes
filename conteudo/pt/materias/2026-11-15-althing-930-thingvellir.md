@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/althing-thingvellir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma multidão de chefes islandeses em capas reunida num vale de lava, diante de uma rocha elevada onde um homem de pé recita, sob um céu claro de verão"
 fontes:
   - "Verbetes de enciclopédias e do parque nacional de Þingvellir sobre o Althing"

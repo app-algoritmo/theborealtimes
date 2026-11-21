@@ -6,7 +6,7 @@ natureza: "Historia documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/uppakra-o-edificio-do-culto.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran salón de madera de postes de roble en un campo de Escania al amanecer, con cuatro columnas interiores visibles por una puerta abierta y diminutas láminas de oro brillando en la tierra en primer plano."
 fontes:
   - "Wikipedia en inglés, artículos «Uppåkra» y «Uppåkra temple», para los datos de la excavación"

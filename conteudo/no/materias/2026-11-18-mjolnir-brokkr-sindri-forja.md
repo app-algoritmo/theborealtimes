@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/mjolnir-forja.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to dverger med flettede skjegg i en smie i en hule, den ene slår på en hammer med kort skaft over ambolten og den andre trekker en belg, med en flue på armen hans og gull og glør som lyser opp veggene"
 fontes:
   - "Snorre Sturlason, *Snorres Edda* (*Skáldskaparmål*, omkring 1220)"

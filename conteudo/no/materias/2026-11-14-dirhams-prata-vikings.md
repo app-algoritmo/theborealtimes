@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/dirhams-prata.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en nordisk kjøpmann i et telt, med en liten skålvekt på en klut, sølvmynter kuttet i biter og bronsevekter, og i bakgrunnen båter ved en elvebredd"
 fontes:
   - "Funn av sølvskatter fra 800- og 900-tallet i Skandinavia og Østersjøområdet, studert av numismatikere"

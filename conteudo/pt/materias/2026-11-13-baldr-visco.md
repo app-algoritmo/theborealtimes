@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/baldr-visco.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do deus Baldr radiante num salão de Asgard enquanto deuses jogam lanças e pedras que ricocheteiam, e um broto de visco brilha num canto escuro"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, parte Gylfaginning (cerca de 1220)"

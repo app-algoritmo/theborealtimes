@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/kylver-futhark-em-pedra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma laje achatada de calcário claro, vista de cima, com uma fileira de runas riscadas em ordem, uma pequena árvore de traços ao fim da fileira e uma palavra simétrica abaixo; ao fundo, a terra aberta de uma sepultura em Gotland."
 fontes:
   - "Terje Spurkland, Norwegian Runes and Runic Inscriptions (2005)"

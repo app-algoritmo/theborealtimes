@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/sverre-rei.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de meia-idade, de barba curta e olhar firme, usando um manto simples e uma coroa pequena, de pé diante de uma fileira de soldados de escudos de madeira e botas envolvidas em casca de bétula, numa colina fria com fiordes ao fundo"
 fontes:
   - "*Sverris saga*, ed. Gustav Indrebø (Det Norske Historiske Kildeskriftfond, 1920)"

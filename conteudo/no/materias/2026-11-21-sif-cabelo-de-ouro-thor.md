@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/sif-cabelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne med langt gyllent hår som skinner som moden hvete, stående på en åker i skumringen, med en rødskjegget gud ved siden av som holder en hammer og, i bakgrunnen, to små dvergskikkelser som arbeider ved en smie"
 fontes:
   - "Snorre Sturlason, *Yngre Edda* (*Skaldskaparmål* og *Gylfaginning*, avsnitt om Sif og barna hennes, omkring 1220)"

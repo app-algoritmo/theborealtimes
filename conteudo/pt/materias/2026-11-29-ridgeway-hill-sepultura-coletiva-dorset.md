@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/ridgeway-hill.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma escavação arqueológica numa colina verde ao pôr do sol, com arqueólogos de roupas modernas ajoelhados junto a uma vala retangular, tendas brancas ao fundo, máquinas de obra paradas e, ao longe, o mar calmo sob nuvens baixas"
 fontes:
   - "Louise Loe e outros, *\"Given to the Ground\": A Viking Age Mass Grave on Ridgeway Hill, Weymouth* (Dorset Natural History and Archaeological Society, 2014)"

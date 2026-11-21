@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/svein-asleifarson-de-gairsay.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio longo de casco escuro ancorado perto de uma ilha de colinas verdes sob céu nublado, com um homem de capa de pé na proa e uma grande casa de madeira e turfa na encosta."
 fontes:
   - "Orkneyinga saga (escrita por volta de 1200, por um escriba islandês desconhecido)"

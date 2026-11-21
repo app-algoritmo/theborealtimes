@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/ardnamurchan-barco-escocia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en avsidesliggende vik i Vest-Skottland med lys sand og grønne åser under skyet himmel, der arkeologer i mørke vester graver ut en stor båtformet grop; på bunnen av gropen en rad med jernnagler, et sverd og et rundt skjold delvis synlige, og en liten haug med gamle steiner fra en grav ved siden av."
 fontes:
   - "Live Science, «Viking VIP: Grave Belonging to 'Warrior of High Status' Uncovered» (Laura Geggel, 8. februar 2017)"

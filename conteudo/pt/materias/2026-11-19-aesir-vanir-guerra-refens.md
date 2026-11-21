@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/aesir-vanir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois grupos de deuses frente a frente numa planície sob céu tempestuoso, de um lado guerreiros de elmo e lança, do outro figuras de manto verde e dourado, com um muro de pedra quebrado entre eles e dois reféns trocando de lado"
 fontes:
   - "Autor desconhecido, *Edda Poética* (*Völuspá*, estrofes 21 a 24, manuscritos do século XIII)"

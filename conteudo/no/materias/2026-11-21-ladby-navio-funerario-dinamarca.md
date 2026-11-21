@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/ladby-navio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en utgraving på en dansk åker som viser den mørke konturen av et stort skip i jorda, med rader av rustne jernnagler som danner silhuetten av baug og hekk, skjeletter av hester og hunder rundt og arkeologer som står med spader og børster"
 fontes:
   - "Poul Helweg Mikkelsen, utgravingsrapporter om Ladby-skipet, 1935 (Danmarks Nationalmuseum)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/yggdrasil-arvore.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um freixo colossal com raízes profundas e galhos que sobem às estrelas, com uma águia no topo, um esquilo no tronco e uma serpente entre as raízes"
 fontes:
   - "*Völuspá*, poema da *Edda Poética* (manuscrito Codex Regius, cerca de 1270)"

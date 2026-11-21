@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/hyndla-gruta.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk hule belyst av fakler, der en lyshåret gudinne i rød kappe, ridende på et stort villsvin med gylne bust, møter en gammel, gråhåret jotunkvinne som sitter ved ilden; i bakgrunnen ser en ung mann i enkel kappe på."
 fontes:
   - "*Eldre Edda*, *Hyndluljóð* (bevart i *Flateyjarbók*, slutten av 1300-tallet)"

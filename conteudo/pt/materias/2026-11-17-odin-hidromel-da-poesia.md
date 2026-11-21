@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/odin-hidromel.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande águia dourada voando sobre montanhas nevadas com um fio de hidromel brilhante escorrendo do bico, perseguida por outra águia escura, e ao fundo uma caverna na rocha com três grandes jarros"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, partes *Skáldskaparmál* e *Gylfaginning* (por volta de 1220)"

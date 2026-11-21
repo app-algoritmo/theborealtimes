@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/elveskud-danca.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bjørkeskog ved daggry, med en ridder i blå kappe som står ved siden av hesten foran en ring av alvepiker i lyse slør som danser over tåken; en av dem rekker ut en hånd, mens det i bakgrunnen skimtes lyset fra en liten gård."
 fontes:
   - "Svend Grundtvig (red.), *Danmarks gamle Folkeviser*, nr. 47 «Elveskud» (København, 1853 og utover)"

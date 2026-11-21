@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/jorvik-coppergate.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en smal gate i en vikingby med flettverkshus med stråtak, en håndverker som arbeider med lær ved døra, en annen som skjærer en beinkam, barn og en hund, og en elv med båter i bakgrunnen under overskyet himmel"
 fontes:
   - "*Den angelsaksiske krøniken* (innføringer for årene 866 og 867, om inntakelsen av York)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/princesa-que-ninguem-calava.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz de roupas gastas diante de uma princesa de coroa junto a uma grande lareira, com um corvo morto, um galho de salgueiro, um caco de pires, dois chifres de cabra, uma cunha e uma sola de sapato espalhados sobre uma mesa de madeira."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, \"Prinsessen som ingen kunne målbinde\" (Norske Folkeeventyr)"

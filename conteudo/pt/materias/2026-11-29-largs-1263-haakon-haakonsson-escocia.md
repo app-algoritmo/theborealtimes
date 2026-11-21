@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/largs-1263.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia escocesa com navios de proa alta encalhados entre as ondas sob um céu tempestuoso, soldados nórdicos de elmo e escudo reunidos na areia diante de uma colina onde se vê uma tropa de lanceiros, com um rei de capa vermelha ao fundo"
 fontes:
   - "Sturla Þórðarson, *Hákonar saga Hákonarsonar* (c. 1265), trad. G. W. Dasent, *Icelandic Sagas*, vol. IV (Rolls Series, 1894)"

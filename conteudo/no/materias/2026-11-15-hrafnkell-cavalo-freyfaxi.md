@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/hrafnkell-freyfaxi.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en brun hest med lys manke i en islandsk dal, en ung gjeter som prøver å ri den og en høvding i rød kappe med spyd som ser på på avstand"
 fontes:
   - "Hrafnkels saga Freysgoða (Soga om Hrafnkel Frøysgode)"

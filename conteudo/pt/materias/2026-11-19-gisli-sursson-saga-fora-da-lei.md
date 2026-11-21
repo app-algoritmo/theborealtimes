@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/gisli-foradalei.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de barba escura e capa de lã agachado numa caverna rasa à beira de um fiorde nevado, olhando por uma fresta de pedra enquanto, ao longe, cavaleiros com lanças sobem uma encosta ao crepúsculo"
 fontes:
   - "Autor desconhecido, *Saga de Gísli Súrsson* (*Gísla saga Súrssonar*, texto islandês do século XIII, em duas versões)"

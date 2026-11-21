@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/kaupang-mercado.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vikinghavn i en rolig bukt med bredskrogede skip for anker, kjøpmenn som veier sølv på en bronsevekt foran et trehenget telt, kasser, pelsverk og leirkar på en brygge, lave hus og en grønn ås i bakgrunnen"
 fontes:
   - "Dagfinn Skre (red.), *Kaupang in Skiringssal* (resultater fra utgravingene 2000–2003, Universitetet i Oslo)"

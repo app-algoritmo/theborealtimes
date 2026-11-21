@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/hervor-tumulo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma jovem guerreira de manto escuro e capacete, segurando uma tocha diante de um túmulo de pedras cercado por chamas azuis numa ilha açoitada pelo vento, com a figura pálida de um guerreiro surgindo do monte ao luar"
 fontes:
   - "Autor desconhecido, *Hervarar saga ok Heiðreks* (saga islandesa do século XIII, preservada em várias versões)"

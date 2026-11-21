@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/finnbogi-constantinopla-portao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy, bredskuldret mann i rød kappe foran en stor byport med kupler i bakgrunnen, mens en mann i rike klær rekker ham en pung; ved føttene hans ligger skinnet av en bjørn."
 fontes:
   - "Wikipedia, «Finnboga saga ramma» (handling, håndskrifter, datering, forholdet til Vatnsdæla saga)"

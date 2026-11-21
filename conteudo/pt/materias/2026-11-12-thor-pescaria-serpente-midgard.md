@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/thor-serpente.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus barbudo em um pequeno barco, em mar tempestuoso, puxando uma serpente marinha gigante com uma linha de pesca."
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, parte Gylfaginning (cerca de 1220)"

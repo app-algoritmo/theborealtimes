@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/skuldelev-navios.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um canal estreito de águas calmas num fiorde dinamarquês, visto de cima, com cinco cascos de madeira de tamanhos diferentes parcialmente submersos e carregados de pedras, enquanto numa margem arqueólogos de roupas de lã observam, e ao fundo se vê uma cidade de telhados de palha"
 fontes:
   - "Ole Crumlin-Pedersen e Olaf Olsen (orgs.), *The Skuldelev Ships I* (Viking Ship Museum / Danish National Museum, 2002)"

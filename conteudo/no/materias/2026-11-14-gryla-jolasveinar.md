@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/gryla-jolasveinar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en pukkelrygget trollkvinne med stor nese ved munningen av en snødekt hule, omgitt av tretten figurer med rød lue som titter mot et islandsk hus med torvtak og opplyst vindu"
 fontes:
   - "Islandsk folketro om Grýla, Leppalúði og juleguttene, nedtegnet i eventyrsamlinger"

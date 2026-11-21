@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/saehrimnir-o-javali-do-valhalla.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerhall med skjold på veggene, der krigere spiser ved lange bord foran en enorm dampende gryte, og en kokk rører i kjøttet fra et villsvin over bålet."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Sæhrímnir», med stedene i Grímnismál (strofe 18), Gylfaginning (kap. 38) og Skáldskaparmál"

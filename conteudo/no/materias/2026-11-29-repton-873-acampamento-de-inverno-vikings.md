@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/repton-acampamento.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en befestet leir ved en bred elv om vinteren, med en D-formet grøft, en liten steinkirke som fungerer som port, telt og båter trukket opp på bredden, hjelmkledde soldater rundt bål og lett snø på gresset"
 fontes:
   - "Martin Biddle og Birthe Kjølbye-Biddle, «Repton and the Vikings», *Antiquity* 66 (1992)"

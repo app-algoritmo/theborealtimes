@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/angrboda-giganta-jarnvidr.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma giganta de manto escuro e cabelos longos sentada no coração de uma floresta de árvores de tronco cinza metálico, com folhas que parecem lâminas; a seus pés, um lobo jovem, uma serpente enroscada e uma menina de rosto meio claro, meio sombrio; luz fria de lua entre os troncos e raízes cobertas de geada."
 fontes:
   - "Wikipedia, \"Angrboda\" (Völuspá hin skamma, Gylfaginning, Völuspá estrofes 40 e 42, Járnviðr, filhos, significado do nome, hipóteses de Salus e Taylor)"

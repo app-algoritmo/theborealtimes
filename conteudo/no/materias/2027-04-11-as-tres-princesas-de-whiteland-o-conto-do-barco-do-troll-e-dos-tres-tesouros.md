@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/as-tres-princesas-de-whiteland.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung konge som står på en vindfull hei mellom tre brødre som krangler, med en hatt, en kappe og et par støvler på bakken mellom dem og et hvitt slott i bakgrunnen."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, Norske Folkeeventyr"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/fljotsdaela-saga-fljotsdalur.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vid dal på Øst-Island, med en torvgård og en elv i bakgrunnen; i forgrunnen snakker en streng kvinne til to unge menn i kapper, og ved siden av henne ser en annen kvinne, i finere kjole, på dem med korslagte armer."
 fontes:
   - "Wikipedia, «Fljótsdæla saga» (sannsynlig datering til 1500- eller 1600-tallet, personer, handling, forholdet til Droplaugarsona saga, temaer)"

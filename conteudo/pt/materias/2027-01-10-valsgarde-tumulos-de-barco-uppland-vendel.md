@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/valsgarde-tumulos-barco-uppsala.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo de escavação arqueológica na Suécia, em dia de céu claro, com valas retangulares em solo marrom e, numa delas, o contorno escuro de um grande barco de madeira com fileiras de rebites de ferro; arqueólogos de roupas simples medem e desenham com cadernos, e ao fundo há um bosque de bétulas e uma igreja de pedra distante."
 fontes:
   - "Universidade de Uppsala, página \"Valsgärde\" do Museu Gustavianum (localização, campanhas de escavação, tipos de túmulos, achados e projeto Vikingafenomenet)"

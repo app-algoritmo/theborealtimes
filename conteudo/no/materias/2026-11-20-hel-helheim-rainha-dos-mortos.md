@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/hel-ponte.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy kvinne med halve ansiktet blekt og halve mørkeblått, foran en stor hall av mørk stein under en grå himmel, med en bro dekket av gull over en svart elv bak seg og en liten rytter som kommer"
 fontes:
   - "Snorre Sturlason, *Yngre Edda* (*Gylfaginning*, kapitlene om Hel og Hermods ferd, omkring 1220)"

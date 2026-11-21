@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/danevirke-muralha.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lang gresskledd jordvoll som krysser en grønn slette under en himmel med lave skyer, med en tregjerde på toppen, en smal port og vakter i hjelm og med runde skjold som ser på en rekke ryttere i det fjerne"
 fontes:
   - "Det frankiske rikes annaler (*Annales regni Francorum*, innførselen for år 808, om kong Godfred)"

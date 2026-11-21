@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/gestumblindi-enigmas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tømmerhall der en brunskjegget konge med sverd i hånden står foran en gammel mann i blå kappe og bredbremmet hatt, med ett øye tildekket; mellom dem et bord med et drikkehorn, og en rovfugl som slipper ut gjennom vinduet med avkuttet hale."
 fontes:
   - "*Hervarar saga ok Heiðreks*, «Gátur Gestumblinda» (håndskrift R, U og H, den siste er *Hauksbók*)"

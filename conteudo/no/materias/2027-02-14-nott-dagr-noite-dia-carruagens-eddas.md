@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/nott-dagr-carruagens.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to vogner som krysser en nordisk himmel: foran en mørk sølvvogn trukket av en hest med hvitt skum, med en kvinneskikkelse i kappe; bak den en lys gullvogn trukket av en hest med strålende manke, med en lysende ung mann; under en dugget jord."
 fontes:
   - "Wikipedia, «Nótt» (familie, hesten Hrímfaxi, kilder i Eddaene)"

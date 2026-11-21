@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/tanngrisnir-bodes-de-thor.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um carro de madeira puxado por dois bodes robustos de chifres grandes por uma encosta de rocha sob nuvens de tempestade; um deus de barba ruiva segura as rédeas, com um martelo à cintura, e as rodas soltam faíscas ao bater nas pedras."
 fontes:
   - "Verbete \"Tanngrisnir and Tanngnjóstr\", Wikipédia"

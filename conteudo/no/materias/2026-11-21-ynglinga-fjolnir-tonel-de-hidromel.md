@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/ynglinga-fjolnir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerhall om natten, med et enormt trekar fylt med gyllen væske midt i rommet, trestiger over og skikkelser av gjester i fakkelskinn og, i bakgrunnen, tre store jordhauger under en stjernehimmel"
 fontes:
   - "Snorre Sturlason, *Heimskringla* (*Ynglingesaga*, omkring 1230)"

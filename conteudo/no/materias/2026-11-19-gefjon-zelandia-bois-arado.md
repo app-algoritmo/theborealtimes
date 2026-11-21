@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/gefjon-arado.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gudinne i lys kappe som driver fire enorme okser foran en plog og skjærer en dyp fure i jorda ved et vann, mens en jordflekk løsner og glir ut i havet under en skumringshimmel"
 fontes:
   - "Snorre Sturlason, *Snorres Edda* (*Gylfaginning*, prologen til første del, omkring 1220)"

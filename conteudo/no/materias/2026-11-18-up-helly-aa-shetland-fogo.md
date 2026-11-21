@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/up-helly-aa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lang nattlig prosesjon av menn med tente fakler og norrøne kostymer, med skjold og økser, som krysser en steinbelagt gate i en liten havneby, mens et trebåt med drakehode venter i midten på å bli brent"
 fontes:
   - "Historiske studier av festivalen Up Helly Aa i Lerwick, Shetland"

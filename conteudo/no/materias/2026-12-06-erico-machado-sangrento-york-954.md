@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/erico-york.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en befestet by av stein og tre ved en elv under grå himmel, med en lysskjegget konge i rød kappe, med øks i beltet, som stiger av hesten foran en steinkirke; krigere med skjold følger ham."
 fontes:
   - "*Den angelsaksiske krøniken*, håndskrift D og E, årene 947–954 (overs. Michael Swanton, *The Anglo-Saxon Chronicles*, Phoenix, 2000)"

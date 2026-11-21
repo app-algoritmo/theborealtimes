@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/ladby-navio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma escavação num campo dinamarquês onde aparece o contorno escuro de um grande navio na terra, com fileiras de rebites de ferro enferrujados formando a silhueta de proa e popa, esqueletos de cavalos e cães ao redor e arqueólogos de pé com pás e pincéis"
 fontes:
   - "Poul Helweg Mikkelsen, relatórios da escavação do navio de Ladby, 1935 (Museu Nacional da Dinamarca)"

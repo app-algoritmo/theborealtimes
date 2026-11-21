@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/dovrefjell-trolls-e-urso.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enkel fjellhytte på julekvelden, med et dekket bord og troll med lange neser og ulike haler rundt det; et lite troll rekker en pølse på en gaffel mot en stor hvitbjørn som løfter hodet under ovnen."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, Norske Folkeeventyr (1852), engelsk oversettelse av George Webbe Dasent, Popular Tales from the Norse (1859)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/hymir-caldeirao-thor.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en iskald jotunhall, der en rødhåret, muskuløs gud med tykt skjegg løfter en enorm kjel over hodet, med hankene dunkende mot hælene, mens en jotun med isbelagt skjegg og en gammel kvinne med mange hoder ser på i bakgrunnen."
 fontes:
   - "*Eldre Edda*, *Hymiskviða* (Codex Regius, ca. 1270)"

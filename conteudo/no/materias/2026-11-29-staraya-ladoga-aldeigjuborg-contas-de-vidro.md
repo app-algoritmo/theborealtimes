@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/ladoga-contas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bosetning med trehus ved en bred elv i Nord-Russland, med grunne båter trukket opp på bredden, kjøpmenn som bytter pelsverk og sølv, og i et åpent verksted en håndverker som lager fargede glassperler over en flamme, under en klar sommerhimmel"
 fontes:
   - "Jonathan Shepard og Simon Franklin, *The Emergence of Rus, 750–1200* (Longman, 1996)"

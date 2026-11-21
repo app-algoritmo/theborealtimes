@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/volund-ferreiro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en langhåret mørk smed på en liten steinete øy, med en steinsmie og verktøy ved siden av seg, som fester vinger av mørke fjær på armene mens solen går ned over havet"
 fontes:
   - "Ukjent forfatter, *Volundarkvida*, i *Den eldre Edda* (dikt bevart i et håndskrift fra 1200-tallet)"

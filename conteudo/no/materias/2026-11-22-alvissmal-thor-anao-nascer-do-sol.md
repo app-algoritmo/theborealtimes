@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/alvissmal-anao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en steinhall om natten, med en enorm rødskjegget gud med hammer i beltet som sitter ved et bord, overfor en blek dverg i mørk kappe som gestikulerer; gjennom den åpne døren kommer de første gylne strålene fra daggry"
 fontes:
   - "*Alvíssmál*, i *Eldre Edda* (Codex Regius, ca. 1270)"

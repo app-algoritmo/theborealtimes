@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/jord-a-terra-mae-de-thor.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm, rolig kvinne som ligger som et landskap dekket av gress og blomster, med fjell ved skuldrene, og en ung rødskjegget kriger med hammer ved siden av henne som ser på henne."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Jörð», med stedene i Gylfaginning, Skáldskaparmál, Völuspá, Lokasenna og Hárbarðsljóð"

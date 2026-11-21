@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/asgardsreia-cacada-selvagem.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vinternatt over en norsk dal med snøstorm, hvor en horde ryttere i flaksende kapper krysser himmelen på bleke hester, med enorme hunder løpende foran og en langhåret kvinne i spissen for flokken; nede en gård med lys i vinduene og en bonde stående i døråpningen og se opp."
 fontes:
   - "Wikipedia, «Wild Hunt» (skandinaviske former, eldste belegg, Grimms tese, forskningsdebatt)"

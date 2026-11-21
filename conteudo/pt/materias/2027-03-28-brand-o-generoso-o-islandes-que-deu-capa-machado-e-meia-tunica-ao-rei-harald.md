@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/brand-o-generoso-tres-pedidos.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de madeira em Nidaros, com um islandês de pé diante do rei Harald, rasgando a manga de uma túnica vermelha e jogando o resto fora, enquanto um poeta ao lado observa; uma capa e um machado com ouro embutido estão sobre o banco."
 fontes:
   - "Brands þáttr örva (\"O conto de Brand, o Generoso\"), tradução de Eiður Eyþórsson para We Vikings, com base na Morkinskinna (GKS 1009 fol.), Hulda (AM 66 fol.) e Hrokkinskinna (GKS 1010 fol.), edição de Einar Ól. Sveinsson, Íslenzk fornrit IV"

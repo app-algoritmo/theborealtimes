@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/hardar-saga-holmverja-ilhota.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma pequena ilhota rochosa num fiorde islandês sob um céu cinzento, com um grupo de homens armados de capas escuras em volta de uma fogueira entre pedras e uma casa de turfa; na água, uma mulher e dois meninos nadam em direção à margem, enquanto no continente fazendeiros observam, escondidos atrás de uma cerca de pedra."
 fontes:
   - "Wikipedia, \"Harðar saga ok Hólmverja\" (manuscritos, ambientação, enredo, Geirshólmr, Hvalfjörður, Hǫrðr Grímkelsson, Helga Haraldsdóttir, Torfi, Kjartan Kǫtluson)"

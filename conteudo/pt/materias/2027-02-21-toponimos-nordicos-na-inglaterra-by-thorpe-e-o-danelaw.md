@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/toponimos-danelaw-mapa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um mapa antigo da costa leste da Inglaterra, com pequenos círculos marcando povoados e, ao lado de cada um, um nome terminando em -by, -thorpe ou -thwaite escrito à mão; ao redor do mapa, ondas e um navio de proa alta."
 fontes:
   - "viking.no, texto sobre topônimos escandinavos na Inglaterra (elementos, Danelaw, concentração em Lincolnshire)"

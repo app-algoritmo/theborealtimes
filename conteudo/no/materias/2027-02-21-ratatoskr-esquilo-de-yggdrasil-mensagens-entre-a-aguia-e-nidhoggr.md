@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/ratatoskr-esquilo-yggdrasil.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et stort asketre med enorme røtter og, på stammen, et lite ekorn med lange tenner som løper oppover; øverst i kronen en ørn med et våkent blikk og en hauk mellom øynene og, mellom røttene, skyggen av en drage."
 fontes:
   - "Wikipedia, «Ratatoskr» (Grímnismál, Gylfaginning kap. 16, etymologi, tolkninger av Simek, Davidson, Lindow og andre)"

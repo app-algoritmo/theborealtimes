@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/eketorp-forte-circular.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração vista de cima de um forte circular de pedra numa planície plana junto a um lago, com um muro redondo grosso e dezenas de pequenas construções de pedra e madeira dentro do anel, uma porta ao norte e pessoas em roupas de lã trabalhando no pátio."
 fontes:
   - "Wikipedia, \"Eketorp\" (local, fases, medidas, achados, escavação, teorias de uso, reconstrução)"

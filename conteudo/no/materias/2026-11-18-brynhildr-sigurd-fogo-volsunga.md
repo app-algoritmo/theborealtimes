@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/brynhildr-fogo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i lys rustning som sover på en steinete høyde, omgitt av en ring av høye flammer og en skjoldborg, mens en rytter i blå kappe med sverd i hånden nærmer seg til hest gjennom ilden"
 fontes:
   - "Ukjent forfatter, *Volsungesaga* (1200-tallet)"

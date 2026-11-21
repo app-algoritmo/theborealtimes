@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/valravn-corvo-cavaleiro-dinamarca.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en dansk slagmark ved daggry, med lav tåke og falne spyd i gresset, der en enorm svart ravn med menneskeøyne sitter på rustningen til en falt ridder; i bakgrunnen en teglsteinsborg i silhuett, en flokk vanlige ravner på den bleke himmelen og en løs hest som står langt unna."
 fontes:
   - "Wikipedia, «Valravn» (balladen «Valravnen», Jens Bille 1555-1559, Evald Tang Kristensen 1893, Svend Grundtvig 1856, Jacob Grimm)"

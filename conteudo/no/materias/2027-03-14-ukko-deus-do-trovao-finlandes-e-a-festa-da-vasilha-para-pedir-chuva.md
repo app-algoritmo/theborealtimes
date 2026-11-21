@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/ukko-deus-do-trovao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en svært gammel mann med langt skjegg og mørkeblå kappe som sitter på en tordensky og løfter en hammer; under ham byggåkre i regn og, ved kanten av en lund, folk som bærer et trekar."
 fontes:
   - "Mikael Agricola, forord til Dauidin Psaltari (1551)"

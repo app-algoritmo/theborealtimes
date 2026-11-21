@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/aggersborg-a-fortaleza-circular.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração aérea de um grande círculo de aterro e vala numa planície junto a um fiorde, dividido em quatro quadrantes por duas ruas em cruz, com casas longas de madeira alinhadas dentro de cada quarto e barcos no fiorde ao fundo."
 fontes:
   - "Wikipédia em inglês, artigo \"Aggersborg\""

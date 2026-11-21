@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/sverre-rei.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelaldrende mann med kort skjegg og fast blikk, i enkel kappe og med en liten krone, stående foran en rekke soldater med trebokkler og støvler pakket inn i never, på en kald høyde med fjorder i bakgrunnen"
 fontes:
   - "*Sverris saga*, utg. Gustav Indrebø (Det Norske Historiske Kildeskriftfond, 1920)"

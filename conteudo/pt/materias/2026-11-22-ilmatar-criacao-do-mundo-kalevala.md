@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/ilmatar-criacao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de longos cabelos claros flutuando de costas num mar calmo e enorme sob um céu cinzento, com um joelho erguido sobre a água onde pousa uma pequena ave de bico escuro, e do alto caem ovos que se partem em luz, formando o sol, a lua e as estrelas"
 fontes:
   - "Elias Lönnrot, *Kalevala* (edição de 1849, canto 1), trad. Keith Bosley (Oxford World's Classics, 1989)"

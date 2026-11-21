@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/tanngrisnir-bodes-de-thor.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trevogn trukket av to kraftige bukker med store horn opp en bratt fjellside under stormskyer; en rødskjegget gud holder tømmene med en hammer i beltet, og hjulene slår gnister mot steinene."
 fontes:
   - "Wikipedia-artikkelen «Tanngrisnir and Tanngnjóstr»"

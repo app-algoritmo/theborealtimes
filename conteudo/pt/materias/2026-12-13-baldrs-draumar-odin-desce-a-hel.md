@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/baldr-sonhos-hel.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cavaleiro de capa azul e chapéu largo, montado num cavalo cinzento de oito patas, diante de uma sepultura aberta numa colina nevada, de onde se ergue uma mulher pálida de olhos fundos; ao fundo, um cão escuro de peito manchado de vermelho e um salão com bancos enfeitados."
 fontes:
   - "*Edda Poética*, *Baldrs draumar* (manuscrito AM 748 I 4to)"

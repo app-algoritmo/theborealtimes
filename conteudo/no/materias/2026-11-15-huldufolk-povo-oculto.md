@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/huldufolk-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor mosegrodd lavastein på en islandsk mark, med en liten glødende dør ved foten og en asfaltvei som svinger for å gå utenom"
 fontes:
   - "Meningsmålinger fra Islands universitet (2007) og avisen DV (1998)"

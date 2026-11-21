@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/ahkka-deusas-sami-parto.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma tenda sámi de turfa, goahti, numa noite de inverno com um fogo no centro, uma mulher em trabalho de parto deitada sobre peles de rena e uma parteira ao lado; três figuras femininas translúcidas pairam ao redor, uma junto ao fogo, outra com um pequeno arco e a terceira junto à porta, e do lado de fora renas e neve sob uma aurora boreal."
 fontes:
   - "Wikipedia, \"Máttaráhkká\" (nome, filhas, Ganander 1789, Virgem Maria, Krohn)"

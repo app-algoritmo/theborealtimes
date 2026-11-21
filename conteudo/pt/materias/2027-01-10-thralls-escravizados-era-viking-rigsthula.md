@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/thralls-escravizados-era-viking.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma fazenda nórdica no começo da manhã, com uma casa longa de turfa e madeira, onde uma mulher ordenha uma vaca num curral e um homem de túnica simples conduz um pequeno rebanho de ovelhas pela encosta úmida; ao longe, um homem de capa azul observa da porta da casa, e há nuvens baixas sobre um fiorde."
 fontes:
   - "Wikipedia, \"Thrall\" (definição e ordem social segundo a Rígsþula, origens, trabalho, libertação, leysingi, fim da escravidão)"

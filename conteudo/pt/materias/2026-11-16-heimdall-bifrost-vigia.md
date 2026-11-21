@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/heimdall-bifrost.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro de armadura clara no alto de uma fortaleza de rocha, segurando um grande chifre, ao lado de uma ponte em arco-íris que cruza o céu sobre um vale de nuvens"
 fontes:
   - "Völuspá, Völuspá hin skamma e Rígsþula (Edda Poética)"

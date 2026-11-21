@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/bjarnar-saga-poetas-rivais.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to menn i kappe på hver sin side av en steinete strand på Snæfellsnes, med isbreen bak, og en kvinne med slør mellom dem som ser på fra et torvhus; på bakken et trebrett med risset tegn, under en vinterhimmel."
 fontes:
   - "Wikipedia, «Bjarnar saga Hítdœlakappa» (handling, personer, håndskrifter)"

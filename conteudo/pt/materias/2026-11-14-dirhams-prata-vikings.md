@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/dirhams-prata.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um mercador nórdico numa tenda, com uma pequena balança de pratos sobre um pano, moedas de prata cortadas em pedaços e pesos de bronze, e ao fundo barcos numa margem de rio"
 fontes:
   - "Achados de tesouros de prata dos séculos IX e X na Escandinávia e no Báltico, estudados por numismatas"

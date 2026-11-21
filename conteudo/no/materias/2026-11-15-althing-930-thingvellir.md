@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/althing-thingvellir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en menneskemengde av islandske høvdinger i kapper samlet i en lavadal, foran en hevet stein der en mann står og resiterer, under en klar sommerhimmel"
 fontes:
   - "Oppslag i leksika og fra nasjonalparken Þingvellir om Alltinget"

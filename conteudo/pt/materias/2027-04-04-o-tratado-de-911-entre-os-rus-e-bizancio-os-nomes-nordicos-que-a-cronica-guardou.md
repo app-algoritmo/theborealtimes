@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/tratado-de-911-rus-bizancio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de pedra num salão de colunas em Constantinopla, com um pergaminho aberto e um selo de cera, de um lado dois homens louros de capa e barba trançada, do outro dois funcionários bizantinos de túnica comprida, sob uma lâmpada a óleo."
 fontes:
   - "Crônica Primária (Povest vremennykh let), texto do tratado sob o ano de 911"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/aesir-vanir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to grupper guder som står mot hverandre på en slette under en stormfull himmel, krigere med hjelm og spyd på den ene siden, skikkelser i grønne og gylne kapper på den andre, med en knust steinmur imellom og to gisler på vei over til hver sin side"
 fontes:
   - "Ukjent forfatter, *Den eldre Edda* (*Voluspå*, strofe 21 til 24, håndskrifter fra 1200-tallet)"

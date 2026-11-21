@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/vardoger-passos-na-escada.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma casa de madeira à noite, com uma mulher parada diante da porta de entrada ouvindo, enquanto uma figura pálida e transparente de um homem sobe os degraus; ao fundo, na estrada, o homem verdadeiro ainda caminha com uma lanterna."
 fontes:
   - "Anne-Sofie Schjøtner Skaar, \"vardøger\", Store norske leksikon (snl.no), atualizado em 8 de junho de 2026"

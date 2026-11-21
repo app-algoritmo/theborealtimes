@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/osborn-flauta-e-lebres.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz de camisa de lã sentado numa colina tocando uma flauta de madeira, cercado de dezenas de lebres que se reúnem ao redor dele; ao longe, o castelo do rei e uma princesa na torre observando."
 fontes:
   - "Peter Christen Asbjørnsen, Tales from the Fjeld, tradução de George Webbe Dasent, conto \"Osborn's Pipe\" (Projeto Gutenberg, ebook 36385)"

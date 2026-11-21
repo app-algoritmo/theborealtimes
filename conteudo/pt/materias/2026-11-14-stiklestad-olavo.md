@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/stiklestad-olavo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de manto e coroa, apoiado numa grande pedra e rodeado de guerreiros com escudos e lanças num campo de batalha, sob um céu em que o sol está quase totalmente coberto e a luz é avermelhada"
 fontes:
   - "Snorri Sturluson, *Heimskringla*, a saga do rei Olavo, o Santo (cerca de 1230)"

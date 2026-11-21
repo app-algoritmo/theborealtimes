@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/garmr-cao-hel-gnipahellir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm svart hund med blodrød bryst og snute, bundet med en tykk lenke foran munningen av en steinhule, på et vindpisket stup, med hodet hevet og gapet åpent i et uling; bak den en himmel med lave skyer og et rødlig skjær ved horisonten."
 fontes:
   - "Wikipedia, «Garmr» (Grímnismál, Völuspá, Baldrs draumar, Gylfaginning; Fenrir; Kerberos; etymologi)"

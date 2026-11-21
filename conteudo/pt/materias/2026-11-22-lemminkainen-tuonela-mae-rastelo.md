@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/lemminkainen-rio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rio escuro e largo sob um céu sem estrelas, onde uma mulher idosa de lenço e vestido simples, de pé na margem, arrasta com um enorme ancinho de ferro as águas, trazendo para fora pedaços de um corpo, enquanto um cisne negro flutua ao longe e uma abelha dourada voa para o alto"
 fontes:
   - "Elias Lönnrot, *Kalevala* (edição de 1849, cantos 14 e 15), trad. Keith Bosley (Oxford World's Classics, 1989)"

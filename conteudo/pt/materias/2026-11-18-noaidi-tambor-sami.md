@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/noaidi-tambor.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem sámi de gorro azul e túnica com bordas vermelhas, sentado numa tenda de lona diante de uma pequena fogueira, batendo com um martelo de osso num tambor oval de pele cheia de figuras pintadas, enquanto um anel de latão salta sobre elas"
 fontes:
   - "Johannes Schefferus, *Lapponia* (1673)"

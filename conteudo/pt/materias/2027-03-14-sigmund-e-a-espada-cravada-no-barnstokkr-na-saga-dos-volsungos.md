@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/sigmund-espada-no-tronco.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira com fogueiras ao longo do chão e uma árvore enorme no centro, cujos galhos atravessam o teto; um homem jovem puxa uma espada cravada no tronco enquanto, ao fundo, um velho de chapéu de aba caída e manto manchado sai pela porta."
 fontes:
   - "Saga dos Volsungos, capítulo 3 (tradução inglesa de William Morris e Eiríkr Magnússon, 1870)"

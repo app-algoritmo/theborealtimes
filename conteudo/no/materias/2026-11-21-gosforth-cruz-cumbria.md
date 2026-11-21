@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/gosforth-cruz.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et høyt rødt steinkors på en engelsk landsbykirkegård, dekket av flettverk og utskårne skikkelser, med en steinkirke i bakgrunnen, grønne åser og en overskyet himmel, og en mannsskikkelse på steinen som tråkker på munnen til en ulv"
 fontes:
   - "Richard N. Bailey, *Viking Age Sculpture in Northern England* (Collins, 1980)"

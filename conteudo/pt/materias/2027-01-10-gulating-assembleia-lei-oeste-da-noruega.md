@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/gulating-assembleia-oeste-noruega.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma assembleia ao ar livre numa baía do oeste da Noruega, com dezenas de homens de capas coloridas reunidos em semicírculo numa campina junto a um fiorde, tendas de lona listrada, um orador de pé sobre uma pedra e um homem escrevendo num pergaminho; barcos de madeira atracados na praia, montanhas ao fundo e céu claro."
 fontes:
   - "Wikipedia, \"Gulating\" (local, período, Hákon, o Bom, Gulatingslova antiga e nova, Magnus Lagabøte, manuscritos, multa de homicídio)"

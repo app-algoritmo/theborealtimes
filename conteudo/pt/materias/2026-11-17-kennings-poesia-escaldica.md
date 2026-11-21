@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/kennings-escaldo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um poeta de barba castanha e capa vermelha de pé num salão de madeira diante de um rei sentado, declamando, com símbolos flutuando no ar: um cavalo de ondas, uma cabeleira dourada e um corvo"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, parte *Skáldskaparmál* (por volta de 1220)"

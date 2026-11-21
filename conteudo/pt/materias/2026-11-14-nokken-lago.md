@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/nokken-lago.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um lago escuro ao entardecer, com nenúfares e um homem pálido de cabelo verde tocando violino na beira da água, e um cavalo branco de crina molhada ao fundo"
 fontes:
   - "Coletas de folclore norueguês e sueco dos séculos XIX e XX sobre o nøkken e o näcken"

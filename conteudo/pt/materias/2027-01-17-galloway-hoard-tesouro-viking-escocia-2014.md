@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/galloway-hoard-tesouro-escocia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo verde de pastagem na Escócia com um homem agachado junto a um detector de metais, tirando da terra um pesado bracelete de prata; ao lado, uma pequena vala funda mostra um vaso de prata cinzelado envolto em pano, com uma tampa, e, ao fundo, colinas baixas e nuvens de chuva sobre uma igreja de pedra."
 fontes:
   - "Wikipedia, \"Galloway Hoard\" (achado em 2014, conteúdo, vaso da Ásia Ocidental, aquisição em 2017, perguntas em aberto)"

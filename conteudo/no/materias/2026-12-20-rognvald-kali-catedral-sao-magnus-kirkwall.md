@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/rognvald-kirkwall-catedral.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en katedral i rød og gul sandstein som reises i en liten havneby på Orknøyene, med stillaser av tre, steinhoggere og steinkjerrer; i forgrunnen en adelsmann i mørk kappe og lyst hår som følger arbeidet med et pergament i hånden, og i bakgrunnen det grå havet med seilbåter."
 fontes:
   - "Wikipedia, «Rögnvald Kali Kolsson» (liv, Orknøyene, katedral, pilegrimsreise og død)"

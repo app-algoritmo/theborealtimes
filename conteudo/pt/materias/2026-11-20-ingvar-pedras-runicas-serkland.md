@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/ingvar-pedra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande pedra rúnica cinzenta num prado sueco ao entardecer, coberta de runas e de uma serpente entalhada, com uma mulher de lenço e vestido azul ajoelhada diante dela, e ao fundo um fiorde com um navio de guerra partindo"
 fontes:
   - "Autor desconhecido, *Yngvars saga víðförla* (saga islandesa, século XIII)"

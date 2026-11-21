@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/jolakotturinn-gato.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um enorme gato preto de olhos amarelos rondando uma fazenda de turfa nevada à noite, com uma janela acesa onde uma família veste suéteres de lã novos, e uma criança sem roupa de pé do lado de fora, sob uma aurora esverdeada"
 fontes:
   - "Jón Árnason (org.), *Íslenzkar þjóðsögur og æfintýri* (1862–1864)"

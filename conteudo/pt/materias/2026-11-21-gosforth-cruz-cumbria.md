@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/gosforth-cruz.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma alta cruz de pedra vermelha num cemitério de aldeia inglesa, coberta de entrelaçados e figuras entalhadas, com uma igreja de pedra ao fundo, colinas verdes e um céu nublado, e uma figura de homem na pedra pisando sobre a boca de um lobo"
 fontes:
   - "Richard N. Bailey, *Viking Age Sculpture in Northern England* (Collins, 1980)"

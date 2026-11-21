@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/draugen-nevoa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma figura sombria de capa de chuva molhada num barco partido ao meio, em meio a neblina densa sobre o mar escuro, com uma lanterna fraca e um pequeno barco de pesca ao fundo"
 fontes:
   - "Coletas de folclore norueguês do século XIX, como as de Peter Christen Asbjørnsen e Rikard Berge"

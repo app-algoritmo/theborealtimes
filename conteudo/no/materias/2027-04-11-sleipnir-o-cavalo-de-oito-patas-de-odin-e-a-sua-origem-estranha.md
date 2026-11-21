@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/sleipnir-cavalo-de-oito-patas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en grå åttebeinet hest i galopp langs en snødekt vei under en mørk himmel, med en rytter i kappe og bredbremmet hatt og en steinport i bakgrunnen."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 15, 41, 42 og 49)"

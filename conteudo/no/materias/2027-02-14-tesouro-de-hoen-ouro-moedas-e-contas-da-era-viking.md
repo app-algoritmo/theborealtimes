@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/tesouro-de-hoen-joias.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et museumsbord med et halsbånd av små fargede glassperler, sølvmynter med arabisk preg, et trelappet gullspenne og en bysantinsk medaljong, under mykt lys; i bakgrunnen viser et vindu en norsk dal med en elv og en gård."
 fontes:
   - "Wikipedia, «Hoen treasure» (funn, skjulested under krigen, telling, museum)"

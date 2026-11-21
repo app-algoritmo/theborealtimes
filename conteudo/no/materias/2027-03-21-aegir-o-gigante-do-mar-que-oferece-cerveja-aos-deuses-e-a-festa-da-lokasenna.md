@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/aegir-gigante-do-mar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn festsal opplyst av gull, med guder som sitter på trebenker, en høy skikkelse med havgrønt skjegg som skjenker øl fra en enorm kjele, og gjennom vinduet bølger som slår mot en klippeøy."
 fontes:
   - "Den eldre Edda, Lokasenna, Hymiskvida og Grímnismál"

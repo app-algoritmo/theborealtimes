@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/kormaks-saga-poeta-islandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um poeta islandês de barba curta, em manto cinza, de pé numa praia de seixos escuros à beira de um fiorde, olhando para uma casa de turfa onde uma jovem de vestido azul está à porta; atrás dele, o barco que o trouxe tarde demais; céu cinzento de fim de tarde, ondas baixas e gaivotas."
 fontes:
   - "Wikipedia, \"Kormáks saga\" (enredo, lausavísur, autoria, datação, manuscrito Möðruvallabók; apoia-se em Íslenzk fornrit VIII, Hollander, Viðar Hreinsson, Collingwood e Stefánsson, Poole e Wilson)"

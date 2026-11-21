@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/papar-monges-costa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma costa islandesa de basalto negro e musgo verde, com uma pequena ilha ao largo, a ruína de uma cabana de pedra baixa e três figuras de manto escuro e cruz de madeira junto a um barco de couro; no céu, nuvens baixas e uma faixa de luz."
 fontes:
   - "Wikipedia, \"Papar\" (Íslendingabók, Landnámabók, topônimos, outras fontes)"

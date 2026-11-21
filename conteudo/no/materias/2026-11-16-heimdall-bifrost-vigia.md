@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/heimdall-bifrost.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kriger i lys rustning på en høy klippefestning med et stort horn, ved siden av en regnbuebro som krysser himmelen over en dal av skyer"
 fontes:
   - "Völuspá, Völuspá hin skamma og Rígsþula (Den eldre Edda)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/idun-macas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gudinne som holder en eske med gylne epler i en hage i skumringen, med en kjempeørn som flyr over."
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delene Gylfaginning og Skáldskaparmál (ca. 1220)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/ingolfr-pilares.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en nordisk høvding med rødt skjegg i baugen på et treskip som kaster to store utskårne stolper på sjøen foran en islandsk kyst med svarte fjell og damp som stiger fra bakken"
 fontes:
   - "Ukjent forfatter, *Landnámabók*, landnåmsboken (1100- til 1300-tallet, i flere versjoner)"

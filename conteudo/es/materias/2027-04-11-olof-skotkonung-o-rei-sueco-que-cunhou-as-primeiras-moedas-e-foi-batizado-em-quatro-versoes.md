@@ -6,7 +6,7 @@ natureza: "Historia documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/olof-skotkonung-rei-de-sigtuna.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un rey con corona sencilla y capa roja de pie en una colina de Uppsala, con una asamblea de hombres alrededor, y una gran moneda de plata con un busto en primer plano."
 fontes:
   - "Wikipedia en inglés, artículo «Olof Skötkonung», que resume a Adán de Bremen, la Heimskringla de Snorri y otras fuentes"

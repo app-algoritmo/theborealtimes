@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/skadi-pes.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher alta de armadura e esquis, sobre a neve, diante de uma fileira de deuses escondidos atrás de uma cortina de pele, da qual só aparecem os pés descalços, e de um deles banhado de espuma do mar"
 fontes:
   - "Gylfaginning, capítulo 23 (Edda em Prosa, de Snorri Sturluson)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/jolakotturinn-gato.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en diger svart katt med gule øyne som lusker rundt en snødekt torvgård om natten, med et opplyst vindu der en familie har på seg nye ullgensere, og et barn uten nye klær som står utenfor, under et grønnlig nordlys"
 fontes:
   - "Jón Árnason (red.), *Íslenzkar þjóðsögur og æfintýri* (1862–1864)"

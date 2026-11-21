@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/kroka-ref-fortaleza-navio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de capa curta diante de uma fortaleza de pedras e toras numa colina junto ao mar, com um navio de proa alta ancorado na baía e uma bandeira ao vento no alto do muro, sob um céu de nuvens baixas."
 fontes:
   - "Wikipedia, \"Króka-Refs saga\" (enredo, datação, manuscritos, rímur)"

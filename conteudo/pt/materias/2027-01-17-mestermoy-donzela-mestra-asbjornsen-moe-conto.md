@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/mestermoy-donzela-mestra-conto.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um estábulo de madeira imenso e sujo, num cenário de conto norueguês, com uma jovem de lenço na cabeça e saia vermelha segurando uma vassoura de ramos ao lado de um príncipe de casaco azul que olha para o monte de esterco; pela porta, ao fundo, vê-se a sombra de um gigante grande de barba escura sobre uma floresta de abetos."
 fontes:
   - "Wikipedia, \"The Master Maid\" (Norske Folkeeventyr, Anne Godlid, tipo ATU 313, enredo, variantes, traduções de Dasent e Lang)"

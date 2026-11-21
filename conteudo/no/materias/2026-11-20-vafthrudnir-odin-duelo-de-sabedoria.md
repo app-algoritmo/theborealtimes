@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/vafthrudnir-duelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en reisende i bredbremmet hatt og blå kappe som sitter foran en gråskjegget jotun i en steinhall lyst opp av et bål, med et brett av hvite og svarte steiner mellom dem og runer risset i veggen"
 fontes:
   - "Ukjent forfatter, *Eldre Edda* (*Vaftrudnismål*, håndskriftet Codex Regius, omkring 1270)"

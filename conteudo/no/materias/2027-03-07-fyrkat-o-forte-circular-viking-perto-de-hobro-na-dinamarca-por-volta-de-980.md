@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/fyrkat-forte-circular.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Flyfoto av en sirkelrund borg av jord og tre omgitt av grønne marker, med to plankeveier i kryss som deler sirkelen i fire deler, hver med fire langhus satt i kvadrat; i bakgrunnen en rolig fjord i skumringen."
 fontes:
   - "Wikipedia-artikkelen «Fyrkat»"

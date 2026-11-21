@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/gryla-jolasveinar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma troll corcunda de nariz grande à porta de uma caverna nevada, cercada por treze figuras de gorro vermelho que espiam uma casa islandesa de telhado de turfa, com a janela acesa"
 fontes:
   - "Folclore islandês sobre Grýla, Leppalúði e os Jólasveinar, registrado em coleções de contos"

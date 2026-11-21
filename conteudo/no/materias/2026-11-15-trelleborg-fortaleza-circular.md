@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/trelleborg-anel.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Luftillustrasjon av en rund vikingfestning av jord og palisade, med fire porter i kors og langhus ordnet i firkanter, omgitt av grønne marker i Danmark"
 fontes:
   - "Danmarks Nationalmuseum, utgravninger og årringdatering ved Trelleborg"

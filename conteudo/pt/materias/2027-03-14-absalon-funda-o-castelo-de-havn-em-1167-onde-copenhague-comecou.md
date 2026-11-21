@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/absalon-castelo-de-havn.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pequeno castelo de pedra calcária numa ilha baixa junto a um estreito cinzento, com um navio de madeira descarregando grandes blocos no cais e um bispo de capa escura apontando para a muralha em construção; barcos de pesca ao fundo."
 fontes:
   - "Saxo Gramático, Gesta Danorum (por volta de 1200)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/ullr-esquis-arco-teixo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en dal med barlind under snø i skumringen, hvor en kortskjegget gud på lange, smale ski holder en stor bue av barlind; ved siden av ham et rundt skjold som hviler på isen som om det var en båt, og langt borte en tømmerhall med lys i vinduet og en rad fotspor i snøen."
 fontes:
   - "Wikipedia, «Ullr» (etymologi, belegg, stedsnavn, teorier)"

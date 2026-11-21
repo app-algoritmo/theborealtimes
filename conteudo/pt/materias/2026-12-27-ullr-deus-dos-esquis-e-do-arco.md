@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/ullr-esquis-arco-teixo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale de teixos sob neve ao entardecer, onde um deus de barba curta, de pé sobre esquis longos e estreitos, segura um grande arco de teixo; ao lado dele, um escudo redondo apoiado no gelo como se fosse um barco, e, ao longe, um salão de madeira com a luz acesa e uma fileira de pegadas na neve."
 fontes:
   - "Wikipedia, \"Ullr\" (etimologia, atestações, topônimos, teorias)"
