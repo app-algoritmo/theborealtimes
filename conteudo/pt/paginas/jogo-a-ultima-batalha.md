@@ -23,4 +23,4 @@ Lobos e gigantes avançam pelos dois lados. Toque na metade esquerda ou direita 
 
 ## A história por trás
 
-Na Völuspá e na Edda em Prosa de Snorri, o Ragnarök é a batalha final em que muitos deuses morrem e o mundo é destruído e depois renasce. O amanhecer vitorioso do jogo é invenção. Leia a história em [Ragnarök: como os poemas nórdicos contam o fim do mundo, e o que vem depois dele](/2026/11/14/ragnarok-fim-do-mundo/).
+Na Völuspá e na Edda em Prosa de Snorri, o Ragnarök é a batalha final em que muitos deuses morrem e o mundo é destruído e depois renasce. O amanhecer vitorioso do jogo é invenção. Leia a história em [Ragnarök: como os poemas nórdicos contam o fim do mundo, e o que vem depois dele](/pt/ragnarok-fim-do-mundo/).

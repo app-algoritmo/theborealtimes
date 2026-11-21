@@ -23,4 +23,4 @@ The skogsrå, the lady of the forest, tests your knowledge. Eight questions abou
 
 ## The story behind it
 
-The skogsrå appears in Swedish folklore. The questions and answers summarise popular traditions. Read the story in [Skogsrå: the lady of the Swedish forest, who gives luck to hunters and leads charcoal burners into the woods](/en/2026/11/19/skogsra-senhora-da-floresta-suecia/).
+The skogsrå appears in Swedish folklore. The questions and answers summarise popular traditions. Read the story in [Skogsrå: the lady of the Swedish forest, who gives luck to hunters and leads charcoal burners into the woods](/skogsra-the-lady-of-the-swedish-forest-who-gives-luck/).

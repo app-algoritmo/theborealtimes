@@ -23,4 +23,4 @@ Tap a square to change the number, which is the height of a banner. Each row and
 
 ## The story behind it
 
-At the Battle of Fulford, on 20 September 1066, south of York, Harald Hardrada and Tostig defeated the earls Edwin and Morcar. Stamford Bridge followed. Counting visible banners is invented. Read the story in [The Battle of Fulford, 1066: Harald Hardrada and Tostig against the earls of northern England](/en/2027/01/31/batalha-de-fulford-1066-hardrada-york/).
+At the Battle of Fulford, on 20 September 1066, south of York, Harald Hardrada and Tostig defeated the earls Edwin and Morcar. Stamford Bridge followed. Counting visible banners is invented. Read the story in [The Battle of Fulford, 1066: Harald Hardrada and Tostig against the earls of northern England](/the-battle-of-fulford-1066-harald-hardrada-and-tostig/).

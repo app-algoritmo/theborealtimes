@@ -43,4 +43,4 @@ Scholars suggest that Hiisi's evil side grew stronger after Christianization, in
 
 The article marks the link with cemeteries as more recent speculation. It says that the original meanings may have been lost after Christianization and that some folklore claims need a citation. According to it, the distinctions between early and late meanings rest on interpretation of limited evidence. There is also a letter by Cajanus (1674) that calls Hiisi a son of Kaleva, with no further detail.
 
-To plant a numbered grove without repeating a single tree, play [Hiisi's grove](/en/game-hiisis-grove/).
+To plant a numbered grove without repeating a single tree, play [Hiisi's grove](/game-hiisis-grove/).

@@ -23,4 +23,4 @@ Três bolos assam ao mesmo tempo. Toque em cada um quando a barra estiver na zon
 
 ## A história por trás
 
-A lenda dos bolos queimados aparece só em textos tardios, e não nos mais antigos sobre Alfredo. O jogo é invenção. Leia a história em [Alfredo, o Grande, o rei que perdeu tudo e venceu em Edington — e os bolos queimados](/2026/11/16/alfredo-edington-bolos/).
+A lenda dos bolos queimados aparece só em textos tardios, e não nos mais antigos sobre Alfredo. O jogo é invenção. Leia a história em [Alfredo, o Grande, o rei que perdeu tudo e venceu em Edington — e os bolos queimados](/pt/alfredo-edington-bolos/).

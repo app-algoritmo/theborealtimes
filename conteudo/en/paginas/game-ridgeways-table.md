@@ -23,4 +23,4 @@ Fill the grid with two symbols (tap to cycle: empty → ◯ → ●). Rules: nev
 
 ## The story behind it
 
-At Ridgeway Hill (Dorset), a mass grave from the Viking age was found. The symbol puzzle is made up. Read the story in [Ridgeway Hill: the Dorset mass grave and what the teeth tell](/en/2026/11/29/ridgeway-hill-sepultura-coletiva-dorset/).
+At Ridgeway Hill (Dorset), a mass grave from the Viking age was found. The symbol puzzle is made up. Read the story in [Ridgeway Hill: the Dorset mass grave and what the teeth tell](/ridgeway-hill-the-dorset-mass-grave-and-what-the-teeth-tell/).

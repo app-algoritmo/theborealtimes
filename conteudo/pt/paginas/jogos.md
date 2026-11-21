@@ -9,7 +9,7 @@ ax:
   btn_sorteio: "Sortear uma aventura"
   btn_ver: "Ver todos os jogos"
   progresso: "Meu progresso"
-  progresso_url: "/meu-progresso/"
+  progresso_url: "/pt/meu-progresso/"
   sorteando: "Sorteando..."
   stat_jogos: "jogos"
   stat_historias: "histórias"
@@ -24,7 +24,7 @@ ax:
     - {i: "🔒", t: "Sem cadastro", d: "Nenhum jogo pede conta, e nenhum coleta dados de quem joga."}
     - {i: "📖", t: "Baseado em histórias", d: "Cada jogo liga a uma história do site e diz o que é invenção e o que vem das fontes."}
   fim_link: "Prefere ler primeiro? Veja as histórias"
-  fim_url: "/"
+  fim_url: "/pt/"
 ---
 
 Os jogos são uma diversão inspirada nas histórias. Quando um deles muda algo do que as fontes contam, a página do jogo diz como foi de fato.

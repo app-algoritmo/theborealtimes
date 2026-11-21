@@ -23,4 +23,4 @@ Hold the touch (or the space bar) to draw the bow and release when the bar is in
 
 ## The story behind it
 
-The battle of Svolder, around the year 1000, ended with the defeat of King Olaf Tryggvason. In the saga, an archer's bow splits and the king asks what broke. The game mechanic is made up. Read the story in [Svolder, the year 1000: the last battle of King Olaf Tryggvason and the ship Long Serpent](/en/2026/11/15/svolder-ormen-lange-1000/).
+The battle of Svolder, around the year 1000, ended with the defeat of King Olaf Tryggvason. In the saga, an archer's bow splits and the king asks what broke. The game mechanic is made up. Read the story in [Svolder, the year 1000: the last battle of King Olaf Tryggvason and the ship Long Serpent](/svolder-the-year-1000-the-last-battle-of-king-olaf/).

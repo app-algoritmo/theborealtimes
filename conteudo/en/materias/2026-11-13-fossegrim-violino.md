@@ -38,4 +38,4 @@ One possible reading of the tale is a common idea in folklore: playing well seem
 
 The story can also be read as a way of talking about practice. The Thursday gift and the hand guided across the strings are reminders that nobody learns music without giving something in return and without calluses on the fingers.
 
-To hear what the spirit plays, play [The waterfall fiddle](/en/game-the-waterfall-fiddle/).
+To hear what the spirit plays, play [The waterfall fiddle](/game-the-waterfall-fiddle/).

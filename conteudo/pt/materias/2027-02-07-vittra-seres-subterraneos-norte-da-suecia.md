@@ -41,4 +41,4 @@ Em comum, as três fontes tratam a vittra como uma presença ligada ao pasto, ao
 
 Nenhuma das fontes dá a origem da palavra vittra, e não há data para a crença. Duas das três fontes não citam autores, de modo que os relatos de convivência, como o empréstimo de gado, não têm origem verificável. As fontes também não concordam inteiramente no que a vittra é: ser feminino que seduz, na primeira, e criatura subterrânea de pasto e vizinhança, nas outras. Não se sabe quanto das regras foi seguido na vida real.
 
-Para desviar das pedras e proteger o leite no caminho, jogue [O leite da vittra](/jogo-o-leite-da-vittra/).
+Para desviar das pedras e proteger o leite no caminho, jogue [O leite da vittra](/pt/jogo-o-leite-da-vittra/).

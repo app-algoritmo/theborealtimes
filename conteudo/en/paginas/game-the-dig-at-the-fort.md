@@ -23,4 +23,4 @@ The ground of the fort is divided into blocks of earth. Tap a block to dig. Each
 
 ## The story behind it
 
-Fyrkat was excavated from 1950 to 1958 and has 16 longhouses and about 30 graves. The hidden finds in the game are invented. Read the story in [Fyrkat: the Viking ring fortress near Hobro, in Denmark, around 980](/en/2027/03/07/fyrkat-o-forte-circular-viking-perto-de-hobro-na-dinamarca-por-volta-de-980/).
+Fyrkat was excavated from 1950 to 1958 and has 16 longhouses and about 30 graves. The hidden finds in the game are invented. Read the story in [Fyrkat: the Viking ring fortress near Hobro, in Denmark, around 980](/fyrkat-the-viking-ring-fortress-near-hobro-in-denmark/).

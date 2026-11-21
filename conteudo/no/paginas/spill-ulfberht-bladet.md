@@ -23,4 +23,4 @@ En markør beveger seg fram og tilbake langs stolpen. Trykk (eller trykk mellomr
 
 ## Historien bak
 
-Omtrent 170 sverd fra 800- til 1000-tallet bærer navnet VLFBERHT, og noen har eksepsjonelt stål. Rytmesmiingen er en forenkling i spillet. Les historien i [Ulfberht-sverdene: navnet risset inn på vikingblader og stålmysteriet](/no/2026/11/13/espadas-ulfberht/).
+Omtrent 170 sverd fra 800- til 1000-tallet bærer navnet VLFBERHT, og noen har eksepsjonelt stål. Rytmesmiingen er en forenkling i spillet. Les historien i [Ulfberht-sverdene: navnet risset inn på vikingblader og stålmysteriet](/no/ulfberht-sverdene-navnet-risset-inn-pa-vikingblader/).

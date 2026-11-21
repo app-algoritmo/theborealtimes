@@ -23,4 +23,4 @@ Trykk på en brikke for å snu den og trykk på en annen for å finne paret. Er 
 
 ## Historien bak
 
-Frigg er Odins kone og bor i Fensalir. Parspillet er oppfunnet. Les historien i [Frigg: Odins hustru som fikk alt til å sverge på å spare Balder, bortsett fra én ting](/no/2027/01/03/frigg-esposa-de-odin-fensalir/).
+Frigg er Odins kone og bor i Fensalir. Parspillet er oppfunnet. Les historien i [Frigg: Odins hustru som fikk alt til å sverge på å spare Balder, bortsett fra én ting](/no/frigg-odins-hustru-som-fikk-alt-til-a-sverge-pa-a-spare/).

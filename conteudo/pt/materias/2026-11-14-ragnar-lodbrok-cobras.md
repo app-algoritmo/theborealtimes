@@ -40,4 +40,4 @@ A *Crônica Anglo-Saxônica* registra que um grande exército nórdico, o Grande
 
 Os estudiosos que investigam Ragnar concluem, em geral, que a figura da saga junta feitos de mais de um chefe, tecidos com motivos lendários, como o da serpente e o do poço. Por isso há historiadores que duvidam que tenha existido um Ragnar único. Outros defendem que um líder real está por trás da lenda.
 
-Para encarar o poço, jogue [O poço das cobras](/jogo-o-poco-das-cobras/).
+Para encarar o poço, jogue [O poço das cobras](/pt/jogo-o-poco-das-cobras/).

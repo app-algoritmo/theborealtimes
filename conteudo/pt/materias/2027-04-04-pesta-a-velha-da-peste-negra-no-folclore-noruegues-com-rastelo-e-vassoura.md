@@ -49,4 +49,4 @@ Pesta é a Peste Negra personificada, uma velha com vassoura e rastelo. As lenda
 
 As páginas que li não explicam a origem do nome Pesta nem dizem quando cada lenda foi registrada. O número de mortos é objeto de debate entre historiadores.
 
-Para ajudar a menina a escapar da vassoura, jogue [A menina e a vassoura](/jogo-a-menina-e-a-vassoura/).
+Para ajudar a menina a escapar da vassoura, jogue [A menina e a vassoura](/pt/jogo-a-menina-e-a-vassoura/).

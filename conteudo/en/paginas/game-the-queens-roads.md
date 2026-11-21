@@ -23,4 +23,4 @@ Tap a road to build it or undo it. Each road has a cost. Link all the towns to o
 
 ## The story behind it
 
-Emma of Normandy was queen of England twice: she married Æthelred in 1002 and Cnut in 1017. Planning roads at the lowest cost is invented. Read the story in [Emma of Normandy: the queen who married two kings of England and mothered two more](/en/2027/01/31/emma-da-normandia-rainha-da-inglaterra-encomium/).
+Emma of Normandy was queen of England twice: she married Æthelred in 1002 and Cnut in 1017. Planning roads at the lowest cost is invented. Read the story in [Emma of Normandy: the queen who married two kings of England and mothered two more](/emma-of-normandy-the-queen-who-married-two-kings-of-england/).

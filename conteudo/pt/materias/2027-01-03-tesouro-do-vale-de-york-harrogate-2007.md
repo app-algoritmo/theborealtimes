@@ -43,4 +43,4 @@ O fato de as moedas trazerem símbolos islâmicos, cristãos e nórdicos pagãos
 
 O artigo não explica em que ocasião nem por quem o tesouro foi enterrado, e não se sabe se o dono planejava voltar. Também não se sabe como cada objeto foi parar ali. A única certeza é a data da descoberta, o lugar e o que foi retirado do chão, e tudo o mais continua em aberto.
 
-Para achar moedas de prata que surgem na terra, antes que sumam, jogue [As moedas do Vale de York](/jogo-as-moedas-do-vale-de-york/).
+Para achar moedas de prata que surgem na terra, antes que sumam, jogue [As moedas do Vale de York](/pt/jogo-as-moedas-do-vale-de-york/).

@@ -23,4 +23,4 @@ Each guest asks for fire, water, food or a cloak. Tap the right item (or use key
 
 ## The story behind it
 
-The poem Hávamál, in the Eddas, gives hospitality advice for the traveller: fire, water and a cloak. The requests in the game are made up. Read the story in [Hávamál and Viking hospitality: what the poem asked of those who arrived and those who received](/en/2026/11/17/havamal-hospitalidade-viking/).
+The poem Hávamál, in the Eddas, gives hospitality advice for the traveller: fire, water and a cloak. The requests in the game are made up. Read the story in [Hávamál and Viking hospitality: what the poem asked of those who arrived and those who received](/havamal-and-viking-hospitality-what-the-poem-asked-of-those/).

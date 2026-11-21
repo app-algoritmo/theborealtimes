@@ -23,4 +23,4 @@ The castle gate has three posts and a stack of rings of different sizes on the l
 
 ## The story behind it
 
-In Fjölsvinnsmál, the watchman Fjölsviðr asks Svipdagr’s name, and Svipdagr hides it until the end; when he gives it, the gates open and Menglöð greets him. Moving rings between posts is invented. Read the story in [Fjölsvinnsmál: the castle watchman, Svipdagr's hidden name and Menglöð](/en/2027/02/07/fjolsvinnsmal-svipdagr-menglod-vigia-castelo/).
+In Fjölsvinnsmál, the watchman Fjölsviðr asks Svipdagr’s name, and Svipdagr hides it until the end; when he gives it, the gates open and Menglöð greets him. Moving rings between posts is invented. Read the story in [Fjölsvinnsmál: the castle watchman, Svipdagr's hidden name and Menglöð](/fjolsvinnsmal-the-castle-watchman-svipdagr-s-hidden-name/).

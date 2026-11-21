@@ -39,4 +39,4 @@ Cnut morreu em 1035 e foi sepultado em Winchester. Seu império não sobreviveu.
 
 Cnut manteve as leis inglesas, e a Inglaterra teve códigos promulgados em seu nome, redigidos com a ajuda de eclesiásticos, entre eles o arcebispo Wulfstan de York. Ele repartiu o reino em grandes condados governados por condes. Alguns eram dinamarqueses, outros eram ingleses, como Godwin, que recebeu o título por volta de 1018. Escaldos compuseram poemas em sua honra, e alguns versos foram conservados nas sagas dos reis. O *Encomium Emmae Reginae*, escrito para a rainha Emma, mostra como a corte queria que ele fosse lembrado. Mas a paz dependia da força pessoal do rei, e sem ele o arranjo foi frágil.
 
-Para manter o império unido, absorvendo reino após reino num só, jogue [As ondas de Cnut](/jogo-as-ondas-de-cnut/).
+Para manter o império unido, absorvendo reino após reino num só, jogue [As ondas de Cnut](/pt/jogo-as-ondas-de-cnut/).

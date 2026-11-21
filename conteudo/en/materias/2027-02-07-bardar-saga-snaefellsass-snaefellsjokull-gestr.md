@@ -39,4 +39,4 @@ In the second part, Gestr, "guest", has a dog named Snati. He travels to the cou
 
 The probable date is the early 14th century, but Halldór Hermansson proposed around 900, an outlier. The paternity of Sólrún, who claims to be Gestr's daughter, is disputed within the saga itself, which states there is no record of children of his. As for Grímr, the mysterious fisherman, all that is recorded is that people suspected he was Thor. The worship of Bárðr is described as popular belief, not as verified practice.
 
-To take the right path across the ice, sliding until you stop in the hole, play [The drifting ice](/en/game-the-drifting-ice/).
+To take the right path across the ice, sliding until you stop in the hole, play [The drifting ice](/game-the-drifting-ice/).

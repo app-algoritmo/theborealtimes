@@ -23,4 +23,4 @@ Conduza o navio pelo mar do norte. Segure o lado esquerdo ou o direito da tela p
 
 ## A história por trás
 
-Em Gjellestad, na Noruega, um georadar achou um navio viking enterrado. A travessia pelo mar é invenção. Leia a história em [Gjellestad: o navio viking achado por georadar em Halden, na Noruega](/2027/02/28/gjellestad-o-navio-viking-achado-por-georadar-em-halden-noruega/).
+Em Gjellestad, na Noruega, um georadar achou um navio viking enterrado. A travessia pelo mar é invenção. Leia a história em [Gjellestad: o navio viking achado por georadar em Halden, na Noruega](/pt/gjellestad-o-navio-viking-achado-por-georadar-em-halden-noruega/).

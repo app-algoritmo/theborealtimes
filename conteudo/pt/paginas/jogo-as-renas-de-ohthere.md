@@ -23,4 +23,4 @@ Arraste o dedo (ou o mouse) para mover o pastor. As renas fogem de quem chega pe
 
 ## A história por trás
 
-Ohthere, um norueguês do norte, contou ao rei Alfredo da Inglaterra que criava renas. O pastoreio do jogo é invenção. Leia a história em [Ohthere e as renas: o relato de um norueguês do Ártico ao rei Alfredo](/2026/11/17/ohthere-renas-relato-alfredo/).
+Ohthere, um norueguês do norte, contou ao rei Alfredo da Inglaterra que criava renas. O pastoreio do jogo é invenção. Leia a história em [Ohthere e as renas: o relato de um norueguês do Ártico ao rei Alfredo](/pt/ohthere-renas-relato-alfredo/).

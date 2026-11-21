@@ -39,4 +39,4 @@ Sveinbjörn Rafnsson argues that the *Sturlubók* and the *Hauksbók* give too m
 
 The book is not an official ninth-century register but a text that gathers traditions told and written long after the first settlers. Even so, its numbers, of people, farms and regions, show how Iceland remembered itself. What the book says of each settler should be read as tradition, and what each version adds or drops deserves attention.
 
-To land a ship on the beach, controlling the thrust, without crashing and with little fuel, play [Landing on the beach](/en/game-landing-on-the-beach/).
+To land a ship on the beach, controlling the thrust, without crashing and with little fuel, play [Landing on the beach](/game-landing-on-the-beach/).

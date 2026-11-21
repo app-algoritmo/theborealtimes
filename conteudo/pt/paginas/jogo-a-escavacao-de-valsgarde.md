@@ -23,4 +23,4 @@ Há 3 barcos enterrados na grade, retos e sem se tocar. Os números nas bordas d
 
 ## A história por trás
 
-Valsgärde fica a cerca de 3 km ao norte de Gamla Uppsala. A Universidade de Uppsala escavou oito túmulos de barco em 1928–1936 e os seis restantes em 1946–1952. A grade é invenção. Leia a história em [Valsgärde, os túmulos de barco perto de Uppsala: o que a Universidade de Uppsala escavou desde 1928](/2027/01/10/valsgarde-tumulos-de-barco-uppland-vendel/).
+Valsgärde fica a cerca de 3 km ao norte de Gamla Uppsala. A Universidade de Uppsala escavou oito túmulos de barco em 1928–1936 e os seis restantes em 1946–1952. A grade é invenção. Leia a história em [Valsgärde, os túmulos de barco perto de Uppsala: o que a Universidade de Uppsala escavou desde 1928](/pt/valsgarde-tumulos-de-barco-uppland-vendel/).

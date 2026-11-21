@@ -23,4 +23,4 @@ Harald Gille has to walk barefoot over nine ploughshares that heat up and cool d
 
 ## The story behind it
 
-In Heimskringla, Harald Gille proves he is the son of King Magnus Barefoot by walking over nine glowing ploughshares, in the presence of two bishops. The ploughshares that heat and cool in cycles are invention. Read the story in [Harald Gille and the nine glowing ploughshares: the ordeal of Magnus Barefoot's son](/en/2027/03/21/harald-gille-e-as-nove-relhas-em-brasa-a-prova-do-filho-de-magnus-descalco/).
+In Heimskringla, Harald Gille proves he is the son of King Magnus Barefoot by walking over nine glowing ploughshares, in the presence of two bishops. The ploughshares that heat and cool in cycles are invention. Read the story in [Harald Gille and the nine glowing ploughshares: the ordeal of Magnus Barefoot's son](/harald-gille-and-the-nine-glowing-ploughshares-the-ordeal/).

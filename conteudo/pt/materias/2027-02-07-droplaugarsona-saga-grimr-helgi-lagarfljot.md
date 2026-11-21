@@ -48,4 +48,4 @@ Os personagens que as fontes mencionam são Droplaug, a mãe; Grímr e Helgi, os
 
 A data é dada como "provavelmente" do século XIII, e as fontes não dizem nada sobre o autor ou sobre os manuscritos. Também não está claro em que pontos exatos as duas sagas, a Droplaugarsona e a Fljótsdœla, divergem: a fonte em inglês só afirma que divergem. As duas fontes citam, ainda, nomes escritos de modos diferentes para o adversário, Helgi Ásbjarnarson e Helge Åsbjørnsson, que parecem ser a mesma pessoa em grafias distintas, mas isso é leitura nossa, não afirmação das fontes.
 
-Para guiar dois irmãos ao mesmo tempo, cada um no seu campo, jogue [Os irmãos espelhados](/jogo-os-irmaos-espelhados/).
+Para guiar dois irmãos ao mesmo tempo, cada um no seu campo, jogue [Os irmãos espelhados](/pt/jogo-os-irmaos-espelhados/).

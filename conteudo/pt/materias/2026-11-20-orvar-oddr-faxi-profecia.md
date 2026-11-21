@@ -39,4 +39,4 @@ A história circulou em outras fontes, e a *Hervarar saga* também cita Odd. Os 
 
 A saga é classificada como *fornaldarsaga*, "saga dos tempos antigos", um grupo de textos islandeses que mistura heróis lendários, monstros e viagens a terras distantes. Ao contrário das sagas dos islandeses, que se passam na Islândia e têm um tom mais realista, essas obras se passam sobretudo na Escandinávia e em lugares imaginários, e seus autores queriam menos registrar fatos do que entreter e conservar histórias antigas.
 
-Para somar os anos de Odd, juntando números iguais até chegar ao total certo, jogue [Os anos de Odd](/jogo-os-anos-de-odd/).
+Para somar os anos de Odd, juntando números iguais até chegar ao total certo, jogue [Os anos de Odd](/pt/jogo-os-anos-de-odd/).

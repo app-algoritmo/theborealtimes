@@ -23,4 +23,4 @@ Let i marmorpanelet etter de fem runene blant dusinvis av riss og trykk på hver
 
 ## Historien bak
 
-I Hagia Sofia i Istanbul finnes runegraffiti tilskrevet en viss Halfdan. Runene i spillet er diktet opp. Les historien i [Halvdan i Hagia Sofia: runene en nordbo risset i marmoret i Konstantinopel](/no/2026/11/17/halfdan-runas-hagia-sophia/).
+I Hagia Sofia i Istanbul finnes runegraffiti tilskrevet en viss Halfdan. Runene i spillet er diktet opp. Les historien i [Halvdan i Hagia Sofia: runene en nordbo risset i marmoret i Konstantinopel](/no/halvdan-i-hagia-sofia-runene-en-nordbo-risset-i-marmoret/).

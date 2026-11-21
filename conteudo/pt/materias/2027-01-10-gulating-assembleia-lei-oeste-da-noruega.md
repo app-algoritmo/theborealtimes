@@ -43,4 +43,4 @@ O artigo diz que a lei antiga "pode" ter sido criada no reinado de Olavo, o Pac�
 
 As indenizações por morte, medidas em gado, mostram uma sociedade em que a justiça passava por quantias fixadas. Mas o artigo não descreve como se chegava a cada valor, e convém não imaginar mais do que o texto autoriza.
 
-Para fechar as contas com fichas de valor exato, como numa indenização, jogue [As contas do Gulating](/jogo-as-contas-do-gulating/).
+Para fechar as contas com fichas de valor exato, como numa indenização, jogue [As contas do Gulating](/pt/jogo-as-contas-do-gulating/).

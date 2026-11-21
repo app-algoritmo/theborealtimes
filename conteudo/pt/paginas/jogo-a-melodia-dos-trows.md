@@ -23,4 +23,4 @@ Quatro pedras acendem em uma ordem e tocam cada uma um som. Observe a sequência
 
 ## A história por trás
 
-Os trows são espíritos de Orkney e Shetland que vivem em montes, saem à noite e, diz o folclore, gostam de música de violino e levam violinistas. Repetir sequências de sons é invenção. Leia a história em [Trow: os espíritos do monte das Órcades e das Shetland, os violinistas e a dança de pedra](/2027/02/21/trow-os-espiritos-do-monte-das-orcadas-e-shetland-violinistas/).
+Os trows são espíritos de Orkney e Shetland que vivem em montes, saem à noite e, diz o folclore, gostam de música de violino e levam violinistas. Repetir sequências de sons é invenção. Leia a história em [Trow: os espíritos do monte das Órcades e das Shetland, os violinistas e a dança de pedra](/pt/trow-os-espiritos-do-monte-das-orcadas-e-shetland-violinistas/).

@@ -23,4 +23,4 @@ Les hver setning og trykk «Står i beretningen» eller «Funnet på» (eller br
 
 ## Historien bak
 
-Ibn Fadlans beretning fra 921–922 beskriver Rus' ved Volga. Setningene i spillet er skrevet til det og oppsummerer det som er kjent. Les historien i [Ibn Fadlan og Rus' ved Volga: diplomaten fra Bagdad som beskrev vikingene](/no/2026/11/16/ibn-fadlan-rus-volga/).
+Ibn Fadlans beretning fra 921–922 beskriver Rus' ved Volga. Setningene i spillet er skrevet til det og oppsummerer det som er kjent. Les historien i [Ibn Fadlan og Rus' ved Volga: diplomaten fra Bagdad som beskrev vikingene](/no/ibn-fadlan-og-rus-ved-volga-diplomaten-fra-bagdad/).

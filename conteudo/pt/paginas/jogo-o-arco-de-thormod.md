@@ -23,4 +23,4 @@ Mova o ponteiro (ou ↑ ↓) para mirar. Segure o toque (ou o espaço) para carr
 
 ## A história por trás
 
-Na Fóstbrœðra saga, Thormod luta em Stiklestad ao lado de Olavo e depois compõe versos. As flechas do jogo são invenção. Leia a história em [Þormóðr, o poeta que seguiu o rei Olavo até Stiklestad](/2026/11/29/fostbraedra-saga-thormod-poeta-stiklestad/).
+Na Fóstbrœðra saga, Thormod luta em Stiklestad ao lado de Olavo e depois compõe versos. As flechas do jogo são invenção. Leia a história em [Þormóðr, o poeta que seguiu o rei Olavo até Stiklestad](/pt/fostbraedra-saga-thormod-poeta-stiklestad/).

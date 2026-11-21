@@ -23,4 +23,4 @@ Du spiller med de lyse brikkene. Trykk på en merket rute for å sette en brikke
 
 ## Historien bak
 
-Ansgar var misjonær i Sverige (Birka) på 800-tallet. Brettspillet er diktet opp. Les historien i [Ansgar: munken som tok kristendommen til Danmark og Birka, og så Hamburg brenne](/no/2026/12/06/ansgar-missionario-birka-hamburgo/).
+Ansgar var misjonær i Sverige (Birka) på 800-tallet. Brettspillet er diktet opp. Les historien i [Ansgar: munken som tok kristendommen til Danmark og Birka, og så Hamburg brenne](/no/ansgar-munken-som-tok-kristendommen-til-danmark-og-birka/).

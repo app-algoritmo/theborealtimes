@@ -23,4 +23,4 @@ Arraste o dedo (ou o mouse, ou use as setas para cima e para baixo) para mover a
 
 ## A história por trás
 
-Nas fontes nórdicas, as nornas moldam o destino junto ao poço de Urðr. O fio e a faixa do jogo são invenção. Leia a história em [As Nornas: as três mulheres que cuidam da árvore do mundo e do destino de todos](/2026/11/16/nornas-urdarbrunnr-destino/).
+Nas fontes nórdicas, as nornas moldam o destino junto ao poço de Urðr. O fio e a faixa do jogo são invenção. Leia a história em [As Nornas: as três mulheres que cuidam da árvore do mundo e do destino de todos](/pt/nornas-urdarbrunnr-destino/).

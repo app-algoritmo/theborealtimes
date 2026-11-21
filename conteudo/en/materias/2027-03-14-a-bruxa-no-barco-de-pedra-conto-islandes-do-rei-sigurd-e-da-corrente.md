@@ -53,4 +53,4 @@ A troll-woman arrives in a stone boat, takes the queen's place and binds the tru
 
 The meaning of *steinnökkvi* is uncertain. The tale type, ATU 462, has relatives in other countries, and it is not known when the Icelandic version was composed.
 
-To cut the glowing link of the chain as it passes under the sword, play [The queen's chain](/en/game-the-queens-chain/).
+To cut the glowing link of the chain as it passes under the sword, play [The queen's chain](/game-the-queens-chain/).

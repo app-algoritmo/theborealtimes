@@ -45,4 +45,4 @@ The ättestupa is a literary invention that became landscape: it was born as a m
 
 I cannot say, from these sources, who wrote the saga or where the idea of the stingy family came from. I also do not know whether the medieval authors knew of any similar real custom, and specialists say the custom of the ancient Swedes has never been proved. The manuscripts that preserve it are late, and the text exists in two versions.
 
-To separate what is in the saga from what came later, play [What is in the saga](/en/game-what-is-in-the-saga/).
+To separate what is in the saga from what came later, play [What is in the saga](/game-what-is-in-the-saga/).

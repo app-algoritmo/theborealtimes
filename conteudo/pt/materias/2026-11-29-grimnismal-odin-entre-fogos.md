@@ -41,4 +41,4 @@ O poema é uma boa amostra do estilo de transmitir conhecimento por listas, que 
 
 Seja como for, o poema mostra uma ideia que aparece em outros textos: Odin gosta de se disfarçar e de aprender entre os homens, e a sabedoria dele, às vezes, é conquistada pelo sofrimento.
 
-Para guiar uma faísca pelo salão e recolher, um a um, os nomes de Odin, sem esbarrar nas chamas nem em si mesma, jogue [Os nomes de Odin](/jogo-os-nomes-de-odin/).
+Para guiar uma faísca pelo salão e recolher, um a um, os nomes de Odin, sem esbarrar nas chamas nem em si mesma, jogue [Os nomes de Odin](/pt/jogo-os-nomes-de-odin/).

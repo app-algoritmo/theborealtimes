@@ -23,4 +23,4 @@ Ships appear and vanish at sea, one at a time. Count only the ships and tap the 
 
 ## The story behind it
 
-Magnus Erlendsson was killed on the island of Egilsay, around 1117, and later remembered as a saint. The counting in the game is made up. Read the story in [Magnus of Orkney: the earl who refused to fight and was killed on the island of Egilsay](/en/2026/11/18/magnus-orcades-egilsay-orkneyinga/).
+Magnus Erlendsson was killed on the island of Egilsay, around 1117, and later remembered as a saint. The counting in the game is made up. Read the story in [Magnus of Orkney: the earl who refused to fight and was killed on the island of Egilsay](/magnus-of-orkney-the-earl-who-refused-to-fight/).

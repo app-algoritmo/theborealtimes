@@ -35,4 +35,4 @@ Near the site, the Lofotr Viking Museum opened its doors in 1995, with a full-si
 
 What Borg shows, in short, is that the far north was not on the margins of the Viking world, and that an eighty-metre hall gave its owner a power visible for kilometres.
 
-To share out, house by house, the grain of the chieftain's harvest among the stores of the great hall, play [The chief's grain](/en/game-the-chiefs-grain/).
+To share out, house by house, the grain of the chieftain's harvest among the stores of the great hall, play [The chief's grain](/game-the-chiefs-grain/).

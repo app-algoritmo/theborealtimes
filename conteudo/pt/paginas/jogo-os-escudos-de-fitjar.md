@@ -23,4 +23,4 @@ Os escudos cobrem a praia depois da batalha. Toque num grupo de dois ou mais esc
 
 ## A história por trás
 
-Em Fitjar, por volta de 961, o rei Håkon derrotou os filhos de Eirik, segundo a tradição. A limpeza dos escudos é invenção do jogo. Leia a história em [Håkon, o Bom, e o poema que o mandou para Valhalla: a batalha de Fitjar segundo a saga e o escaldo](/2026/11/19/hakon-bom-hakonarmal-fitjar/).
+Em Fitjar, por volta de 961, o rei Håkon derrotou os filhos de Eirik, segundo a tradição. A limpeza dos escudos é invenção do jogo. Leia a história em [Håkon, o Bom, e o poema que o mandou para Valhalla: a batalha de Fitjar segundo a saga e o escaldo](/pt/hakon-bom-hakonarmal-fitjar/).

@@ -47,4 +47,4 @@ A *Völuspá* dá o uivo como aviso do fim; a *Baldrs draumar* dá um encontro d
 
 Quase tudo o que se diz de Garmr vem de poucas linhas. O cão da *Baldrs draumar* não é nomeado, e identificá-lo como Garmr é uma escolha de quem lê. A ideia de que Garmr e Fenrir são a mesma figura é uma hipótese entre outras, e a relação com Cérbero depende de uma raiz que um estudioso aceita e outro recusa. Por isso o artigo é cuidadoso: apresenta as fontes e as dúvidas lado a lado.
 
-Para repetir uma sequência de uivos que ecoa na entrada da caverna, jogue [Os uivos de Garmr](/jogo-os-uivos-de-garmr/).
+Para repetir uma sequência de uivos que ecoa na entrada da caverna, jogue [Os uivos de Garmr](/pt/jogo-os-uivos-de-garmr/).

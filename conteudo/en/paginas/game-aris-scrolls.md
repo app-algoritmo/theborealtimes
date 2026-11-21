@@ -23,4 +23,4 @@ Four scrolls of different sizes are stacked on the first stand. Move the whole s
 
 ## The story behind it
 
-The Íslendingabók was written by the priest Ari Þorgilsson, between 1122 and 1133, going by the date worked out from the bishops named in the prologue. The medieval copy is lost, and the text comes from 17th-century copies. The game is invented. Read the story in [Íslendingabók, the "Book of Icelanders" by the priest Ari Þorgilsson: what it tells](/en/2027/01/17/islendingabok-ari-thorgilsson-livro-dos-islandeses/).
+The Íslendingabók was written by the priest Ari Þorgilsson, between 1122 and 1133, going by the date worked out from the bishops named in the prologue. The medieval copy is lost, and the text comes from 17th-century copies. The game is invented. Read the story in [Íslendingabók, the "Book of Icelanders" by the priest Ari Þorgilsson: what it tells](/islendingabok-the-book-of-icelanders-by-the-priest-ari/).

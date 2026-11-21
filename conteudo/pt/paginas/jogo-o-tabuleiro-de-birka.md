@@ -23,4 +23,4 @@ Você joga com as peças claras. Toque numa casa marcada para colocar uma peça:
 
 ## A história por trás
 
-Ansgar foi missionário na Suécia (Birka) no século IX. O jogo de tabuleiro é invenção. Leia a história em [Ansgar: o monge que levou o cristianismo à Dinamarca e a Birka, e viu Hamburgo queimar](/2026/12/06/ansgar-missionario-birka-hamburgo/).
+Ansgar foi missionário na Suécia (Birka) no século IX. O jogo de tabuleiro é invenção. Leia a história em [Ansgar: o monge que levou o cristianismo à Dinamarca e a Birka, e viu Hamburgo queimar](/pt/ansgar-missionario-birka-hamburgo/).

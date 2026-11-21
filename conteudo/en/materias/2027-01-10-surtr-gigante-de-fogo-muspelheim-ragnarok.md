@@ -39,4 +39,4 @@ Rudolf Simek thinks the concept is old and links the southern origin to Surtr's 
 
 None of these readings is definitive, and the article does not treat the link to volcanoes as fact. Each source adds a piece: the *Völuspá* gives the fire and the sword, the *Gylfaginning* the army and the bridge, the *Vafþrúðnismál* the field. What they support, together, is simpler: a guardian of fire, from the south, who in the end burns the world.
 
-To spread the flames across a field of colours, play [Surtr's flame](/en/game-surtrs-flame/).
+To spread the flames across a field of colours, play [Surtr's flame](/game-surtrs-flame/).

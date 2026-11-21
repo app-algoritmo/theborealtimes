@@ -23,4 +23,4 @@ Hold inne venstre eller høyre side av skjermen (eller bruk ← →) for å skyv
 
 ## Historien bak
 
-I Hymiskviða bærer Tor Hymirs kjele til Ægirs hall. Balansespillet er diktet opp. Les historien i [Hymiskviða: Tor og Tyr henter den veldige kjelen til jotunen Hymir](/no/2026/12/13/hymiskvida-thor-hymir-caldeirao/).
+I Hymiskviða bærer Tor Hymirs kjele til Ægirs hall. Balansespillet er diktet opp. Les historien i [Hymiskviða: Tor og Tyr henter den veldige kjelen til jotunen Hymir](/no/hymiskvida-tor-og-tyr-henter-den-veldige-kjelen-til-jotunen/).

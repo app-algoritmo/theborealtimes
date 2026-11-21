@@ -23,4 +23,4 @@ Trykk på en rute for å bytte tallet, som er høyden på et banner. Hver rad og
 
 ## Historien bak
 
-I slaget ved Fulford, 20. september 1066, sør for York, beseiret Harald Hardråde og Tostig jarlene Edwin og Morcar. Så kom Stamford Bridge. Å telle synlige bannere er oppfunnet. Les historien i [Slaget ved Fulford, 1066: Harald Hardråde og Tostig mot jarlene i Nord-England](/no/2027/01/31/batalha-de-fulford-1066-hardrada-york/).
+I slaget ved Fulford, 20. september 1066, sør for York, beseiret Harald Hardråde og Tostig jarlene Edwin og Morcar. Så kom Stamford Bridge. Å telle synlige bannere er oppfunnet. Les historien i [Slaget ved Fulford, 1066: Harald Hardråde og Tostig mot jarlene i Nord-England](/no/slaget-ved-fulford-1066-harald-hardrade-og-tostig-mot/).

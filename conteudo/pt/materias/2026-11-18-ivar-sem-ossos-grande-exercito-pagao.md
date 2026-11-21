@@ -46,4 +46,4 @@ Em 878, Alfredo venceu Guthrum em Edington. A ocupação nórdica deixou uma reg
 
 Os reinos ingleses eram divididos, e o exército soube aproveitar disputas internas, como a guerra civil entre Ælla e Osberht na Nortúmbria. Ele também ganhou mobilidade: usava cavalos em terra e barcos nos rios, e armava acampamentos fortificados para passar o inverno. Reis locais às vezes compravam a paz com prata, e o exército seguia adiante. Só Wessex, sob Alfredo, conseguiu resistir até o fim.
 
-Para furar a muralha de escudos como o Grande Exército, jogue [A muralha de escudos](/jogo-a-muralha-de-escudos/).
+Para furar a muralha de escudos como o Grande Exército, jogue [A muralha de escudos](/pt/jogo-a-muralha-de-escudos/).

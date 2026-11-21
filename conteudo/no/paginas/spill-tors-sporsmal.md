@@ -23,4 +23,4 @@ En spørsmålsblokk glir fra side til side. Trykk (eller mellomrom) for å slipp
 
 ## Historien bak
 
-I diktet Alvíssmál holder Tor dvergen fast med spørsmål til lyset kommer inn. Stablespillet er diktet opp. Les historien i [Alvíssmál: dvergen som ville gifte seg med Tors datter og tapte for sola](/no/2026/11/22/alvissmal-thor-anao-nascer-do-sol/).
+I diktet Alvíssmál holder Tor dvergen fast med spørsmål til lyset kommer inn. Stablespillet er diktet opp. Les historien i [Alvíssmál: dvergen som ville gifte seg med Tors datter og tapte for sola](/no/alvissmal-dvergen-som-ville-gifte-seg-med-tors-datter/).

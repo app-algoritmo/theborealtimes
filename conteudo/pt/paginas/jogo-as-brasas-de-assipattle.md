@@ -23,4 +23,4 @@ Brasas e bolhas de água sobem e caem. Passe o dedo (ou o mouse) sobre as brasas
 
 ## A história por trás
 
-No conto de Orkney, Assipattle, o sétimo filho, acende o fígado do monstro Stoor Worm com uma turfa em brasa. O verme morre, e seus dentes viram as ilhas Orkney, Shetland e Feroé. Cortar brasas no ar é invenção. Leia a história em [Assipattle e o Stoor Worm: o conto de Orkney em que o monstro dá origem às ilhas](/2027/01/31/assipattle-stoor-worm-conto-de-orkney/).
+No conto de Orkney, Assipattle, o sétimo filho, acende o fígado do monstro Stoor Worm com uma turfa em brasa. O verme morre, e seus dentes viram as ilhas Orkney, Shetland e Feroé. Cortar brasas no ar é invenção. Leia a história em [Assipattle e o Stoor Worm: o conto de Orkney em que o monstro dá origem às ilhas](/pt/assipattle-stoor-worm-conto-de-orkney/).

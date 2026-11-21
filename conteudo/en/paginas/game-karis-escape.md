@@ -23,4 +23,4 @@ Tap, or use the space bar, to jump the flames; hold to jump higher. Each flame t
 
 ## The story behind it
 
-In Njáls saga, Njál's house at Bergþórshvoll is set on fire, and Kári escapes along the burning beams and throws himself into a stream. The game is a simplification. Read the story in [The burning of Njál: the Icelandic saga's revenge in which a whole house was set on fire](/en/2026/11/14/njal-queima-bergthorshvoll/).
+In Njáls saga, Njál's house at Bergþórshvoll is set on fire, and Kári escapes along the burning beams and throws himself into a stream. The game is a simplification. Read the story in [The burning of Njál: the Icelandic saga's revenge in which a whole house was set on fire](/the-burning-of-njal-the-icelandic-saga-s-revenge/).

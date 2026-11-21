@@ -23,4 +23,4 @@ Toque numa carta para virá-la e depois noutra. Se os dois sinais forem iguais, 
 
 ## A história por trás
 
-No Baldrs draumar, Odin desce a Hel para entender os sonhos de Baldr. Os sinais das cartas são invenção. Leia a história em [Baldrs draumar: Odin cavalga até Hel para ouvir o que os sonhos de Baldr anunciam](/2026/12/13/baldrs-draumar-odin-desce-a-hel/).
+No Baldrs draumar, Odin desce a Hel para entender os sonhos de Baldr. Os sinais das cartas são invenção. Leia a história em [Baldrs draumar: Odin cavalga até Hel para ouvir o que os sonhos de Baldr anunciam](/pt/baldrs-draumar-odin-desce-a-hel/).

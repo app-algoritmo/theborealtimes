@@ -23,4 +23,4 @@ Segure o dedo (ou a barra de espaço) para despejar o mingau no saco escondido. 
 
 ## A história por trás
 
-No conto recolhido por Asbjørnsen e Moe, Askeladden engana o troll com esperteza, e as versões do concurso de comida variam. A mecânica do jogo é invenção. Leia a história em [Askeladden e o troll: o conto norueguês do rapaz que espremeu a pedra](/2026/11/13/askeladden-troll/).
+No conto recolhido por Asbjørnsen e Moe, Askeladden engana o troll com esperteza, e as versões do concurso de comida variam. A mecânica do jogo é invenção. Leia a história em [Askeladden e o troll: o conto norueguês do rapaz que espremeu a pedra](/pt/askeladden-troll/).

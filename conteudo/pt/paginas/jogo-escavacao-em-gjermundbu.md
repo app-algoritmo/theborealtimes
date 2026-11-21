@@ -23,4 +23,4 @@ Passe o dedo (ou o mouse) sobre a terra para limpá-la. Quando quase tudo estive
 
 ## A história por trás
 
-O capacete de Gjermundbu foi achado em 1943 num túmulo em Ringerike, na Noruega, e é o único capacete viking quase completo conhecido: redondo, de ferro, com proteção para os olhos e sem chifres. A escavação do jogo é uma simplificação. Leia a história em [Os vikings usavam capacete com chifres? O que o achado de Gjermundbu mostra](/2026/11/12/capacete-viking-chifres-gjermundbu/).
+O capacete de Gjermundbu foi achado em 1943 num túmulo em Ringerike, na Noruega, e é o único capacete viking quase completo conhecido: redondo, de ferro, com proteção para os olhos e sem chifres. A escavação do jogo é uma simplificação. Leia a história em [Os vikings usavam capacete com chifres? O que o achado de Gjermundbu mostra](/pt/capacete-viking-chifres-gjermundbu/).

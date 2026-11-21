@@ -23,4 +23,4 @@ Bjarni segue para a Groenlândia sem mapa nem bússola, e o vento empurra o navi
 
 ## A história por trás
 
-Segundo a Saga dos Groenlandeses, Bjarni errou o rumo para a Groenlândia, sem mapa nem bússola, e avistou três terras sem desembarcar. Os ventos e os trechos do jogo são invenção. Leia a história em [Bjarni Herjólfsson: o capitão que viu terras a oeste e não desembarcou](/2027/03/21/bjarni-herjolfsson-o-capitao-que-viu-terras-no-oeste-e-nao-desembarcou/).
+Segundo a Saga dos Groenlandeses, Bjarni errou o rumo para a Groenlândia, sem mapa nem bússola, e avistou três terras sem desembarcar. Os ventos e os trechos do jogo são invenção. Leia a história em [Bjarni Herjólfsson: o capitão que viu terras a oeste e não desembarcou](/pt/bjarni-herjolfsson-o-capitao-que-viu-terras-no-oeste-e-nao-desembarcou/).

@@ -56,4 +56,4 @@ Um jovem islandês conta sagas na corte de Harald Hardrada e guarda para o Natal
 
 A página consultada não diz o nome do islandês, o conteúdo detalhado da saga que ele conta nem o que acontece depois da pergunta do rei. A data de composição, o fim do século XIII, é uma hipótese.
 
-Para pôr em ordem as cenas do conto, jogue [As cenas do conto](/jogo-as-cenas-do-conto/).
+Para pôr em ordem as cenas do conto, jogue [As cenas do conto](/pt/jogo-as-cenas-do-conto/).

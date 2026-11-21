@@ -23,4 +23,4 @@ Ratatosk corre por três trilhas do tronco. Toque na metade esquerda ou direita 
 
 ## A história por trás
 
-Nas fontes eddicas, o esquilo Ratatosk corre pela árvore Yggdrasil levando palavras entre a águia no alto e o dragão Nidhogg nas raízes. As fases do jogo são invenção. Leia a história em [Yggdrasil, a árvore do mundo: o que as fontes dizem e o que só os intérpretes modernos acrescentaram](/2026/11/14/yggdrasil-arvore-nove-mundos/).
+Nas fontes eddicas, o esquilo Ratatosk corre pela árvore Yggdrasil levando palavras entre a águia no alto e o dragão Nidhogg nas raízes. As fases do jogo são invenção. Leia a história em [Yggdrasil, a árvore do mundo: o que as fontes dizem e o que só os intérpretes modernos acrescentaram](/pt/yggdrasil-arvore-nove-mundos/).

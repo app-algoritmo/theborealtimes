@@ -45,4 +45,4 @@ A pedra de Kingittorsuaq, achada em 1824, registra que três nórdicos fizeram t
 
 Não se sabe o que as últimas runas dizem, nem se a data foi escrita de forma cifrada. A fonte consultada também não diz quem achou a pedra, e o contexto do que os três homens faziam tão ao norte é, em boa parte, dedução.
 
-Para empilhar as pedras sem deixar a torre cair, jogue [As três varðar](/jogo-as-tres-vardar/).
+Para empilhar as pedras sem deixar a torre cair, jogue [As três varðar](/pt/jogo-as-tres-vardar/).

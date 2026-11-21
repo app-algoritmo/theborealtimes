@@ -39,4 +39,4 @@ The article, being a list, does not describe Jötunheimr, does not tell the orig
 
 Since many are names on a list only, it is not known how many of these beings had stories of their own. Nor can this list alone tell whether the ancient Norse saw giants as a separate group or as distant relatives. What the cited sources show is that the divine family is mixed with them. That is why the list serves better as a map of kinship than as a portrait of a people.
 
-To take three gods and three jötnar from one bank to the other without anyone being outnumbered, play [Gods and jötnar at the river](/en/game-gods-and-jotnar-at-the-river/).
+To take three gods and three jötnar from one bank to the other without anyone being outnumbered, play [Gods and jötnar at the river](/game-gods-and-jotnar-at-the-river/).

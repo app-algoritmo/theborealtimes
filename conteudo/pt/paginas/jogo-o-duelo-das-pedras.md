@@ -23,4 +23,4 @@ Vafþrúðnir joga Nim com você. Há três pilhas de pedras. Na sua vez, toque 
 
 ## A história por trás
 
-No Vafþrúðnismál, Odin vence o gigante com uma pergunta que só ele sabia responder. O jogo de pedras é invenção do jogo. Leia a história em [Odin e Vafþrúðnir: o duelo de sabedoria em que a cabeça era a aposta](/2026/11/20/vafthrudnir-odin-duelo-de-sabedoria/).
+No Vafþrúðnismál, Odin vence o gigante com uma pergunta que só ele sabia responder. O jogo de pedras é invenção do jogo. Leia a história em [Odin e Vafþrúðnir: o duelo de sabedoria em que a cabeça era a aposta](/pt/vafthrudnir-odin-duelo-de-sabedoria/).

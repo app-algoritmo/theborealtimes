@@ -23,4 +23,4 @@ Enfie todas as contas num só fio. Comece na conta marcada com 1 e toque numa co
 
 ## A história por trás
 
-O tesouro de Hoen foi achado em 1834, em Buskerud, na Noruega, com mais de cem contas; hoje está em Oslo. Enfiar contas num fio é invenção. Leia a história em [O tesouro de Hoen: ouro, moedas árabes e contas achados em Buskerud](/2027/02/14/tesouro-de-hoen-ouro-moedas-e-contas-da-era-viking/).
+O tesouro de Hoen foi achado em 1834, em Buskerud, na Noruega, com mais de cem contas; hoje está em Oslo. Enfiar contas num fio é invenção. Leia a história em [O tesouro de Hoen: ouro, moedas árabes e contas achados em Buskerud](/pt/tesouro-de-hoen-ouro-moedas-e-contas-da-era-viking/).

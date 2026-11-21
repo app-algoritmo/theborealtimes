@@ -23,4 +23,4 @@ Deslize o dedo, ou use as setas, para empurrar todos os pergaminhos para um lado
 
 ## A história por trás
 
-Morkinskinna quer dizer "pergaminho bolorento": é uma saga de reis da Noruega escrita na Islândia por volta de 1220, com cerca de 270 estrofes de poesia. Os números são invenção. Leia a história em [Morkinskinna, o "pergaminho bolorento": a saga dos reis da Noruega escrita na Islândia por volta de 1220](/2027/01/10/morkinskinna-pergaminho-bolorento-saga-dos-reis/).
+Morkinskinna quer dizer "pergaminho bolorento": é uma saga de reis da Noruega escrita na Islândia por volta de 1220, com cerca de 270 estrofes de poesia. Os números são invenção. Leia a história em [Morkinskinna, o "pergaminho bolorento": a saga dos reis da Noruega escrita na Islândia por volta de 1220](/pt/morkinskinna-pergaminho-bolorento-saga-dos-reis/).

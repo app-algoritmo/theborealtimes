@@ -42,4 +42,4 @@ The myth gives a divine origin to the skalds' art. Norse poets called poetry "Od
 
 The names in the myth carry meaning. *Óðrerir*, the name of the main vessel, can be read as "the one that stirs inspiration", since *óðr* means fury but also poetic inspiration, and comes from the same root as Odin's name. *Bölverkr*, the god's disguise, means something like "evildoer". Snorri thus shows an Odin who seeks poetry by cunning, not merit, which fits the god's image in the sources: wise, but hardly trustworthy.
 
-To drink the three draughts without spilling, play [The three draughts](/en/game-the-three-draughts/).
+To drink the three draughts without spilling, play [The three draughts](/game-the-three-draughts/).

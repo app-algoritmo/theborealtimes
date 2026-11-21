@@ -45,4 +45,4 @@ A *kenning* is an indirect name, such as "drop of Draupnir" for gold. *Dwarves* 
 
 The texts that mention the ring were written down in the thirteenth century, long after the time when the stories are thought to have arisen. We do not know what the ring was like in an older version, nor whether the idea of an object that multiplies comes from an earlier belief or was developed by poets.
 
-To count the nights and let the rings fall on the ninth, play [The ninth night](/en/game-the-ninth-night/).
+To count the nights and let the rings fall on the ninth, play [The ninth night](/game-the-ninth-night/).

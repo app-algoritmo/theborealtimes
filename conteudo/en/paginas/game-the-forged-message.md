@@ -23,4 +23,4 @@ A message was swapped for a secret sequence of coloured seals, and the same colo
 
 ## The story behind it
 
-In Bjarnar saga Hítdœlakappa, Þórðr falsifies the message in which Björn asked for Oddný’s hand, spreads word that he has died and marries her. Deciphering seals is invented. Read the story in [Bjarnar saga Hítdœlakappa: two poets, one woman and a fatal feud](/en/2027/02/14/bjarnar-saga-hitdaelakappa-bjorn-thordr-oddny/).
+In Bjarnar saga Hítdœlakappa, Þórðr falsifies the message in which Björn asked for Oddný’s hand, spreads word that he has died and marries her. Deciphering seals is invented. Read the story in [Bjarnar saga Hítdœlakappa: two poets, one woman and a fatal feud](/bjarnar-saga-hitdoelakappa-two-poets-one-woman-and-a-fatal/).

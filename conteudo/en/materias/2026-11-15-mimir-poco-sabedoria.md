@@ -38,4 +38,4 @@ There is also a hypothesis about the Hávamál. In it, Odin says he learned nine
 
 Philologists usually link the name Mímir to an Indo-European root meaning "to think, to remember". Simek translates the name as "the rememberer". The name fits the role: Mímir is the memory of the world, kept in a spring and in a head.
 
-To answer the questions Odin would ask, play [Mímir's well](/en/game-mimirs-well/).
+To answer the questions Odin would ask, play [Mímir's well](/game-mimirs-well/).

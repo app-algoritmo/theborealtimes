@@ -23,4 +23,4 @@ Sandstone blocks fall. Tap the left or right of the field to move, the top middl
 
 ## The story behind it
 
-The work on St Magnus Cathedral in Kirkwall was begun in 1137 by Rögnvald Kali. The fitting of blocks is made up. Read the story in [Rögnvald Kali Kolsson and the beginning of St Magnus Cathedral in Kirkwall](/en/2026/12/20/rognvald-kali-catedral-sao-magnus-kirkwall/).
+The work on St Magnus Cathedral in Kirkwall was begun in 1137 by Rögnvald Kali. The fitting of blocks is made up. Read the story in [Rögnvald Kali Kolsson and the beginning of St Magnus Cathedral in Kirkwall](/rognvald-kali-kolsson-and-the-beginning-of-st-magnus/).

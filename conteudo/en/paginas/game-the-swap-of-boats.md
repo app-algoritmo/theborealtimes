@@ -23,4 +23,4 @@ Two groups of boats meet on a narrow stretch, with a single free place. Swap the
 
 ## The story behind it
 
-Gnezdovo is a large Varangian site near Smolensk. Swapping boats from side to side is invented. Read the story in [Gnezdovo: the great Varangian site near Smolensk, three thousand mounds and an inscription](/en/2027/02/28/gnezdovo-o-grande-sitio-varegue-perto-de-smolensk-tres-mil-tumulos-e-uma-inscricao/).
+Gnezdovo is a large Varangian site near Smolensk. Swapping boats from side to side is invented. Read the story in [Gnezdovo: the great Varangian site near Smolensk, three thousand mounds and an inscription](/gnezdovo-the-great-varangian-site-near-smolensk-three/).

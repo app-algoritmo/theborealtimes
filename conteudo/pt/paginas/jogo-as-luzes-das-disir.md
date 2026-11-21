@@ -23,4 +23,4 @@ Veja a sequência de luzes e repita-a tocando nas luzes na mesma ordem. A cada r
 
 ## A história por trás
 
-As dísir são espíritos femininos ligados ao destino, e o dísablót era um sacrifício em sua honra. As luzes são invenção. Leia a história em [As dísir: espíritos femininos, o sacrifício de Uppsala e a feira que ainda existe](/2027/01/03/disir-disablot-uppsala-disting/).
+As dísir são espíritos femininos ligados ao destino, e o dísablót era um sacrifício em sua honra. As luzes são invenção. Leia a história em [As dísir: espíritos femininos, o sacrifício de Uppsala e a feira que ainda existe](/pt/disir-disablot-uppsala-disting/).

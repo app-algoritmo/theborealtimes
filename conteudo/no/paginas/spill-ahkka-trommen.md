@@ -23,4 +23,4 @@ Ringer krymper mot midten av trommen. Trykk hvor som helst (eller trykk mellomro
 
 ## Historien bak
 
-For samene tok Máttaráhkká og døtrene Sáráhkká, Juoksáhkká og Uksáhkká seg av fødselen. Trommen og rytmen er oppfunnet. Les historien i [Áhkká: den samiske fødselsgudinnen og de tre døtrene som voktet ilden, døra og buen](/no/2027/01/03/ahkka-deusas-sami-maattarahkka-filhas/).
+For samene tok Máttaráhkká og døtrene Sáráhkká, Juoksáhkká og Uksáhkká seg av fødselen. Trommen og rytmen er oppfunnet. Les historien i [Áhkká: den samiske fødselsgudinnen og de tre døtrene som voktet ilden, døra og buen](/no/ahkka-den-samiske-fodselsgudinnen-og-de-tre-dotrene/).

@@ -23,4 +23,4 @@ Mova o cesto (arraste o dedo ou use ← → / A D) para pegar o que cai: pão, l
 
 ## A história por trás
 
-No conto de Asbjørnsen e Moe, o marido troca de lugar com a mulher e tudo dá errado, até a vaca no telhado. O jogo do cesto é invenção. Leia a história em [O homem que ia cuidar da casa: o conto norueguês da vaca no telhado](/2026/11/29/mannen-som-skulle-stelle-hjemme-vaca-no-telhado/).
+No conto de Asbjørnsen e Moe, o marido troca de lugar com a mulher e tudo dá errado, até a vaca no telhado. O jogo do cesto é invenção. Leia a história em [O homem que ia cuidar da casa: o conto norueguês da vaca no telhado](/pt/mannen-som-skulle-stelle-hjemme-vaca-no-telhado/).

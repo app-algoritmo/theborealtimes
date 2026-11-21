@@ -23,4 +23,4 @@ Tap an empty cell to place a golden stone. Connect the left edge to the right wi
 
 ## The story behind it
 
-According to the sagas, King Sigurd crossed Europe to Jerusalem. The edge-connecting game is made up. Read the story in [Sigurd Jorsalfar: the Norwegian king who crossed Europe, raided near Lisbon and reached Jerusalem](/en/2026/11/22/sigurd-jorsalfar-cruzada-lisboa-1108/).
+According to the sagas, King Sigurd crossed Europe to Jerusalem. The edge-connecting game is made up. Read the story in [Sigurd Jorsalfar: the Norwegian king who crossed Europe, raided near Lisbon and reached Jerusalem](/sigurd-jorsalfar-the-norwegian-king-who-crossed-europe/).

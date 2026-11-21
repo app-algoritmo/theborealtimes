@@ -35,4 +35,4 @@ A *Völuspá*, poema da *Edda Poética*, menciona o cão Garmr, que uiva diante 
 
 Convém ter cuidado com Snorri. Ele era um cristão islandês do século XIII, que reuniu mitos de uma religião que já não era praticada. O retrato de Hel como um reino subterrâneo, parecido com o inferno cristão, pode refletir esse ambiente. O próprio nome vem de uma raiz germânica que significa "esconder", e é parente da palavra inglesa *hell*. Nas fontes mais antigas, ir "para Hel" quer dizer apenas morrer.
 
-Para atravessar a escuridão de Helheim sem se perder, guiado só pela luz de uma tocha, jogue [A tocha em Helheim](/jogo-a-tocha-em-helheim/).
+Para atravessar a escuridão de Helheim sem se perder, guiado só pela luz de uma tocha, jogue [A tocha em Helheim](/pt/jogo-a-tocha-em-helheim/).

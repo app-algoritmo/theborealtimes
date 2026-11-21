@@ -23,4 +23,4 @@ Drag your finger (or mouse) left and right, or use the arrow keys, to steer the 
 
 ## The story behind it
 
-According to the saga of Haakon Haakonsson, in 1206 two Birkebeiner carried the little prince on skis to Trondheim. The route in the game is a simplification. Read the story in [The Birkebeiner and the ski crossing that saved the future King Haakon of Norway](/en/2026/11/13/birkebeiner-haakon/).
+According to the saga of Haakon Haakonsson, in 1206 two Birkebeiner carried the little prince on skis to Trondheim. The route in the game is a simplification. Read the story in [The Birkebeiner and the ski crossing that saved the future King Haakon of Norway](/the-birkebeiner-and-the-ski-crossing-that-saved-the-future/).

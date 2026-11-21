@@ -23,4 +23,4 @@ O quadro está dividido em ilhotas de cores diferentes. Ponha um vigia em cada i
 
 ## A história por trás
 
-Na Harðar saga ok Hólmverja, Hörðr e seus companheiros, fora da lei, se refugiam numa ilhota do Hvalfjörður, que passa a se chamar Geirshólm. Os vigias deste quadro são invenção. Leia a história em [Harðar saga ok Hólmverja: o fora da lei, a ilhota de Geirshólm e a vingança dos filhos](/2027/01/31/hardar-saga-holmverja-geirsholmr-hvalfjordur/).
+Na Harðar saga ok Hólmverja, Hörðr e seus companheiros, fora da lei, se refugiam numa ilhota do Hvalfjörður, que passa a se chamar Geirshólm. Os vigias deste quadro são invenção. Leia a história em [Harðar saga ok Hólmverja: o fora da lei, a ilhota de Geirshólm e a vingança dos filhos](/pt/hardar-saga-holmverja-geirsholmr-hvalfjordur/).

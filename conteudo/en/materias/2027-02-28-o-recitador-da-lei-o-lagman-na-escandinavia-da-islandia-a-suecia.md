@@ -45,4 +45,4 @@ The lawspeaker began tied to the assemblies of the people and became, over the c
 
 The entry carries at the top a notice that it needs more citations. Historians doubt Snorri’s account of an 11th-century lawspeaker named Torgny. The date of about 1000 for Lum, the first named Swedish lawspeaker, holds only "if the text is correct". The first two successors of Úlfljótr have exactly 20 summers each, which scholars find suspicious, and the Icelandic chronology is probably correct from Þorkell máni onward. The number of lawspeakers in Norway is not given precisely.
 
-To find the rock where the law stands, in few attempts, play [The rock of the law](/en/game-the-rock-of-the-law/).
+To find the rock where the law stands, in few attempts, play [The rock of the law](/game-the-rock-of-the-law/).

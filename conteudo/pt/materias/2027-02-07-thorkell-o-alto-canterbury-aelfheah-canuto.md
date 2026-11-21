@@ -44,4 +44,4 @@ Em 1021, por razões desconhecidas, Thorkell brigou com Canuto e foi banido, e v
 
 As fontes divergem quanto ao nascimento: a primeira fala em cerca de 970, e a Britannica, no fim dos anos 950, no sul da Suécia. A liderança sobre os Jomsvikings aparece como atribuição sem citação. Não há registro dele depois de 1023, e a data e o modo da morte são desconhecidos. A primeira fonte diz que ele pode ter se casado com Wulfhild, ou Edith, filha de Æthelred, e que teve dois filhos de identidade ignorada. O historiador Niels Lund o chamou de "provavelmente o líder de um bando de bandidos" sediado no Báltico, o que mostra que as avaliações sobre ele variam.
 
-Para decifrar selos de prata nos quadrados certos, sem repetir nenhum em linha, coluna ou bloco, jogue [Os selos de prata](/jogo-os-selos-de-prata/).
+Para decifrar selos de prata nos quadrados certos, sem repetir nenhum em linha, coluna ou bloco, jogue [Os selos de prata](/pt/jogo-os-selos-de-prata/).

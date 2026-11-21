@@ -23,4 +23,4 @@ Four strings, four columns. When a golden note reaches the glowing line, tap its
 
 ## The story behind it
 
-In Norwegian folklore, Fossegrim lives in waterfalls and teaches the fiddle to those who bring him a gift on a Thursday night, so well that the trees dance. The notes and melody in the game are made up. Read the story in [Fossegrim: the waterfall spirit who teaches the fiddle to those who bring a gift](/en/2026/11/13/fossegrim-violino/).
+In Norwegian folklore, Fossegrim lives in waterfalls and teaches the fiddle to those who bring him a gift on a Thursday night, so well that the trees dance. The notes and melody in the game are made up. Read the story in [Fossegrim: the waterfall spirit who teaches the fiddle to those who bring a gift](/fossegrim-the-waterfall-spirit-who-teaches-the-fiddle/).

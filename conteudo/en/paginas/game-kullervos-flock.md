@@ -23,4 +23,4 @@ Drag your finger (or use the arrows / WASD) to move the shepherd. The animals ru
 
 ## The story behind it
 
-In the Kalevala, the enslaved shepherd Kullervo tends Ilmarinen's herd. The task of driving the animals into the pen is made up. Read the story in [Kullervo: the young slave of the *Kalevala* who turned wolves into a herd](/en/2026/11/29/kullervo-kalevala-pastor-vingador/).
+In the Kalevala, the enslaved shepherd Kullervo tends Ilmarinen's herd. The task of driving the animals into the pen is made up. Read the story in [Kullervo: the young slave of the *Kalevala* who turned wolves into a herd](/kullervo-the-young-slave-of-the-kalevala-who-turned-wolves/).

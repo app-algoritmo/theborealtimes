@@ -42,4 +42,4 @@ The story mixes elements of the northern climate, with ice and fire, and a very 
 
 The *Völuspá*, the best-known poem of the *Poetic Edda*, describes the beginning of time without mentioning the cow: then there was no sand, no sea, no cold waves, no earth and no sky, only the abyss Ginnungagap. The *Grímnismál*, another poem in the same collection, says the world was made from the body of Ymir. Snorri gathered these pieces and added the image of the cow, so his version is the fullest and also the most orderly.
 
-To free Búri from the block of ice before it freezes over again, play [Auðumbla's ice](/en/game-audumblas-ice/).
+To free Búri from the block of ice before it freezes over again, play [Auðumbla's ice](/game-audumblas-ice/).

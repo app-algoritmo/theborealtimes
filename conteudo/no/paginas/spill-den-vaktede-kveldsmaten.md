@@ -23,4 +23,4 @@ Jólasveinar kommer inn gjennom vinduet, én om gangen, og hver vil stjele bare 
 
 ## Historien bak
 
-Ifølge kildene kommer Jólasveinar én per natt de tretten nettene før jul, og hver har et navn knyttet til det han gjør, som Bjúgnakrækir, pølsetyven. Denne kveldsmaten og rekkefølgen på ankomstene er oppdiktet. Les historien i [De tretten Jólasveinar på Island og julenettene til de uartige gutta](/no/2027/03/21/os-treze-jolasveinar-da-islandia-e-as-noites-de-natal-dos-meninos-travessos/).
+Ifølge kildene kommer Jólasveinar én per natt de tretten nettene før jul, og hver har et navn knyttet til det han gjør, som Bjúgnakrækir, pølsetyven. Denne kveldsmaten og rekkefølgen på ankomstene er oppdiktet. Les historien i [De tretten Jólasveinar på Island og julenettene til de uartige gutta](/no/de-tretten-jolasveinar-pa-island-og-julenettene/).

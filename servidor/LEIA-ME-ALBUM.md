@@ -7,7 +7,7 @@ O Álbum funciona sem conta: o progresso fica no navegador de cada aparelho. A c
 1. No phpMyAdmin do Domeneshop, rode o conteúdo de `banco-album.sql` (cria 3 tabelas novas; não mexe em `boreal_assinantes`).
 2. Envie `album.php` e o `comum.php` atualizado para a mesma pasta dos outros PHP.
 3. No `config.php`, acrescente (opcional, só se a página do álbum mudar de endereço):
-   `'album_paginas' => ['pt' => '/album/', 'en' => '/en/album/', 'no' => '/no/album/'],`
+   `'album_paginas' => ['pt' => '/pt/album/', 'en' => '/album/', 'no' => '/no/album/'],`
 4. No `boreal.yaml`, acrescente no fim do arquivo:
 
 ```yaml

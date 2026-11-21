@@ -23,4 +23,4 @@ Flytt racketen (dra fingeren eller bruk ← →) slik at ballen ikke faller, og 
 
 ## Historien bak
 
-I Gylfaginning forsvinner gudenes palass foran kong Gylfe. Spillet med å slå ned murstein er diktet opp. Les historien i [Gylfaginning: kong Gylfe, forkledd som Gangleri, stiller spørsmål i et palass som forsvinner](/no/2026/12/06/gylfaginning-gylfi-engana-aesir/).
+I Gylfaginning forsvinner gudenes palass foran kong Gylfe. Spillet med å slå ned murstein er diktet opp. Les historien i [Gylfaginning: kong Gylfe, forkledd som Gangleri, stiller spørsmål i et palass som forsvinner](/no/gylfaginning-kong-gylfe-forkledd-som-gangleri-stiller/).

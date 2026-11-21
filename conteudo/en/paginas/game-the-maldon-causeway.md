@@ -23,4 +23,4 @@ When the tide drops, the Vikings step onto the causeway and advance toward the E
 
 ## The story behind it
 
-In 991, at Maldon, the English lost the battle and began to pay the Danegeld. The winning defence in the game is made up. Read the story in [Maldon, 991: the battle that led the English to pay tribute to the Vikings](/en/2026/11/15/maldon-991-danegeld/).
+In 991, at Maldon, the English lost the battle and began to pay the Danegeld. The winning defence in the game is made up. Read the story in [Maldon, 991: the battle that led the English to pay tribute to the Vikings](/maldon-991-the-battle-that-led-the-english-to-pay-tribute/).

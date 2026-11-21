@@ -23,4 +23,4 @@ Guie a faísca pelo salão. Setas ou WASD, ou toque na direção que quer seguir
 
 ## A história por trás
 
-No Grímnismál, Odin disfarçado diz muitos dos seus nomes, entre duas fogueiras. O jogo de recolher nomes é invenção. Leia a história em [Grímnismál: Odin entre dois fogos, a falar sobre o mundo](/2026/11/29/grimnismal-odin-entre-fogos/).
+No Grímnismál, Odin disfarçado diz muitos dos seus nomes, entre duas fogueiras. O jogo de recolher nomes é invenção. Leia a história em [Grímnismál: Odin entre dois fogos, a falar sobre o mundo](/pt/grimnismal-odin-entre-fogos/).

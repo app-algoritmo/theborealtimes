@@ -23,4 +23,4 @@ Deslize o dedo (ou use as setas) para o esquiador escorregar no gelo: ele só pa
 
 ## A história por trás
 
-Ullr tem um salão de teixos e muitos topônimos, mas quase nenhum mito. O gelo e o marco são invenção. Leia a história em [Ullr: o deus dos esquis e do arco de que quase não restam histórias](/2026/12/27/ullr-deus-dos-esquis-e-do-arco/).
+Ullr tem um salão de teixos e muitos topônimos, mas quase nenhum mito. O gelo e o marco são invenção. Leia a história em [Ullr: o deus dos esquis e do arco de que quase não restam histórias](/pt/ullr-deus-dos-esquis-e-do-arco/).

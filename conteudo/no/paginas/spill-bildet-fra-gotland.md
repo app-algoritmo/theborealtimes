@@ -23,4 +23,4 @@ Flekken starter i øvre venstre hjørne. Trykk på en farge for å male flekken 
 
 ## Historien bak
 
-Bildesteinene på Gotland i Sverige viser seilskip fra 400-tallet til 1100-tallet. Fargespillet er diktet opp. Les historien i [Bildesteinene på Gotland: utskårne seilskip og farger som nesten ikke finnes igjen](/no/2026/12/06/gotland-pedras-pintadas-barcos-velas/).
+Bildesteinene på Gotland i Sverige viser seilskip fra 400-tallet til 1100-tallet. Fargespillet er diktet opp. Les historien i [Bildesteinene på Gotland: utskårne seilskip og farger som nesten ikke finnes igjen](/no/bildesteinene-pa-gotland-utskarne-seilskip-og-farger/).

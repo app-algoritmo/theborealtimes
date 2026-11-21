@@ -23,4 +23,4 @@ Mimes hode stiller fem spørsmål om historien. Trykk på riktig svar (eller bru
 
 ## Historien bak
 
-I de norrøne kildene ligger Mimes brønn under en rot av Yggdrasil, og Mimes hode står i Ynglingesaga. Spørsmålene i spillet er diktet opp. Les historien i [Mímir og visdommens brønn: øyet Odin ga og hodet som fortsatte å snakke](/no/2026/11/15/mimir-poco-sabedoria/).
+I de norrøne kildene ligger Mimes brønn under en rot av Yggdrasil, og Mimes hode står i Ynglingesaga. Spørsmålene i spillet er diktet opp. Les historien i [Mímir og visdommens brønn: øyet Odin ga og hodet som fortsatte å snakke](/no/mimir-og-visdommens-bronn-oyet-odin-ga-og-hodet/).

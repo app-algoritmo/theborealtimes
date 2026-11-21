@@ -23,4 +23,4 @@ I den store hallen står et sverd stukket inn i stammen på Branstock. For å dr
 
 ## Historien bak
 
-I Volsungesaga stikker en enøyd gammel mann et sverd inn i stammen i hallen, og bare Sigmund klarer å dra det ut. De vekslende draga er oppfunnet. Les historien i [Sigmund og sverdet i Barnstokkr, i Volsungesaga](/no/2027/03/14/sigmund-e-a-espada-cravada-no-barnstokkr-na-saga-dos-volsungos/).
+I Volsungesaga stikker en enøyd gammel mann et sverd inn i stammen i hallen, og bare Sigmund klarer å dra det ut. De vekslende draga er oppfunnet. Les historien i [Sigmund og sverdet i Barnstokkr, i Volsungesaga](/no/sigmund-og-sverdet-i-barnstokkr-i-volsungesaga/).

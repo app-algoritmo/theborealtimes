@@ -23,4 +23,4 @@ Fire flammer med runer lyser opp i en rekkefølge. Husk den og gjenta rekkefølg
 
 ## Historien bak
 
-I Hervors saga farer flammer og spøkelser rundt Angantyrs haug. Rekkefølgen på flammene er diktet opp for spillet. Les historien i [Hervor og sverdet Tyrfing: kvinnen som vekket sin døde far for å ta sverdet hans](/no/2026/11/20/hervor-tyrfing-hervarar-saga/).
+I Hervors saga farer flammer og spøkelser rundt Angantyrs haug. Rekkefølgen på flammene er diktet opp for spillet. Les historien i [Hervor og sverdet Tyrfing: kvinnen som vekket sin døde far for å ta sverdet hans](/no/hervor-og-sverdet-tyrfing-kvinnen-som-vekket-sin-dode-far/).

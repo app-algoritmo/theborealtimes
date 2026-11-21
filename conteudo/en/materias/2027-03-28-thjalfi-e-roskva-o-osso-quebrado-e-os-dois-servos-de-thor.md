@@ -44,4 +44,4 @@ In a chapter of the Prose Edda, Thor eats his goats at a farm, but the thigh bon
 
 The translation I read does not say why Thor revives the goats by means of the hammer, nor does it explain the ban on breaking the bones. It also does not say what Thjálfi was thinking when he broke the bone, or whether the farmer knew the rule. The text only tells what each one did and the price Thor charged.
 
-To lay the bones on the hides without touching the thigh bone, play [The bones on the hide](/en/game-the-bones-on-the-hide/).
+To lay the bones on the hides without touching the thigh bone, play [The bones on the hide](/game-the-bones-on-the-hide/).

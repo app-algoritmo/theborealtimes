@@ -23,4 +23,4 @@ Ilden starter i hjørnet øverst til venstre. Trykk på en farge så hele flekke
 
 ## Historien bak
 
-I Völuspá kommer Surt fra sør med ild og et svært skinnende sverd ved ragnarok, og verden brenner. Fargefeltet er oppfunnet. Les historien i [Surt, ildjætten fra Muspelheim: hva kildene sier om ragnarok](/no/2027/01/10/surtr-gigante-de-fogo-muspelheim-ragnarok/).
+I Völuspá kommer Surt fra sør med ild og et svært skinnende sverd ved ragnarok, og verden brenner. Fargefeltet er oppfunnet. Les historien i [Surt, ildjætten fra Muspelheim: hva kildene sier om ragnarok](/no/surt-ildjaetten-fra-muspelheim-hva-kildene-sier-om-ragnarok/).

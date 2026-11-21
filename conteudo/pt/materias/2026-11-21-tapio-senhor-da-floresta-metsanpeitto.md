@@ -37,4 +37,4 @@ Convém lembrar que a imagem de Tapio como figura bem definida, com família, ba
 
 Hoje, a imagem da floresta como espaço de respeito continua forte na Finlândia, onde existe o direito de acesso à natureza, que permite caminhar e colher frutos silvestres em terras alheias. Não há prova de que esse direito venha das crenças antigas, e os estudiosos evitam essa ligação direta. Mas é possível notar que a cultura finlandesa continua a tratar a mata como um lugar a ser conhecido, e não apenas usado.
 
-Para atravessar a floresta de Tapio sem se perder, lendo os sinais ao redor de cada passo, jogue [A floresta de Tapio](/jogo-a-floresta-de-tapio/).
+Para atravessar a floresta de Tapio sem se perder, lendo os sinais ao redor de cada passo, jogue [A floresta de Tapio](/pt/jogo-a-floresta-de-tapio/).

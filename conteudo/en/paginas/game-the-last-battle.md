@@ -23,4 +23,4 @@ Wolves and giants advance from both sides. Tap the left or right half of the scr
 
 ## The story behind it
 
-In the Völuspá and Snorri's Prose Edda, Ragnarök is the final battle in which many gods die and the world is destroyed and then reborn. The victorious dawn in the game is made up. Read the story in [Ragnarök: how the Norse poems tell the end of the world, and what comes after](/en/2026/11/14/ragnarok-fim-do-mundo/).
+In the Völuspá and Snorri's Prose Edda, Ragnarök is the final battle in which many gods die and the world is destroyed and then reborn. The victorious dawn in the game is made up. Read the story in [Ragnarök: how the Norse poems tell the end of the world, and what comes after](/ragnarok-how-the-norse-poems-tell-the-end-of-the-world/).

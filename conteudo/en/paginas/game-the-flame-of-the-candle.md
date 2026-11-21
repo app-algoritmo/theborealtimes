@@ -23,4 +23,4 @@ At Norna-Gest's cradle, his life lasts as long as the candle does. Here, four wi
 
 ## The story behind it
 
-In the Norna-Gests þáttr, a norn says Gest will live only as long as the candle beside the cradle keeps burning; the eldest puts out the flame and the mother hides the candle. The four winds, the bars and the rhythm of the game are invention. Read the story in [Norna-Gest: the man who lived three hundred years as long as a candle did not burn out](/en/2027/04/04/norna-gest-o-homem-que-viveu-trezentos-anos-enquanto-uma-vela-nao-acabasse/).
+In the Norna-Gests þáttr, a norn says Gest will live only as long as the candle beside the cradle keeps burning; the eldest puts out the flame and the mother hides the candle. The four winds, the bars and the rhythm of the game are invention. Read the story in [Norna-Gest: the man who lived three hundred years as long as a candle did not burn out](/norna-gest-the-man-who-lived-three-hundred-years-as-long/).

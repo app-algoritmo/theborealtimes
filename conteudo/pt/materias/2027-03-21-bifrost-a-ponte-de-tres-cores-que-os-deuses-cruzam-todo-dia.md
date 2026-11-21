@@ -45,4 +45,4 @@ Bifröst é a ponte dos deuses, de três cores, em parte de fogo, guardada por H
 
 As fontes não dizem de que material a ponte é feita nem quais são as três cores, apenas que uma delas é vermelha. Também não está claro se a ponte era vista como arco-íris, como outro fenômeno do céu ou como uma imagem poética.
 
-Para repetir as cores da ponte na ordem certa e manter os deuses seguros, jogue [As três cores](/jogo-as-tres-cores/).
+Para repetir as cores da ponte na ordem certa e manter os deuses seguros, jogue [As três cores](/pt/jogo-as-tres-cores/).

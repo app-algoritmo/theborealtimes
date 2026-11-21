@@ -51,4 +51,4 @@ The forge of Building J and the smelting hut show that iron was worked there. Th
 
 Two sagas describe settlements called Leifsbudir and Hóp, and both have been linked to the site. Dr Stuart C. Brown called Ingstad's claim that the site is Leifsbudir "wholly unconvincing". The meaning of the name Vinland proposed by the Ingstads is debated, and the nuts suggest that the Norse reached regions where grapes grow as well. In other words, the site is Norse, and the date is firm, but the link with the names in the sagas remains in dispute.
 
-To probe the ground, square by square, guided by the numbers of the neighbours, play [The survey at L'Anse aux Meadows](/en/game-the-survey-at-lanse-aux-meadows/).
+To probe the ground, square by square, guided by the numbers of the neighbours, play [The survey at L'Anse aux Meadows](/game-the-survey-at-lanse-aux-meadows/).

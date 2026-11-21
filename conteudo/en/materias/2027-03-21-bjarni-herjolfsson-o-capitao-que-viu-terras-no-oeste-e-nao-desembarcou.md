@@ -45,4 +45,4 @@ The *Greenlanders' Saga* is an Icelandic saga about the settlement of Greenland 
 
 The saga was written centuries after the events, and the date of 985 or 986 and the identification of the three lands are interpretations. Oleson's proposal is only one among others, and the account of the voyage, without maps or instruments, does not allow the route to be reconstructed. It is also possible that the account of Bjarni serves, in the saga, to explain where Leif got the idea for his voyage, rather than being a faithful memory of a real voyage.
 
-To keep the ship on course to Greenland, without a compass, play [No compass](/en/game-no-compass/).
+To keep the ship on course to Greenland, without a compass, play [No compass](/game-no-compass/).

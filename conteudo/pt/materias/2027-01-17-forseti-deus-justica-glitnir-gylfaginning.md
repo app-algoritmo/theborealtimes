@@ -43,4 +43,4 @@ O artigo observa que Forseti não é citado como combatente no Ragnarök. Por is
 
 O artigo não dá, para Forseti, nenhuma passagem da *Grímnismál* nem da *Skáldskaparmál*; a única fonte nórdica que ele cita é a *Gylfaginning*. A origem frísia e a viagem do culto são hipóteses. A ausência de Forseti no Ragnarök é uma suposição. E o próprio artigo se apoia em estudos modernos, não nos manuscritos, de modo que o leitor que quiser ir além precisa abrir os textos de Snorri e os estudos citados.
 
-Para pôr à prova a sua capacidade de ler um veredito, num jogo de adivinhação ao pé do salão, jogue [A sentença de Forseti](/jogo-a-sentenca-de-forseti/).
+Para pôr à prova a sua capacidade de ler um veredito, num jogo de adivinhação ao pé do salão, jogue [A sentença de Forseti](/pt/jogo-a-sentenca-de-forseti/).

@@ -23,4 +23,4 @@ Tre grupper med krigere (på 2, 3 og 3 ruter) er skjult i en mark på 6 ganger 6
 
 ## Historien bak
 
-Ved Assandun i 1016 beseiret Knut Edmund Jernside. Marken, gruppene og skuddene er diktet opp for spillet. Les historien i [Assandun, 1016: slaget der Knut vant over Edmund Jernside](/no/2026/12/13/assandun-1016-canuto-edmundo/).
+Ved Assandun i 1016 beseiret Knut Edmund Jernside. Marken, gruppene og skuddene er diktet opp for spillet. Les historien i [Assandun, 1016: slaget der Knut vant over Edmund Jernside](/no/assandun-1016-slaget-der-knut-vant-over-edmund-jernside/).

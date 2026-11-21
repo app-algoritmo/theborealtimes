@@ -23,4 +23,4 @@ Ships are hidden on the map, in straight lines, never touching. The numbers on t
 
 ## The story behind it
 
-According to the sources, the Swedes built 3,000 ships for Brávellir, a legendary number; the battle’s existence is uncertain. Finding hidden ships is invented. Read the story in [The Battle of Brávellir: Sigurd Ring, Harald Wartooth and a legendary army](/en/2027/02/14/batalha-de-bravellir-sigurd-hring-harald-dente-de-guerra/).
+According to the sources, the Swedes built 3,000 ships for Brávellir, a legendary number; the battle’s existence is uncertain. Finding hidden ships is invented. Read the story in [The Battle of Brávellir: Sigurd Ring, Harald Wartooth and a legendary army](/the-battle-of-bravellir-sigurd-ring-harald-wartooth/).

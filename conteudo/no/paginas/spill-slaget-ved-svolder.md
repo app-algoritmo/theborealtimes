@@ -23,4 +23,4 @@ Hold trykket (eller mellomromstasten) for å spenne buen og slipp når linjen er
 
 ## Historien bak
 
-Slaget ved Svolder, rundt år 1000, endte med kong Olav Tryggvasons nederlag. I sagaen brister en bueskyttes bue, og kongen spør hva som brast. Spillmekanikken er diktet opp. Les historien i [Svolder år 1000: kong Olav Tryggvasons siste slag og skipet Ormen Lange](/no/2026/11/15/svolder-ormen-lange-1000/).
+Slaget ved Svolder, rundt år 1000, endte med kong Olav Tryggvasons nederlag. I sagaen brister en bueskyttes bue, og kongen spør hva som brast. Spillmekanikken er diktet opp. Les historien i [Svolder år 1000: kong Olav Tryggvasons siste slag og skipet Ormen Lange](/no/svolder-ar-1000-kong-olav-tryggvasons-siste-slag-og-skipet/).

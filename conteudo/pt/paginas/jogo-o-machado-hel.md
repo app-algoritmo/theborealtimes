@@ -23,4 +23,4 @@ Defenda a linha de batalha. Guerreiros wendos avançam por três faixas. Toque n
 
 ## A história por trás
 
-Em 1043, em Lyrskov Hede, Magnus, o Bom, derrotou um exército de wendos, e as fontes falam do machado Hel de Santo Olavo. Os golpes em fila são invenção. Leia a história em [Magnus, o Bom, e a batalha de Lyrskov Hede, em 1043, contra os wendos](/2027/03/07/magnus-o-bom-e-a-batalha-de-lyrskov-hede-em-1043-contra-os-wendos/).
+Em 1043, em Lyrskov Hede, Magnus, o Bom, derrotou um exército de wendos, e as fontes falam do machado Hel de Santo Olavo. Os golpes em fila são invenção. Leia a história em [Magnus, o Bom, e a batalha de Lyrskov Hede, em 1043, contra os wendos](/pt/magnus-o-bom-e-a-batalha-de-lyrskov-hede-em-1043-contra-os-wendos/).

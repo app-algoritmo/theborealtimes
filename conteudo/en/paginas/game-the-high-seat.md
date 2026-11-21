@@ -23,4 +23,4 @@ From the high seat, watch the huts of the valley. When a lantern lights up, tap 
 
 ## The story behind it
 
-In the texts, Odin sees the worlds from the seat Hliðskjálf, and Freyr, sitting in it, sees Gerðr. The lights in the valley are invented. Read the story in [Hliðskjálf: Odin's seat from which all worlds are seen](/en/2027/03/07/hlidskjalf-o-trono-de-odin-de-onde-se-ve-todos-os-mundos/).
+In the texts, Odin sees the worlds from the seat Hliðskjálf, and Freyr, sitting in it, sees Gerðr. The lights in the valley are invented. Read the story in [Hliðskjálf: Odin's seat from which all worlds are seen](/hlidskjalf-odin-s-seat-from-which-all-worlds-are-seen/).

@@ -23,4 +23,4 @@ Preencha a grade com dois símbolos (toque para alternar: vazio → ◯ → ●)
 
 ## A história por trás
 
-Em Ridgeway Hill (Dorset), foi achada uma sepultura coletiva do tempo viking. O quebra-cabeça de símbolos é invenção. Leia a história em [Ridgeway Hill: a sepultura coletiva de Dorset e o que os dentes contam](/2026/11/29/ridgeway-hill-sepultura-coletiva-dorset/).
+Em Ridgeway Hill (Dorset), foi achada uma sepultura coletiva do tempo viking. O quebra-cabeça de símbolos é invenção. Leia a história em [Ridgeway Hill: a sepultura coletiva de Dorset e o que os dentes contam](/pt/ridgeway-hill-sepultura-coletiva-dorset/).

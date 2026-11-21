@@ -44,4 +44,4 @@ Fanitullen is a tune of the Norwegian fiddle linked, by legend, to a devilish fi
 
 The court documents support the fight between the two young men, but not the devilish fiddler, who belongs to the legend. We do not know when the legend was tied to this wedding or how much of it is older than 1724.
 
-To play the strings in time and keep the fight away from the wedding, play [The fiddle strings](/en/game-the-fiddle-strings/).
+To play the strings in time and keep the fight away from the wedding, play [The fiddle strings](/game-the-fiddle-strings/).

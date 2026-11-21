@@ -23,4 +23,4 @@ Trykk på høyttaleren for å høre en kort melodi. Trykk så på linjen som teg
 
 ## Historien bak
 
-Joik er en samisk sang som kaller fram en person, et dyr eller et sted. Melodiene i dette spillet er oppfunnet. Les historien i [Joik: den samiske sangen som frambringer et menneske, et dyr eller et sted](/no/2027/02/28/joik-o-canto-sami-que-evoca-uma-pessoa-um-animal-ou-um-lugar/).
+Joik er en samisk sang som kaller fram en person, et dyr eller et sted. Melodiene i dette spillet er oppfunnet. Les historien i [Joik: den samiske sangen som frambringer et menneske, et dyr eller et sted](/no/joik-den-samiske-sangen-som-frambringer-et-menneske-et-dyr/).

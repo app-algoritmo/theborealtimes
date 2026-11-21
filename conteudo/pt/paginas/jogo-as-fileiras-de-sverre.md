@@ -23,4 +23,4 @@ Peças caem e você as encaixa. Setas: esquerda e direita movem, para cima gira,
 
 ## A história por trás
 
-A Saga de Sverre conta a ascensão de um rei da Noruega. As peças que caem no jogo são invenção. Leia a história em [Sverre Sigurdsson: o padre criado nas Faroé que virou rei da Noruega e escreveu sua própria saga](/2026/11/22/sverre-sigurdsson-sverris-saga/).
+A Saga de Sverre conta a ascensão de um rei da Noruega. As peças que caem no jogo são invenção. Leia a história em [Sverre Sigurdsson: o padre criado nas Faroé que virou rei da Noruega e escreveu sua própria saga](/pt/sverre-sigurdsson-sverris-saga/).

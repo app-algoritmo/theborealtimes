@@ -23,4 +23,4 @@ Du har to vannsekker med ulik størrelse, uten målestreker, en kilde og et avl�
 
 ## Historien bak
 
-Ifølge Landnámabók bodde irske munker på Island før nordboerne og etterlot seg bøker, klokker og bispestaver; arkeologien har ikke bekreftet at de var der. Å måle vann er oppfunnet. Les historien i [Papar: de «kristne menn» kildene sier bodde på Island før nordboerne](/no/2027/02/14/papar-monges-irlandeses-islandia-antes-dos-nordicos/).
+Ifølge Landnámabók bodde irske munker på Island før nordboerne og etterlot seg bøker, klokker og bispestaver; arkeologien har ikke bekreftet at de var der. Å måle vann er oppfunnet. Les historien i [Papar: de «kristne menn» kildene sier bodde på Island før nordboerne](/no/papar-de-kristne-menn-kildene-sier-bodde-pa-island/).

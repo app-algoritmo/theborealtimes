@@ -37,4 +37,4 @@ Ansgar died in Bremen on 3 February 865. The *Vita Anskarii* was written by his 
 
 Ansgar did not convert Scandinavia. The process was much slower and was consolidated only in the 10th and 11th centuries, with kings such as Harald Bluetooth in Denmark and Olaf in Norway. But his story shows that, already in the 9th century, there was contact between the Frankish Church and the Nordic kingdoms, and that Christians had some presence in centres such as Birka and Hedeby. By tradition he came to be called the "apostle of the North".
 
-To flip your rival's pieces with your own, on a six-by-six board, play [Birka's board](/en/game-birkas-board/).
+To flip your rival's pieces with your own, on a six-by-six board, play [Birka's board](/game-birkas-board/).

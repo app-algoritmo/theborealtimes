@@ -39,4 +39,4 @@ O nome nórdico antigo foi traduzido como "a que traz tristeza", "a que oferece 
 
 Alguns estudiosos consideram o nome Angrboða uma invenção tardia, não anterior ao século XII. A tradição de três monstros nascidos de Loki e de uma giganta pode ser mais antiga que o nome. A identificação da giganta de Járnviðr com Angrboða é uma dedução, descrita como "mais provável", e não uma atestação explícita. Peter H. Salus e Paul B. Taylor sugerem que Eggþér teria sido pastor de lobos de Angrboða, o que também é hipótese. O artigo não trata da *Skáldskaparmál*.
 
-Para ver uma mancha crescer por uma floresta inteira até ela ter uma só cor, jogue [A Floresta de Ferro](/jogo-a-floresta-de-ferro/).
+Para ver uma mancha crescer por uma floresta inteira até ela ter uma só cor, jogue [A Floresta de Ferro](/pt/jogo-a-floresta-de-ferro/).

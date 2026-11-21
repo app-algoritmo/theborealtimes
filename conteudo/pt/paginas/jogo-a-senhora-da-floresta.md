@@ -23,4 +23,4 @@ A skogsrå, a senhora da floresta, testa o seu conhecimento. São oito perguntas
 
 ## A história por trás
 
-A skogsrå aparece no folclore sueco. As perguntas e as respostas do jogo resumem tradições populares. Leia a história em [Skogsrå: a senhora da floresta sueca, que dá sorte a caçadores e leva carvoeiros para o mato](/2026/11/19/skogsra-senhora-da-floresta-suecia/).
+A skogsrå aparece no folclore sueco. As perguntas e as respostas do jogo resumem tradições populares. Leia a história em [Skogsrå: a senhora da floresta sueca, que dá sorte a caçadores e leva carvoeiros para o mato](/pt/skogsra-senhora-da-floresta-suecia/).

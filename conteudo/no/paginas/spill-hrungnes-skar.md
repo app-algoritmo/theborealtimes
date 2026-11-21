@@ -23,4 +23,4 @@ Steinjotunen knuses, og skårene flyr. Dra fingeren (eller musa) over dem for å
 
 ## Historien bak
 
-Ifølge Snorre ble et skår av Hrungnes bryne sittende fast i hodet til Tor. Skårregnet er diktet opp for spillet. Les historien i [Tor mot Hrungne: duellen med jotunen med stein i brystet og skåret som ble sittende i guden hode](/no/2026/11/19/hrungnir-thor-duelo-pedra-amolar/).
+Ifølge Snorre ble et skår av Hrungnes bryne sittende fast i hodet til Tor. Skårregnet er diktet opp for spillet. Les historien i [Tor mot Hrungne: duellen med jotunen med stein i brystet og skåret som ble sittende i guden hode](/no/tor-mot-hrungne-duellen-med-jotunen-med-stein-i-brystet/).

@@ -39,4 +39,4 @@ Each age built on the remains of the one before, and that is what gives Jarlshof
 
 The article leaves open the interpretation of one structure as a sauna, and the ship drawings on slate may be older than the Norse. Coastal erosion also threatens the site, but the extent of the risk is not detailed.
 
-To stack sliding blocks, dropping each at the right moment, until a tall tower is formed, play [The tower of Jarlshof](/en/game-the-tower-of-jarlshof/).
+To stack sliding blocks, dropping each at the right moment, until a tall tower is formed, play [The tower of Jarlshof](/game-the-tower-of-jarlshof/).

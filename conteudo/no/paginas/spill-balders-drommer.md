@@ -23,4 +23,4 @@ Trykk på et kort for å snu det, og så på et nytt. Hvis de to tegnene er like
 
 ## Historien bak
 
-I Baldrs draumar rir Odin ned til Hel for å forstå Balders drømmer. Tegnene på kortene er diktet opp. Les historien i [Baldrs draumar: Odin rir til Hel for å høre hva Baldrs drømmer varsler](/no/2026/12/13/baldrs-draumar-odin-desce-a-hel/).
+I Baldrs draumar rir Odin ned til Hel for å forstå Balders drømmer. Tegnene på kortene er diktet opp. Les historien i [Baldrs draumar: Odin rir til Hel for å høre hva Baldrs drømmer varsler](/no/baldrs-draumar-odin-rir-til-hel-for-a-hore-hva-baldrs/).

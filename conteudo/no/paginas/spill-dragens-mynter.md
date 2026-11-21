@@ -23,4 +23,4 @@ Gullmynter ligger spredt utover et brett. Trykk på en mynt og så på en tom ru
 
 ## Historien bak
 
-I Gull-Þóris saga henter Þórir gull fra drager i en hule og krangler siden med Hallr om delingen; til slutt går det rykter om at han ble en drage. Å hoppe mynter er oppfunnet. Les historien i [Gull-Þóris saga: nybyggeren som ble rik på drager-gull](/no/2027/02/14/gull-thoris-saga-ouro-dragoes-islandia/).
+I Gull-Þóris saga henter Þórir gull fra drager i en hule og krangler siden med Hallr om delingen; til slutt går det rykter om at han ble en drage. Å hoppe mynter er oppfunnet. Les historien i [Gull-Þóris saga: nybyggeren som ble rik på drager-gull](/no/gull-thoris-saga-nybyggeren-som-ble-rik-pa-drager-gull/).

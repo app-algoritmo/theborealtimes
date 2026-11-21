@@ -23,4 +23,4 @@ Hold your finger (or the space bar) to move along the trail. When the eyes of St
 
 ## The story behind it
 
-Stállo is a giant of Sámi tales. The trail and the giant’s gaze are made up for the game. Read the story in [Stállo: the foolish giant of the Sámi tales, who always loses to the cunning of those he wants to devour](/en/2026/11/19/stallo-gigante-conto-sami/).
+Stállo is a giant of Sámi tales. The trail and the giant’s gaze are made up for the game. Read the story in [Stállo: the foolish giant of the Sámi tales, who always loses to the cunning of those he wants to devour](/stallo-the-foolish-giant-of-the-sami-tales-who-always-loses/).

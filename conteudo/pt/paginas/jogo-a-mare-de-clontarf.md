@@ -23,4 +23,4 @@ Os navios nórdicos fogem pelo estuário com a maré. Toque numa casa da água p
 
 ## A história por trás
 
-A batalha de Clontarf foi travada em 1014, perto de Dublin. A caça aos navios é invenção do jogo. Leia a história em [Clontarf, 1014: a batalha de Sexta-feira Santa em que morreu Brian Boru, e por que não foi só irlandeses contra vikings](/2026/11/19/clontarf-1014-brian-boru-dublin/).
+A batalha de Clontarf foi travada em 1014, perto de Dublin. A caça aos navios é invenção do jogo. Leia a história em [Clontarf, 1014: a batalha de Sexta-feira Santa em que morreu Brian Boru, e por que não foi só irlandeses contra vikings](/pt/clontarf-1014-brian-boru-dublin/).

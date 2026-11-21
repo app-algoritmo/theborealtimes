@@ -23,4 +23,4 @@ Oito pares de objetos de oferenda estão virados para baixo sobre a mesa. Toque 
 
 ## A história por trás
 
-Em Tissø, na Dinamarca, as escavações acharam martelos de Thor, fíbulas em forma de valquíria e armas e joias lançadas no lago. Os pares de cartões são invenção. Leia a história em [Tissø, o lago de Tyr, na Dinamarca: oferendas e amuletos da Era Viking](/2027/03/14/tisso-o-lago-de-tyr-na-dinamarca-oferendas-e-amuletos-da-era-viking/).
+Em Tissø, na Dinamarca, as escavações acharam martelos de Thor, fíbulas em forma de valquíria e armas e joias lançadas no lago. Os pares de cartões são invenção. Leia a história em [Tissø, o lago de Tyr, na Dinamarca: oferendas e amuletos da Era Viking](/pt/tisso-o-lago-de-tyr-na-dinamarca-oferendas-e-amuletos-da-era-viking/).

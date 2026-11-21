@@ -23,4 +23,4 @@ Arraste o dedo (ou use ← →) para mover seu guerreiro; ele lança uma lança 
 
 ## A história por trás
 
-Em janeiro de 871, os saxões do Oeste venceram os vikings em Ashdown. O jogo de atirar de baixo é invenção. Leia a história em [Ashdown, 871: Alfredo ataca morro acima e vence o Grande Exército](/2026/12/20/ashdown-871-alfredo-ethelred-vikings/).
+Em janeiro de 871, os saxões do Oeste venceram os vikings em Ashdown. O jogo de atirar de baixo é invenção. Leia a história em [Ashdown, 871: Alfredo ataca morro acima e vence o Grande Exército](/pt/ashdown-871-alfredo-ethelred-vikings/).

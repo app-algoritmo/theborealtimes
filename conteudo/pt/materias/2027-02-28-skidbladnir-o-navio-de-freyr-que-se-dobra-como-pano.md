@@ -47,4 +47,4 @@ Skíðblaðnir é o melhor dos navios: leva todos os deuses, acha vento onde for
 
 As fontes divergem sobre o dono do navio: Freyr nas Eddas, Odin na Heimskringla. O verbete também não diz se os anões de Grímnismál são os mesmos da Edda em Prosa, embora os apresente como o mesmo grupo. As fontes citadas não explicam como o navio se dobra. Tudo isso é narrativa de tradição, escrita séculos depois do tempo em que se acreditava nela.
 
-Para guardar um navio inteiro num bolso, encaixando as peças certas, jogue [O navio no bolso](/jogo-o-navio-no-bolso/).
+Para guardar um navio inteiro num bolso, encaixando as peças certas, jogue [O navio no bolso](/pt/jogo-o-navio-no-bolso/).

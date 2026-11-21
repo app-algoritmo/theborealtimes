@@ -43,4 +43,4 @@ The text *Hversu Noregr byggðist* makes Höðr ruler of Haðaland, in Norway. T
 
 The source leaves open the fate of Höðr in the Gylfaginning, where the story of the return after Ragnarök is not fully clear. The term "brothers" for Baldr and Höðr is also disputed, and his role in the warrior *kennings* is not well explained. No pagan account has reached us from an author of the time, and what we have was written after the conversion to Christianity.
 
-To find out who tells the truth and who lies at a table full of statements, play [Who is lying?](/en/game-who-is-lying/).
+To find out who tells the truth and who lies at a table full of statements, play [Who is lying?](/game-who-is-lying/).

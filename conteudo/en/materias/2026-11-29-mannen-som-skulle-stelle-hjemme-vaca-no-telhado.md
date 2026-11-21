@@ -45,4 +45,4 @@ The Norwegian version became known outside the country thanks to the translation
 
 The tale is a good example of the situational humour that folk tales like. Nothing needs to be explained: it is enough to see the man stuck in the chimney and the cow hanging. This helps to understand why stories like this survived so long aloud, before being written down.
 
-To catch in the basket the chores of the house that fall from the roof, and dodge what only gets in the way, such as the pig, play [The man and the housework](/en/game-the-man-and-the-housework/).
+To catch in the basket the chores of the house that fall from the roof, and dodge what only gets in the way, such as the pig, play [The man and the housework](/game-the-man-and-the-housework/).

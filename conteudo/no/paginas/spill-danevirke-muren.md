@@ -23,4 +23,4 @@ Inntrengere rykker fram i fem felt mot muren til venstre. Trykk på en tom rute 
 
 ## Historien bak
 
-Danevirke var en voll av jord og tre i Sør-Danmark, utvidet gjennom århundrene. Feltforsvaret er diktet opp for spillet. Les historien i [Danevirke: jordvollen danene reiste mot det frankiske riket](/no/2026/11/21/danevirke-muralha-dinamarquesa/).
+Danevirke var en voll av jord og tre i Sør-Danmark, utvidet gjennom århundrene. Feltforsvaret er diktet opp for spillet. Les historien i [Danevirke: jordvollen danene reiste mot det frankiske riket](/no/danevirke-jordvollen-danene-reiste-mot-det-frankiske-riket/).

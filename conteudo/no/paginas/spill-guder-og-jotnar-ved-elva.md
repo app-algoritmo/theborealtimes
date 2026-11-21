@@ -23,4 +23,4 @@ Ta de 3 gudene og de 3 jötnene over til den andre bredden i en båt for 2. Tryk
 
 ## Historien bak
 
-I listen over jötnar som er brukt, står Bestla, Odins mor, Fárbauti, Lokes far, og Jörð, Tors mor, blant dem. Elva og båten er oppfunnet. Les historien i [Jötnene, kjempene i norrøn mytologi: slekt og rivaler av gudene](/no/2027/01/10/jotnar-gigantes-mitologia-nordica-parentes-dos-deuses/).
+I listen over jötnar som er brukt, står Bestla, Odins mor, Fárbauti, Lokes far, og Jörð, Tors mor, blant dem. Elva og båten er oppfunnet. Les historien i [Jötnene, kjempene i norrøn mytologi: slekt og rivaler av gudene](/no/jotnene-kjempene-i-norron-mytologi-slekt-og-rivaler/).

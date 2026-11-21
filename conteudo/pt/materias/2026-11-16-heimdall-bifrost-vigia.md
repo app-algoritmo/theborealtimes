@@ -43,4 +43,4 @@ Quando isso acontecer, Heimdall soprará o Gjallarhorn para chamar os deuses. A 
 
 Heimdall é o deus da atenção. Num mundo em que os deuses têm poder, mas dependem de alguém que olhe, ele mostra que vigiar também é uma força. Para os leitores de hoje, vem daí a imagem do sentinela que nunca dorme e é, ao mesmo tempo, o primeiro e o último a perceber o perigo.
 
-Para repetir a sequência que Heimdall toca no chifre, jogue [As cores de Bifröst](/jogo-as-cores-do-bifrost/).
+Para repetir a sequência que Heimdall toca no chifre, jogue [As cores de Bifröst](/pt/jogo-as-cores-do-bifrost/).

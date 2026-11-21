@@ -39,4 +39,4 @@ The source mentions the Tullstorp rune stone, in Sweden, as a possible depiction
 
 The source does not say that Loki steers the ship: what it records is that he comes aboard. There is no information here about Slavic parallels. The origin of the name, the identification of the Tullstorp stone and the exact sense of the warning about nails remain under debate. The texts reached us through medieval manuscripts, written after the conversion to Christianity.
 
-To untangle the ship's ropes without any crossing another, play [The ropes of Naglfar](/en/game-the-ropes-of-naglfar/).
+To untangle the ship's ropes without any crossing another, play [The ropes of Naglfar](/game-the-ropes-of-naglfar/).

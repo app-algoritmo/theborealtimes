@@ -23,4 +23,4 @@ Erga o recinto de pedras dentro do barco. Uma laje desliza de um lado para o out
 
 ## A história por trás
 
-Em Scar, nas Órcades, um barco de 6,5 m guardava três corpos num recinto murado de pedras, datado entre 875 e 950. A pilha de lajes é invenção. Leia a história em [Scar: o sepultamento viking em barco na ilha de Sanday, nas Órcades](/2027/03/07/scar-o-sepultamento-viking-em-barco-na-ilha-de-sanday-nas-orcades/).
+Em Scar, nas Órcades, um barco de 6,5 m guardava três corpos num recinto murado de pedras, datado entre 875 e 950. A pilha de lajes é invenção. Leia a história em [Scar: o sepultamento viking em barco na ilha de Sanday, nas Órcades](/pt/scar-o-sepultamento-viking-em-barco-na-ilha-de-sanday-nas-orcades/).

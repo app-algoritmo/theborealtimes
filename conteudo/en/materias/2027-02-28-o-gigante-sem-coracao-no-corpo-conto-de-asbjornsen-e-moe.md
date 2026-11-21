@@ -51,4 +51,4 @@ The youngest of seven princes saves six petrified brothers because he helped a r
 
 The entry does not give the date or the exact source of the collection by Asbjørnsen and Moe, does not name the king, the princes, the princess or the castle, and does not explain how the heart came to be in the egg or why the wolf helps. Nor does the entry’s plot mention a chest or a ring. Some claims are attributed to scholars without further detail.
 
-To find the right numbers on a grid and leave only the repeated ones in stone, play [The brothers of stone](/en/game-the-brothers-of-stone/).
+To find the right numbers on a grid and leave only the repeated ones in stone, play [The brothers of stone](/game-the-brothers-of-stone/).

@@ -40,4 +40,4 @@ Em Saxo, Starkad vive suas três vidas e termina em Roliung, onde pede para ser 
 
 As fontes não dizem como as duas figuras de nome igual se relacionam fora do parentesco de avô e neto. A identidade e a época do herói variam de fonte para fonte, e a primeira fonte reconhece que a explicação do que Saxo chama de "três atos malignos" não é clara. O sacrifício de Vikar é contado de modo diferente na saga e em Saxo, pois, na saga, ele é sacrificado e, em Saxo, Starkad o mata. Também não há como saber se o gigante de oito braços é uma lembrança mais antiga do mesmo herói ou um personagem à parte.
 
-Para acompanhar o copo certo depois que Odin embaralha a sorte, jogue [O sorteio de Odin](/jogo-o-sorteio-de-odin/).
+Para acompanhar o copo certo depois que Odin embaralha a sorte, jogue [O sorteio de Odin](/pt/jogo-o-sorteio-de-odin/).

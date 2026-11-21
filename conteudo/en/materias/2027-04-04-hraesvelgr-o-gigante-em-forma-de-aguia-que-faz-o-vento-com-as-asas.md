@@ -49,4 +49,4 @@ Hræsvelgr is a giant in the shape of an eagle who, at the end of the sky, makes
 
 No source says why the name speaks of corpses. The page consulted does not give the chapter of the *Gylfaginning* and does not summarise the 1998 article. It is probable, but not proved, that Snorri took the image from the poem itself.
 
-To blow the wind in the right direction, play [The wind from the wings](/en/game-the-wind-from-the-wings/).
+To blow the wind in the right direction, play [The wind from the wings](/game-the-wind-from-the-wings/).

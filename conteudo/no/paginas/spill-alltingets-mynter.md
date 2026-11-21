@@ -23,4 +23,4 @@ Det er tre hauger med mynter. I din tur trykker du på en mynt for å ta den og 
 
 ## Historien bak
 
-I Bandamanna saga vinner Ófeigr en sak med list og betalinger. Myntspillet er diktet opp. Les historien i [Bandamanna saga: rettssaken på Tingvellir og Ófeigrs list](/no/2026/12/20/bandamanna-saga-oddr-ofeigr-suborno/).
+I Bandamanna saga vinner Ófeigr en sak med list og betalinger. Myntspillet er diktet opp. Les historien i [Bandamanna saga: rettssaken på Tingvellir og Ófeigrs list](/no/bandamanna-saga-rettssaken-pa-tingvellir-og-ofeigrs-list/).

@@ -23,4 +23,4 @@ Alternate your strokes: tap the left and the right side of the screen, one after
 
 ## The story behind it
 
-The Saga of the Faroe Islanders tells of a man who escaped by swimming. The route and the distances in the game are made up. Read the story in [The Faroese saga: Sigmundur, Tróndur and the escape by swimming between the islands](/en/2026/11/22/foroyinga-saga-sigmundur-nado/).
+The Saga of the Faroe Islanders tells of a man who escaped by swimming. The route and the distances in the game are made up. Read the story in [The Faroese saga: Sigmundur, Tróndur and the escape by swimming between the islands](/the-faroese-saga-sigmundur-trondur-and-the-escape/).

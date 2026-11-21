@@ -23,4 +23,4 @@ Toque no alto-falante para ouvir uma melodia curta. Depois toque na linha que de
 
 ## A história por trás
 
-O joik é um canto sámi que evoca uma pessoa, um animal ou um lugar. As melodias deste jogo são inventadas. Leia a história em [Joik: o canto sámi que evoca uma pessoa, um animal ou um lugar](/2027/02/28/joik-o-canto-sami-que-evoca-uma-pessoa-um-animal-ou-um-lugar/).
+O joik é um canto sámi que evoca uma pessoa, um animal ou um lugar. As melodias deste jogo são inventadas. Leia a história em [Joik: o canto sámi que evoca uma pessoa, um animal ou um lugar](/pt/joik-o-canto-sami-que-evoca-uma-pessoa-um-animal-ou-um-lugar/).

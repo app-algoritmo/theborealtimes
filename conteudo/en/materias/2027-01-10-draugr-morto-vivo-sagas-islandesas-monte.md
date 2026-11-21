@@ -43,4 +43,4 @@ Draugar usually dwell in burial mounds, often guarding treasure. A related figur
 
 The article warns that the text of *Grettis saga* does not call Glámr a draugr, and that modern scholars do so on their own. This shows that the category "draugr" is, in part, a modern convention applied to different accounts. The sagas have different authors and periods, and do not form a single body of belief.
 
-To contest seeds with a draugr, at a table at the foot of the mound, play [The seeds of the mound](/en/game-the-seeds-of-the-mound/).
+To contest seeds with a draugr, at a table at the foot of the mound, play [The seeds of the mound](/game-the-seeds-of-the-mound/).

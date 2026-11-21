@@ -40,4 +40,4 @@ Hoje, a Lussinatta é lembrada sobretudo com velas e com o cortejo de Santa Luzi
 
 Em muitas regiões da Noruega, a Lussinatta também marcava o prazo para ter tudo pronto para o Natal: a cerveja devia estar preparada, o pão assado e a casa limpa. A palavra *jól*, o antigo festival de meio do inverno, era mais velha que o Natal cristão, e algumas dessas práticas parecem ter vindo dela. As lendas de Lussi, portanto, tinham um lado útil: quem acreditava no perigo da noite escura terminava a tempo o trabalho da estação.
 
-Para atravessar o pátio sem deixar a chama se apagar, jogue [A chama de Lussi](/jogo-a-chama-de-lussi/).
+Para atravessar o pátio sem deixar a chama se apagar, jogue [A chama de Lussi](/pt/jogo-a-chama-de-lussi/).

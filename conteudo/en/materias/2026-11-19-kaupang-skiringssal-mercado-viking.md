@@ -41,4 +41,4 @@ The site shows that Norse trade was not only plunder: there were organised marke
 
 The cemeteries of Kaupang also show who lived in the place: there are graves of men, women and children, with personal objects. This points to a stable community, not only passing visitors. Researchers debate who controlled the settlement, and the link to local chiefs or to neighbouring kings remains under discussion.
 
-To help a merchant arrange the goods without repeating any in each row, play [Kaupang's market](/en/game-kaupangs-market/).
+To help a merchant arrange the goods without repeating any in each row, play [Kaupang's market](/game-kaupangs-market/).

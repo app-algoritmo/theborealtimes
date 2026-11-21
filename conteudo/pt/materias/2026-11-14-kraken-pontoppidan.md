@@ -42,4 +42,4 @@ Na segunda metade do século XIX, os cientistas passaram a documentar a lula-gig
 
 Quase tudo o que Pontoppidan contou de sobrenatural segue sem prova. O que sobrevive é a pergunta que ele tentou responder: o que esconde o mar, sob a superfície onde os pescadores lançam as redes.
 
-Para decidir quando largar a pesca, jogue [Pesca sobre o Kraken](/jogo-pesca-sobre-o-kraken/).
+Para decidir quando largar a pesca, jogue [Pesca sobre o Kraken](/pt/jogo-pesca-sobre-o-kraken/).

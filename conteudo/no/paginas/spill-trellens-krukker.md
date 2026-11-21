@@ -23,4 +23,4 @@ Tre krukker rommer 8, 5 og 3 mål, og bare den største er full i starten. Trykk
 
 ## Historien bak
 
-En trell (þræll) var en slavebundet person i vikingtiden, under karlen, den frie mannen, og jarlen, ifølge diktet Rígsþula; ordet kommer fra en germansk rot som betyr «løper». Krukkene er oppfunnet. Les historien i [Trell: de slavebundne i vikingtiden, mellom den frie karlen og den adelige jarlen](/no/2027/01/10/thralls-escravizados-era-viking-rigsthula/).
+En trell (þræll) var en slavebundet person i vikingtiden, under karlen, den frie mannen, og jarlen, ifølge diktet Rígsþula; ordet kommer fra en germansk rot som betyr «løper». Krukkene er oppfunnet. Les historien i [Trell: de slavebundne i vikingtiden, mellom den frie karlen og den adelige jarlen](/no/trell-de-slavebundne-i-vikingtiden-mellom-den-frie-karlen/).

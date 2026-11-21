@@ -39,4 +39,4 @@ O caso de Ladby é útil para entender como funciona a arqueologia de materiais 
 
 Também vale notar que o enterro em navio aparece em outros lugares da Escandinávia, como na Noruega e na Suécia, com navios muito diferentes entre si. Em Oseberg e em Gokstad, por exemplo, a madeira se conservou, o que torna os navios de lá muito mais completos. Ladby mostra que o costume existiu também na Dinamarca, mas deixou uma marca bem mais discreta no solo.
 
-Para tirar os rebites do tabuleiro um a um, saltando por cima do vizinho até restar só um, como quem lê as marcas do navio de Ladby, jogue [Os rebites de Ladby](/jogo-os-rebites-de-ladby/).
+Para tirar os rebites do tabuleiro um a um, saltando por cima do vizinho até restar só um, como quem lê as marcas do navio de Ladby, jogue [Os rebites de Ladby](/pt/jogo-os-rebites-de-ladby/).

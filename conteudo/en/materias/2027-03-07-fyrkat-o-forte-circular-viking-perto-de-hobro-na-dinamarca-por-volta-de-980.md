@@ -45,4 +45,4 @@ Fyrkat is a geometric fort, built in one go, used for a few years and abandoned.
 
 The article does not settle who built it, Harald or Sweyn, nor its exact use. The details of the roof and the gate are debated. The total number of graves is unknown, and so is whether there were mounds. It is also unknown why it was abandoned and burned.
 
-To dig the ground of the fort, find the hidden objects and follow the clues from each hole, play [The dig at the fort](/en/game-the-dig-at-the-fort/).
+To dig the ground of the fort, find the hidden objects and follow the clues from each hole, play [The dig at the fort](/game-the-dig-at-the-fort/).

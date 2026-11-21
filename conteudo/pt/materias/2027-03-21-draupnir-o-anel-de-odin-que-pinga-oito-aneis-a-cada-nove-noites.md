@@ -45,4 +45,4 @@ Draupnir é o anel de ouro de Odin, forjado por anões depois de uma aposta de L
 
 Os textos que citam o anel foram registrados no século XIII, muito depois do tempo em que se acredita que as histórias nasceram. Não se sabe como era o anel numa versão mais antiga, nem se a ideia de um objeto que se multiplica vem de uma crença anterior ou foi desenvolvida por poetas.
 
-Para contar as noites e deixar cair os anéis na nona, jogue [A nona noite](/jogo-a-nona-noite/).
+Para contar as noites e deixar cair os anéis na nona, jogue [A nona noite](/pt/jogo-a-nona-noite/).

@@ -23,4 +23,4 @@ Toque (ou use o espaço) para o navio subir; ao soltar, ele desce sozinho. Passe
 
 ## A história por trás
 
-Segundo a Crônica Anglo-Saxônica, Sweyn subiu o Humber e o Trent até Gainsborough em 1013. As passagens do jogo são invenção. Leia a história em [Sweyn Barba-Bifurcada e a conquista da Inglaterra em 1013](/2026/11/29/sweyn-barba-bifurcada-inglaterra-1013/).
+Segundo a Crônica Anglo-Saxônica, Sweyn subiu o Humber e o Trent até Gainsborough em 1013. As passagens do jogo são invenção. Leia a história em [Sweyn Barba-Bifurcada e a conquista da Inglaterra em 1013](/pt/sweyn-barba-bifurcada-inglaterra-1013/).

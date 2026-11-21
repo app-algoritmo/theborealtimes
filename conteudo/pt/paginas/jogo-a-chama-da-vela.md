@@ -23,4 +23,4 @@ No berço de Norna-Gest, a vida dele dura enquanto a vela não acabar. Aqui, qua
 
 ## A história por trás
 
-No Norna-Gests þáttr, uma norna diz que Gest só viverá enquanto a vela ao lado do berço continuar acesa; a mais velha apaga a chama e a mãe esconde a vela. Os quatro ventos, as barras e o ritmo do jogo são invenção. Leia a história em [Norna-Gest: o homem que viveu trezentos anos enquanto uma vela não acabasse](/2027/04/04/norna-gest-o-homem-que-viveu-trezentos-anos-enquanto-uma-vela-nao-acabasse/).
+No Norna-Gests þáttr, uma norna diz que Gest só viverá enquanto a vela ao lado do berço continuar acesa; a mais velha apaga a chama e a mãe esconde a vela. Os quatro ventos, as barras e o ritmo do jogo são invenção. Leia a história em [Norna-Gest: o homem que viveu trezentos anos enquanto uma vela não acabasse](/pt/norna-gest-o-homem-que-viveu-trezentos-anos-enquanto-uma-vela-nao-acabasse/).

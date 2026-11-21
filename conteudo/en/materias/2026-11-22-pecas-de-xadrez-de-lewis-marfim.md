@@ -35,4 +35,4 @@ Although they date from the 12th century, and so from the end of the Viking peri
 
 The Lewis pieces became famous outside museums, and today appear in books and films. Their interest lies in showing that northern art, even after the Viking Age, continued to combine craft, humour and a certain ferocity.
 
-To go round, as a knight, every square of a board exactly once, without stepping twice on the same place, play [The knight's tour](/en/game-the-knights-tour/).
+To go round, as a knight, every square of a board exactly once, without stepping twice on the same place, play [The knight's tour](/game-the-knights-tour/).

@@ -23,4 +23,4 @@ Trykk dit du vil gå, eller bruk piltastene. Når et dyr viser en boble som ber 
 
 ## Historien bak
 
-Nissen er en liten gårdsånd i skandinavisk folketro som passer på huset og dyrene og venter på en skål grøt til jul. Historien og spillet er originale, inspirert av denne tradisjonen. Les eventyret i [Fjøsnissen og grøtfatet på julaften](/no/2026/11/12/nisse-tigela-de-mingau-natal/).
+Nissen er en liten gårdsånd i skandinavisk folketro som passer på huset og dyrene og venter på en skål grøt til jul. Historien og spillet er originale, inspirert av denne tradisjonen. Les eventyret i [Fjøsnissen og grøtfatet på julaften](/no/fjosnissen-og-grotfatet-pa-julaften/).

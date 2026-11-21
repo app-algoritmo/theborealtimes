@@ -23,4 +23,4 @@ Pesta, a velha da peste, viaja de fazenda em fazenda com vassoura e rastelo. A m
 
 ## A história por trás
 
-Nas lendas norueguesas, Pesta viaja de fazenda em fazenda com uma vassoura e um rastelo, e em várias lendas uma menina escapa, como em Jostedalen. Os pães que caem, as faixas e o ritmo do jogo são invenção. Leia a história em [Pesta: a velha da Peste Negra no folclore norueguês, com rastelo e vassoura](/2027/04/04/pesta-a-velha-da-peste-negra-no-folclore-noruegues-com-rastelo-e-vassoura/).
+Nas lendas norueguesas, Pesta viaja de fazenda em fazenda com uma vassoura e um rastelo, e em várias lendas uma menina escapa, como em Jostedalen. Os pães que caem, as faixas e o ritmo do jogo são invenção. Leia a história em [Pesta: a velha da Peste Negra no folclore norueguês, com rastelo e vassoura](/pt/pesta-a-velha-da-peste-negra-no-folclore-noruegues-com-rastelo-e-vassoura/).

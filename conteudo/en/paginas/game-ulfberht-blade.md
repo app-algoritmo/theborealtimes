@@ -23,4 +23,4 @@ A marker moves back and forth along the bar. Tap (or press the space bar) when i
 
 ## The story behind it
 
-About 170 swords from the 9th to 11th centuries bear the name VLFBERHT, and some have exceptional steel. The rhythm forging is a simplification by the game. Read the story in [The Ulfberht swords: the name engraved on Viking blades and the steel mystery](/en/2026/11/13/espadas-ulfberht/).
+About 170 swords from the 9th to 11th centuries bear the name VLFBERHT, and some have exceptional steel. The rhythm forging is a simplification by the game. Read the story in [The Ulfberht swords: the name engraved on Viking blades and the steel mystery](/the-ulfberht-swords-the-name-engraved-on-viking-blades/).

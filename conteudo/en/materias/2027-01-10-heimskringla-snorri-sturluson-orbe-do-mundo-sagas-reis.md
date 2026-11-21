@@ -43,4 +43,4 @@ Until the middle of the nineteenth century, historians trusted the sagas as fact
 
 The authorship is an assumption, not a datum. The title is much later than the work. And the distance between the events and the text is great, so each saga should be read according to the period it narrates.
 
-To take pegs off an orb of pegs, until only a few remain, play [The pegs of the orb](/en/game-the-pegs-of-the-orb/).
+To take pegs off an orb of pegs, until only a few remain, play [The pegs of the orb](/game-the-pegs-of-the-orb/).

@@ -23,4 +23,4 @@ Skogsråa, skogens frue, tester kunnskapene dine. Åtte spørsmål om vesener i 
 
 ## Historien bak
 
-Skogsråa finnes i svensk folketro. Spørsmålene og svarene oppsummerer folkelige tradisjoner. Les historien i [Skogsrået: skogens frue i Sverige, som gir jegere hell og fører kullbrennere inn i skogen](/no/2026/11/19/skogsra-senhora-da-floresta-suecia/).
+Skogsråa finnes i svensk folketro. Spørsmålene og svarene oppsummerer folkelige tradisjoner. Les historien i [Skogsrået: skogens frue i Sverige, som gir jegere hell og fører kullbrennere inn i skogen](/no/skogsraet-skogens-frue-i-sverige-som-gir-jegere-hell/).

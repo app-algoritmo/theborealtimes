@@ -23,4 +23,4 @@ Tap the water to launch a stone. It takes a moment to land and sinks boats near 
 
 ## The story behind it
 
-In the siege of 885–886, the Parisians defended the bridge against a Viking fleet. The catapult and the aiming are made up for the game. Read the story in [The siege of Paris, 885–886: when the Vikings tried to sail up the Seine and met a bridge](/en/2026/11/16/paris-885-cerco/).
+In the siege of 885–886, the Parisians defended the bridge against a Viking fleet. The catapult and the aiming are made up for the game. Read the story in [The siege of Paris, 885–886: when the Vikings tried to sail up the Seine and met a bridge](/the-siege-of-paris-885-886-when-the-vikings-tried-to-sail/).

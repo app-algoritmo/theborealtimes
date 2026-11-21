@@ -47,4 +47,4 @@ A *saga of Icelanders* is the genre of prose narratives about Icelandic families
 
 It is not known which of the dates, late 13th century or 14th century, is right for the original composition, and the article does not settle the question. The complete versions are on paper and late, and the early fragment is small. The article does not discuss other characters, episodes and places of the saga, and this piece cannot say what it does not.
 
-To fill a board of light and dark stones, like someone settling a valley, play [The stones of the valley](/en/game-the-stones-of-the-valley/).
+To fill a board of light and dark stones, like someone settling a valley, play [The stones of the valley](/game-the-stones-of-the-valley/).

@@ -48,4 +48,4 @@ Em Reykjavík, um salão de turfa da era dos colonos foi achado sob uma camada d
 
 A página consultada não dá as medidas do salão. A arqueologia não identifica os moradores. A ligação com Ingólfr é uma leitura do texto da *Landnámabók*, escrito séculos depois, e não uma prova.
 
-Para peneirar os achados do salão, jogue [A peneira dos achados](/jogo-a-peneira-dos-achados/).
+Para peneirar os achados do salão, jogue [A peneira dos achados](/pt/jogo-a-peneira-dos-achados/).

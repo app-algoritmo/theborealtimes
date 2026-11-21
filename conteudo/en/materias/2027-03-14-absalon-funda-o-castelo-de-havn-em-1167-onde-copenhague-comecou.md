@@ -45,4 +45,4 @@ Saxo gives 1167 as the year Bishop Absalon founded the castle of Havn, on Slotsh
 
 The modern account of the castle rests on few references and contradicts itself on the order of the fall, 1368 or 1369. The date 1167 comes from Saxo, who wrote in Absalon's service, and the excavation shows the castle but does not confirm the year.
 
-To steer a ship through a sound of shoals and bring the blocks to the quay, play [Stones for Havn](/en/game-stones-for-havn/).
+To steer a ship through a sound of shoals and bring the blocks to the quay, play [Stones for Havn](/game-stones-for-havn/).

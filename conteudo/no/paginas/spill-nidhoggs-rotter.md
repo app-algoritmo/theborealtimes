@@ -23,4 +23,4 @@ Hver knute på roten er hel (lys) eller gnagd (mørk). Når du trykker på en kn
 
 ## Historien bak
 
-I Gylfaginning gnager Níðhogg på én av de tre røttene til Yggdrasil, den som ligger over Niflheim. Rutenettet av knuter er oppfunnet. Les historien i [Níðhogg, dragen som gnager røttene til Yggdrasil: hva tekstene sier](/no/2027/01/17/nidhoggr-dragao-raiz-yggdrasill-nastrond/).
+I Gylfaginning gnager Níðhogg på én av de tre røttene til Yggdrasil, den som ligger over Niflheim. Rutenettet av knuter er oppfunnet. Les historien i [Níðhogg, dragen som gnager røttene til Yggdrasil: hva tekstene sier](/no/nidhogg-dragen-som-gnager-rottene-til-yggdrasil-hva/).

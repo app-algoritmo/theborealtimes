@@ -43,4 +43,4 @@ Thorfinn was raised a Christian. The saga says he travelled to Rome and met Empe
 
 The article considers the saga "generally credible" but hard to corroborate in its details, and written centuries after the events. Clontarf, the submission to Olaf in 1021 and the death of Gillacomgain, in 1032, in the *Annals of Ulster*, have support in other sources. The marriage to Ingibiorg and the campaign in Fife, on the other hand, are treated as saga.
 
-To carry a ray of light from one beacon to the other, turning mirrors, play [Thorfinn's mirrors](/en/game-thorfinns-mirrors/).
+To carry a ray of light from one beacon to the other, turning mirrors, play [Thorfinn's mirrors](/game-thorfinns-mirrors/).

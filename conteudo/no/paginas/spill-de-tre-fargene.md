@@ -23,4 +23,4 @@ Bifrost-broen har tre farger, og gudene kan bare gå over den hvis du tenner far
 
 ## Historien bak
 
-I Snorres Edda, skrevet på 1200-tallet, har Bifrost-broen tre farger, og gudene rir over den hver dag, bortsett fra Tor. Fargerekken du gjentar, er oppdiktet. Les historien i [Bifrost: broen med tre farger som gudene rir over hver dag](/no/2027/03/21/bifrost-a-ponte-de-tres-cores-que-os-deuses-cruzam-todo-dia/).
+I Snorres Edda, skrevet på 1200-tallet, har Bifrost-broen tre farger, og gudene rir over den hver dag, bortsett fra Tor. Fargerekken du gjentar, er oppdiktet. Les historien i [Bifrost: broen med tre farger som gudene rir over hver dag](/no/bifrost-broen-med-tre-farger-som-gudene-rir-over-hver-dag/).

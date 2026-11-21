@@ -23,4 +23,4 @@ Sif's eight golden braids have been scrambled. Tap a braid next to the empty spa
 
 ## The story behind it
 
-According to Snorri, Loki cut off Sif's hair and the dwarfs remade it in gold. The braids in the game are made up. Read the story in [Sif: the golden-haired goddess, wife of Thor, who barely appears in the myths](/en/2026/11/21/sif-cabelo-de-ouro-thor/).
+According to Snorri, Loki cut off Sif's hair and the dwarfs remade it in gold. The braids in the game are made up. Read the story in [Sif: the golden-haired goddess, wife of Thor, who barely appears in the myths](/sif-the-golden-haired-goddess-wife-of-thor-who-barely/).

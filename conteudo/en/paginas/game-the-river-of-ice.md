@@ -23,4 +23,4 @@ Cross the river by hopping from block to block. Tap the screen, or press Space, 
 
 ## The story behind it
 
-In the myth, Thor waded the Élivágar rivers with Aurvandil in a basket, and a frozen toe became a star. The crossing by hopping is invented. Read the story in [Aurvandil: the toe that became a star in the myth of Thor](/en/2027/03/07/aurvandil-o-dedo-do-pe-que-virou-estrela-no-mito-de-thor/).
+In the myth, Thor waded the Élivágar rivers with Aurvandil in a basket, and a frozen toe became a star. The crossing by hopping is invented. Read the story in [Aurvandil: the toe that became a star in the myth of Thor](/aurvandil-the-toe-that-became-a-star-in-the-myth-of-thor/).

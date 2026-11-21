@@ -23,4 +23,4 @@ Trykk (eller trykk mellomrom) for å stoppe markøren innenfor det gylne feltet.
 
 ## Historien bak
 
-Under Ragnarok trår Víðarr på kjeven til Fenrir med en sko laget av skinnrester. Markøren er oppfunnet. Les historien i [Víðarr: den tause guden, den tykke skoen og slutten på ulven Fenrir](/no/2026/12/27/vidarr-deus-silencioso-sapato-fenrir/).
+Under Ragnarok trår Víðarr på kjeven til Fenrir med en sko laget av skinnrester. Markøren er oppfunnet. Les historien i [Víðarr: den tause guden, den tykke skoen og slutten på ulven Fenrir](/no/vidarr-den-tause-guden-den-tykke-skoen-og-slutten-pa-ulven/).

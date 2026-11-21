@@ -23,4 +23,4 @@ Eight pairs of offering objects lie face down on the table. Tap a card to turn i
 
 ## The story behind it
 
-At Tissø in Denmark, excavations found Thor's hammers, valkyrie-shaped brooches, and weapons and jewellery thrown into the lake. The pairs of cards are invented. Read the story in [Tissø, the lake of Tyr, in Denmark: offerings and amulets of the Viking Age](/en/2027/03/14/tisso-o-lago-de-tyr-na-dinamarca-oferendas-e-amuletos-da-era-viking/).
+At Tissø in Denmark, excavations found Thor's hammers, valkyrie-shaped brooches, and weapons and jewellery thrown into the lake. The pairs of cards are invented. Read the story in [Tissø, the lake of Tyr, in Denmark: offerings and amulets of the Viking Age](/tisso-the-lake-of-tyr-in-denmark-offerings-and-amulets/).

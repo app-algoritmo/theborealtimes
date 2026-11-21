@@ -23,4 +23,4 @@ Trykk på en kolonne (eller bruk ← → og mellomrom) for å slippe den gylne b
 
 ## Historien bak
 
-Ved Örlygsstaðir i 1238 tapte sturlungene mot mennene til Kolbeinn og Gissur. Spillet med brikker på rad er diktet opp. Les historien i [Örlygsstaðir, 1238: den blodigste slaget i middelalderens Island, ifølge sagaene](/no/2026/12/20/orlygsstadir-1238-sturla-sighvatsson-sturlungar/).
+Ved Örlygsstaðir i 1238 tapte sturlungene mot mennene til Kolbeinn og Gissur. Spillet med brikker på rad er diktet opp. Les historien i [Örlygsstaðir, 1238: den blodigste slaget i middelalderens Island, ifølge sagaene](/no/orlygsstadir-1238-den-blodigste-slaget-i-middelalderens/).

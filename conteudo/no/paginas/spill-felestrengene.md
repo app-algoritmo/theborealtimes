@@ -23,4 +23,4 @@ I kjelleren i bryllupet løper tonene i Fanitullen nedover de fire strengene på
 
 ## Historien bak
 
-Ifølge artikkelen til Norsk Kornølfestival er Fanitullen en felemelodi knyttet til legenden om en djevelsk felespiller i et bryllup i Hol i 1724. Tonene som løper nedover strengene, er oppdiktet. Les historien i [Fanitullen: djevelens melodi og slagsmålet i bryllupet i Hol i 1724](/no/2027/03/21/fanitullen-a-melodia-do-diabo-e-a-briga-do-casamento-de-hol-em-1724/).
+Ifølge artikkelen til Norsk Kornølfestival er Fanitullen en felemelodi knyttet til legenden om en djevelsk felespiller i et bryllup i Hol i 1724. Tonene som løper nedover strengene, er oppdiktet. Les historien i [Fanitullen: djevelens melodi og slagsmålet i bryllupet i Hol i 1724](/no/fanitullen-djevelens-melodi-og-slagsmalet-i-bryllupet-i-hol/).

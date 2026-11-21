@@ -23,4 +23,4 @@ Pieces of different shapes must fill the pocket, a grid, with no empty squares l
 
 ## The story behind it
 
-In the Norse sources, the ship Skíðblaðnir folds like cloth and fits in a pocket, but they do not say how. Fitting the pieces is invented. Read the story in [Skíðblaðnir: Freyr’s ship that folds like cloth and fits in a pocket](/en/2027/02/28/skidbladnir-o-navio-de-freyr-que-se-dobra-como-pano/).
+In the Norse sources, the ship Skíðblaðnir folds like cloth and fits in a pocket, but they do not say how. Fitting the pieces is invented. Read the story in [Skíðblaðnir: Freyr’s ship that folds like cloth and fits in a pocket](/skidbladnir-freyr-s-ship-that-folds-like-cloth-and-fits/).

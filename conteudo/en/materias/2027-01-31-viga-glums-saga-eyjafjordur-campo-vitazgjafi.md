@@ -43,4 +43,4 @@ DuBois and Turville-Petre disagree about what the saga reveals of pagan religion
 
 The date of composition is estimated. Whether the episodes of Víga-Skúta and Ǫgmundr dytt belong to the original form of the saga is debated. The resemblance to the *Disciplina Clericalis* does not prove that the author read that text. And, since DuBois and Turville-Petre differ about what the saga shows of paganism, any reading of the cult of Freyr in it should be taken as an interpretation, not as a direct portrait of the old religion. The saga was written in the 13th century, and the story it tells is set long before.
 
-To divide a field into rectangular plots, each with the right number of squares, play [The plots of the field](/en/game-the-plots-of-the-field/).
+To divide a field into rectangular plots, each with the right number of squares, play [The plots of the field](/game-the-plots-of-the-field/).

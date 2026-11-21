@@ -23,4 +23,4 @@ Velg en streng og dra opp eller ned (eller bruk pilene) til lyden er rett; hold 
 
 ## Historien bak
 
-I Kalevala, det finske eposet, lager Väinämöinen den første kantelen og spiller for å trollbinde skogen. Stemmingen i spillet er diktet opp. Les historien i [Väinämöinen og kantelen: musikken som fikk naturen til å gråte](/no/2026/11/17/vainamoinen-kantele-kalevala/).
+I Kalevala, det finske eposet, lager Väinämöinen den første kantelen og spiller for å trollbinde skogen. Stemmingen i spillet er diktet opp. Les historien i [Väinämöinen og kantelen: musikken som fikk naturen til å gråte](/no/vainamoinen-og-kantelen-musikken-som-fikk-naturen/).

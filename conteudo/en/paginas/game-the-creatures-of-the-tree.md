@@ -23,4 +23,4 @@ The cards lie face down, and each symbol appears on two cards. Tap a card to tur
 
 ## The story behind it
 
-In the Grímnismál, the squirrel Ratatoskr runs up and down Yggdrasil and carries messages between the eagle, at the top, and Níðhöggr, below. Finding pairs of cards is invented. Read the story in [Ratatoskr: the squirrel who runs along Yggdrasil carrying messages between the eagle and Níðhöggr](/en/2027/02/21/ratatoskr-esquilo-de-yggdrasil-mensagens-entre-a-aguia-e-nidhoggr/).
+In the Grímnismál, the squirrel Ratatoskr runs up and down Yggdrasil and carries messages between the eagle, at the top, and Níðhöggr, below. Finding pairs of cards is invented. Read the story in [Ratatoskr: the squirrel who runs along Yggdrasil carrying messages between the eagle and Níðhöggr](/ratatoskr-the-squirrel-who-runs-along-yggdrasil-carrying/).

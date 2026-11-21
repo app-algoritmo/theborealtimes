@@ -23,4 +23,4 @@ Um bloco desliza de um lado para o outro. Toque (ou aperte Espaço) para soltá-
 
 ## A história por trás
 
-Em Jarlshof, nas Shetland, casas de épocas diferentes foram construídas umas sobre as outras. A torre de blocos é invenção. Leia a história em [Jarlshof, nas Shetland: quatro mil anos de casas empilhadas e uma casa longa nórdica](/2027/01/03/jarlshof-shetland-assentamento-nordico/).
+Em Jarlshof, nas Shetland, casas de épocas diferentes foram construídas umas sobre as outras. A torre de blocos é invenção. Leia a história em [Jarlshof, nas Shetland: quatro mil anos de casas empilhadas e uma casa longa nórdica](/pt/jarlshof-shetland-assentamento-nordico/).

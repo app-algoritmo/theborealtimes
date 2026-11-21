@@ -39,4 +39,4 @@ The heavenly stag Eikþyrnir is linked to Heiðrún's name. Anatoly Liberman pro
 
 The article says that the etymology of Heiðrún "remains debatable", and the same is true of the modern German name Heidrun. Liberman's hypothesis is a scholar's proposal, not a fact. The article is also flagged as needing additional citations, so what it says about the *Grímnismál* and the *Gylfaginning* deserves to be checked in the texts themselves. There is no description of manuscripts here, and this piece cannot say more about the mead than the cited sources do.
 
-To serve the mead in exact measures, with unmarked vessels, play [Heiðrún's mead](/en/game-heidruns-mead/).
+To serve the mead in exact measures, with unmarked vessels, play [Heiðrún's mead](/game-heidruns-mead/).

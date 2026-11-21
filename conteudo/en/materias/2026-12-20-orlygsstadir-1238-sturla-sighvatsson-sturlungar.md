@@ -41,4 +41,4 @@ The page places the field at Örlygsstaðir, in northern Iceland, and records th
 
 The page does not deal with Hálfdan Sæmundsson, with Þórðr kakali, or with the role of the Norwegian king Hákon, nor with the end of the Icelandic Commonwealth. These points are therefore not asserted here. What the source supports is the essential: a traditional date, two blocs of chieftains, a short battle, about sixty dead and the death of father and son on the defeated side.
 
-To line up four pieces, in a row, column or diagonal, against a rival, before he does, play [The field of Örlygsstaðir](/en/game-the-field-of-orlygsstadir/).
+To line up four pieces, in a row, column or diagonal, against a rival, before he does, play [The field of Örlygsstaðir](/game-the-field-of-orlygsstadir/).

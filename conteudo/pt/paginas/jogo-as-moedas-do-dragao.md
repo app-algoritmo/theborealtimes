@@ -23,4 +23,4 @@ Moedas de ouro estão espalhadas por um tabuleiro. Toque numa moeda e depois num
 
 ## A história por trás
 
-Na Gull-Þóris saga, Þórir obtém ouro de dragões numa caverna e depois briga com Hallr pela partilha; no fim, corre o boato de que virou dragão. Saltar moedas é invenção. Leia a história em [Gull-Þóris saga: o colono que enriqueceu com ouro de dragões](/2027/02/14/gull-thoris-saga-ouro-dragoes-islandia/).
+Na Gull-Þóris saga, Þórir obtém ouro de dragões numa caverna e depois briga com Hallr pela partilha; no fim, corre o boato de que virou dragão. Saltar moedas é invenção. Leia a história em [Gull-Þóris saga: o colono que enriqueceu com ouro de dragões](/pt/gull-thoris-saga-ouro-dragoes-islandia/).

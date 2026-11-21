@@ -23,4 +23,4 @@ Num porão de Reykjavík, a escavação achou os restos de um salão da era dos 
 
 ## A história por trás
 
-Em Aðalstræti 16, em Reykjavík, a escavação do salão da era dos colonos achou uma camada de cinza datada em 871, com margem de dois anos. Os achados que passam pela peneira e o ritmo do jogo são invenção. Leia a história em [Reykjavík 871±2: a casa longa sob a cidade e a cinza que data o assentamento](/2027/04/04/reykjavik-871-a-casa-longa-sob-a-cidade-e-a-cinza-que-data-o-assentamento/).
+Em Aðalstræti 16, em Reykjavík, a escavação do salão da era dos colonos achou uma camada de cinza datada em 871, com margem de dois anos. Os achados que passam pela peneira e o ritmo do jogo são invenção. Leia a história em [Reykjavík 871±2: a casa longa sob a cidade e a cinza que data o assentamento](/pt/reykjavik-871-a-casa-longa-sob-a-cidade-e-a-cinza-que-data-o-assentamento/).

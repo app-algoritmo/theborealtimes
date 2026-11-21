@@ -37,4 +37,4 @@ O que sabemos da crença vem de relatos de camponeses coletados por estudiosos d
 
 A ideia de que as pessoas podiam sumir nas montanhas também tem, segundo muitos estudiosos, um lado prático. Numa terra de fiordes, penhascos e florestas, andar sozinho ao entardecer era arriscado, e quem não voltava, na maioria dos casos, tinha se perdido ou sofrido um acidente. A crença oferecia uma explicação e, ao mesmo tempo, um aviso aos mais jovens: não convinha se afastar de casa depois do pôr do sol.
 
-Para atravessar o salão da montanha desviando das pedras que caem, até encontrar a saída, jogue [O salão da montanha](/jogo-o-salao-da-montanha/).
+Para atravessar o salão da montanha desviando das pedras que caem, até encontrar a saída, jogue [O salão da montanha](/pt/jogo-o-salao-da-montanha/).

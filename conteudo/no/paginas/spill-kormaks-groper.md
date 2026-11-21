@@ -23,4 +23,4 @@ Seks groper er dine, i den nederste raden, og seks er rivalens, i den øverste; 
 
 ## Historien bak
 
-Kormáks saga forteller at Kormákr, en islandsk skald fra 900-tallet, elsker Steingerðr; på grunn av en forbannelse kommer han for sent til bryllupet, og hun gifter seg med en annen. Frøspillet mot rivalen er oppfunnet. Les historien i [Kormáks saga: skalden Kormákr, Steingerðr og et bryllup som kommer for sent](/no/2027/01/24/kormaks-saga-kormakr-steingerdr-poeta-islandia/).
+Kormáks saga forteller at Kormákr, en islandsk skald fra 900-tallet, elsker Steingerðr; på grunn av en forbannelse kommer han for sent til bryllupet, og hun gifter seg med en annen. Frøspillet mot rivalen er oppfunnet. Les historien i [Kormáks saga: skalden Kormákr, Steingerðr og et bryllup som kommer for sent](/no/kormaks-saga-skalden-kormakr-steingerdr-og-et-bryllup/).

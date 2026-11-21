@@ -43,4 +43,4 @@ O mais importante a dizer é que as duas sagas foram escritas por volta do sécu
 
 Isso não tira o valor da história. Ela mostra que as pessoas daquele tempo imaginavam mulheres capazes de enfrentar o oceano, a morte e a distância, e que essa lembrança foi guardada por gerações.
 
-Para guiar o navio de Gudríð entre os blocos de gelo, jogue [A rota de Gudríð](/jogo-a-rota-de-gudrid/).
+Para guiar o navio de Gudríð entre os blocos de gelo, jogue [A rota de Gudríð](/pt/jogo-a-rota-de-gudrid/).

@@ -38,4 +38,4 @@ A gold bracteate from the Migration Period, found at Trollhättan, in Sweden, ma
 
 Because of the etymology and the few sources, some scholars think Týr once had a far more central role. Hermann Reichert argues that Odin displaced Týr from his pre-eminent position. The runologists MacLeod and Mees doubt that the invocation in the *Sigrdrífumál* refers to the god himself, and think it may relate only to the rune.
 
-To switch off all the lights in a network of links, by tapping and changing the neighbours, play [Týr's links](/en/game-tyrs-links/).
+To switch off all the lights in a network of links, by tapping and changing the neighbours, play [Týr's links](/game-tyrs-links/).

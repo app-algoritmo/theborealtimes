@@ -23,4 +23,4 @@ Segure o lado esquerdo ou o direito da tela (ou use ← →) para empurrar o cal
 
 ## A história por trás
 
-No Hymiskviða, Thor carrega o caldeirão de Hymir até o salão de Ægir. O jogo de equilíbrio é invenção. Leia a história em [Hymiskviða: Thor e Týr vão buscar o caldeirão gigante do jötunn Hymir](/2026/12/13/hymiskvida-thor-hymir-caldeirao/).
+No Hymiskviða, Thor carrega o caldeirão de Hymir até o salão de Ægir. O jogo de equilíbrio é invenção. Leia a história em [Hymiskviða: Thor e Týr vão buscar o caldeirão gigante do jötunn Hymir](/pt/hymiskvida-thor-hymir-caldeirao/).

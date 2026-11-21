@@ -23,4 +23,4 @@ Navios surgem e somem no mar, um de cada vez. Conte só os navios e toque no nú
 
 ## A história por trás
 
-Magnus Erlendsson foi morto na ilha de Egilsay, por volta de 1117, e depois lembrado como santo. As contagens do jogo são invenção. Leia a história em [Magnus das Órcades: o conde que se recusou a lutar e foi morto na ilha de Egilsay](/2026/11/18/magnus-orcades-egilsay-orkneyinga/).
+Magnus Erlendsson foi morto na ilha de Egilsay, por volta de 1117, e depois lembrado como santo. As contagens do jogo são invenção. Leia a história em [Magnus das Órcades: o conde que se recusou a lutar e foi morto na ilha de Egilsay](/pt/magnus-orcades-egilsay-orkneyinga/).

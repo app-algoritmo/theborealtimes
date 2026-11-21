@@ -23,4 +23,4 @@ Pieces fall and you fit them together. Arrows: left and right move, up rotates, 
 
 ## The story behind it
 
-Sverris saga tells of a king's rise in Norway. The pieces that fall in the game are made up. Read the story in [Sverre Sigurdsson: the priest raised in the Faroes who became king of Norway and had his own saga written](/en/2026/11/22/sverre-sigurdsson-sverris-saga/).
+Sverris saga tells of a king's rise in Norway. The pieces that fall in the game are made up. Read the story in [Sverre Sigurdsson: the priest raised in the Faroes who became king of Norway and had his own saga written](/sverre-sigurdsson-the-priest-raised-in-the-faroes/).

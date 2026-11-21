@@ -23,4 +23,4 @@ Um bloco de pergunta corre de um lado a outro. Toque (ou use o espaço) para sol
 
 ## A história por trás
 
-No poema Alvíssmál, Thor segura o anão com perguntas até a luz entrar. O jogo de empilhar é invenção. Leia a história em [Alvíssmál: o anão que queria casar com a filha de Thor e perdeu para o sol](/2026/11/22/alvissmal-thor-anao-nascer-do-sol/).
+No poema Alvíssmál, Thor segura o anão com perguntas até a luz entrar. O jogo de empilhar é invenção. Leia a história em [Alvíssmál: o anão que queria casar com a filha de Thor e perdeu para o sol](/pt/alvissmal-thor-anao-nascer-do-sol/).

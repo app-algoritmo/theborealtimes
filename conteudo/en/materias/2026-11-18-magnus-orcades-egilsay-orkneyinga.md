@@ -42,4 +42,4 @@ According to tradition, the story became an example of courage without violence.
 
 The saga is, in part, a tale of sanctity. The medieval authors wanted to show that Magnus was pious and that his death was a martyrdom, and so they stress humility, prayer and forgiveness of the killers. That does not mean everything is invented, but it helps to read the text with care. There are versions of Magnus's life, in Old Norse and in Latin, and they differ in details. His feast is remembered on 16 April, and the cult spread across Orkney and beyond.
 
-To count how many ships Hákon brought to the island before the meeting begins, play [Magnus's ships](/en/game-magnuss-ships/).
+To count how many ships Hákon brought to the island before the meeting begins, play [Magnus's ships](/game-magnuss-ships/).

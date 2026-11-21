@@ -23,4 +23,4 @@ The ships light up one by one, in a certain order. When they finish, tap the shi
 
 ## The story behind it
 
-In 1085, Canute IV called the fleet to the Limfjord to invade England, but it never sailed. The order of the ships is invented. Read the story in [Canute IV of Denmark: the fleet that never sailed and the death in Odense in 1086](/en/2027/03/07/canuto-iv-da-dinamarca-a-frota-que-nao-partiu-e-a-morte-em-odense-em-1086/).
+In 1085, Canute IV called the fleet to the Limfjord to invade England, but it never sailed. The order of the ships is invented. Read the story in [Canute IV of Denmark: the fleet that never sailed and the death in Odense in 1086](/canute-iv-of-denmark-the-fleet-that-never-sailed/).

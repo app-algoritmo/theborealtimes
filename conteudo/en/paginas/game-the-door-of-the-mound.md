@@ -23,4 +23,4 @@ The door of the mound is hidden in one square of the map. Tap a square to probe 
 
 ## The story behind it
 
-In Orkney folklore, the hogboon, or hogboy, is a spirit of mounds; tales warn against digging them, and storms after excavations are linked to this. Searching for the door is invented. Read the story in [Hogboon: the mound spirit of Orkney and the stories of Maeshowe](/en/2027/02/14/hogboon-o-espirito-do-monte-orcades-maeshowe/).
+In Orkney folklore, the hogboon, or hogboy, is a spirit of mounds; tales warn against digging them, and storms after excavations are linked to this. Searching for the door is invented. Read the story in [Hogboon: the mound spirit of Orkney and the stories of Maeshowe](/hogboon-the-mound-spirit-of-orkney-and-the-stories/).

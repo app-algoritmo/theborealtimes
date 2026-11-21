@@ -23,4 +23,4 @@ Watch the colours light up and repeat the order by tapping the four colours (or 
 
 ## The story behind it
 
-In the Norse sources, Heimdall guards the Bifröst bridge and has a horn, the Gjallarhorn. The colour sequence is made up for the game. Read the story in [Heimdall: the watchman who hardly sleeps and guards the rainbow bridge](/en/2026/11/16/heimdall-bifrost-vigia/).
+In the Norse sources, Heimdall guards the Bifröst bridge and has a horn, the Gjallarhorn. The colour sequence is made up for the game. Read the story in [Heimdall: the watchman who hardly sleeps and guards the rainbow bridge](/heimdall-the-watchman-who-hardly-sleeps-and-guards/).

@@ -44,4 +44,4 @@ A primeira fonte reúne os textos medievais e os nomes de lugar, e mostra que a 
 
 Nenhuma das duas fontes demonstra que os papar viveram na Islândia. As escritas são tardias em relação ao povoamento, pois a *Íslendingabók* é do século XII, e a arqueologia não confirmou a presença deles. As fontes divergem em como os descrevem: monges irlandeses, na *Landnámabók*, e outra descrição, na *Historia Norwegiæ*. Os nomes de lugar mostram que a palavra existia, mas não que alguém tenha morado nesses lugares. Também não se sabe quanto tempo teriam ficado nem para onde foram.
 
-Para encher e passar água entre odres até medir a quantidade pedida, como numa viagem de eremitas, jogue [Os odres dos papar](/jogo-os-odres-dos-papar/).
+Para encher e passar água entre odres até medir a quantidade pedida, como numa viagem de eremitas, jogue [Os odres dos papar](/pt/jogo-os-odres-dos-papar/).

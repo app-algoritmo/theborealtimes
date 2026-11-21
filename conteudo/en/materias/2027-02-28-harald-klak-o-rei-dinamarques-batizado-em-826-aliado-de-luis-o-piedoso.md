@@ -51,4 +51,4 @@ Harald Klak lost the throne twice, sought Frankish support and was baptized in 8
 
 Harald’s father and the exact dates of his reign are uncertain. It is not known whether he ruled beyond Jutland, nor whether the families of Sigifrid, Anulo and Harald were linked as some genealogists suppose. The place of the baptism is Mainz or Ingelheim, depending on the source. A Harald who dies in 852 may be another. His sons and daughter are disputed, and the sagas give different genealogies.
 
-To link the numbers in sequence through neighbouring squares, up to the river mouth, play [To the river mouth](/en/game-to-the-river-mouth/).
+To link the numbers in sequence through neighbouring squares, up to the river mouth, play [To the river mouth](/game-to-the-river-mouth/).

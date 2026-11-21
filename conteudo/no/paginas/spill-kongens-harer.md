@@ -23,4 +23,4 @@ Osborn vokter kongens harer på marka. Av og til blir en hare oransje og løper 
 
 ## Historien bak
 
-I Asbjørnsens eventyr i Dasents oversettelse vokter Osborn kongens harer med en magisk pipe som sprer og samler det han vil. Harene som løper mot kanten av marka, er oppdiktet. Les historien i [Osborns pipe og kongens harer: eventyr fra Asbjørnsens samling](/no/2027/03/21/a-flauta-de-osborn-e-as-lebres-do-rei-conto-da-colecao-de-asbjornsen/).
+I Asbjørnsens eventyr i Dasents oversettelse vokter Osborn kongens harer med en magisk pipe som sprer og samler det han vil. Harene som løper mot kanten av marka, er oppdiktet. Les historien i [Osborns pipe og kongens harer: eventyr fra Asbjørnsens samling](/no/osborns-pipe-og-kongens-harer-eventyr-fra-asbjornsens/).

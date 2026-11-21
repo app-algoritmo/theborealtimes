@@ -41,4 +41,4 @@ Os enigmas sobrevivem em três versões principais, chamadas R, U e H. A versão
 
 O jogo mostra como saber e poder se confundiam. O rei vence por ser sábio, mas a pergunta final prova que há coisas que só os deuses sabem. Os enigmas do jogo a seguir não são os da saga: foram inventados para este site, no mesmo espírito.
 
-Para responder a enigmas no estilo de Gestumblindi, escolhendo a resposta certa antes que o tempo acabe, jogue [Os enigmas de Gestumblindi](/jogo-os-enigmas-de-gestumblindi/).
+Para responder a enigmas no estilo de Gestumblindi, escolhendo a resposta certa antes que o tempo acabe, jogue [Os enigmas de Gestumblindi](/pt/jogo-os-enigmas-de-gestumblindi/).

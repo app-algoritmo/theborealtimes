@@ -23,4 +23,4 @@ Tallene ved siden av hver rad og over hver kolonne forteller hvor mange felt på
 
 ## Historien bak
 
-Flateyjarbók har 225 pergamentblad, skrevet mellom 1387 og 1394, og presten Magnús Þórhallsson tegnet også illustrasjonene. Bildet i spillet er oppfunnet. Les historien i [Flateyjarbók, Flatøybok: 225 pergamentblad skrevet på Island på 1300-tallet](/no/2027/01/10/flateyjarbok-livro-de-flatey-manuscrito-islandes/).
+Flateyjarbók har 225 pergamentblad, skrevet mellom 1387 og 1394, og presten Magnús Þórhallsson tegnet også illustrasjonene. Bildet i spillet er oppfunnet. Les historien i [Flateyjarbók, Flatøybok: 225 pergamentblad skrevet på Island på 1300-tallet](/no/flateyjarbok-flatoybok-225-pergamentblad-skrevet-pa-island/).

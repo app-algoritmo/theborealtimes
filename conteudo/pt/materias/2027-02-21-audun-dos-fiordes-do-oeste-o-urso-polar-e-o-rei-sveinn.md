@@ -48,4 +48,4 @@ Um *þáttr* é um conto curto. Um *anel de braço* é uma joia que se usa no br
 
 As fontes não dizem se Auðun existiu. As datas das versões são aproximadas. O verbete reúne opiniões de estudiosos, e cada uma é uma leitura, não um fato. O resumo do WE Vikings foi usado só para o enredo, e as datas e as opiniões vêm do verbete.
 
-Para achar o caminho de menor custo até o rei, jogue [O caminho do urso](/jogo-o-caminho-do-urso/).
+Para achar o caminho de menor custo até o rei, jogue [O caminho do urso](/pt/jogo-o-caminho-do-urso/).

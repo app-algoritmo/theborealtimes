@@ -41,4 +41,4 @@ Lejre existe, e a arqueologia ali é real. Escavações encontraram grandes sal�
 
 Também não se sabe quanto do relato de Snorri vem de tradição oral antiga e quanto foi reescrito por ele, um cristão islandês do século XIII que procurava preservar a poesia de seus antepassados. O que sabemos é que, na versão dele, a deusa vence um rei pela esperteza, usando a própria generosidade dele contra a sua medida.
 
-Para tentar cortar a terra em partes certas, como a deusa fez, jogue [A terra de Gefjon](/jogo-a-terra-de-gefjon/).
+Para tentar cortar a terra em partes certas, como a deusa fez, jogue [A terra de Gefjon](/pt/jogo-a-terra-de-gefjon/).

@@ -23,4 +23,4 @@ Toque numa coluna (ou use ← → e espaço) para soltar sua peça dourada. Alin
 
 ## A história por trás
 
-Em Örlygsstaðir, em 1238, os Sturlungar perderam para os homens de Kolbeinn e Gissur. O jogo de alinhar peças é invenção. Leia a história em [Örlygsstaðir, 1238: a batalha mais sangrenta da Islândia medieval, segundo as sagas](/2026/12/20/orlygsstadir-1238-sturla-sighvatsson-sturlungar/).
+Em Örlygsstaðir, em 1238, os Sturlungar perderam para os homens de Kolbeinn e Gissur. O jogo de alinhar peças é invenção. Leia a história em [Örlygsstaðir, 1238: a batalha mais sangrenta da Islândia medieval, segundo as sagas](/pt/orlygsstadir-1238-sturla-sighvatsson-sturlungar/).

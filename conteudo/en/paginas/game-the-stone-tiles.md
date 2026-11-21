@@ -23,4 +23,4 @@ The sculptor is covering the roof of a hogback with tiles in a repeating pattern
 
 ## The story behind it
 
-Hogbacks are house-shaped gravestones made between the tenth and twelfth centuries in northern England and southwest Scotland, many with carved shingles on the sides. The patterns of pieces in the game are invention. Read the story in [Hogbacks: the house-shaped gravestones of the Vikings in England and Scotland](/en/2027/03/21/hogbacks-as-lapides-em-forma-de-casa-dos-vikings-na-inglaterra-e-na-escocia/).
+Hogbacks are house-shaped gravestones made between the tenth and twelfth centuries in northern England and southwest Scotland, many with carved shingles on the sides. The patterns of pieces in the game are invention. Read the story in [Hogbacks: the house-shaped gravestones of the Vikings in England and Scotland](/hogbacks-the-house-shaped-gravestones-of-the-vikings/).

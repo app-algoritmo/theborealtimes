@@ -44,4 +44,4 @@ Para resumir o que as fontes dizem, a sequência é esta: Sinfjötli nasce de Si
 
 A segunda fonte observa que a loba do episódio pode ser a mãe de Siggeir, o que a própria saga não afirma. As fontes tratam Sinfjötli ora como filho, ora como sobrinho de Sigmund. A etimologia do nome e o motivo de Odin aparecer na morte também ficam sem resposta nas fontes. Como o texto é do século XIII e o manuscrito de cerca de 1400, e as lendas de base são mais velhas, não é possível dizer o que há de mais antigo na versão de que dispomos.
 
-Para girar dois anéis ligados até as contas coincidirem com a imagem alvo, como duas peles que se vestem, jogue [As duas peles de lobo](/jogo-as-duas-peles-de-lobo/).
+Para girar dois anéis ligados até as contas coincidirem com a imagem alvo, como duas peles que se vestem, jogue [As duas peles de lobo](/pt/jogo-as-duas-peles-de-lobo/).

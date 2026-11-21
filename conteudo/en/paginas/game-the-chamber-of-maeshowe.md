@@ -23,4 +23,4 @@ There is a secret sequence of 4 runes, from 6 possible kinds (they may repeat). 
 
 ## The story behind it
 
-In Maeshowe, in the Orkney Islands, Vikings left runic inscriptions on the walls. The secret sequence is made up. Read the story in [Maeshowe: the five-thousand-year-old tomb where Norsemen wrote on the walls](/en/2026/12/06/maeshowe-runas-vikings-orcadas/).
+In Maeshowe, in the Orkney Islands, Vikings left runic inscriptions on the walls. The secret sequence is made up. Read the story in [Maeshowe: the five-thousand-year-old tomb where Norsemen wrote on the walls](/maeshowe-the-five-thousand-year-old-tomb-where-norsemen/).

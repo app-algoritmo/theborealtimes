@@ -41,4 +41,4 @@ A *völva* is a seeress who speaks with the dead and foresees the future. *Necro
 
 The second spell is hard to translate, and Hollander admits doubt. The date of composition is debated. It is also debated whether the Gróa of this poem is the same one who treats Thor in the myth of Hrungnir, as some scholars propose.
 
-To drive off each danger with the charm of the same shape and colour, play [The nine charms](/en/game-the-nine-charms/).
+To drive off each danger with the charm of the same shape and colour, play [The nine charms](/game-the-nine-charms/).

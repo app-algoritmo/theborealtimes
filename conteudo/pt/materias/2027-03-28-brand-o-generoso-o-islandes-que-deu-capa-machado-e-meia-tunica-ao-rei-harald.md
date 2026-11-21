@@ -48,4 +48,4 @@ Em poucas linhas, o conto mostra um rei que testa a generosidade de um islandês
 
 O conto é uma narrativa literária, e as fontes que li não dizem se o episódio aconteceu de fato. A página consultada tampouco diz de qual saga ou data exata ele vem além de apontar a Morkinskinna como base. Não confirmei quem era o poeta Thjodolf além do que o conto informa.
 
-Para dar ao rei o que ele pede antes que o tempo acabe, jogue [O que o rei pede](/jogo-o-que-o-rei-pede/).
+Para dar ao rei o que ele pede antes que o tempo acabe, jogue [O que o rei pede](/pt/jogo-o-que-o-rei-pede/).

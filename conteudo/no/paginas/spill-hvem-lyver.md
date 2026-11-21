@@ -23,4 +23,4 @@ Hver person kommer med en påstand om de andre. Den som snakker sant, sier allti
 
 ## Historien bak
 
-I Snorres Edda leder Loki hånden til den blinde guden Höðr, som skyter mistelteinpilen som dreper Baldr. Å finne ut hvem som lyver og hvem som snakker sant ved dette bordet er oppfunnet. Les historien i [Höðr, den blinde guden: mistelteinpilen, Baldrs død og de to versjonene av historien](/no/2027/01/31/hodr-deus-cego-balder-visco-loki/).
+I Snorres Edda leder Loki hånden til den blinde guden Höðr, som skyter mistelteinpilen som dreper Baldr. Å finne ut hvem som lyver og hvem som snakker sant ved dette bordet er oppfunnet. Les historien i [Höðr, den blinde guden: mistelteinpilen, Baldrs død og de to versjonene av historien](/no/hodr-den-blinde-guden-mistelteinpilen-baldrs-dod/).

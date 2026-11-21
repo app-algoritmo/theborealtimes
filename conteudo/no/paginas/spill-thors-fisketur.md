@@ -23,4 +23,4 @@ Hold fingeren, musen eller mellomromstasten nede for å hale inn: slangen stiger
 
 ## Historien bak
 
-Spillet er inspirert av en episode fra norrøn myte: Tor drar ut for å fiske med jotunen Hymir, bruker et oksehode som agn og får Jormungand, slangen som omslutter verden, på kroken. I Snorre Sturlasons versjon får jotunen panikk og kapper linen, og slangen synker tilbake i havet. I spillet kan du vinne kampen, noe som **ikke** skjer i kilden. Les hele beretningen i [Tor fisker opp Midgardsormen, og jotunen Hymir kapper linen](/no/2026/11/12/thor-pescaria-serpente-midgard/).
+Spillet er inspirert av en episode fra norrøn myte: Tor drar ut for å fiske med jotunen Hymir, bruker et oksehode som agn og får Jormungand, slangen som omslutter verden, på kroken. I Snorre Sturlasons versjon får jotunen panikk og kapper linen, og slangen synker tilbake i havet. I spillet kan du vinne kampen, noe som **ikke** skjer i kilden. Les hele beretningen i [Tor fisker opp Midgardsormen, og jotunen Hymir kapper linen](/no/tor-fisker-opp-midgardsormen-og-jotunen-hymir-kapper-linen/).

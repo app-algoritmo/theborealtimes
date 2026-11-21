@@ -43,4 +43,4 @@ O costume natalino de beijar sob o visco é muito posterior e não vem dessa his
 
 O que o mito deixa é um aviso curioso: o poder de Frigg foi enorme, mas bastou uma exceção pequena para derrubá-lo.
 
-Para jogar com as promessas de Frigg, abra [As promessas de Frigg](/jogo-promessas-de-frigg/).
+Para jogar com as promessas de Frigg, abra [As promessas de Frigg](/pt/jogo-promessas-de-frigg/).

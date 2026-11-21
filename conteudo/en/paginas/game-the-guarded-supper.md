@@ -23,4 +23,4 @@ The Jólasveinar come through the window, one at a time, and each wants to steal
 
 ## The story behind it
 
-According to the sources, the Jólasveinar come one per night on the thirteen nights before Christmas, and each has a name tied to what he does, such as Bjúgnakrækir, the sausage thief. This supper and the order of arrivals are invention. Read the story in [The thirteen Jólasveinar of Iceland and the Christmas nights of naughty lads](/en/2027/03/21/os-treze-jolasveinar-da-islandia-e-as-noites-de-natal-dos-meninos-travessos/).
+According to the sources, the Jólasveinar come one per night on the thirteen nights before Christmas, and each has a name tied to what he does, such as Bjúgnakrækir, the sausage thief. This supper and the order of arrivals are invention. Read the story in [The thirteen Jólasveinar of Iceland and the Christmas nights of naughty lads](/the-thirteen-jolasveinar-of-iceland-and-the-christmas/).

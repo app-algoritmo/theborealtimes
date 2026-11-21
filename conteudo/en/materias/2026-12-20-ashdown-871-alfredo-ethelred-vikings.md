@@ -43,4 +43,4 @@ According to the page, Alfred attacked because he feared being outflanked by the
 
 The site is uncertain. It may have been Kingstanding Hill in Berkshire, near Moulsford, or a spot near Starveall, north of Aldworth and southeast of Lowbury Hill. And the victory was short-lived: the Saxons lost at Basing and at Meretun, and, soon after Easter (15 April 871), Æthelred died and Alfred succeeded him.
 
-To defend the hill against ranks of invaders coming down, firing from below, until you bring them all down, play [The hill of Ashdown](/en/game-the-hill-of-ashdown/).
+To defend the hill against ranks of invaders coming down, firing from below, until you bring them all down, play [The hill of Ashdown](/game-the-hill-of-ashdown/).

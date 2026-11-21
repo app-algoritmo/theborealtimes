@@ -48,4 +48,4 @@ Vili e Vé são dois irmãos de Odin que ajudam a matar Ymir, a fazer o mundo e 
 
 A identificação de Vili e Vé com Hœnir e Lóðurr é uma hipótese dos estudiosos. A palavra *hræring* pode significar movimento ou sensação, e por isso o dom de Vili tem duas leituras. A fala de Loki na *Lokasenna* é uma acusação feita num poema de insultos, e a *Ynglinga saga* é uma obra escrita séculos depois da época que descreve.
 
-Para entregar cada dom ao irmão certo, jogue [Os dons dos irmãos](/jogo-os-dons-dos-irmaos/).
+Para entregar cada dom ao irmão certo, jogue [Os dons dos irmãos](/pt/jogo-os-dons-dos-irmaos/).

@@ -23,4 +23,4 @@ Ni nummererte brikker ligger i feil rekkefølge. Der fire brikker møtes, er det
 
 ## Historien bak
 
-I Snorres Edda er Magni, Tors sønn, tre netter gammel da han løfter foten til jotunen Hrungnir av nakken til faren. Å dreie kvadranter er oppfunnet. Les historien i [Magni og Móði, Tors sønner: barnet som løftet foten til en jotun og de som overlever Ragnarok](/no/2027/01/31/magni-modi-filhos-de-thor-sobreviventes-ragnarok/).
+I Snorres Edda er Magni, Tors sønn, tre netter gammel da han løfter foten til jotunen Hrungnir av nakken til faren. Å dreie kvadranter er oppfunnet. Les historien i [Magni og Móði, Tors sønner: barnet som løftet foten til en jotun og de som overlever Ragnarok](/no/magni-og-modi-tors-sonner-barnet-som-loftet-foten/).

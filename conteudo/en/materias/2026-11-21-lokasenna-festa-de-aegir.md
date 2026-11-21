@@ -37,4 +37,4 @@ In the closing prose, the poem says that Loki hid in a river in the shape of a s
 
 It is worth noting that the *Lokasenna* is preserved in the Codex Regius, the Icelandic manuscript that gathers the poems of the *Poetic Edda*, and that the poem has little action. Almost everything is speech, and the effect comes from the rhythm of the replies. Some readers think the poet enjoyed making the gods look all too human, and the work remains one of the best examples of medieval Norse humour.
 
-To face Loki in a match where every move is a cup served in Ægir's hall, play [Ægir's cups](/en/game-aegirs-cups/).
+To face Loki in a match where every move is a cup served in Ægir's hall, play [Ægir's cups](/game-aegirs-cups/).

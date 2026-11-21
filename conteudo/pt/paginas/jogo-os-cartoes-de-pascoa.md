@@ -23,4 +23,4 @@ As crianças vestidas de bruxa da Páscoa levam cartões para trocar por doces. 
 
 ## A história por trás
 
-Segundo o Nordiska museet, as crianças suecas se vestem de bruxas da Páscoa e desejam feliz Páscoa com cartões, esperando doces ou uma moeda. Os cartões do jogo e os pares são invenção. Leia a história em [As bruxas da Páscoa na Suécia: de Blåkulla às crianças com cartões de Páscoa](/2027/03/28/as-bruxas-da-pascoa-na-suecia-de-blakulla-as-criancas-com-cartoes-de-pascoa/).
+Segundo o Nordiska museet, as crianças suecas se vestem de bruxas da Páscoa e desejam feliz Páscoa com cartões, esperando doces ou uma moeda. Os cartões do jogo e os pares são invenção. Leia a história em [As bruxas da Páscoa na Suécia: de Blåkulla às crianças com cartões de Páscoa](/pt/as-bruxas-da-pascoa-na-suecia-de-blakulla-as-criancas-com-cartoes-de-pascoa/).

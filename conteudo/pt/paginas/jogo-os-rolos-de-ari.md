@@ -23,4 +23,4 @@ Quatro rolos de tamanhos diferentes estão empilhados no primeiro suporte. Leve 
 
 ## A história por trás
 
-A Íslendingabók foi escrita pelo padre Ari Þorgilsson, entre 1122 e 1133, segundo a data deduzida dos bispos citados no prólogo. A cópia medieval se perdeu, e o texto vem de cópias do século XVII. O jogo é invenção. Leia a história em [Íslendingabók, o "Livro dos Islandeses" do padre Ari Þorgilsson: o que ele conta](/2027/01/17/islendingabok-ari-thorgilsson-livro-dos-islandeses/).
+A Íslendingabók foi escrita pelo padre Ari Þorgilsson, entre 1122 e 1133, segundo a data deduzida dos bispos citados no prólogo. A cópia medieval se perdeu, e o texto vem de cópias do século XVII. O jogo é invenção. Leia a história em [Íslendingabók, o "Livro dos Islandeses" do padre Ari Þorgilsson: o que ele conta](/pt/islendingabok-ari-thorgilsson-livro-dos-islandeses/).

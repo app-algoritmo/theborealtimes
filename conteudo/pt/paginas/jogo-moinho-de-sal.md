@@ -23,4 +23,4 @@ Segure o dedo (ou a barra de espaço) para girar o moinho e despejar sal no navi
 
 ## A história por trás
 
-No conto norueguês recolhido por Asbjørnsen e Moe, o marinheiro não sabe parar o moinho, o navio afunda e o moinho continua moendo sal no fundo do mar. Há um parente na *Edda em Prosa*, o moinho Grotti. O jogo é uma simplificação. Leia a história em [O moinho que ainda mói sal no fundo do mar: o conto norueguês e seu parente na Edda](/2026/11/13/moinho-sal-mar/).
+No conto norueguês recolhido por Asbjørnsen e Moe, o marinheiro não sabe parar o moinho, o navio afunda e o moinho continua moendo sal no fundo do mar. Há um parente na *Edda em Prosa*, o moinho Grotti. O jogo é uma simplificação. Leia a história em [O moinho que ainda mói sal no fundo do mar: o conto norueguês e seu parente na Edda](/pt/moinho-sal-mar/).

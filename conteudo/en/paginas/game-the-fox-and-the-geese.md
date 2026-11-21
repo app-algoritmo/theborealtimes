@@ -23,4 +23,4 @@ You move the geese: tap a goose, then a free hole next to it. The fox steps one 
 
 ## The story behind it
 
-Harald Hardrada served in Kyiv and in Constantinople and came back to be king of Norway. The fox and geese game is invented. Read the story in [Harald Hardrada: from the field of Stiklestad to the Varangian Guard and death at Stamford Bridge](/en/2026/12/27/harald-hardrada-varegue-rei-stamford-bridge/).
+Harald Hardrada served in Kyiv and in Constantinople and came back to be king of Norway. The fox and geese game is invented. Read the story in [Harald Hardrada: from the field of Stiklestad to the Varangian Guard and death at Stamford Bridge](/harald-hardrada-from-the-field-of-stiklestad/).

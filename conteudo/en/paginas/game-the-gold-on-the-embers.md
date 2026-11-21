@@ -23,4 +23,4 @@ Ilmarinen forges a bride of gold, and the servants work the bellows. Twelve embe
 
 ## The story behind it
 
-In the 37th rune of the Kalevala, Ilmarinen forges a bride of gold and silver, with servants working the bellows, and finds her cold and lifeless. The twelve embers, the ladle and the rhythm of the game are invention. Read the story in [Ilmarinen and the golden bride: the smith of the Kalevala who forged a wife and found her cold](/en/2027/04/04/ilmarinen-e-a-noiva-de-ouro-o-ferreiro-do-kalevala-que-forjou-uma-esposa-e-a-achou-fria/).
+In the 37th rune of the Kalevala, Ilmarinen forges a bride of gold and silver, with servants working the bellows, and finds her cold and lifeless. The twelve embers, the ladle and the rhythm of the game are invention. Read the story in [Ilmarinen and the golden bride: the smith of the Kalevala who forged a wife and found her cold](/ilmarinen-and-the-golden-bride-the-smith-of-the-kalevala/).

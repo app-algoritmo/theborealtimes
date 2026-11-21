@@ -23,4 +23,4 @@ In Norwegian belief, the vardøger is heard before the person arrives. Three doo
 
 ## The story behind it
 
-According to the Store norske leksikon, the vardøger is a spirit that announces and that is heard, more rarely seen, before the person arrives. The three doors and the rhythm of the game are invention. Read the story in [Vardøger: the spirit heard before the person arrives, in Norwegian belief](/en/2027/03/28/vardoger-o-espirito-que-se-ouve-antes-de-a-pessoa-chegar-na-crenca-noruega/).
+According to the Store norske leksikon, the vardøger is a spirit that announces and that is heard, more rarely seen, before the person arrives. The three doors and the rhythm of the game are invention. Read the story in [Vardøger: the spirit heard before the person arrives, in Norwegian belief](/vardoger-the-spirit-heard-before-the-person-arrives/).

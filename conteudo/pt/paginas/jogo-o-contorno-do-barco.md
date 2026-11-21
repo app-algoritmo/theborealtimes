@@ -23,4 +23,4 @@ Comece pela marca dourada. Toque numa marca vizinha (ao lado, em cima ou embaixo
 
 ## A história por trás
 
-Em Lindholm Høje há sepulturas com pedras postas em forma de barco. O percurso do jogo é invenção. Leia a história em [Lindholm Høje: o cemitério dinamarquês de barcos de pedra coberto pela areia](/2026/11/22/lindholm-hoje-barcos-de-pedra/).
+Em Lindholm Høje há sepulturas com pedras postas em forma de barco. O percurso do jogo é invenção. Leia a história em [Lindholm Høje: o cemitério dinamarquês de barcos de pedra coberto pela areia](/pt/lindholm-hoje-barcos-de-pedra/).

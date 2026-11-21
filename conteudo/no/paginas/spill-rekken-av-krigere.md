@@ -23,4 +23,4 @@ En rekke krigere i ulik høyde står i feil rekkefølge. Trykk på en kriger og 
 
 ## Historien bak
 
-Hlöðskviða forteller om krigen mellom brødrene Angantýr og Hlöðr om arven etter gotarkongen Heiðrekr; Hlöðr vokste opp blant hunerne. Diktet er bevart i Hervarar saga. Å ordne krigere er oppfunnet. Les historien i [Hlöðskviða: to brødres krig mellom gotere og hunere i Hervarar saga](/no/2027/02/07/hlodskvida-godos-hunos-angantyr-hlodr/).
+Hlöðskviða forteller om krigen mellom brødrene Angantýr og Hlöðr om arven etter gotarkongen Heiðrekr; Hlöðr vokste opp blant hunerne. Diktet er bevart i Hervarar saga. Å ordne krigere er oppfunnet. Les historien i [Hlöðskviða: to brødres krig mellom gotere og hunere i Hervarar saga](/no/hlodskvida-to-brodres-krig-mellom-gotere-og-hunere/).

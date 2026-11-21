@@ -44,4 +44,4 @@ For Finns in the 19th century, the *Kalevala* helped give value to their own lan
 
 The expanded 1849 version of the *Kalevala* has fifty cantos and about twenty-two thousand lines. Finland celebrates Kalevala Day on 28 February, a date linked to the publication of the first version. The poem inspired the composer Jean Sibelius, who wrote works such as the *Lemminkäinen Suite*, and also the writer J. R. R. Tolkien, who acknowledged the weight of the story of Kullervo in creating Túrin, a character in his *Silmarillion*.
 
-To tune the strings of Väinämöinen's kantele by ear, play [Tune the kantele](/en/game-tune-the-kantele/).
+To tune the strings of Väinämöinen's kantele by ear, play [Tune the kantele](/game-tune-the-kantele/).

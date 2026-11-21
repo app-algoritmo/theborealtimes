@@ -41,4 +41,4 @@ Em 1266, pelo Tratado de Perth, a Noruega cedeu à Escócia as Hébridas e a ilh
 
 Largs, portanto, não decidiu a questão pelas armas. O que a decidiu foi o desgaste de uma expedição que perdeu a iniciativa, a morte do rei e a vontade de um novo governante de evitar outra guerra. Para os escoceses, o episódio ficou como a lembrança de uma ameaça afastada. Para os noruegueses, foi o fim de uma época.
 
-Para rebater, da praia, as ondas de atacantes que descem sobre os navios encalhados, antes que alcancem a linha dos barcos, jogue [A praia de Largs](/jogo-a-praia-de-largs/).
+Para rebater, da praia, as ondas de atacantes que descem sobre os navios encalhados, antes que alcancem a linha dos barcos, jogue [A praia de Largs](/pt/jogo-a-praia-de-largs/).

@@ -45,4 +45,4 @@ A *Gylfaginning* e a *Grímnismál* o põem na raiz da árvore, ocupado em roê-
 
 O sentido do fim da *Völuspá* é discutido. A leitura mais comum vê na chegada de Níðhöggr um sinal do Ragnarök; outra vê renovação ou redenção, com a serpente levando embora os mortos. A estrofe anterior ao fim é considerada espúria pelo tradutor Henry Adams Bellows. O artigo também nota que Níðhöggr não é mencionado em nenhuma outra fonte antiga, e que o tamanho da vogal do início do nome não está definido nos textos.
 
-Para desfazer, nó por nó, o estrago de uma raiz roída, jogue [As raízes de Níðhöggr](/jogo-as-raizes-de-nidhoggr/).
+Para desfazer, nó por nó, o estrago de uma raiz roída, jogue [As raízes de Níðhöggr](/pt/jogo-as-raizes-de-nidhoggr/).

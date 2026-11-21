@@ -45,4 +45,4 @@ Saxo dá 1167 como o ano em que o bispo Absalon fundou o castelo de Havn, em Slo
 
 A descrição moderna do castelo se apoia em poucas referências e se contradiz sobre a sequência da queda, em 1368 ou 1369. A data de 1167 vem de Saxo, que escrevia a serviço de Absalon, e a escavação mostra o castelo, mas não confirma o ano.
 
-Para conduzir um navio por um estreito de baixios e levar os blocos até o cais, jogue [Pedras para Havn](/jogo-pedras-para-havn/).
+Para conduzir um navio por um estreito de baixios e levar os blocos até o cais, jogue [Pedras para Havn](/pt/jogo-pedras-para-havn/).

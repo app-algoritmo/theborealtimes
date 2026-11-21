@@ -23,4 +23,4 @@ Os remos sobem e descem. Toque (ou aperte Espaço) para pular para o remo da fre
 
 ## A história por trás
 
-Olavo Tryggvason foi rei da Noruega de 995 a 1000 e desapareceu em Svolder. A corrida sobre os remos é invenção do jogo. Leia a história em [Olavo Tryggvason: o rei da Noruega que impôs o cristianismo e sumiu em Svolder](/2027/01/03/olavo-tryggvason-rei-noruega-995-svolder/).
+Olavo Tryggvason foi rei da Noruega de 995 a 1000 e desapareceu em Svolder. A corrida sobre os remos é invenção do jogo. Leia a história em [Olavo Tryggvason: o rei da Noruega que impôs o cristianismo e sumiu em Svolder](/pt/olavo-tryggvason-rei-noruega-995-svolder/).

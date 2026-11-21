@@ -23,4 +23,4 @@ Hermóðr cavalga Sleipnir rumo a Hel. Em cada noite, uma marca corre de um lado
 
 ## A história por trás
 
-Na Gylfaginning, Hermóðr cavalga o Sleipnir de Odin por nove noites, passa pela ponte Gjöll e salta o portão de Hel. A trilha de marcas é invenção. Leia a história em [Hermóðr, o filho de Odin que cavalgou nove noites até Hel atrás de Baldr](/2027/01/17/hermodr-cavalgada-nove-noites-hel-baldr/).
+Na Gylfaginning, Hermóðr cavalga o Sleipnir de Odin por nove noites, passa pela ponte Gjöll e salta o portão de Hel. A trilha de marcas é invenção. Leia a história em [Hermóðr, o filho de Odin que cavalgou nove noites até Hel atrás de Baldr](/pt/hermodr-cavalgada-nove-noites-hel-baldr/).

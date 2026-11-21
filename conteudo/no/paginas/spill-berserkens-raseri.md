@@ -23,4 +23,4 @@ Hold fingeren, eller mellomromstasten, inne for å få raseriet til å stige; sl
 
 ## Historien bak
 
-Sagaene beskriver berserker som uler, biter i skjoldene og ser ut til å ikke kjenne jern. Hva det egentlig var, diskuterer historikere. Raserimåleren er diktet opp for spillet. Les historien i [Berserker: bjørneskinnskrigerne, raseriet sagaene beskriver og den islandske loven som forbød det](/no/2026/11/14/berserkers-furia/).
+Sagaene beskriver berserker som uler, biter i skjoldene og ser ut til å ikke kjenne jern. Hva det egentlig var, diskuterer historikere. Raserimåleren er diktet opp for spillet. Les historien i [Berserker: bjørneskinnskrigerne, raseriet sagaene beskriver og den islandske loven som forbød det](/no/berserker-bjorneskinnskrigerne-raseriet-sagaene-beskriver/).

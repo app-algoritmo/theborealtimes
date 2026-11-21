@@ -42,4 +42,4 @@ A saga não esconde o lado duro de Egil. Desde menino ele é descrito como viole
 
 Egil nasceu na Islândia, segundo a saga, e passou boa parte da vida em viagens e combates pela Noruega, pela Inglaterra e pelo Báltico. Esse vaivém entre o mundo da espada e o da palavra é o que torna a história de York tão lembrada.
 
-Para compor seus próprios versos, jogue [A noite de Egil](/jogo-noite-de-egil/).
+Para compor seus próprios versos, jogue [A noite de Egil](/pt/jogo-noite-de-egil/).

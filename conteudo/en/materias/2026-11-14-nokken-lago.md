@@ -37,4 +37,4 @@ The nøkken has relatives elsewhere. The Swedish näcken also plays the fiddle a
 
 These stories passed from mouth to mouth, and each region had its own version, with its own details about the creature's looks and habits.
 
-To try to drive it off, play [The Nøkken's name](/en/game-the-nokkens-name/).
+To try to drive it off, play [The Nøkken's name](/game-the-nokkens-name/).

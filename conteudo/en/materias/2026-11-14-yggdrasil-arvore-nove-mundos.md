@@ -41,4 +41,4 @@ The *Völuspá* speaks of "nine worlds", but no early source says which they are
 
 The same goes for the idea that the humans Líf and Lífthrasir survived the end of the world hidden in Yggdrasil. The sources speak only of Hoddmímir's wood. Modern interpreters have proposed that wood and tree are the same thing, but that is a hypothesis.
 
-To climb the tree in search of messages, play [Ratatoskr and the tree](/en/game-ratatoskr-and-the-tree/).
+To climb the tree in search of messages, play [Ratatoskr and the tree](/game-ratatoskr-and-the-tree/).

@@ -43,4 +43,4 @@ When that happens, Heimdall will blow the Gjallarhorn to summon the gods. The V�
 
 Heimdall is the god of attention. In a world where the gods hold power but depend on someone to keep watch, he shows that watching is also a strength. For readers today, this is where the image comes from of the sentinel who never sleeps and is, at once, the first and the last to notice danger.
 
-To repeat the sequence Heimdall plays on the horn, play [The colours of Bifröst](/en/game-the-colours-of-bifrost/).
+To repeat the sequence Heimdall plays on the horn, play [The colours of Bifröst](/game-the-colours-of-bifrost/).

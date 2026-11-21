@@ -23,4 +23,4 @@ Six rags of different lengths lie in a stack. Tap a rag to flip it and all the r
 
 ## The story behind it
 
-In Tatterhood (Lurvehette), by Asbjørnsen and Moe, an ugly princess who rides a goat and carries a wooden spoon goes with her sister to the trolls’ island and recovers her sister’s head; on the wedding day, the goat, the spoon and the hood become a horse, a wand or a fan depending on the version, and a golden crown. The stack of rags is invented. Read the story in [Tatterhood (Lurvehette): the ugly princess who rides a goat and defeats the trolls](/en/2027/01/24/tatterhood-lurvehette-princesa-feia-cabra-asbjornsen-moe/).
+In Tatterhood (Lurvehette), by Asbjørnsen and Moe, an ugly princess who rides a goat and carries a wooden spoon goes with her sister to the trolls’ island and recovers her sister’s head; on the wedding day, the goat, the spoon and the hood become a horse, a wand or a fan depending on the version, and a golden crown. The stack of rags is invented. Read the story in [Tatterhood (Lurvehette): the ugly princess who rides a goat and defeats the trolls](/tatterhood-lurvehette-the-ugly-princess-who-rides-a-goat/).

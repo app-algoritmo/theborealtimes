@@ -41,4 +41,4 @@ Em Catoira, as ruínas das Torres de Oeste lembram a defesa da ria contra ataque
 
 As datas da construção das torres variam de uma fonte para outra, e não é certo que todos os ataques citados tenham chegado até as torres. A romaria é uma recriação moderna, e não um fato antigo.
 
-Para lançar pedras da torre quando o medidor de força marcar o ponto certo, jogue [A defesa das torres](/jogo-a-defesa-das-torres/).
+Para lançar pedras da torre quando o medidor de força marcar o ponto certo, jogue [A defesa das torres](/pt/jogo-a-defesa-das-torres/).

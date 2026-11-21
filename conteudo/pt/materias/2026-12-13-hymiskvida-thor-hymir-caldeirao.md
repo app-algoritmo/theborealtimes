@@ -41,4 +41,4 @@ O próprio editor Bellows, em 1936, julgava o texto de qualidade irregular, mont
 
 O interesse do poema está no jeito como mistura a força e a astúcia. Thor vence pela força, mas só conhece o ponto fraco do gigante porque uma mulher da casa lhe revela. A história funciona como uma explicação para a origem da cerveja dos deuses.
 
-Para carregar o caldeirão de Hymir sem deixá-lo tombar, mantendo-o em equilíbrio a cada passo, jogue [O caldeirão de Hymir](/jogo-o-caldeirao-de-hymir/).
+Para carregar o caldeirão de Hymir sem deixá-lo tombar, mantendo-o em equilíbrio a cada passo, jogue [O caldeirão de Hymir](/pt/jogo-o-caldeirao-de-hymir/).

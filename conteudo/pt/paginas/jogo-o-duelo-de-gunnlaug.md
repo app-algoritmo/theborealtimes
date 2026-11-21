@@ -23,4 +23,4 @@ Uma seta mostra de onde vem o golpe. Toque na metade de cima da tela para defend
 
 ## A história por trás
 
-Na Saga de Gunnlaug Língua-de-Serpente, o duelo em Dingenes termina com a morte dos dois. O sistema de golpes é invenção do jogo. Leia a história em [Gunnlaug Língua-de-Serpente e Helga, a Bela: um triângulo amoroso que acabou em duelo](/2026/11/16/gunnlaug-helga-duelo/).
+Na Saga de Gunnlaug Língua-de-Serpente, o duelo em Dingenes termina com a morte dos dois. O sistema de golpes é invenção do jogo. Leia a história em [Gunnlaug Língua-de-Serpente e Helga, a Bela: um triângulo amoroso que acabou em duelo](/pt/gunnlaug-helga-duelo/).

@@ -23,4 +23,4 @@ Vafþrúðnir plays Nim with you. There are three piles of stones. On your turn,
 
 ## The story behind it
 
-In the Vafþrúðnismál, Odin beats the giant with a question only he could answer. The game of stones is made up. Read the story in [Odin and Vafþrúðnir: the wisdom contest where the head was the stake](/en/2026/11/20/vafthrudnir-odin-duelo-de-sabedoria/).
+In the Vafþrúðnismál, Odin beats the giant with a question only he could answer. The game of stones is made up. Read the story in [Odin and Vafþrúðnir: the wisdom contest where the head was the stake](/odin-and-vafthrudnir-the-wisdom-contest-where-the-head/).

@@ -23,4 +23,4 @@ Se på rekken av lys og gjenta den ved å trykke på lysene i samme rekkefølge.
 
 ## Historien bak
 
-Dísene er kvinnelige ånder knyttet til skjebnen, og dísablót var en ofring til deres ære. Lysene er oppfunnet. Les historien i [Dísene: kvinnelige ånder, ofringen i Uppsala og markedet som fortsatt finnes](/no/2027/01/03/disir-disablot-uppsala-disting/).
+Dísene er kvinnelige ånder knyttet til skjebnen, og dísablót var en ofring til deres ære. Lysene er oppfunnet. Les historien i [Dísene: kvinnelige ånder, ofringen i Uppsala og markedet som fortsatt finnes](/no/disene-kvinnelige-ander-ofringen-i-uppsala-og-markedet/).

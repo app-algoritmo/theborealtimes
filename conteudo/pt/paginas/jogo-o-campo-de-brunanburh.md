@@ -23,4 +23,4 @@ Você comanda as peças claras. Toque numa casa marcada para colocar uma peça: 
 
 ## A história por trás
 
-Em 937, na batalha de Brunanburh, o rei Æthelstan venceu uma aliança de nórdicos, escoceses e britânicos. O tabuleiro é invenção do jogo. Leia a história em [Brunanburh, 937: a batalha em que um rei inglês enfrentou vikings, escoceses e britânicos](/2026/11/20/brunanburh-937-athelstan/).
+Em 937, na batalha de Brunanburh, o rei Æthelstan venceu uma aliança de nórdicos, escoceses e britânicos. O tabuleiro é invenção do jogo. Leia a história em [Brunanburh, 937: a batalha em que um rei inglês enfrentou vikings, escoceses e britânicos](/pt/brunanburh-937-athelstan/).

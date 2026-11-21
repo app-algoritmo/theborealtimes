@@ -23,4 +23,4 @@ Três jarros guardam 8, 5 e 3 medidas, e só o maior começa cheio. Toque num ja
 
 ## A história por trás
 
-Thrall (þræll) era o escravizado da Era Viking, abaixo do karl, o homem livre, e do jarl, segundo o poema Rígsþula; a palavra vem de uma raiz germânica que significa "corredor". Os jarros são invenção. Leia a história em [Thralls: os escravizados da Era Viking, entre o karl livre e o jarl nobre](/2027/01/10/thralls-escravizados-era-viking-rigsthula/).
+Thrall (þræll) era o escravizado da Era Viking, abaixo do karl, o homem livre, e do jarl, segundo o poema Rígsþula; a palavra vem de uma raiz germânica que significa "corredor". Os jarros são invenção. Leia a história em [Thralls: os escravizados da Era Viking, entre o karl livre e o jarl nobre](/pt/thralls-escravizados-era-viking-rigsthula/).

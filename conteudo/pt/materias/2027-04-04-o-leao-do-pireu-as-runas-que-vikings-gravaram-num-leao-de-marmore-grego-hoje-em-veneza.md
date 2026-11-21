@@ -51,4 +51,4 @@ O leão de mármore do Pireu, em Veneza, tem três inscrições rúnicas feitas 
 
 As leituras das inscrições são incertas, e partes delas estão apagadas. A página consultada diz que a leitura do nome de Harald Hardrada é duvidosa e não dá certeza sobre quem eram os gravadores.
 
-Para encontrar os pares de runas gravados no leão, jogue [As runas do leão](/jogo-as-runas-do-leao/).
+Para encontrar os pares de runas gravados no leão, jogue [As runas do leão](/pt/jogo-as-runas-do-leao/).

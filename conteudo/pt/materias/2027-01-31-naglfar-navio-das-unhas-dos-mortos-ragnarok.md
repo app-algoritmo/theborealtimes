@@ -39,4 +39,4 @@ A fonte menciona a pedra rúnica de Tullstorp, na Suécia, como possível repres
 
 A fonte não diz que Loki guia o navio: o que registra é que ele vem a bordo. Não há aqui nenhuma informação sobre paralelos eslavos. A origem do nome, a identificação da pedra de Tullstorp e o sentido exato do aviso sobre as unhas continuam em debate. Os textos chegaram por manuscritos medievais, escritos depois da conversão ao cristianismo.
 
-Para desembaraçar as cordas do navio, sem que nenhuma cruze outra, jogue [As cordas de Naglfar](/jogo-as-cordas-de-naglfar/).
+Para desembaraçar as cordas do navio, sem que nenhuma cruze outra, jogue [As cordas de Naglfar](/pt/jogo-as-cordas-de-naglfar/).

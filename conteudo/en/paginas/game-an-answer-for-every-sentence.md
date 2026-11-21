@@ -23,4 +23,4 @@ The princess answers everything and always wants the last word. The youngest bro
 
 ## The story behind it
 
-In the tale by Asbjørnsen and Moe, the youngest brother answers the princess's sentences with what he found on the way: the wedge, the pot shard and the goat horn. The order of the sentences and the swaps of place are invention. Read the story in [The princess who could not be silenced: the Asbjørnsen and Moe tale in which the youngest wins with six finds](/en/2027/04/04/a-princesa-que-ninguem-conseguia-calar-o-conto-de-asbjornsen-e-moe-em-que-o-cacula-vence-com-seis-achados/).
+In the tale by Asbjørnsen and Moe, the youngest brother answers the princess's sentences with what he found on the way: the wedge, the pot shard and the goat horn. The order of the sentences and the swaps of place are invention. Read the story in [The princess who could not be silenced: the Asbjørnsen and Moe tale in which the youngest wins with six finds](/the-princess-who-could-not-be-silenced-the-asbjornsen/).

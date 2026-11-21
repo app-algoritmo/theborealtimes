@@ -23,4 +23,4 @@ Gata er full av vogner. Dra hver vogn i lengderetningen (eller trykk på den og 
 
 ## Historien bak
 
-Utgravinger i Ribe viser et aktivt marked fra tidlig på 700-tallet. Vognene i spillet er diktet opp. Les historien i [Ribe: den danske markedsbyen som fantes før vikingtogenes tid](/no/2026/11/20/ribe-cidade-mercado-dinamarca/).
+Utgravinger i Ribe viser et aktivt marked fra tidlig på 700-tallet. Vognene i spillet er diktet opp. Les historien i [Ribe: den danske markedsbyen som fantes før vikingtogenes tid](/no/ribe-den-danske-markedsbyen-som-fantes-for-vikingtogenes-tid/).

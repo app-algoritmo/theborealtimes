@@ -23,4 +23,4 @@ Toque numa casa para abri-la. Cada número diz quantas das 8 casas vizinhas esco
 
 ## A história por trás
 
-Magnus Olafsson foi morto numa emboscada na Irlanda em 1103. O campo de números é invenção. Leia a história em [Magnus Pés-Descalços: o rei norueguês que morreu numa emboscada na Irlanda, em 1103](/2026/12/06/magnus-pes-descalcos-ulster-1103/).
+Magnus Olafsson foi morto numa emboscada na Irlanda em 1103. O campo de números é invenção. Leia a história em [Magnus Pés-Descalços: o rei norueguês que morreu numa emboscada na Irlanda, em 1103](/pt/magnus-pes-descalcos-ulster-1103/).

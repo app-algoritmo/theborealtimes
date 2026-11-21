@@ -42,4 +42,4 @@ Grupos extremistas já tentaram usar as descrições físicas do poema para just
 
 A relação entre Heimdall e a humanidade aparece fora da *Rígsþula*. A *Völuspá* começa pedindo silêncio aos "filhos de Heimdall", entendidos como os seres humanos. A introdução em prosa da *Rígsþula*, que talvez tenha sido acrescentada depois, identifica Ríg com Heimdall. Para os leitores medievais, portanto, o deus guardião da ponte era também uma espécie de pai simbólico dos homens, o que ajuda a entender por que o poema o escolhe para visitar as casas.
 
-Para dar a cada família a casa certa, jogue [As três casas](/jogo-as-tres-casas/).
+Para dar a cada família a casa certa, jogue [As três casas](/pt/jogo-as-tres-casas/).

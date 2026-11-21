@@ -23,4 +23,4 @@ Drag your finger (or use the arrows and the space bar) to melt the ice and revea
 
 ## The story behind it
 
-In the Prose Edda, the cow Auðumbla licks the ice and Búri, Odin's grandfather, emerges from it. The rounds in the game are made up. Read the story in [Auðumbla, the cow of the ice: the Norse myth in which the first god emerges](/en/2026/11/17/audumbla-ymir-gelo-primordial/).
+In the Prose Edda, the cow Auðumbla licks the ice and Búri, Odin's grandfather, emerges from it. The rounds in the game are made up. Read the story in [Auðumbla, the cow of the ice: the Norse myth in which the first god emerges](/audumbla-the-cow-of-the-ice-the-norse-myth/).

@@ -23,4 +23,4 @@ Each round asks for an exact sum. Tap the tokens to add up to it, and tap a toke
 
 ## The story behind it
 
-The Gulating was a yearly assembly in western Norway, from about 900 to 1300, and the Older Gulating Law is the oldest record of Norwegian law. The tokens are invented. Read the story in [The Gulating, the assembly of western Norway: from the year 900 to the written law of Magnus Lagabøte](/en/2027/01/10/gulating-assembleia-lei-oeste-da-noruega/).
+The Gulating was a yearly assembly in western Norway, from about 900 to 1300, and the Older Gulating Law is the oldest record of Norwegian law. The tokens are invented. Read the story in [The Gulating, the assembly of western Norway: from the year 900 to the written law of Magnus Lagabøte](/the-gulating-the-assembly-of-western-norway-from-the-year/).

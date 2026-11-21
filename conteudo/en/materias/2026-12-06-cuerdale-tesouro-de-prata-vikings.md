@@ -35,4 +35,4 @@ At the time, English law gave the Crown the right to treasure found. The hoard w
 
 For those who study the Viking economy, Cuerdale shows that silver circulated by weight. Coins, jewellery and bars could be cut to make up the desired amount. It also shows the mixture of origins: English, Frankish and Islamic money lay in the same box, a result of the trade and raiding routes that linked the North Sea to the East. But there are limits: the hoard is a single find, and one cannot draw from it alone a picture of the Viking world.
 
-To sort the coins of the hoard by origin, keeping only one origin in each pile, play [The Cuerdale hoard](/en/game-the-cuerdale-hoard/).
+To sort the coins of the hoard by origin, keeping only one origin in each pile, play [The Cuerdale hoard](/game-the-cuerdale-hoard/).

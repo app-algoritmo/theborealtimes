@@ -37,4 +37,4 @@ Também não se sabe se a *sólarsteinn* da saga era de fato um cristal. A palav
 
 O que se sabe é que a orientação no mar, no tempo dos vikings, dependia de olho treinado, memória e atenção ao que a natureza oferecia, e que a ideia de um cristal capaz de ver o sol por trás das nuvens segue fascinando quem estuda o assunto.
 
-Para tentar achar o sol escondido, jogue [A pedra do sol](/jogo-pedra-do-sol/).
+Para tentar achar o sol escondido, jogue [A pedra do sol](/pt/jogo-pedra-do-sol/).

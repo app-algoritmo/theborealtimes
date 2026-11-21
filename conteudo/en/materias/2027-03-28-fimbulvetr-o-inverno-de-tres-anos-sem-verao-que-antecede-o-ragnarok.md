@@ -41,4 +41,4 @@ Fimbulvetr is the winter that opens the Norse end of the world: three winters in
 
 The sources do not say that the myth was born from a real event. The link with the year 536 is a hypothesis that scholars themselves discuss with caution. The two texts also describe the winter in different ways: Snorri speaks of three winters in a row, while the poem's stanza speaks only of "the mighty winter". From these sources, I cannot say whether Snorri took his details from the poem or from another tradition.
 
-To sweep away the snow that comes from four sides before it reaches the house, play [Snow from four sides](/en/game-snow-from-four-sides/).
+To sweep away the snow that comes from four sides before it reaches the house, play [Snow from four sides](/game-snow-from-four-sides/).

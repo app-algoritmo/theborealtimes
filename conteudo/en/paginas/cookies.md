@@ -27,4 +27,4 @@ The games neither store nor send data. The newsletter form keeps only what you t
 
 ## Third parties
 
-Google acts as an independent controller of the data it collects for advertising and measurement. Its processing follows Google's own policies, which the consent window presents at the time of choice. More in the [privacy policy](/en/privacy/).
+Google acts as an independent controller of the data it collects for advertising and measurement. Its processing follows Google's own policies, which the consent window presents at the time of choice. More in the [privacy policy](/privacy/).

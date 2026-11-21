@@ -38,4 +38,4 @@ Loki, who was watching Freyja on Odin's orders, tells the god everything. Odin o
 
 The *Sörla þáttr* was written by Christian authors, centuries after the old religion had ended, and its tone is hostile to the goddess. Historians see in it, in part, a moral criticism, and so treat it with caution. The etymology of Brísingamen is debated, and none of the sources describes what the necklace looked like.
 
-To forge the necklace with the four dwarfs, play [The dwarfs' forge](/en/game-freyjas-forge/).
+To forge the necklace with the four dwarfs, play [The dwarfs' forge](/game-freyjas-forge/).

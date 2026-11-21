@@ -37,4 +37,4 @@ A história ganhou nova vida em 1825, quando o poeta sueco Esaias Tegnér a tran
 
 Também vale lembrar que a saga existe em várias versões e manuscritos, e que os detalhes variam de uma para outra. O nome de Ellide, por exemplo, é escrito de maneiras diferentes, e alguns episódios aparecem só em certas cópias. Isso é comum nas obras medievais, que eram copiadas à mão e mudavam de acordo com quem as copiava.
 
-Para atravessar, com o Ellide, o mar furioso desviando das ondas e dos obstáculos, jogue [Ellide na tempestade](/jogo-ellide-na-tempestade/).
+Para atravessar, com o Ellide, o mar furioso desviando das ondas e dos obstáculos, jogue [Ellide na tempestade](/pt/jogo-ellide-na-tempestade/).

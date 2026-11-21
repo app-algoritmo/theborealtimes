@@ -41,4 +41,4 @@ As fontes dizem que Aud era cristã, batizada, e a ela se atribui a introdução
 
 Aud simboliza a Islândia dos primeiros colonos, uma terra em que alguém podia chegar, escolher um vale e fundar uma linhagem. Seu epíteto, "a de pensamento profundo", sugere que a tradição a lembrava como uma mulher que planejou bem.
 
-Para erguer, bloco a bloco, a casa de uma fazenda recém-fundada, encaixando cada tábua sobre a anterior no tempo certo, jogue [A casa de Aud](/jogo-a-casa-de-aud/).
+Para erguer, bloco a bloco, a casa de uma fazenda recém-fundada, encaixando cada tábua sobre a anterior no tempo certo, jogue [A casa de Aud](/pt/jogo-a-casa-de-aud/).

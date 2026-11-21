@@ -23,4 +23,4 @@ Tap a piece next to the gap to slide it (or use the arrows) and restore the pict
 
 ## The story behind it
 
-In the Kalevala, the Sampo breaks at sea and the shards bring plenty to Finland. The puzzle is made up for the game. Read the story in [The Sampo and Louhi: the magic mill the smith Ilmarinen forged and that broke at sea](/en/2026/11/18/sampo-louhi-kalevala/).
+In the Kalevala, the Sampo breaks at sea and the shards bring plenty to Finland. The puzzle is made up for the game. Read the story in [The Sampo and Louhi: the magic mill the smith Ilmarinen forged and that broke at sea](/the-sampo-and-louhi-the-magic-mill-the-smith-ilmarinen/).

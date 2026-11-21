@@ -23,4 +23,4 @@ En planke glir fram og tilbake oppe. Trykk (eller bruk mellomromstasten) for å 
 
 ## Historien bak
 
-I Laxdæla saga grunnlegger Aud den djuptenkte en gård på Island. Byggingen med stablede planker er diktet opp. Les historien i [Aud den djuptenkte: enken som bygde et skip i all hemmelighet og bosatte seg på Island](/no/2026/12/13/aud-a-profunda-laxdaela-islandia/).
+I Laxdæla saga grunnlegger Aud den djuptenkte en gård på Island. Byggingen med stablede planker er diktet opp. Les historien i [Aud den djuptenkte: enken som bygde et skip i all hemmelighet og bosatte seg på Island](/no/aud-den-djuptenkte-enken-som-bygde-et-skip-i-all/).

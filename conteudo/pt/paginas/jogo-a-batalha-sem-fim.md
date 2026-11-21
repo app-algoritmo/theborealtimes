@@ -23,4 +23,4 @@ Hild e os Hjaðningar lutam sem parar. Mova sua lâmina (arraste, setas ou W e S
 
 ## A história por trás
 
-Segundo o Skáldskaparmál, os Hjaðningar lutam sem fim, noite após noite. A partida do jogo é invenção. Leia a história em [Hjaðningavíg, a batalha eterna: Hild, Heðinn e Högni, o combate que recomeça toda noite até o fim do mundo](/2026/11/19/hjadningavig-batalha-eterna-hild/).
+Segundo o Skáldskaparmál, os Hjaðningar lutam sem fim, noite após noite. A partida do jogo é invenção. Leia a história em [Hjaðningavíg, a batalha eterna: Hild, Heðinn e Högni, o combate que recomeça toda noite até o fim do mundo](/pt/hjadningavig-batalha-eterna-hild/).

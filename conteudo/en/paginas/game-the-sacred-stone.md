@@ -23,4 +23,4 @@ Touch and drag from the person: the direction gives the angle and the distance g
 
 ## The story behind it
 
-Among the Sámi, the sieidi was a place of offering and respect. The throwing of stones is made up for the game. Read the story in [Sieidi: the sacred stones of the Sámi and the offerings left before them](/en/2026/12/20/sieidi-pedras-sagradas-sami-oferendas/).
+Among the Sámi, the sieidi was a place of offering and respect. The throwing of stones is made up for the game. Read the story in [Sieidi: the sacred stones of the Sámi and the offerings left before them](/sieidi-the-sacred-stones-of-the-sami-and-the-offerings-left/).

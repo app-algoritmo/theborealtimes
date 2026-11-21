@@ -23,4 +23,4 @@ Several girls stand in the forest. On one of them, a tail shows for a moment und
 
 ## The story behind it
 
-In Norwegian folklore, the huldra looks like a pretty young woman, but has a cow's tail and, in many accounts, a back hollow like a tree trunk. The game is made up. Read the story in [Huldra: the beautiful forest woman who hides a cow's tail](/en/2026/11/14/huldra-floresta/).
+In Norwegian folklore, the huldra looks like a pretty young woman, but has a cow's tail and, in many accounts, a back hollow like a tree trunk. The game is made up. Read the story in [Huldra: the beautiful forest woman who hides a cow's tail](/huldra-the-beautiful-forest-woman-who-hides-a-cow-s-tail/).

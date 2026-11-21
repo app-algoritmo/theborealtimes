@@ -43,4 +43,4 @@ Num reino distante, um rei viúvo se apaixona pela irmã mais nova, que se recus
 
 As fontes sobre a distribuição do conto entram em conflito. Hasan M. El-Shamy sustentava que o tipo se limitava à Europa, mas há relatos de variantes na Turquia. O artigo traz detalhes que variam de versão em versão, como trolls ou bruxas e colher, leque ou varinha, e não dá datas exatas de coleta. O artigo também tem problemas de citação, entre eles uma referência duplicada a Hodne.
 
-Para pôr em ordem uma pilha de trapos, virando-a de um trapo para cima, jogue [Os trapos de Tatterhood](/jogo-os-trapos-de-tatterhood/).
+Para pôr em ordem uma pilha de trapos, virando-a de um trapo para cima, jogue [Os trapos de Tatterhood](/pt/jogo-os-trapos-de-tatterhood/).

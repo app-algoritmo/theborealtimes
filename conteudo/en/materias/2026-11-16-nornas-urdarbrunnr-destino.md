@@ -41,4 +41,4 @@ The meaning of a stanza of the Hávamál, number 112, is disputed. The Christian
 
 It is also worth remembering that almost everything known about the Norns comes from a few texts, written by Christians centuries after the time when people believed in them. So the image of three weavers is partly a modern construction, and the sources do not always speak of threads.
 
-To keep the thread taut on the Norns' loom, play [The threads of the Norns](/en/game-the-threads-of-the-norns/).
+To keep the thread taut on the Norns' loom, play [The threads of the Norns](/game-the-threads-of-the-norns/).

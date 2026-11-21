@@ -23,4 +23,4 @@ Fire steiner lyser opp i en rekkefølge, og hver spiller en lyd. Se på rekkefø
 
 ## Historien bak
 
-Trow er ånder på Orknøy og Shetland som bor i hauger og kommer ut om natten og, ifølge folketroen, elsker felemusikk og tar med seg felespillere. Å gjenta rekker av lyder er oppfunnet. Les historien i [Trow: haugåndene på Orknøyene og Shetland, felespillerne og steindansen](/no/2027/02/21/trow-os-espiritos-do-monte-das-orcadas-e-shetland-violinistas/).
+Trow er ånder på Orknøy og Shetland som bor i hauger og kommer ut om natten og, ifølge folketroen, elsker felemusikk og tar med seg felespillere. Å gjenta rekker av lyder er oppfunnet. Les historien i [Trow: haugåndene på Orknøyene og Shetland, felespillerne og steindansen](/no/trow-haugandene-pa-orknoyene-og-shetland-felespillerne/).

@@ -23,4 +23,4 @@ Noen fargede figurer dukker opp i noen sekunder. Husk hvilke de er og hvor de st
 
 ## Historien bak
 
-Holger Danske, eller Ogier danskeren, dukker allerede opp i Rolandskvadet, rundt 1060. Ifølge dansk sagn sover han under Kronborg slott og våkner når Danmark er i fare. Å huske figurer er oppfunnet. Les historien i [Holger Danske, eller Ogier danskeren: fra Karl den stores ridder til helten som sover på Kronborg](/no/2027/01/31/holger-danske-ogier-o-dinamarques-kronborg/).
+Holger Danske, eller Ogier danskeren, dukker allerede opp i Rolandskvadet, rundt 1060. Ifølge dansk sagn sover han under Kronborg slott og våkner når Danmark er i fare. Å huske figurer er oppfunnet. Les historien i [Holger Danske, eller Ogier danskeren: fra Karl den stores ridder til helten som sover på Kronborg](/no/holger-danske-eller-ogier-danskeren-fra-karl-den-stores/).

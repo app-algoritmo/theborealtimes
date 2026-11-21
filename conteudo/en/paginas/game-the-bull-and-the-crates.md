@@ -23,4 +23,4 @@ The dun bull pushes crates onto the golden marks on the floor. Use the keyboard 
 
 ## The story behind it
 
-In Kari Trestakk, by Asbjørnsen and Moe, a dun bull gives the girl food and flees with her from the stepmother; in the copper, silver and golden woods he fights a troll in each, and the girl takes leaves and a golden apple. Pushing crates is invented. Read the story in [Kari Trestakk: the dun bull, the stepmother and the golden shoe in a tale by Asbjørnsen and Moe](/en/2027/01/24/kari-trestakk-boi-pardo-madrasta-asbjornsen-moe/).
+In Kari Trestakk, by Asbjørnsen and Moe, a dun bull gives the girl food and flees with her from the stepmother; in the copper, silver and golden woods he fights a troll in each, and the girl takes leaves and a golden apple. Pushing crates is invented. Read the story in [Kari Trestakk: the dun bull, the stepmother and the golden shoe in a tale by Asbjørnsen and Moe](/kari-trestakk-the-dun-bull-the-stepmother-and-the-golden/).

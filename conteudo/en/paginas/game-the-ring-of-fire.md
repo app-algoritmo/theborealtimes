@@ -23,4 +23,4 @@ Tap a stone: it and its four neighbours switch state (lit becomes out, and the o
 
 ## The story behind it
 
-In the sagas, Brynhildr sleeps inside a wall of fire. The flame puzzle is made up for the game. Read the story in [Brynhildr and Sigurd: the valkyrie in the ring of fire and the betrayal that ended on the pyre](/en/2026/11/18/brynhildr-sigurd-fogo-volsunga/).
+In the sagas, Brynhildr sleeps inside a wall of fire. The flame puzzle is made up for the game. Read the story in [Brynhildr and Sigurd: the valkyrie in the ring of fire and the betrayal that ended on the pyre](/brynhildr-and-sigurd-the-valkyrie-in-the-ring-of-fire/).

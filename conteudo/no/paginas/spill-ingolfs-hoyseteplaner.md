@@ -23,4 +23,4 @@ Hold fingeren (eller mellomromstasten) for å fylle kraftlinjen og slipp for å 
 
 ## Historien bak
 
-Ifølge landnåmsboken kastet Ingolv høysetestolpene sine i havet og slo seg ned der de drev i land. Vinden og bukta i spillet er diktet opp. Les historien i [Ingolf Arnarson og høysetestolpene: slik forteller tradisjonen om grunnleggelsen av Reykjavik](/no/2026/11/17/ingolfr-arnarson-pilares-reykjavik/).
+Ifølge landnåmsboken kastet Ingolv høysetestolpene sine i havet og slo seg ned der de drev i land. Vinden og bukta i spillet er diktet opp. Les historien i [Ingolf Arnarson og høysetestolpene: slik forteller tradisjonen om grunnleggelsen av Reykjavik](/no/ingolf-arnarson-og-hoysetestolpene-slik-forteller/).

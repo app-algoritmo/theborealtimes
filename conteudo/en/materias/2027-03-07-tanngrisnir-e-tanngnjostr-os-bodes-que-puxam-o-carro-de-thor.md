@@ -43,4 +43,4 @@ Thor's goats are both mount and meal. The rule is simple: the meat may be eaten,
 
 The names may be late and Snorri's. The two sources disagree on who caused the limp. The article presents the link with Sæhrímnir and with the herring tales as interpretations, not as facts.
 
-To drive Thor's chariot, jump the obstacles and gather bones without breaking them, play [The goat chariot](/en/game-the-goat-chariot/).
+To drive Thor's chariot, jump the obstacles and gather bones without breaking them, play [The goat chariot](/game-the-goat-chariot/).

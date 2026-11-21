@@ -23,4 +23,4 @@ Cada casa recebe um monte de altura 1 a N; toque na casa para mudar a altura. N�
 
 ## A história por trás
 
-Perto de Liepāja, na Letônia, Grobiņa teve um assentamento escandinavo, e o cemitério de Priediens tem cerca de 2000 montes. Alinhar montes por visibilidade é invenção. Leia a história em [Grobiņa, na Letônia: o assentamento escandinavo, os montes e a "Seeburg" de Rimbert](/2027/02/21/grobina-assentamento-escandinavo-na-letonia-montes-funerarios/).
+Perto de Liepāja, na Letônia, Grobiņa teve um assentamento escandinavo, e o cemitério de Priediens tem cerca de 2000 montes. Alinhar montes por visibilidade é invenção. Leia a história em [Grobiņa, na Letônia: o assentamento escandinavo, os montes e a "Seeburg" de Rimbert](/pt/grobina-assentamento-escandinavo-na-letonia-montes-funerarios/).

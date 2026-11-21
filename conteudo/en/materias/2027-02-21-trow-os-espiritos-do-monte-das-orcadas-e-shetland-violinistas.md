@@ -52,4 +52,4 @@ The trow is a mound spirit that comes out at night and loves the fiddle. The wor
 
 The etymology of *trow*, whether from *troll* or from *draugr*, is not settled. The reading of "trowis" in 1529 is disputed. Emerick's synthesis is speculation of hers, and Dey's idea about the Norse conquest is also speculative. What the stories say about time in the mounds is tradition, and there is no proof of any of it.
 
-To repeat the melody in the right order, like one learning a trow tune, play [The melody of the trows](/en/game-the-melody-of-the-trows/).
+To repeat the melody in the right order, like one learning a trow tune, play [The melody of the trows](/game-the-melody-of-the-trows/).

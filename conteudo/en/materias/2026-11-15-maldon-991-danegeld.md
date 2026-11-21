@@ -39,4 +39,4 @@ After the defeat, Archbishop Sigeric advised the king to pay. The sum was ten th
 
 The Battle of Maldon is a poem of 325 lines in Old English, but it is a fragment, with no beginning or end. The manuscript was lost in the fire of the Cotton library in 1731, and the text survives because it was transcribed in 1724. Scholars debate how faithful it is to the facts.
 
-To defend the causeway against the tide and the invaders, play [The Maldon causeway](/en/game-the-maldon-causeway/).
+To defend the causeway against the tide and the invaders, play [The Maldon causeway](/game-the-maldon-causeway/).

@@ -38,4 +38,4 @@ As fontes ligam Skaði ao inverno, à caça e ao esqui, e a descrevem caçando c
 
 A história é contada sobretudo por Snorri Sturluson, no século XIII, a partir de poemas mais antigos. Algumas partes, como o riso provocado por Loki, só aparecem nessa versão, e não se sabe quanto vem de tradição oral e quanto é obra do autor.
 
-Para repetir a escolha da deusa, jogue [Escolha pelos pés](/jogo-escolha-pelos-pes/).
+Para repetir a escolha da deusa, jogue [Escolha pelos pés](/pt/jogo-escolha-pelos-pes/).

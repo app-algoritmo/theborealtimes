@@ -23,4 +23,4 @@ Words fall in three lanes. Tap the right lane (or use the arrow keys) when the w
 
 ## The story behind it
 
-The Althing was founded around 930, and the lawspeaker recited the laws by heart at the Lögberg. The rhythm of the game is made up. Read the story in [Althing, 930: the open-air parliament of Þingvellir and the man who recited the laws by heart](/en/2026/11/15/althing-930-thingvellir/).
+The Althing was founded around 930, and the lawspeaker recited the laws by heart at the Lögberg. The rhythm of the game is made up. Read the story in [Althing, 930: the open-air parliament of Þingvellir and the man who recited the laws by heart](/althing-930-the-open-air-parliament-of-thingvellir/).

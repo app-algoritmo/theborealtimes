@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-Olav Tryggvason var konge av Norge fra 995 til 1000 og forsvant ved Svolder. Løpet over årene er oppfunnet i spillet. Les historien i [Olav Tryggvason: kongen av Norge som påla kristendommen og forsvant ved Svolder](/no/2027/01/03/olavo-tryggvason-rei-noruega-995-svolder/).
+Olav Tryggvason var konge av Norge fra 995 til 1000 og forsvant ved Svolder. Løpet over årene er oppfunnet i spillet. Les historien i [Olav Tryggvason: kongen av Norge som påla kristendommen og forsvant ved Svolder](/no/olav-tryggvason-kongen-av-norge-som-pala-kristendommen/).

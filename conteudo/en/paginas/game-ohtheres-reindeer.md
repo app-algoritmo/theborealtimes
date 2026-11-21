@@ -23,4 +23,4 @@ Drag your finger (or the mouse) to move the herder. The reindeer flee from anyon
 
 ## The story behind it
 
-Ohthere, a Norwegian from the north, told King Alfred of England that he kept reindeer. The herding in the game is made up. Read the story in [Ohthere and the reindeer: an Arctic Norwegian's account to King Alfred](/en/2026/11/17/ohthere-renas-relato-alfredo/).
+Ohthere, a Norwegian from the north, told King Alfred of England that he kept reindeer. The herding in the game is made up. Read the story in [Ohthere and the reindeer: an Arctic Norwegian's account to King Alfred](/ohthere-and-the-reindeer-an-arctic-norwegian-s-account/).

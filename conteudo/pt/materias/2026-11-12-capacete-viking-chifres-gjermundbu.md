@@ -43,4 +43,4 @@ As fontes escritas e os achados dão uma imagem mais modesta do que a do cinema.
 
 Muitos combatentes comuns, porém, deviam lutar sem capacete, com gorros de couro ou de lã, que não deixaram vestígios.
 
-Para fazer a escavação você mesmo, jogue [Escavação em Gjermundbu](/jogo-escavacao-em-gjermundbu/).
+Para fazer a escavação você mesmo, jogue [Escavação em Gjermundbu](/pt/jogo-escavacao-em-gjermundbu/).

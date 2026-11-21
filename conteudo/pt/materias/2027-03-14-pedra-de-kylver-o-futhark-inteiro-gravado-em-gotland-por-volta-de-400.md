@@ -45,4 +45,4 @@ A Pedra de Kylver, de Gotland, de cerca de 400, mostra as 24 runas em ordem. É 
 
 Ninguém sabe o sentido de *sueus*, nem se a árvore de runas era mágica. O uso da pedra como tampa de sepultura talvez seja só reaproveitamento.
 
-Para tocar nas runas na mesma ordem em que estão na pedra, jogue [A ordem do futhark](/jogo-a-ordem-do-futhark/).
+Para tocar nas runas na mesma ordem em que estão na pedra, jogue [A ordem do futhark](/pt/jogo-a-ordem-do-futhark/).

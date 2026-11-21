@@ -23,4 +23,4 @@ card:
 
 ## The story behind it
 
-In Gautreks saga, King Gauti gets lost and spends the night at the house of the farmer Skinflint, and the place is called Ættarstapi. The ättestupa cliffs came later, and the practice was never proven. The division into three boxes and the rhythm of the game are invention. Read the story in [Gautrek and the miserly family: the saga behind the Swedish "ättestupa"](/en/2027/03/28/gautrek-e-a-familia-avarenta-a-saga-por-tras-da-attestupa-sueca/).
+In Gautreks saga, King Gauti gets lost and spends the night at the house of the farmer Skinflint, and the place is called Ættarstapi. The ättestupa cliffs came later, and the practice was never proven. The division into three boxes and the rhythm of the game are invention. Read the story in [Gautrek and the miserly family: the saga behind the Swedish "ättestupa"](/gautrek-and-the-miserly-family-the-saga-behind-the-swedish/).

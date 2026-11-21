@@ -23,4 +23,4 @@ Over Gróa's burial mound, the dangers of Svipdagr's journey appear one by one. 
 
 ## The story behind it
 
-In the poem Grógaldr, the dead mother of Svipdagr sings nine charms to protect him from dangers such as waters, enemies, fetters, storm, frost, mist and giants. The shapes and colours of the stones are invented. Read the story in [Grógaldr: the nine spells Gróa sings to her son Svipdagr](/en/2027/03/14/grogaldr-os-nove-feiticos-que-groa-canta-ao-filho-svipdagr/).
+In the poem Grógaldr, the dead mother of Svipdagr sings nine charms to protect him from dangers such as waters, enemies, fetters, storm, frost, mist and giants. The shapes and colours of the stones are invented. Read the story in [Grógaldr: the nine spells Gróa sings to her son Svipdagr](/grogaldr-the-nine-spells-groa-sings-to-her-son-svipdagr/).

@@ -23,4 +23,4 @@ Utkledd som tigger bytter Hacon tre gullgjenstander med prinsessen. Se rekkeføl
 
 ## Historien bak
 
-I eventyret bytter tiggeren Hacon et gyllent spinnehjul, understellet og en ullvikler av gull mot netter nær prinsessen. Rekkefølgen du gjentar, og bytten av plass er oppdiktet. Les historien i [Hakon Gråskjegg: eventyret om den stolte prinsessen og tiggeren som var prins](/no/2027/03/28/hacon-barba-grisalha-conto-noruegues-da-princesa-orgulhosa-e-do-mendigo-que-era-principe/).
+I eventyret bytter tiggeren Hacon et gyllent spinnehjul, understellet og en ullvikler av gull mot netter nær prinsessen. Rekkefølgen du gjentar, og bytten av plass er oppdiktet. Les historien i [Hakon Gråskjegg: eventyret om den stolte prinsessen og tiggeren som var prins](/no/hakon-graskjegg-eventyret-om-den-stolte-prinsessen/).

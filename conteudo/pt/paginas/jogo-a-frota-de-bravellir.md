@@ -23,4 +23,4 @@ Navios estão escondidos no mapa, em linha, sem se tocar. Os números nas bordas
 
 ## A história por trás
 
-Segundo as fontes, os suecos teriam construído 3.000 navios para Brávellir, um número lendário; a batalha é de existência incerta. Achar navios escondidos é invenção. Leia a história em [A batalha de Brávellir: Sigurd Hring, Harald Dente de Guerra e um exército lendário](/2027/02/14/batalha-de-bravellir-sigurd-hring-harald-dente-de-guerra/).
+Segundo as fontes, os suecos teriam construído 3.000 navios para Brávellir, um número lendário; a batalha é de existência incerta. Achar navios escondidos é invenção. Leia a história em [A batalha de Brávellir: Sigurd Hring, Harald Dente de Guerra e um exército lendário](/pt/batalha-de-bravellir-sigurd-hring-harald-dente-de-guerra/).

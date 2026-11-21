@@ -23,4 +23,4 @@ I enden av himmelen slår kjempen Hræsvelgr, i skikkelse av en ørn, med vingen
 
 ## Historien bak
 
-I Vafþrúðnismál og Gylfaginning sitter kjempen Hræsvelgr, i skikkelse av en ørn, i enden av himmelen, og vinden kommer fra vingene hans. De blå og røde vindkastene og rytmen i spillet er oppdiktet. Les historien i [Hræsvelgr: jotunen i ørneham som lager vinden med vingene](/no/2027/04/04/hraesvelgr-o-gigante-em-forma-de-aguia-que-faz-o-vento-com-as-asas/).
+I Vafþrúðnismál og Gylfaginning sitter kjempen Hræsvelgr, i skikkelse av en ørn, i enden av himmelen, og vinden kommer fra vingene hans. De blå og røde vindkastene og rytmen i spillet er oppdiktet. Les historien i [Hræsvelgr: jotunen i ørneham som lager vinden med vingene](/no/hraesvelgr-jotunen-i-orneham-som-lager-vinden-med-vingene/).

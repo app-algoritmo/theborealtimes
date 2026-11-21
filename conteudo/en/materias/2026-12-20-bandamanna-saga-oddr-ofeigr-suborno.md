@@ -39,4 +39,4 @@ On the way home, Oddr meets his father, Ófeigr, who agrees to take the case in 
 
 The page consulted gives no critical interpretation of the saga and only describes the plot. To speak of satire or comedy would require other sources, such as the editions cited on the page itself. What the text shows is that the "law" of the saga is less a matter of justice than of who understands the rules and the people better.
 
-To take coins from three heaps, in your turn, so as to keep the last one, against a clever opponent, play [The Althing's coins](/en/game-the-althings-coins/).
+To take coins from three heaps, in your turn, so as to keep the last one, against a clever opponent, play [The Althing's coins](/game-the-althings-coins/).

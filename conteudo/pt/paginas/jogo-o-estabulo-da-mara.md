@@ -23,4 +23,4 @@ Há cinco diferenças entre os dois desenhos. Toque onde achar cada uma (ou mova
 
 ## A história por trás
 
-Na tradição escandinava, a mara é um espírito que monta no peito de quem dorme, e dizem que embaraça as crinas dos cavalos. O jogo é invenção. Leia a história em [A mara: o espírito que monta quem dorme e que deu nome ao pesadelo](/2026/11/18/mara-pesadelo-nordico/).
+Na tradição escandinava, a mara é um espírito que monta no peito de quem dorme, e dizem que embaraça as crinas dos cavalos. O jogo é invenção. Leia a história em [A mara: o espírito que monta quem dorme e que deu nome ao pesadelo](/pt/mara-pesadelo-nordico/).

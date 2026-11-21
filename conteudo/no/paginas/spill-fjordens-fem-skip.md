@@ -23,4 +23,4 @@ Fem skip er skjult i vannet. Trykk på en rute for å skyte (eller bruk piltaste
 
 ## Historien bak
 
-I Roskildefjorden ble restene av fem senkede skip funnet. Skuddene i spillet er diktet opp. Les historien i [Skuldelev: de fem vikingskipene som med vilje ble senket i Roskilde fjord](/no/2026/11/22/skuldelev-navios-fiorde-de-roskilde/).
+I Roskildefjorden ble restene av fem senkede skip funnet. Skuddene i spillet er diktet opp. Les historien i [Skuldelev: de fem vikingskipene som med vilje ble senket i Roskilde fjord](/no/skuldelev-de-fem-vikingskipene-som-med-vilje-ble-senket/).

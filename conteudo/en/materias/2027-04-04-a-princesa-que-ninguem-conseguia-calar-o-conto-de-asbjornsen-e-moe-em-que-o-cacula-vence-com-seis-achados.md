@@ -48,4 +48,4 @@ The youngest picks up six things on the road and uses each to answer a sentence 
 
 I read an English adaptation of 1912, not the Norwegian text of Asbjørnsen and Moe, so details such as the order of the answers and the pun at the end may vary in other versions. The tale does not name the princess or the king.
 
-To give the princess the answer that each sentence calls for, play [An answer for every sentence](/en/game-an-answer-for-every-sentence/).
+To give the princess the answer that each sentence calls for, play [An answer for every sentence](/game-an-answer-for-every-sentence/).

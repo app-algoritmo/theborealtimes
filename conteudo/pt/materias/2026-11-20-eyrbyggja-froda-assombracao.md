@@ -37,4 +37,4 @@ Nenhuma escavação confirmou os fatos, e a saga foi escrita cerca de dois sécu
 
 Vale lembrar que a *Eyrbyggja saga* não trata só de fantasmas. É uma crônica de famílias e de disputas na região de Snæfellsnes, e o chefe Snorri goði é um dos seus personagens centrais. O episódio de Fróðá é só uma parte dela, e o autor parece mais interessado em mostrar como uma comunidade lidava com um problema do que em assustar o público.
 
-Para descobrir, como no tribunal, a ordem certa dos acusados que esperam à porta, jogue [Os acusados à porta](/jogo-os-acusados-a-porta/).
+Para descobrir, como no tribunal, a ordem certa dos acusados que esperam à porta, jogue [Os acusados à porta](/pt/jogo-os-acusados-a-porta/).

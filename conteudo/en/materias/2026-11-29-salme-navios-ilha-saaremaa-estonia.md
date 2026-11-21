@@ -41,4 +41,4 @@ There are many unanswered questions. Who were the dead? What language did they s
 
 What can be affirmed is that Salme widened the picture we had of the period before the Viking Age. It showed large ships, well-armed warriors and contacts between Sweden and the east coast of the Baltic, all around 750.
 
-To line up three matching pieces, such as swords, spears and shields, and empty the board of finds from the site, play [The finds of Salme](/en/game-the-finds-of-salme/).
+To line up three matching pieces, such as swords, spears and shields, and empty the board of finds from the site, play [The finds of Salme](/game-the-finds-of-salme/).

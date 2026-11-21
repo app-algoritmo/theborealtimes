@@ -23,4 +23,4 @@ Flytt øksen (dra, eller bruk piltastene) for å sprette ballen og slå ned alle
 
 ## Historien bak
 
-Ivar Beinløs var en av lederne for den store hedenske hæren som invaderte England omkring 865. Muren i spillet er diktet opp. Les historien i [Ivar Beinløs og den store hedenske hæren: hva vi vet om invasjonen som endret England](/no/2026/11/18/ivar-sem-ossos-grande-exercito-pagao/).
+Ivar Beinløs var en av lederne for den store hedenske hæren som invaderte England omkring 865. Muren i spillet er diktet opp. Les historien i [Ivar Beinløs og den store hedenske hæren: hva vi vet om invasjonen som endret England](/no/ivar-beinlos-og-den-store-hedenske-haeren-hva-vi-vet-om/).

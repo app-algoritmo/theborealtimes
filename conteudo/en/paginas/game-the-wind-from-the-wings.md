@@ -23,4 +23,4 @@ At the edge of the sky, the giant Hræsvelgr, in the shape of an eagle, beats hi
 
 ## The story behind it
 
-In the Vafþrúðnismál and the Gylfaginning, the giant Hræsvelgr, in the shape of an eagle, sits at the edge of the sky, and the wind comes from his wings. The blue and red gusts and the rhythm of the game are invention. Read the story in [Hræsvelgr: the giant in the shape of an eagle who makes the wind with his wings](/en/2027/04/04/hraesvelgr-o-gigante-em-forma-de-aguia-que-faz-o-vento-com-as-asas/).
+In the Vafþrúðnismál and the Gylfaginning, the giant Hræsvelgr, in the shape of an eagle, sits at the edge of the sky, and the wind comes from his wings. The blue and red gusts and the rhythm of the game are invention. Read the story in [Hræsvelgr: the giant in the shape of an eagle who makes the wind with his wings](/hraesvelgr-the-giant-in-the-shape-of-an-eagle-who-makes/).

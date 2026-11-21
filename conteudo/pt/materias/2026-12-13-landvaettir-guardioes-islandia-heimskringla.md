@@ -41,4 +41,4 @@ A cena é uma narrativa da saga, escrita por volta de 1230, bem depois de Harald
 
 Os *landvættir* são parte de uma crença mais ampla nos espíritos que habitam a paisagem, e a Islândia moderna os transformou em emblema. O fato de o brasão ter sido definido no século XX mostra como as sagas medievais continuam a alimentar a identidade do país.
 
-Para distribuir pedras entre as casas do tabuleiro, em voltas sucessivas, até guardar mais pedras do que o rival, jogue [A semeadura dos guardiões](/jogo-a-semeadura-dos-guardioes/).
+Para distribuir pedras entre as casas do tabuleiro, em voltas sucessivas, até guardar mais pedras do que o rival, jogue [A semeadura dos guardiões](/pt/jogo-a-semeadura-dos-guardioes/).

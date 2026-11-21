@@ -23,4 +23,4 @@ O portão do castelo tem três hastes e uma pilha de anéis de tamanhos diferent
 
 ## A história por trás
 
-Em Fjölsvinnsmál, o vigia Fjölsviðr pergunta o nome de Svipdagr, que o esconde até o fim; quando ele o diz, os portões se abrem e Menglöð o saúda. Mover anéis entre hastes é invenção. Leia a história em [Fjölsvinnsmál: o vigia do castelo, o nome escondido de Svipdagr e Menglöð](/2027/02/07/fjolsvinnsmal-svipdagr-menglod-vigia-castelo/).
+Em Fjölsvinnsmál, o vigia Fjölsviðr pergunta o nome de Svipdagr, que o esconde até o fim; quando ele o diz, os portões se abrem e Menglöð o saúda. Mover anéis entre hastes é invenção. Leia a história em [Fjölsvinnsmál: o vigia do castelo, o nome escondido de Svipdagr e Menglöð](/pt/fjolsvinnsmal-svipdagr-menglod-vigia-castelo/).

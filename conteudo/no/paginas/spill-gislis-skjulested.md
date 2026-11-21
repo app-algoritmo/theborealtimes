@@ -23,4 +23,4 @@ Gisli, fredløs, stenger skjulestedet med steiner. Skyv hver stein på en marker
 
 ## Historien bak
 
-I Gisle Surssons saga lever helten i årevis som fredløs på Island. Steinene og nivåene er diktet opp for spillet. Les historien i [Gísle Súrsson: sagaen om fredløsen som flyktet i årevis i fjordene på Island, mellom drømmer og bakhold](/no/2026/11/19/gisli-sursson-saga-fora-da-lei/).
+I Gisle Surssons saga lever helten i årevis som fredløs på Island. Steinene og nivåene er diktet opp for spillet. Les historien i [Gísle Súrsson: sagaen om fredløsen som flyktet i årevis i fjordene på Island, mellom drømmer og bakhold](/no/gisle-sursson-sagaen-om-fredlosen-som-flyktet-i-arevis/).

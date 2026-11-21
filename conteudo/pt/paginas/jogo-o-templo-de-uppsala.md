@@ -23,4 +23,4 @@ Toque numa peça ao lado do espaço vazio para deslizá-la. Coloque as runas na 
 
 ## A história por trás
 
-Adão de Bremen descreveu, por volta de 1070, um grande templo em Uppsala. O quebra-cabeça é invenção. Leia a história em [O templo de Uppsala: o que Adão de Bremen contou e o que os arqueólogos encontraram](/2026/12/06/uppsala-templo-adao-de-bremen/).
+Adão de Bremen descreveu, por volta de 1070, um grande templo em Uppsala. O quebra-cabeça é invenção. Leia a história em [O templo de Uppsala: o que Adão de Bremen contou e o que os arqueólogos encontraram](/pt/uppsala-templo-adao-de-bremen/).

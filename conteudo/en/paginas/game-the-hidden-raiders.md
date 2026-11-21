@@ -23,4 +23,4 @@ Each field hides raiders. Tap a square to reveal it: the number shows how many r
 
 ## The story behind it
 
-On 5 August 910, an army of Wessex and Mercia defeated the Northumbrian Vikings near Tettenhall, and three Viking kings died, according to the account. The hidden raiders are invented. Read the story in [Battle of Tettenhall, 910: Edward, Æthelflæd and the end of a Viking army in Mercia](/en/2027/02/07/batalha-de-tettenhall-910-edward-aethelflaed/).
+On 5 August 910, an army of Wessex and Mercia defeated the Northumbrian Vikings near Tettenhall, and three Viking kings died, according to the account. The hidden raiders are invented. Read the story in [Battle of Tettenhall, 910: Edward, Æthelflæd and the end of a Viking army in Mercia](/battle-of-tettenhall-910-edward-aethelflaed-and-the-end/).

@@ -43,4 +43,4 @@ An *epic* is a long narrative poem about heroic deeds. A *canto* is each of the 
 
 The proportion of authentic verses, about one eighth, is a claim of the source and is not easy to verify. The link with *Widsith* is opinion. The three versions of the work differ in length and text, and so there is no single *Kalevipoeg*. The epic is a 19th-century work, composed with old material: it is not a medieval text, and whoever reads it today should know that the compiler's hand is in every canto.
 
-To choose the stones that fit in the hero's sack, play [Kalevipoeg’s stones](/en/game-kalevipoegs-stones/).
+To choose the stones that fit in the hero's sack, play [Kalevipoeg’s stones](/game-kalevipoegs-stones/).

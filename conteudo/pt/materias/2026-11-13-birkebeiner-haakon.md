@@ -38,4 +38,4 @@ A travessia é lembrada todos os anos na Birkebeinerrennet, uma corrida de esqui
 
 Os detalhes variam conforme a fonte, e a saga tem um interesse evidente em exaltar a família real. O núcleo da história, porém, é aceito pelos historiadores: um príncipe-bebê foi salvo por esquiadores nas montanhas da Noruega.
 
-Para descer a montanha com o pequeno príncipe, jogue [A travessia dos Birkebeiner](/jogo-travessia-dos-birkebeiner/).
+Para descer a montanha com o pequeno príncipe, jogue [A travessia dos Birkebeiner](/pt/jogo-travessia-dos-birkebeiner/).

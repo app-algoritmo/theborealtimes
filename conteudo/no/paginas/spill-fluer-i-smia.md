@@ -23,4 +23,4 @@ Trykk på fluene (eller flytt siktet med piltastene og bruk mellomromstasten) f�
 
 ## Historien bak
 
-Ifølge Snorre stakk Loke, forvandlet til en flue, dvergen Brokk for å ødelegge smiingen av Mjølner, og skaftet ble kort. Fluesvermen og tellingen i spillet er diktet opp. Les historien i [Brokk og Sindre smir Mjølner: veddemålet der Loke satset sitt eget hode](/no/2026/11/18/mjolnir-brokkr-sindri-forja/).
+Ifølge Snorre stakk Loke, forvandlet til en flue, dvergen Brokk for å ødelegge smiingen av Mjølner, og skaftet ble kort. Fluesvermen og tellingen i spillet er diktet opp. Les historien i [Brokk og Sindre smir Mjølner: veddemålet der Loke satset sitt eget hode](/no/brokk-og-sindre-smir-mjolner-veddemalet-der-loke-satset/).

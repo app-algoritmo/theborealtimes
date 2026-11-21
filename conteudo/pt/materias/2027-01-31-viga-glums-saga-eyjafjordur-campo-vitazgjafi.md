@@ -43,4 +43,4 @@ DuBois e Turville-Petre discordam sobre o que a saga revela da religião pagã. 
 
 A data de composição é estimada. Se os episódios de Víga-Skúta e de Ǫgmundr dytt fazem parte da forma original da saga é discutido. A semelhança com a *Disciplina Clericalis* não prova que o autor tenha lido esse texto. E, como DuBois e Turville-Petre divergem sobre o que a saga mostra do paganismo, qualquer leitura do culto de Freyr nela deve ser tomada como uma interpretação, não como um retrato direto da religião antiga. A saga foi escrita no século XIII, e a história que conta se passa muito antes.
 
-Para dividir um campo em lotes retangulares, cada um com o número certo de casas, jogue [Os lotes do campo](/jogo-os-lotes-do-campo/).
+Para dividir um campo em lotes retangulares, cada um com o número certo de casas, jogue [Os lotes do campo](/pt/jogo-os-lotes-do-campo/).

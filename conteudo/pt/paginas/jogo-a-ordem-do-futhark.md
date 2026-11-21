@@ -23,4 +23,4 @@ Uma laje de calcário traz doze runas. Veja a fileira de runas na parte de baixo
 
 ## A história por trás
 
-A Pedra de Kylver, de Gotland, de cerca do ano 400, traz o futhark antigo inteiro em ordem, a mais antiga sequência assim conhecida. O jogo com doze runas é invenção. Leia a história em [Pedra de Kylver: o futhark inteiro gravado em Gotland por volta de 400](/2027/03/14/pedra-de-kylver-o-futhark-inteiro-gravado-em-gotland-por-volta-de-400/).
+A Pedra de Kylver, de Gotland, de cerca do ano 400, traz o futhark antigo inteiro em ordem, a mais antiga sequência assim conhecida. O jogo com doze runas é invenção. Leia a história em [Pedra de Kylver: o futhark inteiro gravado em Gotland por volta de 400](/pt/pedra-de-kylver-o-futhark-inteiro-gravado-em-gotland-por-volta-de-400/).

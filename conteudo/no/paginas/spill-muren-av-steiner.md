@@ -23,4 +23,4 @@ En tung stein glir fra side til side. Trykk for å slippe den på muren. Det som
 
 ## Historien bak
 
-Steinkirken i Hvalsey på Grønland har vegger av steiner som veier mange tonn. Å stable i riktig rytme er oppfunnet. Les historien i [Hvalsey: steinkirken på Grønland og bryllupet i 1408](/no/2027/02/28/hvalsey-a-igreja-de-pedra-da-groenlandia-e-o-casamento-de-1408/).
+Steinkirken i Hvalsey på Grønland har vegger av steiner som veier mange tonn. Å stable i riktig rytme er oppfunnet. Les historien i [Hvalsey: steinkirken på Grønland og bryllupet i 1408](/no/hvalsey-steinkirken-pa-gronland-og-bryllupet-i-1408/).

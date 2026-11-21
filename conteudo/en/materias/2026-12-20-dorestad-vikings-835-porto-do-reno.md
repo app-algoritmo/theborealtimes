@@ -41,4 +41,4 @@ No new jetty was built after the first quarter of the 9th century, and the town 
 
 The page disagrees with the common idea that the Vikings caused the fall of the town. The date of foundation, the origin of the name and the size of the population are also uncertain: the estimates are presented as estimates.
 
-To swap neighbouring goods on the quay, joining three or more of a kind, until you reach the target before the swaps run out, play [The quay of Dorestad](/en/game-the-quay-of-dorestad/).
+To swap neighbouring goods on the quay, joining three or more of a kind, until you reach the target before the swaps run out, play [The quay of Dorestad](/game-the-quay-of-dorestad/).

@@ -23,4 +23,4 @@ Trykk på skjermen (eller trykk mellomrom) for å hoppe. Hopp over hullene i bru
 
 ## Historien bak
 
-Eventyret om bukkene Bruse ble samlet av Peter Christen Asbjørnsen og Jørgen Moe på 1800-tallet. I originalen kommer hver bukk forbi trollet med list eller styrke, ikke ved å løpe: brueløpet er diktet opp for spillet. Les eventyret i [De tre bukkene Bruse: det norske eventyret om brua og trollet](/no/2026/11/12/tres-bodes-bruse-ponte-troll/).
+Eventyret om bukkene Bruse ble samlet av Peter Christen Asbjørnsen og Jørgen Moe på 1800-tallet. I originalen kommer hver bukk forbi trollet med list eller styrke, ikke ved å løpe: brueløpet er diktet opp for spillet. Les eventyret i [De tre bukkene Bruse: det norske eventyret om brua og trollet](/no/de-tre-bukkene-bruse-det-norske-eventyret-om-brua-og-trollet/).

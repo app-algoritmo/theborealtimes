@@ -23,4 +23,4 @@ Ouça o ritmo e repita tocando na tela (ou na barra de espaço) no mesmo compass
 
 ## A história por trás
 
-Os noaidi, xamãs do povo sámi, usavam tambores de pele decorados. Os ritmos do jogo são invenção e não reproduzem rituais. Leia a história em [Os noaidi sámi e o tambor: o que os missionários registraram e o que os museus ainda guardam](/2026/11/18/noaidi-tambor-sami/).
+Os noaidi, xamãs do povo sámi, usavam tambores de pele decorados. Os ritmos do jogo são invenção e não reproduzem rituais. Leia a história em [Os noaidi sámi e o tambor: o que os missionários registraram e o que os museus ainda guardam](/pt/noaidi-tambor-sami/).

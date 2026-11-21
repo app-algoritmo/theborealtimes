@@ -48,4 +48,4 @@ A *þáttr* is a short tale. An *arm ring* is a jewel worn on the arm that was a
 
 The sources do not say whether Auðun existed. The dates of the versions are approximate. The entry gathers the opinions of scholars, and each one is a reading, not a fact. The WE Vikings summary was used only for the plot, and the dates and the opinions come from the entry.
 
-To find the path of lowest cost to the king, play [The bear’s road](/en/game-the-bears-road/).
+To find the path of lowest cost to the king, play [The bear’s road](/game-the-bears-road/).

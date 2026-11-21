@@ -41,4 +41,4 @@ A maior parte dos historiadores atuais vê Clontarf menos como uma guerra de lib
 
 A saga conta que, na manhã da batalha, um homem em Caithness viu mulheres tecendo num tear feito de armas e entranhas e cantando o poema *Darraðarljóð*, que anuncia a luta. É um episódio literário, sem prova de que ocorreu. Os anais, por sua vez, sugerem que a vitória teve custo alto: a morte de Brian abriu uma disputa pela sucessão, e a ideia de um rei supremo forte demorou a voltar.
 
-Para tentar afundar os navios que fogem com a maré em Clontarf, jogue [A maré de Clontarf](/jogo-a-mare-de-clontarf/).
+Para tentar afundar os navios que fogem com a maré em Clontarf, jogue [A maré de Clontarf](/pt/jogo-a-mare-de-clontarf/).

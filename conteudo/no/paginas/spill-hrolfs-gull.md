@@ -23,4 +23,4 @@ Trykk på et felt (eller bruk piltastene) for å bytte felt og slippe gullpunger
 
 ## Historien bak
 
-I sagaene strødde Hrolf Kraki gull utover Fyrisvellir, og kong Adils stanset for å ta det opp. Jakten i spillet er diktet opp. Les historien i [Rolf Krake og gullet på Fyrisvellir: flukten som ble til poesi](/no/2026/11/17/hrolf-kraki-ouro-fyrisvellir/).
+I sagaene strødde Hrolf Kraki gull utover Fyrisvellir, og kong Adils stanset for å ta det opp. Jakten i spillet er diktet opp. Les historien i [Rolf Krake og gullet på Fyrisvellir: flukten som ble til poesi](/no/rolf-krake-og-gullet-pa-fyrisvellir-flukten-som-ble/).

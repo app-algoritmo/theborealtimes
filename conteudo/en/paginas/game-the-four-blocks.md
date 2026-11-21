@@ -23,4 +23,4 @@ Tap a pillar to pick up its top block and tap another pillar to drop it. Never p
 
 ## The story behind it
 
-In the year 1000, the Icelandic Althing decided that everyone would accept Christianity. The pillar puzzle is made up. Read the story in [The conversion of Iceland: the pagan chief who settled the question lying under a cloak](/en/2026/12/06/conversao-da-islandia-ano-1000/).
+In the year 1000, the Icelandic Althing decided that everyone would accept Christianity. The pillar puzzle is made up. Read the story in [The conversion of Iceland: the pagan chief who settled the question lying under a cloak](/the-conversion-of-iceland-the-pagan-chief-who-settled/).

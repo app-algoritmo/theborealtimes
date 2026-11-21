@@ -23,4 +23,4 @@ As quatro bigornas brilham numa ordem. Observe e repita tocando nas mesmas bigor
 
 ## A história por trás
 
-Na *Sörla þáttr*, preservada num manuscrito do fim do século XIV, quatro anões forjam o colar que Freyja deseja. A forja em ritmo é invenção do jogo, e o texto original tem tom hostil à deusa. Leia a história em [Freyja e o colar Brísingamen: o que as fontes nórdicas contam sobre a joia da deusa](/2026/11/13/freyja-brisingamen/).
+Na *Sörla þáttr*, preservada num manuscrito do fim do século XIV, quatro anões forjam o colar que Freyja deseja. A forja em ritmo é invenção do jogo, e o texto original tem tom hostil à deusa. Leia a história em [Freyja e o colar Brísingamen: o que as fontes nórdicas contam sobre a joia da deusa](/pt/freyja-brisingamen/).

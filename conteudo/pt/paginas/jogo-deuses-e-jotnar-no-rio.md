@@ -23,4 +23,4 @@ Leve os 3 deuses e os 3 jötnar para a outra margem num barco de 2 lugares. Toqu
 
 ## A história por trás
 
-Segundo a lista de jötnar consultada, Bestla, mãe de Odin, Fárbauti, pai de Loki, e Jörð, mãe de Thor, estão entre eles. O rio e o barco são invenção. Leia a história em [Os jötnar, os gigantes da mitologia nórdica: parentes e rivais dos deuses](/2027/01/10/jotnar-gigantes-mitologia-nordica-parentes-dos-deuses/).
+Segundo a lista de jötnar consultada, Bestla, mãe de Odin, Fárbauti, pai de Loki, e Jörð, mãe de Thor, estão entre eles. O rio e o barco são invenção. Leia a história em [Os jötnar, os gigantes da mitologia nórdica: parentes e rivais dos deuses](/pt/jotnar-gigantes-mitologia-nordica-parentes-dos-deuses/).

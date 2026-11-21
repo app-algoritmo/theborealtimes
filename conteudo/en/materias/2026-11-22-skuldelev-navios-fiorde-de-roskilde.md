@@ -35,4 +35,4 @@ The reconstructed hulls served as models for replicas. The most famous is the *H
 
 Experiments like these help archaeologists separate what the material proves from what is merely imagination. For the visitor, what remains is the sight of the real hulls, and the reminder that the Vikings, besides being warriors, were naval builders of great skill.
 
-To find, shot by shot, the five ships sunk in the fjord, before your shots run out, play [The fjord's five ships](/en/game-the-fjords-five-ships/).
+To find, shot by shot, the five ships sunk in the fjord, before your shots run out, play [The fjord's five ships](/game-the-fjords-five-ships/).

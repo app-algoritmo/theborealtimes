@@ -23,4 +23,4 @@ Dra fingeren (eller bruk ← →) for å flytte stangen din nederst og returnere
 
 ## Historien bak
 
-I Kalevala utfordrer unge Joukahainen gamle Väinämöinen til en sangduell og taper. Ballen er diktet opp for spillet. Les historien i [Joukahainen og Väinämöinen: sangduellen i Kalevala](/no/2026/12/20/joukahainen-vainamoinen-duelo-de-cantos-kalevala/).
+I Kalevala utfordrer unge Joukahainen gamle Väinämöinen til en sangduell og taper. Ballen er diktet opp for spillet. Les historien i [Joukahainen og Väinämöinen: sangduellen i Kalevala](/no/joukahainen-og-vainamoinen-sangduellen-i-kalevala/).

@@ -23,4 +23,4 @@ Trykk på en stabel for å ta den øverste mynten, og trykk på en annen stabel 
 
 ## Historien bak
 
-Cuerdale-skatten, funnet i 1840 i England, inneholdt tusenvis av sølvmynter fra mange opphav. Sorteringen i stabler er diktet opp. Les historien i [Cuerdale-skatten: det største vikingsølvet som noen gang er funnet i Storbritannia](/no/2026/12/06/cuerdale-tesouro-de-prata-vikings/).
+Cuerdale-skatten, funnet i 1840 i England, inneholdt tusenvis av sølvmynter fra mange opphav. Sorteringen i stabler er diktet opp. Les historien i [Cuerdale-skatten: det største vikingsølvet som noen gang er funnet i Storbritannia](/no/cuerdale-skatten-det-storste-vikingsolvet-som-noen-gang-er/).

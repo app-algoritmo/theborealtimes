@@ -23,4 +23,4 @@ O rei Harald quer pôr à prova a generosidade de Brand. O pedido do rei aparece
 
 ## A história por trás
 
-No conto de Brand, o Generoso, o rei Harald pede a capa, o machado e a túnica de Brand, e Brand os dá, ficando só com uma manga da túnica. A ordem aleatória dos pedidos e as trocas de lugar são invenção. Leia a história em [Brand, o Generoso: o islandês que deu capa, machado e meia túnica ao rei Harald](/2027/03/28/brand-o-generoso-o-islandes-que-deu-capa-machado-e-meia-tunica-ao-rei-harald/).
+No conto de Brand, o Generoso, o rei Harald pede a capa, o machado e a túnica de Brand, e Brand os dá, ficando só com uma manga da túnica. A ordem aleatória dos pedidos e as trocas de lugar são invenção. Leia a história em [Brand, o Generoso: o islandês que deu capa, machado e meia túnica ao rei Harald](/pt/brand-o-generoso-o-islandes-que-deu-capa-machado-e-meia-tunica-ao-rei-harald/).

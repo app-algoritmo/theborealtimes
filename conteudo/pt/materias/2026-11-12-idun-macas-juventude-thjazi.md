@@ -47,4 +47,4 @@ Idun voltou, as maçãs voltaram, e os deuses recuperaram a juventude. O texto d
 A morte de Thjazi teve uma consequência, segundo Snorri: a filha dele, a giganta Skaði, foi a Asgard, armada, para exigir compensação pelo pai.
 
 
-Quer proteger as maçãs? Jogue [Idun e as maçãs](/jogo-idun-e-as-macas/).
+Quer proteger as maçãs? Jogue [Idun e as maçãs](/pt/jogo-idun-e-as-macas/).

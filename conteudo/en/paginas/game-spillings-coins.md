@@ -23,4 +23,4 @@ Each round shows seven coins with values. Tap coins to add them up, trying to ge
 
 ## The story behind it
 
-In 1999, archaeologists found in Gotland more than 14,000 coins and almost 500 silver arm-rings. The game of adding up to 21 is invented. Read the story in [Spillings: the 67-kilo silver hoard found on Gotland during a film shoot](/en/2026/12/27/spillings-tesouro-prata-gotland-1999/).
+In 1999, archaeologists found in Gotland more than 14,000 coins and almost 500 silver arm-rings. The game of adding up to 21 is invented. Read the story in [Spillings: the 67-kilo silver hoard found on Gotland during a film shoot](/spillings-the-67-kilo-silver-hoard-found-on-gotland-during/).

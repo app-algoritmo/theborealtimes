@@ -23,4 +23,4 @@ Fra juret til geita Heiðrún renner det mjød uten stans. Du har to umerkede ka
 
 ## Historien bak
 
-I Grímnismál og Gylfaginning står geita Heiðrún på Valhall, spiser bladene på treet Læraðr, og hver dag renner det mjød fra henne, nok til at alle einherjene blir fullstendig fulle. Karene og målene er oppfunnet. Les historien i [Heiðrún, geita på Valhall som gir mjød til alle einherjene](/no/2027/01/24/heidrun-cabra-valhalla-hidromel-laeradr/).
+I Grímnismál og Gylfaginning står geita Heiðrún på Valhall, spiser bladene på treet Læraðr, og hver dag renner det mjød fra henne, nok til at alle einherjene blir fullstendig fulle. Karene og målene er oppfunnet. Les historien i [Heiðrún, geita på Valhall som gir mjød til alle einherjene](/no/heidrun-geita-pa-valhall-som-gir-mjod-til-alle-einherjene/).

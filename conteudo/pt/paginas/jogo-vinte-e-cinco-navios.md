@@ -23,4 +23,4 @@ Arraste para guiar o navio da frente, ou use as setas; os outros seguem o rastro
 
 ## A história por trás
 
-Segundo a Saga de Eirik, o Vermelho, 25 navios partiram da Islândia rumo à Groenlândia e 14 chegaram. As rotas e os obstáculos do jogo são invenção. Leia a história em [Eirik, o Vermelho: o fora da lei que deu à Groenlândia um nome de terra boa](/2026/11/14/eirik-vermelho-groenlandia/).
+Segundo a Saga de Eirik, o Vermelho, 25 navios partiram da Islândia rumo à Groenlândia e 14 chegaram. As rotas e os obstáculos do jogo são invenção. Leia a história em [Eirik, o Vermelho: o fora da lei que deu à Groenlândia um nome de terra boa](/pt/eirik-vermelho-groenlandia/).

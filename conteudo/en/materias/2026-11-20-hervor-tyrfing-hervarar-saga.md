@@ -39,4 +39,4 @@ It is worth remembering that the saga is a late work, written centuries after th
 
 The scene also shows what the saga's society expected of a woman: Hervör breaks that role by living as a warrior, and the saga does not condemn her for it. The figure of the woman warrior appears in other sources, such as the *skjaldmeyjar*, the "shield-maidens" of Saxo Grammaticus, but scholars remind us that these texts are literary and do not say how many women, if any, actually fought.
 
-To repeat the exact order of the flames and runes Hervör saw at the mounds, play [Hervör's flames](/en/game-hervors-flames/).
+To repeat the exact order of the flames and runes Hervör saw at the mounds, play [Hervör's flames](/game-hervors-flames/).

@@ -23,4 +23,4 @@ Et kors av staker snurrer over tomten. Trykk (eller bruk mellomromstasten) når 
 
 ## Historien bak
 
-Trelleborg ble reist rundt 981, med fire porter og seksten langhus i ringen. Spillet forenkler arbeidet til fire etapper. Les historien i [Trelleborg: den runde festningen vikingene bygde med perfekt geometri](/no/2026/11/15/trelleborg-fortaleza-circular/).
+Trelleborg ble reist rundt 981, med fire porter og seksten langhus i ringen. Spillet forenkler arbeidet til fire etapper. Les historien i [Trelleborg: den runde festningen vikingene bygde med perfekt geometri](/no/trelleborg-den-runde-festningen-vikingene-bygde-med-perfekt/).

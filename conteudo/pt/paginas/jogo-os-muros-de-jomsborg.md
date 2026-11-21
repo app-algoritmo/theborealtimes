@@ -23,4 +23,4 @@ Arraste o dedo (ou use as setas) para mover o escudo e rebater a bola contra os 
 
 ## A história por trás
 
-Na saga, os jomsvikings guardavam uma fortaleza no Báltico, cuja localização exata é debatida. Os blocos do jogo são invenção. Leia a história em [Jomsvikings: a fortaleza de guerreiros com regras rígidas e a batalha de Hjörungavágr](/2026/11/21/jomsvikings-hjorungavagr-986/).
+Na saga, os jomsvikings guardavam uma fortaleza no Báltico, cuja localização exata é debatida. Os blocos do jogo são invenção. Leia a história em [Jomsvikings: a fortaleza de guerreiros com regras rígidas e a batalha de Hjörungavágr](/pt/jomsvikings-hjorungavagr-986/).

@@ -23,4 +23,4 @@ Five boroughs hold 1, 2, 3, 4 and 5 tokens. You play first, then the opponent. O
 
 ## The story behind it
 
-The Five Boroughs were Leicester, Nottingham, Derby, Stamford and Lincoln. The term Danelaw first appears in the early 11th century, in the Old English form Dena lage. The game is invented. Read the story in [The Danelaw, the "law of the Danes" in England: the treaty, the Five Boroughs and the place-names](/en/2027/01/17/danelaw-cinco-burgos-lei-dinamarquesa-inglaterra/).
+The Five Boroughs were Leicester, Nottingham, Derby, Stamford and Lincoln. The term Danelaw first appears in the early 11th century, in the Old English form Dena lage. The game is invented. Read the story in [The Danelaw, the "law of the Danes" in England: the treaty, the Five Boroughs and the place-names](/the-danelaw-the-law-of-the-danes-in-england-the-treaty/).

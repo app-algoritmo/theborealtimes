@@ -23,4 +23,4 @@ Em cada campo há saqueadores escondidos. Toque numa casa para revelá-la: o nú
 
 ## A história por trás
 
-Em 5 de agosto de 910, um exército de Wessex e da Mércia venceu os vikings da Nortúmbria perto de Tettenhall, e três reis vikings morreram, segundo o relato. Os saqueadores escondidos são invenção. Leia a história em [Batalha de Tettenhall, 910: Edward, Æthelflæd e o fim de um exército viking na Mércia](/2027/02/07/batalha-de-tettenhall-910-edward-aethelflaed/).
+Em 5 de agosto de 910, um exército de Wessex e da Mércia venceu os vikings da Nortúmbria perto de Tettenhall, e três reis vikings morreram, segundo o relato. Os saqueadores escondidos são invenção. Leia a história em [Batalha de Tettenhall, 910: Edward, Æthelflæd e o fim de um exército viking na Mércia](/pt/batalha-de-tettenhall-910-edward-aethelflaed/).

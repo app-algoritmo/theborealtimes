@@ -42,7 +42,7 @@ try {
       $tk = bin2hex(random_bytes(32));
       $db->prepare('INSERT INTO boreal_album_tokens (hash, conta_id, tipo, expira_em) VALUES (?,?,?,?)')->execute([h($tk), $a['id'], 'link', mais($LINK_MIN * 60)]);
       $db->prepare('UPDATE boreal_album_contas SET ultimo_link=?, idioma=? WHERE id=?')->execute([agora(), $idioma, $a['id']]);
-      $ap = $c['album_paginas'] ?? ['pt' => '/album/', 'en' => '/en/album/', 'no' => '/no/album/'];
+      $ap = $c['album_paginas'] ?? ['pt' => '/pt/album/', 'en' => '/album/', 'no' => '/no/album/'];
       $pg = $ap[$idioma] ?? $ap['pt'];
       $link = $c['site'] . $pg . '#entrar=' . $tk;
       $T = [

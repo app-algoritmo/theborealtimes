@@ -23,4 +23,4 @@ Em Ribe, um amuleto de osso com runas pedia proteção contra um anão. Anões d
 
 ## A história por trás
 
-O crânio de Ribe, de cerca de 725, traz runas que parecem invocar Odin e proteger contra um anão. Os anões que invadem o mercado e o ritmo do jogo são invenção. Leia a história em [O crânio de Ribe: runas de um amuleto contra um anão, por volta do ano 725](/2027/03/28/o-cranio-de-ribe-runas-de-um-amuleto-contra-um-anao-por-volta-do-ano-725/).
+O crânio de Ribe, de cerca de 725, traz runas que parecem invocar Odin e proteger contra um anão. Os anões que invadem o mercado e o ritmo do jogo são invenção. Leia a história em [O crânio de Ribe: runas de um amuleto contra um anão, por volta do ano 725](/pt/o-cranio-de-ribe-runas-de-um-amuleto-contra-um-anao-por-volta-do-ano-725/).

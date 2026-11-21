@@ -23,4 +23,4 @@ The numbered coloured squares are out of order. Tap an arrow beside a row or col
 
 ## The story behind it
 
-The Överhogdal tapestries were found in 1909 in a church in Härjedalen; the reading of their figures is debated, and the most cited is Ragnarök. Sliding strips is invented. Read the story in [The Överhogdal tapestries: Viking Age textiles found in a Swedish church](/en/2027/02/14/tapecarias-de-overhogdal-tecidos-da-era-viking-harjedalen/).
+The Överhogdal tapestries were found in 1909 in a church in Härjedalen; the reading of their figures is debated, and the most cited is Ragnarök. Sliding strips is invented. Read the story in [The Överhogdal tapestries: Viking Age textiles found in a Swedish church](/the-overhogdal-tapestries-viking-age-textiles-found/).

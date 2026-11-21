@@ -39,4 +39,4 @@ Rudolf Simek acha o conceito antigo e liga a origem ao sul à relação de Surtr
 
 Nenhuma dessas leituras é definitiva, e o artigo não trata a ligação com vulcões como fato. Cada fonte acrescenta uma peça: a *Völuspá* dá o fogo e a espada, a *Gylfaginning* o exército e a ponte, a *Vafþrúðnismál* o campo. O que elas sustentam, juntas, é mais simples: um guardião do fogo, vindo do sul, que no fim queima o mundo.
 
-Para espalhar as chamas num campo de cores, jogue [A chama de Surtr](/jogo-a-chama-de-surtr/).
+Para espalhar as chamas num campo de cores, jogue [A chama de Surtr](/pt/jogo-a-chama-de-surtr/).

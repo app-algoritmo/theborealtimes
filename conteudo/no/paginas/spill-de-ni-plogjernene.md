@@ -23,4 +23,4 @@ Harald Gille må gå barføtt over ni plogjern som blir varme og kalde. Hvert pl
 
 ## Historien bak
 
-I Heimskringla beviser Harald Gille at han er sønn av kong Magnus Berrføtt ved å gå over ni glødende plogjern, i nærvær av to biskoper. Plogjernene som blir varme og kalde i sykluser, er oppdiktet. Les historien i [Harald Gille og de ni glødende plogjernene: prøven til sønnen av Magnus Berrføtt](/no/2027/03/21/harald-gille-e-as-nove-relhas-em-brasa-a-prova-do-filho-de-magnus-descalco/).
+I Heimskringla beviser Harald Gille at han er sønn av kong Magnus Berrføtt ved å gå over ni glødende plogjern, i nærvær av to biskoper. Plogjernene som blir varme og kalde i sykluser, er oppdiktet. Les historien i [Harald Gille og de ni glødende plogjernene: prøven til sønnen av Magnus Berrføtt](/no/harald-gille-og-de-ni-glodende-plogjernene-proven/).

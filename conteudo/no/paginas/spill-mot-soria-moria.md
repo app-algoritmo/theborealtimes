@@ -23,4 +23,4 @@ Trykk i retningen du vil gå, eller bruk piltastene, for å ta et steg. Nå slot
 
 ## Historien bak
 
-Soria Moria er slottet i et eventyr av Asbjørnsen og Moe. Labyrintene i spillet er tilfeldige og diktet opp. Les historien i [Soria Moria: slottet hver nordmann leter etter uten å ha sett det](/no/2026/11/15/soria-moria-castelo/).
+Soria Moria er slottet i et eventyr av Asbjørnsen og Moe. Labyrintene i spillet er tilfeldige og diktet opp. Les historien i [Soria Moria: slottet hver nordmann leter etter uten å ha sett det](/no/soria-moria-slottet-hver-nordmann-leter-etter-uten-a-ha/).

@@ -23,4 +23,4 @@ Muren vokser av seg selv hvert sekund. Trykk på hjertene som dukker opp på skj
 
 ## Historien bak
 
-I Snorre Sturlasons *Snorres Edda* hadde byggmesteren én vinter på å ferdigstille festningen, og Loke, forkledd som hoppe, lokket hesten hans bort. Spillet forenkler beretningen. Les historien i [Hvordan Loke lurte byggmesteren av Asgards mur og fødte hesten Sleipnir](/no/2026/11/13/sleipnir-muro-asgard/).
+I Snorre Sturlasons *Snorres Edda* hadde byggmesteren én vinter på å ferdigstille festningen, og Loke, forkledd som hoppe, lokket hesten hans bort. Spillet forenkler beretningen. Les historien i [Hvordan Loke lurte byggmesteren av Asgards mur og fødte hesten Sleipnir](/no/hvordan-loke-lurte-byggmesteren-av-asgards-mur-og-fodte/).

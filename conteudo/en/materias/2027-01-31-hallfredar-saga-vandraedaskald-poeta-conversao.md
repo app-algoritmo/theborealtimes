@@ -39,4 +39,4 @@ A *skald* (*skáld*) is a Norse court poet. A *lausavísa* is a loose verse of a
 
 Hallfreðr's dates are approximate. Because the manuscript versions differ, there is no single text of the saga. The source does not state that all the verses in the saga are the poet's, and the saga itself is a literary narrative, written long after the events: it does not prove that each scene happened this way. This piece also gives no detailed plot of each phase of Hallfreðr's life, because the source consulted does not; whoever wants the episodes should read the saga itself in translation.
 
-To link islands with bridges until they form a single group, play [Hallfreðr’s bridges](/en/game-hallfredrs-bridges/).
+To link islands with bridges until they form a single group, play [Hallfreðr’s bridges](/game-hallfredrs-bridges/).

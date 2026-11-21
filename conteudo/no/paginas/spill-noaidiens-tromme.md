@@ -23,4 +23,4 @@ Hør rytmen og gjenta den ved å trykke på skjermen (eller mellomromstasten) i 
 
 ## Historien bak
 
-Noaidiene, sjamanene til samene, brukte dekorerte skinntrommer. Rytmene i spillet er diktet opp og gjengir ikke ritualer. Les historien i [Samiske noaider og tromma: hva misjonærene noterte og hva museene fortsatt har](/no/2026/11/18/noaidi-tambor-sami/).
+Noaidiene, sjamanene til samene, brukte dekorerte skinntrommer. Rytmene i spillet er diktet opp og gjengir ikke ritualer. Les historien i [Samiske noaider og tromma: hva misjonærene noterte og hva museene fortsatt har](/no/samiske-noaider-og-tromma-hva-misjonaerene-noterte-og-hva/).

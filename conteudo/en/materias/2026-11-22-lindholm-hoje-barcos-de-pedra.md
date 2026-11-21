@@ -35,4 +35,4 @@ Near the cemetery, researchers found traces of a village, with houses, and of fi
 
 Today the place is an open-air museum, where visitors walk among the stones. Archaeology reminds us, however, that the image of a "field of ships" is what remained after centuries, and that the original graves may have had signs of timber and earth that have since vanished.
 
-To trace the outline of a stone ship, passing through each stone only once, play [The ship's outline](/en/game-the-ships-outline/).
+To trace the outline of a stone ship, passing through each stone only once, play [The ship's outline](/game-the-ships-outline/).

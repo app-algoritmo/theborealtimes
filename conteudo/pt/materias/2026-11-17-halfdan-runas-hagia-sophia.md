@@ -40,4 +40,4 @@ A Hagia Sophia foi construída no século VI, e depois serviu como catedral, mes
 
 A Hagia Sophia não é o único rastro. Dezenas de pedras rúnicas na Suécia, erguidas em memória de parentes, falam de homens que partiram para a *Grikkland*, nome nórdico da Grécia e do Império Bizantino. Algumas dizem que o homem morreu lá, outras que voltou rico. Somadas à inscrição de Halfdan, essas pedras mostram que a viagem a Constantinopla era conhecida em muitas famílias escandinavas, e não só pelos chefes.
 
-Para achar as runas escondidas no mármore, jogue [Runas na Hagia Sophia](/jogo-runas-na-hagia-sophia/).
+Para achar as runas escondidas no mármore, jogue [Runas na Hagia Sophia](/pt/jogo-runas-na-hagia-sophia/).

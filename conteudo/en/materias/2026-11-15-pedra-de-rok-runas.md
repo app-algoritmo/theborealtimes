@@ -41,4 +41,4 @@ That is why it is visited and studied to this day, and anyone approaching the su
 
 The stone stands beside the church of Rök, in Östergötland, and is one of the oldest attractions of the region. It is more than two metres tall and carries inscriptions on almost every face, including the top. So anyone reading it has to walk around it, and the text does not follow one simple line of reading. Part of the scholars' difficulty comes from exactly this layout and from centuries of wear in the open air.
 
-To try carving a few words in runes, play [Decode the Rök Stone](/en/game-decode-the-rok-stone/).
+To try carving a few words in runes, play [Decode the Rök Stone](/game-decode-the-rok-stone/).

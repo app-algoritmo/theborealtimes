@@ -35,4 +35,4 @@ In Norwegian tales, trolls live in the mountains and forests and, in several sto
 
 The tales of Asbjørnsen and Moe are in the public domain and can be read today in many editions and translations, including versions digitized by the National Library of Norway.
 
-To try the hidden bag trick, play [Askeladden and the troll](/en/game-askeladden-and-the-troll/).
+To try the hidden bag trick, play [Askeladden and the troll](/game-askeladden-and-the-troll/).

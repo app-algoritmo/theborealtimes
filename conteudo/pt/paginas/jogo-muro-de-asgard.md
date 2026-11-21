@@ -23,4 +23,4 @@ O muro cresce sozinho a cada segundo. Toque nos corações que aparecem na tela 
 
 ## A história por trás
 
-Na *Edda em Prosa*, de Snorri Sturluson, o construtor tinha um inverno para terminar a fortaleza, e Loki, disfarçado de égua, atraiu o cavalo dele. O jogo simplifica o relato. Leia a história em [Como Loki enganou o construtor do muro de Asgard e deu à luz o cavalo Sleipnir](/2026/11/13/sleipnir-muro-asgard/).
+Na *Edda em Prosa*, de Snorri Sturluson, o construtor tinha um inverno para terminar a fortaleza, e Loki, disfarçado de égua, atraiu o cavalo dele. O jogo simplifica o relato. Leia a história em [Como Loki enganou o construtor do muro de Asgard e deu à luz o cavalo Sleipnir](/pt/sleipnir-muro-asgard/).

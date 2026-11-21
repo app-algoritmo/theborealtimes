@@ -23,4 +23,4 @@ Na festa de Ægir, os deuses bebem depressa. Cinco chifres estão sobre a mesa e
 
 ## A história por trás
 
-Na introdução em prosa da Lokasenna, Ægir recebe os deuses numa festa em que a cerveja se serve sozinha e os criados Eldir e Fimafeng são elogiados. Os chifres que esvaziam e o ritmo do jogo são invenção. Leia a história em [Ægir: o gigante do mar que oferece cerveja aos deuses e a festa da Lokasenna](/2027/03/21/aegir-o-gigante-do-mar-que-oferece-cerveja-aos-deuses-e-a-festa-da-lokasenna/).
+Na introdução em prosa da Lokasenna, Ægir recebe os deuses numa festa em que a cerveja se serve sozinha e os criados Eldir e Fimafeng são elogiados. Os chifres que esvaziam e o ritmo do jogo são invenção. Leia a história em [Ægir: o gigante do mar que oferece cerveja aos deuses e a festa da Lokasenna](/pt/aegir-o-gigante-do-mar-que-oferece-cerveja-aos-deuses-e-a-festa-da-lokasenna/).

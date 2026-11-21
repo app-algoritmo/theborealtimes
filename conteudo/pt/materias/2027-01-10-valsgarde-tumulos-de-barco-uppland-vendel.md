@@ -43,4 +43,4 @@ A página não descreve quem eram os enterrados, não dá datas para cada túmul
 
 O número de túmulos de barco, como visto, aparece com dois valores. Os tamanhos dos barcos não foram dados. E os achados citados são exemplos, não um inventário.
 
-Para escavar uma grade e achar os barcos escondidos pelos números das bordas, jogue [A escavação de Valsgärde](/jogo-a-escavacao-de-valsgarde/).
+Para escavar uma grade e achar os barcos escondidos pelos números das bordas, jogue [A escavação de Valsgärde](/pt/jogo-a-escavacao-de-valsgarde/).

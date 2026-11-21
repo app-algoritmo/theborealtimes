@@ -48,4 +48,4 @@ Na Pedra da Lei, Thorstein declara que as florestas não valem nada e manda paga
 
 O conto sobrevive no manuscrito Möðruvallabók, do século XIV, que o chama de *Ǫlkofra saga*, e hoje se prefere chamá-lo de *þáttr*, um conto curto. A página consultada não dá data de composição. A ligação entre o ofício de Ölkofri e a cevada cultivada na Islândia é uma sugestão de estudiosos.
 
-Para apagar as faíscas antes que cheguem à floresta, jogue [As faíscas na floresta](/jogo-as-faiscas-na-floresta/).
+Para apagar as faíscas antes que cheguem à floresta, jogue [As faíscas na floresta](/pt/jogo-as-faiscas-na-floresta/).

@@ -43,4 +43,4 @@ Orderic Vital apresenta uma versão diferente da rota de Tostig. A fonte não re
 
 O local exato de Fulford é incerto. Os números de combatentes são estimativas, e variam. A rota de Tostig é contada de maneira diferente por Orderic Vital. Os relatos antigos foram escritos por cronistas, em geral depois dos fatos e muitas vezes com viés em favor de um dos lados, e por isso os detalhes da batalha, como a ordem das fileiras e o momento da derrota, não devem ser tomados como certos.
 
-Para ordenar bandeiras de alturas diferentes, de modo que cada fileira mostre o número certo, jogue [A linha de bandeiras](/jogo-a-linha-de-bandeiras/).
+Para ordenar bandeiras de alturas diferentes, de modo que cada fileira mostre o número certo, jogue [A linha de bandeiras](/pt/jogo-a-linha-de-bandeiras/).

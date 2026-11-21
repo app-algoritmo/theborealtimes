@@ -23,4 +23,4 @@ Dra fingeren (eller musen) over flokene i håret for å rede dem ut. Når den si
 
 ## Historien bak
 
-Ifølge Snorre Sturlasons Heimskringla sverget Harald å ikke klippe eller kamme håret før han styrte Norge; etter Hafrsfjord kjemte Rognvald det, og han fikk tilnavnet sitt. Historikere behandler scenen med varsomhet, og spillet forenkler den. Les historien i [Harald Hårfagre: kongen som sverget å ikke klippe håret før han hadde samlet Norge](/no/2026/11/12/harald-cabelo-belo-hafrsfjord/).
+Ifølge Snorre Sturlasons Heimskringla sverget Harald å ikke klippe eller kamme håret før han styrte Norge; etter Hafrsfjord kjemte Rognvald det, og han fikk tilnavnet sitt. Historikere behandler scenen med varsomhet, og spillet forenkler den. Les historien i [Harald Hårfagre: kongen som sverget å ikke klippe håret før han hadde samlet Norge](/no/harald-harfagre-kongen-som-sverget-a-ikke-klippe-haret/).

@@ -23,4 +23,4 @@ Helheim é escuro e só a luz da sua tocha mostra o caminho. Arraste o dedo (ou 
 
 ## A história por trás
 
-Na Edda em Prosa, Hermóðr cavalga nove noites no escuro até chegar à ponte Gjallarbrú. O labirinto é invenção do jogo. Leia a história em [Hel e Helheim: a rainha dos mortos que vivia numa casa onde a fome era o prato](/2026/11/20/hel-helheim-rainha-dos-mortos/).
+Na Edda em Prosa, Hermóðr cavalga nove noites no escuro até chegar à ponte Gjallarbrú. O labirinto é invenção do jogo. Leia a história em [Hel e Helheim: a rainha dos mortos que vivia numa casa onde a fome era o prato](/pt/hel-helheim-rainha-dos-mortos/).

@@ -23,4 +23,4 @@ Tap an empty square and then one of the four marks below. Each mark must appear 
 
 ## The story behind it
 
-Around 880, Wulfstan sailed from Hedeby to Truso in seven days and nights. The grid and the marks are made up for the game. Read the story in [Wulfstan of Hedeby: the voyage of seven days and nights to Truso, on the Baltic](/en/2026/12/20/wulfstan-hedeby-truso-viagem-de-sete-dias/).
+Around 880, Wulfstan sailed from Hedeby to Truso in seven days and nights. The grid and the marks are made up for the game. Read the story in [Wulfstan of Hedeby: the voyage of seven days and nights to Truso, on the Baltic](/wulfstan-of-hedeby-the-voyage-of-seven-days-and-nights/).

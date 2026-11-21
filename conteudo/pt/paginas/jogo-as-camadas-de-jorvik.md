@@ -23,4 +23,4 @@ Você escava um lote de Jórvík, em York. Toque numa casa para escavar. O núme
 
 ## A história por trás
 
-Em Coppergate, em York, as escavações de 1976 a 1981 revelaram casas e oficinas da Jórvík viking. As camadas frágeis do jogo são invenção. Leia a história em [Jórvík: a York viking e a escavação de Coppergate que encontrou casas, ofícios e até o que os moradores comiam](/2026/11/19/jorvik-york-coppergate-escavacao/).
+Em Coppergate, em York, as escavações de 1976 a 1981 revelaram casas e oficinas da Jórvík viking. As camadas frágeis do jogo são invenção. Leia a história em [Jórvík: a York viking e a escavação de Coppergate que encontrou casas, ofícios e até o que os moradores comiam](/pt/jorvik-york-coppergate-escavacao/).

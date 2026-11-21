@@ -23,4 +23,4 @@ Silver coins pop up from holes in the ground and vanish fast. Tap a coin to take
 
 ## The story behind it
 
-In 2007, near Harrogate, a father and son found 617 buried silver coins. The coin hunt is invented. Read the story in [The Vale of York Hoard: 617 silver coins found by father and son with a metal detector](/en/2027/01/03/tesouro-do-vale-de-york-harrogate-2007/).
+In 2007, near Harrogate, a father and son found 617 buried silver coins. The coin hunt is invented. Read the story in [The Vale of York Hoard: 617 silver coins found by father and son with a metal detector](/the-vale-of-york-hoard-617-silver-coins-found-by-father/).

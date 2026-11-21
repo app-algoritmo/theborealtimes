@@ -23,4 +23,4 @@ Brikker kommer nedover båndet: runde mynter går til venstre og beinkammer går
 
 ## Historien bak
 
-Sigtuna ble grunnlagt rundt år 980 og preget de første svenske myntene. Sorteringen av mynter og kammer er oppfunnet. Les historien i [Sigtuna: Sveriges første virkelige by, med mynter, rette tomter og mer enn 40 runesteiner](/no/2026/12/27/sigtuna-primeira-cidade-sueca-moedas-runas/).
+Sigtuna ble grunnlagt rundt år 980 og preget de første svenske myntene. Sorteringen av mynter og kammer er oppfunnet. Les historien i [Sigtuna: Sveriges første virkelige by, med mynter, rette tomter og mer enn 40 runesteiner](/no/sigtuna-sveriges-forste-virkelige-by-med-mynter-rette/).

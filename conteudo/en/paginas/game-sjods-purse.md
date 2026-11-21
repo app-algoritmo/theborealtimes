@@ -23,4 +23,4 @@ Each coin has a value. Tap coins to put them in the purse until the sum equals t
 
 ## The story behind it
 
-In Bósa saga ok Herrauðs, Sjód is the treasurer and tax collector of King Hring, and the saga says the word "sjóðr", "purse", comes from his name. Adding coins to an exact value is invented. Read the story in [The saga of Bósi and Herrauðr: the treasurer Sjód, the purse and the curse of the sorceress Busla](/en/2027/02/21/saga-de-bosi-e-herraud-sjod-a-bolsa-e-a-praga-de-busla/).
+In Bósa saga ok Herrauðs, Sjód is the treasurer and tax collector of King Hring, and the saga says the word "sjóðr", "purse", comes from his name. Adding coins to an exact value is invented. Read the story in [The saga of Bósi and Herrauðr: the treasurer Sjód, the purse and the curse of the sorceress Busla](/the-saga-of-bosi-and-herraudr-the-treasurer-sjod-the-purse/).

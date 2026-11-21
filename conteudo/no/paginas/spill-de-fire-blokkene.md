@@ -23,4 +23,4 @@ Trykk på en pilar for å ta den øverste blokken, og trykk på en annen pilar f
 
 ## Historien bak
 
-I år 1000 bestemte det islandske Altinget at alle skulle ta imot kristendommen. Pilargåten er diktet opp. Les historien i [Kristningen av Island: den hedenske høvdingen som avgjorde saken liggende under en kappe](/no/2026/12/06/conversao-da-islandia-ano-1000/).
+I år 1000 bestemte det islandske Altinget at alle skulle ta imot kristendommen. Pilargåten er diktet opp. Les historien i [Kristningen av Island: den hedenske høvdingen som avgjorde saken liggende under en kappe](/no/kristningen-av-island-den-hedenske-hovdingen-som-avgjorde/).

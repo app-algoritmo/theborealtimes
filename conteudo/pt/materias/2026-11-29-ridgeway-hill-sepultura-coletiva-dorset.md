@@ -39,4 +39,4 @@ Outros pesquisadores lembram que a localização, no alto de uma colina, perto d
 
 O valor do achado está no fato de mostrar o outro lado da história. Muitas vezes se imagina o viking como atacante, e aqui ele aparece como vítima. Também mostra como a arqueologia combina ossos, química e documentos para reconstruir pessoas que não deixaram nome. Os restos foram tratados com respeito e estudados com métodos modernos, e são um lembrete de que cada número, neste caso, foi uma pessoa.
 
-Para preencher, casa por casa, uma tabela de seis por seis com duas marcas, sem pôr mais de duas iguais em fila e com o mesmo número em cada linha, jogue [A tabela de Ridgeway](/jogo-a-tabela-de-ridgeway/).
+Para preencher, casa por casa, uma tabela de seis por seis com duas marcas, sem pôr mais de duas iguais em fila e com o mesmo número em cada linha, jogue [A tabela de Ridgeway](/pt/jogo-a-tabela-de-ridgeway/).

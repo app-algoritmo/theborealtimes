@@ -23,4 +23,4 @@ Forseti has kept a verdict of four coloured symbols, which may repeat. Tap the c
 
 ## The story behind it
 
-In the Gylfaginning, Snorri says that Forseti lives in the hall Glitnir and that whoever brings a dispute to him leaves reconciled. The hidden verdict is invented. Read the story in [Forseti, the god who reconciles quarrels: what is known of the hall Glitnir](/en/2027/01/17/forseti-deus-justica-glitnir-gylfaginning/).
+In the Gylfaginning, Snorri says that Forseti lives in the hall Glitnir and that whoever brings a dispute to him leaves reconciled. The hidden verdict is invented. Read the story in [Forseti, the god who reconciles quarrels: what is known of the hall Glitnir](/forseti-the-god-who-reconciles-quarrels-what-is-known/).

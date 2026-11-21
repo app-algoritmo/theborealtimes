@@ -23,4 +23,4 @@ Når tidevannet synker, går vikingene ut på veien og rykker mot den engelske b
 
 ## Historien bak
 
-I 991, ved Maldon, tapte engelskmennene slaget og begynte å betale danegjeld. Det seirende forsvaret i spillet er diktet opp. Les historien i [Maldon, 991: slaget som fikk engelskmennene til å betale skatt til vikingene](/no/2026/11/15/maldon-991-danegeld/).
+I 991, ved Maldon, tapte engelskmennene slaget og begynte å betale danegjeld. Det seirende forsvaret i spillet er diktet opp. Les historien i [Maldon, 991: slaget som fikk engelskmennene til å betale skatt til vikingene](/no/maldon-991-slaget-som-fikk-engelskmennene-til-a-betale/).

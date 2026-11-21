@@ -43,4 +43,4 @@ That the coins bear Islamic, Christian and pagan Norse symbols shows that silver
 
 The article does not explain on what occasion or by whom the hoard was buried, and it is not known whether the owner planned to return. Nor is it known how each object came to be there. The only certainty is the date of the discovery, the place and what was taken from the ground, and everything else remains open to question.
 
-To find silver coins that pop up from the earth, before they vanish, play [The Vale of York coins](/en/game-the-vale-of-york-coins/).
+To find silver coins that pop up from the earth, before they vanish, play [The Vale of York coins](/game-the-vale-of-york-coins/).

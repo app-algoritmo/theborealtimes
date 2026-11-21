@@ -23,4 +23,4 @@ Toque entre dois pontos vizinhos para traçar uma linha. Quem fecha o quarto lad
 
 ## A história por trás
 
-Em 2011, arqueólogos acharam em Ardnamurchan, na Escócia, uma sepultura em barco do século X. O jogo de pontos é invenção. Leia a história em [Ardnamurchan: o guerreiro viking enterrado num barco na costa da Escócia](/2026/12/20/ardnamurchan-sepultura-em-barco-escocia-2011/).
+Em 2011, arqueólogos acharam em Ardnamurchan, na Escócia, uma sepultura em barco do século X. O jogo de pontos é invenção. Leia a história em [Ardnamurchan: o guerreiro viking enterrado num barco na costa da Escócia](/pt/ardnamurchan-sepultura-em-barco-escocia-2011/).

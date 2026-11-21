@@ -23,4 +23,4 @@ Mova o machado (arraste, ou use as setas) para rebater a bola e derrubar todos o
 
 ## A história por trás
 
-Ivar, o Sem-Ossos, foi um dos chefes do Grande Exército pagão que invadiu a Inglaterra, por volta de 865. A muralha do jogo é invenção. Leia a história em [Ivar, o Sem-Ossos, e o Grande Exército Pagão: o que se sabe da invasão que mudou a Inglaterra](/2026/11/18/ivar-sem-ossos-grande-exercito-pagao/).
+Ivar, o Sem-Ossos, foi um dos chefes do Grande Exército pagão que invadiu a Inglaterra, por volta de 865. A muralha do jogo é invenção. Leia a história em [Ivar, o Sem-Ossos, e o Grande Exército Pagão: o que se sabe da invasão que mudou a Inglaterra](/pt/ivar-sem-ossos-grande-exercito-pagao/).

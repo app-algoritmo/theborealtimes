@@ -27,4 +27,4 @@ Os jogos não gravam nem enviam dados. O formulário da newsletter só guarda o 
 
 ## Terceiros
 
-O Google atua como controlador independente dos dados que coleta para publicidade e medição. O tratamento feito por ele segue as políticas do próprio Google, que a janela de consentimento apresenta no momento da escolha. Mais detalhes na [política de privacidade](/privacidade/).
+O Google atua como controlador independente dos dados que coleta para publicidade e medição. O tratamento feito por ele segue as políticas do próprio Google, que a janela de consentimento apresenta no momento da escolha. Mais detalhes na [política de privacidade](/pt/privacidade/).

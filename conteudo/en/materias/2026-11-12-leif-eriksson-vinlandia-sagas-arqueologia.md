@@ -44,4 +44,4 @@ In 2021, a study published in the journal Nature precisely dated wood cut at the
 
 The result confirms a Norse presence in North America at least 470 years before Columbus's first voyage, in 1492. It does not settle, however, whether L'Anse aux Meadows is Leif's Vinland. Among the remains found at the site were nuts of a tree, the butternut, that does not grow so far north, which suggests that the Norse knew lands farther south.
 
-To sail to Vinland, play [Leif's voyage](/en/game-leifs-voyage/).
+To sail to Vinland, play [Leif's voyage](/game-leifs-voyage/).

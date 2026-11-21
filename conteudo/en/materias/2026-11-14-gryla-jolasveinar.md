@@ -31,4 +31,4 @@ For a long time, parents used Grýla and her sons to frighten children. An order
 
 The season of the Yule Lads runs from 12 December to Epiphany, on 6 January, which makes thirteen nights of arrival and thirteen of departure. Today they appear on posters, in shop windows and in the drawings of Icelandic children. Grýla is rarer to see, but she is still present in songs and in family stories, and many people remember hearing her name in childhood.
 
-To protect the pantry through the thirteen nights, play [The thirteen Yule Lads](/en/game-the-thirteen-yule-lads/).
+To protect the pantry through the thirteen nights, play [The thirteen Yule Lads](/game-the-thirteen-yule-lads/).

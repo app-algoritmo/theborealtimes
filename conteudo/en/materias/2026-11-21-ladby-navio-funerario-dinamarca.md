@@ -39,4 +39,4 @@ The Ladby case is useful for understanding how the archaeology of perishable mat
 
 It is also worth noting that ship burial appears in other places in Scandinavia, as in Norway and Sweden, with ships very different from one another. At Oseberg and Gokstad, for example, the wood was preserved, which makes the ships there far more complete. Ladby shows that the custom existed in Denmark too, but left a much more discreet mark in the soil.
 
-To take the rivets off the board one by one, jumping over a neighbour until only one is left, like someone reading the marks of the Ladby ship, play [Ladby's rivets](/en/game-ladbys-rivets/).
+To take the rivets off the board one by one, jumping over a neighbour until only one is left, like someone reading the marks of the Ladby ship, play [Ladby's rivets](/game-ladbys-rivets/).

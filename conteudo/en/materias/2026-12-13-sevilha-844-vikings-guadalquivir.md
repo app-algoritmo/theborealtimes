@@ -43,4 +43,4 @@ There is also a story that the poet al-Ghazal went as an ambassador to the Vikin
 
 The attack of 844 shows the reach of Norse fleets, which sailed from Scandinavia to the western Mediterranean. It also shows that the Vikings did not always win: there they met an organised state, with cavalry, a fleet and money, which reacted quickly.
 
-To connect, on a map of the river, each pair of same-coloured marks by a path that crosses no other, play [The river map](/en/game-the-river-map/).
+To connect, on a map of the river, each pair of same-coloured marks by a path that crosses no other, play [The river map](/game-the-river-map/).

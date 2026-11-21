@@ -41,4 +41,4 @@ A divisão é limpa demais para ser antiga, segundo alguns estudiosos, que desco
 
 Com só duas menções, falta contexto. Não se sabe como as pessoas dos séculos IX e X imaginavam os elfos, nem se a divisão em claros e escuros era antiga ou criação de Snorri. A relação entre os elfos escuros e os anões também não é resolvida.
 
-Para mandar cada elfo ao alto ou ao subsolo conforme a sua cor, jogue [Luz e sombra](/jogo-luz-e-sombra/).
+Para mandar cada elfo ao alto ou ao subsolo conforme a sua cor, jogue [Luz e sombra](/pt/jogo-luz-e-sombra/).

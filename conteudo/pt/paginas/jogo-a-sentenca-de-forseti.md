@@ -23,4 +23,4 @@ Forseti guardou uma sentença de quatro símbolos coloridos, que podem se repeti
 
 ## A história por trás
 
-Na Gylfaginning, Snorri diz que Forseti vive no salão Glitnir e que quem leva a ele uma disputa sai de lá reconciliado. A sentença escondida é invenção. Leia a história em [Forseti, o deus que reconcilia quem briga: o que se sabe do salão Glitnir](/2027/01/17/forseti-deus-justica-glitnir-gylfaginning/).
+Na Gylfaginning, Snorri diz que Forseti vive no salão Glitnir e que quem leva a ele uma disputa sai de lá reconciliado. A sentença escondida é invenção. Leia a história em [Forseti, o deus que reconcilia quem briga: o que se sabe do salão Glitnir](/pt/forseti-deus-justica-glitnir-gylfaginning/).

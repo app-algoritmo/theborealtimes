@@ -23,4 +23,4 @@ Toque na tela (ou aperte espaço) para pular. Pule os buracos da ponte e as mão
 
 ## A história por trás
 
-O conto dos bodes Bruse foi recolhido por Peter Christen Asbjørnsen e Jørgen Moe no século XIX. Na versão original, cada bode vence o troll com esperteza ou força, e não com uma corrida: a corrida pela ponte é invenção do jogo. Leia o conto em [Os três bodes Bruse: o conto norueguês da ponte e do troll](/2026/11/12/tres-bodes-bruse-ponte-troll/).
+O conto dos bodes Bruse foi recolhido por Peter Christen Asbjørnsen e Jørgen Moe no século XIX. Na versão original, cada bode vence o troll com esperteza ou força, e não com uma corrida: a corrida pela ponte é invenção do jogo. Leia o conto em [Os três bodes Bruse: o conto norueguês da ponte e do troll](/pt/tres-bodes-bruse-ponte-troll/).

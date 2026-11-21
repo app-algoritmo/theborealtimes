@@ -45,4 +45,4 @@ The name comes from Proto-Germanic *Nerþuz. Many scholars link it to Nerthus, t
 
 Almost everything we know comes from texts written in the thirteenth century, centuries after the conversion. What comes from the sources is the outline of a god tied to the sea and to wealth; the rest, such as an old popular devotion, is hypothesis.
 
-To roll dice risking the gain of a voyage, banking your points in harbour before reaching 50, play [The harbour dice](/en/game-the-harbour-dice/).
+To roll dice risking the gain of a voyage, banking your points in harbour before reaching 50, play [The harbour dice](/game-the-harbour-dice/).

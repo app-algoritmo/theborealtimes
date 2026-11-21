@@ -23,4 +23,4 @@ There are several threads of beads. On your turn, tap a bead to take that bead a
 
 ## The story behind it
 
-Seiðr is a Norse magic practice; the word is glossed as "cord, string, snare", and its practitioner held a ritual distaff. Taking beads from threads is invented. Read the story in [Seiðr: the Norse magic of the thread, the ritual distaff and the seeresses, the völur](/en/2027/02/21/seidr-magia-nordica-volva-roca-ritual-eiriks-saga/).
+Seiðr is a Norse magic practice; the word is glossed as "cord, string, snare", and its practitioner held a ritual distaff. Taking beads from threads is invented. Read the story in [Seiðr: the Norse magic of the thread, the ritual distaff and the seeresses, the völur](/seidr-the-norse-magic-of-the-thread-the-ritual-distaff/).

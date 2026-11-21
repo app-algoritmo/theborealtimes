@@ -52,4 +52,4 @@ The selkie is a seal that sheds its skin, and the central tale is that of the st
 
 Where the stories came from is not known. The theories of the Sami kayaks, of the Inuit, of the Spaniards and of the souls of the drowned are speculation. Scholars disagree about the confusion with the Finfolk. The summaries used here also give no date for the beginning of the tradition.
 
-To tap the seals before they vanish on the rocks, play [The seals on the rocks](/en/game-the-seals-on-the-rocks/).
+To tap the seals before they vanish on the rocks, play [The seals on the rocks](/game-the-seals-on-the-rocks/).

@@ -23,4 +23,4 @@ Et ord vises øverst på steinen. Trykk på runene i bokstavenes rekkefølge; hv
 
 ## Historien bak
 
-Rökstenen, fra 800-tallet, har omtrent 725 runer, og lesningen av flere deler diskuteres fortsatt. Stavemåtene i spillet er forenklet. Les historien i [Rökstenen: verdens lengste runeinnskrift og hemmelighetene den fortsatt bærer](/no/2026/11/15/pedra-de-rok-runas/).
+Rökstenen, fra 800-tallet, har omtrent 725 runer, og lesningen av flere deler diskuteres fortsatt. Stavemåtene i spillet er forenklet. Les historien i [Rökstenen: verdens lengste runeinnskrift og hemmelighetene den fortsatt bærer](/no/rokstenen-verdens-lengste-runeinnskrift-og-hemmelighetene/).

@@ -23,4 +23,4 @@ As cordas do navio estão embaraçadas. Arraste cada nó (com o dedo ou o mouse)
 
 ## A história por trás
 
-Naglfar é o navio feito das unhas dos mortos que, no Ragnarök, leva monstros ao campo de batalha. Desembaraçar as cordas é invenção. Leia a história em [Naglfar, o navio feito das unhas dos mortos que zarpa no Ragnarök](/2027/01/31/naglfar-navio-das-unhas-dos-mortos-ragnarok/).
+Naglfar é o navio feito das unhas dos mortos que, no Ragnarök, leva monstros ao campo de batalha. Desembaraçar as cordas é invenção. Leia a história em [Naglfar, o navio feito das unhas dos mortos que zarpa no Ragnarök](/pt/naglfar-navio-das-unhas-dos-mortos-ragnarok/).

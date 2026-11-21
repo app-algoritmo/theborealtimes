@@ -37,4 +37,4 @@ At Gamla Uppsala, near present-day Uppsala, there are three large burial mounds,
 
 The *Ynglinga saga* also shows how Snorri worked. He chose what to tell, arranged the names in a sequence and added explanations so that the Christian reader would understand the old customs. For this reason, historians use the text with caution, as testimony of how Icelanders of the 13th century imagined the past, and not as a reliable list of real Swedish kings.
 
-To put the vats of Fróði's hall in order, pouring the mead from one barrel to another until each holds a single colour, play [Fróði's vats](/en/game-frodis-vats/).
+To put the vats of Fróði's hall in order, pouring the mead from one barrel to another until each holds a single colour, play [Fróði's vats](/game-frodis-vats/).

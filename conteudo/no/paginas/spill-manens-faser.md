@@ -23,4 +23,4 @@ Máni styrer månen, og Hjúki og Bil følger den. Fem måner står på rad, og 
 
 ## Historien bak
 
-I Snorres Edda sier Snorre at Hjúki og Bil følger månen, og at Máni styrer månens vekst og avtakende. Rekka med faser i spillet er oppdiktet. Les historien i [Hjúki og Bil: barna som følger månen med en bøtte i Edda](/no/2027/03/28/hjuki-e-bil-as-criancas-que-seguem-a-lua-carregando-um-balde-na-edda/).
+I Snorres Edda sier Snorre at Hjúki og Bil følger månen, og at Máni styrer månens vekst og avtakende. Rekka med faser i spillet er oppdiktet. Les historien i [Hjúki og Bil: barna som følger månen med en bøtte i Edda](/no/hjuki-og-bil-barna-som-folger-manen-med-en-botte-i-edda/).

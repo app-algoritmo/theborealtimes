@@ -45,4 +45,4 @@ Reykjavík is today the capital of Iceland, and a statue of Ingólfr Arnarson st
 
 The *Íslendingabók*, the "Book of the Icelanders", written by Ari Þorgilsson around 1130, says the island was fully taken up in about sixty years, and that in 930 the Alþingi, the general assembly, was founded at Þingvellir. Ari names Ingólfr as the first settler. For medieval Icelanders, knowing who arrived first mattered, because families tied their land and their standing to their ancestors.
 
-To try to land the pillars in the right bay, play [Ingólfr's pillars](/en/game-ingolfrs-pillars/).
+To try to land the pillars in the right bay, play [Ingólfr's pillars](/game-ingolfrs-pillars/).

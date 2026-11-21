@@ -51,4 +51,4 @@ The article gives weight to two names: Konrad Maurer, whose journey of 1858 revi
 
 The article says Jón or Magnús may have "touched up" the wording of the tales, but that the known changes are slight. It observes that Icelandic stylistic tastes differed little from those of the rest of Europe, which may reduce the effect of any editing. A footnote says the manuscript was discovered in Munich in 1971. The article does not organise the tales into categories such as trolls or ghosts, and neither does this piece.
 
-To link four tokens in a row, like pulling the thread of a tale, against an opponent, play [The threads of Jón's tales](/en/game-the-threads-of-jons-tales/).
+To link four tokens in a row, like pulling the thread of a tale, against an opponent, play [The threads of Jón's tales](/game-the-threads-of-jons-tales/).

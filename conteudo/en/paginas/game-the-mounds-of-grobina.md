@@ -23,4 +23,4 @@ Each square gets a mound of height 1 to N; tap the square to change the height. 
 
 ## The story behind it
 
-Near Liepāja, in Latvia, Grobiņa had a Scandinavian settlement, and the Priediens cemetery has about 2000 mounds. Arranging mounds by visibility is invented. Read the story in [Grobiņa, in Latvia: the Scandinavian settlement, the mounds and Rimbert's "Seeburg"](/en/2027/02/21/grobina-assentamento-escandinavo-na-letonia-montes-funerarios/).
+Near Liepāja, in Latvia, Grobiņa had a Scandinavian settlement, and the Priediens cemetery has about 2000 mounds. Arranging mounds by visibility is invented. Read the story in [Grobiņa, in Latvia: the Scandinavian settlement, the mounds and Rimbert's "Seeburg"](/grobina-in-latvia-the-scandinavian-settlement-the-mounds/).

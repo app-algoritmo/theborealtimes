@@ -23,4 +23,4 @@ Trykk og dra fra personen: retningen gir vinkelen og avstanden gir kraften; slip
 
 ## Historien bak
 
-Blant samene var sieidien et sted for offer og respekt. Steinkastingen er diktet opp for spillet. Les historien i [Sieidi: de hellige steinene til samene og offergavene som ble lagt foran dem](/no/2026/12/20/sieidi-pedras-sagradas-sami-oferendas/).
+Blant samene var sieidien et sted for offer og respekt. Steinkastingen er diktet opp for spillet. Les historien i [Sieidi: de hellige steinene til samene og offergavene som ble lagt foran dem](/no/sieidi-de-hellige-steinene-til-samene-og-offergavene/).

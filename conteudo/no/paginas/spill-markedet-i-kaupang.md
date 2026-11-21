@@ -23,4 +23,4 @@ Fire varer, fire boder i hver rad. Fyll de tomme rutene slik at ingen vare gjent
 
 ## Historien bak
 
-Kaupang i Norge var et marked i vikingtiden, nær Larvik. Rutene i spillet er diktet opp. Les historien i [Kaupang: vikingenes markedsplass Skiringssal i Norge, og hva vekter, sølv og graver avslører](/no/2026/11/19/kaupang-skiringssal-mercado-viking/).
+Kaupang i Norge var et marked i vikingtiden, nær Larvik. Rutene i spillet er diktet opp. Les historien i [Kaupang: vikingenes markedsplass Skiringssal i Norge, og hva vekter, sølv og graver avslører](/no/kaupang-vikingenes-markedsplass-skiringssal-i-norge-og-hva/).

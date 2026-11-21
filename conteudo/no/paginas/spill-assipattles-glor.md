@@ -23,4 +23,4 @@ Glør og vannbobler stiger og faller. Dra fingeren (eller musen) over gløden fo
 
 ## Historien bak
 
-I eventyret fra Orknøyene tenner Assipattle, den sjuende sønnen, på leveren til Stoor Worm med en glødende torv. Ormen dør, og tennene blir til Orknøyene, Shetland og Færøyene. Å skjære glør i lufta er oppfunnet. Les historien i [Assipattle og Stoor Worm: eventyret fra Orknøyene der uhyret gir opphav til øyene](/no/2027/01/31/assipattle-stoor-worm-conto-de-orkney/).
+I eventyret fra Orknøyene tenner Assipattle, den sjuende sønnen, på leveren til Stoor Worm med en glødende torv. Ormen dør, og tennene blir til Orknøyene, Shetland og Færøyene. Å skjære glør i lufta er oppfunnet. Les historien i [Assipattle og Stoor Worm: eventyret fra Orknøyene der uhyret gir opphav til øyene](/no/assipattle-og-stoor-worm-eventyret-fra-orknoyene-der-uhyret/).

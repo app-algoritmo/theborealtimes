@@ -23,4 +23,4 @@ Swipe (or use the arrow keys) to make the skier slide on the ice: it only stops 
 
 ## The story behind it
 
-Ullr has a hall of yews and many place names, but almost no myth. The ice and the marker are invented. Read the story in [Ullr: the god of skis and the bow, of whom almost no stories remain](/en/2026/12/27/ullr-deus-dos-esquis-e-do-arco/).
+Ullr has a hall of yews and many place names, but almost no myth. The ice and the marker are invented. Read the story in [Ullr: the god of skis and the bow, of whom almost no stories remain](/ullr-the-god-of-skis-and-the-bow-of-whom-almost-no-stories/).

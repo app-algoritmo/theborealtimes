@@ -23,4 +23,4 @@ card:
 
 ## A história por trás
 
-Segundo Snorri, Æsir e Vanir fizeram a paz e trocaram reféns. A balança e os presentes são invenção do jogo. Leia a história em [A guerra entre Æsir e Vanir: a primeira guerra do mundo e a troca de reféns que trouxe a paz](/2026/11/19/aesir-vanir-guerra-refens/).
+Segundo Snorri, Æsir e Vanir fizeram a paz e trocaram reféns. A balança e os presentes são invenção do jogo. Leia a história em [A guerra entre Æsir e Vanir: a primeira guerra do mundo e a troca de reféns que trouxe a paz](/pt/aesir-vanir-guerra-refens/).

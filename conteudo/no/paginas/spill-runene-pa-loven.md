@@ -23,4 +23,4 @@ Skandinaver på 1000-tallet risset runer i en marmorløve, nå foran Arsenalet i
 
 ## Historien bak
 
-Marmorløven fra Piraeus, i Venezia, har tre runeinnskrifter fra 1000-tallet. Runene på steinene i spillet, parene og rytmen er oppdiktet. Les historien i [Pireusløven: runene vikinger risset inn i en gresk marmorløve, nå i Venezia](/no/2027/04/04/o-leao-do-pireu-as-runas-que-vikings-gravaram-num-leao-de-marmore-grego-hoje-em-veneza/).
+Marmorløven fra Piraeus, i Venezia, har tre runeinnskrifter fra 1000-tallet. Runene på steinene i spillet, parene og rytmen er oppdiktet. Les historien i [Pireusløven: runene vikinger risset inn i en gresk marmorløve, nå i Venezia](/no/pireusloven-runene-vikinger-risset-inn-i-en-gresk/).

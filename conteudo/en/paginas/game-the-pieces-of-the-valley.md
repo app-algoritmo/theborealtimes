@@ -23,4 +23,4 @@ Eight numbered plots and one empty space are out of order. Tap a plot next to th
 
 ## The story behind it
 
-Svarfdœla saga, written down in the 14th century, deals with disputes during the settlement of Svarfaðardalur, a valley in northern Iceland. Sliding plots is invented. Read the story in [Svarfdœla saga: the valley of Svarfaðardalur, Karl, Ljótólf and a saga in two parts](/en/2027/02/07/svarfdaela-saga-svarfadardalur-karl-ljotolf/).
+Svarfdœla saga, written down in the 14th century, deals with disputes during the settlement of Svarfaðardalur, a valley in northern Iceland. Sliding plots is invented. Read the story in [Svarfdœla saga: the valley of Svarfaðardalur, Karl, Ljótólf and a saga in two parts](/svarfdoela-saga-the-valley-of-svarfadardalur-karl-ljotolf/).

@@ -23,4 +23,4 @@ Uma peça de lã é tecida fileira por fileira. Cada fileira mostra, por um inst
 
 ## A história por trás
 
-Em 1921, Poul Nørlund escavou o cemitério de Herjólfsnes, na Groenlândia, e achou capuzes, chapéus e vestidos de lã na moda europeia da época. A tecelagem em fileiras é invenção. Leia a história em [Herjólfsnes: as roupas de lã achadas nos túmulos da Groenlândia nórdica](/2027/03/14/herjolfsnes-as-roupas-de-la-nos-tumulos-da-groenlandia-nordica/).
+Em 1921, Poul Nørlund escavou o cemitério de Herjólfsnes, na Groenlândia, e achou capuzes, chapéus e vestidos de lã na moda europeia da época. A tecelagem em fileiras é invenção. Leia a história em [Herjólfsnes: as roupas de lã achadas nos túmulos da Groenlândia nórdica](/pt/herjolfsnes-as-roupas-de-la-nos-tumulos-da-groenlandia-nordica/).

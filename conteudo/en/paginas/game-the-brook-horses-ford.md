@@ -23,4 +23,4 @@ The brook horse waits at a hidden ford in the river. Tap a stone to step on it: 
 
 ## The story behind it
 
-In Swedish tradition, the brook horse waits by the water and whoever climbs on it never comes down. The hidden ford and the clues are invented. Read the story in [Bäckahäst: the white brook horse that drowns whoever climbs on its back](/en/2026/12/27/backahast-cavalo-do-riacho-folclore-sueco/).
+In Swedish tradition, the brook horse waits by the water and whoever climbs on it never comes down. The hidden ford and the clues are invented. Read the story in [Bäckahäst: the white brook horse that drowns whoever climbs on its back](/backahast-the-white-brook-horse-that-drowns-whoever-climbs/).

@@ -23,4 +23,4 @@ Gísli, an outlaw, closes his hideout with stones. Push each stone onto a mark o
 
 ## The story behind it
 
-In Gísli's Saga, the hero lives for years as an outlaw in Iceland. The stones and the levels are made up for the game. Read the story in [Gísli Súrsson: the saga of the outlaw who ran for years through the fjords of Iceland, between dreams and ambushes](/en/2026/11/19/gisli-sursson-saga-fora-da-lei/).
+In Gísli's Saga, the hero lives for years as an outlaw in Iceland. The stones and the levels are made up for the game. Read the story in [Gísli Súrsson: the saga of the outlaw who ran for years through the fjords of Iceland, between dreams and ambushes](/gisli-sursson-the-saga-of-the-outlaw-who-ran-for-years/).

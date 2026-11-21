@@ -23,4 +23,4 @@ Hver gjest ber om ild, vann, mat eller kappe. Trykk på riktig ting (eller bruk 
 
 ## Historien bak
 
-Diktet Håvamål, i Eddaene, gir gjestfrihetsråd til den reisende: ild, vann og en kappe. Ønskene i spillet er diktet opp. Les historien i [Håvamål og vikingenes gjestfrihet: hva diktet krevde av den som kom og den som tok imot](/no/2026/11/17/havamal-hospitalidade-viking/).
+Diktet Håvamål, i Eddaene, gir gjestfrihetsråd til den reisende: ild, vann og en kappe. Ønskene i spillet er diktet opp. Les historien i [Håvamål og vikingenes gjestfrihet: hva diktet krevde av den som kom og den som tok imot](/no/havamal-og-vikingenes-gjestfrihet-hva-diktet-krevde/).

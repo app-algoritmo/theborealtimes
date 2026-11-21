@@ -23,4 +23,4 @@ Do úbere da cabra Heiðrún corre hidromel sem parar. Você tem duas vasilhas s
 
 ## A história por trás
 
-Na Grímnismál e na Gylfaginning, a cabra Heiðrún está sobre o Valhalla, come as folhas da árvore Læraðr e dela escorre todos os dias hidromel suficiente para embriagar todos os einherjar. As vasilhas e as medidas são invenção. Leia a história em [Heiðrún, a cabra do Valhalla que dá hidromel a todos os einherjar](/2027/01/24/heidrun-cabra-valhalla-hidromel-laeradr/).
+Na Grímnismál e na Gylfaginning, a cabra Heiðrún está sobre o Valhalla, come as folhas da árvore Læraðr e dela escorre todos os dias hidromel suficiente para embriagar todos os einherjar. As vasilhas e as medidas são invenção. Leia a história em [Heiðrún, a cabra do Valhalla que dá hidromel a todos os einherjar](/pt/heidrun-cabra-valhalla-hidromel-laeradr/).

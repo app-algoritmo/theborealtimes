@@ -23,4 +23,4 @@ Every store-room holds 4 grains. Pick one of yours (bottom row) and the grains a
 
 ## The story behind it
 
-At Borg, in the Lofoten Islands, a great chieftain longhouse was excavated. The grain-sowing game is made up. Read the story in [Borg, in the Lofoten: the 83-metre longhouse of a chieftain of the far north](/en/2026/11/22/borg-lofoten-casa-longa-do-chefe/).
+At Borg, in the Lofoten Islands, a great chieftain longhouse was excavated. The grain-sowing game is made up. Read the story in [Borg, in the Lofoten: the 83-metre longhouse of a chieftain of the far north](/borg-in-the-lofoten-the-83-metre-longhouse-of-a-chieftain/).

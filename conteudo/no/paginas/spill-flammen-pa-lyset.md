@@ -23,4 +23,4 @@ Ved vuggen til Norna-Gest varer livet hans så lenge lyset brenner. Her kommer f
 
 ## Historien bak
 
-I Norna-Gests þáttr sier en norne at Gest bare skal leve så lenge lyset ved vuggen brenner; den eldste slokker flammen, og moren gjemmer lyset. De fire vindene, stolpene og rytmen i spillet er oppdiktet. Les historien i [Norna-Gest: mannen som levde i tre hundre år så lenge et lys ikke brant ut](/no/2027/04/04/norna-gest-o-homem-que-viveu-trezentos-anos-enquanto-uma-vela-nao-acabasse/).
+I Norna-Gests þáttr sier en norne at Gest bare skal leve så lenge lyset ved vuggen brenner; den eldste slokker flammen, og moren gjemmer lyset. De fire vindene, stolpene og rytmen i spillet er oppdiktet. Les historien i [Norna-Gest: mannen som levde i tre hundre år så lenge et lys ikke brant ut](/no/norna-gest-mannen-som-levde-i-tre-hundre-ar-sa-lenge-et-lys/).

@@ -23,4 +23,4 @@ Fyll rutenettet med to symboler (trykk for å bytte: tom → ◯ → ●). Regle
 
 ## Historien bak
 
-Ved Ridgeway Hill (Dorset) ble en massegrav fra vikingtiden funnet. Symbolgåten er diktet opp. Les historien i [Ridgeway Hill: massegraven i Dorset og hva tennene forteller](/no/2026/11/29/ridgeway-hill-sepultura-coletiva-dorset/).
+Ved Ridgeway Hill (Dorset) ble en massegrav fra vikingtiden funnet. Symbolgåten er diktet opp. Les historien i [Ridgeway Hill: massegraven i Dorset og hva tennene forteller](/no/ridgeway-hill-massegraven-i-dorset-og-hva-tennene-forteller/).

@@ -43,4 +43,4 @@ O texto *Hversu Noregr byggðist* faz de Höðr governante de Haðaland, na Noru
 
 A fonte deixa em aberto o destino de Höðr no Gylfaginning, onde a história da volta depois do Ragnarök não é plenamente clara. Também é disputado o termo "irmãos" para Baldr e Höðr, e o papel dele nos *kennings* guerreiros não é bem explicado. Nenhum relato pagão chegou até nós por um autor da época, e o que temos foi escrito depois da conversão ao cristianismo.
 
-Para descobrir quem diz a verdade e quem mente em uma mesa cheia de declarações, jogue [Quem mente?](/jogo-quem-mente/).
+Para descobrir quem diz a verdade e quem mente em uma mesa cheia de declarações, jogue [Quem mente?](/pt/jogo-quem-mente/).

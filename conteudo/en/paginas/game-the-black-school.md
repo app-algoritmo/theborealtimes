@@ -23,4 +23,4 @@ Use the arrow keys (or hold your finger on the side you want to go) to walk thro
 
 ## The story behind it
 
-In Icelandic folklore, Sæmundur flees the Black School without letting the devil seize his shadow. The maze is made up for the game. Read the story in [Sæmundur the Wise: the Icelandic priest who outwitted the devil at the Black School](/en/2026/12/13/saemundur-escola-negra-sombra/).
+In Icelandic folklore, Sæmundur flees the Black School without letting the devil seize his shadow. The maze is made up for the game. Read the story in [Sæmundur the Wise: the Icelandic priest who outwitted the devil at the Black School](/saemundur-the-wise-the-icelandic-priest-who-outwitted/).

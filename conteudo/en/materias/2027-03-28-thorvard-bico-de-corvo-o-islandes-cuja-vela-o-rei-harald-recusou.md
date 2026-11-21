@@ -44,4 +44,4 @@ A *þáttr* (plural *þættir*) is a short Icelandic tale. *Nidaros* is medieval
 
 The tale is a literary narrative, and the sources I read do not say whether Thorvard, the sail or the race existed. The translation says the king is Harald and gives no more detail. They also do not explain the nickname "Crow-Nose".
 
-To catch the favourable gusts of wind and let the contrary ones pass, play [The gusts of wind](/en/game-the-gusts-of-wind/).
+To catch the favourable gusts of wind and let the contrary ones pass, play [The gusts of wind](/game-the-gusts-of-wind/).

@@ -23,4 +23,4 @@ Trykk fort (eller hamre på mellomromstasten) for å dra. Når monsteret slår o
 
 ## Historien bak
 
-I det angelsaksiske diktet Beowulf river helten av Grendels arm med bare never. Kraftprøven i spillet er diktet opp. Les historien i [Beowulf og hallen Heorot: det engelske diktet som foregår i Skandinavia, og monsteret Grendel](/no/2026/11/17/beowulf-heorot-grendel/).
+I det angelsaksiske diktet Beowulf river helten av Grendels arm med bare never. Kraftprøven i spillet er diktet opp. Les historien i [Beowulf og hallen Heorot: det engelske diktet som foregår i Skandinavia, og monsteret Grendel](/no/beowulf-og-hallen-heorot-det-engelske-diktet-som-foregar/).

@@ -23,4 +23,4 @@ Tap the flies (or move the crosshair with the arrows and press Space) before the
 
 ## The story behind it
 
-According to Snorri, Loki, turned into a fly, bit the dwarf Brokkr to spoil the forging of Mjölnir, and the handle came out short. The swarm of flies and the counting in the game are made up. Read the story in [Brokkr and Sindri forge Mjölnir: the wager in which Loki bet his own head](/en/2026/11/18/mjolnir-brokkr-sindri-forja/).
+According to Snorri, Loki, turned into a fly, bit the dwarf Brokkr to spoil the forging of Mjölnir, and the handle came out short. The swarm of flies and the counting in the game are made up. Read the story in [Brokkr and Sindri forge Mjölnir: the wager in which Loki bet his own head](/brokkr-and-sindri-forge-mjolnir-the-wager-in-which-loki-bet/).

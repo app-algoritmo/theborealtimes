@@ -23,4 +23,4 @@ Toque numa luz para trocar o seu estado e o das quatro vizinhas: acesa vira apag
 
 ## A história por trás
 
-Týr pôs a mão na boca de Fenrir para prender o lobo com Gleipnir. A rede de luzes é invenção. Leia a história em [Týr: o deus que pôs a mão na boca do lobo e deu nome à terça-feira](/2027/01/03/tyr-deus-da-mao-perdida-fenrir/).
+Týr pôs a mão na boca de Fenrir para prender o lobo com Gleipnir. A rede de luzes é invenção. Leia a história em [Týr: o deus que pôs a mão na boca do lobo e deu nome à terça-feira](/pt/tyr-deus-da-mao-perdida-fenrir/).

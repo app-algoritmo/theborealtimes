@@ -41,4 +41,4 @@ Nenhum cais novo foi construído depois do primeiro quarto do século IX, e a ci
 
 A página discorda da ideia comum de que os vikings causaram a queda da cidade. A data de fundação, a origem do nome e o tamanho da população também são incertos: as estimativas são apresentadas como estimativas.
 
-Para trocar mercadorias vizinhas no cais, juntando três ou mais iguais, até atingir a meta antes de esgotar as trocas, jogue [O cais de Dorestad](/jogo-o-cais-de-dorestad/).
+Para trocar mercadorias vizinhas no cais, juntando três ou mais iguais, até atingir a meta antes de esgotar as trocas, jogue [O cais de Dorestad](/pt/jogo-o-cais-de-dorestad/).

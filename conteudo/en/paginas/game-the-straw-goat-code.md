@@ -23,4 +23,4 @@ There is a secret code of 4 bundles, in 5 colours that can repeat. Pick the colo
 
 ## The story behind it
 
-The julbock, the Scandinavian Yule goat, has taken many forms, and the straw goat is common to this day. The code is invented. Read the story in [The Scandinavian Yule goat: from the last sheaf of grain to the great straw goat](/en/2027/01/03/julbock-bode-de-natal-palha-escandinavia/).
+The julbock, the Scandinavian Yule goat, has taken many forms, and the straw goat is common to this day. The code is invented. Read the story in [The Scandinavian Yule goat: from the last sheaf of grain to the great straw goat](/the-scandinavian-yule-goat-from-the-last-sheaf-of-grain/).

@@ -45,4 +45,4 @@ Em Bryggen, Bergen, foram achadas cerca de 670 inscrições rúnicas medievais, 
 
 As datas de muitas inscrições são aproximadas, e algumas são tão curtas ou danificadas que a leitura é discutida. Não se sabe quem escreveu cada pau, e a relação de peças como o feitiço de amor com práticas de magia reais ou apenas literárias segue em debate.
 
-Para classificar cada pau de runas na caixa certa, jogue [Os paus de runas](/jogo-os-paus-de-runas/).
+Para classificar cada pau de runas na caixa certa, jogue [Os paus de runas](/pt/jogo-os-paus-de-runas/).

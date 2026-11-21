@@ -37,4 +37,4 @@ Saxo Grammaticus tells, in book 8 of his *Gesta Danorum*, a similar story, with 
 
 The episode shows a theme that recurs in several myths: Thor's strength is not enough on its own. Here he survives thanks to objects lent by a giantess and to the branch of a tree, a reminder that even among the gods the help of others matters.
 
-To try catching the glowing iron bars the giant hurls at Thor, play [Geirrøðr's bars](/en/game-geirrodrs-bars/).
+To try catching the glowing iron bars the giant hurls at Thor, play [Geirrøðr's bars](/game-geirrodrs-bars/).

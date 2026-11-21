@@ -35,4 +35,4 @@ The tale belongs to an internationally known type, which folklore catalogues cal
 
 Some readings see in the story an image of the trials of marriage, in which the bride must accept what is strange in the other. Others note that the text is harsh on the first two young women, and that the versions vary in how they treat them. As in many tales, the moral is not stated, and each age interprets it in its own way. The rhythm of the tale, with the worm's request and the bride's reply repeated at every shirt, is typical of oral narrative, and helped the teller keep the attention of the listeners.
 
-To take off, one by one, the ten skins of the worm, landing the crack of the whip at exactly the right moment, play [The bride's whip](/en/game-the-brides-whip/).
+To take off, one by one, the ten skins of the worm, landing the crack of the whip at exactly the right moment, play [The bride's whip](/game-the-brides-whip/).

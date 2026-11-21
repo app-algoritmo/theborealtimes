@@ -40,4 +40,4 @@ The origin of the nickname "Bluetooth" is uncertain. The wireless technology Blu
 
 Since 2020, the Kongernes Jelling museum has presented the site and the story of the kings who built it.
 
-To carve runes like those on the stones, play [Carve the runes](/en/game-carve-the-runes/).
+To carve runes like those on the stones, play [Carve the runes](/game-carve-the-runes/).

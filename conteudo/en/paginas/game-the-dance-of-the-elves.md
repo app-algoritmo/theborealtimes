@@ -23,4 +23,4 @@ Notes fall down 4 lanes. Tap the lane (or use ← ↓ ↑ →) when a note reach
 
 ## The story behind it
 
-In the Danish ballad of Sir Olaf, the elves invite the knight to dance until dawn. The melody of the game is made up. Read the story in [Elveskud: the ballad of the knight who refused to dance with the elf maidens](/en/2026/12/06/elveskud-herr-oluf-danca-das-elfas/).
+In the Danish ballad of Sir Olaf, the elves invite the knight to dance until dawn. The melody of the game is made up. Read the story in [Elveskud: the ballad of the knight who refused to dance with the elf maidens](/elveskud-the-ballad-of-the-knight-who-refused-to-dance/).

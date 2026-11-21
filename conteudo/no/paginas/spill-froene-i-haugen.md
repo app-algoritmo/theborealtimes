@@ -23,4 +23,4 @@ Trykk på en av gropene dine, nederst, for å så mot klokka. Lander det siste f
 
 ## Historien bak
 
-I Grettis saga kalles Kárr den gamle en draug, og han ligger i en haug som stinker fælt. Frøspillet er oppfunnet. Les historien i [Draugen, den døde som ikke blir i haugen: hva de islandske sagaene forteller](/no/2027/01/10/draugr-morto-vivo-sagas-islandesas-monte/).
+I Grettis saga kalles Kárr den gamle en draug, og han ligger i en haug som stinker fælt. Frøspillet er oppfunnet. Les historien i [Draugen, den døde som ikke blir i haugen: hva de islandske sagaene forteller](/no/draugen-den-dode-som-ikke-blir-i-haugen-hva-de-islandske/).

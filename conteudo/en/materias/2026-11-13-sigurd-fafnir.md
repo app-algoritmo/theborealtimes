@@ -42,4 +42,4 @@ In Sweden, a rock at Ramsund carries the same sequence carved in runes and figur
 
 The saga's dragon does not breathe fire. It is an enormous venomous serpent that drags itself along the ground. It was later tradition that added the flames.
 
-To try Sigurd's manoeuvre, play [The dragon's pit](/en/game-the-dragons-pit/).
+To try Sigurd's manoeuvre, play [The dragon's pit](/game-the-dragons-pit/).

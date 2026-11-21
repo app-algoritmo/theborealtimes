@@ -37,4 +37,4 @@ Saxo Grammaticus conta, no livro 8 de seus *Gesta Danorum*, uma história pareci
 
 O episódio mostra um tema que se repete em vários mitos: a força de Thor não basta sozinha. Aqui ele sobrevive graças a objetos emprestados por uma giganta e ao galho de uma árvore, o que lembra que, mesmo entre os deuses, a ajuda de outros importa.
 
-Para tentar agarrar as barras de ferro em brasa que o gigante atira contra Thor, jogue [As barras de Geirrøðr](/jogo-as-barras-de-geirrodr/).
+Para tentar agarrar as barras de ferro em brasa que o gigante atira contra Thor, jogue [As barras de Geirrøðr](/pt/jogo-as-barras-de-geirrodr/).

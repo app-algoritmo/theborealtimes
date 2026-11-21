@@ -43,4 +43,4 @@ Hodne listou 33 variantes norueguesas. Há versões na Suécia, na Dinamarca e n
 
 A origem do conto é disputada. Von Sydow, El-Shamy, Cosquin e Ranke sugerem raízes no conto egípcio do Príncipe Condenado, que tem o motivo da torre; Boberg o atribuiu a um povo cavaleiro, do período indo-europeu; Honti discordou; Krohn propôs migração da Índia; Dzagurov propôs origem meridional, talvez caucasiana, e achou o motivo da montanha de vidro tardio. A leitura das cores do cavalo e as comparações com Brunilda e com o cavalo *táltos* húngaro são interpretações, não elos comprovados.
 
-Para subir a encosta e colher as maçãs, desviando das pedras que descem, jogue [A subida da montanha de vidro](/jogo-a-subida-da-montanha-de-vidro/).
+Para subir a encosta e colher as maçãs, desviando das pedras que descem, jogue [A subida da montanha de vidro](/pt/jogo-a-subida-da-montanha-de-vidro/).

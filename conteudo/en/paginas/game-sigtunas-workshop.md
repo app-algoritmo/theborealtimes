@@ -23,4 +23,4 @@ Pieces come down the belt: round coins go left and bone combs go right. Tap the 
 
 ## The story behind it
 
-Founded around 980, Sigtuna minted the first Swedish coins. The sorting of coins and combs is invented. Read the story in [Sigtuna: Sweden's first real town, with coins, aligned plots and more than 40 runestones](/en/2026/12/27/sigtuna-primeira-cidade-sueca-moedas-runas/).
+Founded around 980, Sigtuna minted the first Swedish coins. The sorting of coins and combs is invented. Read the story in [Sigtuna: Sweden's first real town, with coins, aligned plots and more than 40 runestones](/sigtuna-sweden-s-first-real-town-with-coins-aligned-plots/).

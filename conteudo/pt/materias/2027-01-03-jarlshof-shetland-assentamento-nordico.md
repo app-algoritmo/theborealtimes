@@ -39,4 +39,4 @@ Cada época construiu sobre os restos da anterior, e é isso que dá a Jarlshof 
 
 O artigo deixa em aberto a interpretação de uma estrutura como sauna, e os desenhos de navios em ardósia podem ser mais antigos que os nórdicos. A erosão da costa também ameaça o sítio, mas a extensão do risco não está detalhada.
 
-Para empilhar blocos que deslizam, soltando cada um no momento certo, até formar uma torre alta, jogue [A torre de Jarlshof](/jogo-a-torre-de-jarlshof/).
+Para empilhar blocos que deslizam, soltando cada um no momento certo, até formar uma torre alta, jogue [A torre de Jarlshof](/pt/jogo-a-torre-de-jarlshof/).

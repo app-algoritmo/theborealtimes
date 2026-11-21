@@ -40,4 +40,4 @@ Tudo o que se sabe de Haakon vem de textos escritos depois de sua morte, e o art
 
 As fontes sobre Haakon são tardias, e não se sabe a data exata de nascimento nem com precisão o local do esconderijo. O que consta com mais firmeza: que governou longamente, que se opôs a Olavo e que um escravo o matou.
 
-Para ocupar o tabuleiro de 6 por 6 cercando as peças do rival, jogue [O tabuleiro de Haakon](/jogo-o-tabuleiro-de-haakon/).
+Para ocupar o tabuleiro de 6 por 6 cercando as peças do rival, jogue [O tabuleiro de Haakon](/pt/jogo-o-tabuleiro-de-haakon/).

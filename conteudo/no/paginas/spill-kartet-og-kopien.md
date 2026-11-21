@@ -23,4 +23,4 @@ To kart ser like ut, men kopien har forskjeller: noe forsvinner, skifter farge e
 
 ## Historien bak
 
-Vinland-kartet ble presentert for allmennheten i 1965; i 2021 viste en analyse av blekket, med en titanforbindelse som ikke ble laget før på 1920-tallet, at det er en forfalskning. Å finne forskjeller mellom to kart er oppfunnet. Les historien i [Vinlandskartet: hva Yales analyser viste om blekket](/no/2027/02/14/mapa-de-vinland-yale-falsificacao-tinta-1923/).
+Vinland-kartet ble presentert for allmennheten i 1965; i 2021 viste en analyse av blekket, med en titanforbindelse som ikke ble laget før på 1920-tallet, at det er en forfalskning. Å finne forskjeller mellom to kart er oppfunnet. Les historien i [Vinlandskartet: hva Yales analyser viste om blekket](/no/vinlandskartet-hva-yales-analyser-viste-om-blekket/).

@@ -23,4 +23,4 @@ Det er fem forskjeller mellom de to tegningene. Trykk der du finner hver av dem 
 
 ## Historien bak
 
-I skandinavisk tradisjon er mara en ånd som rir på brystet til folk som sover, og man sier at den floker hestemanker. Spillet er diktet opp. Les historien i [Mara: ånden som rir den som sover, og som ga navn til marerittet](/no/2026/11/18/mara-pesadelo-nordico/).
+I skandinavisk tradisjon er mara en ånd som rir på brystet til folk som sover, og man sier at den floker hestemanker. Spillet er diktet opp. Les historien i [Mara: ånden som rir den som sover, og som ga navn til marerittet](/no/mara-anden-som-rir-den-som-sover-og-som-ga-navn/).

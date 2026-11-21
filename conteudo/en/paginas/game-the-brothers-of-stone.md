@@ -23,4 +23,4 @@ Each number can appear only once in each row and in each column among the light 
 
 ## The story behind it
 
-In the tale collected by Asbjørnsen and Moe, the giant turns six princes and their brides to stone. Painting squares as stone in a number puzzle is invented. Read the story in [The giant who had no heart in his body: the Norwegian tale of Asbjørnsen and Moe](/en/2027/02/28/o-gigante-sem-coracao-no-corpo-conto-de-asbjornsen-e-moe/).
+In the tale collected by Asbjørnsen and Moe, the giant turns six princes and their brides to stone. Painting squares as stone in a number puzzle is invented. Read the story in [The giant who had no heart in his body: the Norwegian tale of Asbjørnsen and Moe](/the-giant-who-had-no-heart-in-his-body-the-norwegian-tale/).

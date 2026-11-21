@@ -47,4 +47,4 @@ A sheep and a pig escape the slaughter, gather a goose, a hare and a cock, and b
 
 The passage I read does not say who told the tale or where it was collected. It also does not say what happens to the wolves at the end. The comparison with other animal tales in which animals join to escape slaughter, such as the Bremen musicians of the Brothers Grimm, is mine, not a statement of the text.
 
-To drive the wolf away from the door, play [The wolf at the door](/en/game-the-wolf-at-the-door/).
+To drive the wolf away from the door, play [The wolf at the door](/game-the-wolf-at-the-door/).

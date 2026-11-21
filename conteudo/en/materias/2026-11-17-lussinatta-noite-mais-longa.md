@@ -40,4 +40,4 @@ Today Lussinatta is remembered mostly with candles and with the Saint Lucy proce
 
 In many parts of Norway, Lussi night also marked the deadline for having everything ready for Christmas: the beer had to be brewed, the bread baked and the house cleaned. The word *jól*, the old midwinter festival, was older than the Christian Christmas, and some of these practices seem to have come from it. The Lussi legends, then, had a practical side: whoever believed in the danger of the dark night finished the season's work in time.
 
-To cross the yard without letting the flame go out, play [Lussi's flame](/en/game-lussis-flame/).
+To cross the yard without letting the flame go out, play [Lussi's flame](/game-lussis-flame/).

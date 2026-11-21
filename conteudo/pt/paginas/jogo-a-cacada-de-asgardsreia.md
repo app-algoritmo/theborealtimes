@@ -23,4 +23,4 @@ Você joga com as peças claras, que sobem. Toque numa peça e depois na casa es
 
 ## A história por trás
 
-Cavaleiros fantasmas, cães e tempestade formam a Caçada Selvagem, no Norte chamada Åsgårdsreia ou Oskoreia. O tabuleiro de capturas é invenção. Leia a história em [Åsgårdsreia: a Caçada Selvagem que a Noruega ouvia passar no meio do inverno](/2026/12/27/asgardsreia-cacada-selvagem-oskoreia/).
+Cavaleiros fantasmas, cães e tempestade formam a Caçada Selvagem, no Norte chamada Åsgårdsreia ou Oskoreia. O tabuleiro de capturas é invenção. Leia a história em [Åsgårdsreia: a Caçada Selvagem que a Noruega ouvia passar no meio do inverno](/pt/asgardsreia-cacada-selvagem-oskoreia/).

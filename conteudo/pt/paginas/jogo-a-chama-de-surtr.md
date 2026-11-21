@@ -23,4 +23,4 @@ O fogo começa no canto de cima, à esquerda. Toque numa cor para que toda a man
 
 ## A história por trás
 
-Na Völuspá, Surtr vem do sul com fogo e uma espada muito brilhante no Ragnarök, e o mundo queima. O campo de cores é invenção. Leia a história em [Surtr, o gigante de fogo de Muspelheim: o que as fontes dizem sobre o Ragnarök](/2027/01/10/surtr-gigante-de-fogo-muspelheim-ragnarok/).
+Na Völuspá, Surtr vem do sul com fogo e uma espada muito brilhante no Ragnarök, e o mundo queima. O campo de cores é invenção. Leia a história em [Surtr, o gigante de fogo de Muspelheim: o que as fontes dizem sobre o Ragnarök](/pt/surtr-gigante-de-fogo-muspelheim-ragnarok/).

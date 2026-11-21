@@ -37,4 +37,4 @@ Em Gamla Uppsala, perto da atual Uppsala, existem três grandes montes funerári
 
 A *Ynglinga saga* também mostra como Snorri trabalhava. Ele escolhia o que contar, ordenava os nomes numa sequência e acrescentava explicações para que o leitor cristão entendesse os costumes antigos. Por isso, os historiadores usam o texto com cautela, como um testemunho do modo como os islandeses do século XIII imaginavam o passado, e não como uma lista confiável de reis suecos reais.
 
-Para pôr ordem nos tonéis do salão de Fróði, passando o hidromel de um barril a outro até cada um guardar uma só cor, jogue [Os tonéis de Fróði](/jogo-os-toneis-de-frodi/).
+Para pôr ordem nos tonéis do salão de Fróði, passando o hidromel de um barril a outro até cada um guardar uma só cor, jogue [Os tonéis de Fróði](/pt/jogo-os-toneis-de-frodi/).

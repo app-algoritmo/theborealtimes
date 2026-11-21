@@ -23,4 +23,4 @@ As feiticeiras levantaram ondas contra o Ellide. Toque ao lado do navio, ou desl
 
 ## A história por trás
 
-Na saga, o Ellide resiste a uma tempestade levantada por duas feiticeiras. As faixas de ondas do jogo são invenção. Leia a história em [Fridtjof e o navio Ellide: a saga do jovem que enfrentou uma tempestade feita por bruxas](/2026/11/21/fridtjof-ellide-tempestade/).
+Na saga, o Ellide resiste a uma tempestade levantada por duas feiticeiras. As faixas de ondas do jogo são invenção. Leia a história em [Fridtjof e o navio Ellide: a saga do jovem que enfrentou uma tempestade feita por bruxas](/pt/fridtjof-ellide-tempestade/).

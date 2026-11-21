@@ -23,4 +23,4 @@ An arrow shows where the blow comes from. Tap the upper half of the screen to bl
 
 ## The story behind it
 
-In Gunnlaug Serpent-Tongue's Saga, the duel at Dingenes ends with both men dead. The blow system is made up for the game. Read the story in [Gunnlaug Serpent-Tongue and Helga the Fair: a love triangle that ended in a duel](/en/2026/11/16/gunnlaug-helga-duelo/).
+In Gunnlaug Serpent-Tongue's Saga, the duel at Dingenes ends with both men dead. The blow system is made up for the game. Read the story in [Gunnlaug Serpent-Tongue and Helga the Fair: a love triangle that ended in a duel](/gunnlaug-serpent-tongue-and-helga-the-fair-a-love-triangle/).

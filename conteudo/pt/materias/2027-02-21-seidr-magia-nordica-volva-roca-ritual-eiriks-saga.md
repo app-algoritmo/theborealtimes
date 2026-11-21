@@ -44,4 +44,4 @@ O seiðr junta um fio, um bastão e um transe. Os textos mostram a prática pelo
 
 As fontes são esparsas, e quase tudo vem de textos escritos depois da Era Viking. A origem do nome, a ligação com a roca, é só uma teoria. O HandWiki diz que Harald Dente Azul "aparentemente" mantinha uma völva em Fyrkat, e o texto também marca partes como sem citação. Não se sabe como o ritual realmente acontecia, e as sepulturas não mostram o que as pessoas faziam com os bastões.
 
-Para seguir um fio de contas e ficar com a última, jogue [O fio do seiðr](/jogo-o-fio-do-seidr/).
+Para seguir um fio de contas e ficar com a última, jogue [O fio do seiðr](/pt/jogo-o-fio-do-seidr/).

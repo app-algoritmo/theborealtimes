@@ -23,4 +23,4 @@ Drag your finger (or use ← →) to move the bag and catch the gold coins that 
 
 ## The story behind it
 
-In the Reginsmál, the gods pay Otr's ransom with Andvari's gold, and the ring Andvaranaut carries the curse. The bag that catches gold is made up. Read the story in [Reginsmál: Andvari, the ring Andvaranaut and the curse on the gold](/en/2026/12/20/reginsmal-andvari-anel-maldito-ouro/).
+In the Reginsmál, the gods pay Otr's ransom with Andvari's gold, and the ring Andvaranaut carries the curse. The bag that catches gold is made up. Read the story in [Reginsmál: Andvari, the ring Andvaranaut and the curse on the gold](/reginsmal-andvari-the-ring-andvaranaut-and-the-curse/).

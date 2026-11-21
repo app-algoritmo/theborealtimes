@@ -23,4 +23,4 @@ Deslize o dedo (ou use ← → / A D) para mover o seu navio; ele atira sozinho.
 
 ## A história por trás
 
-Em 1263 a frota do rei Haakon, atingida por tempestades, lutou em terra perto de Largs. A defesa da praia no jogo é invenção. Leia a história em [Largs, 1263: o rei Haakon e a última grande expedição nórdica à Escócia](/2026/11/29/largs-1263-haakon-haakonsson-escocia/).
+Em 1263 a frota do rei Haakon, atingida por tempestades, lutou em terra perto de Largs. A defesa da praia no jogo é invenção. Leia a história em [Largs, 1263: o rei Haakon e a última grande expedição nórdica à Escócia](/pt/largs-1263-haakon-haakonsson-escocia/).

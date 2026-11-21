@@ -35,4 +35,4 @@ Perto do cemitério, os pesquisadores encontraram vestígios de uma aldeia, com 
 
 Hoje, o lugar é um museu a céu aberto, em que o visitante caminha entre as pedras. A arqueologia lembra, porém, que a imagem de um "campo de barcos" é a que sobrou depois de séculos, e que os túmulos originais podiam ter sinais de madeira e de terra que já desapareceram.
 
-Para percorrer o contorno de um barco de pedra, passando por cada pedra uma única vez, jogue [O contorno do barco](/jogo-o-contorno-do-barco/).
+Para percorrer o contorno de um barco de pedra, passando por cada pedra uma única vez, jogue [O contorno do barco](/pt/jogo-o-contorno-do-barco/).

@@ -39,4 +39,4 @@ O myling nasce de uma realidade: o infanticídio era um segredo, e as crianças 
 
 O artigo diz pouco sobre as diferenças regionais do mito e sobre a aparência do myling. As histórias variam, e não há um relato único que valha para toda a Escandinávia. Também não se sabe a idade da crença, já que o folclore foi recolhido muito depois de ter circulado oralmente.
 
-Para desviar das almas pequenas que correm pela estrada à noite, trocando de faixa, jogue [A estrada dos mylingar](/jogo-a-estrada-dos-mylingar/).
+Para desviar das almas pequenas que correm pela estrada à noite, trocando de faixa, jogue [A estrada dos mylingar](/pt/jogo-a-estrada-dos-mylingar/).

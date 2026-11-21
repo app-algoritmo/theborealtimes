@@ -23,4 +23,4 @@ Flytt pekeren (eller ↑ ↓) for å sikte. Hold nede trykket (eller mellomrom) 
 
 ## Historien bak
 
-I Fóstbrœðra saga kjemper Tormod ved Stiklestad ved siden av Olav og lager senere vers. Pilene i spillet er diktet opp. Les historien i [Þormóðr, dikteren som fulgte kong Olav til Stiklestad](/no/2026/11/29/fostbraedra-saga-thormod-poeta-stiklestad/).
+I Fóstbrœðra saga kjemper Tormod ved Stiklestad ved siden av Olav og lager senere vers. Pilene i spillet er diktet opp. Les historien i [Þormóðr, dikteren som fulgte kong Olav til Stiklestad](/no/thormodr-dikteren-som-fulgte-kong-olav-til-stiklestad/).

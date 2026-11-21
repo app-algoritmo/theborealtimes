@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-Lovsigemannen, lagmannen, var et embete i Skandinavia. Å gjette et tall blant steiner er oppfunnet. Les historien i [Lovsigemannen: lagmannen i Skandinavia, fra Island til Sverige](/no/2027/02/28/o-recitador-da-lei-o-lagman-na-escandinavia-da-islandia-a-suecia/).
+Lovsigemannen, lagmannen, var et embete i Skandinavia. Å gjette et tall blant steiner er oppfunnet. Les historien i [Lovsigemannen: lagmannen i Skandinavia, fra Island til Sverige](/no/lovsigemannen-lagmannen-i-skandinavia-fra-island-til-sverige/).

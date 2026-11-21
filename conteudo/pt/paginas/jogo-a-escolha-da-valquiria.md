@@ -23,4 +23,4 @@ Guerreiros caem do campo de batalha, um atrás do outro. Quem traz a pena de cor
 
 ## A história por trás
 
-Nas fontes nórdicas, as valquírias escolhem guerreiros mortos em combate; Odin recebe parte deles em Valhalla, e Freyja escolhe os outros para Fólkvangr. A regra do corvo e do colar é invenção do jogo. Leia a história em [Valquírias e Valhalla: quem Odin e Freyja recebem entre os mortos em batalha](/2026/11/14/valquirias-valhalla/).
+Nas fontes nórdicas, as valquírias escolhem guerreiros mortos em combate; Odin recebe parte deles em Valhalla, e Freyja escolhe os outros para Fólkvangr. A regra do corvo e do colar é invenção do jogo. Leia a história em [Valquírias e Valhalla: quem Odin e Freyja recebem entre os mortos em batalha](/pt/valquirias-valhalla/).

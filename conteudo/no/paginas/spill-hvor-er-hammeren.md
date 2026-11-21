@@ -23,4 +23,4 @@ Hammeren vises et øyeblikk under én av tre puter. Så bytter de plass. Følg m
 
 ## Historien bak
 
-I diktet Trymskvida stjeler jotunen Trym Tors hammer og graver den ned, og Tor forkler seg som brud for å få den tilbake. Putespillet er diktet opp. Les historien i [Thor kledd som brud: diktet der hammeren blir stjålet og jotunen Trym venter å gifte seg](/no/2026/11/14/thor-noiva-thrym/).
+I diktet Trymskvida stjeler jotunen Trym Tors hammer og graver den ned, og Tor forkler seg som brud for å få den tilbake. Putespillet er diktet opp. Les historien i [Thor kledd som brud: diktet der hammeren blir stjålet og jotunen Trym venter å gifte seg](/no/thor-kledd-som-brud-diktet-der-hammeren-blir-stjalet/).

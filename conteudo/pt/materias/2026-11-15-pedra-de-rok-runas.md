@@ -41,4 +41,4 @@ Por isso ela é visitada e estudada até hoje, e quem se aproxima do tema logo p
 
 A pedra fica ao lado da igreja de Rök, em Östergötland, e é uma das atrações mais antigas da região. Ela tem mais de dois metros de altura e traz inscrições em quase todas as faces, inclusive no topo. Por isso, quem a lê precisa dar a volta nela, e o texto não segue uma única linha de leitura simples. Parte da dificuldade dos estudiosos vem justamente dessa disposição e do desgaste de séculos ao ar livre.
 
-Para tentar gravar algumas palavras em runas, jogue [Decifrar a Pedra de Rök](/jogo-decifrar-a-pedra-de-rok/).
+Para tentar gravar algumas palavras em runas, jogue [Decifrar a Pedra de Rök](/pt/jogo-decifrar-a-pedra-de-rok/).

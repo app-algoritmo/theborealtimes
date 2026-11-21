@@ -23,4 +23,4 @@ Two maps look the same, but the copy has differences: something vanishes, change
 
 ## The story behind it
 
-The Vinland Map was presented to the public in 1965; in 2021, analysis of its ink, with a titanium compound not made before the 1920s, showed it to be a fake. Finding differences between two maps is invented. Read the story in [The Vinland Map: what Yale's analyses showed about the ink](/en/2027/02/14/mapa-de-vinland-yale-falsificacao-tinta-1923/).
+The Vinland Map was presented to the public in 1965; in 2021, analysis of its ink, with a titanium compound not made before the 1920s, showed it to be a fake. Finding differences between two maps is invented. Read the story in [The Vinland Map: what Yale's analyses showed about the ink](/the-vinland-map-what-yale-s-analyses-showed-about-the-ink/).

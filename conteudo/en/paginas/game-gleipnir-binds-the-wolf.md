@@ -23,4 +23,4 @@ Tap the bubbles with the six impossible things (a cat’s footsteps, a woman’s
 
 ## The story behind it
 
-In the story told by Snorri Sturluson in the Prose Edda, the dwarfs make the ribbon Gleipnir from six things that do not exist, and the gods use it to bind Fenrir. Gathering them as a game is the game’s invention. Read the story in [How the Norse gods bound the wolf Fenrir, and why Týr lost his hand](/en/2026/11/12/fenrir-lobo-corrente-gleipnir/).
+In the story told by Snorri Sturluson in the Prose Edda, the dwarfs make the ribbon Gleipnir from six things that do not exist, and the gods use it to bind Fenrir. Gathering them as a game is the game’s invention. Read the story in [How the Norse gods bound the wolf Fenrir, and why Týr lost his hand](/how-the-norse-gods-bound-the-wolf-fenrir-and-why-tyr-lost/).

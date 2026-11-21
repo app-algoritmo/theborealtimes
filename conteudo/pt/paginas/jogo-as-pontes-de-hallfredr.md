@@ -23,4 +23,4 @@ Cada ilha tem um número: é quantas pontes devem sair dela. Toque numa ilha e d
 
 ## A história por trás
 
-Segundo a saga, o poeta Hallfreðr serviu a Hákon Sigurðarson, a Óláfr Tryggvason e a Eiríkr Hákonarson, e contou em versos a sua conversão difícil ao cristianismo. Ligar ilhas com pontes é invenção. Leia a história em [Hallfreðar saga: o poeta que serviu a três chefes e a sua conversão difícil](/2027/01/31/hallfredar-saga-vandraedaskald-poeta-conversao/).
+Segundo a saga, o poeta Hallfreðr serviu a Hákon Sigurðarson, a Óláfr Tryggvason e a Eiríkr Hákonarson, e contou em versos a sua conversão difícil ao cristianismo. Ligar ilhas com pontes é invenção. Leia a história em [Hallfreðar saga: o poeta que serviu a três chefes e a sua conversão difícil](/pt/hallfredar-saga-vandraedaskald-poeta-conversao/).

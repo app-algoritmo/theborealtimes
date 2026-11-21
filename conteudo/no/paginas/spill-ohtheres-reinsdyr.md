@@ -23,4 +23,4 @@ Dra fingeren (eller musa) for å flytte gjeteren. Reinsdyrene flykter fra den so
 
 ## Historien bak
 
-Ohthere, en nordmann fra nord, fortalte kong Alfred av England at han holdt reinsdyr. Gjetingen i spillet er diktet opp. Les historien i [Ohthere og reinen: en nordnorsk høvdings beretning til kong Alfred](/no/2026/11/17/ohthere-renas-relato-alfredo/).
+Ohthere, en nordmann fra nord, fortalte kong Alfred av England at han holdt reinsdyr. Gjetingen i spillet er diktet opp. Les historien i [Ohthere og reinen: en nordnorsk høvdings beretning til kong Alfred](/no/ohthere-og-reinen-en-nordnorsk-hovdings-beretning-til-kong/).

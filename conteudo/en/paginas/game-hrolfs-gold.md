@@ -23,4 +23,4 @@ Tap a lane (or use the arrow keys) to change lanes and drop pouches of gold in f
 
 ## The story behind it
 
-In the sagas, Hrólf Kraki scattered gold across the plain of Fyrisvellir and King Aðils stopped to pick it up. The chase in the game is made up. Read the story in [Hrólf Kraki and the gold scattered on Fyrisvellir: the escape that became poetry](/en/2026/11/17/hrolf-kraki-ouro-fyrisvellir/).
+In the sagas, Hrólf Kraki scattered gold across the plain of Fyrisvellir and King Aðils stopped to pick it up. The chase in the game is made up. Read the story in [Hrólf Kraki and the gold scattered on Fyrisvellir: the escape that became poetry](/hrolf-kraki-and-the-gold-scattered-on-fyrisvellir/).

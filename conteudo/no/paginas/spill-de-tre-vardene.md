@@ -23,4 +23,4 @@ Tre menn setter opp tre steinvarder på toppen av en øy. En stein svinger fram 
 
 ## Historien bak
 
-Kingittorsuaq-steinen, funnet i 1824 på en øy i Nordvest-Grønland, sier at tre menn laget steinvarder. Måten å stable på og tallet på steiner i spillet er oppdiktet. Les historien i [Kingittorsuaq-runesteinen: tre nordboere og tre varder på Grønland](/no/2027/03/21/pedra-de-kingittorsuaq-tres-nordicos-e-tres-pilhas-de-pedras-na-groenlandia/).
+Kingittorsuaq-steinen, funnet i 1824 på en øy i Nordvest-Grønland, sier at tre menn laget steinvarder. Måten å stable på og tallet på steiner i spillet er oppdiktet. Les historien i [Kingittorsuaq-runesteinen: tre nordboere og tre varder på Grønland](/no/kingittorsuaq-runesteinen-tre-nordboere-og-tre-varder/).

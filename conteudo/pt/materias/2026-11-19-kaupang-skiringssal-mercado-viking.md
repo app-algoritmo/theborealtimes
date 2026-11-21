@@ -41,4 +41,4 @@ O sítio mostra que o comércio nórdico não era só pilhagem: havia mercados o
 
 Os cemitérios de Kaupang também mostram quem vivia no lugar: há túmulos de homens, mulheres e crianças, com objetos pessoais. Isso indica uma comunidade estável, e não só visitantes de passagem. Os pesquisadores discutem quem controlava o povoado, e a ligação com chefes locais ou com reis vizinhos continua em debate.
 
-Para ajudar um mercador a organizar as mercadorias sem repetir nenhuma em cada fileira, jogue [O mercado de Kaupang](/jogo-o-mercado-de-kaupang/).
+Para ajudar um mercador a organizar as mercadorias sem repetir nenhuma em cada fileira, jogue [O mercado de Kaupang](/pt/jogo-o-mercado-de-kaupang/).

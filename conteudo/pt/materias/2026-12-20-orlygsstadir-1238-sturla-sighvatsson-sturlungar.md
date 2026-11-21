@@ -41,4 +41,4 @@ A página situa o campo em Örlygsstaðir, no norte da Islândia, e registra que
 
 A página não trata de Hálfdan Sæmundsson, de Þórðr kakali, nem do papel do rei norueguês Hákon, e tampouco do fim da República Islandesa. Esses pontos, por isso, não são afirmados aqui. O que a fonte sustenta é o essencial: uma data tradicional, dois blocos de chefes, uma batalha curta, cerca de sessenta mortos e a morte de pai e filho do lado derrotado.
 
-Para alinhar quatro peças, em linha, coluna ou diagonal, contra um rival, antes que ele o faça, jogue [O campo de Örlygsstaðir](/jogo-o-campo-de-orlygsstadir/).
+Para alinhar quatro peças, em linha, coluna ou diagonal, contra um rival, antes que ele o faça, jogue [O campo de Örlygsstaðir](/pt/jogo-o-campo-de-orlygsstadir/).

@@ -37,4 +37,4 @@ Não se deve ler o *Kalevala* como a "religião dos finlandeses antigos", como s
 
 Louhi é uma figura rara na literatura: uma mulher poderosa que age por conta própria, com inteligência e ambição, e é ao mesmo tempo temida e respeitada. A história do sol e da lua mostra o que os cantos finlandeses entendiam por "norte": um lugar frio e escuro, que guarda a luz que o resto do mundo precisa.
 
-Para atravessar, faixa por faixa, o campo gelado de Pohjola, desviando das rajadas de frio, jogue [O campo gelado de Pohjola](/jogo-o-campo-gelado-de-pohjola/).
+Para atravessar, faixa por faixa, o campo gelado de Pohjola, desviando das rajadas de frio, jogue [O campo gelado de Pohjola](/pt/jogo-o-campo-gelado-de-pohjola/).

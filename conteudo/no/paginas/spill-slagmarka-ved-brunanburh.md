@@ -23,4 +23,4 @@ Du leder de lyse brikkene. Trykk på en merket rute for å sette ut en brikke: a
 
 ## Historien bak
 
-I 937, i slaget ved Brunanburh, beseiret kong Æthelstan en allianse av nordmenn, skotter og briter. Brettet er diktet opp for spillet. Les historien i [Brunanburh, 937: slaget der en engelsk konge møtte vikinger, skotter og briter](/no/2026/11/20/brunanburh-937-athelstan/).
+I 937, i slaget ved Brunanburh, beseiret kong Æthelstan en allianse av nordmenn, skotter og briter. Brettet er diktet opp for spillet. Les historien i [Brunanburh, 937: slaget der en engelsk konge møtte vikinger, skotter og briter](/no/brunanburh-937-slaget-der-en-engelsk-konge-motte-vikinger/).

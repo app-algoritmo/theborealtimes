@@ -23,4 +23,4 @@ Dra fingeren (eller musa, eller bruk piltastene) for å styre båten til de seks
 
 ## Historien bak
 
-I norsk tradisjon er draugen ånden til en druknet mann sett i tåka. Bøyejakten er diktet opp for spillet. Les historien i [Draugen: sjøspøkelset norske fiskere fryktet å se](/no/2026/11/16/draugen-fantasma-do-mar/).
+I norsk tradisjon er draugen ånden til en druknet mann sett i tåka. Bøyejakten er diktet opp for spillet. Les historien i [Draugen: sjøspøkelset norske fiskere fryktet å se](/no/draugen-sjospokelset-norske-fiskere-fryktet-a-se/).

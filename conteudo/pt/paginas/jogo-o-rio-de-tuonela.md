@@ -23,4 +23,4 @@ Mova-se pelos canais do rio. Setas ou WASD, ou toque na direção para onde quer
 
 ## A história por trás
 
-No Kalevala, a mãe de Lemminkäinen recolhe do rio de Tuonela os pedaços do filho com um rastelo. O cisne perseguidor do jogo é invenção. Leia a história em [Lemminkäinen no rio de Tuonela: a mãe que pescou os pedaços do filho com um ancinho](/2026/11/22/lemminkainen-tuonela-mae-rastelo/).
+No Kalevala, a mãe de Lemminkäinen recolhe do rio de Tuonela os pedaços do filho com um rastelo. O cisne perseguidor do jogo é invenção. Leia a história em [Lemminkäinen no rio de Tuonela: a mãe que pescou os pedaços do filho com um ancinho](/pt/lemminkainen-tuonela-mae-rastelo/).

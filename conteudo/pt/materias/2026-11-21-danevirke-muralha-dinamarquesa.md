@@ -37,4 +37,4 @@ Convém ter cuidado com a ideia de uma "grande muralha viking". As datas, as fas
 
 Além disso, o Danevirke é um bom exemplo de como a arqueologia e a escrita se completam. As crônicas dão um ano e um nome, a madeira dá outras datas, e a terra mostra como as paliçadas foram feitas. Quando as três fontes coincidem, o resultado é mais firme. Quando divergem, os pesquisadores precisam explicar por que uma obra tão grande pode ter sido refeita tantas vezes.
 
-Para defender o muro de uma fila de invasores, posicionando guardas em cada faixa, jogue [O muro do Danevirke](/jogo-o-muro-do-danevirke/).
+Para defender o muro de uma fila de invasores, posicionando guardas em cada faixa, jogue [O muro do Danevirke](/pt/jogo-o-muro-do-danevirke/).

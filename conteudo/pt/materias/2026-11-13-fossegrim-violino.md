@@ -38,4 +38,4 @@ Uma leitura possível do conto é uma ideia comum no folclore: a arte de tocar b
 
 Também se pode ler a história como um jeito de falar sobre treino. O presente na quinta-feira e a mão guiada nas cordas lembram que ninguém aprende música sem dar algo em troca e sem calos nos dedos.
 
-Para ouvir o que o espírito toca, jogue [O violino da cachoeira](/jogo-violino-da-cachoeira/).
+Para ouvir o que o espírito toca, jogue [O violino da cachoeira](/pt/jogo-violino-da-cachoeira/).

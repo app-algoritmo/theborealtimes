@@ -23,4 +23,4 @@ Toque numa pena e depois em outra para trocá-las (ou use as setas e a barra de 
 
 ## A história por trás
 
-No poema, Völund foge pelos ares depois de anos preso numa ilha. As penas e as trocas do jogo são invenção. Leia a história em [Völund, o ferreiro que um rei prendeu numa ilha e que fugiu voando](/2026/11/18/volund-ferreiro-nidud-asas/).
+No poema, Völund foge pelos ares depois de anos preso numa ilha. As penas e as trocas do jogo são invenção. Leia a história em [Völund, o ferreiro que um rei prendeu numa ilha e que fugiu voando](/pt/volund-ferreiro-nidud-asas/).

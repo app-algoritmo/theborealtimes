@@ -23,4 +23,4 @@ The enemy pushes the line. Tap (or press the space bar) to push back; each push 
 
 ## The story behind it
 
-The battle of Stiklestad, in 1030, cost King Olaf Haraldsson his life. The sagas say the sun darkened during the fight; whether it was an eclipse, scholars debate. The game is a simplification. Read the story in [Stiklestad, 1030: the battle in which King Olaf died and Norway's saint was born](/en/2026/11/14/stiklestad-olavo/).
+The battle of Stiklestad, in 1030, cost King Olaf Haraldsson his life. The sagas say the sun darkened during the fight; whether it was an eclipse, scholars debate. The game is a simplification. Read the story in [Stiklestad, 1030: the battle in which King Olaf died and Norway's saint was born](/stiklestad-1030-the-battle-in-which-king-olaf-died/).

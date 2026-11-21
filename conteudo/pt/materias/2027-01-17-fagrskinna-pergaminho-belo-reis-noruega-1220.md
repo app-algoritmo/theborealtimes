@@ -47,4 +47,4 @@ Como a obra cita muitos versos de escaldos, e alguns só existem nela, perder a 
 
 O autor não foi identificado, e a origem na Noruega ou na Islândia não está resolvida. As fontes principais são "propostas", e não confirmadas. E, como o original se perdeu, o texto só existe em cópias, o que obriga a ler a obra com a cautela que se tem diante de qualquer texto que chegou por segunda mão.
 
-Para encontrar, entre folhas viradas, os selos que se repetem em pares, jogue [Os selos da Fagrskinna](/jogo-os-selos-da-fagrskinna/).
+Para encontrar, entre folhas viradas, os selos que se repetem em pares, jogue [Os selos da Fagrskinna](/pt/jogo-os-selos-da-fagrskinna/).

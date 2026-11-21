@@ -23,4 +23,4 @@ The bear wants to fish on the ice, as the fox taught him. Tap the screen, or pre
 
 ## The story behind it
 
-In the tale by Asbjørnsen and Moe, the fox persuades the bear to fish with his tail in a hole in the ice, and the tail freezes and breaks. That is how, says the tale, the bear came to have a short tail. The fishing in rounds is invented. Read the story in [Why the bear has a short tail: the fox, the ice and the fish](/en/2027/03/14/por-que-o-urso-tem-o-rabo-curto-a-raposa-o-gelo-e-o-peixe/).
+In the tale by Asbjørnsen and Moe, the fox persuades the bear to fish with his tail in a hole in the ice, and the tail freezes and breaks. That is how, says the tale, the bear came to have a short tail. The fishing in rounds is invented. Read the story in [Why the bear has a short tail: the fox, the ice and the fish](/why-the-bear-has-a-short-tail-the-fox-the-ice-and-the-fish/).

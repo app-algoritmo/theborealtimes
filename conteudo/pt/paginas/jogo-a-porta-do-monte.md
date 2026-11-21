@@ -23,4 +23,4 @@ A porta do monte está escondida numa casa do mapa. Toque numa casa para sondá-
 
 ## A história por trás
 
-No folclore de Orkney, o hogboon, ou hogboy, é um espírito de montes; contos avisam contra escavá-los, e tempestades depois de escavações são ligadas a isso. Procurar a porta é invenção. Leia a história em [Hogboon: o espírito do monte nas Órcades e as histórias de Maeshowe](/2027/02/14/hogboon-o-espirito-do-monte-orcades-maeshowe/).
+No folclore de Orkney, o hogboon, ou hogboy, é um espírito de montes; contos avisam contra escavá-los, e tempestades depois de escavações são ligadas a isso. Procurar a porta é invenção. Leia a história em [Hogboon: o espírito do monte nas Órcades e as histórias de Maeshowe](/pt/hogboon-o-espirito-do-monte-orcades-maeshowe/).

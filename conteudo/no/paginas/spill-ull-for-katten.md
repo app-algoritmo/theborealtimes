@@ -23,4 +23,4 @@ Julekatten går rundt huset. Led ulltråden og samle 12 nøster før han kommer.
 
 ## Historien bak
 
-I islandsk tradisjon slapp den som fikk et nytt plagg før jul unna Julekatten. Ulltråden i spillet er diktet opp. Les historien i [Julekatten på Island: den som ikke fikk nye klær, kunne bli middagen dens](/no/2026/11/20/jolakotturinn-gato-de-natal-islandia/).
+I islandsk tradisjon slapp den som fikk et nytt plagg før jul unna Julekatten. Ulltråden i spillet er diktet opp. Les historien i [Julekatten på Island: den som ikke fikk nye klær, kunne bli middagen dens](/no/julekatten-pa-island-den-som-ikke-fikk-nye-klaer-kunne-bli/).

@@ -23,4 +23,4 @@ I Lejre inneholdt gravhaugen Grydehøj gulltråder og bronsebiter. Ni jordhauger
 
 ## Historien bak
 
-Ifølge UCLA-siden om Lejre inneholdt gravhaugen Grydehøj, fra omkring 550, gulltråder og bronsebiter. Haugene med glimt og rytmen i spillet er oppdiktet. Les historien i [Lejre: den store kongehallen i Danmark og ofringene hvert niende år](/no/2027/03/28/lejre-o-grande-salao-do-rei-na-dinamarca-e-os-sacrificios-de-nove-em-nove-anos/).
+Ifølge UCLA-siden om Lejre inneholdt gravhaugen Grydehøj, fra omkring 550, gulltråder og bronsebiter. Haugene med glimt og rytmen i spillet er oppdiktet. Les historien i [Lejre: den store kongehallen i Danmark og ofringene hvert niende år](/no/lejre-den-store-kongehallen-i-danmark-og-ofringene-hvert/).

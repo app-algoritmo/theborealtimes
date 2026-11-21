@@ -43,4 +43,4 @@ It is a tale of a poor boy who wins by kindness and cleverness, with a magic obj
 
 There is no date of collection in this piece, and the text depends on the English translation consulted. The identity of the beggar is not stated outright. Other versions of the tale may differ in the details of the plot.
 
-To play the fiddle in the right rhythm and make everyone dance, play [The fiddle that makes them dance](/en/game-the-fiddle-that-makes-them-dance/).
+To play the fiddle in the right rhythm and make everyone dance, play [The fiddle that makes them dance](/game-the-fiddle-that-makes-them-dance/).

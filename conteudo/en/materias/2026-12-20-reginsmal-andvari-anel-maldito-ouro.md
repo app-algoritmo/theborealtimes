@@ -40,4 +40,4 @@ The poem goes on with Regin raising Sigurd, forging him the sword Gram and urgin
 
 The poem does not explain what the ring does or how the gold "multiplies" on its own. It only says that it is worth the ransom and that it was cursed twice: by Andvari and by Loki. Everything the later tradition added, such as magic powers of the ring, should be read as another layer, not as part of this poem.
 
-To catch, with a bag, the gold falling from above, letting the ring marked by the curse go past, play [Andvari's gold](/en/game-andvaris-gold/).
+To catch, with a bag, the gold falling from above, letting the ring marked by the curse go past, play [Andvari's gold](/game-andvaris-gold/).

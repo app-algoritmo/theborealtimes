@@ -41,4 +41,4 @@ A Edda em Prosa conta a mesma história sem as ameaças, o que mostra que havia 
 
 Pesquisadores de meados do século XX costumavam ver a união como um casamento sagrado ligado à fertilidade da terra, com Gerðr como o campo que o deus fecunda. Stephen A. Mitchell propôs outra leitura, a de um modelo de resolução de conflito entre grupos opostos. Os estudos mais recentes olham para a coerção presente nas ameaças de Skírnir, o que torna a história incômoda para o leitor de hoje. Paralelos em outros textos, como um encantamento rúnico de Bergen e uma maldição na Bósa saga, sugerem que o público tomava as fórmulas a sério.
 
-Para ajudar o cavalo de Skírnir a atravessar as chamas, jogue [Salte o muro de fogo](/jogo-salte-o-muro-de-fogo/).
+Para ajudar o cavalo de Skírnir a atravessar as chamas, jogue [Salte o muro de fogo](/pt/jogo-salte-o-muro-de-fogo/).

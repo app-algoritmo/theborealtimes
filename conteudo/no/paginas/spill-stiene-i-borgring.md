@@ -23,4 +23,4 @@ Hver rute på brettet på 5 ganger 5 har stykker av sti. Trykk på en rute for �
 
 ## Historien bak
 
-Borgring, nær Køge på Sjælland, er en rund festning på rundt 145 meter på tvers, med en voll på 10 til 11 meter, kronet av en palisade. Utgravingene i 2014 datert den til 900-tallet og fant nord- og østporten der en trelleborg-planløsning ville forutsi dem. Stiene som vris er oppfunnet. Les historien i [Borgring, ringborgen ved Køge: hvordan en dagsmarsj pekte på en borg som manglet](/no/2027/01/24/borgring-fortaleza-circular-koge-harald-dente-azul/).
+Borgring, nær Køge på Sjælland, er en rund festning på rundt 145 meter på tvers, med en voll på 10 til 11 meter, kronet av en palisade. Utgravingene i 2014 datert den til 900-tallet og fant nord- og østporten der en trelleborg-planløsning ville forutsi dem. Stiene som vris er oppfunnet. Les historien i [Borgring, ringborgen ved Køge: hvordan en dagsmarsj pekte på en borg som manglet](/no/borgring-ringborgen-ved-koge-hvordan-en-dagsmarsj-pekte/).

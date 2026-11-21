@@ -23,4 +23,4 @@ The ship’s ropes are tangled. Drag each knot (with a finger or the mouse) some
 
 ## The story behind it
 
-Naglfar is the ship made from the nails of the dead which, at Ragnarök, carries monsters to the battlefield. Untangling the ropes is invented. Read the story in [Naglfar, the ship made from the nails of the dead that sails at Ragnarök](/en/2027/01/31/naglfar-navio-das-unhas-dos-mortos-ragnarok/).
+Naglfar is the ship made from the nails of the dead which, at Ragnarök, carries monsters to the battlefield. Untangling the ropes is invented. Read the story in [Naglfar, the ship made from the nails of the dead that sails at Ragnarök](/naglfar-the-ship-made-from-the-nails-of-the-dead-that-sails/).

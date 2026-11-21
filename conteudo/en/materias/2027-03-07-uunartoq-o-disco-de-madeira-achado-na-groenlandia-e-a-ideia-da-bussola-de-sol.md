@@ -45,4 +45,4 @@ The disc is a small fragment, and the sun compass hypothesis is the most accepte
 
 The material, softwood or oak, is debated. The magnetic compass only appears in Europe in the early 13th century, and the article recalls that, with land out of sight, finding true north by day would be hard. Some scholars continue to argue against Norse navigation instruments. The use for measuring latitude and the twilight compass are proposals of researchers, not conclusions.
 
-To hold a ship on course by the shadow of the disc, correcting the drift, play [Course by the sun](/en/game-course-by-the-sun/).
+To hold a ship on course by the shadow of the disc, correcting the drift, play [Course by the sun](/game-course-by-the-sun/).

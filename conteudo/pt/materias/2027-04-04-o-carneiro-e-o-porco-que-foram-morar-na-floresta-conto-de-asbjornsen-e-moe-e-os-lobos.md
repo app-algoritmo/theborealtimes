@@ -47,4 +47,4 @@ Um carneiro e um porco fogem do abate, juntam um ganso, uma lebre e um galo e co
 
 O trecho que li não indica quem contou o conto nem onde foi recolhido. Também não diz o que acontece aos lobos no fim. A comparação com outros contos de animais que se unem para escapar do abate, como os músicos de Bremen dos irmãos Grimm, é minha, e não uma afirmação do texto.
 
-Para afastar o lobo da porta, jogue [O lobo na porta](/jogo-o-lobo-na-porta/).
+Para afastar o lobo da porta, jogue [O lobo na porta](/pt/jogo-o-lobo-na-porta/).

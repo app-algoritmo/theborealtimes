@@ -43,4 +43,4 @@ Esta saga a chama de mulher notável e forte e de meia-irmã de Leif, enquanto a
 
 O artigo diz que Freydís é "dita" filha de Érico, e as sagas medievais são a única prova dela. As duas sagas se contradizem sobre o parentesco com Leif, se meia-irmã ou irmã inteira, e sobre o caráter e os atos dela. A afirmação de que a Saga de Érico, o Vermelho foi escrita depois da outra aparece no artigo sem citação.
 
-Para reunir tripulações iguais até formar a maior possível, jogue [As tripulações de Freydís](/jogo-as-tripulacoes-de-freydis/).
+Para reunir tripulações iguais até formar a maior possível, jogue [As tripulações de Freydís](/pt/jogo-as-tripulacoes-de-freydis/).

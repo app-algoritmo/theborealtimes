@@ -23,4 +23,4 @@ Fiendtlige skip seiler opp Arousa-elvemunningen. En kraftmåler svinger fram og 
 
 ## Historien bak
 
-I Catoira i Galicia voktet Torres de Oeste innløpet til Arousa mot angrep fra sjøen, og hver august gjenskaper Vikingpilegrimsferden angrepet og forsvaret. Steinkastingen er oppfunnet. Les historien i [Catoira: Torres de Oeste og vikingpilegrimsferden i Galicia](/no/2027/03/14/catoira-as-torres-de-oeste-e-a-romaria-vikinga-da-galicia/).
+I Catoira i Galicia voktet Torres de Oeste innløpet til Arousa mot angrep fra sjøen, og hver august gjenskaper Vikingpilegrimsferden angrepet og forsvaret. Steinkastingen er oppfunnet. Les historien i [Catoira: Torres de Oeste og vikingpilegrimsferden i Galicia](/no/catoira-torres-de-oeste-og-vikingpilegrimsferden-i-galicia/).

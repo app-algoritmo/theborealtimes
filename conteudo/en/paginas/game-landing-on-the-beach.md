@@ -23,4 +23,4 @@ The ship falls by itself. Hold your finger on the screen (or the Space key) to f
 
 ## The story behind it
 
-The Landnámabók tells who arrived in Iceland and where they settled. The landing with limited fuel is invented. Read the story in [Landnámabók: the book that lists more than three thousand people and about 1,400 farms of Iceland](/en/2026/12/27/landnamabok-livro-dos-assentamentos-islandia/).
+The Landnámabók tells who arrived in Iceland and where they settled. The landing with limited fuel is invented. Read the story in [Landnámabók: the book that lists more than three thousand people and about 1,400 farms of Iceland](/landnamabok-the-book-that-lists-more-than-three-thousand/).

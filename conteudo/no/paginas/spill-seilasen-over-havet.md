@@ -23,4 +23,4 @@ Styr skipet over det nordlige havet. Hold på venstre eller høyre side av skjer
 
 ## Historien bak
 
-På Gjellestad i Norge fant georadar et nedgravd vikingskip. Seilasen over havet er oppfunnet. Les historien i [Gjellestad: vikingskipet som ble funnet med georadar i Halden](/no/2027/02/28/gjellestad-o-navio-viking-achado-por-georadar-em-halden-noruega/).
+På Gjellestad i Norge fant georadar et nedgravd vikingskip. Seilasen over havet er oppfunnet. Les historien i [Gjellestad: vikingskipet som ble funnet med georadar i Halden](/no/gjellestad-vikingskipet-som-ble-funnet-med-georadar-i-halden/).

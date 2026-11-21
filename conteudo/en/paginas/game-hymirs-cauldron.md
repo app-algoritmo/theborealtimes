@@ -23,4 +23,4 @@ Hold the left or right side of the screen (or use ← →) to push the cauldron 
 
 ## The story behind it
 
-In the Hymiskviða, Thor carries Hymir's cauldron to Ægir's hall. The balancing game is made up. Read the story in [Hymiskviða: Thor and Týr go to fetch the giant Hymir's enormous cauldron](/en/2026/12/13/hymiskvida-thor-hymir-caldeirao/).
+In the Hymiskviða, Thor carries Hymir's cauldron to Ægir's hall. The balancing game is made up. Read the story in [Hymiskviða: Thor and Týr go to fetch the giant Hymir's enormous cauldron](/hymiskvida-thor-and-tyr-go-to-fetch-the-giant-hymir-s/).

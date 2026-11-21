@@ -23,4 +23,4 @@ Quatro chamas com runas acendem numa ordem. Memorize e repita a ordem tocando na
 
 ## A história por trás
 
-Na Saga de Hervör, as chamas e os fantasmas rondam o túmulo de Angantýr. A ordem das chamas é invenção do jogo. Leia a história em [Hervör e a espada Tyrfing: a mulher que acordou o pai morto para tomar sua espada](/2026/11/20/hervor-tyrfing-hervarar-saga/).
+Na Saga de Hervör, as chamas e os fantasmas rondam o túmulo de Angantýr. A ordem das chamas é invenção do jogo. Leia a história em [Hervör e a espada Tyrfing: a mulher que acordou o pai morto para tomar sua espada](/pt/hervor-tyrfing-hervarar-saga/).

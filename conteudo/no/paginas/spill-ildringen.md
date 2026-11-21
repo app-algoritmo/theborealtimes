@@ -23,4 +23,4 @@ Trykk på en stein: Den og de fire naboene bytter tilstand (tent blir slukket, o
 
 ## Historien bak
 
-I sagaene sover Brynhild bak en mur av ild. Flammepuslespillet er diktet opp for spillet. Les historien i [Brynhild og Sigurd: valkyrjen i ildringen og forræderiet som endte på bålet](/no/2026/11/18/brynhildr-sigurd-fogo-volsunga/).
+I sagaene sover Brynhild bak en mur av ild. Flammepuslespillet er diktet opp for spillet. Les historien i [Brynhild og Sigurd: valkyrjen i ildringen og forræderiet som endte på bålet](/no/brynhild-og-sigurd-valkyrjen-i-ildringen-og-forraederiet/).

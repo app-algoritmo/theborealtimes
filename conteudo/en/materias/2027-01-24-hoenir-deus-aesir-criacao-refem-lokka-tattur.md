@@ -43,4 +43,4 @@ The *Æsir* are the main group of gods, and the *Vanir* are the other group, wit
 
 The idea that Hœnir and Vili are the same god is a possibility raised from Snorri's knowledge of the *Völuspá*, and nothing more. The link between the name and the stork is a scholars' hypothesis, argued by Rydberg in 1886, and the article presents it as a hypothesis. There are also no manuscripts or annotated editions of the poems here: this piece rests on a single encyclopedic article, and anyone who wants to go further has to open the *Völuspá*, the *Ynglinga saga* and the Faroese ballad.
 
-To live, in miniature, the situation of someone who negotiates without being able to decide alone, play [The hostage and the exchanges](/en/game-the-hostage-and-the-exchanges/).
+To live, in miniature, the situation of someone who negotiates without being able to decide alone, play [The hostage and the exchanges](/game-the-hostage-and-the-exchanges/).

@@ -23,4 +23,4 @@ I Ribe ba en beinamulett med runer om beskyttelse mot en dverg. Dverger med grø
 
 ## Historien bak
 
-Ribe-hodeskallen, fra omkring 725, har runer som ser ut til å påkalle Odin og beskytte mot en dverg. Dvergene som invaderer markedet, og rytmen i spillet er oppdiktet. Les historien i [Ribe-hodeskallen: runer på en amulett mot en dverg, omkring år 725](/no/2027/03/28/o-cranio-de-ribe-runas-de-um-amuleto-contra-um-anao-por-volta-do-ano-725/).
+Ribe-hodeskallen, fra omkring 725, har runer som ser ut til å påkalle Odin og beskytte mot en dverg. Dvergene som invaderer markedet, og rytmen i spillet er oppdiktet. Les historien i [Ribe-hodeskallen: runer på en amulett mot en dverg, omkring år 725](/no/ribe-hodeskallen-runer-pa-en-amulett-mot-en-dverg-omkring/).

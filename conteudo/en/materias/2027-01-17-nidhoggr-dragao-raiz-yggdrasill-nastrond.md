@@ -45,4 +45,4 @@ The *Gylfaginning* and the *Grímnismál* put him at the root of the tree, busy 
 
 The meaning of the end of the *Völuspá* is debated. The more common reading sees in Níðhöggr's arrival a sign of Ragnarök; another sees renewal or redemption, with the serpent carrying the dead away. The stanza before the ending is considered spurious by the translator Henry Adams Bellows. The article also notes that Níðhöggr is not mentioned in any other ancient source, and that the length of the vowel at the start of the name is not settled in the texts.
 
-To undo, knot by knot, the damage to a gnawed root, play [Níðhöggr's roots](/en/game-nidhoggrs-roots/).
+To undo, knot by knot, the damage to a gnawed root, play [Níðhöggr's roots](/game-nidhoggrs-roots/).

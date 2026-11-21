@@ -45,4 +45,4 @@ It is a family saga with a travelling hero whose character changes with time. Th
 
 The date and the author are debated. The article says it is not certain whether the Greenland account comes from the author's experience or from an informant. It also notes that the saga may have been influenced by Eiríks saga rauða, Grænlendinga saga and saints' lives. Scholars read Þorgils as a blend of traditional Scandinavian honour with a European Christianity.
 
-To gather provisions and dodge the blocks of ice that fall on the coast of Greenland, play [Provisions in Greenland](/en/game-provisions-in-greenland/).
+To gather provisions and dodge the blocks of ice that fall on the coast of Greenland, play [Provisions in Greenland](/game-provisions-in-greenland/).

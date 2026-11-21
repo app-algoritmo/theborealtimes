@@ -48,4 +48,4 @@ A *legendary saga* is a saga that tells of a remote past, with fantastic element
 
 The sources do not say who wrote the saga. The chronology is flattened, and for that reason the characters do not serve to date anything. The etymology of the name of Sjód is the explanation given by the saga itself, and should not be taken as proof of the origin of the word. The exact role of each episode in the plot is not detailed in the sources used here.
 
-To gather coins up to the right value of the purse, play [Sjód’s purse](/en/game-sjods-purse/).
+To gather coins up to the right value of the purse, play [Sjód’s purse](/game-sjods-purse/).

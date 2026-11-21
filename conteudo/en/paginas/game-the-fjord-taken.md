@@ -23,4 +23,4 @@ You start in the top left corner. Tap a colour to paint your whole region with i
 
 ## The story behind it
 
-On 25 March 1016, Palm Sunday, Olav Haraldsson defeated Sveinn Hákonarson at Nesjar; the site is given by tradition. Painting the fjord is invented. Read the story in [The Battle of Nesjar, in 1016: Olaf Haraldsson against Sveinn Hákonarson](/en/2027/02/14/batalha-de-nesjar-olav-haraldsson-sveinn-hakonarson-1016/).
+On 25 March 1016, Palm Sunday, Olav Haraldsson defeated Sveinn Hákonarson at Nesjar; the site is given by tradition. Painting the fjord is invented. Read the story in [The Battle of Nesjar, in 1016: Olaf Haraldsson against Sveinn Hákonarson](/the-battle-of-nesjar-in-1016-olaf-haraldsson-against-sveinn/).

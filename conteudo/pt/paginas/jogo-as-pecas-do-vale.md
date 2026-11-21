@@ -23,4 +23,4 @@ Oito lotes numerados e um espaço vazio estão fora de ordem. Toque num lote ao 
 
 ## A história por trás
 
-A Svarfdœla saga, registrada por escrito no século XIV, trata de disputas na colonização de Svarfaðardalur, um vale no norte da Islândia. Deslizar lotes é invenção. Leia a história em [Svarfdœla saga: o vale de Svarfaðardalur, Karl, Ljótólf e uma saga em duas partes](/2027/02/07/svarfdaela-saga-svarfadardalur-karl-ljotolf/).
+A Svarfdœla saga, registrada por escrito no século XIV, trata de disputas na colonização de Svarfaðardalur, um vale no norte da Islândia. Deslizar lotes é invenção. Leia a história em [Svarfdœla saga: o vale de Svarfaðardalur, Karl, Ljótólf e uma saga em duas partes](/pt/svarfdaela-saga-svarfadardalur-karl-ljotolf/).

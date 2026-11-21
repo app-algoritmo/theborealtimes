@@ -23,4 +23,4 @@ No conto do islandês que sabia sagas, tudo acontece em ordem. Uma cena aparece 
 
 ## A história por trás
 
-No Íslendings þáttr sögufróða, o jovem islandês conta sagas ao rei Harald, teme contar a das viagens dele no Natal e, depois, diz que a aprendeu com Halldórr Snorrason. As três caixas e o ritmo do jogo são invenção. Leia a história em [O islandês que contava sagas: a história de Natal na corte do rei Harald Hardrada](/2027/04/04/o-islandes-que-contava-sagas-a-historia-de-natal-na-corte-do-rei-harald-hardrada/).
+No Íslendings þáttr sögufróða, o jovem islandês conta sagas ao rei Harald, teme contar a das viagens dele no Natal e, depois, diz que a aprendeu com Halldórr Snorrason. As três caixas e o ritmo do jogo são invenção. Leia a história em [O islandês que contava sagas: a história de Natal na corte do rei Harald Hardrada](/pt/o-islandes-que-contava-sagas-a-historia-de-natal-na-corte-do-rei-harald-hardrada/).

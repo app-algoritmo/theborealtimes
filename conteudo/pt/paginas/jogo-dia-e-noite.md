@@ -23,4 +23,4 @@ Cada casa da grade deve ter um sol ou uma lua. Toque numa casa vazia para pôr u
 
 ## A história por trás
 
-Nas Eddas, Nótt e Dagr recebem de Odin cada um uma carruagem e um cavalo e percorrem o céu a cada 24 horas, com Nótt à frente. Preencher sóis e luas é invenção. Leia a história em [Nótt e Dagr: a Noite e o Dia nas Eddas, com carruagem e cavalo cada um](/2027/02/14/nott-dagr-noite-dia-carruagens-eddas/).
+Nas Eddas, Nótt e Dagr recebem de Odin cada um uma carruagem e um cavalo e percorrem o céu a cada 24 horas, com Nótt à frente. Preencher sóis e luas é invenção. Leia a história em [Nótt e Dagr: a Noite e o Dia nas Eddas, com carruagem e cavalo cada um](/pt/nott-dagr-noite-dia-carruagens-eddas/).

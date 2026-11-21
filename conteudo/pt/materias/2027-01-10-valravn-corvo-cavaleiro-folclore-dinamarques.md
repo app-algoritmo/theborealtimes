@@ -43,4 +43,4 @@ Corvos lembram Huginn e Muninn, os corvos de Odin, e o artigo os lista como entr
 
 A idade da crença é duvidosa: a balada é do fim da Idade Média, e a ideia do corvo de campo de batalha vem de um único relato de 1893. O sentido de "Verne" é uma hipótese. Não há como dizer, por esses textos, que o valravn fosse crença geral.
 
-Para guiar um corvo-cavaleiro por todas as casas de um tabuleiro, jogue [O cavaleiro-corvo](/jogo-o-cavaleiro-corvo/).
+Para guiar um corvo-cavaleiro por todas as casas de um tabuleiro, jogue [O cavaleiro-corvo](/pt/jogo-o-cavaleiro-corvo/).

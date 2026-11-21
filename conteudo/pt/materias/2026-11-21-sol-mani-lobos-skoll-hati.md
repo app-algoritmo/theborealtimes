@@ -35,4 +35,4 @@ O *Vafþrúðnismál* diz que, antes de ser engolida, Sól terá uma filha, e qu
 
 Convém lembrar que, na língua nórdica antiga, *sól* é feminino e *máni* é masculino. Isso é o contrário do que ocorre em muitas línguas do sul da Europa, e alguns pesquisadores veem aí um traço próprio da tradição germânica. Também vale lembrar que Snorri era um cristão do século XIII e escrevia para preservar a poesia antiga. Suas explicações podem ter sido organizadas por ele, e não vir de uma crença que todos compartilhavam.
 
-Para manter o sol no céu, rebatendo-o antes que o lobo o alcance, jogue [O sol e o lobo](/jogo-o-sol-e-o-lobo/).
+Para manter o sol no céu, rebatendo-o antes que o lobo o alcance, jogue [O sol e o lobo](/pt/jogo-o-sol-e-o-lobo/).

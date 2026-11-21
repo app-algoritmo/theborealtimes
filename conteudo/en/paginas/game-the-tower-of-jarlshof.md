@@ -23,4 +23,4 @@ A block slides from side to side. Tap (or press Space) to drop it on the tower: 
 
 ## The story behind it
 
-At Jarlshof, in Shetland, houses of different ages were built on top of one another. The tower of blocks is invented. Read the story in [Jarlshof in Shetland: four thousand years of stacked houses and a Norse longhouse](/en/2027/01/03/jarlshof-shetland-assentamento-nordico/).
+At Jarlshof, in Shetland, houses of different ages were built on top of one another. The tower of blocks is invented. Read the story in [Jarlshof in Shetland: four thousand years of stacked houses and a Norse longhouse](/jarlshof-in-shetland-four-thousand-years-of-stacked-houses/).

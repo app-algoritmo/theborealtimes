@@ -23,4 +23,4 @@ Reme rio acima, contra a corrente. Toque no lado esquerdo da tela para remar com
 
 ## A história por trás
 
-No conto, o marido procura a mulher rio acima e a acha acima de uma cachoeira, boiando contra a corrente. A remada é invenção. Leia a história em [A Mulher Contrária: conto norueguês sobre a teimosia e o rio](/2027/03/07/a-mulher-contraria-conto-noruegues-sobre-a-teimosia-e-o-rio/).
+No conto, o marido procura a mulher rio acima e a acha acima de uma cachoeira, boiando contra a corrente. A remada é invenção. Leia a história em [A Mulher Contrária: conto norueguês sobre a teimosia e o rio](/pt/a-mulher-contraria-conto-noruegues-sobre-a-teimosia-e-o-rio/).

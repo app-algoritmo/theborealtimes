@@ -47,4 +47,4 @@ Skíðblaðnir is the best of ships: it holds all the gods, finds wind wherever 
 
 The sources differ on the owner of the ship: Freyr in the Eddas, Odin in Heimskringla. The entry also does not say whether the dwarfs of Grímnismál are the same as those of the Prose Edda, although it presents them as the same group. The sources cited do not explain how the ship folds. All of this is narrative of tradition, written centuries after the time in which it was believed.
 
-To fit a whole ship in a pocket by placing the right pieces, play [The ship in the pocket](/en/game-the-ship-in-the-pocket/).
+To fit a whole ship in a pocket by placing the right pieces, play [The ship in the pocket](/game-the-ship-in-the-pocket/).

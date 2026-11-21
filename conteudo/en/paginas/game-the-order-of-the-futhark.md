@@ -23,4 +23,4 @@ A slab of limestone carries twelve runes. Look at the row of runes at the bottom
 
 ## The story behind it
 
-The Kylver Stone from Gotland, from about the year 400, carries the whole Elder Futhark in order, the oldest such sequence known. The game with twelve runes is invented. Read the story in [The Kylver Stone: the whole futhark carved on Gotland around 400](/en/2027/03/14/pedra-de-kylver-o-futhark-inteiro-gravado-em-gotland-por-volta-de-400/).
+The Kylver Stone from Gotland, from about the year 400, carries the whole Elder Futhark in order, the oldest such sequence known. The game with twelve runes is invented. Read the story in [The Kylver Stone: the whole futhark carved on Gotland around 400](/the-kylver-stone-the-whole-futhark-carved-on-gotland-around/).

@@ -23,4 +23,4 @@ Algumas moças estão na floresta. Em uma delas, a cauda aparece por um instante
 
 ## A história por trás
 
-No folclore norueguês, a huldra parece uma moça bonita, mas tem cauda de vaca e, em muitos relatos, as costas ocas como um tronco. O jogo é invenção. Leia a história em [Huldra: a bela mulher da floresta que esconde uma cauda de vaca](/2026/11/14/huldra-floresta/).
+No folclore norueguês, a huldra parece uma moça bonita, mas tem cauda de vaca e, em muitos relatos, as costas ocas como um tronco. O jogo é invenção. Leia a história em [Huldra: a bela mulher da floresta que esconde uma cauda de vaca](/pt/huldra-floresta/).

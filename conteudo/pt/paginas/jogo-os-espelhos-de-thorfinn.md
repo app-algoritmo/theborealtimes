@@ -23,4 +23,4 @@ A luz sai da fogueira da esquerda e anda em linha reta até bater num espelho. T
 
 ## A história por trás
 
-A Orkneyinga saga faz de Thorfinn Sigurdsson um conde-guerreiro com terras na Escócia. Os espelhos e as fogueiras são invenção. Leia a história em [Thorfinn, o Poderoso: o conde das Órcades que, segundo a saga, virou conde aos cinco anos](/2026/12/27/thorfinn-conde-das-orcades-orkneyinga-saga/).
+A Orkneyinga saga faz de Thorfinn Sigurdsson um conde-guerreiro com terras na Escócia. Os espelhos e as fogueiras são invenção. Leia a história em [Thorfinn, o Poderoso: o conde das Órcades que, segundo a saga, virou conde aos cinco anos](/pt/thorfinn-conde-das-orcades-orkneyinga-saga/).

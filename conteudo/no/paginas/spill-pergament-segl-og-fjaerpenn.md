@@ -23,4 +23,4 @@ Traktaten fra 911 mellom rusene og Bysants er bevart i Nestorkrøniken. Se rekke
 
 ## Historien bak
 
-Nestorkrøniken bevarer en traktat fra 911 mellom rusene og Bysants. Pergamentet, seglet, fjærpennen, rekkefølgen de lyser i og plassbyttene er oppdiktet. Les historien i [Avtalen av 911 mellom rusene og Bysants: de norrøne navnene krøniken bevarte](/no/2027/04/04/o-tratado-de-911-entre-os-rus-e-bizancio-os-nomes-nordicos-que-a-cronica-guardou/).
+Nestorkrøniken bevarer en traktat fra 911 mellom rusene og Bysants. Pergamentet, seglet, fjærpennen, rekkefølgen de lyser i og plassbyttene er oppdiktet. Les historien i [Avtalen av 911 mellom rusene og Bysants: de norrøne navnene krøniken bevarte](/no/avtalen-av-911-mellom-rusene-og-bysants-de-norrone-navnene/).

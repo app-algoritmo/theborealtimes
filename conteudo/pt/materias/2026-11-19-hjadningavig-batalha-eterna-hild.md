@@ -43,4 +43,4 @@ Os estudiosos veem na lenda um tema que se repete em muitas culturas, o de um co
 
 O nome da luta, *Hjaðningavíg*, vem de *Hjaðningar*, os seguidores ou descendentes de Heðinn. A palavra mostra que a lenda era identificada pelo lado do raptor, e os estudiosos não explicam por quê. A *Ragnarsdrápa*, por sua vez, descreve a cena como pintada num escudo, o que indica que a história circulava em versos e em imagens já no século IX.
 
-Para ajudar um dos lados a vencer o combate sem fim, rebatendo o golpe antes que chegue, jogue [A batalha sem fim](/jogo-a-batalha-sem-fim/).
+Para ajudar um dos lados a vencer o combate sem fim, rebatendo o golpe antes que chegue, jogue [A batalha sem fim](/pt/jogo-a-batalha-sem-fim/).

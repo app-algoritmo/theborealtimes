@@ -41,4 +41,4 @@ The poem is a good sample of the style of passing on knowledge through lists, wh
 
 Either way, the poem shows an idea that appears in other texts: Odin likes to disguise himself and to learn among men, and his wisdom is sometimes won through suffering.
 
-To guide a spark around the hall and collect, one by one, the names of Odin, without bumping into the flames or into itself, play [Odin's names](/en/game-odins-names/).
+To guide a spark around the hall and collect, one by one, the names of Odin, without bumping into the flames or into itself, play [Odin's names](/game-odins-names/).

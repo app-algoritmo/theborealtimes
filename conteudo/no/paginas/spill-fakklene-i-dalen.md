@@ -23,4 +23,4 @@ Noen fakler brenner. Når du trykker på en fakkel, bytter den og de fire naboen
 
 ## Historien bak
 
-Fljótsdœla saga forteller på nytt historien om Droplaugarsønnene, med detaljer som avviker fra den andre sagaen; den ble trolig skrevet mye senere, kanskje på 1500- eller 1600-tallet. Å slukke fakler er oppfunnet. Les historien i [Fljótsdœla saga: Droplaug, Þórdís og en saga som trolig er skrevet mye senere](/no/2027/02/07/fljotsdaela-saga-droplaug-todda-saga-tardia/).
+Fljótsdœla saga forteller på nytt historien om Droplaugarsønnene, med detaljer som avviker fra den andre sagaen; den ble trolig skrevet mye senere, kanskje på 1500- eller 1600-tallet. Å slukke fakler er oppfunnet. Les historien i [Fljótsdœla saga: Droplaug, Þórdís og en saga som trolig er skrevet mye senere](/no/fljotsdoela-saga-droplaug-thordis-og-en-saga-som-trolig-er/).

@@ -23,4 +23,4 @@ Toque numa das suas covas, embaixo, para semear no sentido anti-horário. Se a �
 
 ## A história por trás
 
-Na Grettis saga, Kárr, o Velho, é chamado de draugr e jaz num monte de cheiro horrível. O jogo de sementes é invenção. Leia a história em [O draugr, o morto que não fica no monte: o que as sagas islandesas contam](/2027/01/10/draugr-morto-vivo-sagas-islandesas-monte/).
+Na Grettis saga, Kárr, o Velho, é chamado de draugr e jaz num monte de cheiro horrível. O jogo de sementes é invenção. Leia a história em [O draugr, o morto que não fica no monte: o que as sagas islandesas contam](/pt/draugr-morto-vivo-sagas-islandesas-monte/).

@@ -43,4 +43,4 @@ An *earl* was the title of a great English regional lord. The *Ouse* is the rive
 
 The exact site of Fulford is uncertain. The numbers of combatants are estimates, and vary. Tostig's route is told differently by Orderic Vitalis. The old accounts were written by chroniclers, generally after the events and often with bias towards one side, and so the details of the battle, such as the order of the lines and the moment of defeat, should not be taken as certain.
 
-To order banners of different heights so that each line shows the right count, play [The line of banners](/en/game-the-line-of-banners/).
+To order banners of different heights so that each line shows the right count, play [The line of banners](/game-the-line-of-banners/).

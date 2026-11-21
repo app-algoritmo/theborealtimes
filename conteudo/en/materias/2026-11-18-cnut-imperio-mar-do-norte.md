@@ -39,4 +39,4 @@ Cnut died in 1035 and was buried at Winchester. His empire did not survive. His 
 
 Cnut kept English laws, and England had law codes issued in his name, drafted with the help of churchmen, among them Archbishop Wulfstan of York. He divided the kingdom into large earldoms governed by earls. Some were Danish, others English, like Godwin, who received the title around 1018. Skalds composed poems in his honour, and some verses were preserved in the kings' sagas. The *Encomium Emmae Reginae*, written for Queen Emma, shows how the court wished him to be remembered. But the peace depended on the king's personal strength, and without him the arrangement was fragile.
 
-To keep the empire together, absorbing kingdom after kingdom into one, play [Cnut's waves](/en/game-cnuts-waves/).
+To keep the empire together, absorbing kingdom after kingdom into one, play [Cnut's waves](/game-cnuts-waves/).

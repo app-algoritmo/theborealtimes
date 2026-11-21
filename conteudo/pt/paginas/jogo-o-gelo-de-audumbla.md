@@ -23,4 +23,4 @@ Arraste o dedo (ou use as setas e a barra de espaço) para derreter o gelo e rev
 
 ## A história por trás
 
-Na Edda em Prosa, a vaca Auðumbla lambe o gelo e dele surge Búri, avô de Odin. As rodadas do jogo são invenção. Leia a história em [Auðumbla, a vaca do gelo: o mito nórdico que faz surgir o primeiro deus](/2026/11/17/audumbla-ymir-gelo-primordial/).
+Na Edda em Prosa, a vaca Auðumbla lambe o gelo e dele surge Búri, avô de Odin. As rodadas do jogo são invenção. Leia a história em [Auðumbla, a vaca do gelo: o mito nórdico que faz surgir o primeiro deus](/pt/audumbla-ymir-gelo-primordial/).

@@ -23,4 +23,4 @@ Slanger kommer opp fra de 9 åpningene i gropen. Trykk på hver av dem før den 
 
 ## Historien bak
 
-I Atlakviða blir kong Gunnar kastet i en ormegrop. Spillet med å jage dem bort er diktet opp. Les historien i [Atlakviða: kong Gunnar i ormegropen og Gudruns hevn over Atle](/no/2026/12/13/atlakvida-gunnar-poco-de-serpentes/).
+I Atlakviða blir kong Gunnar kastet i en ormegrop. Spillet med å jage dem bort er diktet opp. Les historien i [Atlakviða: kong Gunnar i ormegropen og Gudruns hevn over Atle](/no/atlakvida-kong-gunnar-i-ormegropen-og-gudruns-hevn-over-atle/).

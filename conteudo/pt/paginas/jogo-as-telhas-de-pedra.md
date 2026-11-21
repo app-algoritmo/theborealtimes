@@ -23,4 +23,4 @@ O escultor está cobrindo o telhado de um hogback com telhas em padrão repetido
 
 ## A história por trás
 
-Os hogbacks são lápides em forma de casa feitas entre os séculos X e XII no norte da Inglaterra e no sudoeste da Escócia, muitas com telhas esculpidas nos lados. Os padrões de peças do jogo são invenção. Leia a história em [Hogbacks: as lápides em forma de casa dos vikings na Inglaterra e na Escócia](/2027/03/21/hogbacks-as-lapides-em-forma-de-casa-dos-vikings-na-inglaterra-e-na-escocia/).
+Os hogbacks são lápides em forma de casa feitas entre os séculos X e XII no norte da Inglaterra e no sudoeste da Escócia, muitas com telhas esculpidas nos lados. Os padrões de peças do jogo são invenção. Leia a história em [Hogbacks: as lápides em forma de casa dos vikings na Inglaterra e na Escócia](/pt/hogbacks-as-lapides-em-forma-de-casa-dos-vikings-na-inglaterra-e-na-escocia/).

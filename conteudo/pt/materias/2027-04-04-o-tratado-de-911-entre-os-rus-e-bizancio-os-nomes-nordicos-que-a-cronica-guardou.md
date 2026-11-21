@@ -45,4 +45,4 @@ A *Crônica Primária* guarda um tratado de 911 entre os rus e Bizâncio, com am
 
 A autenticidade e a data do tratado são discutidas. Não se sabe se o texto que temos é cópia fiel de um original, e as formas nórdicas dos nomes são reconstruções feitas por estudiosos, e não leituras certas.
 
-Para selar cada documento na hora certa, jogue [Pergaminho, selo e pena](/jogo-pergaminho-selo-e-pena/).
+Para selar cada documento na hora certa, jogue [Pergaminho, selo e pena](/pt/jogo-pergaminho-selo-e-pena/).

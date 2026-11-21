@@ -23,4 +23,4 @@ The oars rise and fall. Tap (or press Space) to jump to the next oar, which must
 
 ## The story behind it
 
-Olaf Tryggvason was king of Norway from 995 to 1000 and vanished at Svolder. The run across the oars is an invention of the game. Read the story in [Olaf Tryggvason: the king of Norway who imposed Christianity and vanished at Svolder](/en/2027/01/03/olavo-tryggvason-rei-noruega-995-svolder/).
+Olaf Tryggvason was king of Norway from 995 to 1000 and vanished at Svolder. The run across the oars is an invention of the game. Read the story in [Olaf Tryggvason: the king of Norway who imposed Christianity and vanished at Svolder](/olaf-tryggvason-the-king-of-norway-who-imposed-christianity/).

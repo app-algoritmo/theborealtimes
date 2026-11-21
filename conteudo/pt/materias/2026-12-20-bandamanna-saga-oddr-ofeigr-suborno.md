@@ -39,4 +39,4 @@ Na volta, Oddr encontra o pai, Ófeigr, que aceita assumir o caso em troca de pa
 
 A página consultada não traz interpretação crítica da saga e só descreve o enredo. Falar em sátira ou comédia exigiria outras fontes, como as edições citadas na própria página. O que o texto mostra é que o "direito" da saga é menos uma questão de justiça do que de quem entende melhor as regras e as pessoas.
 
-Para tirar moedas de três montes, na sua vez, de modo a ficar com a última, contra um adversário esperto, jogue [As moedas do Althing](/jogo-as-moedas-do-althing/).
+Para tirar moedas de três montes, na sua vez, de modo a ficar com a última, contra um adversário esperto, jogue [As moedas do Althing](/pt/jogo-as-moedas-do-althing/).

@@ -23,4 +23,4 @@ The crate swings from side to side. Tap (or press Space) to drop it on the stack
 
 ## The story behind it
 
-Hedeby was a great trading port, active from the 8th to the mid-11th century. The crates and the crane are made up for the game. Read the story in [Hedeby: the Viking port where the world's merchants met](/en/2026/11/16/hedeby-porto-viking/).
+Hedeby was a great trading port, active from the 8th to the mid-11th century. The crates and the crane are made up for the game. Read the story in [Hedeby: the Viking port where the world's merchants met](/hedeby-the-viking-port-where-the-world-s-merchants-met/).

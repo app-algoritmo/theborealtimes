@@ -45,4 +45,4 @@ To escape the troll princess, he proposes a test: he will marry whoever washes h
 
 The type of story, of a mysterious husband lost through a broken promise, is very old and appears in many countries. The Greek myth of Cupid and Psyche is a well-known relative. The Norwegian version has the white bear, the winds and the trolls, which make it typical of the North.
 
-To help the girl cross the sky carried by the North Wind, play [The North Wind](/en/game-the-north-wind/).
+To help the girl cross the sky carried by the North Wind, play [The North Wind](/game-the-north-wind/).

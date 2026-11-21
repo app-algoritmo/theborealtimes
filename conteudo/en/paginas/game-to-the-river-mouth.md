@@ -23,4 +23,4 @@ Every square will receive a number in sequence. You start at 1: tap a neighbouri
 
 ## The story behind it
 
-Harald Klak was a Danish king baptised in 826. Linking neighbouring numbers up to a river mouth is invented. Read the story in [Harald Klak: the Danish king baptized in 826, ally of Louis the Pious](/en/2027/02/28/harald-klak-o-rei-dinamarques-batizado-em-826-aliado-de-luis-o-piedoso/).
+Harald Klak was a Danish king baptised in 826. Linking neighbouring numbers up to a river mouth is invented. Read the story in [Harald Klak: the Danish king baptized in 826, ally of Louis the Pious](/harald-klak-the-danish-king-baptized-in-826-ally-of-louis/).

@@ -44,4 +44,4 @@ Em obras alemãs, os anões costumam usar a Tarnkappe, uma capa de invisibilidad
 
 Não se sabe a origem da palavra, nem se os anões começaram como espíritos da natureza ou ligados à morte. Também não se sabe se *svartálfar* e *dökkálfar* são o mesmo que anões, já que aparecem só no Edda em prosa. As fontes antigas não dizem o tamanho deles, e nomes como Fullangr e Hár são ambíguos. Fêmeas só aparecem em sagas tardias, e não há prova de que anões recebessem oferendas.
 
-Para cavar numa mina sem pisar nas armadilhas, guiado pelos números das casas vizinhas, jogue [A mina dos anões](/jogo-a-mina-dos-anoes/).
+Para cavar numa mina sem pisar nas armadilhas, guiado pelos números das casas vizinhas, jogue [A mina dos anões](/pt/jogo-a-mina-dos-anoes/).

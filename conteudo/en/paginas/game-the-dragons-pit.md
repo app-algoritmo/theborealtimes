@@ -23,4 +23,4 @@ First, tap again and again (or press the space bar) to dig the pit before time r
 
 ## The story behind it
 
-In the *Völsunga Saga*, Sigurd digs a pit on Fafnir's path and wounds him from below, following the advice of an old man who is Odin in disguise. The game is a simplification: the time limit for digging, the three passes and the pale belly spot are made up. Read the story in [Sigurd and the dragon Fafnir: how a hero killed the beast from a pit](/en/2026/11/13/sigurd-fafnir/).
+In the *Völsunga Saga*, Sigurd digs a pit on Fafnir's path and wounds him from below, following the advice of an old man who is Odin in disguise. The game is a simplification: the time limit for digging, the three passes and the pale belly spot are made up. Read the story in [Sigurd and the dragon Fafnir: how a hero killed the beast from a pit](/sigurd-and-the-dragon-fafnir-how-a-hero-killed-the-beast/).

@@ -23,4 +23,4 @@ Sixteen numbered suns appear out of order. Tap them in order, from 1 to 16, as f
 
 ## The story behind it
 
-Among the Sámi, the Sun is also a deity, tied to spring and reindeer. The sixteen numbered suns are invented. Read the story in [Beaivi: the Sámi sun, the daughter in a carriage of reindeer bones and the rings on the drums](/en/2026/12/27/beaivi-sol-sami-tambor-oferendas/).
+Among the Sámi, the Sun is also a deity, tied to spring and reindeer. The sixteen numbered suns are invented. Read the story in [Beaivi: the Sámi sun, the daughter in a carriage of reindeer bones and the rings on the drums](/beaivi-the-sami-sun-the-daughter-in-a-carriage-of-reindeer/).

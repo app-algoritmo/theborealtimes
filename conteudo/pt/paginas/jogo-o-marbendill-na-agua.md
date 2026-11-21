@@ -23,4 +23,4 @@ Um fazendeiro fisga um marbendill, o homem do mar. Nove pontos de água estão d
 
 ## A história por trás
 
-No conto de Jón Árnason, um fazendeiro pesca um marbendill, que ri três vezes e se liberta explicando o porquê. Os pontos de água, as aparições e o ritmo do jogo são invenção. Leia a história em [O marbendill que riu três vezes: o homem do mar do folclore islandês](/2027/04/04/o-marbendill-que-riu-tres-vezes-o-homem-do-mar-do-folclore-islandes/).
+No conto de Jón Árnason, um fazendeiro pesca um marbendill, que ri três vezes e se liberta explicando o porquê. Os pontos de água, as aparições e o ritmo do jogo são invenção. Leia a história em [O marbendill que riu três vezes: o homem do mar do folclore islandês](/pt/o-marbendill-que-riu-tres-vezes-o-homem-do-mar-do-folclore-islandes/).

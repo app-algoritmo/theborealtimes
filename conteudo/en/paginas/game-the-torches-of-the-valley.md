@@ -23,4 +23,4 @@ Some torches are lit. Tapping a torch makes it and its four neighbours, above, b
 
 ## The story behind it
 
-Fljótsdœla saga retells the story of the Droplaugarsons brothers, with details that differ from the other saga; it was probably written much later, perhaps in the 16th or 17th century. Putting out torches is invented. Read the story in [Fljótsdœla saga: Droplaug, Þórdís and a saga probably written much later](/en/2027/02/07/fljotsdaela-saga-droplaug-todda-saga-tardia/).
+Fljótsdœla saga retells the story of the Droplaugarsons brothers, with details that differ from the other saga; it was probably written much later, perhaps in the 16th or 17th century. Putting out torches is invented. Read the story in [Fljótsdœla saga: Droplaug, Þórdís and a saga probably written much later](/fljotsdoela-saga-droplaug-thordis-and-a-saga-probably/).

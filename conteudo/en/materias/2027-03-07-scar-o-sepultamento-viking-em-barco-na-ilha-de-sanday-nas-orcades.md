@@ -45,4 +45,4 @@ It was a burial of three people in a short boat, with objects of daily life and 
 
 The origin of the boat and its occupants is uncertain: the article says only that they may have come from Norway or elsewhere. The causes of death are unknown, and so is the sex of the child. The article does not say where the finds are kept today, and does not list objects beside the child. The relationship among the three people is not known.
 
-To raise, layer by layer, the stone enclosure inside the boat, play [The stone enclosure](/en/game-the-stone-enclosure/).
+To raise, layer by layer, the stone enclosure inside the boat, play [The stone enclosure](/game-the-stone-enclosure/).

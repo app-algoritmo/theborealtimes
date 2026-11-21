@@ -41,4 +41,4 @@ O sentido de uma estrofe do Hávamál, a 112, é disputado. O poeta Eilífr Goð
 
 Também é preciso lembrar que quase tudo o que se sabe das nornas vem de poucos textos, escritos por cristãos séculos depois do tempo em que se acreditava nelas. Por isso, a imagem de três tecelãs é uma construção moderna em parte, e as fontes não falam sempre de fios.
 
-Para manter o fio esticado sobre o tear das nornas, jogue [O fio das Nornas](/jogo-o-fio-das-nornas/).
+Para manter o fio esticado sobre o tear das nornas, jogue [O fio das Nornas](/pt/jogo-o-fio-das-nornas/).

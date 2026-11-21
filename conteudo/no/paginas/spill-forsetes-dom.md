@@ -23,4 +23,4 @@ Forsete har gjemt en dom av fire fargede symboler, som kan gjentas. Trykk på fa
 
 ## Historien bak
 
-I Gylfaginning sier Snorre at Forsete bor i salen Glitnir og at den som bringer en strid til ham, går derfra forlikt. Den skjulte dommen er oppfunnet. Les historien i [Forsete, guden som forsoner de som krangler: hva vi vet om salen Glitnir](/no/2027/01/17/forseti-deus-justica-glitnir-gylfaginning/).
+I Gylfaginning sier Snorre at Forsete bor i salen Glitnir og at den som bringer en strid til ham, går derfra forlikt. Den skjulte dommen er oppfunnet. Les historien i [Forsete, guden som forsoner de som krangler: hva vi vet om salen Glitnir](/no/forsete-guden-som-forsoner-de-som-krangler-hva-vi-vet-om/).

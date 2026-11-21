@@ -45,4 +45,4 @@ The *Younger Futhark* is the 16-letter runic alphabet used in the Viking Age. An
 
 Part of the reading is disputed, such as the name of the dwarf and the presence of a dwarfess, and the date of 725 comes from a single estimate. It is also uncertain whether the hole was meant to hang the object, and the unworn hole suggests it was not. It is also debated whether the text deals with an illness, and that point depends on the reading.
 
-To stop the dwarves before they reach the market stalls, play [The dwarves of the market](/en/game-the-dwarves-of-the-market/).
+To stop the dwarves before they reach the market stalls, play [The dwarves of the market](/game-the-dwarves-of-the-market/).

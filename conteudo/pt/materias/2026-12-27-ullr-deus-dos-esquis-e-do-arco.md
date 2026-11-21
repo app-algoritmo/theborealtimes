@@ -45,4 +45,4 @@ Há estudiosos que veem em Ullr um deus antigo, cuja importância declinou antes
 
 Hoje o deus virou padroeiro de esquiadores, com medalhões e até uma semana de festa em Breckenridge, nos Estados Unidos, desde 1963. Isso é recepção moderna e não tem a ver com as fontes antigas.
 
-Para deslizar pelo gelo, sem poder parar no meio do caminho, até chegar ao marco em poucos movimentos, jogue [O gelo de Ullr](/jogo-o-gelo-de-ullr/).
+Para deslizar pelo gelo, sem poder parar no meio do caminho, até chegar ao marco em poucos movimentos, jogue [O gelo de Ullr](/pt/jogo-o-gelo-de-ullr/).

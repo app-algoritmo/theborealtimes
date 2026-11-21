@@ -23,4 +23,4 @@ Gjetere krysser marken, noen til fots og noen til hest. Trykk bare på dem som r
 
 ## Historien bak
 
-I sagaen om Hrafnkel sverger høvdingen å drepe den som rir Frøyfaks og holder eden mot en gjeter, noe som fører til fallet hans. Spillet er en forenkling. Les historien i [Hrafnkel og Frøyfaks: hesten ingen fikk ri og høvdingen som mistet gudene sine](/no/2026/11/15/hrafnkell-cavalo-freyfaxi/).
+I sagaen om Hrafnkel sverger høvdingen å drepe den som rir Frøyfaks og holder eden mot en gjeter, noe som fører til fallet hans. Spillet er en forenkling. Les historien i [Hrafnkel og Frøyfaks: hesten ingen fikk ri og høvdingen som mistet gudene sine](/no/hrafnkel-og-froyfaks-hesten-ingen-fikk-ri-og-hovdingen/).

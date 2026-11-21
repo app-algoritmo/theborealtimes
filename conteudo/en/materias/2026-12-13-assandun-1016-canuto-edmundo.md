@@ -39,4 +39,4 @@ On 18 October 1032, a church was consecrated at Assandun to commemorate the batt
 
 For the Danes, the victory was the last step before ruling England, and Cnut later became king of Denmark and Norway as well. For the English, the battle showed how division among nobles could cost a kingdom. The open points, such as the exact place and Eadric's motives, remain under discussion.
 
-To find, by trial, the hidden groups of warriors in a six-by-six field, before the shots run out, play [The field of Assandun](/en/game-the-field-of-assandun/).
+To find, by trial, the hidden groups of warriors in a six-by-six field, before the shots run out, play [The field of Assandun](/game-the-field-of-assandun/).

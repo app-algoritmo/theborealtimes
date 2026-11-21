@@ -45,4 +45,4 @@ Bjarni Herjólfsson, em 986, errou o rumo à Groenlândia, avistou três terras 
 
 A saga foi escrita séculos depois dos fatos, e a data de 985 ou 986 e a identificação das três terras são interpretações. A proposta de Oleson é apenas uma entre outras, e o relato do caminho, sem mapas nem instrumentos, não permite reconstruir a rota. Também é possível que o relato sobre Bjarni sirva, na saga, para explicar de onde Leif tirou a ideia da sua viagem, e não como lembrança fiel de uma viagem real.
 
-Para manter o navio no rumo até a Groenlândia, sem bússola, jogue [Sem bússola](/jogo-sem-bussola/).
+Para manter o navio no rumo até a Groenlândia, sem bússola, jogue [Sem bússola](/pt/jogo-sem-bussola/).

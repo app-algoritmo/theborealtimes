@@ -23,4 +23,4 @@ Trykk over, under eller ved siden av figuren din for å ta et steg (eller bruk p
 
 ## Historien bak
 
-I Kalevala er Louhi herskerinnen i Pohjola, kuldens og nattens land. Bygefeltet er diktet opp. Les historien i [Louhi stjeler sola og månen: den kaldeste episoden i Kalevala](/no/2026/12/06/louhi-rouba-sol-e-lua-kalevala/).
+I Kalevala er Louhi herskerinnen i Pohjola, kuldens og nattens land. Bygefeltet er diktet opp. Les historien i [Louhi stjeler sola og månen: den kaldeste episoden i Kalevala](/no/louhi-stjeler-sola-og-manen-den-kaldeste-episoden-i-kalevala/).

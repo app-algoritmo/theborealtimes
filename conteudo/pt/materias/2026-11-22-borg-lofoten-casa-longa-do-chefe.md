@@ -35,4 +35,4 @@ Perto do sítio, o Museu Viking de Lofotr abriu as portas em 1995, com uma recon
 
 O que Borg mostra, em resumo, é que o extremo norte não ficava à margem do mundo viking, e que um salão de oitenta metros dava ao seu dono um poder visível a quilômetros.
 
-Para repartir, casa por casa, os grãos da colheita do chefe pelos depósitos do grande salão, jogue [Os grãos do chefe](/jogo-os-graos-do-chefe/).
+Para repartir, casa por casa, os grãos da colheita do chefe pelos depósitos do grande salão, jogue [Os grãos do chefe](/pt/jogo-os-graos-do-chefe/).

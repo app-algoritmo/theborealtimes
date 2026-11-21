@@ -41,4 +41,4 @@ Há muitas perguntas sem resposta. Quem eram os mortos? Que língua falavam? O n
 
 O que se pode afirmar é que Salme ampliou a imagem que tínhamos do período anterior à Era Viking. Mostrou navios grandes, guerreiros bem armados e contatos entre a Suécia e a costa leste do Báltico, tudo isso em torno de 750.
 
-Para alinhar três peças iguais, como espadas, lanças e escudos, e esvaziar o tabuleiro de achados do sítio, jogue [Os achados de Salme](/jogo-os-achados-de-salme/).
+Para alinhar três peças iguais, como espadas, lanças e escudos, e esvaziar o tabuleiro de achados do sítio, jogue [Os achados de Salme](/pt/jogo-os-achados-de-salme/).

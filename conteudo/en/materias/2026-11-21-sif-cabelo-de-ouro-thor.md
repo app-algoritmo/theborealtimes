@@ -37,4 +37,4 @@ The hypothesis is attractive, but it is a hypothesis. It is worth remembering th
 
 It is also useful to remember that the surviving sources are few and come from the 13th century. Much may have been lost before then, and there may have been stories about Sif that were never written down. For this reason, researchers avoid strong claims and prefer to speak of what the text says, and not of what the text might have said.
 
-To remake, piece by piece, the golden hair of Sif, play [Sif's hair](/en/game-sifs-hair/).
+To remake, piece by piece, the golden hair of Sif, play [Sif's hair](/game-sifs-hair/).

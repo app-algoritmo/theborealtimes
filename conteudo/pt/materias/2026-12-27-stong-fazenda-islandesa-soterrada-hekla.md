@@ -41,4 +41,4 @@ A casa reconstruída, a Þjóðveldisbærinn, foi erguida de 1974 a 1977 para ma
 
 Os textos mostram uma fazenda de chefes, com salão de fogo longo, despensa e forja, e uma réplica que é uma hipótese de arquitetos. A data exata do soterramento e a duração da ocupação são pontos em que as fontes divergem.
 
-Para cortar blocos de turfa de um retângulo, sem ficar com o último bloco, jogue [Os blocos de turfa](/jogo-os-blocos-de-turfa/).
+Para cortar blocos de turfa de um retângulo, sem ficar com o último bloco, jogue [Os blocos de turfa](/pt/jogo-os-blocos-de-turfa/).

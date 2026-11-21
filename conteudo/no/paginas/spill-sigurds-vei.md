@@ -23,4 +23,4 @@ Trykk på en tom rute for å sette en gyllen stein. Knytt venstre kant til høyr
 
 ## Historien bak
 
-Ifølge sagaene krysset kong Sigurd Europa til Jerusalem. Spillet om å knytte kanter er diktet opp. Les historien i [Sigurd Jorsalfar: kongen som krysset Europa, herjet ved Lisboa og nådde Jerusalem](/no/2026/11/22/sigurd-jorsalfar-cruzada-lisboa-1108/).
+Ifølge sagaene krysset kong Sigurd Europa til Jerusalem. Spillet om å knytte kanter er diktet opp. Les historien i [Sigurd Jorsalfar: kongen som krysset Europa, herjet ved Lisboa og nådde Jerusalem](/no/sigurd-jorsalfar-kongen-som-krysset-europa-herjet-ved/).

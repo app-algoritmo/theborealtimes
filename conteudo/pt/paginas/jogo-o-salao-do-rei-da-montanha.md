@@ -23,4 +23,4 @@ Peer corre pelo salão. Deslize para o lado (ou toque na metade esquerda/direita
 
 ## A história por trás
 
-Em Peer Gynt, de Ibsen, o Rei da Montanha (Dovregubben) leva Peer ao seu salão de trolls. A corrida pelo salão é invenção. Leia a história em [Peer Gynt e o Rei da Montanha: do conto popular ao palco de Ibsen](/2026/11/29/peer-gynt-dovregubben-asbjornsen-ibsen/).
+Em Peer Gynt, de Ibsen, o Rei da Montanha (Dovregubben) leva Peer ao seu salão de trolls. A corrida pelo salão é invenção. Leia a história em [Peer Gynt e o Rei da Montanha: do conto popular ao palco de Ibsen](/pt/peer-gynt-dovregubben-asbjornsen-ibsen/).

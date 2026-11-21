@@ -23,4 +23,4 @@ The shadow of the disc shows where the ship points. Keep the shadow on the north
 
 ## The story behind it
 
-At Uunartoq, in Greenland, a fragment of a wooden disc was found that, according to one hypothesis, was a sun compass. The game is invented. Read the story in [Uunartoq: the wooden disc found in Greenland and the idea of the sun compass](/en/2027/03/07/uunartoq-o-disco-de-madeira-achado-na-groenlandia-e-a-ideia-da-bussola-de-sol/).
+At Uunartoq, in Greenland, a fragment of a wooden disc was found that, according to one hypothesis, was a sun compass. The game is invented. Read the story in [Uunartoq: the wooden disc found in Greenland and the idea of the sun compass](/uunartoq-the-wooden-disc-found-in-greenland-and-the-idea/).

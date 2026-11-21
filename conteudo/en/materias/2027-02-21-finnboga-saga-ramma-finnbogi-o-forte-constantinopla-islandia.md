@@ -56,4 +56,4 @@ An *epithet* is a nickname that accompanies a name. *Jarl* is a Nordic title of 
 
 The saga was written centuries after the facts it narrates, and the sources do not say whether Finnbogi existed. The exact link with the Vatnsdæla saga is debated, and opinions differ. The number of manuscripts and the dates are approximate. The details of the disputes in Iceland appear in summary form, and what is affirmed here is the general plot.
 
-To land the blow when the marker is in the golden zone, like a hero who deserves the epithet, play [Finnbogi’s strength](/en/game-finnbogis-strength/).
+To land the blow when the marker is in the golden zone, like a hero who deserves the epithet, play [Finnbogi’s strength](/game-finnbogis-strength/).

@@ -23,4 +23,4 @@ Drag your finger (or mouse) over the knots in the hair to untangle them. When th
 
 ## The story behind it
 
-According to Snorri Sturluson’s Heimskringla, Harald swore not to cut or comb his hair until he ruled Norway; after Hafrsfjord, Rögnvald combed it and he got his nickname. Historians treat the scene with caution, and the game simplifies it. Read the story in [Harald Fairhair: the king who swore not to cut his hair until he united Norway](/en/2026/11/12/harald-cabelo-belo-hafrsfjord/).
+According to Snorri Sturluson’s Heimskringla, Harald swore not to cut or comb his hair until he ruled Norway; after Hafrsfjord, Rögnvald combed it and he got his nickname. Historians treat the scene with caution, and the game simplifies it. Read the story in [Harald Fairhair: the king who swore not to cut his hair until he united Norway](/harald-fairhair-the-king-who-swore-not-to-cut-his-hair/).

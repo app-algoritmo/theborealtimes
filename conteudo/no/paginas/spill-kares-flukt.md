@@ -23,4 +23,4 @@ Trykk, eller bruk mellomromstasten, for å hoppe over flammene; hold inne for å
 
 ## Historien bak
 
-I Njåls saga settes Njåls gård på Bergtorshvol i brann, og Kåre slipper unna langs de brennende bjelkene og kaster seg i en bekk. Spillet er en forenkling. Les historien i [Njålsbrenna: hevnen i den islandske sagaen der et helt hus ble satt i brann](/no/2026/11/14/njal-queima-bergthorshvoll/).
+I Njåls saga settes Njåls gård på Bergtorshvol i brann, og Kåre slipper unna langs de brennende bjelkene og kaster seg i en bekk. Spillet er en forenkling. Les historien i [Njålsbrenna: hevnen i den islandske sagaen der et helt hus ble satt i brann](/no/njalsbrenna-hevnen-i-den-islandske-sagaen-der-et-helt-hus/).

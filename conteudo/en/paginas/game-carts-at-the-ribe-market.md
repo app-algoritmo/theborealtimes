@@ -23,4 +23,4 @@ The street is jammed with carts. Drag each cart along its length (or tap it and 
 
 ## The story behind it
 
-Excavations at Ribe show an active market from the early 8th century. The carts in the game are made up. Read the story in [Ribe: the Danish market town that existed before the age of Viking raids](/en/2026/11/20/ribe-cidade-mercado-dinamarca/).
+Excavations at Ribe show an active market from the early 8th century. The carts in the game are made up. Read the story in [Ribe: the Danish market town that existed before the age of Viking raids](/ribe-the-danish-market-town-that-existed-before-the-age/).

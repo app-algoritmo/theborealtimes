@@ -23,4 +23,4 @@ A plank slides back and forth above. Tap (or press the space bar) to drop it on 
 
 ## The story behind it
 
-In the Laxdæla saga, Aud the Deep-Minded founds a farm in Iceland. The building by stacked planks is made up. Read the story in [Aud the Deep-Minded: the widow who built a ship in secret and settled part of Iceland](/en/2026/12/13/aud-a-profunda-laxdaela-islandia/).
+In the Laxdæla saga, Aud the Deep-Minded founds a farm in Iceland. The building by stacked planks is made up. Read the story in [Aud the Deep-Minded: the widow who built a ship in secret and settled part of Iceland](/aud-the-deep-minded-the-widow-who-built-a-ship-in-secret/).

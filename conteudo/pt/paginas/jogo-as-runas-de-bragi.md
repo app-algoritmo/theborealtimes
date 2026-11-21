@@ -23,4 +23,4 @@ Preencha a grade de 4 por 4 com quatro runas, sem repetir nenhuma em cada linha,
 
 ## A história por trás
 
-Na Sigrdrífumál, runas são gravadas em várias coisas, entre elas a língua de Bragi, deus da poesia. A grade é invenção. Leia a história em [Bragi, o deus da poesia: o que as Eddas e os poemas de corte dizem sobre ele](/2027/01/10/bragi-deus-da-poesia-eddas-skaldico/).
+Na Sigrdrífumál, runas são gravadas em várias coisas, entre elas a língua de Bragi, deus da poesia. A grade é invenção. Leia a história em [Bragi, o deus da poesia: o que as Eddas e os poemas de corte dizem sobre ele](/pt/bragi-deus-da-poesia-eddas-skaldico/).

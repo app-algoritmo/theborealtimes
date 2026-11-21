@@ -23,4 +23,4 @@ Mens månen skinner, lyser Glåms øyne og lammer: ikke angrip. Når skyene dekk
 
 ## Historien bak
 
-I Grettes saga har Glåm et blikk som lammer av redsel, og kampen skjer en måneskinnsnatt mellom skyer. Spillmekanikken er diktet opp. Les historien i [Grettir og den vandøde Glám: sagaen der månen avslører et spøkelses øyne](/no/2026/11/14/grettir-glamr/).
+I Grettes saga har Glåm et blikk som lammer av redsel, og kampen skjer en måneskinnsnatt mellom skyer. Spillmekanikken er diktet opp. Les historien i [Grettir og den vandøde Glám: sagaen der månen avslører et spøkelses øyne](/no/grettir-og-den-vandode-glam-sagaen-der-manen-avslorer/).

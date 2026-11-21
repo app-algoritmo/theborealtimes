@@ -23,4 +23,4 @@ Mead flows endlessly from the udder of the goat Heiðrún. You have two unmarked
 
 ## The story behind it
 
-In the Grímnismál and the Gylfaginning, the goat Heiðrún stands on Valhalla, eats the leaves of the tree Læraðr, and every day mead runs from her, enough to make all the einherjar fully drunk. The vessels and the measures are invented. Read the story in [Heiðrún, the goat of Valhalla whose mead serves all the einherjar](/en/2027/01/24/heidrun-cabra-valhalla-hidromel-laeradr/).
+In the Grímnismál and the Gylfaginning, the goat Heiðrún stands on Valhalla, eats the leaves of the tree Læraðr, and every day mead runs from her, enough to make all the einherjar fully drunk. The vessels and the measures are invented. Read the story in [Heiðrún, the goat of Valhalla whose mead serves all the einherjar](/heidrun-the-goat-of-valhalla-whose-mead-serves-all/).

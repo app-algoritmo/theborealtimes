@@ -23,4 +23,4 @@ Arraste o dedo ou o mouse (ou use as setas) para mover o navio. Gelo e rochas ti
 
 ## A história por trás
 
-As sagas islandesas dizem que Leif Eriksson, saindo da Groenlândia, encontrou três terras: Helluland, a "terra das pedras planas", Markland, a "terra da floresta", e Vinland. A rota, o gelo e os barris do jogo são invenção para jogar. Leia o que as sagas contam e o que a arqueologia mostra em [Leif Eriksson e a Vinlândia: o que as sagas contam e o que a arqueologia mostra](/2026/11/12/leif-eriksson-vinlandia-sagas-arqueologia/).
+As sagas islandesas dizem que Leif Eriksson, saindo da Groenlândia, encontrou três terras: Helluland, a "terra das pedras planas", Markland, a "terra da floresta", e Vinland. A rota, o gelo e os barris do jogo são invenção para jogar. Leia o que as sagas contam e o que a arqueologia mostra em [Leif Eriksson e a Vinlândia: o que as sagas contam e o que a arqueologia mostra](/pt/leif-eriksson-vinlandia-sagas-arqueologia/).

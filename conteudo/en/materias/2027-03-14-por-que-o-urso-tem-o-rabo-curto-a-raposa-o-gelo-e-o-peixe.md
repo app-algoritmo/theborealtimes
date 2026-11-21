@@ -49,4 +49,4 @@ A *tale type* is a pattern catalogued by folklorists. An *etiological tale* expl
 
 The tale does not say where or when it takes place, and the same plot exists with other animals in other countries. It is not known which version is the oldest.
 
-To put the tail in the hole and pull at the moment the water bubbles, play [Fishing through the ice](/en/game-fishing-through-the-ice/).
+To put the tail in the hole and pull at the moment the water bubbles, play [Fishing through the ice](/game-fishing-through-the-ice/).

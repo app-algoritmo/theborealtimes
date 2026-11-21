@@ -23,4 +23,4 @@ Hold your finger (or the space bar) to pour porridge into the hidden bag. When t
 
 ## The story behind it
 
-In the tale collected by Asbjørnsen and Moe, Askeladden tricks the troll with cunning, and versions of the eating contest vary. The game mechanic is made up. Read the story in [Askeladden and the troll: the Norwegian tale of the boy who squeezed the stone](/en/2026/11/13/askeladden-troll/).
+In the tale collected by Asbjørnsen and Moe, Askeladden tricks the troll with cunning, and versions of the eating contest vary. The game mechanic is made up. Read the story in [Askeladden and the troll: the Norwegian tale of the boy who squeezed the stone](/askeladden-and-the-troll-the-norwegian-tale-of-the-boy/).

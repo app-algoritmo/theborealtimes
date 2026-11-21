@@ -23,4 +23,4 @@ Máni conduz a Lua, e Hjúki e Bil a seguem. Cinco luas estão em fila, e a últ
 
 ## A história por trás
 
-Na Edda em prosa, Snorri diz que Hjúki e Bil seguem a Lua e que Máni conduz o seu crescer e o seu minguar. A fila de fases do jogo é invenção. Leia a história em [Hjúki e Bil: as crianças que seguem a Lua carregando um balde na Edda](/2027/03/28/hjuki-e-bil-as-criancas-que-seguem-a-lua-carregando-um-balde-na-edda/).
+Na Edda em prosa, Snorri diz que Hjúki e Bil seguem a Lua e que Máni conduz o seu crescer e o seu minguar. A fila de fases do jogo é invenção. Leia a história em [Hjúki e Bil: as crianças que seguem a Lua carregando um balde na Edda](/pt/hjuki-e-bil-as-criancas-que-seguem-a-lua-carregando-um-balde-na-edda/).

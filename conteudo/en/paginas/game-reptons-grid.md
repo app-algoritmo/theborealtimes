@@ -23,4 +23,4 @@ Fill every row, column and 2×2 square with the numbers 1 to 4, without repeats.
 
 ## The story behind it
 
-At Repton (Derbyshire), the Great Army wintered in 873–874. The number grid in the game is made up. Read the story in [Repton, 873: the winter camp of the Great Army](/en/2026/11/29/repton-873-acampamento-de-inverno-vikings/).
+At Repton (Derbyshire), the Great Army wintered in 873–874. The number grid in the game is made up. Read the story in [Repton, 873: the winter camp of the Great Army](/repton-873-the-winter-camp-of-the-great-army/).

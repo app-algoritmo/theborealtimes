@@ -23,4 +23,4 @@ You stand on the ice and, when you move, you slide in a straight line until you 
 
 ## The story behind it
 
-In Bárðar saga Snæfellsáss, Helga is pushed out to sea on a block of ice and ends up in Greenland. Bárðr vanishes into the Snæfellsjökull glacier and comes to be remembered as a guardian spirit of the peninsula. Sliding on ice is invented. Read the story in [Bárðar saga Snæfellsáss: the guardian of the glacier, the drifting ice and the story of his son Gestr](/en/2027/02/07/bardar-saga-snaefellsass-snaefellsjokull-gestr/).
+In Bárðar saga Snæfellsáss, Helga is pushed out to sea on a block of ice and ends up in Greenland. Bárðr vanishes into the Snæfellsjökull glacier and comes to be remembered as a guardian spirit of the peninsula. Sliding on ice is invented. Read the story in [Bárðar saga Snæfellsáss: the guardian of the glacier, the drifting ice and the story of his son Gestr](/bardar-saga-snaefellsass-the-guardian-of-the-glacier/).

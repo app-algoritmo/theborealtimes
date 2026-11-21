@@ -43,4 +43,4 @@ The Jorvik Viking Centre, opened in 1984, rebuilt the Coppergate street on the b
 
 The finds also show ties with distant regions: amber working, fragments of silk and coins minted in the city itself with the names of Norse kings. York was connected to a trade network that reached far beyond the North Sea. Such preservation is rare, which is why Coppergate matters so much for the study of everyday urban life.
 
-To dig carefully, avoiding the fragile layers, play [The layers of Jórvík](/en/game-the-layers-of-jorvik/).
+To dig carefully, avoiding the fragile layers, play [The layers of Jórvík](/game-the-layers-of-jorvik/).

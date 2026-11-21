@@ -23,4 +23,4 @@ Divida o campo em retângulos. Cada retângulo deve conter exatamente um número
 
 ## A história por trás
 
-A Víga-Glúms saga se passa no Eyjafjörður, no norte da Islândia, onde Glúmr Eyjólfsson vive em Þverá; um dos campos que aparecem na história se chama Vitazgjafi. Dividir o campo em retângulos é invenção. Leia a história em [Víga-Glúms saga: o chefe de Eyjafjörður, o campo Vitazgjafi e o culto de Freyr](/2027/01/31/viga-glums-saga-eyjafjordur-campo-vitazgjafi/).
+A Víga-Glúms saga se passa no Eyjafjörður, no norte da Islândia, onde Glúmr Eyjólfsson vive em Þverá; um dos campos que aparecem na história se chama Vitazgjafi. Dividir o campo em retângulos é invenção. Leia a história em [Víga-Glúms saga: o chefe de Eyjafjörður, o campo Vitazgjafi e o culto de Freyr](/pt/viga-glums-saga-eyjafjordur-campo-vitazgjafi/).

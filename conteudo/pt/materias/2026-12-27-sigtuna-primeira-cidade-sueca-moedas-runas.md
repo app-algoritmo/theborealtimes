@@ -45,4 +45,4 @@ Um estudo de cerca de 38 pessoas enterradas em seis cemitérios cristãos, com D
 
 A fonte consultada diz que, em 1187, invasores vindos do Báltico saquearam a cidade, mas as escavações não verificaram a destruição. No século XIII, a cidade perdeu importância, em parte porque o solo subia e a navegação ficou difícil.
 
-Para separar o que chega à oficina, mandando cada peça para a esquerda ou para a direita, jogue [A oficina de Sigtuna](/jogo-a-oficina-de-sigtuna/).
+Para separar o que chega à oficina, mandando cada peça para a esquerda ou para a direita, jogue [A oficina de Sigtuna](/pt/jogo-a-oficina-de-sigtuna/).

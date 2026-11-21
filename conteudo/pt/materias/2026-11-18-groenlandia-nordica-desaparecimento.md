@@ -45,4 +45,4 @@ Hoje, a arqueologia mostra um povo que se adaptou por muito tempo a um lugar dif
 
 Brattahlíð, a fazenda de Eirik, e Garðar, sede do bispo, estão entre os sítios mais estudados. Em Garðar restam as ruínas de uma catedral. Em Herjolfsnes, escavações de 1921 acharam túmulos com roupas de lã conservadas pelo solo gelado, no estilo da moda europeia da Baixa Idade Média. Esses achados mostram que os groenlandeses seguiam a moda do continente, mesmo vivendo longe, e que cuidavam de seus mortos como em qualquer paróquia europeia. Escavações recentes continuam a revisar o quadro, e cada achado novo muda um pouco a pergunta de por que as fazendas ficaram vazias.
 
-Para tentar atravessar o fiorde pulando de bloco em bloco de gelo, jogue [A travessia do fiorde](/jogo-a-travessia-do-fiorde/).
+Para tentar atravessar o fiorde pulando de bloco em bloco de gelo, jogue [A travessia do fiorde](/pt/jogo-a-travessia-do-fiorde/).

@@ -23,4 +23,4 @@ Pesta, pestkjerringa, reiser fra gård til gård med kost og rive. Jenta må rø
 
 ## Historien bak
 
-I norske sagn reiser Pesta fra gård til gård med kost og rive, og i flere sagn slipper en jente unna, som i Jostedalen. Brødene som faller, feltene og rytmen i spillet er oppdiktet. Les historien i [Pesta: pestkjerringa i norsk folketro, med rive og sopelime](/no/2027/04/04/pesta-a-velha-da-peste-negra-no-folclore-noruegues-com-rastelo-e-vassoura/).
+I norske sagn reiser Pesta fra gård til gård med kost og rive, og i flere sagn slipper en jente unna, som i Jostedalen. Brødene som faller, feltene og rytmen i spillet er oppdiktet. Les historien i [Pesta: pestkjerringa i norsk folketro, med rive og sopelime](/no/pesta-pestkjerringa-i-norsk-folketro-med-rive-og-sopelime/).

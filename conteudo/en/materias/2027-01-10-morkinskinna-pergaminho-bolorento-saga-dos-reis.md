@@ -43,4 +43,4 @@ About 270 stanzas of skaldic poetry are cited in the text. The saga also include
 
 The article names no author and does not discuss authorship, and does not deal with lost leaves. Nor does it say whether the saga was longer than the copy that survives, only that it ends abruptly. Whoever reads it should remember that it is a narrative composed almost two centuries after the events it begins to tell.
 
-To merge equal parchments until only one remains, the one numbered 128, play [The parchments of Morkinskinna](/en/game-the-parchments-of-morkinskinna/).
+To merge equal parchments until only one remains, the one numbered 128, play [The parchments of Morkinskinna](/game-the-parchments-of-morkinskinna/).

@@ -23,4 +23,4 @@ Cada rodada pede uma quantia exata. Toque nas fichas para somar até chegar nela
 
 ## A história por trás
 
-O Gulating foi uma assembleia anual do oeste da Noruega, de cerca de 900 a 1300, e a Gulatingslova mais antiga é o registro mais antigo de lei norueguesa. As fichas são invenção. Leia a história em [O Gulating, a assembleia do oeste da Noruega: do ano 900 à lei escrita de Magnus Lagabøte](/2027/01/10/gulating-assembleia-lei-oeste-da-noruega/).
+O Gulating foi uma assembleia anual do oeste da Noruega, de cerca de 900 a 1300, e a Gulatingslova mais antiga é o registro mais antigo de lei norueguesa. As fichas são invenção. Leia a história em [O Gulating, a assembleia do oeste da Noruega: do ano 900 à lei escrita de Magnus Lagabøte](/pt/gulating-assembleia-lei-oeste-da-noruega/).

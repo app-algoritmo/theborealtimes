@@ -23,4 +23,4 @@ Peças descem pela esteira: moedas redondas vão para a esquerda e pentes de oss
 
 ## A história por trás
 
-Fundada por volta de 980, Sigtuna cunhou as primeiras moedas suecas. A triagem de moedas e pentes é invenção. Leia a história em [Sigtuna: a primeira cidade de verdade da Suécia, com moedas, lotes alinhados e mais de 40 pedras rúnicas](/2026/12/27/sigtuna-primeira-cidade-sueca-moedas-runas/).
+Fundada por volta de 980, Sigtuna cunhou as primeiras moedas suecas. A triagem de moedas e pentes é invenção. Leia a história em [Sigtuna: a primeira cidade de verdade da Suécia, com moedas, lotes alinhados e mais de 40 pedras rúnicas](/pt/sigtuna-primeira-cidade-sueca-moedas-runas/).

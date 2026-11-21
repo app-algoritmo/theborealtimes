@@ -23,4 +23,4 @@ Nøkken stiger opp av innsjøen mot barnet. Trykk på bokstavene N, Ø, K, K, i 
 
 ## Historien bak
 
-I norsk folketro er nøkken en vannånd som lokker folk til å drukne. I noen beretninger jager det den bort å kjenne navnet dens eller bruke jern. Bokstavspillet er diktet opp. Les historien i [Nøkken: vannvesenet som spiller fele og drukner dem som kommer nær](/no/2026/11/14/nokken-lago/).
+I norsk folketro er nøkken en vannånd som lokker folk til å drukne. I noen beretninger jager det den bort å kjenne navnet dens eller bruke jern. Bokstavspillet er diktet opp. Les historien i [Nøkken: vannvesenet som spiller fele og drukner dem som kommer nær](/no/nokken-vannvesenet-som-spiller-fele-og-drukner-dem/).

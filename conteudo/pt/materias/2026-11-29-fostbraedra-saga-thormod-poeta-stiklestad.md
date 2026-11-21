@@ -39,4 +39,4 @@ Os estudiosos observam que o gosto da saga pelo humor negro não é só enfeite.
 
 A figura de Þormóðr é literária, e há poucas informações independentes sobre ele. Isso não quer dizer que nunca existiu. Quer dizer apenas que o que sabemos vem de textos escritos muito depois, que têm interesse em contar uma boa história. Para o leitor atual, o valor da saga está justamente aí: ela mostra como os islandeses medievais imaginavam seus poetas e seus guerreiros.
 
-Para acertar, com o arco, o alvo no meio do vento, ajustando o ângulo e a força a cada flecha, jogue [O arco de Thormod](/jogo-o-arco-de-thormod/).
+Para acertar, com o arco, o alvo no meio do vento, ajustando o ângulo e a força a cada flecha, jogue [O arco de Thormod](/pt/jogo-o-arco-de-thormod/).

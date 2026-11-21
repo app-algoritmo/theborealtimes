@@ -23,4 +23,4 @@ Les hver gåte og trykk på riktig svar før tiden for spørsmålet går ut. Ha 
 
 ## Historien bak
 
-I Hervarar saga stiller Gestumblindi gåter til kong Heidrek. Gåtene i dette spillet er diktet opp for nettstedet. Les historien i [Gestumblindi: forkledde Odin utfordrer kong Heidrek med 37 gåter](/no/2026/12/13/gestumblindi-hervarar-saga-enigmas/).
+I Hervarar saga stiller Gestumblindi gåter til kong Heidrek. Gåtene i dette spillet er diktet opp for nettstedet. Les historien i [Gestumblindi: forkledde Odin utfordrer kong Heidrek med 37 gåter](/no/gestumblindi-forkledde-odin-utfordrer-kong-heidrek-med-37/).

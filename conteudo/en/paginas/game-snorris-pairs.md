@@ -23,4 +23,4 @@ Tap two cards at a time to flip them. If they show the same rune they stay open;
 
 ## The story behind it
 
-Snorri Sturluson wrote the Prose Edda around 1220. The rune cards are made up for the game. Read the story in [Snorri Sturluson: the Icelander who saved the Norse myths and died for politics](/en/2026/11/16/snorri-sturluson-edda/).
+Snorri Sturluson wrote the Prose Edda around 1220. The rune cards are made up for the game. Read the story in [Snorri Sturluson: the Icelander who saved the Norse myths and died for politics](/snorri-sturluson-the-icelander-who-saved-the-norse-myths/).

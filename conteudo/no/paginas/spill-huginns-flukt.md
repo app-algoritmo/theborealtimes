@@ -23,4 +23,4 @@ Trykk på skjermen (eller trykk mellomrom) for å slå med vingene. Fly mellom g
 
 ## Historien bak
 
-Odin har to ravner, Huginn («tanke») og Muninn («minne»), som flyr over verden hver dag og kommer tilbake med nyheter; diktet Grímnismál, i *Den eldre Edda*, nevner dem. Grenene i spillet er diktet opp. Les historien om Odin og runene i [Odin henger i ni netter i et tre for å vinne runene](/no/2026/11/12/odin-arvore-mundo-runas/).
+Odin har to ravner, Huginn («tanke») og Muninn («minne»), som flyr over verden hver dag og kommer tilbake med nyheter; diktet Grímnismál, i *Den eldre Edda*, nevner dem. Grenene i spillet er diktet opp. Les historien om Odin og runene i [Odin henger i ni netter i et tre for å vinne runene](/no/odin-henger-i-ni-netter-i-et-tre-for-a-vinne-runene/).

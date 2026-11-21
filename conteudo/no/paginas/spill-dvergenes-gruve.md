@@ -23,4 +23,4 @@ Trykk på en rute for å grave. Hvert tall sier hvor mange av naborutene som skj
 
 ## Historien bak
 
-I de norrøne kildene er dvergene smeder av gudenes smykker og våpen. Gruva og fellene er oppfunnet. Les historien i [Dvergene i Edda: mark i Ymers kjøtt, gudenes smeder og stein ved soloppgang](/no/2027/01/03/anoes-dvergar-edda-ymir-ferreiros/).
+I de norrøne kildene er dvergene smeder av gudenes smykker og våpen. Gruva og fellene er oppfunnet. Les historien i [Dvergene i Edda: mark i Ymers kjøtt, gudenes smeder og stein ved soloppgang](/no/dvergene-i-edda-mark-i-ymers-kjott-gudenes-smeder-og-stein/).

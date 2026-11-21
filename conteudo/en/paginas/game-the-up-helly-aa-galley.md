@@ -23,4 +23,4 @@ Drag each part (or choose with the arrows and press Space) to its right place in
 
 ## The story behind it
 
-At Up Helly Aa, in Lerwick, Shetland, a galley is burned every winter in a fire festival. The assembly in the game is made up. Read the story in [Up Helly Aa: the fire festival in which Shetland burns a Viking ship, and what is old and what is modern in it](/en/2026/11/18/up-helly-aa-shetland-fogo/).
+At Up Helly Aa, in Lerwick, Shetland, a galley is burned every winter in a fire festival. The assembly in the game is made up. Read the story in [Up Helly Aa: the fire festival in which Shetland burns a Viking ship, and what is old and what is modern in it](/up-helly-aa-the-fire-festival-in-which-shetland-burns/).

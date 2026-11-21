@@ -23,4 +23,4 @@ The four names show numbered, in the order of the marriages. When the numbers va
 
 ## The story behind it
 
-In the Laxdæla saga, Gudrún marries four times: to Þorvaldr, Þórðr, Bolli and Þorkell. The saga's prophetic dreams are different; the game is made up. Read the story in [Gudrún and her four husbands: the most intriguing woman of the Laxdæla saga](/en/2026/11/15/gudrun-quatro-maridos/).
+In the Laxdæla saga, Gudrún marries four times: to Þorvaldr, Þórðr, Bolli and Þorkell. The saga's prophetic dreams are different; the game is made up. Read the story in [Gudrún and her four husbands: the most intriguing woman of the Laxdæla saga](/gudrun-and-her-four-husbands-the-most-intriguing-woman/).

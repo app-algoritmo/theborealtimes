@@ -23,4 +23,4 @@ O boi pardo empurra caixas até as marcas douradas do chão. Use as setas do tec
 
 ## A história por trás
 
-Em Kari Trestakk, de Asbjørnsen e Moe, um boi pardo dá comida à menina e foge com ela da madrasta; nas florestas de cobre, prata e ouro ele luta contra um troll em cada uma, e a menina leva folhas e uma maçã de ouro. Empurrar caixas é invenção. Leia a história em [Kari Trestakk: o boi pardo, a madrasta e o sapato de ouro num conto de Asbjørnsen e Moe](/2027/01/24/kari-trestakk-boi-pardo-madrasta-asbjornsen-moe/).
+Em Kari Trestakk, de Asbjørnsen e Moe, um boi pardo dá comida à menina e foge com ela da madrasta; nas florestas de cobre, prata e ouro ele luta contra um troll em cada uma, e a menina leva folhas e uma maçã de ouro. Empurrar caixas é invenção. Leia a história em [Kari Trestakk: o boi pardo, a madrasta e o sapato de ouro num conto de Asbjørnsen e Moe](/pt/kari-trestakk-boi-pardo-madrasta-asbjornsen-moe/).

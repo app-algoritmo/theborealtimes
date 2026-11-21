@@ -48,4 +48,4 @@ At the Law Rock, Thorstein declares that the forests are worth nothing and order
 
 The tale survives in the manuscript Möðruvallabók, from the fourteenth century, which calls it *Ǫlkofra saga*, and today it is preferred to call it a *þáttr*, a short tale. The page consulted gives no date of composition. The link between Ölkofri's trade and barley grown in Iceland is a suggestion by scholars.
 
-To put out the sparks before they reach the forest, play [The sparks in the forest](/en/game-the-sparks-in-the-forest/).
+To put out the sparks before they reach the forest, play [The sparks in the forest](/game-the-sparks-in-the-forest/).

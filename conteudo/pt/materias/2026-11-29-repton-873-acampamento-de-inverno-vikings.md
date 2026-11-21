@@ -39,4 +39,4 @@ Do lado, havia uma sepultura individual de um homem forte, com mais de um metro 
 
 O sítio mostra que o Grande Exército era uma organização capaz de construir defesas, controlar uma região e instalar um rei de sua escolha. Também mostra os limites da arqueologia: os mortos não dizem quem eram, e cada hipótese deve ser tratada com cautela.
 
-Para posicionar, numa grade de quatro por quatro, cada tipo de tropa uma única vez em cada fila e coluna do acampamento, jogue [A grade de Repton](/jogo-a-grade-de-repton/).
+Para posicionar, numa grade de quatro por quatro, cada tipo de tropa uma única vez em cada fila e coluna do acampamento, jogue [A grade de Repton](/pt/jogo-a-grade-de-repton/).

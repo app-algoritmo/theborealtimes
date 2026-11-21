@@ -33,4 +33,4 @@ One of the best-known stones, that of Ardre, shows the legend of Völund, the sm
 
 The stones of Gotland are a reminder that not every record of the Viking Age was written. The sailing ships, in particular, interest scholars because they show how Gotlanders saw the sea. But care is needed in drawing conclusions: a single stone, poorly preserved and restored several times, is a fragile source. That is why researchers compare many stones, excavations and texts before proposing a reading.
 
-To paint a whole stone in a single colour, changing the colour of the patch from the corner, in a few moves, play [The Gotland picture](/en/game-the-gotland-picture/).
+To paint a whole stone in a single colour, changing the colour of the patch from the corner, in a few moves, play [The Gotland picture](/game-the-gotland-picture/).

@@ -41,4 +41,4 @@ Mais de um século e meio depois do tratado, em 1066, Guilherme, duque da Norman
 
 O acordo tinha lógica para os dois lados. O rei franco, fraco diante de nobres poderosos, ganhava um aliado que bloqueava o rio a outros bandos. Rollo ganhava terras e legitimidade. O território inicial era pequeno, em torno de Rouen, e foi ampliado pelos sucessores: por volta de 933, o filho de Rollo, Guilherme Espada Longa, recebeu regiões a oeste, como o Cotentin e o Avranchin. A Normandia, portanto, foi crescendo em etapas, e não nasceu pronta em 911.
 
-Para ajudar o rio a chegar de novo ao mar, ligando as peças do Sena até Rouen, jogue [O curso do Sena](/jogo-o-curso-do-sena/).
+Para ajudar o rio a chegar de novo ao mar, ligando as peças do Sena até Rouen, jogue [O curso do Sena](/pt/jogo-o-curso-do-sena/).

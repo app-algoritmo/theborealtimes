@@ -35,4 +35,4 @@ Na época, a lei inglesa dava ao Estado o direito sobre tesouros achados. O teso
 
 Para quem estuda a economia viking, Cuerdale mostra que a prata circulava por peso. Moedas, joias e barras podiam ser cortadas para formar a quantia desejada. Também mostra a mistura de origens: dinheiro inglês, franco e islâmico estava na mesma caixa, resultado das rotas de comércio e saque que ligavam o mar do Norte ao Oriente. Mas há limites: o tesouro é um achado único, e não dá para tirar dele, sozinho, um retrato do mundo viking.
 
-Para separar as moedas do tesouro por origem, guardando só uma origem em cada pilha, jogue [O tesouro de Cuerdale](/jogo-o-tesouro-de-cuerdale/).
+Para separar as moedas do tesouro por origem, guardando só uma origem em cada pilha, jogue [O tesouro de Cuerdale](/pt/jogo-o-tesouro-de-cuerdale/).

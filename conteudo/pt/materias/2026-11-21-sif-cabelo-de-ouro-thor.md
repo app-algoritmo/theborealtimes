@@ -37,4 +37,4 @@ A hipótese é atraente, mas é uma hipótese. Convém lembrar que as fontes nã
 
 Também é útil lembrar que as fontes que sobreviveram são poucas e vieram do século XIII. Muita coisa pode ter se perdido antes, e talvez houvesse histórias sobre Sif que nunca foram escritas. Por isso, os pesquisadores evitam afirmações fortes e preferem falar do que o texto diz, e não do que o texto poderia ter dito.
 
-Para refazer, peça por peça, os cabelos de ouro de Sif, jogue [Os cabelos de Sif](/jogo-os-cabelos-de-sif/).
+Para refazer, peça por peça, os cabelos de ouro de Sif, jogue [Os cabelos de Sif](/pt/jogo-os-cabelos-de-sif/).

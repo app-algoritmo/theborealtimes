@@ -39,4 +39,4 @@ Hrungnir arremessou a pedra de amolar. As duas armas se encontraram no ar. O mar
 
 O episódio é muito citado porque Snorri se apoia num poema escaldo, o *Haustlöng*, de Þjóðólfr de Hvin, do fim do século IX ou do século X, que descreve cenas pintadas num escudo. Isso sugere que a lenda circulava havia séculos antes de ser escrita na *Edda*. Os detalhes, como o gigante de argila, aparecem apenas em Snorri, e os estudiosos não sabem se são antigos.
 
-Para ajudar Thor a quebrar os cacos de pedra antes que eles caiam, jogue [Os cacos de Hrungnir](/jogo-os-cacos-de-hrungnir/).
+Para ajudar Thor a quebrar os cacos de pedra antes que eles caiam, jogue [Os cacos de Hrungnir](/pt/jogo-os-cacos-de-hrungnir/).

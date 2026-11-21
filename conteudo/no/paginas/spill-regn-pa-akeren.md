@@ -23,4 +23,4 @@ Ukko driver over åkrene på en tordensky. Trykk på skjermen, eller trykk mello
 
 ## Historien bak
 
-I 1551 skrev reformatoren Mikael Agricola ned dyrkingen av Ukko, gud for torden og vær, og vårfesten med karet, Ukon vakat. Skyen du styrer er oppfunnet. Les historien i [Ukko: den finske tordenguden og karfesten som ba om regn](/no/2027/03/14/ukko-deus-do-trovao-finlandes-e-a-festa-da-vasilha-para-pedir-chuva/).
+I 1551 skrev reformatoren Mikael Agricola ned dyrkingen av Ukko, gud for torden og vær, og vårfesten med karet, Ukon vakat. Skyen du styrer er oppfunnet. Les historien i [Ukko: den finske tordenguden og karfesten som ba om regn](/no/ukko-den-finske-tordenguden-og-karfesten-som-ba-om-regn/).

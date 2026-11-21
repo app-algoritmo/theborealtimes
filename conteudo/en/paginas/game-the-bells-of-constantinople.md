@@ -23,4 +23,4 @@ The four bells ring in an order. When they finish, tap the bells in the same ord
 
 ## The story behind it
 
-In 860 the Rus attacked Constantinople. The bells and the sequences are made up for the game. Read the story in [Constantinople, 860: the Rus attack the city and Patriarch Photios speaks of "a thunderbolt from heaven"](/en/2026/12/13/constantinopla-860-rus-focio/).
+In 860 the Rus attacked Constantinople. The bells and the sequences are made up for the game. Read the story in [Constantinople, 860: the Rus attack the city and Patriarch Photios speaks of "a thunderbolt from heaven"](/constantinople-860-the-rus-attack-the-city-and-patriarch/).

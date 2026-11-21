@@ -23,4 +23,4 @@ You command the light pieces. Tap a marked square to place a piece: every dark p
 
 ## The story behind it
 
-In 937, at the battle of Brunanburh, King Æthelstan defeated an alliance of Norse, Scots and Britons. The board is made up for the game. Read the story in [Brunanburh, 937: the battle where an English king faced Vikings, Scots and Britons](/en/2026/11/20/brunanburh-937-athelstan/).
+In 937, at the battle of Brunanburh, King Æthelstan defeated an alliance of Norse, Scots and Britons. The board is made up for the game. Read the story in [Brunanburh, 937: the battle where an English king faced Vikings, Scots and Britons](/brunanburh-937-the-battle-where-an-english-king-faced/).

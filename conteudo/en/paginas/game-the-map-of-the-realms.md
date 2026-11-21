@@ -23,4 +23,4 @@ The map is divided into realms. Tap a realm to paint it: each tap changes the co
 
 ## The story behind it
 
-The Knýtlinga saga, written around 1250, tells the story of the kings of Denmark from Harald Bluetooth to the end of the 12th century. Colouring maps is invented. Read the story in [Knýtlinga saga: the kings of Denmark from Harald Bluetooth to the 12th century, written in Iceland](/en/2027/01/31/knytlinga-saga-reis-da-dinamarca-harald-valdemar/).
+The Knýtlinga saga, written around 1250, tells the story of the kings of Denmark from Harald Bluetooth to the end of the 12th century. Colouring maps is invented. Read the story in [Knýtlinga saga: the kings of Denmark from Harald Bluetooth to the 12th century, written in Iceland](/knytlinga-saga-the-kings-of-denmark-from-harald-bluetooth/).

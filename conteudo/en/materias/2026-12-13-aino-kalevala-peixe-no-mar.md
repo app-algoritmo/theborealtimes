@@ -39,4 +39,4 @@ The Kalevala is not an ancient text by a single hand. Lönnrot gathered and arra
 
 Aino's story is one of the first in the *Kalevala* to deal with a woman who refuses to obey the adults, and the price of that gesture is high. It has been read in many ways: as a tale of refusal, as national allegory, as family tragedy. The sea and the fish make her a figure of the border, between the human world and that of the waters.
 
-To jump, from stone to stone, across a board of fifteen stones on the lake, until only one is left, play [The stones of the lake](/en/game-the-stones-of-the-lake/).
+To jump, from stone to stone, across a board of fifteen stones on the lake, until only one is left, play [The stones of the lake](/game-the-stones-of-the-lake/).

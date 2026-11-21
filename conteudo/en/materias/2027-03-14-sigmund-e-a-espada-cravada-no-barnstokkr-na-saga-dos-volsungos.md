@@ -45,4 +45,4 @@ A one-eyed old man, who is Odin, thrusts a sword into the trunk in the hall. Onl
 
 The saga was written centuries after the events it tells, and the scene is legend, not history. The meaning of the name Barnstokkr is a hypothesis, and the identification with Yggdrasil is a scholars' proposal, not something the text says.
 
-To pull the sword from the trunk, alternating both hands, play [The sword in the trunk](/en/game-the-sword-in-the-trunk/).
+To pull the sword from the trunk, alternating both hands, play [The sword in the trunk](/game-the-sword-in-the-trunk/).

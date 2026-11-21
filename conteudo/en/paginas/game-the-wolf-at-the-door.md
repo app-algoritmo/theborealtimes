@@ -23,4 +23,4 @@ The ram and the pig built a house in the forest with the goose, the hare and the
 
 ## The story behind it
 
-In the tale by Asbjørnsen and Moe, the ram, the pig, the goose, the hare and the rooster build a house in the forest and drive off two wolves, each in his own way. The wolves arriving in a line and the rhythm of the game are invention. Read the story in [The sheep and the pig who set up house in the forest: an Asbjørnsen and Moe tale and the wolves](/en/2027/04/04/o-carneiro-e-o-porco-que-foram-morar-na-floresta-conto-de-asbjornsen-e-moe-e-os-lobos/).
+In the tale by Asbjørnsen and Moe, the ram, the pig, the goose, the hare and the rooster build a house in the forest and drive off two wolves, each in his own way. The wolves arriving in a line and the rhythm of the game are invention. Read the story in [The sheep and the pig who set up house in the forest: an Asbjørnsen and Moe tale and the wolves](/the-sheep-and-the-pig-who-set-up-house-in-the-forest/).

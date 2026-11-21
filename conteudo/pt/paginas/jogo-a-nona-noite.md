@@ -23,4 +23,4 @@ O anel Draupnir só solta seus oito anéis a cada nona noite. Veja a contagem da
 
 ## A história por trás
 
-Na Edda em prosa, Snorri diz que a cada nona noite caem de Draupnir oito anéis de ouro do mesmo peso. A contagem rápida das noites e o ritmo do jogo são invenção. Leia a história em [Draupnir: o anel de Odin que pinga oito anéis a cada nove noites](/2027/03/21/draupnir-o-anel-de-odin-que-pinga-oito-aneis-a-cada-nove-noites/).
+Na Edda em prosa, Snorri diz que a cada nona noite caem de Draupnir oito anéis de ouro do mesmo peso. A contagem rápida das noites e o ritmo do jogo são invenção. Leia a história em [Draupnir: o anel de Odin que pinga oito anéis a cada nove noites](/pt/draupnir-o-anel-de-odin-que-pinga-oito-aneis-a-cada-nove-noites/).

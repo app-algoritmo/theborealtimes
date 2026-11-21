@@ -23,4 +23,4 @@ The rider climbs the glass mountain along three lanes. Tap a lane, or use the ke
 
 ## The story behind it
 
-In “The Princess on the Glass Hill”, collected by Asbjørnsen and Moe, the youngest son keeps watch over the meadow on Midsummer Eve and wins a horse; after three attempts, in brass, silver and gold armour, he climbs the hill and takes the princess’s three golden apples. The climb in lanes is invented. Read the story in [The Princess on the Glass Hill: the youngest son, the horse and the three golden apples](/en/2027/01/24/a-princesa-na-montanha-de-vidro-asbjornsen-moe/).
+In “The Princess on the Glass Hill”, collected by Asbjørnsen and Moe, the youngest son keeps watch over the meadow on Midsummer Eve and wins a horse; after three attempts, in brass, silver and gold armour, he climbs the hill and takes the princess’s three golden apples. The climb in lanes is invented. Read the story in [The Princess on the Glass Hill: the youngest son, the horse and the three golden apples](/the-princess-on-the-glass-hill-the-youngest-son-the-horse/).

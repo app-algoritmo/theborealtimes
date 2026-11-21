@@ -23,4 +23,4 @@ Trykk på boblene med de seks umulige tingene (lyden av kattens skritt, skjegget
 
 ## Historien bak
 
-I fortellingen til Snorre Sturlason i *Snorres Edda* lager dvergene båndet Gleipne av seks ting som ikke finnes, og gudene bruker det til å binde Fenrir. Å samle dem som et spill er spillets oppfinnelse. Les historien i [Hvordan de norrøne gudene bandt ulven Fenrir, og hvorfor Tyr mistet hånden](/no/2026/11/12/fenrir-lobo-corrente-gleipnir/).
+I fortellingen til Snorre Sturlason i *Snorres Edda* lager dvergene båndet Gleipne av seks ting som ikke finnes, og gudene bruker det til å binde Fenrir. Å samle dem som et spill er spillets oppfinnelse. Les historien i [Hvordan de norrøne gudene bandt ulven Fenrir, og hvorfor Tyr mistet hånden](/no/hvordan-de-norrone-gudene-bandt-ulven-fenrir-og-hvorfor-tyr/).

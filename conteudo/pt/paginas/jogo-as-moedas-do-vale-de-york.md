@@ -23,4 +23,4 @@ Moedas de prata surgem nos buracos da terra e somem depressa. Toque numa moeda p
 
 ## A história por trás
 
-Em 2007, perto de Harrogate, um pai e um filho acharam 617 moedas de prata enterradas. A caça às moedas é invenção. Leia a história em [O tesouro do Vale de York: 617 moedas de prata achadas por pai e filho com detector de metais](/2027/01/03/tesouro-do-vale-de-york-harrogate-2007/).
+Em 2007, perto de Harrogate, um pai e um filho acharam 617 moedas de prata enterradas. A caça às moedas é invenção. Leia a história em [O tesouro do Vale de York: 617 moedas de prata achadas por pai e filho com detector de metais](/pt/tesouro-do-vale-de-york-harrogate-2007/).

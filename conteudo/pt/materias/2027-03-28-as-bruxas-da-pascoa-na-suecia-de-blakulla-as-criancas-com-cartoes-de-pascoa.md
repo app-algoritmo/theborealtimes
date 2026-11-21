@@ -48,4 +48,4 @@ A bruxa de Páscoa sueca nasceu de uma crença sobre uma viagem a Blåkulla e ac
 
 O museu diz que os registros escritos mais antigos são do começo do século XIX, mas que a tradição provavelmente é mais antiga, então a data de início é incerta. Também não explica quando a prática passou dos adultos às crianças. O texto que li não cita as fontes específicas do museu para esse costume.
 
-Para achar os pares de cartões das crianças de Páscoa, jogue [Os cartões de Páscoa](/jogo-os-cartoes-de-pascoa/).
+Para achar os pares de cartões das crianças de Páscoa, jogue [Os cartões de Páscoa](/pt/jogo-os-cartoes-de-pascoa/).

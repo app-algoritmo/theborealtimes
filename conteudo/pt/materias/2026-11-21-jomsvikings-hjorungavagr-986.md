@@ -35,4 +35,4 @@ Os historiadores desconfiam dos detalhes sobrenaturais, mas aceitam que a batalh
 
 Outro ponto de debate é o próprio nome. Os jomsvikings entraram na memória de vários países do Báltico, e cada tradição os conta de um modo. Alguns historiadores pensam que o grupo reflete lembranças de guerreiros que serviam a reis dinamarqueses, e que a saga, escrita bem depois, reuniu esses traços numa só irmandade com regras bem definidas. A ideia de um código tão rígido, com idade mínima e máxima, lembra mais uma regra literária do que um regulamento real.
 
-Para derrubar, tijolo a tijolo, os muros de Jomsborg, jogue [Os muros de Jomsborg](/jogo-os-muros-de-jomsborg/).
+Para derrubar, tijolo a tijolo, os muros de Jomsborg, jogue [Os muros de Jomsborg](/pt/jogo-os-muros-de-jomsborg/).

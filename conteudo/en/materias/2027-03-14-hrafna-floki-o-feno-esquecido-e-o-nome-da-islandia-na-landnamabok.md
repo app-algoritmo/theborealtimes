@@ -49,4 +49,4 @@ Flóki of the ravens fished too much, forgot the hay and lost his sheep. From a 
 
 The Landnámabók was written centuries after the settlement, and the account holds only if it is true. The date around 860 to 870 depends on that. As for the mountain from which Flóki saw the ice, locals only say it "may" be Lónfell, and the ruins called Flókatóftir are attributed to him by tradition, without proof.
 
-To catch the falling hay and let the fish go by, play [Hay before winter](/en/game-hay-before-winter/).
+To catch the falling hay and let the fish go by, play [Hay before winter](/game-hay-before-winter/).

@@ -51,4 +51,4 @@ Gnezdovo foi um grande posto de comércio do século X na rota entre o Báltico 
 
 A relação com Smolensk é disputada: para uns, Gnezdovo foi o antecessor econômico de Smolensk, e para outros, Petrukhin e Pushkina, as duas coexistiram no século X. As fontes escritas sobre Gnezdovo são poucas e vagas: duas entradas na Crônica Primária e uma em *De Administrando Imperio*. O nome Gnezdovo é medieval tardio, e o nome antigo do povoado é incerto, com uma proposta de Svinechsk. A leitura de "mostarda" da inscrição não é universal, e o verbete marca algumas comparações como sem citação.
 
-Para trocar três barcos de lado a lado numa passagem estreita, jogue [A troca de barcos](/jogo-a-troca-de-barcos/).
+Para trocar três barcos de lado a lado numa passagem estreita, jogue [A troca de barcos](/pt/jogo-a-troca-de-barcos/).

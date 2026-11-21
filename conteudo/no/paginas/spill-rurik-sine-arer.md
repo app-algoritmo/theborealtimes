@@ -23,4 +23,4 @@ Rurik og mennene hans ror oppover elva. Trykk (eller bruk piltastene) til venstr
 
 ## Historien bak
 
-Nestorkrøniken forteller at Rurik kom til Ladoga og Novgorod omkring 862. Åretakene i spillet er diktet opp. Les historien i [Rurik og Oleg: hvordan Nestorkrøniken forteller om kallet til væringene som ga opphav til Kievrus, og hva arkeologien tilfører](/no/2026/11/19/rurik-oleg-rus-cronica-primaria/).
+Nestorkrøniken forteller at Rurik kom til Ladoga og Novgorod omkring 862. Åretakene i spillet er diktet opp. Les historien i [Rurik og Oleg: hvordan Nestorkrøniken forteller om kallet til væringene som ga opphav til Kievrus, og hva arkeologien tilfører](/no/rurik-og-oleg-hvordan-nestorkroniken-forteller-om-kallet/).

@@ -45,4 +45,4 @@ Hliðskjálf is the gods' lookout. Odin uses it to watch, Frigg uses it beside h
 
 The article does not explain the origin of the name beyond the translation. The link with the *seiðhjallr* is a hypothesis of Simek. Who may actually sit in the seat is a point the sources do not settle.
 
-To watch the world from above and find the light that turns on among the huts, play [The high seat](/en/game-the-high-seat/).
+To watch the world from above and find the light that turns on among the huts, play [The high seat](/game-the-high-seat/).

@@ -41,4 +41,4 @@ Carolingian capitularies forbade selling weapons to foreigners, and an edict of 
 
 Swords of this type were expensive and a symbol of status. They generally had two edges, a blade of about 80 to 90 centimeters and a weight of a little over a kilogram, and many have been found in graves and riverbeds. An Ulfberht sword of exceptional steel was therefore not the common equipment of a warrior but a rare possession passed from hand to hand.
 
-To forge an Ulfberht blade strike by strike, play [The Ulfberht blade](/en/game-ulfberht-blade/).
+To forge an Ulfberht blade strike by strike, play [The Ulfberht blade](/game-ulfberht-blade/).

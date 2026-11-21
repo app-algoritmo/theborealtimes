@@ -39,4 +39,4 @@ It is common for folklore to give shape to things that society could not speak o
 
 The article says little about regional differences in the myth and about the myling's appearance. The stories vary, and there is no single account that holds for all of Scandinavia. Nor is the age of the belief known, since the folklore was collected long after it had circulated orally.
 
-To dodge the small souls that run along the road at night, changing lanes, play [The mylings' road](/en/game-the-mylings-road/).
+To dodge the small souls that run along the road at night, changing lanes, play [The mylings' road](/game-the-mylings-road/).

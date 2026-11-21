@@ -49,4 +49,4 @@ Pesta is the Black Death personified, an old woman with a broom and a rake. The 
 
 The pages I read do not explain the origin of the name Pesta or say when each legend was recorded. The number of dead is a matter of debate among historians.
 
-To help the girl escape the broom, play [The girl and the broom](/en/game-the-girl-and-the-broom/).
+To help the girl escape the broom, play [The girl and the broom](/game-the-girl-and-the-broom/).

@@ -39,4 +39,4 @@ In 2019, Neil Price and colleagues replied in the journal *Antiquity*, maintaini
 
 The sagas and poems speak of women warriors, the *skjaldmeyjar*, "shield-maidens", but few scholars take them as fact. Bj 581 is the burial that comes closest to proving that a woman, in the Viking Age, could be buried with all the symbols of a war chief. Even those who see her as a military leader admit that a single grave does not allow us to speak of many women like her.
 
-To choose what belonged in the grave, play [The grave goods](/en/game-the-grave-goods/).
+To choose what belonged in the grave, play [The grave goods](/game-the-grave-goods/).

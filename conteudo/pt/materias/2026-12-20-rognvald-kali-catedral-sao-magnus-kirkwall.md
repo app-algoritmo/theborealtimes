@@ -41,4 +41,4 @@ Em agosto de 1158, Rögnvald e oito homens foram mortos por Thorbjörn Klerk, an
 
 Ficam incertos o local exato de nascimento, o financiamento da catedral, qualquer voto e a canonização: a página diz que o papa Celestino III o canonizou em 1192, mas observa que, aparentemente, nenhum registro conservado confirma isso.
 
-Para encaixar blocos de pedra que descem, completando fileiras inteiras, até erguer as paredes da catedral, jogue [A catedral de Kirkwall](/jogo-a-catedral-de-kirkwall/).
+Para encaixar blocos de pedra que descem, completando fileiras inteiras, até erguer as paredes da catedral, jogue [A catedral de Kirkwall](/pt/jogo-a-catedral-de-kirkwall/).

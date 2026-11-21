@@ -23,4 +23,4 @@ Mova a barra (arraste o dedo ou use ← →) para a bola não cair e derrube tod
 
 ## A história por trás
 
-Na Gylfaginning, o palácio dos deuses desaparece diante do rei Gylfi. O jogo de derrubar tijolos é invenção. Leia a história em [Gylfaginning: o rei Gylfi, disfarçado de Gangleri, faz perguntas num palácio que desaparece](/2026/12/06/gylfaginning-gylfi-engana-aesir/).
+Na Gylfaginning, o palácio dos deuses desaparece diante do rei Gylfi. O jogo de derrubar tijolos é invenção. Leia a história em [Gylfaginning: o rei Gylfi, disfarçado de Gangleri, faz perguntas num palácio que desaparece](/pt/gylfaginning-gylfi-engana-aesir/).

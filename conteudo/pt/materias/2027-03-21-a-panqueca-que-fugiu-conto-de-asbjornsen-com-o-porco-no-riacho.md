@@ -44,4 +44,4 @@ Uma panqueca foge da frigideira, escapa de uma família e de seis animais com a 
 
 Não se sabe como o conto circulava oralmente antes de Asbjørnsen. Os nomes engraçados dos animais, na versão inglesa, são escolhas de tradução, e a versão norueguesa original tem seus próprios nomes e rimas.
 
-Para desviar dos animais da estrada e manter a panqueca rolando, jogue [A descida da colina](/jogo-a-descida-da-colina/).
+Para desviar dos animais da estrada e manter a panqueca rolando, jogue [A descida da colina](/pt/jogo-a-descida-da-colina/).

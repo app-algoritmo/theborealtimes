@@ -23,4 +23,4 @@ You walk alone on a road at night. Tap the left or right half of the screen (or 
 
 ## The story behind it
 
-In Scandinavian folklore, the myling is the soul of a child who died unbaptised. The road and the run are invented. Read the story in [The myling: the soul of a child who asks to be carried on the road at night in Nordic folklore](/en/2027/01/03/mylingen-alma-de-crianca-folclore-nordico/).
+In Scandinavian folklore, the myling is the soul of a child who died unbaptised. The road and the run are invented. Read the story in [The myling: the soul of a child who asks to be carried on the road at night in Nordic folklore](/the-myling-the-soul-of-a-child-who-asks-to-be-carried/).

@@ -40,4 +40,4 @@ A *ballad* is a sung poem that tells a story. The *omkved* is the refrain that r
 
 There is no medieval manuscript, and the age of the ballad is estimated by those who study it, not documented. The version known today is a gathering of fragments, and Moltke Moe's reconstruction shows that there are editorial choices among the voices. The Irish and Scottish influence is described as probable, and the comparison with Dante is an opinion. The sources do not say why the poem was preserved precisely in Telemark.
 
-To cross the dream bridge by repeating in the right order the planks that light up, play [The dream bridge](/en/game-the-dream-bridge/).
+To cross the dream bridge by repeating in the right order the planks that light up, play [The dream bridge](/game-the-dream-bridge/).

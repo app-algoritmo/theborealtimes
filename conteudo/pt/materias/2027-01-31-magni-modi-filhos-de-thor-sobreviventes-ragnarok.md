@@ -39,4 +39,4 @@ Os dois nomes são palavras comuns do nórdico antigo, e por isso podem ser lido
 
 A mãe de Móði não é conhecida com certeza. A fonte não diz que Magni e Móði herdam o martelo Mjölnir, e por isso a matéria não afirma isso: o que os textos registram é só que eles sobrevivem. O papel de cada um depois do Ragnarök também não é dito. Todas as leituras sobre o que os nomes "simbolizam" são de estudiosos modernos, não dos poetas medievais.
 
-Para girar peças em quadrantes até que tudo volte à ordem, jogue [O giro de Magni](/jogo-o-giro-de-magni/).
+Para girar peças em quadrantes até que tudo volte à ordem, jogue [O giro de Magni](/pt/jogo-o-giro-de-magni/).

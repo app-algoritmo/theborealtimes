@@ -23,4 +23,4 @@ Toque numa peça ao lado do vazio para deslizá-la (ou use as setas) e recomponh
 
 ## A história por trás
 
-No Kalevala, o Sampo se parte no mar e os cacos trazem fartura à Finlândia. O quebra-cabeça é invenção do jogo. Leia a história em [O Sampo e Louhi: o moinho mágico que o ferreiro Ilmarinen forjou e que se partiu no mar](/2026/11/18/sampo-louhi-kalevala/).
+No Kalevala, o Sampo se parte no mar e os cacos trazem fartura à Finlândia. O quebra-cabeça é invenção do jogo. Leia a história em [O Sampo e Louhi: o moinho mágico que o ferreiro Ilmarinen forjou e que se partiu no mar](/pt/sampo-louhi-kalevala/).

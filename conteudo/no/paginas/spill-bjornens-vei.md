@@ -23,4 +23,4 @@ Hver rute viser kostnaden ved å gå gjennom den. Start i ruten øverst til vens
 
 ## Historien bak
 
-I fortellingen om Auðun kjøper en fattig islending en isbjørn på Grønland og tar den med som gave til kong Sveinn av Danmark. Å finne den billigste veien er oppfunnet. Les historien i [Auðun fra Vestfjordene: isbjørnen, den danske kongen og gullringen](/no/2027/02/21/audun-dos-fiordes-do-oeste-o-urso-polar-e-o-rei-sveinn/).
+I fortellingen om Auðun kjøper en fattig islending en isbjørn på Grønland og tar den med som gave til kong Sveinn av Danmark. Å finne den billigste veien er oppfunnet. Les historien i [Auðun fra Vestfjordene: isbjørnen, den danske kongen og gullringen](/no/audun-fra-vestfjordene-isbjornen-den-danske-kongen/).

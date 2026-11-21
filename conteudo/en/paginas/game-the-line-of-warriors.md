@@ -23,4 +23,4 @@ A line of warriors of different heights is out of order. Tap a warrior and then 
 
 ## The story behind it
 
-Hlöðskviða tells of the war between the brothers Angantýr and Hlöðr over the inheritance of the Gothic king Heiðrekr; Hlöðr was raised among the Huns. The poem is preserved within Hervarar saga. Ordering warriors is invented. Read the story in [Hlöðskviða: the war of two brothers between Goths and Huns inside Hervarar saga](/en/2027/02/07/hlodskvida-godos-hunos-angantyr-hlodr/).
+Hlöðskviða tells of the war between the brothers Angantýr and Hlöðr over the inheritance of the Gothic king Heiðrekr; Hlöðr was raised among the Huns. The poem is preserved within Hervarar saga. Ordering warriors is invented. Read the story in [Hlöðskviða: the war of two brothers between Goths and Huns inside Hervarar saga](/hlodskvida-the-war-of-two-brothers-between-goths-and-huns/).

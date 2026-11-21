@@ -37,4 +37,4 @@ The context helps in understanding the text. Norway at the end of the 12th centu
 
 Sverre's reign is also seen as a step in the formation of the Norwegian state, with an organised army and a stronger administration, although this point is debated.
 
-To fit piece upon piece, forming compact rows like those of a well-disciplined army, play [Sverre's ranks](/en/game-sverres-ranks/).
+To fit piece upon piece, forming compact rows like those of a well-disciplined army, play [Sverre's ranks](/game-sverres-ranks/).

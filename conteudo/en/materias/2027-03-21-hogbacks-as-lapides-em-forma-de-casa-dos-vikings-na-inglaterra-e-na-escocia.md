@@ -44,4 +44,4 @@ Hogbacks are house-shaped gravestones made between the tenth and twelfth centuri
 
 The source consulted gives dates that do not match, speaking of the fashion ending at the start of the eleventh century and, at the same time, of production into the twelfth. We also do not know for certain who made the hogbacks or what the images of bears and beasts meant.
 
-To complete the pattern of stone shingles with the right piece, play [The stone tiles](/en/game-the-stone-tiles/).
+To complete the pattern of stone shingles with the right piece, play [The stone tiles](/game-the-stone-tiles/).

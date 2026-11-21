@@ -23,4 +23,4 @@ Trykk på en tønne og så på en annen for å helle over mjøden øverst. Du ka
 
 ## Historien bak
 
-I Ynglingesagaen dør kong Fróði i en tønne med mjød. Fargeblandingen i spillet er diktet opp. Les historien i [Ynglingesaga: kongen som druknet i et mjødkar og kongene i Uppsala](/no/2026/11/21/ynglinga-fjolnir-tonel-de-hidromel/).
+I Ynglingesagaen dør kong Fróði i en tønne med mjød. Fargeblandingen i spillet er diktet opp. Les historien i [Ynglingesaga: kongen som druknet i et mjødkar og kongene i Uppsala](/no/ynglingesaga-kongen-som-druknet-i-et-mjodkar-og-kongene/).

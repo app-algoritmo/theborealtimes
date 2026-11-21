@@ -23,4 +23,4 @@ O violino de Freddy faz todos dançarem, mas só se tocar no tempo. Anéis encol
 
 ## A história por trás
 
-No conto, Freddy ganha um violino que faz dançar tudo o que vive e, junto da forca, toca até o xerife, o juiz e os soldados dançarem. O jogo de ritmo é invenção. Leia a história em [O Pequeno Freddy e seu violino: conto norueguês do violino que faz todos dançarem](/2027/03/07/o-pequeno-freddy-e-seu-violino-conto-noruegues-do-violino-que-faz-todos-dancarem/).
+No conto, Freddy ganha um violino que faz dançar tudo o que vive e, junto da forca, toca até o xerife, o juiz e os soldados dançarem. O jogo de ritmo é invenção. Leia a história em [O Pequeno Freddy e seu violino: conto norueguês do violino que faz todos dançarem](/pt/o-pequeno-freddy-e-seu-violino-conto-noruegues-do-violino-que-faz-todos-dancarem/).

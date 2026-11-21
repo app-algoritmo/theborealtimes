@@ -23,4 +23,4 @@ Cada oferenda tem um altar da mesma cor. Arraste de uma oferenda até o seu alta
 
 ## A história por trás
 
-O Álfablót é uma oferenda aos elfos, citada na poesia de Sigvatr Þórðarson. Os caminhos do jogo são invenção. Leia a história em [Álfablót: o sacrifício aos elfos, a porta fechada a um escaldo cristão e o que as fontes dizem do rito](/2026/11/19/alfablot-sacrificio-aos-elfos-sigvatr/).
+O Álfablót é uma oferenda aos elfos, citada na poesia de Sigvatr Þórðarson. Os caminhos do jogo são invenção. Leia a história em [Álfablót: o sacrifício aos elfos, a porta fechada a um escaldo cristão e o que as fontes dizem do rito](/pt/alfablot-sacrificio-aos-elfos-sigvatr/).

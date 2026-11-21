@@ -23,4 +23,4 @@ Lead the white bear through the ice maze to the castle in the opposite corner. T
 
 ## The story behind it
 
-In the tale, the princess follows the white bear, who is the enchanted King Valemon, to the castle of a witch. The maze is invented. Read the story in [White-Bear-King-Valemon: Asbjørnsen and Moe's tale of an enchanted bridegroom](/en/2027/03/07/o-urso-branco-rei-valemon-conto-de-asbjornsen-e-moe-sobre-um-noivo-enfeiticado/).
+In the tale, the princess follows the white bear, who is the enchanted King Valemon, to the castle of a witch. The maze is invented. Read the story in [White-Bear-King-Valemon: Asbjørnsen and Moe's tale of an enchanted bridegroom](/white-bear-king-valemon-asbjornsen-and-moe-s-tale/).

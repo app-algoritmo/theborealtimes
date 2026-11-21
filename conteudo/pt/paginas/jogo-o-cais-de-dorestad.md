@@ -23,4 +23,4 @@ Toque numa mercadoria e depois numa vizinha (ou arraste) para trocá-las. A troc
 
 ## A história por trás
 
-Dorestad, porto comercial do Baixo Reno, foi atacado por vikings a partir de 834. A troca de mercadorias é invenção do jogo. Leia a história em [Dorestad: o grande porto do Reno e as incursões vikings de 834 a 863](/2026/12/20/dorestad-vikings-835-porto-do-reno/).
+Dorestad, porto comercial do Baixo Reno, foi atacado por vikings a partir de 834. A troca de mercadorias é invenção do jogo. Leia a história em [Dorestad: o grande porto do Reno e as incursões vikings de 834 a 863](/pt/dorestad-vikings-835-porto-do-reno/).

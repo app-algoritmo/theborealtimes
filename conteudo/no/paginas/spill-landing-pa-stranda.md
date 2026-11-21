@@ -23,4 +23,4 @@ Skipet faller av seg selv. Hold fingeren på skjermen (eller mellomromstasten) f
 
 ## Historien bak
 
-Landnámabók forteller hvem som kom til Island og hvor de slo seg ned. Landingen med begrenset drivstoff er oppfunnet. Les historien i [Landnámabók: boken som lister mer enn tre tusen personer og omtrent 1400 gårder på Island](/no/2026/12/27/landnamabok-livro-dos-assentamentos-islandia/).
+Landnámabók forteller hvem som kom til Island og hvor de slo seg ned. Landingen med begrenset drivstoff er oppfunnet. Les historien i [Landnámabók: boken som lister mer enn tre tusen personer og omtrent 1400 gårder på Island](/no/landnamabok-boken-som-lister-mer-enn-tre-tusen-personer/).

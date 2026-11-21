@@ -39,4 +39,4 @@ Os historiadores também debatem se existiu uma pessoa real que deu origem às h
 
 O caso de Peer Gynt mostra como um personagem se transforma ao passar de mão em mão. A partir do caçador exagerado do conto, tornou-se um símbolo de sonho e de autoengano, e o salão do rei da montanha ficou como uma das imagens mais fortes da cultura norueguesa.
 
-Para correr de um lado a outro do salão do rei da montanha, trocando de faixa para desviar dos trolls que avançam, jogue [O salão do Rei da Montanha](/jogo-o-salao-do-rei-da-montanha/).
+Para correr de um lado a outro do salão do rei da montanha, trocando de faixa para desviar dos trolls que avançam, jogue [O salão do Rei da Montanha](/pt/jogo-o-salao-do-rei-da-montanha/).

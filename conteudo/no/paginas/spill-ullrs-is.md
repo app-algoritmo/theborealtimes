@@ -23,4 +23,4 @@ Sveip (eller bruk piltastene) for å få skiløperen til å gli på isen: den st
 
 ## Historien bak
 
-Ullr har en hall av barlind og mange stedsnavn, men nesten ingen myte. Isen og merket er oppfunnet. Les historien i [Ullr: skiens og buens gud, som nesten ingen historier er igjen om](/no/2026/12/27/ullr-deus-dos-esquis-e-do-arco/).
+Ullr har en hall av barlind og mange stedsnavn, men nesten ingen myte. Isen og merket er oppfunnet. Les historien i [Ullr: skiens og buens gud, som nesten ingen historier er igjen om](/no/ullr-skiens-og-buens-gud-som-nesten-ingen-historier-er/).

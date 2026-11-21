@@ -46,4 +46,4 @@ In 878, Alfred defeated Guthrum at Edington. The Norse occupation left a whole r
 
 The English kingdoms were divided, and the army knew how to exploit internal quarrels, such as the civil war between Ælla and Osberht in Northumbria. It also gained mobility: it used horses on land and boats on the rivers, and set up fortified camps to pass the winter. Local kings sometimes bought peace with silver, and the army moved on. Only Wessex, under Alfred, managed to hold out to the end.
 
-To break the shield wall as the Great Army did, play [The shield wall](/en/game-the-shield-wall/).
+To break the shield wall as the Great Army did, play [The shield wall](/game-the-shield-wall/).

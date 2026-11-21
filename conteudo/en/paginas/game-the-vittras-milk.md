@@ -23,4 +23,4 @@ A vittra sends milk jars and rocks down a path of three lanes. You stand at the 
 
 ## The story behind it
 
-The vittror are beings of northern Sweden who live underground and have their own cattle; they can turn dangerous if they are disrespected. Gathering milk among rocks is invented. Read the story in [The vittra: underground beings of northern Sweden and the milk among the stones](/en/2027/02/07/vittra-seres-subterraneos-norte-da-suecia/).
+The vittror are beings of northern Sweden who live underground and have their own cattle; they can turn dangerous if they are disrespected. Gathering milk among rocks is invented. Read the story in [The vittra: underground beings of northern Sweden and the milk among the stones](/the-vittra-underground-beings-of-northern-sweden/).

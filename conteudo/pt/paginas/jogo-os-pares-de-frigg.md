@@ -23,4 +23,4 @@ Toque numa peça para virá-la e toque noutra para achar o par. Se forem iguais,
 
 ## A história por trás
 
-Frigg é a esposa de Odin e vive em Fensalir. O jogo de pares é invenção. Leia a história em [Frigg: a esposa de Odin que fez todas as coisas jurarem poupar Baldr, menos uma](/2027/01/03/frigg-esposa-de-odin-fensalir/).
+Frigg é a esposa de Odin e vive em Fensalir. O jogo de pares é invenção. Leia a história em [Frigg: a esposa de Odin que fez todas as coisas jurarem poupar Baldr, menos uma](/pt/frigg-esposa-de-odin-fensalir/).

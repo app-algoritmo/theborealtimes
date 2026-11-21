@@ -37,4 +37,4 @@ The question of who won has no simple answer. In some lists "Rus victory" appear
 
 The attack of 860 reveals how quickly the Byzantine world could be taken by surprise, and it marks the beginning of relations between Byzantium and the Rus, which would later lead to the conversion of Kievan Rus to Christianity. For scholars, it is also a clear example of how a pious legend can cover a more confusing fact. Photios' own homilies, preached to the people, show a shaken city that saw the attack as divine punishment and looked for explanations in faith.
 
-To repeat, from memory, the sequence of Constantinople's bells, ringing them in the same order, play [The bells of Constantinople](/en/game-the-bells-of-constantinople/).
+To repeat, from memory, the sequence of Constantinople's bells, ringing them in the same order, play [The bells of Constantinople](/game-the-bells-of-constantinople/).

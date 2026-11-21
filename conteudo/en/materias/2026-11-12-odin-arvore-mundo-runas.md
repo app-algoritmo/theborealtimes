@@ -41,4 +41,4 @@ The myth gives this alphabet a divine origin and a price. In the Norse sources, 
 
 In practice, the Viking Age rune stones have far more everyday uses than the myth. Most are memorials: a family carves the name of a dead relative, sometimes with a note of where he had been or who ordered the stone raised.
 
-To fly with Odin's ravens, play [The flight of Huginn](/en/game-flight-of-huginn/).
+To fly with Odin's ravens, play [The flight of Huginn](/game-flight-of-huginn/).

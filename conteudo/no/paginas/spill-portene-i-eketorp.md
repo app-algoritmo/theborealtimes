@@ -23,4 +23,4 @@ Hver ring i borgen har en åpning. Trykk på en ring på venstre side for å vri
 
 ## Historien bak
 
-Eketorp er en rund borg på Öland i Sverige, brukt fra jernalderen til 1200-tallet. Å vri ringer er oppfunnet. Les historien i [Eketorp: ringborgen på Öland i Sverige, fra jernalderen til 1200-tallet](/no/2027/02/28/eketorp-o-forte-circular-de-oland-na-suecia-da-idade-do-ferro-ao-seculo-xiii/).
+Eketorp er en rund borg på Öland i Sverige, brukt fra jernalderen til 1200-tallet. Å vri ringer er oppfunnet. Les historien i [Eketorp: ringborgen på Öland i Sverige, fra jernalderen til 1200-tallet](/no/eketorp-ringborgen-pa-oland-i-sverige-fra-jernalderen/).

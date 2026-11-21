@@ -44,4 +44,4 @@ As datas que as duas fontes dão, em ordem, são estas: de 1000 até por volta d
 
 O número de homens e de navios não é conhecido. O local exato é objeto de tradição, e não de prova. A data da chegada de Olav varia entre 1014, 1015 e 1016, e o fim de Sveinn, morto por doença na Suécia, é dado só com a data aproximada de 1016. A *Heimskringla* e a *Fagrskinna* foram escritas depois do acontecimento. As fontes aqui usadas são verbetes de enciclopédia e não permitem reconstruir a manobra da batalha.
 
-Para tomar de uma só cor um mapa de águas e terras, como um fiorde conquistado, jogue [O fiorde tomado](/jogo-o-fiorde-tomado/).
+Para tomar de uma só cor um mapa de águas e terras, como um fiorde conquistado, jogue [O fiorde tomado](/pt/jogo-o-fiorde-tomado/).

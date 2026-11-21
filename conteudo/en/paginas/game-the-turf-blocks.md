@@ -23,4 +23,4 @@ Tap a block: it and every block above and to the right of it are cut away. Then 
 
 ## The story behind it
 
-In the valley of Þjórsárdalur, ash from Hekla covered medieval farms. The game of cutting turf blocks is invented. Read the story in [Stöng: the Icelandic farm buried by Hekla and the replica that shows how it might have looked](/en/2026/12/27/stong-fazenda-islandesa-soterrada-hekla/).
+In the valley of Þjórsárdalur, ash from Hekla covered medieval farms. The game of cutting turf blocks is invented. Read the story in [Stöng: the Icelandic farm buried by Hekla and the replica that shows how it might have looked](/stong-the-icelandic-farm-buried-by-hekla-and-the-replica/).

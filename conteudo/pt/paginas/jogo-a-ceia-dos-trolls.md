@@ -23,4 +23,4 @@ card:
 
 ## A história por trás
 
-No conto de Asbjørnsen e Moe, trolls tomam a casa de Halvor na véspera de Natal, um deles espeta o urso branco com uma linguiça, e o urso os põe para correr. O jogo de espantar trolls é invenção. Leia a história em [O gato do Dovrefjell: trolls, um urso branco e uma linguiça na véspera de Natal](/2027/03/14/o-gato-do-dovrefjell-trolls-urso-branco-e-linguica-na-vespera-de-natal/).
+No conto de Asbjørnsen e Moe, trolls tomam a casa de Halvor na véspera de Natal, um deles espeta o urso branco com uma linguiça, e o urso os põe para correr. O jogo de espantar trolls é invenção. Leia a história em [O gato do Dovrefjell: trolls, um urso branco e uma linguiça na véspera de Natal](/pt/o-gato-do-dovrefjell-trolls-urso-branco-e-linguica-na-vespera-de-natal/).

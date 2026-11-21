@@ -45,4 +45,4 @@ A ättestupa é uma invenção literária que virou paisagem: nasceu como piada 
 
 Não sei dizer, a partir destas fontes, quem escreveu a saga nem de onde veio a ideia da família sovina. Também não sei se os autores medievais conheciam algum costume real parecido, e os especialistas dizem que o costume dos suecos antigos nunca foi comprovado. Os manuscritos que a conservam são tardios, e o texto existe em duas versões.
 
-Para separar o que está na saga do que veio depois, jogue [O que está na saga](/jogo-o-que-esta-na-saga/).
+Para separar o que está na saga do que veio depois, jogue [O que está na saga](/pt/jogo-o-que-esta-na-saga/).

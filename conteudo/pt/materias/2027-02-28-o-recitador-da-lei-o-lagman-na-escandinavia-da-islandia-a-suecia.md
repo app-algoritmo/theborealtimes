@@ -45,4 +45,4 @@ O recitador da lei começou ligado às assembleias do povo e virou, com os sécu
 
 O verbete tem no topo o aviso de que precisa de mais citações. Os historiadores duvidam do relato de Snorri sobre um recitador do século XI chamado Torgny. A data de cerca de 1000 para Lum, o primeiro recitador sueco com nome, vale só "se o texto estiver correto". Os dois primeiros sucessores de Úlfljótr têm exatamente 20 verões cada um, o que os estudiosos acham suspeito, e a cronologia islandesa provavelmente está certa a partir de Þorkell máni. O número de recitadores da Noruega não é dado com precisão.
 
-Para achar a pedra onde fica a lei, com poucas tentativas, jogue [A rocha da lei](/jogo-a-rocha-da-lei/).
+Para achar a pedra onde fica a lei, com poucas tentativas, jogue [A rocha da lei](/pt/jogo-a-rocha-da-lei/).

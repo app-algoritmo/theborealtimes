@@ -43,4 +43,4 @@ Há ainda uma história de que o poeta al-Ghazal teria ido como embaixador aos v
 
 O ataque de 844 mostra o alcance das frotas nórdicas, que navegavam da Escandinávia ao Mediterrâneo ocidental. Também mostra que os vikings nem sempre venciam: ali encontraram um estado organizado, com cavalaria, frota e dinheiro, que reagiu depressa.
 
-Para ligar, num mapa do rio, cada par de marcas de mesma cor por um caminho que não cruze os outros, jogue [O mapa do rio](/jogo-o-mapa-do-rio/).
+Para ligar, num mapa do rio, cada par de marcas de mesma cor por um caminho que não cruze os outros, jogue [O mapa do rio](/pt/jogo-o-mapa-do-rio/).

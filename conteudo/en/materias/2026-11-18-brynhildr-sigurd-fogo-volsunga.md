@@ -41,4 +41,4 @@ The sources do not agree on everything. In some poems, the reasons for Sigurd's 
 
 This shows that nobody has the single version. The story is a set of heroic narratives written centuries after the times in which they are set, and none of them is a record of facts.
 
-To try to cross the ring of fire by putting out every flame, play [The ring of fire](/en/game-the-ring-of-fire/).
+To try to cross the ring of fire by putting out every flame, play [The ring of fire](/game-the-ring-of-fire/).

@@ -23,4 +23,4 @@ The numbers show how many cells in a row must be filled in each row and column, 
 
 ## The story behind it
 
-In the Sigrdrífumál, the valkyrie teaches runes to Sigurd. The clue grid is made up. Read the story in [Sigrdrífumál: the valkyrie who woke up and taught Sigurd the runes](/en/2026/12/06/sigrdrifumal-valquiria-ensina-runas/).
+In the Sigrdrífumál, the valkyrie teaches runes to Sigurd. The clue grid is made up. Read the story in [Sigrdrífumál: the valkyrie who woke up and taught Sigurd the runes](/sigrdrifumal-the-valkyrie-who-woke-up-and-taught-sigurd/).

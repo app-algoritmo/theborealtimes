@@ -43,4 +43,4 @@ Estudiosos sugerem que o lado mau de Hiisi se reforçou depois da cristianizaç�
 
 O artigo marca a ligação com cemitérios como especulação mais recente. Ele diz que os sentidos originais podem ter se perdido depois da cristianização e que algumas afirmações de folclore precisam de citação. Ainda segundo ele, as distinções entre sentidos antigos e tardios repousam em interpretação de poucas provas. Também aparece uma carta de Cajanus (1674) que chama Hiisi de filho de Kaleva, sem mais detalhes.
 
-Para plantar um bosque numerado sem repetir nenhuma árvore, jogue [O bosque de Hiisi](/jogo-o-bosque-de-hiisi/).
+Para plantar um bosque numerado sem repetir nenhuma árvore, jogue [O bosque de Hiisi](/pt/jogo-o-bosque-de-hiisi/).

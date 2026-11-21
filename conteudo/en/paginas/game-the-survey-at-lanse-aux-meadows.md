@@ -23,4 +23,4 @@ The ground is divided into 49 squares and hides 6 bog pools. Tap a square to pro
 
 ## The story behind it
 
-Helge and Anne Stine Ingstad excavated L'Anse aux Meadows between 1961 and 1968. There are remains of eight buildings, and a 2021 study pointed to the year 1021 as one of Norse activity at the site. The pools are invented. Read the story in [L'Anse aux Meadows, the Norse site in Newfoundland: what the excavations showed](/en/2027/01/17/lanse-aux-meadows-sitio-nordico-terra-nova-ingstad/).
+Helge and Anne Stine Ingstad excavated L'Anse aux Meadows between 1961 and 1968. There are remains of eight buildings, and a 2021 study pointed to the year 1021 as one of Norse activity at the site. The pools are invented. Read the story in [L'Anse aux Meadows, the Norse site in Newfoundland: what the excavations showed](/l-anse-aux-meadows-the-norse-site-in-newfoundland-what/).

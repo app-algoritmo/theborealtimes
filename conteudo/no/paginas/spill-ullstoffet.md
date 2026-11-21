@@ -23,4 +23,4 @@ Et stykke ull veves rad for rad. Hver rad viser fire fargede tråder et øyeblik
 
 ## Historien bak
 
-I 1921 gravde Poul Nørlund ut kirkegården på Herjólfsnes på Grønland og fant hetter, hatter og kjoler i ull, i europeisk mote fra tiden. Vevingen rad for rad er oppfunnet. Les historien i [Herjólfsnes: ullklærne som ble funnet i gravene på norrøne Grønland](/no/2027/03/14/herjolfsnes-as-roupas-de-la-nos-tumulos-da-groenlandia-nordica/).
+I 1921 gravde Poul Nørlund ut kirkegården på Herjólfsnes på Grønland og fant hetter, hatter og kjoler i ull, i europeisk mote fra tiden. Vevingen rad for rad er oppfunnet. Les historien i [Herjólfsnes: ullklærne som ble funnet i gravene på norrøne Grønland](/no/herjolfsnes-ullklaerne-som-ble-funnet-i-gravene-pa-norrone/).

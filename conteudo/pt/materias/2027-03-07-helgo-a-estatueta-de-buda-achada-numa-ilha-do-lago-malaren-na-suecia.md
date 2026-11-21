@@ -41,4 +41,4 @@ Uma pequena imagem do Buda, feita no norte da Índia no século VI, foi parar nu
 
 O verbete diz que a estatueta teria chegado a Helgö na Era Viking, o que não combina bem com a data do século VI e com a cronologia do sítio, e não resolve o ponto. Um outro texto citado fala de um torque de cobre no pescoço, e não de uma tira de couro. O verbete também dá duas datas para o povoado: a partir de 200, e do século III ao VIII. As fontes descrevem a peça copta de formas diferentes.
 
-Para achar a estatueta escondida depois que os potes se embaralham, jogue [Onde está o Buda?](/jogo-onde-esta-o-buda/).
+Para achar a estatueta escondida depois que os potes se embaralham, jogue [Onde está o Buda?](/pt/jogo-onde-esta-o-buda/).

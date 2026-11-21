@@ -15,6 +15,7 @@ feeds, SEO, verificação de padrão. Não escreve os textos.
 """
 
 import hashlib
+import unicodedata
 import json
 import os
 import re
@@ -136,6 +137,55 @@ def hoje_na_redacao(cfg) -> date:
     return datetime.now(ZoneInfo(fuso)).date() if fuso else date.today()
 
 
+_TRANS = {"æ": "ae", "ø": "o", "å": "a", "ð": "d", "þ": "th", "ß": "ss", "ł": "l", "œ": "oe", "đ": "d"}
+
+
+_FRACAS = set("the of and a an in on at to for with by from as or but that who whom which whose "
+              "is was are were he she it his her its their in into over de da do das dos e em no na nos nas "
+              "um uma o os as que com por para sobre og i en et som med av til pa fra den det de".split())
+
+
+def slugify(txt, maximo=60):
+    """Título -> endereço: sem acento, minúsculo, hífens, cortado em palavra."""
+    t = "".join(_TRANS.get(c, c) for c in str(txt).lower())
+    t = unicodedata.normalize("NFKD", t)
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    t = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    if len(t) > maximo:
+        corte = t[:maximo]
+        i = corte.rfind("-")
+        t = corte[:i] if i >= 20 else corte
+    palavras = t.split("-")
+    while len(palavras) > 3 and palavras[-1] in _FRACAS:
+        palavras.pop()
+    return "-".join(palavras)
+
+
+def slugs_do_idioma(cfg, idioma):
+    """Endereço de cada matéria no idioma, sem data: /slug/ (com o prefixo do
+    idioma). Idiomas com `slug_do_titulo: true` tiram o endereço do título;
+    os outros usam o apelido do arquivo. Um campo `slug:` no cabeçalho vence.
+    As matérias mais antigas ficam com o nome livre; a que colide ganha -2."""
+    curto = idioma["curto"]
+    t = cfg[curto]
+    usados = {"g", "estatico", "admin", "pt", "en", "no", "busca"}
+    usados |= set(t["paginas"].values()) | {s["slug"] for s in t["secoes"]}
+    usados |= {p.stem for p in (CONTEUDO / curto / "paginas").glob("*.md")}
+    saida = {}
+    for arq in sorted((CONTEUDO / curto / "materias").glob("*.md")):
+        meta, _ = ler_markdown(arq)
+        base = str(meta.get("slug") or "").strip()
+        if not base:
+            base = (slugify(meta.get("titulo", "")) if idioma.get("slug_do_titulo")
+                    else apelido_de(arq))
+        s, n = base, 2
+        while s in usados:
+            s, n = f"{base}-{n}", n + 1
+        usados.add(s)
+        saida[arq.name] = s
+    return saida
+
+
 def apelido_de(arquivo: Path) -> str:
     """O nome do arquivo sem o prefixo de data."""
     return re.sub(r"^\d{4}-\d{2}-\d{2}-", "", arquivo.stem)
@@ -167,15 +217,10 @@ def mapa_de_equivalencias(cfg):
             registrar(f"pagina:{chave}", curto, f"{pref}/{apelido}/")
         for n, s in enumerate(t["secoes"]):
             registrar(f"secao:{n}", curto, f"{pref}/{s['slug']}/")
+        slugs = slugs_do_idioma(cfg, idioma)
         for arquivo in (CONTEUDO / curto / "materias").glob("*.md"):
-            meta, _ = ler_markdown(arquivo)
-            d = meta.get("data")
-            if isinstance(d, str):
-                d = datetime.strptime(d, "%Y-%m-%d").date()
-            if not d:
-                continue
             registrar(f"materia:{apelido_de(arquivo)}", curto,
-                      f"{pref}/{d:%Y/%m/%d}/{apelido_de(arquivo)}/")
+                      f"{pref}/{slugs[arquivo.name]}/")
 
     return mapa
 
@@ -227,8 +272,6 @@ def jsonld_materia(cfg, idioma, pagina):
         "@type": "Article",
         "headline": pagina["titulo"],
         "description": pagina.get("resumo", ""),
-        "datePublished": pagina["data_iso"],
-        "dateModified": pagina["data_iso"],
         "inLanguage": idioma["codigo"],
         "isAccessibleForFree": True,
         # O texto é narrado por IA; o nome próprio é o do editor responsável,
@@ -308,6 +351,7 @@ def construir():
 
         # ---- matérias
         materias = []
+        slugs = slugs_do_idioma(cfg, idioma)
         for arquivo in sorted(pasta.glob("materias/*.md"), reverse=True):
             meta, html = ler_markdown(arquivo)
             d = meta.get("data")
@@ -319,7 +363,7 @@ def construir():
             # propósito: peça reclassificada não pode quebrar o link.
             apelido = apelido_de(arquivo)
             meta.update({
-                "url": f"{pref}/{d:%Y/%m/%d}/{apelido}/",
+                "url": f"{pref}/{slugs[arquivo.name]}/",
                 "chave": f"materia:{apelido}",
                 "secao_slug": slug_da_secao(meta.get("secao", ""), secoes),
                 "data_longa": data_longa(d, curto),
@@ -533,8 +577,9 @@ def gerar_catalogo(cfg, CAT):
         return
     pasta = SAIDA / "g"
     pasta.mkdir(parents=True, exist_ok=True)
-    principal = next((i["curto"] for i in cfg["idiomas"] if i.get("principal")),
-                     cfg["idiomas"][0]["curto"])
+    # A numeração das figurinhas nasceu da ordem em português: continua assim,
+    # mesmo com o inglês como idioma principal do site.
+    principal = "pt" if "pt" in CAT else cfg["idiomas"][0]["curto"]
     base = sorted(CAT.get(principal, []), key=lambda x: (x["d"], x["i"]))
     ordem = {x["i"]: n for n, x in enumerate(base, 1)}
     extras = sorted({x["i"] for v in CAT.values() for x in v} - set(ordem))

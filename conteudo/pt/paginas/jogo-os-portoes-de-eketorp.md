@@ -23,4 +23,4 @@ Cada anel do forte tem uma abertura. Toque num anel do lado esquerdo para girá-
 
 ## A história por trás
 
-Eketorp é um forte circular de Öland, na Suécia, usado da Idade do Ferro ao século XIII. Girar anéis é invenção. Leia a história em [Eketorp: o forte circular de Öland, na Suécia, da Idade do Ferro ao século XIII](/2027/02/28/eketorp-o-forte-circular-de-oland-na-suecia-da-idade-do-ferro-ao-seculo-xiii/).
+Eketorp é um forte circular de Öland, na Suécia, usado da Idade do Ferro ao século XIII. Girar anéis é invenção. Leia a história em [Eketorp: o forte circular de Öland, na Suécia, da Idade do Ferro ao século XIII](/pt/eketorp-o-forte-circular-de-oland-na-suecia-da-idade-do-ferro-ao-seculo-xiii/).

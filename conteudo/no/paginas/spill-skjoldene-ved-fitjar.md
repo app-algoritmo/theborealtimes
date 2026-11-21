@@ -23,4 +23,4 @@ Skjold dekker stranda etter slaget. Trykk på en gruppe på to eller flere nabo-
 
 ## Historien bak
 
-Ved Fitjar, omkring 961, beseiret kong Håkon Eiriks sønner, ifølge tradisjonen. Skjoldryddingen er diktet opp for spillet. Les historien i [Håkon den gode og diktet som sendte ham til Valhall: slaget ved Fitjar ifølge sagaen og skalden](/no/2026/11/19/hakon-bom-hakonarmal-fitjar/).
+Ved Fitjar, omkring 961, beseiret kong Håkon Eiriks sønner, ifølge tradisjonen. Skjoldryddingen er diktet opp for spillet. Les historien i [Håkon den gode og diktet som sendte ham til Valhall: slaget ved Fitjar ifølge sagaen og skalden](/no/hakon-den-gode-og-diktet-som-sendte-ham-til-valhall-slaget/).

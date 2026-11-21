@@ -43,4 +43,4 @@ A fonte registra menções anteriores a Kreutzwald, entre elas Agricola, em 1551
 
 A proporção de versos autênticos, cerca de um oitavo, é afirmação da fonte e não é fácil de verificar. A ligação com *Widsith* é opinião. As três versões da obra diferem em tamanho e texto, e por isso não há um *Kalevipoeg* único. A epopeia é uma obra do século XIX, composta com material antigo: não é um texto medieval, e quem a lê hoje deve saber que a mão do compilador está em cada canto.
 
-Para escolher as pedras que cabem no saco do herói, jogue [As pedras de Kalevipoeg](/jogo-as-pedras-de-kalevipoeg/).
+Para escolher as pedras que cabem no saco do herói, jogue [As pedras de Kalevipoeg](/pt/jogo-as-pedras-de-kalevipoeg/).

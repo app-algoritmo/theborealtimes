@@ -40,4 +40,4 @@ A segunda fonte reporta que o poema provavelmente sofreu influência de relatos 
 
 Não há manuscrito medieval, e a idade da balada é estimada por quem a estuda, e não documentada. A versão que se conhece hoje é uma reunião de fragmentos, e a reconstrução de Moltke Moe mostra que há decisões editoriais entre as vozes. A influência irlandesa e escocesa é descrita como provável, e a comparação com Dante é uma opinião. As fontes não dizem por que o poema se conservou justamente em Telemark.
 
-Para atravessar a ponte do sonho repetindo na ordem certa as pranchas que se acendem, jogue [A ponte do sonho](/jogo-a-ponte-do-sonho/).
+Para atravessar a ponte do sonho repetindo na ordem certa as pranchas que se acendem, jogue [A ponte do sonho](/pt/jogo-a-ponte-do-sonho/).

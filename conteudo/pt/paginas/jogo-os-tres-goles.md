@@ -23,4 +23,4 @@ Segure o dedo (ou a barra de espaço) para beber e solte na zona marcada do medi
 
 ## A história por trás
 
-Na Edda em Prosa, Odin bebe o hidromel da poesia em três goles e foge em forma de águia. O medidor do jogo é invenção. Leia a história em [Odin e o hidromel da poesia: o roubo que deu aos poetas a sua arte](/2026/11/17/odin-hidromel-da-poesia/).
+Na Edda em Prosa, Odin bebe o hidromel da poesia em três goles e foge em forma de águia. O medidor do jogo é invenção. Leia a história em [Odin e o hidromel da poesia: o roubo que deu aos poetas a sua arte](/pt/odin-hidromel-da-poesia/).

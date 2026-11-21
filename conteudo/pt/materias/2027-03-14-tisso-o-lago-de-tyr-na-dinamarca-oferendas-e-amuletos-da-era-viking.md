@@ -45,4 +45,4 @@ Tissø é o lago de Tyr, com oferendas na água, um salão de grande senhor e am
 
 O Museu Nacional escreve "podem ter sido" casas de culto e "podem marcar" um sacrifício ao ar livre. Nem tudo o que foi achado é prova de culto, e ligar o lago a Tyr depende de o nome ser antigo e vir mesmo dele. Os sacrifícios humanos são só uma possibilidade.
 
-Para achar os pares de objetos de oferenda virados para baixo sobre a mesa, jogue [Os amuletos do lago](/jogo-os-amuletos-do-lago/).
+Para achar os pares de objetos de oferenda virados para baixo sobre a mesa, jogue [Os amuletos do lago](/pt/jogo-os-amuletos-do-lago/).

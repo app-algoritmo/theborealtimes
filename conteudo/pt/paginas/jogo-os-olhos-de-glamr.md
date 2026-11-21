@@ -23,4 +23,4 @@ Enquanto a lua brilha, os olhos de Glámr brilham e paralisam: não ataque. Quan
 
 ## A história por trás
 
-Na Saga de Grettir, Glámr tem um olhar que paralisa de medo, e a luta acontece numa noite de lua entre nuvens. A mecânica do jogo é invenção. Leia a história em [Grettir e o morto-vivo Glámr: a saga em que a lua revela os olhos de um fantasma](/2026/11/14/grettir-glamr/).
+Na Saga de Grettir, Glámr tem um olhar que paralisa de medo, e a luta acontece numa noite de lua entre nuvens. A mecânica do jogo é invenção. Leia a história em [Grettir e o morto-vivo Glámr: a saga em que a lua revela os olhos de um fantasma](/pt/grettir-glamr/).

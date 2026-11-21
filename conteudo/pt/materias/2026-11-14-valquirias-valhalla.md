@@ -37,4 +37,4 @@ Valhalla não é o único destino. O Grímnismál, estrofe 14, diz que Freyja go
 
 A imagem de mulheres loiras, de elmo alado, que voam sobre o campo de batalha vem em boa parte do século XIX, da arte romântica e da ópera *A Valquíria*, de Wagner, estreada em 1870. Nas fontes antigas, as valquírias aparecem também como mulheres guerreiras e como servas do salão, e a ideia de que só iam para Valhalla os que morriam em combate é uma simplificação: as fontes têm exceções.
 
-Para escolher quem vai para cada salão, jogue [A escolha da valquíria](/jogo-a-escolha-da-valquiria/).
+Para escolher quem vai para cada salão, jogue [A escolha da valquíria](/pt/jogo-a-escolha-da-valquiria/).

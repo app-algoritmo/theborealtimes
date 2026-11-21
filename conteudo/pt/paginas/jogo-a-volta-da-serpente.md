@@ -23,4 +23,4 @@ Os pontos formam uma grade. Toque entre dois pontos para traçar ou apagar um tr
 
 ## A história por trás
 
-O entalhe de Ramsund, na Suécia, mostra a lenda de Sigurd dentro de uma faixa de serpente. Traçar um laço com números é invenção. Leia a história em [Ramsund: o entalhe de Sigurd numa rocha da Suécia, por volta de 1030](/2027/02/28/ramsund-o-entalhe-de-sigurd-numa-rocha-da-suecia-por-volta-de-1030/).
+O entalhe de Ramsund, na Suécia, mostra a lenda de Sigurd dentro de uma faixa de serpente. Traçar um laço com números é invenção. Leia a história em [Ramsund: o entalhe de Sigurd numa rocha da Suécia, por volta de 1030](/pt/ramsund-o-entalhe-de-sigurd-numa-rocha-da-suecia-por-volta-de-1030/).

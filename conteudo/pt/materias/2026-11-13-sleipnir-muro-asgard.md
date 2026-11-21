@@ -40,4 +40,4 @@ Algum tempo depois, Loki voltou com um potro cinzento de oito patas, o melhor ca
 
 Snorri escreveu séculos depois da conversão da Islândia ao cristianismo, e o episódio chegou em uma única versão longa. O poema Völuspá, na *Edda Poética*, alude a juramentos feitos a um gigante e quebrados pelos deuses, o que alguns estudiosos relacionam a essa história, mas o poema não conta o episódio por inteiro.
 
-Para atrasar o muro como Loki, jogue [O muro de Asgard](/jogo-muro-de-asgard/).
+Para atrasar o muro como Loki, jogue [O muro de Asgard](/pt/jogo-muro-de-asgard/).

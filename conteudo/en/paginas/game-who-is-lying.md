@@ -23,4 +23,4 @@ Each character makes a statement about the others. A truth-teller always speaks 
 
 ## The story behind it
 
-In the Prose Edda, Loki guides the hand of the blind god Höðr, who shoots the mistletoe dart that kills Baldr. Working out who lies and who tells the truth at this table is invented. Read the story in [Höðr, the blind god: the mistletoe dart, the death of Baldr and the two versions of the story](/en/2027/01/31/hodr-deus-cego-balder-visco-loki/).
+In the Prose Edda, Loki guides the hand of the blind god Höðr, who shoots the mistletoe dart that kills Baldr. Working out who lies and who tells the truth at this table is invented. Read the story in [Höðr, the blind god: the mistletoe dart, the death of Baldr and the two versions of the story](/hodr-the-blind-god-the-mistletoe-dart-the-death-of-baldr/).

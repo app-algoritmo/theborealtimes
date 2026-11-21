@@ -23,4 +23,4 @@ Søsteren må samle tistelull uten å snakke, le eller gråte. Lilla tistler og 
 
 ## Historien bak
 
-I eventyret til Asbjørnsen og Moe må søsteren samle tistel og lage tolv skjorter uten å snakke, le eller gråte. Regnet av tistler og bobler og rytmen i spillet er oppdiktet. Les historien i [De tolv villendene: eventyret om søsteren som ikke fikk snakke, le eller gråte](/no/2027/03/28/os-doze-patos-selvagens-conto-de-asbjornsen-e-moe-da-irma-que-nao-podia-falar/).
+I eventyret til Asbjørnsen og Moe må søsteren samle tistel og lage tolv skjorter uten å snakke, le eller gråte. Regnet av tistler og bobler og rytmen i spillet er oppdiktet. Les historien i [De tolv villendene: eventyret om søsteren som ikke fikk snakke, le eller gråte](/no/de-tolv-villendene-eventyret-om-sosteren-som-ikke-fikk/).

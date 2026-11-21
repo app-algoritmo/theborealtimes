@@ -23,4 +23,4 @@ Steer the ship across the northern sea. Hold the left or right side of the scree
 
 ## The story behind it
 
-At Gjellestad, in Norway, a georadar found a buried Viking ship. The sea crossing is invented. Read the story in [Gjellestad: the Viking ship found by georadar in Halden, Norway](/en/2027/02/28/gjellestad-o-navio-viking-achado-por-georadar-em-halden-noruega/).
+At Gjellestad, in Norway, a georadar found a buried Viking ship. The sea crossing is invented. Read the story in [Gjellestad: the Viking ship found by georadar in Halden, Norway](/gjellestad-the-viking-ship-found-by-georadar-in-halden/).

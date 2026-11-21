@@ -23,4 +23,4 @@ Peer runs through the hall. Swipe sideways (or tap the left/right half; arrows o
 
 ## The story behind it
 
-In Ibsen's Peer Gynt, the Mountain King (Dovregubben) takes Peer to his hall of trolls. The run through the hall is made up. Read the story in [Peer Gynt and the Mountain King: from folk tale to Ibsen's stage](/en/2026/11/29/peer-gynt-dovregubben-asbjornsen-ibsen/).
+In Ibsen's Peer Gynt, the Mountain King (Dovregubben) takes Peer to his hall of trolls. The run through the hall is made up. Read the story in [Peer Gynt and the Mountain King: from folk tale to Ibsen's stage](/peer-gynt-and-the-mountain-king-from-folk-tale-to-ibsen-s/).

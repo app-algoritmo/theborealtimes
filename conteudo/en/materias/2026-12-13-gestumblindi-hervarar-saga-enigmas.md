@@ -41,4 +41,4 @@ The riddles survive in three main versions, called R, U and H. The H version, fr
 
 The game shows how knowledge and power were mixed up. The king wins by being wise, but the final question proves that some things only the gods know. The riddles in the game that follows are not those of the saga: they were invented for this site, in the same spirit.
 
-To answer riddles in the style of Gestumblindi, picking the right answer before time runs out, play [Gestumblindi's riddles](/en/game-gestumblindis-riddles/).
+To answer riddles in the style of Gestumblindi, picking the right answer before time runs out, play [Gestumblindi's riddles](/game-gestumblindis-riddles/).

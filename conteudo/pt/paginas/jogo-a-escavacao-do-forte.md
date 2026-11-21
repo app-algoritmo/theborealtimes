@@ -23,4 +23,4 @@ O terreno do forte está dividido em blocos de terra. Toque num bloco para escav
 
 ## A história por trás
 
-Fyrkat foi escavado de 1950 a 1958 e tem 16 casas compridas e cerca de 30 túmulos. Os achados escondidos do jogo são invenção. Leia a história em [Fyrkat: o forte circular viking perto de Hobro, na Dinamarca, por volta de 980](/2027/03/07/fyrkat-o-forte-circular-viking-perto-de-hobro-na-dinamarca-por-volta-de-980/).
+Fyrkat foi escavado de 1950 a 1958 e tem 16 casas compridas e cerca de 30 túmulos. Os achados escondidos do jogo são invenção. Leia a história em [Fyrkat: o forte circular viking perto de Hobro, na Dinamarca, por volta de 980](/pt/fyrkat-o-forte-circular-viking-perto-de-hobro-na-dinamarca-por-volta-de-980/).

@@ -39,4 +39,4 @@ Uma tradução para o inglês, de Hermann Pálsson e Paul Edwards, foi publicada
 
 A autoria é condicional, e a fonte não a trata como certa. A figura chamada Cnut na saga provavelmente corresponde a Hardacnut, não ao rei mais conhecido com esse nome. As equivalências entre os ídolos da saga e os deuses eslavos são presumidas. Os números de batizados são os que a saga apresenta, e a matéria não os confirma por outras fontes. Como todas as sagas, a *Knýtlinga saga* foi escrita muito depois dos fatos que narra, e é literatura, não um registro oficial.
 
-Para pintar o mapa de uma região dividida em reinos, sem que vizinhos tenham a mesma cor, jogue [O mapa dos reinos](/jogo-o-mapa-dos-reinos/).
+Para pintar o mapa de uma região dividida em reinos, sem que vizinhos tenham a mesma cor, jogue [O mapa dos reinos](/pt/jogo-o-mapa-dos-reinos/).

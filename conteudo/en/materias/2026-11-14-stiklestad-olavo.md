@@ -36,4 +36,4 @@ Snorri writes that, on the day of the battle, the sun turned "red as blood", an 
 
 Per Sivle's poem of 1901 brought in the standard-bearer Tord Foleson, whose banner stayed raised after the king fell. A monument, the Olavsstøtta, was put up in 1807, and since 1954 the play *Saint Olav Drama* has been staged every July at Stiklestad. None of this is in Snorri, but it helps explain why the battle remains alive in Norwegian memory.
 
-To hold the line until the sun darkens, play [Hold the line at Stiklestad](/en/game-hold-the-line-at-stiklestad/).
+To hold the line until the sun darkens, play [Hold the line at Stiklestad](/game-hold-the-line-at-stiklestad/).

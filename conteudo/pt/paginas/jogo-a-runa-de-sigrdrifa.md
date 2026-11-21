@@ -23,4 +23,4 @@ Os números mostram quantas casas seguidas devem ser pintadas em cada linha e co
 
 ## A história por trás
 
-No Sigrdrífumál, a valquíria ensina runas a Sigurd. A grade de pistas é invenção. Leia a história em [Sigrdrífumál: a valquíria que acordou e ensinou as runas a Sigurd](/2026/12/06/sigrdrifumal-valquiria-ensina-runas/).
+No Sigrdrífumál, a valquíria ensina runas a Sigurd. A grade de pistas é invenção. Leia a história em [Sigrdrífumál: a valquíria que acordou e ensinou as runas a Sigurd](/pt/sigrdrifumal-valquiria-ensina-runas/).

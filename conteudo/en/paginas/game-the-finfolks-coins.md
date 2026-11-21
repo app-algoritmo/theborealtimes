@@ -23,4 +23,4 @@ A stack of silver coins of different sizes is out of order. Tap a coin to flip u
 
 ## The story behind it
 
-In Orkney folklore, the Finfolk are sea sorcerers who abduct people; a silver coin is said to be a way to escape them. Flipping stacks of coins is invented. Read the story in [Finfolk: the sea sorcerers of Orkney, the silver coin and the chalk cross](/en/2027/02/14/finfolk-feiticeiros-do-mar-das-orcades-moedas-de-prata/).
+In Orkney folklore, the Finfolk are sea sorcerers who abduct people; a silver coin is said to be a way to escape them. Flipping stacks of coins is invented. Read the story in [Finfolk: the sea sorcerers of Orkney, the silver coin and the chalk cross](/finfolk-the-sea-sorcerers-of-orkney-the-silver-coin/).

@@ -39,4 +39,4 @@ The Althing lost power little by little, under Norwegian and then Danish rule, a
 
 For Icelanders, Þingvellir is a place of identity. It is a World Heritage site and a national park, and its value lies less in ruins than in what it represents: the idea that a people's laws can be made by the people themselves, aloud, in the open air.
 
-To recite the law at the right rhythm, play [The Lawspeaker](/en/game-the-lawspeaker/).
+To recite the law at the right rhythm, play [The Lawspeaker](/game-the-lawspeaker/).

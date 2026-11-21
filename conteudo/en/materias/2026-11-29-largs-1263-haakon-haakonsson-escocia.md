@@ -41,4 +41,4 @@ In 1266, by the Treaty of Perth, Norway ceded to Scotland the Hebrides and the I
 
 Largs, therefore, did not settle the question by arms. What settled it was the exhaustion of an expedition that lost the initiative, the death of the king and the will of a new ruler to avoid another war. For the Scots, the episode remained as the memory of a threat driven off. For the Norwegians, it was the end of an era.
 
-To beat back, from the beach, the waves of attackers coming down on the stranded ships, before they reach the line of boats, play [The beach at Largs](/en/game-the-beach-at-largs/).
+To beat back, from the beach, the waves of attackers coming down on the stranded ships, before they reach the line of boats, play [The beach at Largs](/game-the-beach-at-largs/).

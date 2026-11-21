@@ -39,4 +39,4 @@ The forging tale appears only in Snorri, written in the 13th century by a Christ
 
 Archaeology confirms that the hammer mattered. Many pendants in the shape of Thor's hammer have been found in graves and settlements of the Viking Age. A mould found in Denmark was used to cast both hammers and crosses, which suggests people living between two beliefs. The sources do not say the pendant had power, and this text attributes power to none of them. What is known is that people wore them.
 
-To try to swat the flies at the forge before they spoil the hammer, play [Flies at the forge](/en/game-flies-at-the-forge/).
+To try to swat the flies at the forge before they spoil the hammer, play [Flies at the forge](/game-flies-at-the-forge/).

@@ -39,4 +39,4 @@ A *kings' saga* is a narrative of historical kings, different from the sagas of 
 
 The authorship is conditional, and the source does not treat it as certain. The figure called Cnut in the saga probably corresponds to Harthacnut, not to the better-known king of that name. The equivalences between the idols of the saga and the Slavic gods are presumed. The numbers of baptisms are those the saga presents, and this piece does not confirm them from other sources. Like all sagas, *Knýtlinga saga* was written long after the events it tells, and it is literature, not an official record.
 
-To paint a map of a region divided into realms, with no neighbours of the same colour, play [The map of the realms](/en/game-the-map-of-the-realms/).
+To paint a map of a region divided into realms, with no neighbours of the same colour, play [The map of the realms](/game-the-map-of-the-realms/).

@@ -23,4 +23,4 @@ The Bifröst bridge has three colours, and the gods can cross it only if you lig
 
 ## The story behind it
 
-In Snorri's Prose Edda, written in the thirteenth century, the Bifröst bridge has three colours, and the gods cross it every day, except Thor. The sequence of colours you repeat is invention. Read the story in [Bifröst: the three-coloured bridge the gods cross every day](/en/2027/03/21/bifrost-a-ponte-de-tres-cores-que-os-deuses-cruzam-todo-dia/).
+In Snorri's Prose Edda, written in the thirteenth century, the Bifröst bridge has three colours, and the gods cross it every day, except Thor. The sequence of colours you repeat is invention. Read the story in [Bifröst: the three-coloured bridge the gods cross every day](/bifrost-the-three-coloured-bridge-the-gods-cross-every-day/).

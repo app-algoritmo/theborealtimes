@@ -23,4 +23,4 @@ Cada tubo guarda peças coloridas, e cabem 4 em cada um. Toque num tubo e depois
 
 ## A história por trás
 
-Em 1873, depois de cheias, foram achados na ilha alemã de Hiddensee 16 pendentes, um broche e um colar, todos de ouro, do século X. Os pendentes combinam o martelo de Thor e a cruz. Separar peças por cor é invenção. Leia a história em [O tesouro de Hiddensee: pingentes de ouro que juntam o martelo de Thor e a cruz](/2027/02/21/tesouro-de-hiddensee-pingentes-de-ouro-martelo-de-thor-e-cruz/).
+Em 1873, depois de cheias, foram achados na ilha alemã de Hiddensee 16 pendentes, um broche e um colar, todos de ouro, do século X. Os pendentes combinam o martelo de Thor e a cruz. Separar peças por cor é invenção. Leia a história em [O tesouro de Hiddensee: pingentes de ouro que juntam o martelo de Thor e a cruz](/pt/tesouro-de-hiddensee-pingentes-de-ouro-martelo-de-thor-e-cruz/).

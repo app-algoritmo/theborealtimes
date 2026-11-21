@@ -23,4 +23,4 @@ Blocos de arenito descem. Toque à esquerda ou à direita do campo para mover, n
 
 ## A história por trás
 
-A catedral de São Magnus, em Kirkwall, teve a obra iniciada em 1137 por Rögnvald Kali. O encaixe de blocos é invenção. Leia a história em [Rögnvald Kali Kolsson e o começo da catedral de São Magnus, em Kirkwall](/2026/12/20/rognvald-kali-catedral-sao-magnus-kirkwall/).
+A catedral de São Magnus, em Kirkwall, teve a obra iniciada em 1137 por Rögnvald Kali. O encaixe de blocos é invenção. Leia a história em [Rögnvald Kali Kolsson e o começo da catedral de São Magnus, em Kirkwall](/pt/rognvald-kali-catedral-sao-magnus-kirkwall/).

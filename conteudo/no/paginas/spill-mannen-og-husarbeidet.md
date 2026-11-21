@@ -23,4 +23,4 @@ Flytt kurven (dra fingeren eller bruk ← → / A D) for å fange det som faller
 
 ## Historien bak
 
-I eventyret til Asbjørnsen og Moe bytter mannen plass med kona, og alt går galt, til og med kua på taket. Kurvspillet er diktet opp. Les historien i [Mannen som skulle stelle hjemme: eventyret om kua på taket](/no/2026/11/29/mannen-som-skulle-stelle-hjemme-vaca-no-telhado/).
+I eventyret til Asbjørnsen og Moe bytter mannen plass med kona, og alt går galt, til og med kua på taket. Kurvspillet er diktet opp. Les historien i [Mannen som skulle stelle hjemme: eventyret om kua på taket](/no/mannen-som-skulle-stelle-hjemme-eventyret-om-kua-pa-taket/).

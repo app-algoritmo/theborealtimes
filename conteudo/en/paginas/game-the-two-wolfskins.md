@@ -23,4 +23,4 @@ Two wolfskins cross and share two beads. The beads are out of place. Use the fou
 
 ## The story behind it
 
-In Völsunga saga, Sinfjötli and Sigmund put on cursed wolfskins and fall under a curse of lycanthropy. Turning rings of beads is invented. Read the story in [Sinfjötli: Sigmund's son, the wolfskins and the vengeance of the Völsungs](/en/2027/02/14/sinfjotli-filho-de-sigmund-peles-de-lobo-volsunga/).
+In Völsunga saga, Sinfjötli and Sigmund put on cursed wolfskins and fall under a curse of lycanthropy. Turning rings of beads is invented. Read the story in [Sinfjötli: Sigmund's son, the wolfskins and the vengeance of the Völsungs](/sinfjotli-sigmund-s-son-the-wolfskins-and-the-vengeance/).

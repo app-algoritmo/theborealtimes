@@ -23,4 +23,4 @@ Hermóðr rides Sleipnir towards Hel. Each night a marker runs back and forth al
 
 ## The story behind it
 
-In the Gylfaginning, Hermóðr rides Odin's Sleipnir for nine nights, passes the Gjöll bridge and leaps Hel's gate. The track of markers is invented. Read the story in [Hermóðr, the son of Odin who rode nine nights to Hel in search of Baldr](/en/2027/01/17/hermodr-cavalgada-nove-noites-hel-baldr/).
+In the Gylfaginning, Hermóðr rides Odin's Sleipnir for nine nights, passes the Gjöll bridge and leaps Hel's gate. The track of markers is invented. Read the story in [Hermóðr, the son of Odin who rode nine nights to Hel in search of Baldr](/hermodr-the-son-of-odin-who-rode-nine-nights-to-hel/).

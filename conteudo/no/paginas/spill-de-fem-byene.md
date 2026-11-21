@@ -23,4 +23,4 @@ Fem byer har 1, 2, 3, 4 og 5 brikker. Du spiller først, så motstanderen. På d
 
 ## Historien bak
 
-De fem byene var Leicester, Nottingham, Derby, Stamford og Lincoln. Ordet Danelagen dukker først opp tidlig på 1000-tallet, i den gammelengelske formen Dena lage. Spillet er oppfunnet. Les historien i [Danelagen, «danskenes lov» i England: traktaten, de fem byene og stedsnavnene](/no/2027/01/17/danelaw-cinco-burgos-lei-dinamarquesa-inglaterra/).
+De fem byene var Leicester, Nottingham, Derby, Stamford og Lincoln. Ordet Danelagen dukker først opp tidlig på 1000-tallet, i den gammelengelske formen Dena lage. Spillet er oppfunnet. Les historien i [Danelagen, «danskenes lov» i England: traktaten, de fem byene og stedsnavnene](/no/danelagen-danskenes-lov-i-england-traktaten-de-fem-byene/).

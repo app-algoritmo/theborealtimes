@@ -33,4 +33,4 @@ Uma das pedras mais conhecidas, a de Ardre, mostra a lenda de Völund, o ferreir
 
 As pedras de Gotland são um lembrete de que nem todos os registros da Era Viking foram escritos. Os navios de vela, em particular, interessam aos estudiosos porque mostram como os gotlandeses viam o mar. Mas é preciso cuidado ao tirar conclusões: uma pedra isolada, mal conservada e restaurada várias vezes, é uma fonte frágil. Por isso, os pesquisadores comparam muitas pedras, escavações e textos antes de propor uma leitura.
 
-Para pintar uma pedra inteira de uma só cor, trocando a cor da mancha a partir do canto, em poucas jogadas, jogue [A imagem de Gotland](/jogo-a-imagem-de-gotland/).
+Para pintar uma pedra inteira de uma só cor, trocando a cor da mancha a partir do canto, em poucas jogadas, jogue [A imagem de Gotland](/pt/jogo-a-imagem-de-gotland/).

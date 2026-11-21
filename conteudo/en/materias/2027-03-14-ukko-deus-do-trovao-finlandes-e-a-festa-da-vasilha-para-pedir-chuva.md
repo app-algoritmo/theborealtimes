@@ -45,4 +45,4 @@ Ukko is the old man of the Finnish sky: thunder, weather and harvest. His best-k
 
 Because the cult appears in writing only in 1551, we cannot tell how much of what Agricola and later collectors describe was old and how much was mixed with Christian belief. Ukko's own place among the gods, supreme or one among several, is still debated.
 
-To steer a thunder cloud over the fields and let the rain fall in the right place, play [Rain on the field](/en/game-rain-on-the-field/).
+To steer a thunder cloud over the fields and let the rain fall in the right place, play [Rain on the field](/game-rain-on-the-field/).

@@ -23,4 +23,4 @@ Each island has a number: how many bridges must leave it. Tap one island and the
 
 ## The story behind it
 
-According to the saga, the poet Hallfreðr served Hákon Sigurðarson, Óláfr Tryggvason and Eiríkr Hákonarson, and told in verse of his difficult conversion to Christianity. Linking islands with bridges is invented. Read the story in [Hallfreðar saga: the poet who served three chiefs and his difficult conversion](/en/2027/01/31/hallfredar-saga-vandraedaskald-poeta-conversao/).
+According to the saga, the poet Hallfreðr served Hákon Sigurðarson, Óláfr Tryggvason and Eiríkr Hákonarson, and told in verse of his difficult conversion to Christianity. Linking islands with bridges is invented. Read the story in [Hallfreðar saga: the poet who served three chiefs and his difficult conversion](/hallfredar-saga-the-poet-who-served-three-chiefs/).

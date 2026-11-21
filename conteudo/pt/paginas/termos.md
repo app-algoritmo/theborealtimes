@@ -23,7 +23,7 @@ Os jogos são inspirados nas histórias e feitos para entretenimento. Quando um 
 
 ## 4. Newsletter
 
-A newsletter é gratuita e exige o seu consentimento, confirmado por e-mail. Você pode cancelar quando quiser, em um clique, pelo link no fim de cada mensagem. Os dados tratados e os seus direitos estão na [política de privacidade](/privacidade/).
+A newsletter é gratuita e exige o seu consentimento, confirmado por e-mail. Você pode cancelar quando quiser, em um clique, pelo link no fim de cada mensagem. Os dados tratados e os seus direitos estão na [política de privacidade](/pt/privacidade/).
 
 ## 5. Propriedade intelectual
 

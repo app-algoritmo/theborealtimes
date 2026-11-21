@@ -37,4 +37,4 @@ Na prosa final, o poema diz que Loki se escondeu num rio, sob a forma de um salm
 
 Vale notar que o *Lokasenna* é preservado no Codex Regius, o manuscrito islandês que reúne os poemas da *Edda Poética*, e que o poema tem pouco de ação. Quase tudo é fala, e o efeito vem do ritmo das respostas. Alguns leitores acham que o poeta se divertia ao fazer os deuses parecerem humanos demais, e a obra continua a ser um dos melhores exemplos de humor nórdico medieval.
 
-Para disputar com Loki uma partida em que cada jogada é uma taça servida no salão de Ægir, jogue [As taças de Ægir](/jogo-as-tacas-de-aegir/).
+Para disputar com Loki uma partida em que cada jogada é uma taça servida no salão de Ægir, jogue [As taças de Ægir](/pt/jogo-as-tacas-de-aegir/).

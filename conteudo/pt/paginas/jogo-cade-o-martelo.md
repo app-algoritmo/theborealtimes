@@ -23,4 +23,4 @@ O martelo aparece por um instante sob uma das três almofadas. Depois elas se tr
 
 ## A história por trás
 
-No poema Þrymskviða, o gigante Thrym rouba o martelo de Thor e o enterra, e Thor se disfarça de noiva para recuperá-lo. O jogo das almofadas é invenção. Leia a história em [Thor vestido de noiva: o poema em que o martelo é roubado e o gigante Thrym espera casar](/2026/11/14/thor-noiva-thrym/).
+No poema Þrymskviða, o gigante Thrym rouba o martelo de Thor e o enterra, e Thor se disfarça de noiva para recuperá-lo. O jogo das almofadas é invenção. Leia a história em [Thor vestido de noiva: o poema em que o martelo é roubado e o gigante Thrym espera casar](/pt/thor-noiva-thrym/).

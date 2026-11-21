@@ -47,4 +47,4 @@ Gjellestad é um sepultamento em navio, achado por georadar ao lado do monte Jel
 
 As fontes dão contagens diferentes de montes: ao menos oito, ao menos dez e 15 outros montes monumentais, o que parece refletir levantamentos mais completos com o tempo. A parte de cima do navio e o comprimento total são estimados. O museu diz que não há ainda indício do sexo de restos humanos, e a data do saque é desconhecida. A cronologia do sítio ainda precisa de mais trabalho.
 
-Para atravessar o mar com um navio, apanhar runas e desviar de rochas e gelo, jogue [A travessia do navio](/jogo-a-travessia-do-navio/).
+Para atravessar o mar com um navio, apanhar runas e desviar de rochas e gelo, jogue [A travessia do navio](/pt/jogo-a-travessia-do-navio/).

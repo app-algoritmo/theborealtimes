@@ -23,4 +23,4 @@ Bekkehesten venter ved et skjult vadested i elva. Trykk på en stein for å trå
 
 ## Historien bak
 
-I svensk tradisjon venter bekkehesten ved vannet, og den som setter seg på, kommer aldri ned igjen. Det skjulte vadestedet og hintene er oppfunnet. Les historien i [Bäckahäst: den hvite bekkehesten som drukner den som setter seg på ryggen hans](/no/2026/12/27/backahast-cavalo-do-riacho-folclore-sueco/).
+I svensk tradisjon venter bekkehesten ved vannet, og den som setter seg på, kommer aldri ned igjen. Det skjulte vadestedet og hintene er oppfunnet. Les historien i [Bäckahäst: den hvite bekkehesten som drukner den som setter seg på ryggen hans](/no/backahast-den-hvite-bekkehesten-som-drukner-den-som-setter/).

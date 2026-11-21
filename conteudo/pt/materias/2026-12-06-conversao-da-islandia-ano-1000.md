@@ -37,4 +37,4 @@ O trecho de Ari é a fonte mais próxima. Há versões posteriores, como a *Kris
 
 A cena mostra uma forma de decisão incomum: um país sem rei resolve um conflito religioso por meio de um árbitro, de uma lei e de um acordo. Também mostra que a conversão foi gradual. O novo credo se impôs oficialmente, mas costumes antigos permaneceram por algum tempo. Ari escreveu como padre cristão, de modo que o relato tem um ponto de vista. Os historiadores o leem com atenção, comparando-o com outras fontes.
 
-Para mover, um a um, quatro blocos entre três pilares, sem nunca pôr um bloco maior sobre um menor, como numa decisão que exige ordem, jogue [Os quatro blocos](/jogo-os-quatro-blocos/).
+Para mover, um a um, quatro blocos entre três pilares, sem nunca pôr um bloco maior sobre um menor, como numa decisão que exige ordem, jogue [Os quatro blocos](/pt/jogo-os-quatro-blocos/).

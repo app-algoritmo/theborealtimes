@@ -23,4 +23,4 @@ Drag your finger (or use the arrows) up and down. Collect eight pearls and dodge
 
 ## The story behind it
 
-In the legend from the Faroe Islands, the Kópakonan is a seal woman who loses and finds her skin again. The dive in the game is made up. Read the story in [Kópakonan: the seal woman of Mikladalur, a legend from the Faroe Islands](/en/2026/11/17/kopakonan-foca-ilhas-faroe/).
+In the legend from the Faroe Islands, the Kópakonan is a seal woman who loses and finds her skin again. The dive in the game is made up. Read the story in [Kópakonan: the seal woman of Mikladalur, a legend from the Faroe Islands](/kopakonan-the-seal-woman-of-mikladalur-a-legend/).

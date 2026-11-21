@@ -23,4 +23,4 @@ En planke glir fra side til side. Trykk for å slippe den ned på den under: det
 
 ## Historien bak
 
-Oseberg- og Gokstadskipene ble bygget av eik, med overlappende, naglede planker, teknikken som kalles «klinkbygging». Stablemekanikken er spillets oppfinnelse. Les historien i [Oseberg- og Gokstadskipene: to vikingskip gravlagt sammen med de døde](/no/2026/11/12/navios-oseberg-gokstad-vikings/).
+Oseberg- og Gokstadskipene ble bygget av eik, med overlappende, naglede planker, teknikken som kalles «klinkbygging». Stablemekanikken er spillets oppfinnelse. Les historien i [Oseberg- og Gokstadskipene: to vikingskip gravlagt sammen med de døde](/no/oseberg-og-gokstadskipene-to-vikingskip-gravlagt-sammen/).

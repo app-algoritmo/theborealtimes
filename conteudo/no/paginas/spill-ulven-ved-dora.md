@@ -23,4 +23,4 @@ Verren og grisen bygde et hus i skogen sammen med gjessa, haren og hanen. Grå u
 
 ## Historien bak
 
-I eventyret til Asbjørnsen og Moe bygger verren, grisen, gjessa, haren og hanen et hus i skogen og jager bort to ulver, hver på sin måte. Ulvene som kommer på rad og rytmen i spillet er oppdiktet. Les historien i [Sauen og grisen som skulle bo i skogen: et eventyr fra Asbjørnsen og Moe og ulvene](/no/2027/04/04/o-carneiro-e-o-porco-que-foram-morar-na-floresta-conto-de-asbjornsen-e-moe-e-os-lobos/).
+I eventyret til Asbjørnsen og Moe bygger verren, grisen, gjessa, haren og hanen et hus i skogen og jager bort to ulver, hver på sin måte. Ulvene som kommer på rad og rytmen i spillet er oppdiktet. Les historien i [Sauen og grisen som skulle bo i skogen: et eventyr fra Asbjørnsen og Moe og ulvene](/no/sauen-og-grisen-som-skulle-bo-i-skogen-et-eventyr/).

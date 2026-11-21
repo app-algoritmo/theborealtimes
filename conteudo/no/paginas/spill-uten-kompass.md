@@ -23,4 +23,4 @@ Bjarni seiler mot Grønland uten kart og kompass, og vinden skyver skipet sidele
 
 ## Historien bak
 
-Ifølge Grønlendingenes saga kom Bjarni ut av kurs mot Grønland, uten kart og kompass, og så tre land uten å gå i land. Vindene og strekningene i spillet er oppdiktet. Les historien i [Bjarni Herjólfsson: kapteinen som så land i vest og ikke gikk i land](/no/2027/03/21/bjarni-herjolfsson-o-capitao-que-viu-terras-no-oeste-e-nao-desembarcou/).
+Ifølge Grønlendingenes saga kom Bjarni ut av kurs mot Grønland, uten kart og kompass, og så tre land uten å gå i land. Vindene og strekningene i spillet er oppdiktet. Les historien i [Bjarni Herjólfsson: kapteinen som så land i vest og ikke gikk i land](/no/bjarni-herjolfsson-kapteinen-som-sa-land-i-vest-og-ikke/).

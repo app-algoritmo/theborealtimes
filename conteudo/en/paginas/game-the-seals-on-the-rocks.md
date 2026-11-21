@@ -23,4 +23,4 @@ Seals appear on the rocks and soon vanish. Tap a seal before it vanishes. A seal
 
 ## The story behind it
 
-Selkies are, in folklore, seals that shed their skin and become people, mostly in the Northern Isles of Scotland; the name comes from Scots "selch", grey seal. Tapping seals that appear is invented. Read the story in [Selkie: the seal who sheds her skin and becomes a person in the northern isles of Scotland](/en/2027/02/21/selkie-a-foca-que-vira-gente-orcadas-shetland-pele-roubada/).
+Selkies are, in folklore, seals that shed their skin and become people, mostly in the Northern Isles of Scotland; the name comes from Scots "selch", grey seal. Tapping seals that appear is invented. Read the story in [Selkie: the seal who sheds her skin and becomes a person in the northern isles of Scotland](/selkie-the-seal-who-sheds-her-skin-and-becomes-a-person/).

@@ -23,4 +23,4 @@ Buddha-statuetten ligger under en av krukkene. Se hvor den ligger, følg med men
 
 ## Historien bak
 
-På Helgö i Sverige fant utgravinger i 1954 en bronsestatuett av Buddha, fra 500-tallet og i nordindisk stil. Byttingen av krukkene er oppfunnet. Les historien i [Helgö: Buddha-statuetten funnet på en øy i Mälaren i Sverige](/no/2027/03/07/helgo-a-estatueta-de-buda-achada-numa-ilha-do-lago-malaren-na-suecia/).
+På Helgö i Sverige fant utgravinger i 1954 en bronsestatuett av Buddha, fra 500-tallet og i nordindisk stil. Byttingen av krukkene er oppfunnet. Les historien i [Helgö: Buddha-statuetten funnet på en øy i Mälaren i Sverige](/no/helgo-buddha-statuetten-funnet-pa-en-oy-i-malaren-i-sverige/).

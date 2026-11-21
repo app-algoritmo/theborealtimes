@@ -23,4 +23,4 @@ Trykk på en brikke for å snu den. Knytt alle 25 brikkene til startpunktet, mer
 
 ## Historien bak
 
-Eirik styrte York, i Nord-England, i 947–948 og 952–954. Veiene i spillet er diktet opp. Les historien i [Eirik Blodøks: den norske kongen som styrte York og mistet tronen to ganger](/no/2026/12/06/erico-machado-sangrento-york-954/).
+Eirik styrte York, i Nord-England, i 947–948 og 952–954. Veiene i spillet er diktet opp. Les historien i [Eirik Blodøks: den norske kongen som styrte York og mistet tronen to ganger](/no/eirik-blodoks-den-norske-kongen-som-styrte-york-og-mistet/).

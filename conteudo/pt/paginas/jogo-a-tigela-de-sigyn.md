@@ -23,4 +23,4 @@ Arraste a tigela, ou use as setas, para aparar as gotas de veneno. Quando ela en
 
 ## A história por trás
 
-Na Edda em Prosa de Snorri, Loki é acorrentado e uma serpente pinga veneno sobre ele; sua esposa Sigyn segura uma tigela e, quando vai esvaziá-la, o veneno cai nele, que se debate e faz a terra tremer. O jogo é uma simplificação. Leia a história em [Loki acorrentado: o banquete em que ele insultou os deuses e a punição que o espera até o Ragnarök](/2026/11/14/loki-acorrentado-sigyn/).
+Na Edda em Prosa de Snorri, Loki é acorrentado e uma serpente pinga veneno sobre ele; sua esposa Sigyn segura uma tigela e, quando vai esvaziá-la, o veneno cai nele, que se debate e faz a terra tremer. O jogo é uma simplificação. Leia a história em [Loki acorrentado: o banquete em que ele insultou os deuses e a punição que o espera até o Ragnarök](/pt/loki-acorrentado-sigyn/).

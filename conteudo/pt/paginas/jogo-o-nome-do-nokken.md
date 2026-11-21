@@ -23,4 +23,4 @@ O nøkken sobe do lago na direção da criança. Toque nas letras N, Ø, K, K, n
 
 ## A história por trás
 
-No folclore da Noruega, o nøkken é um espírito da água que atrai pessoas para se afogarem. Em alguns relatos, saber o nome dele ou usar ferro o afasta. A brincadeira com as letras é invenção do jogo. Leia a história em [Nøkken: o espírito do lago que toca violino e afoga quem se aproxima](/2026/11/14/nokken-lago/).
+No folclore da Noruega, o nøkken é um espírito da água que atrai pessoas para se afogarem. Em alguns relatos, saber o nome dele ou usar ferro o afasta. A brincadeira com as letras é invenção do jogo. Leia a história em [Nøkken: o espírito do lago que toca violino e afoga quem se aproxima](/pt/nokken-lago/).

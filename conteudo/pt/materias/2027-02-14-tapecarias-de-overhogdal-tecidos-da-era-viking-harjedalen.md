@@ -48,4 +48,4 @@ Os tecidos de Överhogdal foram achados em 1909 e levados a Östersund em 1910. 
 
 A data varia entre o intervalo de 800 a 1100 e o de 1040 a 1170, conforme o teste. A contagem de animais muda de 146 para 149, e a diferença, segundo se pode calcular, vem dos 3 animais parciais. A interpretação, entre o Ragnarök e a cristianização, não está resolvida, e as duas fontes não dizem quem fez os tecidos nem por que foram parar numa igreja.
 
-Para recompor faixas de um tecido deslizando linhas e colunas até a imagem voltar ao lugar, como num tear, jogue [O tear de Överhogdal](/jogo-o-tear-de-overhogdal/).
+Para recompor faixas de um tecido deslizando linhas e colunas até a imagem voltar ao lugar, como num tear, jogue [O tear de Överhogdal](/pt/jogo-o-tear-de-overhogdal/).

@@ -41,4 +41,4 @@ O artigo o descreve como o maior tesouro de prata viking do mundo. A recompensa 
 
 Quem enterrou a prata e por que nunca voltou para buscá-la é algo que a fonte não responde. O que o achado mostra, com números e moedas, é como a prata do mundo islâmico chegava ao Báltico.
 
-Para somar moedas até chegar o mais perto possível de 21, sem passar, jogue [As moedas de Spillings](/jogo-as-moedas-de-spillings/).
+Para somar moedas até chegar o mais perto possível de 21, sem passar, jogue [As moedas de Spillings](/pt/jogo-as-moedas-de-spillings/).

@@ -44,4 +44,4 @@ Fanitullen é uma melodia da rabeca norueguesa ligada, pela lenda, a um violinis
 
 Os documentos de tribunal apoiam a briga entre os dois rapazes, mas não o violinista diabólico, que pertence à lenda. Não se sabe quando a lenda foi ligada a esse casamento nem quanto dela é anterior a 1724. Também é difícil dizer se a forma atual da melodia, com sua afinação especial, é a mesma que se tocava em 1724.
 
-Para tocar as cordas no ritmo e manter a briga longe do casamento, jogue [As cordas da rabeca](/jogo-as-cordas-da-rabeca/).
+Para tocar as cordas no ritmo e manter a briga longe do casamento, jogue [As cordas da rabeca](/pt/jogo-as-cordas-da-rabeca/).

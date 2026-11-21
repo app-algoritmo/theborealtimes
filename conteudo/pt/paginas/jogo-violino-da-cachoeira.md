@@ -23,4 +23,4 @@ Quatro cordas, quatro colunas. Quando uma nota dourada chegar à linha brilhante
 
 ## A história por trás
 
-No folclore norueguês, Fossegrim vive nas cachoeiras e ensina violino a quem lhe leva um presente numa noite de quinta-feira, a ponto de as árvores dançarem. As notas e a melodia do jogo são invenção. Leia a história em [Fossegrim: o espírito da cachoeira que ensina violino a quem lhe leva um presente](/2026/11/13/fossegrim-violino/).
+No folclore norueguês, Fossegrim vive nas cachoeiras e ensina violino a quem lhe leva um presente numa noite de quinta-feira, a ponto de as árvores dançarem. As notas e a melodia do jogo são invenção. Leia a história em [Fossegrim: o espírito da cachoeira que ensina violino a quem lhe leva um presente](/pt/fossegrim-violino/).

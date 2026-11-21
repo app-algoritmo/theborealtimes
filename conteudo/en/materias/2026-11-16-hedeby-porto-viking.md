@@ -48,4 +48,4 @@ In 1050, the Norwegian king Harald Hardrada attacked the town and set it on fire
 
 Because nobody rebuilt the town on top of it, the ground preserved many traces. In 2018, UNESCO added the Hedeby and Danevirke complex to the World Heritage list. The museum beside the site shows rebuilt houses, and it is one of the best places to see the Viking Age as a time of exchange, and not only of raids.
 
-To organise the cargo on the quay, play [The port of Hedeby](/en/game-the-port-of-hedeby/).
+To organise the cargo on the quay, play [The port of Hedeby](/game-the-port-of-hedeby/).

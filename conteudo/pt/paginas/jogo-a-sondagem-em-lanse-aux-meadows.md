@@ -23,4 +23,4 @@ O terreno está dividido em 49 quadrados e esconde 6 charcos. Toque num quadrado
 
 ## A história por trás
 
-Helge e Anne Stine Ingstad escavaram L'Anse aux Meadows entre 1961 e 1968. Há restos de oito edifícios, e um estudo de 2021 apontou o ano de 1021 como o de uma atividade nórdica no local. Os charcos são invenção. Leia a história em [L'Anse aux Meadows, o sítio nórdico na Terra Nova: o que as escavações mostraram](/2027/01/17/lanse-aux-meadows-sitio-nordico-terra-nova-ingstad/).
+Helge e Anne Stine Ingstad escavaram L'Anse aux Meadows entre 1961 e 1968. Há restos de oito edifícios, e um estudo de 2021 apontou o ano de 1021 como o de uma atividade nórdica no local. Os charcos são invenção. Leia a história em [L'Anse aux Meadows, o sítio nórdico na Terra Nova: o que as escavações mostraram](/pt/lanse-aux-meadows-sitio-nordico-terra-nova-ingstad/).

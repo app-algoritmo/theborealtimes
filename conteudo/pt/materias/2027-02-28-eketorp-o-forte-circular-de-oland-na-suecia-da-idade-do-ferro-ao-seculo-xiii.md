@@ -48,4 +48,4 @@ Eketorp teve três fases: um refúgio ocasional, um povoado de cerca de 150 pess
 
 As duas fontes divergem em partes: o artigo dá Eketorp I como de 300 a 400 e a reutilização em cerca de 1170, e o verbete dá o forte original como de cerca de 400 e a reutilização no início do século XI. O motivo do abandono por volta de 650 é inferido, e a finalidade do Eketorp I é deduzida de poucos achados. A grade do portão é uma possibilidade, e as populações são estimativas.
 
-Para girar três anéis até as portas do forte ficarem em linha, jogue [Os portões de Eketorp](/jogo-os-portoes-de-eketorp/).
+Para girar três anéis até as portas do forte ficarem em linha, jogue [Os portões de Eketorp](/pt/jogo-os-portoes-de-eketorp/).

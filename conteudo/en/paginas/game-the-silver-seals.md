@@ -23,4 +23,4 @@ On each 4-by-4 board, fill the empty squares with numbers from 1 to 4, so that e
 
 ## The story behind it
 
-Thorkell the Tall was a Danish warlord who led attacks on England from 1009, later served King Æthelred and, later still, Cnut, who made him earl of East Anglia. Filling seals is invented. Read the story in [Thorkell the Tall: from the siege of Canterbury to the earldom of East Anglia](/en/2027/02/07/thorkell-o-alto-canterbury-aelfheah-canuto/).
+Thorkell the Tall was a Danish warlord who led attacks on England from 1009, later served King Æthelred and, later still, Cnut, who made him earl of East Anglia. Filling seals is invented. Read the story in [Thorkell the Tall: from the siege of Canterbury to the earldom of East Anglia](/thorkell-the-tall-from-the-siege-of-canterbury/).

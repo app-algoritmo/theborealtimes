@@ -23,4 +23,4 @@ Os números ao lado de cada linha e acima de cada coluna dizem quantas casas seg
 
 ## A história por trás
 
-Na Vafþrúðnismál, Líf e Lífþrasir sobrevivem ao inverno do fim do mundo escondidos no bosque Hoddmímis holt, e comem o orvalho da manhã. Pintar casas pelas dicas é invenção. Leia a história em [Líf e Lífþrasir: o casal que sobrevive ao fim do mundo no bosque de Hoddmímir](/2027/02/21/lif-e-lifthrasir-sobreviventes-do-fim-do-mundo-hoddmimis-holt/).
+Na Vafþrúðnismál, Líf e Lífþrasir sobrevivem ao inverno do fim do mundo escondidos no bosque Hoddmímis holt, e comem o orvalho da manhã. Pintar casas pelas dicas é invenção. Leia a história em [Líf e Lífþrasir: o casal que sobrevive ao fim do mundo no bosque de Hoddmímir](/pt/lif-e-lifthrasir-sobreviventes-do-fim-do-mundo-hoddmimis-holt/).

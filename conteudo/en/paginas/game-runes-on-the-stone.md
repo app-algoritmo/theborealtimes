@@ -23,4 +23,4 @@ The numbers for each row and column say how many squares in a row must be carved
 
 ## The story behind it
 
-More than twenty Swedish runestones remember the men of the Ingvar expedition to the east. The clues in the game are made up. Read the story in [Ingvar's stones: the Swedish expedition to Serkland that was carved in stone](/en/2026/11/20/ingvar-pedras-runicas-serkland/).
+More than twenty Swedish runestones remember the men of the Ingvar expedition to the east. The clues in the game are made up. Read the story in [Ingvar's stones: the Swedish expedition to Serkland that was carved in stone](/ingvar-s-stones-the-swedish-expedition-to-serkland/).

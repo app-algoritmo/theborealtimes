@@ -23,4 +23,4 @@ Each square is worth a number: that of its column, for the row sum, and that of 
 
 ## The story behind it
 
-In the Danelaw, in England, there are many hundreds of place-names of Scandinavian origin; "-by" means a farmstead and is the most common element, and "-thorpe" a secondary settlement. Marking squares by sums is invented. Read the story in [Norse place-names in England: what -by, -thorpe and -thwaite say about the Danelaw](/en/2027/02/21/toponimos-nordicos-na-inglaterra-by-thorpe-e-o-danelaw/).
+In the Danelaw, in England, there are many hundreds of place-names of Scandinavian origin; "-by" means a farmstead and is the most common element, and "-thorpe" a secondary settlement. Marking squares by sums is invented. Read the story in [Norse place-names in England: what -by, -thorpe and -thwaite say about the Danelaw](/norse-place-names-in-england-what-by-thorpe-and-thwaite-say/).

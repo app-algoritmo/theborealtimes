@@ -39,4 +39,4 @@ The results also helped correct an old idea. For a long time, the Vikings were s
 
 Today, part of this collection can be seen in Dublin museums, and the subject is still discussed by those interested in urban memory. The lesson many draw from the case is that buried heritage can be studied only once, and that a well-documented excavation is often the only chance to preserve the information.
 
-To take over the map of the town, plot by plot, until it is painted a single colour, play [Dublin's plots](/en/game-dublins-plots/).
+To take over the map of the town, plot by plot, until it is painted a single colour, play [Dublin's plots](/game-dublins-plots/).

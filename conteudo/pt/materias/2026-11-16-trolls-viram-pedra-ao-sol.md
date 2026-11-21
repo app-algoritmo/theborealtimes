@@ -43,4 +43,4 @@ A ideia de que a luz derrota as criaturas da noite é universal. Nas culturas es
 
 Hoje, os trolls aparecem em livros, filmes e jogos. A regra do sol continua útil a quem conta histórias: dá ao herói um prazo e ao leitor um motivo para ter pressa.
 
-Para guiar os trolls às cavernas antes que o sol nasça, jogue [Antes que o sol nasça](/jogo-antes-que-o-sol-nasca/).
+Para guiar os trolls às cavernas antes que o sol nasça, jogue [Antes que o sol nasça](/pt/jogo-antes-que-o-sol-nasca/).

@@ -23,4 +23,4 @@ Os Jólasveinar chegam pela janela, um por vez, e cada um quer roubar uma coisa 
 
 ## A história por trás
 
-Segundo as fontes, os Jólasveinar chegam um por noite nas treze noites antes do Natal, e cada um tem um nome ligado ao que faz, como Bjúgnakrækir, o ladrão de salsichas. Esta ceia e as ordens de chegada são invenção. Leia a história em [Os treze Jólasveinar da Islândia e as noites de Natal dos meninos travessos](/2027/03/21/os-treze-jolasveinar-da-islandia-e-as-noites-de-natal-dos-meninos-travessos/).
+Segundo as fontes, os Jólasveinar chegam um por noite nas treze noites antes do Natal, e cada um tem um nome ligado ao que faz, como Bjúgnakrækir, o ladrão de salsichas. Esta ceia e as ordens de chegada são invenção. Leia a história em [Os treze Jólasveinar da Islândia e as noites de Natal dos meninos travessos](/pt/os-treze-jolasveinar-da-islandia-e-as-noites-de-natal-dos-meninos-travessos/).

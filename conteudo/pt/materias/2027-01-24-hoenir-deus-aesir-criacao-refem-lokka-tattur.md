@@ -43,4 +43,4 @@ Os *æsir* são o grupo principal de deuses, e os *vanir* são o outro grupo, co
 
 A ideia de que Hœnir e Vili seriam o mesmo deus é uma possibilidade levantada a partir do conhecimento que Snorri tinha da *Völuspá*, e nada mais. A ligação do nome com a cegonha é uma hipótese de estudiosos, defendida por Rydberg em 1886, e o artigo a apresenta como hipótese. Também não há aqui manuscritos nem edições comentadas dos poemas: a matéria se apoia num único artigo enciclopédico, e quem quiser ir além precisa abrir a *Völuspá*, a *Ynglinga saga* e a balada feroesa.
 
-Para viver, em miniatura, a situação de quem negocia sem poder decidir sozinho, jogue [O refém e as trocas](/jogo-o-refem-e-as-trocas/).
+Para viver, em miniatura, a situação de quem negocia sem poder decidir sozinho, jogue [O refém e as trocas](/pt/jogo-o-refem-e-as-trocas/).

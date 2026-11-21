@@ -23,4 +23,4 @@ Sveip fingeren (eller bruk piltastene) for å lede ånden. Hvert lys får den ti
 
 ## Historien bak
 
-I sagaene er fylgjaen en ånd som følger et menneske. Å lede den til lys er diktet opp for spillet. Les historien i [Fylgja: «følgeren», ånden som følger et menneske i sagaene](/no/2026/12/20/fylgja-espirito-acompanhante-sagas-islandesas/).
+I sagaene er fylgjaen en ånd som følger et menneske. Å lede den til lys er diktet opp for spillet. Les historien i [Fylgja: «følgeren», ånden som følger et menneske i sagaene](/no/fylgja-folgeren-anden-som-folger-et-menneske-i-sagaene/).

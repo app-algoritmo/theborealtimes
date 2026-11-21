@@ -23,4 +23,4 @@ Raise the stone enclosure inside the boat. A slab slides from side to side. Tap 
 
 ## The story behind it
 
-At Scar, in Orkney, a 6.5 m boat held three bodies in a walled enclosure of stones, dated between 875 and 950. The stack of slabs is invented. Read the story in [Scar: the Viking boat burial on the island of Sanday, in Orkney](/en/2027/03/07/scar-o-sepultamento-viking-em-barco-na-ilha-de-sanday-nas-orcades/).
+At Scar, in Orkney, a 6.5 m boat held three bodies in a walled enclosure of stones, dated between 875 and 950. The stack of slabs is invented. Read the story in [Scar: the Viking boat burial on the island of Sanday, in Orkney](/scar-the-viking-boat-burial-on-the-island-of-sanday/).

@@ -23,4 +23,4 @@ A sombra do disco mostra para onde o navio aponta. Mantenha a sombra sobre a mar
 
 ## A história por trás
 
-Em Uunartoq, na Groenlândia, achou-se o fragmento de um disco de madeira que, segundo uma hipótese, era uma bússola de sol. O jogo é invenção. Leia a história em [Uunartoq: o disco de madeira achado na Groenlândia e a ideia da bússola de sol](/2027/03/07/uunartoq-o-disco-de-madeira-achado-na-groenlandia-e-a-ideia-da-bussola-de-sol/).
+Em Uunartoq, na Groenlândia, achou-se o fragmento de um disco de madeira que, segundo uma hipótese, era uma bússola de sol. O jogo é invenção. Leia a história em [Uunartoq: o disco de madeira achado na Groenlândia e a ideia da bússola de sol](/pt/uunartoq-o-disco-de-madeira-achado-na-groenlandia-e-a-ideia-da-bussola-de-sol/).

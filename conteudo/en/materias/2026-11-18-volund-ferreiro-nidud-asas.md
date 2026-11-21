@@ -41,4 +41,4 @@ In England, a Neolithic tomb in Oxfordshire still bears the smith's name, Waylan
 
 Scholars disagree on the origin of the legend: it may have common Germanic roots, before splitting into versions. What the sources show is a character who crossed centuries and countries, the smith nobody managed to keep imprisoned.
 
-To help Völund put the feathers in order before time runs out, play [The smith's feathers](/en/game-the-smiths-feathers/).
+To help Völund put the feathers in order before time runs out, play [The smith's feathers](/game-the-smiths-feathers/).

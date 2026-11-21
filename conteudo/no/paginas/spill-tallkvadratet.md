@@ -23,4 +23,4 @@ Sett tallene i de ni rutene slik at alle rader, alle kolonner og begge diagonale
 
 ## Historien bak
 
-Massakren på Sankt Brictius-dagen i 1002 kom etter en ordre fra den engelske kongen Æthelred. Å fullføre et tallkvadrat er oppfunnet. Les historien i [Massakren på Sankt Brices dag i 1002: Æthelreds ordre og det som er funnet i Oxford](/no/2027/02/28/o-massacre-do-dia-de-sao-bricio-em-1002-a-ordem-de-ethelred-e-o-que-se-acha-em-oxford/).
+Massakren på Sankt Brictius-dagen i 1002 kom etter en ordre fra den engelske kongen Æthelred. Å fullføre et tallkvadrat er oppfunnet. Les historien i [Massakren på Sankt Brices dag i 1002: Æthelreds ordre og det som er funnet i Oxford](/no/massakren-pa-sankt-brices-dag-i-1002-aethelreds-ordre/).

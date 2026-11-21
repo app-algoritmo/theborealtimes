@@ -23,4 +23,4 @@ Um marcador vai e volta numa barra. Toque (ou aperte a barra de espaço) quando 
 
 ## A história por trás
 
-O imperador Constantino VII descreveu, por volta de 950, como os rus carregavam ou arrastavam os barcos por terra nas corredeiras dos rios, a caminho do Mar Negro. O jogo é uma simplificação: o marcador, a corda e o limite de tempo são invenção. Leia a história em [A Guarda Varegue: os vikings que protegeram o imperador de Constantinopla](/2026/11/13/guarda-varegue/).
+O imperador Constantino VII descreveu, por volta de 950, como os rus carregavam ou arrastavam os barcos por terra nas corredeiras dos rios, a caminho do Mar Negro. O jogo é uma simplificação: o marcador, a corda e o limite de tempo são invenção. Leia a história em [A Guarda Varegue: os vikings que protegeram o imperador de Constantinopla](/pt/guarda-varegue/).

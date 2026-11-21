@@ -52,4 +52,4 @@ A *settlement* is a place where a group establishes itself. The *Vendel Age* is 
 
 Whether the settlement was a colony of Gotland is a reading of Nerman. Rimbert's troop numbers are claims of the author. The statement that it is the earliest settlement across the Baltic comes from the nomination. The entry says that Seeburg is "usually" identified as Grobiņa, and that leaves room for doubt.
 
-To raise mounds of different heights without repeating them, play [The mounds of Grobiņa](/en/game-the-mounds-of-grobina/).
+To raise mounds of different heights without repeating them, play [The mounds of Grobiņa](/game-the-mounds-of-grobina/).

@@ -51,4 +51,4 @@ The set gathers pieces of very different origins: arm rings with Anglo-Saxon run
 
 The article lists doubts: who buried the hoard, and whether they were Vikings or Anglo-Saxons; why it was buried, and why in two levels; and whether it relates to a timber building and an early ecclesiastical site nearby. One suggestion cited is that it was "a safety deposit box that was never claimed".
 
-To sort the pieces by material, in chests of four places, play [The Galloway hoard](/en/game-the-galloway-hoard/).
+To sort the pieces by material, in chests of four places, play [The Galloway hoard](/game-the-galloway-hoard/).

@@ -23,4 +23,4 @@ Os quatro sinos tocam numa ordem. Quando terminar, toque nos sinos na mesma orde
 
 ## A história por trás
 
-Em 860, os Rus atacaram Constantinopla. A tradição de sinos e de sequências é invenção do jogo. Leia a história em [Constantinopla, 860: os rus atacam a cidade e o patriarca Focio fala de "um raio do céu"](/2026/12/13/constantinopla-860-rus-focio/).
+Em 860, os Rus atacaram Constantinopla. A tradição de sinos e de sequências é invenção do jogo. Leia a história em [Constantinopla, 860: os rus atacam a cidade e o patriarca Focio fala de "um raio do céu"](/pt/constantinopla-860-rus-focio/).

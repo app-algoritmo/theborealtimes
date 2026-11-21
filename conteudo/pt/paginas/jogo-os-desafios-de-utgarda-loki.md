@@ -23,4 +23,4 @@ Na primeira prova, segure o toque para beber do chifre e solte para respirar. Na
 
 ## A história por trás
 
-Na Edda em Prosa, Thor perde as três provas porque eram ilusões: o chifre era ligado ao mar, o gato era Jörmungandr e a velha era a Velhice. No jogo você consegue, o que o mito não conta. Leia a história em [Thor em Útgarðr: os desafios do gigante que eram todos ilusões](/2026/11/15/thor-utgarda-loki-ilusoes/).
+Na Edda em Prosa, Thor perde as três provas porque eram ilusões: o chifre era ligado ao mar, o gato era Jörmungandr e a velha era a Velhice. No jogo você consegue, o que o mito não conta. Leia a história em [Thor em Útgarðr: os desafios do gigante que eram todos ilusões](/pt/thor-utgarda-loki-ilusoes/).

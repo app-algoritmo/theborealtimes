@@ -23,4 +23,4 @@ De fire amboltene gløder i en rekkefølge. Se på og gjenta ved å trykke på d
 
 ## Historien bak
 
-I *Sörla þáttr*, bevart i et håndskrift fra slutten av 1300-tallet, smir fire dverger halsbåndet Frøya vil ha. Rytmesmia er spillets oppfinnelse, og den opprinnelige teksten er fiendtlig i tonen mot gudinnen. Les historien i [Frøya og Brisingamen-smykket: hva de norrøne kildene sier om gudinnens kleinod](/no/2026/11/13/freyja-brisingamen/).
+I *Sörla þáttr*, bevart i et håndskrift fra slutten av 1300-tallet, smir fire dverger halsbåndet Frøya vil ha. Rytmesmia er spillets oppfinnelse, og den opprinnelige teksten er fiendtlig i tonen mot gudinnen. Les historien i [Frøya og Brisingamen-smykket: hva de norrøne kildene sier om gudinnens kleinod](/no/froya-og-brisingamen-smykket-hva-de-norrone-kildene-sier-om/).

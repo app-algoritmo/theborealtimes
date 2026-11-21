@@ -23,4 +23,4 @@ Nine numbered pieces are out of order. Where four pieces meet there is a round b
 
 ## The story behind it
 
-In the Prose Edda, Magni, Thor’s son, is three nights old when he lifts the giant Hrungnir’s foot off his father’s neck. Turning quadrants is invented. Read the story in [Magni and Móði, the sons of Thor: the child who lifted a giant's foot and the ones who survive Ragnarök](/en/2027/01/31/magni-modi-filhos-de-thor-sobreviventes-ragnarok/).
+In the Prose Edda, Magni, Thor’s son, is three nights old when he lifts the giant Hrungnir’s foot off his father’s neck. Turning quadrants is invented. Read the story in [Magni and Móði, the sons of Thor: the child who lifted a giant's foot and the ones who survive Ragnarök](/magni-and-modi-the-sons-of-thor-the-child-who-lifted/).

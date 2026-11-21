@@ -23,4 +23,4 @@ Passe o dedo (ou o mouse) sobre os nós do cabelo para desembaraçá-los. Quando
 
 ## A história por trás
 
-Segundo a Heimskringla, de Snorri Sturluson, Harald teria jurado não cortar nem pentear o cabelo até reinar sobre a Noruega; depois de Hafrsfjord, Rögnvald o penteou e ele ganhou o apelido. Os historiadores tratam essa cena com cautela, e o jogo a simplifica. Leia a história em [Harald Cabelo Belo: o rei que jurou não cortar o cabelo até unir a Noruega](/2026/11/12/harald-cabelo-belo-hafrsfjord/).
+Segundo a Heimskringla, de Snorri Sturluson, Harald teria jurado não cortar nem pentear o cabelo até reinar sobre a Noruega; depois de Hafrsfjord, Rögnvald o penteou e ele ganhou o apelido. Os historiadores tratam essa cena com cautela, e o jogo a simplifica. Leia a história em [Harald Cabelo Belo: o rei que jurou não cortar o cabelo até unir a Noruega](/pt/harald-cabelo-belo-hafrsfjord/).

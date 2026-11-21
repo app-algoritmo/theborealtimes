@@ -23,4 +23,4 @@ Segure o dedo, ou a barra de espaço, para a fúria subir; solte para descer. Qu
 
 ## A história por trás
 
-As sagas descrevem berserkers que uivavam, mordiam os escudos e pareciam não sentir o ferro. O que isso era de fato é debatido pelos historiadores. O medidor de fúria é invenção do jogo. Leia a história em [Berserkers: os guerreiros de pele de urso, a fúria que as sagas descrevem e a lei islandesa que a proibiu](/2026/11/14/berserkers-furia/).
+As sagas descrevem berserkers que uivavam, mordiam os escudos e pareciam não sentir o ferro. O que isso era de fato é debatido pelos historiadores. O medidor de fúria é invenção do jogo. Leia a história em [Berserkers: os guerreiros de pele de urso, a fúria que as sagas descrevem e a lei islandesa que a proibiu](/pt/berserkers-furia/).

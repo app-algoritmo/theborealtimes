@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-Svarfdœla saga, skrevet ned på 1300-tallet, handler om stridigheter under landnåmet i Svarfaðardalur, en dal i Nord-Island. Å skyve teiger er oppfunnet. Les historien i [Svarfdœla saga: dalen Svarfaðardalur, Karl, Ljótólf og en saga i to deler](/no/2027/02/07/svarfdaela-saga-svarfadardalur-karl-ljotolf/).
+Svarfdœla saga, skrevet ned på 1300-tallet, handler om stridigheter under landnåmet i Svarfaðardalur, en dal i Nord-Island. Å skyve teiger er oppfunnet. Les historien i [Svarfdœla saga: dalen Svarfaðardalur, Karl, Ljótólf og en saga i to deler](/no/svarfdoela-saga-dalen-svarfadardalur-karl-ljotolf/).

@@ -37,4 +37,4 @@ O gato não tem a mesma presença nas fontes que Grýla e os Yule Lads, e não s
 
 A ameaça do gato também ajuda a entender a vida rural da época: o inverno era longo, a roupa de lã era essencial para enfrentar o frio, e um presente prático tinha valor real. Receber uma peça nova não era um luxo, e o medo do gato era, por trás da imagem do monstro, o medo de passar o inverno sem agasalho.
 
-Para recolher os novelos de lã e tricotar antes que o gato chegue, sem deixar o fio se enrolar em si mesmo, jogue [Novelos antes do gato](/jogo-novelos-antes-do-gato/).
+Para recolher os novelos de lã e tricotar antes que o gato chegue, sem deixar o fio se enrolar em si mesmo, jogue [Novelos antes do gato](/pt/jogo-novelos-antes-do-gato/).

@@ -23,4 +23,4 @@ The elves come one by one along the path. The light ones belong to Álfheimr: ta
 
 ## The story behind it
 
-In the Prose Edda, Snorri says the light elves live in Álfheimr and the dark elves live down in the earth, blacker than pitch. The path and the sorting are invented. Read the story in [Álfheimr: light elves and dark elves in Snorri and in Grímnismál](/en/2027/03/14/alfheim-elfos-da-luz-e-elfos-escuros-em-snorri-e-no-grimnismal/).
+In the Prose Edda, Snorri says the light elves live in Álfheimr and the dark elves live down in the earth, blacker than pitch. The path and the sorting are invented. Read the story in [Álfheimr: light elves and dark elves in Snorri and in Grímnismál](/alfheimr-light-elves-and-dark-elves-in-snorri/).

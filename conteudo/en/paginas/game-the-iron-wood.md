@@ -23,4 +23,4 @@ In Járnviðr, the forest spreads from one corner. Tap a colour in the palette t
 
 ## The story behind it
 
-In the Völuspá, an old woman in Járnviðr, the Iron Wood, raises the kin of Fenrir; scholars most likely identify her with Angrboða, mother of Fenrir, Jörmungandr and Hel in the Gylfaginning. The spreading patch is invented. Read the story in [Angrboða, the giantess of Járnviðr: mother of Fenrir, Jörmungandr and Hel](/en/2027/01/24/angrboda-giganta-jarnvidr-mae-de-fenrir/).
+In the Völuspá, an old woman in Járnviðr, the Iron Wood, raises the kin of Fenrir; scholars most likely identify her with Angrboða, mother of Fenrir, Jörmungandr and Hel in the Gylfaginning. The spreading patch is invented. Read the story in [Angrboða, the giantess of Járnviðr: mother of Fenrir, Jörmungandr and Hel](/angrboda-the-giantess-of-jarnvidr-mother-of-fenrir/).

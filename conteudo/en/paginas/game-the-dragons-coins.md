@@ -23,4 +23,4 @@ Gold coins are scattered over a board. Tap a coin and then an empty square two s
 
 ## The story behind it
 
-In Gull-Þóris saga, Þórir obtains gold from dragons in a cave and later quarrels with Hallr over its division; at the end, a rumour says he became a dragon. Jumping coins is invented. Read the story in [Gull-Þóris saga: the settler who grew rich on dragon gold](/en/2027/02/14/gull-thoris-saga-ouro-dragoes-islandia/).
+In Gull-Þóris saga, Þórir obtains gold from dragons in a cave and later quarrels with Hallr over its division; at the end, a rumour says he became a dragon. Jumping coins is invented. Read the story in [Gull-Þóris saga: the settler who grew rich on dragon gold](/gull-thoris-saga-the-settler-who-grew-rich-on-dragon-gold/).

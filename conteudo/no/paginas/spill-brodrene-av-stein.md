@@ -23,4 +23,4 @@ Hvert tall kan bare stå én gang i hver rad og hver kolonne blant de lyse ruten
 
 ## Historien bak
 
-I eventyret som Asbjørnsen og Moe samlet inn, gjør jotunen seks prinser og brudene deres til stein. Å gjøre ruter til stein i et tallpuslespill er oppfunnet. Les historien i [Jætten uten hjerte på kroppen: det norske eventyret til Asbjørnsen og Moe](/no/2027/02/28/o-gigante-sem-coracao-no-corpo-conto-de-asbjornsen-e-moe/).
+I eventyret som Asbjørnsen og Moe samlet inn, gjør jotunen seks prinser og brudene deres til stein. Å gjøre ruter til stein i et tallpuslespill er oppfunnet. Les historien i [Jætten uten hjerte på kroppen: det norske eventyret til Asbjørnsen og Moe](/no/jaetten-uten-hjerte-pa-kroppen-det-norske-eventyret/).

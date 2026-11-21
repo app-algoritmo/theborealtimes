@@ -23,4 +23,4 @@ Fire av de seks anklagede venter ved døra, i en hemmelig rekkefølge. Trykk på
 
 ## Historien bak
 
-I Eyrbyggja saga dømte dørretten de døde som vendte tilbake til gården på Fróðá. De anklagede i spillet er diktet opp. Les historien i [Spøkelsene på Fróðá: dortinget som dømte de døde i Eyrbyggja saga](/no/2026/11/20/eyrbyggja-froda-assombracao/).
+I Eyrbyggja saga dømte dørretten de døde som vendte tilbake til gården på Fróðá. De anklagede i spillet er diktet opp. Les historien i [Spøkelsene på Fróðá: dortinget som dømte de døde i Eyrbyggja saga](/no/spokelsene-pa-froda-dortinget-som-domte-de-dode-i-eyrbyggja/).

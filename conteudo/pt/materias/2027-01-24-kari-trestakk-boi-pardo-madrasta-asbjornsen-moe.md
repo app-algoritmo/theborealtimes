@@ -43,4 +43,4 @@ O conto é do tipo ATU 510A, a "heroína perseguida". Outros contos listados no 
 
 Variantes registradas em Valdres e Telemark são mais próximas da Cinderela clássica: a mãe morta ajuda a menina, que se chama Kirsti ou Åse, e Åse usa um vestido de couro sujo. Um conto "Kari Woodencoat" aparece como de fonte sámi num livro de 1928 de Frances Jenkins Olcott, mas o artigo não explica como se estabeleceu essa origem nem quanto a versão se parece com a norueguesa. Essa ligação, portanto, fica sem confirmação aqui.
 
-Para empurrar caixas como o boi pardo, até todas chegarem às marcas, jogue [O boi e as caixas](/jogo-o-boi-e-as-caixas/).
+Para empurrar caixas como o boi pardo, até todas chegarem às marcas, jogue [O boi e as caixas](/pt/jogo-o-boi-e-as-caixas/).

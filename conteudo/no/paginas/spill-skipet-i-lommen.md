@@ -23,4 +23,4 @@ Brikker med ulike former skal fylle lommen, et rutenett, uten at det blir tomme 
 
 ## Historien bak
 
-I de norrøne kildene kan skipet Skíðblaðnir brettes sammen som tøy og få plass i en lomme, men de sier ikke hvordan. Å passe inn brikkene er oppfunnet. Les historien i [Skíðblaðnir: Frøys skip som kan brettes sammen som tøy og får plass i lommen](/no/2027/02/28/skidbladnir-o-navio-de-freyr-que-se-dobra-como-pano/).
+I de norrøne kildene kan skipet Skíðblaðnir brettes sammen som tøy og få plass i en lomme, men de sier ikke hvordan. Å passe inn brikkene er oppfunnet. Les historien i [Skíðblaðnir: Frøys skip som kan brettes sammen som tøy og får plass i lommen](/no/skidbladnir-froys-skip-som-kan-brettes-sammen-som-toy/).

@@ -23,4 +23,4 @@ Trykk på Kast for å rulle terningen: hvert resultat legges til fangsten på b�
 
 ## Historien bak
 
-Blant vanene er Njörðr herre over vind, hav og fiske. Terningspillet og havna er oppfunnet. Les historien i [Njörðr: havets og rikdommens gud, som giftet seg med Skaði og ikke tålte fjellene](/no/2026/12/27/njordr-deus-do-mar-skadi-nootun/).
+Blant vanene er Njörðr herre over vind, hav og fiske. Terningspillet og havna er oppfunnet. Les historien i [Njörðr: havets og rikdommens gud, som giftet seg med Skaði og ikke tålte fjellene](/no/njordr-havets-og-rikdommens-gud-som-giftet-seg-med-skadi/).

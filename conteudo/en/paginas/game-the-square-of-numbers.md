@@ -23,4 +23,4 @@ Put the numbers in the nine squares so that every row, every column and both dia
 
 ## The story behind it
 
-The St Brice's Day massacre of 1002 followed an order from the English king Æthelred. Completing a square of numbers is invented. Read the story in [The St Brice’s Day massacre of 1002: Æthelred’s order and what is found at Oxford](/en/2027/02/28/o-massacre-do-dia-de-sao-bricio-em-1002-a-ordem-de-ethelred-e-o-que-se-acha-em-oxford/).
+The St Brice's Day massacre of 1002 followed an order from the English king Æthelred. Completing a square of numbers is invented. Read the story in [The St Brice’s Day massacre of 1002: Æthelred’s order and what is found at Oxford](/the-st-brice-s-day-massacre-of-1002-aethelred-s-order/).

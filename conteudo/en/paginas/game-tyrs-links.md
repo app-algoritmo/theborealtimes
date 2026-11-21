@@ -23,4 +23,4 @@ Tap a light to switch its state and that of its four neighbours: lit turns off a
 
 ## The story behind it
 
-Týr put his hand in Fenrir's mouth so the wolf could be bound with Gleipnir. The net of lights is invented. Read the story in [Týr: the god who put his hand in the wolf's mouth and gave his name to Tuesday](/en/2027/01/03/tyr-deus-da-mao-perdida-fenrir/).
+Týr put his hand in Fenrir's mouth so the wolf could be bound with Gleipnir. The net of lights is invented. Read the story in [Týr: the god who put his hand in the wolf's mouth and gave his name to Tuesday](/tyr-the-god-who-put-his-hand-in-the-wolf-s-mouth-and-gave/).

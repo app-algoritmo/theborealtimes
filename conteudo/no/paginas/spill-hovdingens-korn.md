@@ -23,4 +23,4 @@ Hvert lagerrom har 4 korn. Velg ett av dine (nederst), og kornene fordeles ett f
 
 ## Historien bak
 
-På Borg i Lofoten er et stort høvdinghus gravd ut. Kornspillet er diktet opp. Les historien i [Borg i Lofoten: det 83 meter lange langhuset til en høvding i det ytterste nord](/no/2026/11/22/borg-lofoten-casa-longa-do-chefe/).
+På Borg i Lofoten er et stort høvdinghus gravd ut. Kornspillet er diktet opp. Les historien i [Borg i Lofoten: det 83 meter lange langhuset til en høvding i det ytterste nord](/no/borg-i-lofoten-det-83-meter-lange-langhuset-til-en-hovding/).

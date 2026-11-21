@@ -40,4 +40,4 @@ A *lot* is a choice made by chance, here attributed to Odin. The *Hauksbók* is 
 
 The sources do not say how the two figures of the same name relate beyond the kinship of grandfather and grandson. The identity and the period of the hero vary from source to source, and the first source acknowledges that the explanation of what Saxo calls the "three evil deeds" is not clear. The sacrifice of Vikar is told differently in the saga and in Saxo, since in the saga he is sacrificed and in Saxo Starkad kills him. There is also no way to know whether the eight-armed giant is an older memory of the same hero or a separate character.
 
-To follow the right cup after Odin shuffles the lot, play [Odin’s lots](/en/game-odins-lots/).
+To follow the right cup after Odin shuffles the lot, play [Odin’s lots](/game-odins-lots/).

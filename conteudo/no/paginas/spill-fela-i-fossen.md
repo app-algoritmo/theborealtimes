@@ -23,4 +23,4 @@ Fire strenger, fire kolonner. Når en gylden tone når den glødende linjen, try
 
 ## Historien bak
 
-I norsk folketro bor Fossegrimen i fossene og lærer bort fela til dem som kommer med en gave en torsdagskveld, så godt at trærne danser. Tonene og melodien i spillet er diktet opp. Les historien i [Fossegrimen: fossens ånd som lærer bort fela til den som kommer med en gave](/no/2026/11/13/fossegrim-violino/).
+I norsk folketro bor Fossegrimen i fossene og lærer bort fela til dem som kommer med en gave en torsdagskveld, så godt at trærne danser. Tonene og melodien i spillet er diktet opp. Les historien i [Fossegrimen: fossens ånd som lærer bort fela til den som kommer med en gave](/no/fossegrimen-fossens-and-som-laerer-bort-fela/).

@@ -46,4 +46,4 @@ Em Skáldskaparmál, Ægir, também chamado Hlér, vive numa ilha hoje chamada H
 
 Não se sabe se Gymir, o pai de Gerðr, é o mesmo ser que Ægir ou outro com o mesmo nome. Também não está claro se Ægir era um deus do mar adorado ou, antes, uma figura de poesia e de mito, e as fontes sobre ele são todas medievais.
 
-Para servir a cerveja aos deuses na hora certa, jogue [A cerveja dos deuses](/jogo-a-cerveja-dos-deuses/).
+Para servir a cerveja aos deuses na hora certa, jogue [A cerveja dos deuses](/pt/jogo-a-cerveja-dos-deuses/).

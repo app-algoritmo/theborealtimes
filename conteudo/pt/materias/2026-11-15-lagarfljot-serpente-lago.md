@@ -43,4 +43,4 @@ Os cientistas propõem causas naturais. Bolhas de metano do fundo do lago, tronc
 
 Seja o que for que as pessoas viram, o verme é um símbolo local, e a pergunta mais interessante talvez seja outra: por que um lago turvo, comprido e frio produz tantas corcovas em tantas histórias.
 
-Para fazer crescer a criatura e encher o lago de ouro, jogue [A serpente do Lagarfljót](/jogo-a-serpente-do-lagarfljot/).
+Para fazer crescer a criatura e encher o lago de ouro, jogue [A serpente do Lagarfljót](/pt/jogo-a-serpente-do-lagarfljot/).

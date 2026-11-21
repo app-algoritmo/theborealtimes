@@ -23,4 +23,4 @@ Four discs sit on the left post. Take all of them to the right post, one at a ti
 
 ## The story behind it
 
-Tynwald Hill, on the Isle of Man, has four stepped levels. The discs and the rules of the game are made up. Read the story in [Tynwald: the Isle of Man assembly whose name comes from Norse and which still meets on a hill](/en/2026/11/20/tynwald-ilha-de-man-thing/).
+Tynwald Hill, on the Isle of Man, has four stepped levels. The discs and the rules of the game are made up. Read the story in [Tynwald: the Isle of Man assembly whose name comes from Norse and which still meets on a hill](/tynwald-the-isle-of-man-assembly-whose-name-comes/).

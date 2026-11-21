@@ -23,4 +23,4 @@ Sobre o túmulo de Gróa surgem, um a um, os perigos da viagem de Svipdagr. Entr
 
 ## A história por trás
 
-No poema Grógaldr, a mãe morta de Svipdagr canta nove feitiços para protegê-lo de perigos como águas, inimigos, correntes, tempestade, geada, névoa e gigantes. As formas e as cores das pedras são invenção. Leia a história em [Grógaldr: os nove feitiços que Gróa canta ao filho Svipdagr](/2027/03/14/grogaldr-os-nove-feiticos-que-groa-canta-ao-filho-svipdagr/).
+No poema Grógaldr, a mãe morta de Svipdagr canta nove feitiços para protegê-lo de perigos como águas, inimigos, correntes, tempestade, geada, névoa e gigantes. As formas e as cores das pedras são invenção. Leia a história em [Grógaldr: os nove feitiços que Gróa canta ao filho Svipdagr](/pt/grogaldr-os-nove-feiticos-que-groa-canta-ao-filho-svipdagr/).

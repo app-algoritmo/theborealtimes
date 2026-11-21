@@ -39,4 +39,4 @@ Duas fontes contam a mesma morte com valores diferentes, e nenhuma contradiz a o
 
 Por isso vale ler as duas fontes juntas: a saga mostra o que um cronista cristão do século XIII achava digno de nota, e o poema, o que um poeta próximo ao rei achava digno de ser cantado depois de sua morte.
 
-Para tentar limpar o campo de batalha, retirando os escudos pela cor antes que o dia acabe, jogue [Os escudos de Fitjar](/jogo-os-escudos-de-fitjar/).
+Para tentar limpar o campo de batalha, retirando os escudos pela cor antes que o dia acabe, jogue [Os escudos de Fitjar](/pt/jogo-os-escudos-de-fitjar/).

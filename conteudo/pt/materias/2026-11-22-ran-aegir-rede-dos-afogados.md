@@ -35,4 +35,4 @@ O que as fontes mostram é que os escandinavos davam um rosto ao mar, que lhes d
 
 Também vale notar que a rede de Rán aparece só em poucas passagens, e que a imagem de uma deusa que "pesca" os marinheiros é, em parte, uma síntese dos autores modernos. As fontes antigas são mais sóbrias do que as ilustrações populares.
 
-Para fechar, linha a linha, as malhas da rede de Rán e ficar com mais casas do que ela, jogue [As malhas de Rán](/jogo-as-malhas-de-ran/).
+Para fechar, linha a linha, as malhas da rede de Rán e ficar com mais casas do que ela, jogue [As malhas de Rán](/pt/jogo-as-malhas-de-ran/).

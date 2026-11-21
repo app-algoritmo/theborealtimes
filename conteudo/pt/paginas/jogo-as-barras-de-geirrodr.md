@@ -23,4 +23,4 @@ O gigante atira barras de ferro em brasa. Arraste o dedo (ou use as setas) para 
 
 ## A história por trás
 
-Segundo Snorri, Thor usou luvas de ferro para agarrar a barra em brasa. A chuva de barras é invenção do jogo. Leia a história em [Thor e o gigante Geirrøðr: o ferro em brasa, as luvas de ferro e o rio que subia](/2026/11/20/thor-geirrod-luvas-de-ferro/).
+Segundo Snorri, Thor usou luvas de ferro para agarrar a barra em brasa. A chuva de barras é invenção do jogo. Leia a história em [Thor e o gigante Geirrøðr: o ferro em brasa, as luvas de ferro e o rio que subia](/pt/thor-geirrod-luvas-de-ferro/).

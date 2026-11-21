@@ -41,4 +41,4 @@ The scene is a narrative of the saga, written around 1230, well after Harald Blu
 
 The *landvættir* are part of a broader belief in the spirits that inhabit the landscape, and modern Iceland turned them into an emblem. The fact that the coat of arms was defined in the 20th century shows how the medieval sagas still feed the country's identity.
 
-To distribute stones among the pits of the board, in successive rounds, until you keep more stones than your rival, play [The sowing of the guardians](/en/game-the-sowing-of-the-guardians/).
+To distribute stones among the pits of the board, in successive rounds, until you keep more stones than your rival, play [The sowing of the guardians](/game-the-sowing-of-the-guardians/).

@@ -23,4 +23,4 @@ Some coloured shapes appear for a few seconds. Memorise which ones they are and 
 
 ## The story behind it
 
-Holger Danske, or Ogier the Dane, already appears in the Chanson de Roland, around 1060. According to Danish legend, he sleeps beneath Kronborg Castle and wakes when Denmark is in danger. Remembering shapes is invented. Read the story in [Holger Danske, or Ogier the Dane: from Charlemagne's knight to the hero who sleeps at Kronborg](/en/2027/01/31/holger-danske-ogier-o-dinamarques-kronborg/).
+Holger Danske, or Ogier the Dane, already appears in the Chanson de Roland, around 1060. According to Danish legend, he sleeps beneath Kronborg Castle and wakes when Denmark is in danger. Remembering shapes is invented. Read the story in [Holger Danske, or Ogier the Dane: from Charlemagne's knight to the hero who sleeps at Kronborg](/holger-danske-or-ogier-the-dane-from-charlemagne-s-knight/).

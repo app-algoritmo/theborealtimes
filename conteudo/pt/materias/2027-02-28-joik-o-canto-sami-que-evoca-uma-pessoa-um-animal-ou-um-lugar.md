@@ -52,4 +52,4 @@ O joik é um canto sámi que evoca uma pessoa, um animal ou um lugar. Foi conden
 
 A origem do joik não está documentada: o verbete diz que a cultura sámi não tinha língua escrita, e o Nordics.info não diz quando ele surgiu. A tradição oral conta que as fadas e os elfos do Ártico deram os joiks aos sámi. O fim da assimilação é dado só como "até pouco tempo atrás". Os dois textos divergem um pouco, por exemplo ao dizer quais estilos de joik sobrevivem. E o verbete marca algumas frases suas como carentes de fonte.
 
-Para ouvir uma melodia e achar o contorno que combina com ela, jogue [Ouça e reconheça](/jogo-ouca-e-reconheca/).
+Para ouvir uma melodia e achar o contorno que combina com ela, jogue [Ouça e reconheça](/pt/jogo-ouca-e-reconheca/).

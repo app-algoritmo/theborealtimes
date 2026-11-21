@@ -43,4 +43,4 @@ The idea that light defeats the creatures of the night is universal. In Scandina
 
 Today trolls appear in books, films and games. The rule of the sun remains useful to storytellers: it gives the hero a deadline and the reader a reason to hurry.
 
-To guide the trolls to their caves before the sun rises, play [Before the sun rises](/en/game-before-the-sun-rises/).
+To guide the trolls to their caves before the sun rises, play [Before the sun rises](/game-before-the-sun-rises/).

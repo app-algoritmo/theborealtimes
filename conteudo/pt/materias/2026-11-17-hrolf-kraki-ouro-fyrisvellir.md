@@ -42,4 +42,4 @@ Ninguém sabe se houve uma fuga real. O que as fontes sustentam é que a histór
 
 A saga tardia conta que o campeão mais temido de Hrólf era Böðvarr Bjarki, cujo nome significa "pequeno urso". Na batalha final, em Hleiðra, ele luta em forma de grande urso, enquanto seu corpo dorme na tenda. O reino cai diante do rei Hjörvarðr e da feiticeira Skuld, meia-irmã de Hrólf, e o rei morre ao lado dos seus homens. Muitos estudiosos comparam esse guerreiro-urso ao Beowulf do poema inglês, cujo nome pode também significar "lobo das abelhas", isto é, o urso.
 
-Para espalhar o ouro na hora certa e despistar os cavaleiros de Aðils, jogue [O ouro de Hrólf](/jogo-o-ouro-de-hrolf/).
+Para espalhar o ouro na hora certa e despistar os cavaleiros de Aðils, jogue [O ouro de Hrólf](/pt/jogo-o-ouro-de-hrolf/).

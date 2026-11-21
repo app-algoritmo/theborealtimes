@@ -37,4 +37,4 @@ A *Crônica Primária Russa*, escrita muito depois, no início do século XII, d
 
 Ladoga mostra uma história que a imagem tradicional dos vikings costuma esquecer. Ali, os escandinavos não só atacavam, mas também negociavam, trabalhavam e viviam ao lado de outros povos. As contas de vidro, achadas aos milhares, são uma lembrança de que a Era Viking foi também uma época de comércio e de ofícios.
 
-Para alinhar cinco contas da mesma cor numa fileira, antes do rival, no tabuleiro da oficina de Ladoga, jogue [As contas de Ladoga](/jogo-as-contas-de-ladoga/).
+Para alinhar cinco contas da mesma cor numa fileira, antes do rival, no tabuleiro da oficina de Ladoga, jogue [As contas de Ladoga](/pt/jogo-as-contas-de-ladoga/).

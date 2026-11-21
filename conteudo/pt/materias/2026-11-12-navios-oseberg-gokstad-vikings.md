@@ -44,4 +44,4 @@ Os dois barcos fazem parte do acervo do Museu dos Navios Vikings, na península 
 
 Os achados foram escavados no final do século XIX e no início do XX, e a restauração dos barcos levou anos de trabalho.
 
-Para montar um casco você mesmo, jogue [O casco de Oseberg](/jogo-casco-de-oseberg/).
+Para montar um casco você mesmo, jogue [O casco de Oseberg](/pt/jogo-casco-de-oseberg/).

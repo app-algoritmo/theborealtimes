@@ -23,4 +23,4 @@ Brikker faller, og du setter dem sammen. Piltaster: venstre og høyre flytter, o
 
 ## Historien bak
 
-Sverres saga forteller om en konges vei til makten i Norge. Brikkene som faller i spillet, er diktet opp. Les historien i [Sverre Sigurdsson: presten fra Færøyene som ble konge av Norge og fikk skrevet sin egen saga](/no/2026/11/22/sverre-sigurdsson-sverris-saga/).
+Sverres saga forteller om en konges vei til makten i Norge. Brikkene som faller i spillet, er diktet opp. Les historien i [Sverre Sigurdsson: presten fra Færøyene som ble konge av Norge og fikk skrevet sin egen saga](/no/sverre-sigurdsson-presten-fra-faeroyene-som-ble-konge/).

@@ -43,4 +43,4 @@ O Jorvik Viking Centre, aberto em 1984, reconstituiu a rua de Coppergate com bas
 
 Os achados mostram também vínculos com regiões distantes: trabalho de âmbar, fragmentos de seda e moedas cunhadas na própria cidade com nomes de reis nórdicos. York vivia ligada a uma rede de comércio que ia muito além do mar do Norte.
 
-Para escavar com cuidado, evitando as camadas frágeis, jogue [As camadas de Jórvík](/jogo-as-camadas-de-jorvik/).
+Para escavar com cuidado, evitando as camadas frágeis, jogue [As camadas de Jórvík](/pt/jogo-as-camadas-de-jorvik/).

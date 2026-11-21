@@ -23,4 +23,4 @@ Each night one of Grýla's thirteen sons arrives, and his name shows at the top.
 
 ## The story behind it
 
-According to Icelandic folklore, the thirteen Yule Lads arrive one a night from 12 December and leave, one a night, after Christmas. The lists vary from region to region, and the game is made up. Read the story in [Grýla and the thirteen Yule Lads: Icelandic Christmas has an ogress and thirteen naughty sons](/en/2026/11/14/gryla-jolasveinar/).
+According to Icelandic folklore, the thirteen Yule Lads arrive one a night from 12 December and leave, one a night, after Christmas. The lists vary from region to region, and the game is made up. Read the story in [Grýla and the thirteen Yule Lads: Icelandic Christmas has an ogress and thirteen naughty sons](/gryla-and-the-thirteen-yule-lads-icelandic-christmas-has/).

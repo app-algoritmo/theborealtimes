@@ -40,4 +40,4 @@ Thrym orders Mjölnir brought in to bless the bride, and the hammer is laid in h
 
 Nothing indicates the poem was recited as a rite. It reads as a humorous story, in which the strongest god must go through what he fears most, ridicule, to save the others. Some see in it a gentle critique of the warrior's image, and some read it as plain fun. The source does not say. What can be stated is what is in the text: the theft, the disguise and the hammer in the lap.
 
-To find where the hammer was hidden, play [Where is the hammer?](/en/game-where-is-the-hammer/).
+To find where the hammer was hidden, play [Where is the hammer?](/game-where-is-the-hammer/).

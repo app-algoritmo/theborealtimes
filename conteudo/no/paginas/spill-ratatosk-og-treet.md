@@ -23,4 +23,4 @@ Ratatosk løper i tre spor på stammen. Trykk på venstre eller høyre halvdel a
 
 ## Historien bak
 
-I eddakildene løper ekornet Ratatosk opp og ned treet Yggdrasil med ord mellom ørnen øverst og dragen Nidhogg ved røttene. Nivåene i spillet er diktet opp. Les historien i [Yggdrasil, verdenstreet: hva kildene sier, og hva bare moderne tolkere har lagt til](/no/2026/11/14/yggdrasil-arvore-nove-mundos/).
+I eddakildene løper ekornet Ratatosk opp og ned treet Yggdrasil med ord mellom ørnen øverst og dragen Nidhogg ved røttene. Nivåene i spillet er diktet opp. Les historien i [Yggdrasil, verdenstreet: hva kildene sier, og hva bare moderne tolkere har lagt til](/no/yggdrasil-verdenstreet-hva-kildene-sier-og-hva-bare-moderne/).

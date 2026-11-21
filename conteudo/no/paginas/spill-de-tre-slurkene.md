@@ -23,4 +23,4 @@ Hold fingeren (eller mellomromstasten) for å drikke og slipp i den merkede sone
 
 ## Historien bak
 
-I Snorres Edda drikker Odin diktermjøden i tre slurker og flykter som ørn. Målet i spillet er diktet opp. Les historien i [Odin og diktermjøden: tyveriet som ga skaldene kunsten deres](/no/2026/11/17/odin-hidromel-da-poesia/).
+I Snorres Edda drikker Odin diktermjøden i tre slurker og flykter som ørn. Målet i spillet er diktet opp. Les historien i [Odin og diktermjøden: tyveriet som ga skaldene kunsten deres](/no/odin-og-diktermjoden-tyveriet-som-ga-skaldene-kunsten-deres/).

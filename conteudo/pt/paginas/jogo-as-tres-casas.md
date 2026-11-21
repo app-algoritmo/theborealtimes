@@ -23,4 +23,4 @@ Veja a ferramenta que a família traz e toque na casa certa (ou use as teclas 1,
 
 ## A história por trás
 
-No poema Rígsþula, o deus Rígr, identificado com Heimdall, visita três casas e funda três grupos sociais. As famílias do jogo são invenção. Leia a história em [Rígsþula: como Heimdall, disfarçado, visitou três casas e deu origem às ordens da sociedade](/2026/11/17/rigsthula-heimdall-tres-casas/).
+No poema Rígsþula, o deus Rígr, identificado com Heimdall, visita três casas e funda três grupos sociais. As famílias do jogo são invenção. Leia a história em [Rígsþula: como Heimdall, disfarçado, visitou três casas e deu origem às ordens da sociedade](/pt/rigsthula-heimdall-tres-casas/).

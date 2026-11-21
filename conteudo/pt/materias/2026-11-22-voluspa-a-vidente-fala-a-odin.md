@@ -35,4 +35,4 @@ A figura da *völva* também aparece em sagas, onde uma vidente é convidada a v
 
 O que o poema deixa claro é a importância da palavra: a vidente sabe porque recita, e o que ela recita sustenta a memória de um povo que registrava seus mitos na voz antes de os escrever.
 
-Para lançar runas coloridas e fazer desaparecer cada grupo de três antes que cheguem até a vidente, jogue [As runas da vidente](/jogo-as-runas-da-vidente/).
+Para lançar runas coloridas e fazer desaparecer cada grupo de três antes que cheguem até a vidente, jogue [As runas da vidente](/pt/jogo-as-runas-da-vidente/).

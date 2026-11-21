@@ -43,4 +43,4 @@ Iceland's Gray Goose Laws allowed slavery until 1270, but the last mention is ar
 
 The article gives no price in shillings for a thrall. The figures of thirty enslaved people per household are estimates, and the tension over the value of an enslaved person's life before the law, seen above, was left unanswered.
 
-To measure four and four with jugs of 8, 5 and 3 measures, play [The thrall's jugs](/en/game-the-thralls-jugs/).
+To measure four and four with jugs of 8, 5 and 3 measures, play [The thrall's jugs](/game-the-thralls-jugs/).

@@ -23,4 +23,4 @@ A panqueca rola colina abaixo e os animais da estrada querem comê-la. Em cada f
 
 ## A história por trás
 
-No conto de Asbjørnsen na tradução de Dasent, a panqueca foge de uma família e de vários animais antes de ser engolida por um porco. As pistas e as fileiras de animais são invenção. Leia a história em [A panqueca que fugiu: conto de Asbjørnsen com o porco no riacho](/2027/03/21/a-panqueca-que-fugiu-conto-de-asbjornsen-com-o-porco-no-riacho/).
+No conto de Asbjørnsen na tradução de Dasent, a panqueca foge de uma família e de vários animais antes de ser engolida por um porco. As pistas e as fileiras de animais são invenção. Leia a história em [A panqueca que fugiu: conto de Asbjørnsen com o porco no riacho](/pt/a-panqueca-que-fugiu-conto-de-asbjornsen-com-o-porco-no-riacho/).

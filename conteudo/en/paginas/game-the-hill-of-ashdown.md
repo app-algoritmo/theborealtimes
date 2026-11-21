@@ -23,4 +23,4 @@ Drag your finger (or use ← →) to move your warrior; he throws a spear all th
 
 ## The story behind it
 
-In January 871, the West Saxons defeated the Vikings at Ashdown. The game of firing from below is made up. Read the story in [Ashdown, 871: Alfred attacks uphill and defeats the Great Army](/en/2026/12/20/ashdown-871-alfredo-ethelred-vikings/).
+In January 871, the West Saxons defeated the Vikings at Ashdown. The game of firing from below is made up. Read the story in [Ashdown, 871: Alfred attacks uphill and defeats the Great Army](/ashdown-871-alfred-attacks-uphill-and-defeats-the-great-army/).

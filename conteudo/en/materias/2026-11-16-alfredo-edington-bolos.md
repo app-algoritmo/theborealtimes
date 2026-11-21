@@ -46,4 +46,4 @@ After the victory, Alfred reorganised the kingdom. He built fortifications, the 
 
 That is why he is the only English king called "the Great". His merit lies less in the battle of Edington than in the work that came after.
 
-To watch the cakes without burning them, play [Alfred's cakes](/en/game-alfreds-cakes/).
+To watch the cakes without burning them, play [Alfred's cakes](/game-alfreds-cakes/).

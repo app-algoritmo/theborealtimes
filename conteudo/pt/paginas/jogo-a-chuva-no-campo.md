@@ -23,4 +23,4 @@ Ukko passa sobre as lavouras numa nuvem de trovão. Toque na tela, ou use Espaç
 
 ## A história por trás
 
-Em 1551, o reformador Mikael Agricola registrou por escrito o culto a Ukko, deus do trovão e do tempo, e a festa de primavera da vasilha, a Ukon vakat. A nuvem que você conduz é invenção. Leia a história em [Ukko: o deus finlandês do trovão e a festa da vasilha para pedir chuva](/2027/03/14/ukko-deus-do-trovao-finlandes-e-a-festa-da-vasilha-para-pedir-chuva/).
+Em 1551, o reformador Mikael Agricola registrou por escrito o culto a Ukko, deus do trovão e do tempo, e a festa de primavera da vasilha, a Ukon vakat. A nuvem que você conduz é invenção. Leia a história em [Ukko: o deus finlandês do trovão e a festa da vasilha para pedir chuva](/pt/ukko-deus-do-trovao-finlandes-e-a-festa-da-vasilha-para-pedir-chuva/).

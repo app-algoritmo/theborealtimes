@@ -23,4 +23,4 @@ Trykk på en brikke for å velge den, og trykk på en ledig rute i samme rad (el
 
 ## Historien bak
 
-I Gylfaginning skyver jotunkvinnen Hyrrokkin Balders skip, Ringhorne, ut i havet. Gåten er diktet opp. Les historien i [Balders begravelse: jotunkvinnen Hyrrokkin skyver ut gudenes største skip](/no/2026/12/13/funeral-de-baldr-hyrrokkin-hringhorni/).
+I Gylfaginning skyver jotunkvinnen Hyrrokkin Balders skip, Ringhorne, ut i havet. Gåten er diktet opp. Les historien i [Balders begravelse: jotunkvinnen Hyrrokkin skyver ut gudenes største skip](/no/balders-begravelse-jotunkvinnen-hyrrokkin-skyver-ut-gudenes/).

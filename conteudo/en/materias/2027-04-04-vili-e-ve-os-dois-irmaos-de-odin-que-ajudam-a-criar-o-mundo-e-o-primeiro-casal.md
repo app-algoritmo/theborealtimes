@@ -48,4 +48,4 @@ Vili and Vé are two brothers of Odin who help to kill Ymir, to make the world a
 
 The identification of Vili and Vé with Hœnir and Lóðurr is a hypothesis of scholars. The word *hræring* can mean motion or feeling, and so Vili's gift has two readings. Loki's line in the *Lokasenna* is an accusation made in a poem of insults, and the *Ynglinga saga* is a work written centuries after the time it describes.
 
-To hand each gift to the right brother, play [The brothers' gifts](/en/game-the-brothers-gifts/).
+To hand each gift to the right brother, play [The brothers' gifts](/game-the-brothers-gifts/).

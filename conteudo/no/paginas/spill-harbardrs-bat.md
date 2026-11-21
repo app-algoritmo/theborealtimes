@@ -23,4 +23,4 @@ Få alle over til den andre bredden. Trykk på en passasjer for å sette ham i b
 
 ## Historien bak
 
-I Hárbarðsljóð nekter ferjemannen å ta med Tor. Overfartsgåten er diktet opp. Les historien i [Hárbarðsljóð: ferjemannen som ikke ville ro Tor over](/no/2026/11/29/harbardsljod-thor-odin-barqueiro/).
+I Hárbarðsljóð nekter ferjemannen å ta med Tor. Overfartsgåten er diktet opp. Les historien i [Hárbarðsljóð: ferjemannen som ikke ville ro Tor over](/no/harbardsljod-ferjemannen-som-ikke-ville-ro-tor/).

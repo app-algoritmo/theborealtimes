@@ -23,4 +23,4 @@ Se på redskapet familien har med og trykk på riktig hus (eller bruk tastene 1,
 
 ## Historien bak
 
-I diktet Rigstula besøker guden Rigr, identifisert med Heimdall, tre hus og grunnlegger tre samfunnsgrupper. Familiene i spillet er diktet opp. Les historien i [Rigstula: hvordan Heimdall, forkledd, besøkte tre hus og ga opphav til samfunnets stender](/no/2026/11/17/rigsthula-heimdall-tres-casas/).
+I diktet Rigstula besøker guden Rigr, identifisert med Heimdall, tre hus og grunnlegger tre samfunnsgrupper. Familiene i spillet er diktet opp. Les historien i [Rigstula: hvordan Heimdall, forkledd, besøkte tre hus og ga opphav til samfunnets stender](/no/rigstula-hvordan-heimdall-forkledd-besokte-tre-hus-og-ga/).

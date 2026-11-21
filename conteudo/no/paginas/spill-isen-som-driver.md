@@ -23,4 +23,4 @@ Du står på isen, og når du beveger deg, glir du rett frem til du treffer en s
 
 ## Historien bak
 
-I Bárðar saga Snæfellsáss blir Helga skjøvet ut på havet på en isblokk og havner på Grønland. Bárðr forsvinner inn i breen Snæfellsjökull og blir husket som en vokterånd for halvøya. Å gli på is er oppfunnet. Les historien i [Bárðar saga Snæfellsáss: breens vokter, isen som driver og historien om sønnen Gestr](/no/2027/02/07/bardar-saga-snaefellsass-snaefellsjokull-gestr/).
+I Bárðar saga Snæfellsáss blir Helga skjøvet ut på havet på en isblokk og havner på Grønland. Bárðr forsvinner inn i breen Snæfellsjökull og blir husket som en vokterånd for halvøya. Å gli på is er oppfunnet. Les historien i [Bárðar saga Snæfellsáss: breens vokter, isen som driver og historien om sønnen Gestr](/no/bardar-saga-snaefellsass-breens-vokter-isen-som-driver/).

@@ -23,4 +23,4 @@ Uma tábua vai e vem no alto. Toque (ou use a barra de espaço) para soltá-la s
 
 ## A história por trás
 
-Na Laxdæla saga, Aud, a Profunda, funda uma fazenda na Islândia. A construção por tábuas empilhadas é invenção. Leia a história em [Aud, a Profunda: a viúva que construiu um navio em segredo e colonizou parte da Islândia](/2026/12/13/aud-a-profunda-laxdaela-islandia/).
+Na Laxdæla saga, Aud, a Profunda, funda uma fazenda na Islândia. A construção por tábuas empilhadas é invenção. Leia a história em [Aud, a Profunda: a viúva que construiu um navio em segredo e colonizou parte da Islândia](/pt/aud-a-profunda-laxdaela-islandia/).

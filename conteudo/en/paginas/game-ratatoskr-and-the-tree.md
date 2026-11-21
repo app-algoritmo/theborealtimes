@@ -23,4 +23,4 @@ Ratatoskr runs along three lanes of the trunk. Tap the left or right half of the
 
 ## The story behind it
 
-In the Eddic sources, the squirrel Ratatoskr runs up and down the tree Yggdrasil carrying words between the eagle at the top and the dragon Nidhogg at the roots. The levels of the game are made up. Read the story in [Yggdrasil, the world tree: what the sources say and what only modern interpreters added](/en/2026/11/14/yggdrasil-arvore-nove-mundos/).
+In the Eddic sources, the squirrel Ratatoskr runs up and down the tree Yggdrasil carrying words between the eagle at the top and the dragon Nidhogg at the roots. The levels of the game are made up. Read the story in [Yggdrasil, the world tree: what the sources say and what only modern interpreters added](/yggdrasil-the-world-tree-what-the-sources-say-and-what-only/).

@@ -23,4 +23,4 @@ Du spiller de lyse brikkene. Trykk på et merket felt for å sette en brikke: mo
 
 ## Historien bak
 
-Håkon Sigurdsson styrte Nord-Norge som jarl av Lade og døde omkring 995. Brettet er oppfunnet. Les historien i [Håkon Sigurdsson, jarl av Lade: herren over Norge som døde i en grisebinge](/no/2027/01/03/haakon-sigurdsson-jarl-de-lade/).
+Håkon Sigurdsson styrte Nord-Norge som jarl av Lade og døde omkring 995. Brettet er oppfunnet. Les historien i [Håkon Sigurdsson, jarl av Lade: herren over Norge som døde i en grisebinge](/no/hakon-sigurdsson-jarl-av-lade-herren-over-norge-som-dode/).

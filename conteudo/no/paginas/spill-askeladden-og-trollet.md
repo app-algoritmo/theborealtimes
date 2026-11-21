@@ -23,4 +23,4 @@ Hold fingeren (eller mellomromstasten) nede for å helle grøt i den skjulte pos
 
 ## Historien bak
 
-I eventyret samlet av Asbjørnsen og Moe lurer Askeladden trollet med list, og versjonene av spisekonkurransen varierer. Spillmekanikken er diktet opp. Les historien i [Askeladden og trollet: det norske eventyret om gutten som klemte steinen](/no/2026/11/13/askeladden-troll/).
+I eventyret samlet av Asbjørnsen og Moe lurer Askeladden trollet med list, og versjonene av spisekonkurransen varierer. Spillmekanikken er diktet opp. Les historien i [Askeladden og trollet: det norske eventyret om gutten som klemte steinen](/no/askeladden-og-trollet-det-norske-eventyret-om-gutten/).

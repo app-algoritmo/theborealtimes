@@ -41,4 +41,4 @@ O artigo lista outras menções. No *Hyndluljóð*, estrofe 2, o nome parece des
 
 A maioria dos manuscritos chama Hermóðr de filho de Odin, mas o Codex Regius, em geral considerado o melhor, o chama de *sveinn Óðins*, que pode querer dizer "servo de Odin" em vez de "filho". Um trecho posterior o chama de irmão de Baldr, e uma lista de filhos de Odin o inclui, o que favorece a leitura de filho. A ligação entre o Hermóðr da *Edda* e o Heremod do *Beowulf* é só um paralelo de nomes, e não prova que se trate da mesma figura.
 
-Para repetir o ritmo de uma cavalgada noturna, com o tempo certo de cada salto, jogue [Nove noites de Hermóðr](/jogo-as-nove-noites-de-hermodr/).
+Para repetir o ritmo de uma cavalgada noturna, com o tempo certo de cada salto, jogue [Nove noites de Hermóðr](/pt/jogo-as-nove-noites-de-hermodr/).

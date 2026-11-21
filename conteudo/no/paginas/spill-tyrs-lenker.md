@@ -23,4 +23,4 @@ Trykk på et lys for å bytte tilstanden til det og de fire naboene: tent blir s
 
 ## Historien bak
 
-Týr la hånden i munnen på Fenrir slik at ulven kunne bindes med Gleipne. Lysnettet er oppfunnet. Les historien i [Tyr: guden som la hånden i ulvens gap og ga navn til tirsdag](/no/2027/01/03/tyr-deus-da-mao-perdida-fenrir/).
+Týr la hånden i munnen på Fenrir slik at ulven kunne bindes med Gleipne. Lysnettet er oppfunnet. Les historien i [Tyr: guden som la hånden i ulvens gap og ga navn til tirsdag](/no/tyr-guden-som-la-handen-i-ulvens-gap-og-ga-navn-til-tirsdag/).

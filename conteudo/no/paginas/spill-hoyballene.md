@@ -23,4 +23,4 @@ Høyballer av ulike slag ligger blandet på staker. Trykk på en stake for å l�
 
 ## Historien bak
 
-I Hœnsa-Þóris saga nekter den rike kjøpmannen Hœnsa-Þórir å selge høy til naboene en vinter; de tar det, og han brenner dem inne på en gård. Å stable baller er oppfunnet. Les historien i [Hœnsa-Þóris saga: kjøpmannen, det nektede høyet og en lov fra 1200-tallet](/no/2027/02/07/haensa-thoris-saga-feno-vizinhos-lei/).
+I Hœnsa-Þóris saga nekter den rike kjøpmannen Hœnsa-Þórir å selge høy til naboene en vinter; de tar det, og han brenner dem inne på en gård. Å stable baller er oppfunnet. Les historien i [Hœnsa-Þóris saga: kjøpmannen, det nektede høyet og en lov fra 1200-tallet](/no/hoensa-thoris-saga-kjopmannen-det-nektede-hoyet-og-en-lov/).

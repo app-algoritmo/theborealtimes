@@ -43,4 +43,4 @@ O que sobrou da *Íslendingabók* é um livro curto, que organiza o povoamento, 
 
 O modelo medieval, provavelmente de cerca de 1200, se perdeu no fim do século XVII, e a versão mais antiga, sobre os reis noruegueses, também. A datação depende das menções do prólogo. O relato sobre a exploração de Grímr Goatshoe não é claro, e o artigo diz que ele provavelmente procurava um lugar de assembleia. Datas como a da reforma do calendário e a da conversão são aproximadas.
 
-Para arrumar, um a um, os rolos de uma pilha de leis, jogue [Os rolos de Ari](/jogo-os-rolos-de-ari/).
+Para arrumar, um a um, os rolos de uma pilha de leis, jogue [Os rolos de Ari](/pt/jogo-os-rolos-de-ari/).

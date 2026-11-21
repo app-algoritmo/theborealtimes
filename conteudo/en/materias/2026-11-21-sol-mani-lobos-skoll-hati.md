@@ -35,4 +35,4 @@ The *Vafþrúðnismál* says that, before she is swallowed, Sól will have a dau
 
 It is worth remembering that in Old Norse *sól* is feminine and *máni* is masculine. This is the reverse of what happens in many languages of southern Europe, and some researchers see in it a trait of the Germanic tradition. It is also worth remembering that Snorri was a 13th-century Christian writing to preserve old poetry. His explanations may have been arranged by him, and may not come from a belief everyone shared.
 
-To keep the sun in the sky, knocking it back before the wolf can catch it, play [The sun and the wolf](/en/game-the-sun-and-the-wolf/).
+To keep the sun in the sky, knocking it back before the wolf can catch it, play [The sun and the wolf](/game-the-sun-and-the-wolf/).

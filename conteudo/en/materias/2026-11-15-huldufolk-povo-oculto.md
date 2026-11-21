@@ -37,4 +37,4 @@ The álfhóll, the elf hill, is a recognised concept, and there are maps with el
 
 For scholars, the huldufólk shows how a modern society can keep a respectful relationship with the landscape. Treating a rock as someone's home is a way of asking a place for leave before transforming it, and the willingness to divert a road is only its most visible expression.
 
-To steer the road around the rocks, play [Reroute the road](/en/game-reroute-the-road/).
+To steer the road around the rocks, play [Reroute the road](/game-reroute-the-road/).

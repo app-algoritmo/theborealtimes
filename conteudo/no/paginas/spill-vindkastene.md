@@ -23,4 +23,4 @@ Thorvards seil løp foran alle de andre. Vindkast krysser havet. De blå peker m
 
 ## Historien bak
 
-I den islandske fortellingen avslår kong Harald Thorvards seil, og senere løper Eysteins seil foran kongens skip. Vindkastene i spillet og rytmen er oppdiktet. Les historien i [Thorvard Kråkenebb: islendingen hvis seil kong Harald avslo](/no/2027/03/28/thorvard-bico-de-corvo-o-islandes-cuja-vela-o-rei-harald-recusou/).
+I den islandske fortellingen avslår kong Harald Thorvards seil, og senere løper Eysteins seil foran kongens skip. Vindkastene i spillet og rytmen er oppdiktet. Les historien i [Thorvard Kråkenebb: islendingen hvis seil kong Harald avslo](/no/thorvard-krakenebb-islendingen-hvis-seil-kong-harald-avslo/).

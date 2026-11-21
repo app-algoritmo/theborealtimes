@@ -23,4 +23,4 @@ Você foi levado para dentro da montanha. Arraste o dedo para os lados (ou use a
 
 ## A história por trás
 
-Nas lendas norueguesas, quem é bergtatt, "levado pela montanha", pode voltar, mas muda. O salão e as pedras são invenção do jogo. Leia a história em [Bergtatt: a crença norueguesa em quem era levado para dentro da montanha](/2026/11/20/bergtatt-levado-pela-montanha/).
+Nas lendas norueguesas, quem é bergtatt, "levado pela montanha", pode voltar, mas muda. O salão e as pedras são invenção do jogo. Leia a história em [Bergtatt: a crença norueguesa em quem era levado para dentro da montanha](/pt/bergtatt-levado-pela-montanha/).

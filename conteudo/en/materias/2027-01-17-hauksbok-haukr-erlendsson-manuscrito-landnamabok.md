@@ -43,4 +43,4 @@ In saying that the book was one volume and is now three parts, the article recal
 
 Significant portions are lost. Haukr copied mostly from older manuscripts, now lost, and tended to rewrite and shorten the sagas, so his texts may differ from the originals. The article links the book to Haukr Erlendsson, but describes the link as an "association", and does not state without reservation that he was the author of everything. Finally, the folio ranges in the article's list of contents are not consistent with one another, and so this piece does not repeat them.
 
-To add numbers up to the sum asked for, as in a passage of the *Algorismus*, play [Haukr's algorism](/en/game-haukrs-algorism/).
+To add numbers up to the sum asked for, as in a passage of the *Algorismus*, play [Haukr's algorism](/game-haukrs-algorism/).

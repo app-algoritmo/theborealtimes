@@ -23,4 +23,4 @@ Hver natt kommer én av Grýlas tretten sønner, og navnet hans vises øverst. H
 
 ## Historien bak
 
-Ifølge islandsk folketro kommer de tretten juleguttene én hver natt fra 12. desember og drar, én hver natt, etter jul. Listene varierer fra egn til egn, og spillet er diktet opp. Les historien i [Grýla og de tretten julegutta: islandsk jul har en trollkjerring og tretten uskikkelige sønner](/no/2026/11/14/gryla-jolasveinar/).
+Ifølge islandsk folketro kommer de tretten juleguttene én hver natt fra 12. desember og drar, én hver natt, etter jul. Listene varierer fra egn til egn, og spillet er diktet opp. Les historien i [Grýla og de tretten julegutta: islandsk jul har en trollkjerring og tretten uskikkelige sønner](/no/gryla-og-de-tretten-julegutta-islandsk-jul-har/).

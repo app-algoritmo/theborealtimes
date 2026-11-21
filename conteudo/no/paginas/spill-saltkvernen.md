@@ -23,4 +23,4 @@ Hold fingeren (eller mellomromstasten) nede for å dreie kvernen og helle salt i
 
 ## Historien bak
 
-I det norske eventyret samlet av Asbjørnsen og Moe klarer ikke sjømannen å stoppe kvernen, skipet synker og kvernen fortsetter å male salt på havets bunn. Den har en slektning i *Snorres Edda*, kvernen Grotte. Spillet er en forenkling. Les historien i [Kvernen som fortsatt maler salt på havets bunn: det norske eventyret og slektningen i Eddaen](/no/2026/11/13/moinho-sal-mar/).
+I det norske eventyret samlet av Asbjørnsen og Moe klarer ikke sjømannen å stoppe kvernen, skipet synker og kvernen fortsetter å male salt på havets bunn. Den har en slektning i *Snorres Edda*, kvernen Grotte. Spillet er en forenkling. Les historien i [Kvernen som fortsatt maler salt på havets bunn: det norske eventyret og slektningen i Eddaen](/no/kvernen-som-fortsatt-maler-salt-pa-havets-bunn-det-norske/).

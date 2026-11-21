@@ -49,4 +49,4 @@ O marbendill é o homem do mar que sabe o que está oculto. No conto de Jón Ár
 
 Não vi o texto original do conto nem o das sagas, só descrições em páginas de referência, e por isso trato os detalhes como relatados por elas. A relação entre o marbendill e outros seres do mar, como o selkie ou o *nix*, é só uma comparação feita pela página consultada.
 
-Para fisgar o marbendill na hora em que ele aparece, jogue [O marbendill na água](/jogo-o-marbendill-na-agua/).
+Para fisgar o marbendill na hora em que ele aparece, jogue [O marbendill na água](/pt/jogo-o-marbendill-na-agua/).

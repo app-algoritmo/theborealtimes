@@ -23,4 +23,4 @@ There are three heaps of coins. On your turn, tap a coin to take it and all thos
 
 ## The story behind it
 
-In the Bandamanna saga, Ófeigr wins a case with cunning and payments. The coin game is made up. Read the story in [Bandamanna saga: the case at Thingvellir and Ófeigr's cunning](/en/2026/12/20/bandamanna-saga-oddr-ofeigr-suborno/).
+In the Bandamanna saga, Ófeigr wins a case with cunning and payments. The coin game is made up. Read the story in [Bandamanna saga: the case at Thingvellir and Ófeigr's cunning](/bandamanna-saga-the-case-at-thingvellir-and-ofeigr-s-cunning/).

@@ -37,4 +37,4 @@ The *Kalevala* should not be read as the "religion of the ancient Finns", as if 
 
 Louhi is a rare figure in literature: a powerful woman who acts on her own, with intelligence and ambition, and is at once feared and respected. The story of the sun and the moon shows what the Finnish songs understood by "north": a cold and dark place that keeps the light the rest of the world needs.
 
-To cross, lane by lane, the frozen field of Pohjola, dodging the gusts of cold, play [Pohjola's frozen field](/en/game-pohjolas-frozen-field/).
+To cross, lane by lane, the frozen field of Pohjola, dodging the gusts of cold, play [Pohjola's frozen field](/game-pohjolas-frozen-field/).

@@ -23,4 +23,4 @@ card:
 
 ## A história por trás
 
-No Ölkofra þáttr, Ölkofri queima carvão, adormece, e o fogo se espalha até a floresta de seis chefes. Os três trechos de mata, as faíscas e o ritmo do jogo são invenção. Leia a história em [Ölkofra þáttr: o cervejeiro que queimou a floresta de seis chefes e escapou da proscrição](/2027/04/04/olkofra-thattr-o-cervejeiro-que-queimou-a-floresta-de-seis-chefes-e-escapou-da-proscricao/).
+No Ölkofra þáttr, Ölkofri queima carvão, adormece, e o fogo se espalha até a floresta de seis chefes. Os três trechos de mata, as faíscas e o ritmo do jogo são invenção. Leia a história em [Ölkofra þáttr: o cervejeiro que queimou a floresta de seis chefes e escapou da proscrição](/pt/olkofra-thattr-o-cervejeiro-que-queimou-a-floresta-de-seis-chefes-e-escapou-da-proscricao/).

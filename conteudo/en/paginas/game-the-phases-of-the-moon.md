@@ -23,4 +23,4 @@ Máni steers the Moon, and Hjúki and Bil follow it. Five moons stand in a row, 
 
 ## The story behind it
 
-In the Prose Edda, Snorri says Hjúki and Bil follow the Moon and that Máni steers its waxing and waning. The row of phases in the game is invention. Read the story in [Hjúki and Bil: the children who follow the Moon carrying a pail in the Edda](/en/2027/03/28/hjuki-e-bil-as-criancas-que-seguem-a-lua-carregando-um-balde-na-edda/).
+In the Prose Edda, Snorri says Hjúki and Bil follow the Moon and that Máni steers its waxing and waning. The row of phases in the game is invention. Read the story in [Hjúki and Bil: the children who follow the Moon carrying a pail in the Edda](/hjuki-and-bil-the-children-who-follow-the-moon-carrying/).

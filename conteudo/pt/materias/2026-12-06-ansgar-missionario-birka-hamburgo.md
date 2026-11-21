@@ -37,4 +37,4 @@ Ansgar morreu em Bremen em 3 de fevereiro de 865. A *Vita Anskarii* foi escrita 
 
 Ansgar não converteu a Escandinávia. O processo foi muito mais lento, e só se consolidou nos séculos X e XI, com reis como Harald Dente Azul, na Dinamarca, e Olavo, na Noruega. Mas sua história mostra que, já no século IX, havia contato entre a Igreja franca e os reinos nórdicos, e que os cristãos tinham alguma presença em centros como Birka e Hedeby. Pela tradição, ele passou a ser chamado de "apóstolo do Norte".
 
-Para virar as peças do rival com as suas, num tabuleiro de seis por seis, jogue [O tabuleiro de Birka](/jogo-o-tabuleiro-de-birka/).
+Para virar as peças do rival com as suas, num tabuleiro de seis por seis, jogue [O tabuleiro de Birka](/pt/jogo-o-tabuleiro-de-birka/).

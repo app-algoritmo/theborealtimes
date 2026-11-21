@@ -44,4 +44,4 @@ In German works, dwarfs often wear the Tarnkappe, a cloak of invisibility, and a
 
 The origin of the word is not known, nor whether dwarfs began as nature spirits or as beings tied to death. It is also not known whether *svartálfar* and *dökkálfar* are the same as dwarfs, since they appear only in the Prose Edda. The early sources do not state their size, and names like Fullangr and Hár are ambiguous. Females appear only in late sagas, and there is no proof that dwarfs received offerings.
 
-To dig in a mine without stepping on the traps, guided by the numbers on neighbouring squares, play [The dwarfs' mine](/en/game-the-dwarfs-mine/).
+To dig in a mine without stepping on the traps, guided by the numbers on neighbouring squares, play [The dwarfs' mine](/game-the-dwarfs-mine/).

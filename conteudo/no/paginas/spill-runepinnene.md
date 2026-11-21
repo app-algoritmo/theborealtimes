@@ -23,4 +23,4 @@ På bryggen i Bergen kommer kjøpmennene med pinner med runer. Les teksten på p
 
 ## Historien bak
 
-Blant runeinnskriftene fra Bryggen i Bergen finnes navnelapper som «Eysteinn á mik», beskjeder som «Ást min, kyss mik» og latinske tekster som «Ave Maria». Noen setninger i spillet er inspirert av dem, og sorteringen i bokser er oppdiktet. Les historien i [Bryggen: runepinnene fra Bergen, kjøpmannsbrev og kjærlighetsformler](/no/2027/03/21/bryggen-os-paus-de-runas-de-bergen-bilhetes-de-comerciantes-e-juras-de-amor/).
+Blant runeinnskriftene fra Bryggen i Bergen finnes navnelapper som «Eysteinn á mik», beskjeder som «Ást min, kyss mik» og latinske tekster som «Ave Maria». Noen setninger i spillet er inspirert av dem, og sorteringen i bokser er oppdiktet. Les historien i [Bryggen: runepinnene fra Bergen, kjøpmannsbrev og kjærlighetsformler](/no/bryggen-runepinnene-fra-bergen-kjopmannsbrev/).

@@ -23,4 +23,4 @@ Use the arrow keys (or tap beside the warrior) to walk and push crates onto the 
 
 ## The story behind it
 
-In 878, after Edington, King Guthrum was baptised near Wedmore. The crates and the marks are made up for the game. Read the story in [Guthrum, 878: the Viking chieftain who was baptised, took a Christian name and became a king](/en/2026/12/13/guthrum-wedmore-878-batismo/).
+In 878, after Edington, King Guthrum was baptised near Wedmore. The crates and the marks are made up for the game. Read the story in [Guthrum, 878: the Viking chieftain who was baptised, took a Christian name and became a king](/guthrum-878-the-viking-chieftain-who-was-baptised-took/).

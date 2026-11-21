@@ -43,4 +43,4 @@ The Christmas custom of kissing under mistletoe is much later and does not come 
 
 What the myth leaves behind is a curious warning: Frigg's power was enormous, but one small exception was enough to bring it down.
 
-To play with Frigg's oaths, open [Frigg's oaths](/en/game-friggs-oaths/).
+To play with Frigg's oaths, open [Frigg's oaths](/game-friggs-oaths/).

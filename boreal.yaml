@@ -40,8 +40,7 @@ site:
 # Medição — consentimento negado por padrão; a CMP do AdSense atualiza
 # ------------------------------------------------------------
 medicao:
-  ga4: "G-12VY3Y5S1L"
-  gtm: "GTM-M7GFJKWK"
+  ga4: "G-F8DGD8SR0E"
   verificacao_google: ""   # preencher depois do site no ar
   verificacao_bing: ""
 
@@ -67,16 +66,18 @@ idiomas:
     prefixo: /no
     rotulo: Norsk
     principal: false
+    slug_do_titulo: true
   - codigo: pt-BR
     curto: pt
-    prefixo: ""
+    prefixo: /pt
     rotulo: Português
-    principal: true
+    principal: false
   - codigo: en
     curto: en
-    prefixo: /en
+    prefixo: ""
     rotulo: English
-    principal: false
+    principal: true
+    slug_do_titulo: true
 
 # ============================================================
 # CONTEÚDO POR IDIOMA
@@ -102,15 +103,15 @@ pt:
     termos: Termos
     editor: Editor responsável
     links_jornal:
-      - { rotulo: Quem somos, url: /quem-somos/ }
-      - { rotulo: Princípios editoriais, url: /principios/ }
-      - { rotulo: Correções, url: /correcoes/ }
-      - { rotulo: Fale conosco, url: /contato/ }
+      - { rotulo: Quem somos, url: /pt/quem-somos/ }
+      - { rotulo: Princípios editoriais, url: /pt/principios/ }
+      - { rotulo: Correções, url: /pt/correcoes/ }
+      - { rotulo: Fale conosco, url: /pt/contato/ }
     links_legal:
-      - { rotulo: Assinatura, url: /assinatura/ }
-      - { rotulo: Termos de uso, url: /termos/ }
-      - { rotulo: Privacidade, url: /privacidade/ }
-      - { rotulo: Cookies, url: /cookies/ }
+      - { rotulo: Assinatura, url: /pt/assinatura/ }
+      - { rotulo: Termos de uso, url: /pt/termos/ }
+      - { rotulo: Privacidade, url: /pt/privacidade/ }
+      - { rotulo: Cookies, url: /pt/cookies/ }
   # Apelido de cada página institucional neste idioma. O leitor inglês lê
   # /en/privacy/, não /en/privacidade/. Os nomes dos arquivos markdown em
   # conteudo/<idioma>/paginas/ seguem esta mesma lista.
@@ -524,15 +525,15 @@ pt:
     jogo_selkiefocas: jogo-as-focas-das-rochas
     jogo_trow: jogo-a-melodia-dos-trows
   curiosidades:
-    - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/2026/11/12/capacete-viking-chifres-gjermundbu/"}
-    - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/2026/11/13/espadas-ulfberht/"}
-    - {texto: "Em 1206, dois esquiadores atravessaram as montanhas com um príncipe-bebê para salvá-lo.", url: "/2026/11/13/birkebeiner-haakon/"}
-    - {texto: "Os deuses prenderam o lobo Fenrir com uma fita feita de seis coisas que não existem.", url: "/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
-    - {texto: "Os vikings jogavam hnefatafl, e as regras originais do jogo se perderam.", url: "/2026/11/13/hnefatafl-tabuleiro/"}
-    - {texto: "A pedra de Jelling, de cerca de 965, traz o nome da Dinamarca escrito em runas.", url: "/2026/11/13/jelling-harald-runas/"}
-    - {texto: "Na Santa Sofia, em Istambul, há runas gravadas por um nórdico, e uma delas termina com o nome Halfdan.", url: "/2026/11/13/guarda-varegue/"}
-    - {texto: "Uma saga islandesa fala de uma pedra do sol que mostra onde o sol está, mesmo atrás das nuvens.", url: "/2026/11/13/pedra-solar/"}
-    - {texto: "Frigg fez todas as coisas jurarem não ferir Baldr, mas esqueceu um broto de visco.", url: "/2026/11/13/baldr-visco/"}
+    - {texto: "O capacete de Gjermundbu, o único capacete viking quase completo já achado, é redondo e não tem chifres.", url: "/pt/capacete-viking-chifres-gjermundbu/"}
+    - {texto: "Cerca de 170 espadas medievais trazem o nome Ulfberht gravado na lâmina.", url: "/pt/espadas-ulfberht/"}
+    - {texto: "Em 1206, dois esquiadores atravessaram as montanhas com um príncipe-bebê para salvá-lo.", url: "/pt/birkebeiner-haakon/"}
+    - {texto: "Os deuses prenderam o lobo Fenrir com uma fita feita de seis coisas que não existem.", url: "/pt/fenrir-lobo-corrente-gleipnir/"}
+    - {texto: "Os vikings jogavam hnefatafl, e as regras originais do jogo se perderam.", url: "/pt/hnefatafl-tabuleiro/"}
+    - {texto: "A pedra de Jelling, de cerca de 965, traz o nome da Dinamarca escrito em runas.", url: "/pt/jelling-harald-runas/"}
+    - {texto: "Na Santa Sofia, em Istambul, há runas gravadas por um nórdico, e uma delas termina com o nome Halfdan.", url: "/pt/guarda-varegue/"}
+    - {texto: "Uma saga islandesa fala de uma pedra do sol que mostra onde o sol está, mesmo atrás das nuvens.", url: "/pt/pedra-solar/"}
+    - {texto: "Frigg fez todas as coisas jurarem não ferir Baldr, mas esqueceu um broto de visco.", url: "/pt/baldr-visco/"}
   interface:
     capa: Capa
     menu_inicio: Histórias
@@ -671,15 +672,15 @@ en:
     termos: Terms
     editor: Responsible editor
     links_jornal:
-      - { rotulo: About us, url: /en/about-us/ }
-      - { rotulo: Editorial principles, url: /en/editorial-principles/ }
-      - { rotulo: Corrections, url: /en/corrections/ }
-      - { rotulo: Contact us, url: /en/contact/ }
+      - { rotulo: About us, url: /about-us/ }
+      - { rotulo: Editorial principles, url: /editorial-principles/ }
+      - { rotulo: Corrections, url: /corrections/ }
+      - { rotulo: Contact us, url: /contact/ }
     links_legal:
-      - { rotulo: Subscription, url: /en/subscribe/ }
-      - { rotulo: Terms of use, url: /en/terms/ }
-      - { rotulo: Privacy, url: /en/privacy/ }
-      - { rotulo: Cookies, url: /en/cookies/ }
+      - { rotulo: Subscription, url: /subscribe/ }
+      - { rotulo: Terms of use, url: /terms/ }
+      - { rotulo: Privacy, url: /privacy/ }
+      - { rotulo: Cookies, url: /cookies/ }
   paginas:
     arquivo: archive
     sobre: about
@@ -1090,15 +1091,15 @@ en:
     jogo_selkiefocas: game-the-seals-on-the-rocks
     jogo_trow: game-the-melody-of-the-trows
   curiosidades:
-    - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/en/2026/11/12/capacete-viking-chifres-gjermundbu/"}
-    - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/en/2026/11/13/espadas-ulfberht/"}
-    - {texto: "In 1206, two skiers crossed the mountains with a baby prince to save him.", url: "/en/2026/11/13/birkebeiner-haakon/"}
-    - {texto: "The gods bound the wolf Fenrir with a ribbon made of six things that do not exist.", url: "/en/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
-    - {texto: "The Vikings played hnefatafl, and the original rules of the game were lost.", url: "/en/2026/11/13/hnefatafl-tabuleiro/"}
-    - {texto: "The Jelling stone, from around 965, has the name of Denmark written in runes.", url: "/en/2026/11/13/jelling-harald-runas/"}
-    - {texto: "In Hagia Sophia in Istanbul, there are runes carved by a Norseman, and one of them ends with the name Halfdan.", url: "/en/2026/11/13/guarda-varegue/"}
-    - {texto: "An Icelandic saga mentions a sunstone that shows where the sun is, even behind the clouds.", url: "/en/2026/11/13/pedra-solar/"}
-    - {texto: "Frigg made all things swear not to harm Baldr, but forgot a sprout of mistletoe.", url: "/en/2026/11/13/baldr-visco/"}
+    - {texto: "The Gjermundbu helmet, the only nearly complete Viking helmet ever found, is round and has no horns.", url: "/did-the-vikings-wear-horned-helmets-what-the-gjermundbu/"}
+    - {texto: "About 170 medieval swords bear the name Ulfberht engraved on the blade.", url: "/the-ulfberht-swords-the-name-engraved-on-viking-blades/"}
+    - {texto: "In 1206, two skiers crossed the mountains with a baby prince to save him.", url: "/the-birkebeiner-and-the-ski-crossing-that-saved-the-future/"}
+    - {texto: "The gods bound the wolf Fenrir with a ribbon made of six things that do not exist.", url: "/how-the-norse-gods-bound-the-wolf-fenrir-and-why-tyr-lost/"}
+    - {texto: "The Vikings played hnefatafl, and the original rules of the game were lost.", url: "/hnefatafl-the-board-game-the-vikings-played-and-no-one/"}
+    - {texto: "The Jelling stone, from around 965, has the name of Denmark written in runes.", url: "/the-jelling-stone-what-harald-bluetooth-had-carved-in-runes/"}
+    - {texto: "In Hagia Sophia in Istanbul, there are runes carved by a Norseman, and one of them ends with the name Halfdan.", url: "/the-varangian-guard-the-vikings-who-protected-the-emperor/"}
+    - {texto: "An Icelandic saga mentions a sunstone that shows where the sun is, even behind the clouds.", url: "/the-sunstone-the-crystal-that-may-have-helped-the-vikings/"}
+    - {texto: "Frigg made all things swear not to harm Baldr, but forgot a sprout of mistletoe.", url: "/baldr-the-god-nothing-could-harm-and-the-sprig-of-mistletoe/"}
   interface:
     capa: Front page
     menu_inicio: Stories
@@ -1656,15 +1657,15 @@ en:
     jogo_selkiefocas: spill-selene-pa-skjaerene
     jogo_trow: spill-trollenes-melodi
   curiosidades:
-    - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/2026/11/12/capacete-viking-chifres-gjermundbu/"}
-    - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/2026/11/13/espadas-ulfberht/"}
-    - {texto: "I 1206 krysset to skiløpere fjellet med en prinsebaby for å redde ham.", url: "/no/2026/11/13/birkebeiner-haakon/"}
-    - {texto: "Gudene bandt ulven Fenrir med et bånd laget av seks ting som ikke finnes.", url: "/no/2026/11/12/fenrir-lobo-corrente-gleipnir/"}
-    - {texto: "Vikingene spilte hnefatafl, og de opprinnelige reglene til spillet gikk tapt.", url: "/no/2026/11/13/hnefatafl-tabuleiro/"}
-    - {texto: "Jellingsteinen, fra omkring 965, har Danmarks navn skrevet med runer.", url: "/no/2026/11/13/jelling-harald-runas/"}
-    - {texto: "I Hagia Sofia i Istanbul finnes runer risset av en nordmann, og en av dem ender med navnet Halfdan.", url: "/no/2026/11/13/guarda-varegue/"}
-    - {texto: "En islandsk saga nevner en solstein som viser hvor solen er, selv bak skyene.", url: "/no/2026/11/13/pedra-solar/"}
-    - {texto: "Frigg fikk alle ting til å sverge at de ikke ville skade Balder, men glemte en misteltein.", url: "/no/2026/11/13/baldr-visco/"}
+    - {texto: "Gjermundbu-hjelmen, den eneste nesten komplette vikinghjelmen som noen gang er funnet, er rund og har ingen horn.", url: "/no/hadde-vikingene-hjelmer-med-horn-hva-gjermundbu-funnet-viser/"}
+    - {texto: "Omtrent 170 middelalderske sverd har navnet Ulfberht risset inn i bladet.", url: "/no/ulfberht-sverdene-navnet-risset-inn-pa-vikingblader/"}
+    - {texto: "I 1206 krysset to skiløpere fjellet med en prinsebaby for å redde ham.", url: "/no/birkebeinerne-og-skiferden-som-reddet-den-senere-kong-hakon/"}
+    - {texto: "Gudene bandt ulven Fenrir med et bånd laget av seks ting som ikke finnes.", url: "/no/hvordan-de-norrone-gudene-bandt-ulven-fenrir-og-hvorfor-tyr/"}
+    - {texto: "Vikingene spilte hnefatafl, og de opprinnelige reglene til spillet gikk tapt.", url: "/no/hnefatafl-brettspillet-vikingene-spilte-og-som-ingen-vet/"}
+    - {texto: "Jellingsteinen, fra omkring 965, har Danmarks navn skrevet med runer.", url: "/no/jellingsteinen-det-harald-blatann-lot-risse-inn-i-runer/"}
+    - {texto: "I Hagia Sofia i Istanbul finnes runer risset av en nordmann, og en av dem ender med navnet Halfdan.", url: "/no/vaeringgarden-vikingene-som-beskyttet-keiseren/"}
+    - {texto: "En islandsk saga nevner en solstein som viser hvor solen er, selv bak skyene.", url: "/no/solsteinen-krystallen-som-kanskje-hjalp-vikingene-a-finne/"}
+    - {texto: "Frigg fikk alle ting til å sverge at de ikke ville skade Balder, men glemte en misteltein.", url: "/no/balder-guden-ingenting-kunne-skade-og-misteltein-skuddet/"}
   interface:
     capa: Forside
     menu_inicio: Historier

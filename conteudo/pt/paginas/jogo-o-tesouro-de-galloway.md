@@ -23,4 +23,4 @@ Seis cofres guardam peças de quatro materiais misturados. Toque num cofre para 
 
 ## A história por trás
 
-Em setembro de 2014, o detectorista Derek McLennan achou o primeiro objeto do tesouro de Galloway. O Museu Nacional da Escócia o comprou em 2017 por 1,98 milhão de libras. O jogo é invenção. Leia a história em [O tesouro de Galloway, na Escócia: o que o artigo diz do achado de 2014](/2027/01/17/galloway-hoard-tesouro-viking-escocia-2014/).
+Em setembro de 2014, o detectorista Derek McLennan achou o primeiro objeto do tesouro de Galloway. O Museu Nacional da Escócia o comprou em 2017 por 1,98 milhão de libras. O jogo é invenção. Leia a história em [O tesouro de Galloway, na Escócia: o que o artigo diz do achado de 2014](/pt/galloway-hoard-tesouro-viking-escocia-2014/).

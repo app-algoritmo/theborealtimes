@@ -23,4 +23,4 @@ Guide the spark around the hall. Arrows or WASD, or tap in the direction you wan
 
 ## The story behind it
 
-In the Grímnismál, Odin in disguise tells many of his names, between two fires. The name-collecting game is made up. Read the story in [Grímnismál: Odin between two fires, speaking about the world](/en/2026/11/29/grimnismal-odin-entre-fogos/).
+In the Grímnismál, Odin in disguise tells many of his names, between two fires. The name-collecting game is made up. Read the story in [Grímnismál: Odin between two fires, speaking about the world](/grimnismal-odin-between-two-fires-speaking-about-the-world/).

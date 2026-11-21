@@ -23,4 +23,4 @@ Tor ba om at beina fra bukkene ble lagt på skinnene. Beina passerer langs borde
 
 ## Historien bak
 
-I Snorres Edda knuser Thjálfi lårbeinet til en av Tors bukker, og derfor tar Tor Thjálfi og Röskva som tjenere. Beina som passerer langs bordet, og rytmen i spillet er oppdiktet. Les historien i [Thjálfi og Röskva: det knuste beinet og Tors to tjenere](/no/2027/03/28/thjalfi-e-roskva-o-osso-quebrado-e-os-dois-servos-de-thor/).
+I Snorres Edda knuser Thjálfi lårbeinet til en av Tors bukker, og derfor tar Tor Thjálfi og Röskva som tjenere. Beina som passerer langs bordet, og rytmen i spillet er oppdiktet. Les historien i [Thjálfi og Röskva: det knuste beinet og Tors to tjenere](/no/thjalfi-og-roskva-det-knuste-beinet-og-tors-to-tjenere/).

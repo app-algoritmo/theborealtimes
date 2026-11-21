@@ -23,4 +23,4 @@ Snakes rise from the 9 openings of the pit. Tap each one before it bites: if it 
 
 ## The story behind it
 
-In the Atlakviða, King Gunnar is thrown into a snake pit. The game of driving them off is made up. Read the story in [Atlakviða: King Gunnar in the snake pit and Gudrun's revenge on Atli](/en/2026/12/13/atlakvida-gunnar-poco-de-serpentes/).
+In the Atlakviða, King Gunnar is thrown into a snake pit. The game of driving them off is made up. Read the story in [Atlakviða: King Gunnar in the snake pit and Gudrun's revenge on Atli](/atlakvida-king-gunnar-in-the-snake-pit-and-gudrun-s-revenge/).

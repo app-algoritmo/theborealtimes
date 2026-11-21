@@ -45,4 +45,4 @@ Martelo e tenazes aparecem junto de itens de cozinha e lavoura, e a reportagem t
 
 A reportagem é um resumo jornalístico, sem a metodologia completa do estudo. Os isótopos "sugerem", não provam, a origem escandinava. A ligação entre a Escandinávia e a Irlanda é uma sugestão. A reutilização das pedras é uma possibilidade ("pode ter"). A reportagem não menciona pente nem objetos francos, e não dá a posição exata do corpo. Por isso, tudo o que vai além disso, como o nome do homem, o motivo da viagem ou quem o enterrou, fica sem resposta.
 
-Para ligar pontos, um traço de cada vez, fechando mais quadrados do que o rival, jogue [Os pontos de Swordle Bay](/jogo-os-pontos-de-swordle-bay/).
+Para ligar pontos, um traço de cada vez, fechando mais quadrados do que o rival, jogue [Os pontos de Swordle Bay](/pt/jogo-os-pontos-de-swordle-bay/).

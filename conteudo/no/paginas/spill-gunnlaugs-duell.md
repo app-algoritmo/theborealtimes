@@ -23,4 +23,4 @@ En pil viser hvor hogget kommer fra. Trykk på øvre halvdel av skjermen for å 
 
 ## Historien bak
 
-I Sagaen om Gunnlaug Ormstunge ender duellen på Dingenes med begges død. Hoggsystemet er diktet opp for spillet. Les historien i [Gunnlaug Ormstunge og Helga den vakre: en trekant som endte i duell](/no/2026/11/16/gunnlaug-helga-duelo/).
+I Sagaen om Gunnlaug Ormstunge ender duellen på Dingenes med begges død. Hoggsystemet er diktet opp for spillet. Les historien i [Gunnlaug Ormstunge og Helga den vakre: en trekant som endte i duell](/no/gunnlaug-ormstunge-og-helga-den-vakre-en-trekant-som-endte/).

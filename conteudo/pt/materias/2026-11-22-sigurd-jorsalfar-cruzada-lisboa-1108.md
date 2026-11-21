@@ -35,4 +35,4 @@ Os historiadores lembram que a parte ibérica da viagem aparece só nas sagas es
 
 É a primeira vez que um rei da Escandinávia faz uma viagem desse tipo, e a saga a usa para mostrar o reino da Noruega como parte do mundo cristão da Europa.
 
-Para ligar, peça a peça, uma margem do tabuleiro à outra antes do rival, como quem cruza um continente de ponta a ponta, jogue [O caminho de Sigurd](/jogo-o-caminho-de-sigurd/).
+Para ligar, peça a peça, uma margem do tabuleiro à outra antes do rival, como quem cruza um continente de ponta a ponta, jogue [O caminho de Sigurd](/pt/jogo-o-caminho-de-sigurd/).

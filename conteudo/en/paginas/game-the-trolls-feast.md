@@ -23,4 +23,4 @@ It is Christmas Eve, and the trolls have come to the feast. The bear sleeps besi
 
 ## The story behind it
 
-In the tale by Asbjørnsen and Moe, trolls take over Halvor's house on Christmas Eve, one of them prods the white bear with a sausage, and the bear drives them out. The game of scaring trolls is invented. Read the story in [The cat on the Dovrefjell: trolls, a white bear and a sausage on Christmas Eve](/en/2027/03/14/o-gato-do-dovrefjell-trolls-urso-branco-e-linguica-na-vespera-de-natal/).
+In the tale by Asbjørnsen and Moe, trolls take over Halvor's house on Christmas Eve, one of them prods the white bear with a sausage, and the bear drives them out. The game of scaring trolls is invented. Read the story in [The cat on the Dovrefjell: trolls, a white bear and a sausage on Christmas Eve](/the-cat-on-the-dovrefjell-trolls-a-white-bear-and-a-sausage/).

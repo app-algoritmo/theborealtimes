@@ -23,4 +23,4 @@ Thor asked that the bones of the goats be laid on the hides. The bones pass alon
 
 ## The story behind it
 
-In the Prose Edda, Thjálfi breaks the thigh bone of one of Thor's goats, and for that Thor takes Thjálfi and Röskva as servants. The bones passing along the table and the rhythm of the game are invention. Read the story in [Thjálfi and Röskva: the broken bone and the two servants of Thor](/en/2027/03/28/thjalfi-e-roskva-o-osso-quebrado-e-os-dois-servos-de-thor/).
+In the Prose Edda, Thjálfi breaks the thigh bone of one of Thor's goats, and for that Thor takes Thjálfi and Röskva as servants. The bones passing along the table and the rhythm of the game are invention. Read the story in [Thjálfi and Röskva: the broken bone and the two servants of Thor](/thjalfi-and-roskva-the-broken-bone-and-the-two-servants/).

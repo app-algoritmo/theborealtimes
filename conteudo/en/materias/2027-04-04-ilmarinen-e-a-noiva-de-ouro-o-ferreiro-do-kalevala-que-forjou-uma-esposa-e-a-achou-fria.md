@@ -43,4 +43,4 @@ Ilmarinen forges a bride of gold and silver to replace his dead wife, but she is
 
 I read the episode in an English translation of 1888, and the details of the pieces and the metals may vary in other translations. The text does not say how the bride was made beyond the smith's own actions, and the explanation of the final warning is my own reading: it is Väinämöinen's advice, not a rule of the poem.
 
-To lay gold on the embers without burning it or cooling it too much, play [The gold on the embers](/en/game-the-gold-on-the-embers/).
+To lay gold on the embers without burning it or cooling it too much, play [The gold on the embers](/game-the-gold-on-the-embers/).

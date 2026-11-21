@@ -48,4 +48,4 @@ A *þáttr* is a short Icelandic tale, often inserted in a larger saga. *Morkins
 
 The tale is a literary narrative, and the sources I read do not say whether the episode really happened. The page I consulted also does not say which saga or exact date it comes from beyond naming Morkinskinna as its base. I did not confirm who the poet Thjodolf was beyond what the tale tells.
 
-To give the king what he asks for before time runs out, play [What the king asks](/en/game-what-the-king-asks/).
+To give the king what he asks for before time runs out, play [What the king asks](/game-what-the-king-asks/).

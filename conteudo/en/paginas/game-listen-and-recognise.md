@@ -23,4 +23,4 @@ Tap the speaker to hear a short melody. Then tap the line that draws the rise an
 
 ## The story behind it
 
-The joik is a Sámi song that evokes a person, an animal or a place. The melodies in this game are invented. Read the story in [Joik: the Sámi song that evokes a person, an animal or a place](/en/2027/02/28/joik-o-canto-sami-que-evoca-uma-pessoa-um-animal-ou-um-lugar/).
+The joik is a Sámi song that evokes a person, an animal or a place. The melodies in this game are invented. Read the story in [Joik: the Sámi song that evokes a person, an animal or a place](/joik-the-sami-song-that-evokes-a-person-an-animal-or-a-place/).

@@ -23,4 +23,4 @@ Toque numa casa para pôr ou tirar um machado. Ponha um machado por linha, sem q
 
 ## A história por trás
 
-Na sepultura de Mammen, perto de Viborg, na Dinamarca, havia dois machados, e um deles, com incrustações de prata, deu nome ao estilo Mammen. A madeira da câmara foi cortada em 970/971. Pôr machados sem se atacarem é invenção. Leia a história em [A sepultura de Mammen: um machado com prata, uma vela e uma câmara datada de 970](/2027/02/21/sepultura-de-mammen-machado-com-prata-dinamarca-ano-970/).
+Na sepultura de Mammen, perto de Viborg, na Dinamarca, havia dois machados, e um deles, com incrustações de prata, deu nome ao estilo Mammen. A madeira da câmara foi cortada em 970/971. Pôr machados sem se atacarem é invenção. Leia a história em [A sepultura de Mammen: um machado com prata, uma vela e uma câmara datada de 970](/pt/sepultura-de-mammen-machado-com-prata-dinamarca-ano-970/).

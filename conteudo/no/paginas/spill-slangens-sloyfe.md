@@ -23,4 +23,4 @@ Prikkene danner et rutenett. Trykk mellom to prikker for å tegne eller viske ut
 
 ## Historien bak
 
-Ramsundristningen i Sverige viser Sigurd-sagnet inne i et slangeband. Å tegne en sløyfe med tall er oppfunnet. Les historien i [Ramsund: ristningen av Sigurd på en svensk berghåll, omkring 1030](/no/2027/02/28/ramsund-o-entalhe-de-sigurd-numa-rocha-da-suecia-por-volta-de-1030/).
+Ramsundristningen i Sverige viser Sigurd-sagnet inne i et slangeband. Å tegne en sløyfe med tall er oppfunnet. Les historien i [Ramsund: ristningen av Sigurd på en svensk berghåll, omkring 1030](/no/ramsund-ristningen-av-sigurd-pa-en-svensk-berghall-omkring/).

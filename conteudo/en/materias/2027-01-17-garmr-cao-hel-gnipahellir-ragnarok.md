@@ -47,4 +47,4 @@ The *Völuspá* gives the howl as a warning of the end; the *Baldrs draumar* giv
 
 Almost everything said of Garmr comes from a few lines. The dog of the *Baldrs draumar* is not named, and identifying it as Garmr is a choice made by the reader. The idea that Garmr and Fenrir are the same figure is one hypothesis among others, and the relation to Cerberus depends on a root that one scholar accepts and another rejects. That is why the article is careful: it sets out the sources and the doubts side by side.
 
-To repeat a sequence of howls echoing at the cave mouth, play [Garmr's howls](/en/game-garmrs-howls/).
+To repeat a sequence of howls echoing at the cave mouth, play [Garmr's howls](/game-garmrs-howls/).

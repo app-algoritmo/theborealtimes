@@ -23,4 +23,4 @@ Each square of the 6-by-6 board takes a light or a dark stone. Tap a square to c
 
 ## The story behind it
 
-The Vatnsdæla saga is a family chronicle about the valley of Vatnsdalur, in northern Iceland. Ingimundr Þorsteinsson, who fought for Harald Fairhair at Hafrsfjord, moves there at the instigation of a sorceress. The light and dark stones are invented. Read the story in [Vatnsdæla saga: the chronicle of a family in the valley of Vatnsdalur, in northern Iceland](/en/2027/01/24/vatnsdaela-saga-ingimundr-vale-vatnsdalur-islandia/).
+The Vatnsdæla saga is a family chronicle about the valley of Vatnsdalur, in northern Iceland. Ingimundr Þorsteinsson, who fought for Harald Fairhair at Hafrsfjord, moves there at the instigation of a sorceress. The light and dark stones are invented. Read the story in [Vatnsdæla saga: the chronicle of a family in the valley of Vatnsdalur, in northern Iceland](/vatnsdaela-saga-the-chronicle-of-a-family-in-the-valley/).

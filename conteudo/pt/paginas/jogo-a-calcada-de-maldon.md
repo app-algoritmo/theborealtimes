@@ -23,4 +23,4 @@ Quando a maré baixa, os vikings entram na calçada e avançam para a margem ing
 
 ## A história por trás
 
-Em 991, em Maldon, os ingleses perderam a batalha e passaram a pagar o Danegeld. A defesa vitoriosa do jogo é invenção. Leia a história em [Maldon, 991: a batalha que levou os ingleses a pagar tributo aos vikings](/2026/11/15/maldon-991-danegeld/).
+Em 991, em Maldon, os ingleses perderam a batalha e passaram a pagar o Danegeld. A defesa vitoriosa do jogo é invenção. Leia a história em [Maldon, 991: a batalha que levou os ingleses a pagar tributo aos vikings](/pt/maldon-991-danegeld/).

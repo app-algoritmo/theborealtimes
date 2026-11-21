@@ -23,4 +23,4 @@ Hver rute på brettet på 6 ganger 6 får en lys eller en mørk stein. Trykk på
 
 ## Historien bak
 
-Vatnsdæla saga er en slektskrønike om dalen Vatnsdalur i Nord-Island. Ingimundr Þorsteinsson, som kjempet for Harald Hårfagre ved Hafrsfjord, flytter dit etter påtrykk fra en trollkvinne. De lyse og mørke steinene er oppfunnet. Les historien i [Vatnsdæla saga: krøniken om en slekt i dalen Vatnsdalur i Nord-Island](/no/2027/01/24/vatnsdaela-saga-ingimundr-vale-vatnsdalur-islandia/).
+Vatnsdæla saga er en slektskrønike om dalen Vatnsdalur i Nord-Island. Ingimundr Þorsteinsson, som kjempet for Harald Hårfagre ved Hafrsfjord, flytter dit etter påtrykk fra en trollkvinne. De lyse og mørke steinene er oppfunnet. Les historien i [Vatnsdæla saga: krøniken om en slekt i dalen Vatnsdalur i Nord-Island](/no/vatnsdaela-saga-kroniken-om-en-slekt-i-dalen-vatnsdalur/).

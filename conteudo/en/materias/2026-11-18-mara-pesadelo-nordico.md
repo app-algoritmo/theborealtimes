@@ -41,4 +41,4 @@ Explaining a belief does not devalue it. It shows how the peoples of the North g
 
 The theme is old and widespread. The French *cauchemar* joins the old verb *caucher*, “to tread”, to the same term *mare*, and the image of something that treads on a sleeper is the same as in the *Ynglinga saga*. Old German had *Mahr*, and Old English *mære*. The forms vary, but the idea of a being that rides or treads on sleepers recurs all over Europe.
 
-To find out what the mara moved in the stable during the night, play [The mara's stable](/en/game-the-maras-stable/).
+To find out what the mara moved in the stable during the night, play [The mara's stable](/game-the-maras-stable/).

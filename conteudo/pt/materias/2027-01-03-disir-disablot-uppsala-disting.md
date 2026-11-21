@@ -41,4 +41,4 @@ Alguns estudiosos acham que *dísir* pode ser o termo original e "valquíria" um
 
 Não se sabe se as dísir eram deusas da fertilidade, guardiãs de clãs, figuras de guerra ou espíritos dos mortos. Rudolf Simek as vê como manifestações variadas de deusas femininas. Também não se entende bem o *dísarsalr*, nem a finalidade do sacrifício de Uppsala. A *Hervarar saga* sugere que o rito era feito por mulheres, e a *Ynglinga saga*, que era o rei o sacerdote. E o artigo registra que Gabriel Turville-Petre o associou ao *modranect*, a "noite das mães" anglo-saxônica, sem dizer se isso é aceito.
 
-Para repetir uma sequência de luzes cada vez mais longa, sem errar, jogue [As luzes das dísir](/jogo-as-luzes-das-disir/).
+Para repetir uma sequência de luzes cada vez mais longa, sem errar, jogue [As luzes das dísir](/pt/jogo-as-luzes-das-disir/).

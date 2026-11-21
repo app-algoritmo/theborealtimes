@@ -23,4 +23,4 @@ Fyll rutenettet med tallene fra 1 til størrelsen på det, uten gjentakelser i n
 
 ## Historien bak
 
-I Eiríksmál kommer Eirik til Valhall og sier at fem konger følger ham, og at han selv er den sjette. Å ordne tall med tegn er oppfunnet. Les historien i [Eiríksmál: diktet som tar imot Eirik Blodøks i Valhall](/no/2027/02/28/eiriksmal-o-poema-que-recebe-erico-machado-sangrento-no-valhalla/).
+I Eiríksmál kommer Eirik til Valhall og sier at fem konger følger ham, og at han selv er den sjette. Å ordne tall med tegn er oppfunnet. Les historien i [Eiríksmál: diktet som tar imot Eirik Blodøks i Valhall](/no/eiriksmal-diktet-som-tar-imot-eirik-blodoks-i-valhall/).

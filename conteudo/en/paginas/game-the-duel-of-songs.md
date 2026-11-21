@@ -23,4 +23,4 @@ Drag your finger (or use ← →) to move your bar, at the bottom, and return th
 
 ## The story behind it
 
-In the Kalevala, young Joukahainen challenges old Väinämöinen to a singing contest and loses. The ball is made up for the game. Read the story in [Joukahainen and Väinämöinen: the singing contest of the Kalevala](/en/2026/12/20/joukahainen-vainamoinen-duelo-de-cantos-kalevala/).
+In the Kalevala, young Joukahainen challenges old Väinämöinen to a singing contest and loses. The ball is made up for the game. Read the story in [Joukahainen and Väinämöinen: the singing contest of the Kalevala](/joukahainen-and-vainamoinen-the-singing-contest/).

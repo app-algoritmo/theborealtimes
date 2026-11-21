@@ -23,4 +23,4 @@ Pressione o ponto verde e arraste, sem soltar, até o ponto vermelho. Se encosta
 
 ## A história por trás
 
-Na Islândia, obras de estrada já foram discutidas por causa de rochas tidas como moradas do povo oculto. O jogo brinca com essa ideia. Leia a história em [Huldufólk: o povo oculto que desvia estradas na Islândia moderna](/2026/11/15/huldufolk-povo-oculto/).
+Na Islândia, obras de estrada já foram discutidas por causa de rochas tidas como moradas do povo oculto. O jogo brinca com essa ideia. Leia a história em [Huldufólk: o povo oculto que desvia estradas na Islândia moderna](/pt/huldufolk-povo-oculto/).

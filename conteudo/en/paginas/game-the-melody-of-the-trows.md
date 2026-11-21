@@ -23,4 +23,4 @@ Four stones light up in an order, each playing a sound. Watch the sequence and r
 
 ## The story behind it
 
-Trows are spirits of Orkney and Shetland that live in mounds and come out at night and, folklore says, love fiddle music and take fiddlers. Repeating sequences of sounds is invented. Read the story in [Trow: the mound spirits of Orkney and Shetland, the fiddlers and the dance of stone](/en/2027/02/21/trow-os-espiritos-do-monte-das-orcadas-e-shetland-violinistas/).
+Trows are spirits of Orkney and Shetland that live in mounds and come out at night and, folklore says, love fiddle music and take fiddlers. Repeating sequences of sounds is invented. Read the story in [Trow: the mound spirits of Orkney and Shetland, the fiddlers and the dance of stone](/trow-the-mound-spirits-of-orkney-and-shetland-the-fiddlers/).

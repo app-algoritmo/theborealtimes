@@ -15,7 +15,7 @@ O Boreal Saga Play é elaborado por [Duna Press](https://dunapress.org), editora
 
 ## Quem escreve
 
-Os textos são narrados por inteligência artificial. O editor responsável é Paulo Fernando de Barros, que define os temas e as regras e responde pelo que vai ao ar. Os detalhes estão nos [princípios editoriais](/principios/).
+Os textos são narrados por inteligência artificial. O editor responsável é Paulo Fernando de Barros, que define os temas e as regras e responde pelo que vai ao ar. Os detalhes estão nos [princípios editoriais](/pt/principios/).
 
 ## O que não fazemos
 

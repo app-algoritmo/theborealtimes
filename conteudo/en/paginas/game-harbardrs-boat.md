@@ -23,4 +23,4 @@ Take everyone to the other bank. Tap a passenger to put it in the boat (or take 
 
 ## The story behind it
 
-In the Hárbarðsljóð the ferryman refuses to take Thor. The crossing puzzle is made up. Read the story in [Hárbarðsljóð: the ferryman who would not take Thor across](/en/2026/11/29/harbardsljod-thor-odin-barqueiro/).
+In the Hárbarðsljóð the ferryman refuses to take Thor. The crossing puzzle is made up. Read the story in [Hárbarðsljóð: the ferryman who would not take Thor across](/harbardsljod-the-ferryman-who-would-not-take-thor-across/).

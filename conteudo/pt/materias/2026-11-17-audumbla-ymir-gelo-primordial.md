@@ -42,4 +42,4 @@ A história mistura elementos do clima do Norte, com gelo e fogo, e uma imagem m
 
 A *Völuspá*, o poema mais famoso da *Edda Poética*, descreve o início dos tempos sem citar a vaca: nesse tempo não havia areia, nem mar, nem ondas frias, nem terra, nem céu, só o abismo Ginnungagap. O *Grímnismál*, outro poema da mesma coleção, diz que o mundo foi feito do corpo de Ymir. Snorri reuniu essas peças e acrescentou a imagem da vaca, de modo que a sua versão é a mais completa e também a mais organizada.
 
-Para libertar Búri do bloco de gelo antes que ele congele de novo, jogue [O gelo de Auðumbla](/jogo-o-gelo-de-audumbla/).
+Para libertar Búri do bloco de gelo antes que ele congele de novo, jogue [O gelo de Auðumbla](/pt/jogo-o-gelo-de-audumbla/).

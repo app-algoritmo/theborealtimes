@@ -23,4 +23,4 @@ Toque acima, abaixo ou ao lado da sua figura para dar um passo (ou use as setas)
 
 ## A história por trás
 
-No Kalevala, Louhi é a senhora de Pohjola, terra do frio e da noite. O campo de rajadas é invenção. Leia a história em [Louhi rouba o sol e a lua: o episódio mais frio do Kalevala](/2026/12/06/louhi-rouba-sol-e-lua-kalevala/).
+No Kalevala, Louhi é a senhora de Pohjola, terra do frio e da noite. O campo de rajadas é invenção. Leia a história em [Louhi rouba o sol e a lua: o episódio mais frio do Kalevala](/pt/louhi-rouba-sol-e-lua-kalevala/).

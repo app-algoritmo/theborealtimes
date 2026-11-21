@@ -39,4 +39,4 @@ The skald's scene is precious because it shows the coexistence, and friction, be
 
 Scholars also note that the sources link elves to mounds and to the dead, but this link is interpreted in different ways, and no way is accepted by everyone.
 
-To help link the offerings to the right places without letting any path cross another, play [The Álfablót](/en/game-the-alfablot/).
+To help link the offerings to the right places without letting any path cross another, play [The Álfablót](/game-the-alfablot/).

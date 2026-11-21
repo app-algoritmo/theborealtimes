@@ -51,4 +51,4 @@ The narrative was written around the 13th century, well after the time in which 
 
 For readers today, the story shows how much medieval Icelanders cared about honour, one's given word and fate, and how well they could tell such things in a lean style.
 
-To try to win the duel at Dingenes, play [Gunnlaug's duel](/en/game-gunnlaugs-duel/).
+To try to win the duel at Dingenes, play [Gunnlaug's duel](/game-gunnlaugs-duel/).

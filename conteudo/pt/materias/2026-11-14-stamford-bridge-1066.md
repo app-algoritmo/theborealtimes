@@ -43,4 +43,4 @@ Harold Godwinson concedeu uma trégua. Olaf, filho de Harald, e o conde das Órc
 
 Em 28 de setembro, três dias depois, Guilherme, duque da Normandia, desembarcou em Pevensey, no sul. Harold teve de marchar de volta, e a batalha de Hastings, em 14 de outubro, decidiu o trono inglês.
 
-Para segurar a ponte, jogue [A ponte de Stamford](/jogo-a-ponte-de-stamford/).
+Para segurar a ponte, jogue [A ponte de Stamford](/pt/jogo-a-ponte-de-stamford/).

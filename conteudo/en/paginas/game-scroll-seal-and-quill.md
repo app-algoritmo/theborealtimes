@@ -23,4 +23,4 @@ The treaty of 911 between the Rus and Byzantium has come down to us in the Prima
 
 ## The story behind it
 
-The Primary Chronicle keeps a treaty of 911 between the Rus and Byzantium. The scroll, the seal, the quill, the order in which they glow and the swaps of place are invention. Read the story in [The treaty of 911 between the Rus and Byzantium: the Norse names the chronicle kept](/en/2027/04/04/o-tratado-de-911-entre-os-rus-e-bizancio-os-nomes-nordicos-que-a-cronica-guardou/).
+The Primary Chronicle keeps a treaty of 911 between the Rus and Byzantium. The scroll, the seal, the quill, the order in which they glow and the swaps of place are invention. Read the story in [The treaty of 911 between the Rus and Byzantium: the Norse names the chronicle kept](/the-treaty-of-911-between-the-rus-and-byzantium-the-norse/).

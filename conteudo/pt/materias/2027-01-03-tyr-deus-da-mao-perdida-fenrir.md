@@ -38,4 +38,4 @@ Um bracteado de ouro do período das Migrações, achado em Trollhättan, na Su�
 
 Por causa da etimologia e das poucas fontes, alguns estudiosos acham que Týr já teve um papel muito mais central. Hermann Reichert defende que Odin "deve ter tirado Týr de sua posição eminente". Os runólogos MacLeod e Mees duvidam que a invocação do *Sigrdrífumál* se refira ao próprio deus, e acham que pode ligar-se só à runa.
 
-Para apagar todas as luzes de uma rede de elos, tocando e mudando os vizinhos, jogue [Os elos de Týr](/jogo-os-elos-de-tyr/).
+Para apagar todas as luzes de uma rede de elos, tocando e mudando os vizinhos, jogue [Os elos de Týr](/pt/jogo-os-elos-de-tyr/).

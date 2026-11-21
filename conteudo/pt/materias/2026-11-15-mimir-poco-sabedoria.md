@@ -38,4 +38,4 @@ Há ainda uma hipótese sobre o Hávamál. Nele, Odin conta que aprendeu nove ca
 
 Os filólogos costumam ligar o nome Mímir a uma raiz indo-europeia que quer dizer "pensar, lembrar". Simek traduz o nome como "aquele que se lembra". O nome combina com o papel: Mímir é a memória do mundo, guardada numa fonte e numa cabeça.
 
-Para responder às perguntas que Odin faria, jogue [O poço de Mímir](/jogo-o-poco-de-mimir/).
+Para responder às perguntas que Odin faria, jogue [O poço de Mímir](/pt/jogo-o-poco-de-mimir/).

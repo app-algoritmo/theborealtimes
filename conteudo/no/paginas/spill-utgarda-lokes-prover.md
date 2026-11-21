@@ -23,4 +23,4 @@ I den første prøven holder du for å drikke av hornet og slipper for å puste.
 
 ## Historien bak
 
-I Snorres Edda taper Tor alle tre prøvene fordi de var illusjoner: hornet var knyttet til havet, katten var Midgardsormen og den gamle kvinnen var Alderdommen. I spillet klarer du det, noe myten ikke forteller. Les historien i [Tor i Utgard: jotunens prøver som alle var illusjoner](/no/2026/11/15/thor-utgarda-loki-ilusoes/).
+I Snorres Edda taper Tor alle tre prøvene fordi de var illusjoner: hornet var knyttet til havet, katten var Midgardsormen og den gamle kvinnen var Alderdommen. I spillet klarer du det, noe myten ikke forteller. Les historien i [Tor i Utgard: jotunens prøver som alle var illusjoner](/no/tor-i-utgard-jotunens-prover-som-alle-var-illusjoner/).

@@ -39,4 +39,4 @@ Alguns estudiosos, entre eles Neil Price, sugeriram que a figura de uma mulher m
 
 O episódio é curto, mas mostra algo importante. Mesmo os deuses precisavam de ajuda de um gigante para um rito de despedida, e Hyrrokkin, que vem de fora e resolve o problema, ganha mais atenção do que os próprios deuses. Lindow a descreve como uma figura de relativa importância nas últimas décadas do paganismo na Islândia.
 
-Para tirar o navio de Baldr, preso entre outras peças, e levá-lo até o mar, jogue [O navio Hringhorni](/jogo-o-navio-hringhorni/).
+Para tirar o navio de Baldr, preso entre outras peças, e levá-lo até o mar, jogue [O navio Hringhorni](/pt/jogo-o-navio-hringhorni/).

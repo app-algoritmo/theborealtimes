@@ -23,4 +23,4 @@ Rurik e os seus remam rio acima. Toque (ou use as setas) na esquerda e na direit
 
 ## A história por trás
 
-A Crônica Primária conta que Rurik chegou a Ládoga e Nóvgorod por volta de 862. As remadas do jogo são invenção. Leia a história em [Rurik e Oleg: como a Crônica Primária conta o chamado aos varegues que deu origem à Rus' de Kiev, e o que a arqueologia acrescenta](/2026/11/19/rurik-oleg-rus-cronica-primaria/).
+A Crônica Primária conta que Rurik chegou a Ládoga e Nóvgorod por volta de 862. As remadas do jogo são invenção. Leia a história em [Rurik e Oleg: como a Crônica Primária conta o chamado aos varegues que deu origem à Rus' de Kiev, e o que a arqueologia acrescenta](/pt/rurik-oleg-rus-cronica-primaria/).

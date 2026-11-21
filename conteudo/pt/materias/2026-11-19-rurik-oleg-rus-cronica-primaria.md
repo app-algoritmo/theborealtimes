@@ -41,4 +41,4 @@ A origem do nome Rus' também é debatida. Uma hipótese muito citada o liga a u
 
 O que parece claro é que a Rus' nasceu da mistura de povos, e que os escandinavos foram uma parte dela, não a única.
 
-Para ajudar o barco de Rurik a subir o rio, alternando os remos, jogue [Os remos de Rurik](/jogo-os-remos-de-rurik/).
+Para ajudar o barco de Rurik a subir o rio, alternando os remos, jogue [Os remos de Rurik](/pt/jogo-os-remos-de-rurik/).

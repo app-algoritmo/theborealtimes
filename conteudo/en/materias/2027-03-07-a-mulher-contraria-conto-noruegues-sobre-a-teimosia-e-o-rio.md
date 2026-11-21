@@ -39,4 +39,4 @@ It is a tale of black humour, with an ending that teaches by the logic of the ab
 
 The article places the tale in type 901 of the Aarne–Thompson–Uther index, "obstinate wife who learns to obey", and that number should be checked in other catalogues. The dates of the translations also differ inside the article: Dasent appears as 1859 in the text and 1874 in the citations. The age of the tale, before collection, is not known. The tale carries domestic violence and should be read as folkloric material, not as a model.
 
-To row upstream against the current, alternating the sides of the boat, play [Against the stream](/en/game-against-the-stream/).
+To row upstream against the current, alternating the sides of the boat, play [Against the stream](/game-against-the-stream/).

@@ -23,4 +23,4 @@ Use as setas (ou segure o dedo no lado para onde quer ir) para andar pelo labiri
 
 ## A história por trás
 
-No folclore islandês, Sæmundur foge da Escola Negra sem deixar o diabo prender sua sombra. O labirinto é invenção do jogo. Leia a história em [Sæmundur, o Sábio: o padre islandês que enganou o diabo na Escola Negra](/2026/12/13/saemundur-escola-negra-sombra/).
+No folclore islandês, Sæmundur foge da Escola Negra sem deixar o diabo prender sua sombra. O labirinto é invenção do jogo. Leia a história em [Sæmundur, o Sábio: o padre islandês que enganou o diabo na Escola Negra](/pt/saemundur-escola-negra-sombra/).

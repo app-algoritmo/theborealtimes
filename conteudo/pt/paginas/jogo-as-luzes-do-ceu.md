@@ -23,4 +23,4 @@ A aurora acendeu o céu. Ao tocar numa luz, ela e as quatro vizinhas (cima, baix
 
 ## A história por trás
 
-O Speculum Regale, texto norueguês do século XIII, tenta explicar a aurora boreal. O jogo de luzes é invenção. Leia a história em [A aurora boreal no Norte antigo: o Espelho do Rei, a raposa de fogo e o silêncio dos sámi](/2026/11/21/aurora-boreal-konungs-skuggsja/).
+O Speculum Regale, texto norueguês do século XIII, tenta explicar a aurora boreal. O jogo de luzes é invenção. Leia a história em [A aurora boreal no Norte antigo: o Espelho do Rei, a raposa de fogo e o silêncio dos sámi](/pt/aurora-boreal-konungs-skuggsja/).

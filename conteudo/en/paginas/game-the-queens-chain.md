@@ -23,4 +23,4 @@ The true queen is held by an iron chain. A glowing link circles around her. Tap 
 
 ## The story behind it
 
-In the Icelandic tale, King Sigurd cuts, on the third night, the chain that holds the true queen, who was swapped for a troll-woman. Cutting link by link is invented. Read the story in [The witch in the stone boat: an Icelandic tale of King Sigurd and the chain](/en/2027/03/14/a-bruxa-no-barco-de-pedra-conto-islandes-do-rei-sigurd-e-da-corrente/).
+In the Icelandic tale, King Sigurd cuts, on the third night, the chain that holds the true queen, who was swapped for a troll-woman. Cutting link by link is invented. Read the story in [The witch in the stone boat: an Icelandic tale of King Sigurd and the chain](/the-witch-in-the-stone-boat-an-icelandic-tale-of-king/).

@@ -23,4 +23,4 @@ Trykk på en tom rute for å sette en gyllen perle; motstanderen setter blå per
 
 ## Historien bak
 
-Staraya Ladoga (Aldeigjuborg) var fra 700-tallet et senter for handel og håndverk. Perlespillet er diktet opp. Les historien i [Staraya Ladoga: handelsstedet ved Volkhov der man laget glassperler](/no/2026/11/29/staraya-ladoga-aldeigjuborg-contas-de-vidro/).
+Staraya Ladoga (Aldeigjuborg) var fra 700-tallet et senter for handel og håndverk. Perlespillet er diktet opp. Les historien i [Staraya Ladoga: handelsstedet ved Volkhov der man laget glassperler](/no/staraya-ladoga-handelsstedet-ved-volkhov-der-man-laget/).

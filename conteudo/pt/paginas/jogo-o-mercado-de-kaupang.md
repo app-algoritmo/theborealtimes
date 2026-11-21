@@ -23,4 +23,4 @@ Quatro mercadorias, quatro bancas em cada fila. Preencha as casas vazias de modo
 
 ## A história por trás
 
-Kaupang, na Noruega, foi um mercado da Era Viking, perto de Larvik. Os quadrados do jogo são invenção. Leia a história em [Kaupang: o mercado viking de Skiringssal, na Noruega, e o que balanças, prata e túmulos revelam](/2026/11/19/kaupang-skiringssal-mercado-viking/).
+Kaupang, na Noruega, foi um mercado da Era Viking, perto de Larvik. Os quadrados do jogo são invenção. Leia a história em [Kaupang: o mercado viking de Skiringssal, na Noruega, e o que balanças, prata e túmulos revelam](/pt/kaupang-skiringssal-mercado-viking/).

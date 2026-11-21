@@ -35,4 +35,4 @@ The figure of the *völva* also appears in sagas, where a seeress is invited to 
 
 What the poem makes clear is the importance of the spoken word: the seeress knows because she recites, and what she recites sustains the memory of a people who kept their myths in the voice before writing them down.
 
-To throw coloured runes and make every group of three vanish before they reach the seeress, play [The seeress's runes](/en/game-the-seeresss-runes/).
+To throw coloured runes and make every group of three vanish before they reach the seeress, play [The seeress's runes](/game-the-seeresss-runes/).

@@ -35,4 +35,4 @@ O poema se conservou no manuscrito AM 748 I 4to, e não no Codex Regius. Algumas
 
 O poema não mostra Odin vencendo. Pelo contrário, ele é o deus que sabe de tudo e mesmo assim não pode mudar o que a vidente diz. A cena da sepultura, com o deus pedindo conselho a uma morta, já foi retomada por Richard Wagner e por um balé do compositor Geirr Tveitt, de 1938.
 
-Para encontrar, entre cartas viradas, os pares de sinais que aparecem nos sonhos de Baldr, jogue [Os sonhos de Baldr](/jogo-os-sonhos-de-baldr/).
+Para encontrar, entre cartas viradas, os pares de sinais que aparecem nos sonhos de Baldr, jogue [Os sonhos de Baldr](/pt/jogo-os-sonhos-de-baldr/).

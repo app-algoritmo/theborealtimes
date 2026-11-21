@@ -23,4 +23,4 @@ A farmer catches a marbendill, the sea man. Nine spots of water lie before you. 
 
 ## The story behind it
 
-In Jón Árnason's tale, a farmer catches a marbendill, who laughs three times and frees himself by explaining why. The spots of water, the appearances and the rhythm of the game are invention. Read the story in [The marbendill who laughed three times: the merman of Icelandic folklore](/en/2027/04/04/o-marbendill-que-riu-tres-vezes-o-homem-do-mar-do-folclore-islandes/).
+In Jón Árnason's tale, a farmer catches a marbendill, who laughs three times and frees himself by explaining why. The spots of water, the appearances and the rhythm of the game are invention. Read the story in [The marbendill who laughed three times: the merman of Icelandic folklore](/the-marbendill-who-laughed-three-times-the-merman/).

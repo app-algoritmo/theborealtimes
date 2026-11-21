@@ -23,4 +23,4 @@ Quatro pedras ecoam na boca da caverna, cada uma com um som e uma cor. Observe a
 
 ## A história por trás
 
-Na Völuspá, o uivo de Garmr diante de Gnipahellir se repete como um refrão e anuncia o Ragnarök. O jogo de eco é invenção. Leia a história em [Garmr, o cão que uiva diante de Gnipahellir: o que as fontes nórdicas contam](/2027/01/17/garmr-cao-hel-gnipahellir-ragnarok/).
+Na Völuspá, o uivo de Garmr diante de Gnipahellir se repete como um refrão e anuncia o Ragnarök. O jogo de eco é invenção. Leia a história em [Garmr, o cão que uiva diante de Gnipahellir: o que as fontes nórdicas contam](/pt/garmr-cao-hel-gnipahellir-ragnarok/).

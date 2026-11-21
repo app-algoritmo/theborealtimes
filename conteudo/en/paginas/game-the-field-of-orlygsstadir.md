@@ -23,4 +23,4 @@ Tap a column (or use ← → and space) to drop your golden piece. Line up four 
 
 ## The story behind it
 
-At Örlygsstaðir, in 1238, the Sturlungs lost to the men of Kolbeinn and Gissur. The game of lining up pieces is made up. Read the story in [Örlygsstaðir, 1238: the bloodiest battle of medieval Iceland, according to the sagas](/en/2026/12/20/orlygsstadir-1238-sturla-sighvatsson-sturlungar/).
+At Örlygsstaðir, in 1238, the Sturlungs lost to the men of Kolbeinn and Gissur. The game of lining up pieces is made up. Read the story in [Örlygsstaðir, 1238: the bloodiest battle of medieval Iceland, according to the sagas](/orlygsstadir-1238-the-bloodiest-battle-of-medieval-iceland/).

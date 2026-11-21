@@ -23,4 +23,4 @@ You and Loki serve cups in Ægir's hall. Tap a column (or use the arrows and Spa
 
 ## The story behind it
 
-In the Lokasenna, Loki insults the gods at Ægir's feast until Thor arrives. The match of cups is made up for the game. Read the story in [Lokasenna: the feast of Ægir where Loki insulted the gods one by one](/en/2026/11/21/lokasenna-festa-de-aegir/).
+In the Lokasenna, Loki insults the gods at Ægir's feast until Thor arrives. The match of cups is made up for the game. Read the story in [Lokasenna: the feast of Ægir where Loki insulted the gods one by one](/lokasenna-the-feast-of-aegir-where-loki-insulted-the-gods/).

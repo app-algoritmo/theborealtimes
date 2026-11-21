@@ -23,4 +23,4 @@ Em cada quadro de 4 por 4, preencha as casas vazias com números de 1 a 4, de mo
 
 ## A história por trás
 
-Thorkell, o Alto, foi um chefe de guerra dinamarquês que liderou ataques à Inglaterra a partir de 1009, serviu depois o rei Æthelred e, mais tarde, Canuto, que o fez conde da Ânglia Oriental. Preencher selos é invenção. Leia a história em [Thorkell, o Alto: do cerco de Canterbury ao condado da Ânglia Oriental](/2027/02/07/thorkell-o-alto-canterbury-aelfheah-canuto/).
+Thorkell, o Alto, foi um chefe de guerra dinamarquês que liderou ataques à Inglaterra a partir de 1009, serviu depois o rei Æthelred e, mais tarde, Canuto, que o fez conde da Ânglia Oriental. Preencher selos é invenção. Leia a história em [Thorkell, o Alto: do cerco de Canterbury ao condado da Ânglia Oriental](/pt/thorkell-o-alto-canterbury-aelfheah-canuto/).

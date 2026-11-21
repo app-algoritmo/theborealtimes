@@ -23,4 +23,4 @@ Drag the bowl, or use the arrow keys, to catch the drops of venom. When it fills
 
 ## The story behind it
 
-In Snorri's Prose Edda, Loki is bound and a serpent drips venom on him; his wife Sigyn holds a bowl and, when she goes to empty it, the venom falls on him, and he struggles and makes the earth shake. The game is a simplification. Read the story in [Loki in chains: the feast where he insulted the gods and the punishment that awaits him until Ragnarök](/en/2026/11/14/loki-acorrentado-sigyn/).
+In Snorri's Prose Edda, Loki is bound and a serpent drips venom on him; his wife Sigyn holds a bowl and, when she goes to empty it, the venom falls on him, and he struggles and makes the earth shake. The game is a simplification. Read the story in [Loki in chains: the feast where he insulted the gods and the punishment that awaits him until Ragnarök](/loki-in-chains-the-feast-where-he-insulted-the-gods/).

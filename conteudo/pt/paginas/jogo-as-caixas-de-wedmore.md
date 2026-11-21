@@ -23,4 +23,4 @@ Use as setas (ou toque ao lado do guerreiro) para andar e empurrar as caixas at�
 
 ## A história por trás
 
-Em 878, após Edington, o rei Guthrum foi batizado perto de Wedmore. As caixas e as marcas são invenção do jogo. Leia a história em [Guthrum, 878: o chefe viking que se batizou, recebeu um nome cristão e virou rei](/2026/12/13/guthrum-wedmore-878-batismo/).
+Em 878, após Edington, o rei Guthrum foi batizado perto de Wedmore. As caixas e as marcas são invenção do jogo. Leia a história em [Guthrum, 878: o chefe viking que se batizou, recebeu um nome cristão e virou rei](/pt/guthrum-wedmore-878-batismo/).

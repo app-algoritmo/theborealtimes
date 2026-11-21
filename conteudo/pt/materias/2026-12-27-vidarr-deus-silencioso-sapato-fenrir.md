@@ -43,4 +43,4 @@ Há mais de uma teoria. Uma liga o silêncio a abstinências ligadas à vinganç
 
 As fontes não se acertam sobre como Fenrir morre: coração atravessado, no poema de Völuspá, e mandíbula rasgada, no Vafþrúðnismál e em Snorri. O que todas dizem é que Víðarr o mata para vingar Odin e que, depois do fim, ele vive.
 
-Para parar o marcador no ponto certo cinco vezes e empurrar a mandíbula antes de errar três, jogue [O sapato de Víðarr](/jogo-o-sapato-de-vidarr/).
+Para parar o marcador no ponto certo cinco vezes e empurrar a mandíbula antes de errar três, jogue [O sapato de Víðarr](/pt/jogo-o-sapato-de-vidarr/).

@@ -39,4 +39,4 @@ A saga conta ainda que, na velhice, ela aprendeu o Saltério e se tornou muito r
 
 As sagas islandesas são textos em prosa escritos por autores anônimos, séculos depois dos fatos que narram. A Laxdæla saga mistura eventos que parecem históricos com cenas claramente literárias, como os sonhos premonitórios que cercam Gudrún, e não é possível separar com segurança o que aconteceu do que foi composto. Ainda assim, ela dá um retrato raro de uma mulher que age, decide e arca com as consequências.
 
-Para testar sua memória sobre os maridos de Gudrún, jogue [Os sonhos de Gudrún](/jogo-os-sonhos-de-gudrun/).
+Para testar sua memória sobre os maridos de Gudrún, jogue [Os sonhos de Gudrún](/pt/jogo-os-sonhos-de-gudrun/).

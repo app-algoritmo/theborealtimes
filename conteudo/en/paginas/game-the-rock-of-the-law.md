@@ -23,4 +23,4 @@ One rock keeps the law, and it has a number. Tap a number to try. The game says 
 
 ## The story behind it
 
-The lawspeaker, the lagman, was an office in Scandinavia. Guessing a number among rocks is invented. Read the story in [The lawspeaker: the lawman in Scandinavia, from Iceland to Sweden](/en/2027/02/28/o-recitador-da-lei-o-lagman-na-escandinavia-da-islandia-a-suecia/).
+The lawspeaker, the lagman, was an office in Scandinavia. Guessing a number among rocks is invented. Read the story in [The lawspeaker: the lawman in Scandinavia, from Iceland to Sweden](/the-lawspeaker-the-lawman-in-scandinavia-from-iceland/).

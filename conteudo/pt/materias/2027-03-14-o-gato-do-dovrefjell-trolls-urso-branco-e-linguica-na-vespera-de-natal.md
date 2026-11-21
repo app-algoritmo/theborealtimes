@@ -45,4 +45,4 @@ Um homem com um urso branco passa a véspera de Natal na casa de Halvor, os trol
 
 Quem contou o conto primeiro não se sabe, e a versão de Asbjørnsen e Moe é só a mais conhecida, não necessariamente a mais antiga. O texto não explica por que os trolls tomam a casa todo ano.
 
-Para espantar os trolls que levantam o garfo com a linguiça, sem tocar nos que só comem, jogue [A ceia dos trolls](/jogo-a-ceia-dos-trolls/).
+Para espantar os trolls que levantam o garfo com a linguiça, sem tocar nos que só comem, jogue [A ceia dos trolls](/pt/jogo-a-ceia-dos-trolls/).

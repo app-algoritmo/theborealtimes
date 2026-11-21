@@ -23,4 +23,4 @@ A plank slides from side to side. Tap to drop it onto the one below: whatever ov
 
 ## The story behind it
 
-The Oseberg and Gokstad ships were built of oak, with overlapping riveted planks, the technique called “clinker”. The stacking mechanic is the game’s invention. Read the story in [The Oseberg and Gokstad ships: two Viking boats buried with their dead](/en/2026/11/12/navios-oseberg-gokstad-vikings/).
+The Oseberg and Gokstad ships were built of oak, with overlapping riveted planks, the technique called “clinker”. The stacking mechanic is the game’s invention. Read the story in [The Oseberg and Gokstad ships: two Viking boats buried with their dead](/the-oseberg-and-gokstad-ships-two-viking-boats-buried/).

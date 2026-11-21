@@ -38,4 +38,4 @@ O que Glámr disse se cumpre. Grettir passa a ter medo de andar sozinho no escur
 
 O texto da saga chama Glámr de troll, e não de *draugr*, o morto-vivo da tradição nórdica. Alguns estudiosos o chamam de draugr, porque ele reúne o que se diz desses seres: força sobrenatural, a recusa de ficar enterrado e o dano que causa aos vivos. O que a saga mostra, com clareza, é um fantasma cuja arma mais forte é o olhar.
 
-Para enfrentar Glámr, jogue [Os olhos de Glámr](/jogo-os-olhos-de-glamr/).
+Para enfrentar Glámr, jogue [Os olhos de Glámr](/pt/jogo-os-olhos-de-glamr/).

@@ -23,4 +23,4 @@ A bar has a marker that moves back and forth. Tap when the marker is inside the 
 
 ## The story behind it
 
-In Finnboga saga ramma, Emperor John I Tzimisces gives Finnbogi the epithet "rammi", "the Strong". Timing the blow is invented. Read the story in [The saga of Finnbogi the Strong: from the exposed infant to Constantinople and Iceland](/en/2027/02/21/finnboga-saga-ramma-finnbogi-o-forte-constantinopla-islandia/).
+In Finnboga saga ramma, Emperor John I Tzimisces gives Finnbogi the epithet "rammi", "the Strong". Timing the blow is invented. Read the story in [The saga of Finnbogi the Strong: from the exposed infant to Constantinople and Iceland](/the-saga-of-finnbogi-the-strong-from-the-exposed-infant/).

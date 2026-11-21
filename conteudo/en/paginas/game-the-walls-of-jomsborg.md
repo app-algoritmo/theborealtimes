@@ -23,4 +23,4 @@ Drag a finger (or use the arrows) to move the shield and bat the ball against th
 
 ## The story behind it
 
-In the saga, the Jomsvikings held a fortress on the Baltic whose exact location is debated. The blocks in the game are made up. Read the story in [The Jomsvikings: the fortress of warriors with strict rules and the battle of Hjörungavágr](/en/2026/11/21/jomsvikings-hjorungavagr-986/).
+In the saga, the Jomsvikings held a fortress on the Baltic whose exact location is debated. The blocks in the game are made up. Read the story in [The Jomsvikings: the fortress of warriors with strict rules and the battle of Hjörungavágr](/the-jomsvikings-the-fortress-of-warriors-with-strict-rules/).

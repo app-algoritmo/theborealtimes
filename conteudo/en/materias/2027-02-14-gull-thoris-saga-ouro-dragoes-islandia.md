@@ -40,4 +40,4 @@ A *saga of Icelanders* is a saga about the first settlers of Iceland and their f
 
 The sources do not agree on the date or on the authorship. The second speaks of about 1350, while the first gives no date and reports arguments that Sturla Þórðarson wrote it, with studies from 2015 and 2021 (the latter by stylometry) in favour and a review that questions the vocabulary approach. The only surviving manuscript is from about 1400, with scraped pages, and parts of the text were completed from 19th-century copies. The two summaries differ on where and how the gold was won, and the first source treats the transformation into a dragon as a rumour, while the second narrates it as a fact of the story.
 
-To jump gold coins on a board until only one is left, as in a guarded hoard, play [The dragon’s coins](/en/game-the-dragons-coins/).
+To jump gold coins on a board until only one is left, as in a guarded hoard, play [The dragon’s coins](/game-the-dragons-coins/).

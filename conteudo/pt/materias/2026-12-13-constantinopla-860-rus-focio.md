@@ -37,4 +37,4 @@ A questão de quem venceu não tem resposta simples. Em algumas listas aparece "
 
 O ataque de 860 revela a rapidez com que o mundo bizantino podia ser surpreendido, e mostra o início das relações entre Bizâncio e os rus, que mais tarde levariam à conversão da Rus de Kiev ao cristianismo. Para os estudiosos, é também um exemplo claro de como uma lenda piedosa pode cobrir um fato mais confuso. As próprias homilias de Focio, pregadas ao povo, mostram uma cidade abalada, que via no ataque um castigo divino e buscava explicações na fé.
 
-Para repetir, de memória, a sequência dos sinos de Constantinopla, tocando-os na mesma ordem, jogue [Os sinos de Constantinopla](/jogo-os-sinos-de-constantinopla/).
+Para repetir, de memória, a sequência dos sinos de Constantinopla, tocando-os na mesma ordem, jogue [Os sinos de Constantinopla](/pt/jogo-os-sinos-de-constantinopla/).

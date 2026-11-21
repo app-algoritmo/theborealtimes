@@ -45,4 +45,4 @@ A *ploughshare* is the iron part of the plough that cuts the soil. An *ordeal by
 
 The scene is told by Snorri, writing about a century later, and there is no way to know whether the ordeal happened this way. We also do not know whether Harald's paternity was true, and Heimskringla itself reports a version that may have been shaped by the winner.
 
-To cross the nine ploughshares without stepping on a glowing one, play [The nine ploughshares](/en/game-the-nine-ploughshares/).
+To cross the nine ploughshares without stepping on a glowing one, play [The nine ploughshares](/game-the-nine-ploughshares/).

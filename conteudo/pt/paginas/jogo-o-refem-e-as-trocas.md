@@ -23,4 +23,4 @@ Como Hœnir entre os vanir, você faz trocas com um parceiro durante 10 rodadas.
 
 ## A história por trás
 
-Na Ynglinga saga, depois da guerra entre os æsir e os vanir, Hœnir e Mímir são enviados aos vanir como reféns; Hœnir é logo feito chefe, mas depende de Mímir para decidir. As rodadas de troca são invenção. Leia a história em [Hœnir, o deus que ajuda a criar os humanos e depende de Mímir: o que as fontes dizem](/2027/01/24/hoenir-deus-aesir-criacao-refem-lokka-tattur/).
+Na Ynglinga saga, depois da guerra entre os æsir e os vanir, Hœnir e Mímir são enviados aos vanir como reféns; Hœnir é logo feito chefe, mas depende de Mímir para decidir. As rodadas de troca são invenção. Leia a história em [Hœnir, o deus que ajuda a criar os humanos e depende de Mímir: o que as fontes dizem](/pt/hoenir-deus-aesir-criacao-refem-lokka-tattur/).

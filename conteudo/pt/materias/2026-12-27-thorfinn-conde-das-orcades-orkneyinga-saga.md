@@ -43,4 +43,4 @@ Thorfinn foi criado cristão. A saga diz que viajou a Roma e encontrou o imperad
 
 O artigo considera a saga "geralmente crível", mas difícil de corroborar nos detalhes, e escrita séculos depois dos fatos. Clontarf, a submissão a Olavo em 1021 e a morte de Gillacomgain, em 1032, nos *Anais do Ulster*, têm apoio em outras fontes. Já o casamento com Ingibiorg e a campanha em Fife são tratados como saga.
 
-Para levar um raio de luz de uma fogueira à outra, virando espelhos, jogue [Os espelhos de Thorfinn](/jogo-os-espelhos-de-thorfinn/).
+Para levar um raio de luz de uma fogueira à outra, virando espelhos, jogue [Os espelhos de Thorfinn](/pt/jogo-os-espelhos-de-thorfinn/).

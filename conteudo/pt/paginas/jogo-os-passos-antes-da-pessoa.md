@@ -23,4 +23,4 @@ Na crença norueguesa, o vardøger é ouvido antes de a pessoa chegar. Três por
 
 ## A história por trás
 
-Segundo o Store norske leksikon, o vardøger é um espírito que anuncia e que se ouve, mais raramente se vê, antes de a pessoa chegar. As três portas e o ritmo do jogo são invenção. Leia a história em [Vardøger: o espírito que se ouve antes de a pessoa chegar, na crença norueguesa](/2027/03/28/vardoger-o-espirito-que-se-ouve-antes-de-a-pessoa-chegar-na-crenca-noruega/).
+Segundo o Store norske leksikon, o vardøger é um espírito que anuncia e que se ouve, mais raramente se vê, antes de a pessoa chegar. As três portas e o ritmo do jogo são invenção. Leia a história em [Vardøger: o espírito que se ouve antes de a pessoa chegar, na crença norueguesa](/pt/vardoger-o-espirito-que-se-ouve-antes-de-a-pessoa-chegar-na-crenca-noruega/).

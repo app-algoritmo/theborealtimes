@@ -44,4 +44,4 @@ In the account, power lies in song: Väinämöinen uses no weapon, and the chall
 
 The page does not give the numbers of the cantos (*runot*) in which the scene takes place, and so they are not given here. What the source supports is the sequence: challenge, song, bog, promise of the sister, death of Aino and ambush. The three readings of the name are hypotheses of scholars, not findings.
 
-To return the ball in a duel, like a duel of songs, until you score seven points before your rival, play [The duel of songs](/en/game-the-duel-of-songs/).
+To return the ball in a duel, like a duel of songs, until you score seven points before your rival, play [The duel of songs](/game-the-duel-of-songs/).

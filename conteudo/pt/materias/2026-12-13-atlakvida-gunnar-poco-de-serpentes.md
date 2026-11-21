@@ -39,4 +39,4 @@ O interesse da história cresce quando se compara com a *Canção dos Nibelungos
 
 Para o público medieval, a história mostrava o custo de uma traição dentro da família, e o poema não oferece consolo. Ele é lembrado, entre outras coisas, por Gunnar, que enfrenta a morte sem ceder o segredo do ouro, e por uma vingança que apaga uma dinastia inteira.
 
-Para afastar, uma a uma, as serpentes que surgem do poço, tocando nelas antes que mordam, jogue [O poço de serpentes](/jogo-o-poco-de-serpentes/).
+Para afastar, uma a uma, as serpentes que surgem do poço, tocando nelas antes que mordam, jogue [O poço de serpentes](/pt/jogo-o-poco-de-serpentes/).

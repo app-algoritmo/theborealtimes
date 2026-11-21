@@ -23,4 +23,4 @@ The light leaves the left bonfire and travels straight until it hits a mirror. T
 
 ## The story behind it
 
-The Orkneyinga saga makes Thorfinn Sigurdsson a warrior earl with lands in Scotland. The mirrors and the bonfires are invented. Read the story in [Thorfinn the Mighty: the earl of Orkney who, according to the saga, became earl at five](/en/2026/12/27/thorfinn-conde-das-orcades-orkneyinga-saga/).
+The Orkneyinga saga makes Thorfinn Sigurdsson a warrior earl with lands in Scotland. The mirrors and the bonfires are invented. Read the story in [Thorfinn the Mighty: the earl of Orkney who, according to the saga, became earl at five](/thorfinn-the-mighty-the-earl-of-orkney-who-according/).

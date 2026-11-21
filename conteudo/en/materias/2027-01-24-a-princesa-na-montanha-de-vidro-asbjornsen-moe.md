@@ -43,4 +43,4 @@ Hodne listed 33 Norwegian variants. There are versions in Sweden, Denmark and Fi
 
 The origin of the tale is disputed. Von Sydow, El-Shamy, Cosquin and Ranke suggest roots in the Egyptian tale of the Doomed Prince, which has the tower motif; Boberg attributed it to a horse-riding people of the Indo-European period; Honti disagreed; Krohn proposed migration from India; Dzagurov proposed a southern, perhaps Caucasian origin and considered the glass mountain motif late. The reading of the horse's colours and the comparisons with Brunhilde and with the Hungarian *táltos* horse are interpretations, not proven links.
 
-To climb the slope and gather the apples, dodging the stones that come down, play [The climb of the glass mountain](/en/game-the-climb-of-the-glass-mountain/).
+To climb the slope and gather the apples, dodging the stones that come down, play [The climb of the glass mountain](/game-the-climb-of-the-glass-mountain/).

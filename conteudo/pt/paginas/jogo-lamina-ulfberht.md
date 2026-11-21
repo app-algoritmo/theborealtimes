@@ -23,4 +23,4 @@ Um marcador vai e volta sobre a barra. Toque (ou use a barra de espaço) quando 
 
 ## A história por trás
 
-Cerca de 170 espadas dos séculos IX a XI trazem o nome VLFBERHT gravado, e algumas têm aço de qualidade excepcional. A forja em ritmo é uma simplificação do jogo. Leia a história em [As espadas Ulfberht: o nome gravado em lâminas vikings e o mistério do aço](/2026/11/13/espadas-ulfberht/).
+Cerca de 170 espadas dos séculos IX a XI trazem o nome VLFBERHT gravado, e algumas têm aço de qualidade excepcional. A forja em ritmo é uma simplificação do jogo. Leia a história em [As espadas Ulfberht: o nome gravado em lâminas vikings e o mistério do aço](/pt/espadas-ulfberht/).

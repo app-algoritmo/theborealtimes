@@ -23,4 +23,4 @@ Seks kister inneholder deler av fire blandede materialer. Trykk på en kiste for
 
 ## Historien bak
 
-I september 2014 fant metalldetektoristen Derek McLennan den første gjenstanden i Galloway-skatten. Skottlands nasjonalmuseum kjøpte den i 2017 for 1,98 millioner pund. Spillet er oppfunnet. Les historien i [Galloway-skatten i Skottland: hva artikkelen sier om funnet i 2014](/no/2027/01/17/galloway-hoard-tesouro-viking-escocia-2014/).
+I september 2014 fant metalldetektoristen Derek McLennan den første gjenstanden i Galloway-skatten. Skottlands nasjonalmuseum kjøpte den i 2017 for 1,98 millioner pund. Spillet er oppfunnet. Les historien i [Galloway-skatten i Skottland: hva artikkelen sier om funnet i 2014](/no/galloway-skatten-i-skottland-hva-artikkelen-sier-om-funnet/).

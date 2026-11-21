@@ -45,4 +45,4 @@ Foi uma batalha curta num campo aberto, com uma vitória que ganhou fama de mila
 
 O tamanho do exército wendo é desconhecido, e as fontes falam em 60 wendos para cada dinamarquês. A conta de 15.000 mortos é uma estimativa. Os dois verbetes não concordam sobre a igreja do sino. O motivo da campanha de Magnus na Wendlândia é descrito como "possivelmente" político. A fé em Santo Olavo no campo de batalha vem de textos tardios.
 
-Para defender a linha de batalha com o machado Hel, golpeando cada guerreiro na hora certa, jogue [O machado Hel](/jogo-o-machado-hel/).
+Para defender a linha de batalha com o machado Hel, golpeando cada guerreiro na hora certa, jogue [O machado Hel](/pt/jogo-o-machado-hel/).

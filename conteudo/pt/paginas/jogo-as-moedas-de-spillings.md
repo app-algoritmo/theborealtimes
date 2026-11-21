@@ -23,4 +23,4 @@ Em cada rodada aparecem sete moedas com valores. Toque nas moedas para somá-las
 
 ## A história por trás
 
-Em 1999, arqueólogos acharam em Gotland mais de 14 mil moedas e quase 500 braceletes de prata. O jogo de somar até 21 é invenção. Leia a história em [Spillings: o tesouro de 67 quilos de prata achado em Gotland durante uma filmagem](/2026/12/27/spillings-tesouro-prata-gotland-1999/).
+Em 1999, arqueólogos acharam em Gotland mais de 14 mil moedas e quase 500 braceletes de prata. O jogo de somar até 21 é invenção. Leia a história em [Spillings: o tesouro de 67 quilos de prata achado em Gotland durante uma filmagem](/pt/spillings-tesouro-prata-gotland-1999/).

@@ -39,4 +39,4 @@ Em 1861, Hans Christian Andersen escreveu um conto com enredo próximo, *O que o
 
 A fonte tem referências fracas em alguns pontos: as citações de Bodansky e de Cole, de 1982 e 1983, são citadas sem muito apoio. A página da fonte não dá outros números de classificação, como ATU 1693, nem o nome inglês "Lucky Hans", e por isso esta matéria também não os afirma. O sentido moral do conto, se é uma sátira ou um elogio da confiança entre o casal, é leitura de quem o interpreta. Uma leitura possível é que o que Gudbrand perde em objetos ele ganha em confiança, mas é só uma leitura.
 
-Para ganhar uma aposta de três em linha contra um adversário, jogue [A aposta de Gudbrand](/jogo-a-aposta-de-gudbrand/).
+Para ganhar uma aposta de três em linha contra um adversário, jogue [A aposta de Gudbrand](/pt/jogo-a-aposta-de-gudbrand/).

@@ -49,4 +49,4 @@ Eiríksmál is an anonymous poem, of about 954, made at the request of Gunnhild 
 
 The author of the poem is not known, and only its beginning has reached us. Eric’s death comes from the account of Roger of Wendover, which the entry presents as its source. The entry also does not discuss other controversies among scholars.
 
-To put the kings of Eric’s train in the right order, play [The kings of the train](/en/game-the-kings-of-the-train/).
+To put the kings of Eric’s train in the right order, play [The kings of the train](/game-the-kings-of-the-train/).

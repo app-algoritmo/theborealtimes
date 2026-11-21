@@ -23,4 +23,4 @@ The knight moves in an L: two squares one way and one the other. Tap a marked sq
 
 ## The story behind it
 
-Among the Lewis chessmen are knights and pawns carved in walrus ivory. The tour on the board is made up. Read the story in [The Lewis chessmen: walrus ivory, warriors biting their shields and a hoard from the Hebrides](/en/2026/11/22/pecas-de-xadrez-de-lewis-marfim/).
+Among the Lewis chessmen are knights and pawns carved in walrus ivory. The tour on the board is made up. Read the story in [The Lewis chessmen: walrus ivory, warriors biting their shields and a hoard from the Hebrides](/the-lewis-chessmen-walrus-ivory-warriors-biting/).

@@ -35,4 +35,4 @@ Em 9 de setembro do ano 1000, Olavo enfrentou, em Svolder, dinamarqueses, suecos
 
 Não se sabe ao certo a data de nascimento nem onde nasceu, nem como foi batizado. Tampouco se sabe como morreu. Os relatos mais antigos, como o de Adão de Bremen, são de por volta de 1070, e a *Heimskringla*, de cerca de 1230.
 
-Para atravessar uma fileira de remos que sobem e descem, no tempo certo, sem cair na água, jogue [Os remos de Olavo](/jogo-os-remos-de-olavo/).
+Para atravessar uma fileira de remos que sobem e descem, no tempo certo, sem cair na água, jogue [Os remos de Olavo](/pt/jogo-os-remos-de-olavo/).

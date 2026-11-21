@@ -23,4 +23,4 @@ Toque, ou use a barra de espaço, para pular as chamas; segure para pular mais a
 
 ## A história por trás
 
-Na Saga de Njál, a casa de Njál em Bergþórshvoll é incendiada, e Kári escapa pelas vigas em chamas e se joga num riacho. O jogo é uma simplificação. Leia a história em [A queima de Njál: a vingança da saga islandesa em que uma casa inteira foi incendiada](/2026/11/14/njal-queima-bergthorshvoll/).
+Na Saga de Njál, a casa de Njál em Bergþórshvoll é incendiada, e Kári escapa pelas vigas em chamas e se joga num riacho. O jogo é uma simplificação. Leia a história em [A queima de Njál: a vingança da saga islandesa em que uma casa inteira foi incendiada](/pt/njal-queima-bergthorshvoll/).

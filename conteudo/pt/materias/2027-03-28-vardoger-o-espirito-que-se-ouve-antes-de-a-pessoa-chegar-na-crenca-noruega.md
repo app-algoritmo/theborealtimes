@@ -45,4 +45,4 @@ O vardøger é o som, e mais raramente a imagem, de alguém que chega antes de a
 
 O texto que li não diz quem recolheu os relatos mais antigos de vardøger. O próprio leksikon lembra, em resposta a um leitor, que a linguagem científica não pode confirmar essas experiências como fatos, e por isso as descreve como crença. Também não sei, a partir dessas fontes, se a ideia de um espírito que anda à frente já existia na era viking.
 
-Para reconhecer a porta onde os passos chegam antes da pessoa, jogue [Os passos antes da pessoa](/jogo-os-passos-antes-da-pessoa/).
+Para reconhecer a porta onde os passos chegam antes da pessoa, jogue [Os passos antes da pessoa](/pt/jogo-os-passos-antes-da-pessoa/).

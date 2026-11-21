@@ -40,4 +40,4 @@ Some time later, Loki returned with a grey foal with eight legs, the best horse 
 
 Snorri wrote centuries after Iceland's conversion to Christianity, and the episode has come down in one long version. The poem Völuspá, in the *Poetic Edda*, alludes to oaths made to a giant and broken by the gods, which some scholars connect to this story, but the poem does not tell the episode in full.
 
-To delay the wall like Loki, play [The wall of Asgard](/en/game-wall-of-asgard/).
+To delay the wall like Loki, play [The wall of Asgard](/game-wall-of-asgard/).

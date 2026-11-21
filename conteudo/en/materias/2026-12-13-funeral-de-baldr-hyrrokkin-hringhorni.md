@@ -39,4 +39,4 @@ Some scholars, among them Neil Price, have suggested that the figure of a woman 
 
 The episode is short, but it shows something important. Even the gods needed the help of a giant for a rite of farewell, and Hyrrokkin, who comes from outside and solves the problem, gets more attention than the gods themselves. Lindow describes her as a figure of some importance in the last decades of paganism in Iceland.
 
-To free Baldr's ship, stuck among other pieces, and bring it out to the sea, play [The ship Hringhorni](/en/game-the-ship-hringhorni/).
+To free Baldr's ship, stuck among other pieces, and bring it out to the sea, play [The ship Hringhorni](/game-the-ship-hringhorni/).

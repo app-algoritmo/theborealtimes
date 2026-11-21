@@ -41,4 +41,4 @@ A *ría* is an arm of the sea reaching inland, typical of Galicia. A *romería* 
 
 The dates of the towers' construction vary from one source to another, and it is not certain that all the attacks mentioned reached the towers. The pilgrimage is a modern recreation, not an ancient fact.
 
-To launch stones from the tower when the power gauge shows the right mark, play [The defence of the towers](/en/game-defending-the-towers/).
+To launch stones from the tower when the power gauge shows the right mark, play [The defence of the towers](/game-defending-the-towers/).

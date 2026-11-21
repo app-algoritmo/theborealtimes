@@ -37,4 +37,4 @@ Uksáhkká, "mulher da porta", mora sob a porta da *goahti*, protege a entrada e
 
 Ganander mistura os papéis das filhas, e fontes diferentes discordam sobre se Juoksáhkká e Uksáhkká são a mesma. Também não se sabe quanto desse sistema é antigo e quanto vem de contato com outros povos. Os próprios artigos tratam essas dúvidas como questões em aberto, e não como pontos resolvidos pelos estudiosos.
 
-Para tocar no ritmo do tambor, no instante em que o anel chega ao centro, jogue [O tambor das Áhkká](/jogo-o-tambor-das-ahkka/).
+Para tocar no ritmo do tambor, no instante em que o anel chega ao centro, jogue [O tambor das Áhkká](/pt/jogo-o-tambor-das-ahkka/).

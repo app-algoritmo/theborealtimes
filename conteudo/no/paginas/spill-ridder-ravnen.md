@@ -23,4 +23,4 @@ Besøk alle 25 rutene på brettet, hver bare én gang, og flytt deg som sjakkspr
 
 ## Historien bak
 
-Valravnen er en overnaturlig ravn i dansk folketro, og den eldste visa «Valravnen» står i Jens Billes håndskrevne notater fra 1555 til 1559. Brettet er oppfunnet. Les historien i [Valravnen, ridder-ravnen i dansk folketro: balladen og Jens Billes notater](/no/2027/01/10/valravn-corvo-cavaleiro-folclore-dinamarques/).
+Valravnen er en overnaturlig ravn i dansk folketro, og den eldste visa «Valravnen» står i Jens Billes håndskrevne notater fra 1555 til 1559. Brettet er oppfunnet. Les historien i [Valravnen, ridder-ravnen i dansk folketro: balladen og Jens Billes notater](/no/valravnen-ridder-ravnen-i-dansk-folketro-balladen-og-jens/).

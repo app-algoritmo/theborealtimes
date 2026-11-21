@@ -23,4 +23,4 @@ Shepherds cross the field, some on foot and some mounted. Tap only those riding 
 
 ## The story behind it
 
-In the saga of Hrafnkell, the chieftain swears to kill whoever rides Freyfaxi and keeps the oath with a shepherd, which leads to his fall. The game is a simplification. Read the story in [Hrafnkell and Freyfaxi: the horse no one could ride and the chieftain who lost his gods](/en/2026/11/15/hrafnkell-cavalo-freyfaxi/).
+In the saga of Hrafnkell, the chieftain swears to kill whoever rides Freyfaxi and keeps the oath with a shepherd, which leads to his fall. The game is a simplification. Read the story in [Hrafnkell and Freyfaxi: the horse no one could ride and the chieftain who lost his gods](/hrafnkell-and-freyfaxi-the-horse-no-one-could-ride/).

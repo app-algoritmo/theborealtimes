@@ -41,4 +41,4 @@ In common, the three sources treat the vittra as a presence tied to pasture, to 
 
 None of the sources gives the origin of the word vittra, and there is no date for the belief. Two of the three sources cite no authors, so the accounts of coexistence, such as the lending of cattle, have no verifiable origin. The sources also do not fully agree on what the vittra is: a female being who seduces, in the first, and an underground creature of pasture and neighbourhood, in the others. It is not known how much of the rules was followed in real life.
 
-To dodge the stones and protect the milk on the way, play [The vittra’s milk](/en/game-the-vittras-milk/).
+To dodge the stones and protect the milk on the way, play [The vittra’s milk](/game-the-vittras-milk/).

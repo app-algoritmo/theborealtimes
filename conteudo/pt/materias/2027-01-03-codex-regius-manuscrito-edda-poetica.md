@@ -44,4 +44,4 @@ Os números do artigo são simples: 29 poemas, 45 folhas conservadas e 8 perdida
 
 O texto do Codex Regius provavelmente copia fontes ainda mais antigas, do começo do século XIII, que não sobreviveram. Quem compilou o livro, onde e por quê, e quando as oito páginas desapareceram, ficou sem resposta. O que se sabe é que, sem esse livro, os poemas dos deuses nórdicos teriam chegado até nós muito mais pobres.
 
-Para pôr páginas numeradas em ordem, deslizando uma peça de cada vez, jogue [As páginas do Codex](/jogo-as-paginas-do-codex/).
+Para pôr páginas numeradas em ordem, deslizando uma peça de cada vez, jogue [As páginas do Codex](/pt/jogo-as-paginas-do-codex/).

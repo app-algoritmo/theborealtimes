@@ -50,4 +50,4 @@ With Fenrir immobilized, the gods fastened the ribbon to a great rock, buried de
 
 When that day comes, according to Snorri and the Völuspá, he will break loose and kill Odin. His avenger is Víðarr, Odin's son: in Snorri's version, he tears the wolf's jaws apart; in the Völuspá, he drives his sword into the wolf's heart.
 
-To try binding the wolf yourself, play [Gleipnir, the impossible ribbon](/en/game-gleipnir-binds-the-wolf/).
+To try binding the wolf yourself, play [Gleipnir, the impossible ribbon](/game-gleipnir-binds-the-wolf/).

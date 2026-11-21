@@ -23,4 +23,4 @@ Press the green dot and drag, without letting go, to the red dot. If you touch a
 
 ## The story behind it
 
-In Iceland, road works have been argued over because of rocks said to be homes of the hidden people. The game plays with that idea. Read the story in [Huldufólk: the hidden people who divert roads in modern Iceland](/en/2026/11/15/huldufolk-povo-oculto/).
+In Iceland, road works have been argued over because of rocks said to be homes of the hidden people. The game plays with that idea. Read the story in [Huldufólk: the hidden people who divert roads in modern Iceland](/huldufolk-the-hidden-people-who-divert-roads-in-modern/).

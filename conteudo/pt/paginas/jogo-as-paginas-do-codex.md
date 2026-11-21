@@ -23,4 +23,4 @@ Toque numa página ao lado do espaço vazio para deslizá-la. Ponha as páginas 
 
 ## A história por trás
 
-O Codex Regius, de cerca de 1270, perdeu oito páginas antes de 1643. O quebra-cabeça de deslizar é invenção. Leia a história em [Codex Regius: o livro de pele de bezerro que guardou os poemas dos deuses e voltou para a Islândia](/2027/01/03/codex-regius-manuscrito-edda-poetica/).
+O Codex Regius, de cerca de 1270, perdeu oito páginas antes de 1643. O quebra-cabeça de deslizar é invenção. Leia a história em [Codex Regius: o livro de pele de bezerro que guardou os poemas dos deuses e voltou para a Islândia](/pt/codex-regius-manuscrito-edda-poetica/).

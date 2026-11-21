@@ -48,4 +48,4 @@ Há uma câmara datada com precisão, de 970 ou 971, com um homem, um manto de l
 
 As fontes não dizem se o homem era cristão ou pagão. Também não se sabe quem ele era. A ideia de que seja Harald Dente Azul é só uma sugestão. A vela de cera é descrita como "provavelmente" um símbolo cristão, e isso é uma interpretação. A relação do depósito de 1871 com a sepultura não é explicada além da distância.
 
-Para pôr os machados no tabuleiro sem que se ataquem, jogue [Os machados de Mammen](/jogo-os-machados-de-mammen/).
+Para pôr os machados no tabuleiro sem que se ataquem, jogue [Os machados de Mammen](/pt/jogo-os-machados-de-mammen/).

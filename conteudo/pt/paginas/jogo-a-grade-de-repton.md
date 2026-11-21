@@ -23,4 +23,4 @@ Preencha cada linha, coluna e quadrado de 2×2 com os números de 1 a 4, sem rep
 
 ## A história por trás
 
-Em Repton (Derbyshire), o Grande Exército passou o inverno de 873–874. A grade numérica do jogo é invenção. Leia a história em [Repton, 873: o acampamento de inverno do Grande Exército](/2026/11/29/repton-873-acampamento-de-inverno-vikings/).
+Em Repton (Derbyshire), o Grande Exército passou o inverno de 873–874. A grade numérica do jogo é invenção. Leia a história em [Repton, 873: o acampamento de inverno do Grande Exército](/pt/repton-873-acampamento-de-inverno-vikings/).

@@ -23,4 +23,4 @@ Three men raise three piles of stones on top of an island. A stone swings back a
 
 ## The story behind it
 
-The Kingittorsuaq stone, found in 1824 on an island in northwest Greenland, says that three men made piles of stones. The way of stacking and the count of stones in the game are invention. Read the story in [The Kingittorsuaq runestone: three Norsemen and three piles of stones in Greenland](/en/2027/03/21/pedra-de-kingittorsuaq-tres-nordicos-e-tres-pilhas-de-pedras-na-groenlandia/).
+The Kingittorsuaq stone, found in 1824 on an island in northwest Greenland, says that three men made piles of stones. The way of stacking and the count of stones in the game are invention. Read the story in [The Kingittorsuaq runestone: three Norsemen and three piles of stones in Greenland](/the-kingittorsuaq-runestone-three-norsemen-and-three-piles/).

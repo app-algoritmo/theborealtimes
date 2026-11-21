@@ -23,4 +23,4 @@ Skipets tau er floket sammen. Dra hver knute (med fingeren eller musen) til et a
 
 ## Historien bak
 
-Naglfar er skipet laget av neglene til de døde, som ved Ragnarok fører monstre til slagmarken. Å greie ut tauene er oppfunnet. Les historien i [Naglfar, skipet laget av de dødes negler som seiler ved Ragnarok](/no/2027/01/31/naglfar-navio-das-unhas-dos-mortos-ragnarok/).
+Naglfar er skipet laget av neglene til de døde, som ved Ragnarok fører monstre til slagmarken. Å greie ut tauene er oppfunnet. Les historien i [Naglfar, skipet laget av de dødes negler som seiler ved Ragnarok](/no/naglfar-skipet-laget-av-de-dodes-negler-som-seiler-ved/).

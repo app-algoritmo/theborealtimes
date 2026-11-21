@@ -37,4 +37,4 @@ The islet is the centre of the plot: the men take refuge on it, the farmers' plo
 
 The source does not give the saga's date of composition in this piece, and the relation of the manuscripts to an older text is not detailed. The source page itself carries a citation that seems to point to *Hávarðar saga*, which may be a citation error, and so this piece does not rely on it. What the saga tells of the men of the islet is literary narrative: there is no proof here that every event happened as it is written.
 
-To place lookouts on every islet, with no two touching, play [The lookouts of the islets](/en/game-the-lookouts-of-the-islets/).
+To place lookouts on every islet, with no two touching, play [The lookouts of the islets](/game-the-lookouts-of-the-islets/).

@@ -35,4 +35,4 @@ No século XVIII, o escritor alemão Herder traduziu uma versão dinamarquesa pa
 
 *Elveskud* mostra como uma história de bosque e de fronteira, entre o mundo conhecido e o desconhecido, atravessou séculos. O que une todas as versões é uma regra simples: quem encontra o povo oculto corre perigo. A dança, a recusa e o castigo podem ser lidos como uma advertência, e muitas pessoas, hoje, ainda a ouvem como canção.
 
-Para dançar no compasso, tocando cada pista no instante certo, enquanto o canto das elfas dura, jogue [A dança das elfas](/jogo-a-danca-das-elfas/).
+Para dançar no compasso, tocando cada pista no instante certo, enquanto o canto das elfas dura, jogue [A dança das elfas](/pt/jogo-a-danca-das-elfas/).

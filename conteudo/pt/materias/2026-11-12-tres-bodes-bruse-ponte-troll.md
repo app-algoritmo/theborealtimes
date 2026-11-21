@@ -70,4 +70,4 @@ Asbjørnsen e Moe, dois amigos, passaram anos ouvindo e anotando histórias cont
 Os trolls, criaturas das montanhas e das florestas, são presença constante no folclore escandinavo. O conto dos bodes Bruse é hoje um dos mais conhecidos do folclore norueguês.
 
 
-Para atravessar a ponte você mesmo, jogue [Os três bodes Bruse](/jogo-tres-bodes-bruse/).
+Para atravessar a ponte você mesmo, jogue [Os três bodes Bruse](/pt/jogo-tres-bodes-bruse/).

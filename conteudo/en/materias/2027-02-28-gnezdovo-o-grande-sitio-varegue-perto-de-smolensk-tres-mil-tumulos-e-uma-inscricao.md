@@ -51,4 +51,4 @@ Gnezdovo was a great trading post of the 10th century on the route between the B
 
 The relationship with Smolensk is disputed: for some, Gnezdovo was the economic predecessor of Smolensk, and for others, Petrukhin and Pushkina, the two coexisted in the 10th century. Written sources on Gnezdovo are few and vague: two entries in the Primary Chronicle and one in *De Administrando Imperio*. The name Gnezdovo is late medieval, and the old name of the settlement is uncertain, with one proposal of Svinechsk. The "mustard" reading of the inscription is not universal, and the entry marks some comparisons as lacking citation.
 
-To swap three boats from side to side on a narrow portage, play [The swap of boats](/en/game-the-swap-of-boats/).
+To swap three boats from side to side on a narrow portage, play [The swap of boats](/game-the-swap-of-boats/).

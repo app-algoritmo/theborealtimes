@@ -23,4 +23,4 @@ You play the king (with the crown) and the four defenders, in purple, and you go
 
 ## The story behind it
 
-Hnefatafl was played in the Viking Age, but the original rules were lost and have been reconstructed from later sources. This 7×7 board is a simplified version. Read the story in [Hnefatafl: the board game the Vikings played and no one knows exactly how it went](/en/2026/11/13/hnefatafl-tabuleiro/).
+Hnefatafl was played in the Viking Age, but the original rules were lost and have been reconstructed from later sources. This 7×7 board is a simplified version. Read the story in [Hnefatafl: the board game the Vikings played and no one knows exactly how it went](/hnefatafl-the-board-game-the-vikings-played-and-no-one/).

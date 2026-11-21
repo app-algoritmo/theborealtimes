@@ -41,4 +41,4 @@ Lejre exists, and the archaeology there is real. Excavations have found large ti
 
 It is also unknown how much of Snorri's account comes from old oral tradition and how much he rewrote, a Christian Icelander of the 13th century who wanted to preserve the poetry of his ancestors. What we do know is that in his version the goddess beats a king through cunning, turning the king's own generosity against his measure.
 
-To try cutting the land into the right pieces, as the goddess did, play [Gefjon's land](/en/game-gefjons-land/).
+To try cutting the land into the right pieces, as the goddess did, play [Gefjon's land](/game-gefjons-land/).

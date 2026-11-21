@@ -37,4 +37,4 @@ No fim do livro, quando Gangleri termina de ouvir, ouve-se um estrondo. O palác
 
 Quando se lê a *Gylfaginning*, é preciso lembrar que Snorri era um cristão escrevendo cerca de dois séculos depois do fim da Era Viking. Ele usa a moldura da ilusão como uma forma de apresentar essa mitologia sem dizer que ela é verdadeira: o que se conta é o que os "deuses" disseram a um rei enganado. Isso ajuda a entender por que um autor cristão pôde preservar tantas histórias pagãs. Para a pesquisa, o livro é uma das nossas principais fontes, mas também uma obra literária, com escolhas próprias do autor.
 
-Para derrubar, com uma bola e uma barra, os tijolos do salão que se desfaz diante do rei Gylfi, jogue [O salão de Gylfi](/jogo-o-salao-de-gylfi/).
+Para derrubar, com uma bola e uma barra, os tijolos do salão que se desfaz diante do rei Gylfi, jogue [O salão de Gylfi](/pt/jogo-o-salao-de-gylfi/).

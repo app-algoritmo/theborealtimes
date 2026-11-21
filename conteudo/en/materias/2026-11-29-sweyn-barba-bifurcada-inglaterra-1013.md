@@ -41,4 +41,4 @@ The conquest of 1013 was too quick to be explained by force alone. Many research
 
 The sources have limits. The *Chronicle* was written by English authors, and there is no equivalent account from the Danish side, so Sweyn's point of view is seen only from outside.
 
-To steer Sweyn's fleet up the river, tapping to rise and letting go to sink between the sandbanks, play [Sweyn's fleet](/en/game-sweyns-fleet/).
+To steer Sweyn's fleet up the river, tapping to rise and letting go to sink between the sandbanks, play [Sweyn's fleet](/game-sweyns-fleet/).

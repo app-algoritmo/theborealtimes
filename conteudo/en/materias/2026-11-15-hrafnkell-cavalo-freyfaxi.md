@@ -43,4 +43,4 @@ The saga was composed around the year 1300, more than three hundred years after 
 
 What makes the saga memorable is that the protagonist is, for a time, a man who has renounced the gods. He does not convert to another religion. He only learns that loyalty to a god who did not protect him is worth no more than loyalty to the one who helps, and that he can trust only himself.
 
-To keep watch over the horse, play [Freyr's horse](/en/game-freyrs-horse/).
+To keep watch over the horse, play [Freyr's horse](/game-freyrs-horse/).

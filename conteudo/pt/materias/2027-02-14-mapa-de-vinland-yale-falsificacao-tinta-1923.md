@@ -44,4 +44,4 @@ As datas que as fontes dão, em ordem, são estas: depois da Segunda Guerra Mund
 
 As fontes não dizem quem fez o mapa, quando, nem por quê. A proveniência antes do comerciante suíço continua desconhecida. Também fica por saber o que o falsificador tinha diante de si, já que a pesquisa de 2018 aponta um mapa do século XVIII, e a de 2021 liga o verso a um texto medieval.
 
-Para achar diferenças entre um mapa e a cópia dele, como numa falsificação examinada de perto, jogue [O mapa e a cópia](/jogo-o-mapa-e-a-copia/).
+Para achar diferenças entre um mapa e a cópia dele, como numa falsificação examinada de perto, jogue [O mapa e a cópia](/pt/jogo-o-mapa-e-a-copia/).

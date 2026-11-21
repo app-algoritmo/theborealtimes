@@ -23,4 +23,4 @@ Pannekaka ruller nedover bakken, og dyrene på veien vil spise den. I hver rad e
 
 ## Historien bak
 
-I Asbjørnsens eventyr i Dasents oversettelse rømmer pannekaka fra en familie og flere dyr før den blir slukt av en gris. Feltene og radene med dyr er oppdiktet. Les historien i [Pannekaka som rømte: eventyr fra Asbjørnsen med grisen ved bekken](/no/2027/03/21/a-panqueca-que-fugiu-conto-de-asbjornsen-com-o-porco-no-riacho/).
+I Asbjørnsens eventyr i Dasents oversettelse rømmer pannekaka fra en familie og flere dyr før den blir slukt av en gris. Feltene og radene med dyr er oppdiktet. Les historien i [Pannekaka som rømte: eventyr fra Asbjørnsen med grisen ved bekken](/no/pannekaka-som-romte-eventyr-fra-asbjornsen-med-grisen-ved/).

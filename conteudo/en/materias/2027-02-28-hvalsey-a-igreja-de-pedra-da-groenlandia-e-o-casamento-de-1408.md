@@ -50,4 +50,4 @@ The church of Hvalsey is the best preserved Norse ruin in Greenland and the site
 
 The exact date of construction is not clear, and an earlier church may have existed. It is not known whether the mortar was between the stones or only as plaster outside, and the turf roof is only a supposition. The link with Thorkell Farserk is uncertain. The date of the wedding comes from a later document, and the officiant is presumed. The Inuit legend contradicts the finds. The newspaper article does not say which source gives the exact day.
 
-To pile stones of many tonnes, one on the other, without letting the wall fall, play [The wall of stones](/en/game-the-wall-of-stones/).
+To pile stones of many tonnes, one on the other, without letting the wall fall, play [The wall of stones](/game-the-wall-of-stones/).

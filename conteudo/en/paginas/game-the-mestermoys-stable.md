@@ -23,4 +23,4 @@ Eight numbered bales are out of order in the stable, which has one empty space. 
 
 ## The story behind it
 
-Jørgen Moe wrote down the tale of the Mestermøy, the maiden who helps the king's son with the giant's tasks, from the storyteller Anne Godlid, in Seljord, in the autumn of 1842. The puzzle is invented. Read the story in [The Mestermøy, the master maid: Asbjørnsen and Moe's tale and the “magic flight”](/en/2027/01/17/mestermoy-donzela-mestra-asbjornsen-moe-conto/).
+Jørgen Moe wrote down the tale of the Mestermøy, the maiden who helps the king's son with the giant's tasks, from the storyteller Anne Godlid, in Seljord, in the autumn of 1842. The puzzle is invented. Read the story in [The Mestermøy, the master maid: Asbjørnsen and Moe's tale and the “magic flight”](/the-mestermoy-the-master-maid-asbjornsen-and-moe-s-tale/).

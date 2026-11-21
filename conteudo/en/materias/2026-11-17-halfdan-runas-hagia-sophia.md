@@ -40,4 +40,4 @@ Hagia Sophia was built in the 6th century and afterwards served as a cathedral, 
 
 Hagia Sophia is not the only trace. Dozens of rune stones in Sweden, raised in memory of relatives, speak of men who set out for *Grikkland*, the Norse name for Greece and the Byzantine Empire. Some say the man died there, others that he came back rich. Added to Halfdan's inscription, these stones show that the journey to Constantinople was known in many Scandinavian families, not only among chieftains.
 
-To find the runes hidden in the marble, play [Runes in Hagia Sophia](/en/game-runes-in-hagia-sophia/).
+To find the runes hidden in the marble, play [Runes in Hagia Sophia](/game-runes-in-hagia-sophia/).

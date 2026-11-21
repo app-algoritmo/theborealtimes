@@ -23,4 +23,4 @@ Ulver og jotner rykker fram fra begge sider. Trykk på venstre eller høyre halv
 
 ## Historien bak
 
-I Vøluspå og Snorres Edda er Ragnarok den siste kampen der mange guder dør og verden ødelegges og så gjenfødes. Den seirende morgengryet i spillet er diktet opp. Les historien i [Ragnarok: slik forteller de norrøne diktene verdens undergang, og hva som kommer etterpå](/no/2026/11/14/ragnarok-fim-do-mundo/).
+I Vøluspå og Snorres Edda er Ragnarok den siste kampen der mange guder dør og verden ødelegges og så gjenfødes. Den seirende morgengryet i spillet er diktet opp. Les historien i [Ragnarok: slik forteller de norrøne diktene verdens undergang, og hva som kommer etterpå](/no/ragnarok-slik-forteller-de-norrone-diktene-verdens/).

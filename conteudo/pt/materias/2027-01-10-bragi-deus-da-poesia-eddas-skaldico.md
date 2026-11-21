@@ -39,4 +39,4 @@ O nome costuma ser ligado ao nórdico antigo *bragr*, que pode significar "poesi
 
 Klingenberg notou que Bragi só está bem atestado como deus em fontes posteriores ao paganismo. Jan de Vries via nele a poesia de louvor, regrada e afirmadora da vida, e o ligava, por Iðunn, a cultos de fertilidade, o que Klingenberg achou especulativo. Ou seja: o deus pode ter sido, desde sempre, um homem lembrado em verso.
 
-Para ler runas numa grade, na língua de um deus, jogue [As runas de Bragi](/jogo-as-runas-de-bragi/).
+Para ler runas numa grade, na língua de um deus, jogue [As runas de Bragi](/pt/jogo-as-runas-de-bragi/).

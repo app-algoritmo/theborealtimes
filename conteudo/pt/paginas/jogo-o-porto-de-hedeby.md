@@ -23,4 +23,4 @@ A caixa balança de um lado ao outro. Toque (ou use a barra de espaço) para sol
 
 ## A história por trás
 
-Hedeby foi um grande porto de comércio, ativo do século VIII a meados do XI. As caixas e o guindaste são invenção do jogo. Leia a história em [Hedeby: o porto viking onde os mercadores do mundo se encontravam](/2026/11/16/hedeby-porto-viking/).
+Hedeby foi um grande porto de comércio, ativo do século VIII a meados do XI. As caixas e o guindaste são invenção do jogo. Leia a história em [Hedeby: o porto viking onde os mercadores do mundo se encontravam](/pt/hedeby-porto-viking/).

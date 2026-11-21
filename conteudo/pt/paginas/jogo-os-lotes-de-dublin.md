@@ -23,4 +23,4 @@ Você começa no lote do canto de cima, à esquerda. Escolha uma cor embaixo: o 
 
 ## A história por trás
 
-As escavações de Wood Quay, em Dublin, revelaram lotes de casas vikings, alinhados em ruas. A pintura de lotes é invenção do jogo. Leia a história em [Wood Quay: a escavação que revelou a Dublin viking e o protesto que tentou salvá-la](/2026/11/21/dublin-wood-quay-escavacao/).
+As escavações de Wood Quay, em Dublin, revelaram lotes de casas vikings, alinhados em ruas. A pintura de lotes é invenção do jogo. Leia a história em [Wood Quay: a escavação que revelou a Dublin viking e o protesto que tentou salvá-la](/pt/dublin-wood-quay-escavacao/).

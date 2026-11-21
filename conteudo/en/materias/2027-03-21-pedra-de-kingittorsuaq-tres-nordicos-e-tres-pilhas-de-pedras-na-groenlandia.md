@@ -45,4 +45,4 @@ A *varða* (plural *varðar*) is a pile of stones used as a marker. A *bind rune
 
 We do not know what the last runes say, or whether the date was written in cipher. The source consulted also does not say who found the stone, and the context of what the three men were doing so far north is, in good part, deduction.
 
-To stack the stones without letting the tower fall, play [The three cairns](/en/game-the-three-cairns/).
+To stack the stones without letting the tower fall, play [The three cairns](/game-the-three-cairns/).

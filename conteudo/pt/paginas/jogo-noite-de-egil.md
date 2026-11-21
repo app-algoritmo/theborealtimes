@@ -23,4 +23,4 @@ Palavras caem pela tela. Toque só nas que começam com a letra mostrada no alto
 
 ## A história por trás
 
-Na Saga de Egil, o poeta compõe em uma noite o poema "Höfuðlausn" para escapar da morte diante do rei Eirík. O poema verdadeiro não aparece no jogo. A aliteração, repetir sons iniciais, é um traço real da poesia dos escaldos; a mecânica do jogo é invenção. Leia a história em [Egil Skallagrímsson e o poema que, segundo a saga, salvou sua cabeça](/2026/11/12/egil-skallagrimsson-resgate-da-cabeca/).
+Na Saga de Egil, o poeta compõe em uma noite o poema "Höfuðlausn" para escapar da morte diante do rei Eirík. O poema verdadeiro não aparece no jogo. A aliteração, repetir sons iniciais, é um traço real da poesia dos escaldos; a mecânica do jogo é invenção. Leia a história em [Egil Skallagrímsson e o poema que, segundo a saga, salvou sua cabeça](/pt/egil-skallagrimsson-resgate-da-cabeca/).

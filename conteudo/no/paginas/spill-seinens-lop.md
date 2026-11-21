@@ -23,4 +23,4 @@ Drei elvebitene, ett trykk om gangen (eller bruk piltastene og mellomromstasten)
 
 ## Historien bak
 
-Rollo og mennene hans slo seg ned ved nedre Seine, og Normandie vokste frem derfra. Elvepuslespillet er diktet opp for spillet. Les historien i [Rollo og Normandie: hvordan en vikinghøvding fikk land av frankerkongen i 911](/no/2026/11/18/rollo-normandia-saint-clair-911/).
+Rollo og mennene hans slo seg ned ved nedre Seine, og Normandie vokste frem derfra. Elvepuslespillet er diktet opp for spillet. Les historien i [Rollo og Normandie: hvordan en vikinghøvding fikk land av frankerkongen i 911](/no/rollo-og-normandie-hvordan-en-vikinghovding-fikk-land/).

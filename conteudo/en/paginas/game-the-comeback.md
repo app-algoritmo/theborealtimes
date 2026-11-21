@@ -23,4 +23,4 @@ At Harald's court, insults fly on two levels, the upper and the lower, toward Ha
 
 ## The story behind it
 
-The Sneglu-Halla þáttr tells that the Icelander Halli faces King Harald and the poet Thjodolf with cutting replies, in a senna. The insults that fly and the return zone are invention. Read the story in [Sneglu-Halli: the sharp-tongued Icelander at the court of Harald Hardrada](/en/2027/03/21/sneglu-halli-o-islandes-de-lingua-afiada-na-corte-de-harald-hardrada/).
+The Sneglu-Halla þáttr tells that the Icelander Halli faces King Harald and the poet Thjodolf with cutting replies, in a senna. The insults that fly and the return zone are invention. Read the story in [Sneglu-Halli: the sharp-tongued Icelander at the court of Harald Hardrada](/sneglu-halli-the-sharp-tongued-icelander-at-the-court/).

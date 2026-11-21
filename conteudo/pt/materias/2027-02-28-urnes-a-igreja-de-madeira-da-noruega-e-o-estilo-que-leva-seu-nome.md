@@ -52,4 +52,4 @@ Urnes é uma igreja de madeira de cerca de 1130, que reaproveitou o portal e out
 
 As leituras do portal, como o Ragnarök e Níðhöggr, são interpretações, e a posição original do portal e a decoração da igreja anterior são especulação. O verbete diz que se acredita que seja a mais antiga do tipo. As fontes dão contagens um pouco diferentes de igrejas de madeira preservadas na Noruega, 28 ou 30, e datas um pouco diferentes para a conclusão.
 
-Para refazer a prancha do portal, deslizando as peças até o desenho voltar ao lugar, jogue [As tábuas do portal](/jogo-as-tabuas-do-portal/).
+Para refazer a prancha do portal, deslizando as peças até o desenho voltar ao lugar, jogue [As tábuas do portal](/pt/jogo-as-tabuas-do-portal/).

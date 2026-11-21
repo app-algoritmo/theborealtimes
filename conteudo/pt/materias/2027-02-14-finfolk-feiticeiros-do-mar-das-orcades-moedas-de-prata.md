@@ -45,4 +45,4 @@ O Finman é alto e magro e atravessa o mar de barco, enquanto a Finwife começa 
 
 O local de Hildaland não é dito. As fontes divergem sobre se a noiva ou o noivo capturado vai viver em Finfolkaheem e sobre a cauda da Finwife. A origem das histórias é outro ponto aberto. O ensaio diz que os Finmen provavelmente eram estrangeiros vindos da Escandinávia, e isso é uma interpretação, não um fato estabelecido. O ensaio também não foi revisado e tem erros de citação, e por isso não serve de apoio sozinho. O papel de Eynhallow, outra ilha das Órcades, também fica sem esclarecimento nas fontes.
 
-Para virar moedas de prata de uma pilha, como uma defesa contra os Finfolk, jogue [As moedas dos Finfolk](/jogo-as-moedas-dos-finfolk/).
+Para virar moedas de prata de uma pilha, como uma defesa contra os Finfolk, jogue [As moedas dos Finfolk](/pt/jogo-as-moedas-dos-finfolk/).

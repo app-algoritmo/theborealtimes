@@ -23,4 +23,4 @@ Em Lejre, o túmulo de Grydehøj guardava fios de ouro e peças de bronze. Nove 
 
 ## A história por trás
 
-Segundo a página da UCLA sobre Lejre, o túmulo de Grydehøj, de cerca de 550, trazia fios de ouro e peças de bronze. Os montes com brilho e o ritmo do jogo são invenção. Leia a história em [Lejre: o grande salão do rei na Dinamarca e os sacrifícios de nove em nove anos](/2027/03/28/lejre-o-grande-salao-do-rei-na-dinamarca-e-os-sacrificios-de-nove-em-nove-anos/).
+Segundo a página da UCLA sobre Lejre, o túmulo de Grydehøj, de cerca de 550, trazia fios de ouro e peças de bronze. Os montes com brilho e o ritmo do jogo são invenção. Leia a história em [Lejre: o grande salão do rei na Dinamarca e os sacrifícios de nove em nove anos](/pt/lejre-o-grande-salao-do-rei-na-dinamarca-e-os-sacrificios-de-nove-em-nove-anos/).

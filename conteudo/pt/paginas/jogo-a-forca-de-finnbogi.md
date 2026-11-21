@@ -23,4 +23,4 @@ Uma barra tem um marcador que vai e volta. Toque quando o marcador estiver dentr
 
 ## A história por trás
 
-Na Finnboga saga ramma, o imperador João I Tzimisces dá a Finnbogi o epíteto "rammi", "o Forte". Acertar o momento do golpe é invenção. Leia a história em [A saga de Finnbogi, o Forte: do bebê exposto a Constantinopla e à Islândia](/2027/02/21/finnboga-saga-ramma-finnbogi-o-forte-constantinopla-islandia/).
+Na Finnboga saga ramma, o imperador João I Tzimisces dá a Finnbogi o epíteto "rammi", "o Forte". Acertar o momento do golpe é invenção. Leia a história em [A saga de Finnbogi, o Forte: do bebê exposto a Constantinopla e à Islândia](/pt/finnboga-saga-ramma-finnbogi-o-forte-constantinopla-islandia/).

@@ -49,4 +49,4 @@ Tostig Godwinson o convidou a invadir a Inglaterra. Em 20 de setembro de 1066, e
 
 Entre os pontos que o artigo trata como incertos estão a descendência de Harald Cabelo Belo, o casamento com uma "Maria", a viagem a Jerusalém e a cegueira de Miguel V.
 
-Para prender uma raposa num tabuleiro em cruz com treze gansos, sem deixá-la comer demais, jogue [A raposa e os gansos](/jogo-a-raposa-e-os-gansos/).
+Para prender uma raposa num tabuleiro em cruz com treze gansos, sem deixá-la comer demais, jogue [A raposa e os gansos](/pt/jogo-a-raposa-e-os-gansos/).

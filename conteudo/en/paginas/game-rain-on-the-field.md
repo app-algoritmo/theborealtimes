@@ -23,4 +23,4 @@ Ukko drifts over the farmland on a thunder cloud. Tap the screen, or press Space
 
 ## The story behind it
 
-In 1551, the reformer Mikael Agricola wrote down the worship of Ukko, god of thunder and weather, and the spring feast of the vessel, the Ukon vakat. The cloud you steer is invented. Read the story in [Ukko: the Finnish god of thunder and the feast of the vessel that asked for rain](/en/2027/03/14/ukko-deus-do-trovao-finlandes-e-a-festa-da-vasilha-para-pedir-chuva/).
+In 1551, the reformer Mikael Agricola wrote down the worship of Ukko, god of thunder and weather, and the spring feast of the vessel, the Ukon vakat. The cloud you steer is invented. Read the story in [Ukko: the Finnish god of thunder and the feast of the vessel that asked for rain](/ukko-the-finnish-god-of-thunder-and-the-feast-of-the-vessel/).

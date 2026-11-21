@@ -23,4 +23,4 @@ Watch the sequence of lights and repeat it by tapping the lights in the same ord
 
 ## The story behind it
 
-The dísir are female spirits tied to fate, and the dísablót was a sacrifice in their honour. The lights are invented. Read the story in [The dísir: female spirits, the sacrifice at Uppsala and the fair that still exists](/en/2027/01/03/disir-disablot-uppsala-disting/).
+The dísir are female spirits tied to fate, and the dísablót was a sacrifice in their honour. The lights are invented. Read the story in [The dísir: female spirits, the sacrifice at Uppsala and the fair that still exists](/the-disir-female-spirits-the-sacrifice-at-uppsala/).

@@ -39,4 +39,4 @@ Hrungnir threw the whetstone. The two weapons met in the air. The hammer shatter
 
 The episode is often cited because Snorri leans on a skaldic poem, the *Haustlöng*, by Þjóðólfr of Hvin, from the late 9th or the 10th century, which describes scenes painted on a shield. This suggests that the legend circulated for centuries before it was written in the *Edda*. Details such as the clay giant appear only in Snorri, and scholars do not know whether they are old.
 
-To help Thor break the stone shards before they fall, play [Hrungnir's shards](/en/game-hrungnirs-shards/).
+To help Thor break the stone shards before they fall, play [Hrungnir's shards](/game-hrungnirs-shards/).

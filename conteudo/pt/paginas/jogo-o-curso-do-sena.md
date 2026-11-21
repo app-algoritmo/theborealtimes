@@ -23,4 +23,4 @@ Gire os trechos do rio, um toque de cada vez (ou use as setas e a barra de espa�
 
 ## A história por trás
 
-Rollo e seus homens se instalaram no baixo Sena, e dali nasceu a Normandia. O quebra-cabeça do rio é invenção do jogo. Leia a história em [Rollo e a Normandia: como um chefe viking recebeu terras do rei dos francos em 911](/2026/11/18/rollo-normandia-saint-clair-911/).
+Rollo e seus homens se instalaram no baixo Sena, e dali nasceu a Normandia. O quebra-cabeça do rio é invenção do jogo. Leia a história em [Rollo e a Normandia: como um chefe viking recebeu terras do rei dos francos em 911](/pt/rollo-normandia-saint-clair-911/).

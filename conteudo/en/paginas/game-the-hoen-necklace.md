@@ -23,4 +23,4 @@ String all the beads on a single thread. Start at the bead marked 1 and tap a ne
 
 ## The story behind it
 
-The Hoen hoard was found in 1834, in Buskerud, Norway, with more than a hundred beads; today it is in Oslo. Stringing beads on a thread is invented. Read the story in [The Hoen treasure: gold, Arab coins and beads found in Buskerud](/en/2027/02/14/tesouro-de-hoen-ouro-moedas-e-contas-da-era-viking/).
+The Hoen hoard was found in 1834, in Buskerud, Norway, with more than a hundred beads; today it is in Oslo. Stringing beads on a thread is invented. Read the story in [The Hoen treasure: gold, Arab coins and beads found in Buskerud](/the-hoen-treasure-gold-arab-coins-and-beads-found/).

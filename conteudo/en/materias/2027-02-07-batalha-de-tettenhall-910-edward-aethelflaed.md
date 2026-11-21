@@ -41,4 +41,4 @@ The *Danelaw* is the set of regions of England under Danish control. *Mercia* an
 
 The date and the place depend, according to the first source, on a single chronicler, Æthelweard, and the place is given only as "near" Tettenhall, with no exact spot. The sources differ on the names of the kings killed: the first cites Eowils, Halfdan and Ingwær, while the popular account cites Ivarr, Eowils and Halfdan. Neither source gives the size of the armies or the tactics of the battle, and the popular account admits that "not much is known" of the details. As to whether the Viking army was entirely destroyed, the same source says only that it perhaps was.
 
-To find hidden raiders in a field without stepping on any, play [The hidden raiders](/en/game-the-hidden-raiders/).
+To find hidden raiders in a field without stepping on any, play [The hidden raiders](/game-the-hidden-raiders/).

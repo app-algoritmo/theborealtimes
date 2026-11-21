@@ -23,4 +23,4 @@ Tap (or press Space) to stop the marker inside the golden band. Five right stops
 
 ## The story behind it
 
-At Ragnarök, Víðarr steps on the jaw of Fenrir with a shoe made from scraps of leather. The marker is invented. Read the story in [Víðarr: the silent god, the thick shoe and the end of the wolf Fenrir](/en/2026/12/27/vidarr-deus-silencioso-sapato-fenrir/).
+At Ragnarök, Víðarr steps on the jaw of Fenrir with a shoe made from scraps of leather. The marker is invented. Read the story in [Víðarr: the silent god, the thick shoe and the end of the wolf Fenrir](/vidarr-the-silent-god-the-thick-shoe-and-the-end/).

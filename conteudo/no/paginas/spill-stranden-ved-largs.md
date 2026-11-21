@@ -23,4 +23,4 @@ Skyv fingeren (eller bruk ← → / A D) for å flytte skipet ditt; det skyter a
 
 ## Historien bak
 
-I 1263 kjempet kong Håkons flåte, hardt rammet av storm, på land ved Largs. Strandforsvaret i spillet er diktet opp. Les historien i [Largs, 1263: kong Håkon og den siste store norrøne ekspedisjonen til Skottland](/no/2026/11/29/largs-1263-haakon-haakonsson-escocia/).
+I 1263 kjempet kong Håkons flåte, hardt rammet av storm, på land ved Largs. Strandforsvaret i spillet er diktet opp. Les historien i [Largs, 1263: kong Håkon og den siste store norrøne ekspedisjonen til Skottland](/no/largs-1263-kong-hakon-og-den-siste-store-norrone/).

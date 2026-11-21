@@ -23,4 +23,4 @@ Tap (or press Space) to make the ship rise; when you let go, it sinks by itself.
 
 ## The story behind it
 
-According to the Anglo-Saxon Chronicle, Sweyn went up the Humber and the Trent to Gainsborough in 1013. The passages in the game are made up. Read the story in [Sweyn Forkbeard and the conquest of England in 1013](/en/2026/11/29/sweyn-barba-bifurcada-inglaterra-1013/).
+According to the Anglo-Saxon Chronicle, Sweyn went up the Humber and the Trent to Gainsborough in 1013. The passages in the game are made up. Read the story in [Sweyn Forkbeard and the conquest of England in 1013](/sweyn-forkbeard-and-the-conquest-of-england-in-1013/).

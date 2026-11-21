@@ -41,4 +41,4 @@ It is important to remember that the *Landnámabók* and the *Laxdæla saga* wer
 
 Aud symbolises the Iceland of the first settlers, a land where someone could arrive, choose a valley and found a lineage. Her epithet, "the deep-minded", suggests that the tradition remembered her as a woman who planned well.
 
-To raise, block by block, the house of a newly founded farm, fitting each plank onto the previous one at the right moment, play [Aud's house](/en/game-auds-house/).
+To raise, block by block, the house of a newly founded farm, fitting each plank onto the previous one at the right moment, play [Aud's house](/game-auds-house/).

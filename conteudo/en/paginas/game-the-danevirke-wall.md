@@ -23,4 +23,4 @@ Invaders advance along five lanes toward the wall on the left. Tap an empty squa
 
 ## The story behind it
 
-The Danevirke was an earth-and-timber rampart in southern Denmark, extended over the centuries. The lane defence is made up for the game. Read the story in [Danevirke: the earthen rampart the Danes raised against the Frankish Empire](/en/2026/11/21/danevirke-muralha-dinamarquesa/).
+The Danevirke was an earth-and-timber rampart in southern Denmark, extended over the centuries. The lane defence is made up for the game. Read the story in [Danevirke: the earthen rampart the Danes raised against the Frankish Empire](/danevirke-the-earthen-rampart-the-danes-raised-against/).

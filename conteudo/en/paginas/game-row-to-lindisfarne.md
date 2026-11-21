@@ -23,4 +23,4 @@ A marker moves back and forth over the bar. Tap (or press the space bar) when it
 
 ## The story behind it
 
-On 8 June 793, Vikings attacked the monastery of Lindisfarne, in Northumbria, and the date became the marker of the start of the Viking Age. The details of the crossing and the rowing rhythm are made up for the game. Read the story in [Lindisfarne, 793: the attack on the monastery that Europe remembers as the start of the Viking Age](/en/2026/11/14/lindisfarne-793/).
+On 8 June 793, Vikings attacked the monastery of Lindisfarne, in Northumbria, and the date became the marker of the start of the Viking Age. The details of the crossing and the rowing rhythm are made up for the game. Read the story in [Lindisfarne, 793: the attack on the monastery that Europe remembers as the start of the Viking Age](/lindisfarne-793-the-attack-on-the-monastery-that-europe/).

@@ -23,4 +23,4 @@ Você está sobre o gelo e, quando se move, escorrega em linha reta até bater n
 
 ## A história por trás
 
-Na Bárðar saga Snæfellsáss, Helga é empurrada para o mar sobre um bloco de gelo e vai parar na Groenlândia. Bárðr some na geleira Snæfellsjökull e passa a ser lembrado como espírito guardião da península. Escorregar no gelo é invenção. Leia a história em [Bárðar saga Snæfellsáss: o guardião da geleira, o gelo à deriva e a história do filho Gestr](/2027/02/07/bardar-saga-snaefellsass-snaefellsjokull-gestr/).
+Na Bárðar saga Snæfellsáss, Helga é empurrada para o mar sobre um bloco de gelo e vai parar na Groenlândia. Bárðr some na geleira Snæfellsjökull e passa a ser lembrado como espírito guardião da península. Escorregar no gelo é invenção. Leia a história em [Bárðar saga Snæfellsáss: o guardião da geleira, o gelo à deriva e a história do filho Gestr](/pt/bardar-saga-snaefellsass-snaefellsjokull-gestr/).

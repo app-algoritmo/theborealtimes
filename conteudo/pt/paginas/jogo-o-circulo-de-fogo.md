@@ -23,4 +23,4 @@ Toque numa pedra: ela e as quatro vizinhas trocam de estado (acesa vira apagada,
 
 ## A história por trás
 
-Nas sagas, Brynhildr dorme dentro de um muro de fogo. O quebra-cabeça de apagar chamas é invenção do jogo. Leia a história em [Brynhildr e Sigurd: a valquíria do círculo de fogo e a traição que terminou na pira](/2026/11/18/brynhildr-sigurd-fogo-volsunga/).
+Nas sagas, Brynhildr dorme dentro de um muro de fogo. O quebra-cabeça de apagar chamas é invenção do jogo. Leia a história em [Brynhildr e Sigurd: a valquíria do círculo de fogo e a traição que terminou na pira](/pt/brynhildr-sigurd-fogo-volsunga/).

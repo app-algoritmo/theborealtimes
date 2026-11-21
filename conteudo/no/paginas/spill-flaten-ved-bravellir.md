@@ -23,4 +23,4 @@ Skip er skjult på kartet, i rette linjer, uten å røre hverandre. Tallene i ka
 
 ## Historien bak
 
-Ifølge kildene skal svenskene ha bygd 3000 skip til Brávellir, et legendarisk tall; slaget er av usikker eksistens. Å finne skjulte skip er oppfunnet. Les historien i [Slaget ved Brávellir: Sigurd Ring, Harald Hildetann og en legendarisk hær](/no/2027/02/14/batalha-de-bravellir-sigurd-hring-harald-dente-de-guerra/).
+Ifølge kildene skal svenskene ha bygd 3000 skip til Brávellir, et legendarisk tall; slaget er av usikker eksistens. Å finne skjulte skip er oppfunnet. Les historien i [Slaget ved Brávellir: Sigurd Ring, Harald Hildetann og en legendarisk hær](/no/slaget-ved-bravellir-sigurd-ring-harald-hildetann/).

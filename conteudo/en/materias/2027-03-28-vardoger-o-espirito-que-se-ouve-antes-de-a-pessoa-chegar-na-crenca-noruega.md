@@ -45,4 +45,4 @@ The vardøger is the sound, and more rarely the image, of someone who arrives be
 
 The text I read does not say who collected the oldest accounts of vardøger. The leksikon itself notes, in reply to a reader, that scientific language cannot confirm such experiences as facts, and so it describes them as belief. I also do not know, from these sources, whether the idea of a spirit that walks ahead already existed in the Viking Age.
 
-To recognize the door where the steps arrive before the person, play [The steps before the person](/en/game-the-steps-before-the-person/).
+To recognize the door where the steps arrive before the person, play [The steps before the person](/game-the-steps-before-the-person/).

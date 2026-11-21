@@ -35,4 +35,4 @@ There is also a question of dating and intent. Some researchers think the poem i
 
 The lesson the poem leaves is known in many cultures: whoever talks without looking at the window may lose what he wanted most. Thor, who in other stories wins with the hammer, here wins with patience.
 
-To stack, at exactly the right moment, one question upon another until the sun rises, play [Thor's questions](/en/game-thors-questions/).
+To stack, at exactly the right moment, one question upon another until the sun rises, play [Thor's questions](/game-thors-questions/).

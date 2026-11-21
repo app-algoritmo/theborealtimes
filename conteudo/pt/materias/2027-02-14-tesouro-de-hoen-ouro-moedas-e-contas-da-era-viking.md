@@ -44,4 +44,4 @@ Em resumo, o que as fontes dão é isto: o achado é de 1834. A primeira fonte c
 
 As duas fontes divergem nas contagens. Não se sabe como o dono juntou objetos tão distantes, se por saque, comércio ou presente. O motivo do depósito também é debatido, entre uma oferenda religiosa e um esconderijo, e as fontes não resolvem. A primeira fonte trata o local como Hokksund e a segunda como Nedre Hoen, em Øvre Eiker, e esse detalhe de nome de lugar não é explicado por nenhuma das duas.
 
-Para ligar contas numa única linha sem repetir nenhuma, como num colar, jogue [O colar de Hoen](/jogo-o-colar-de-hoen/).
+Para ligar contas numa única linha sem repetir nenhuma, como num colar, jogue [O colar de Hoen](/pt/jogo-o-colar-de-hoen/).

@@ -23,4 +23,4 @@ Hver runde viser sju mynter med verdier. Trykk på myntene for å legge dem samm
 
 ## Historien bak
 
-I 1999 fant arkeologer på Gotland mer enn 14 000 mynter og nesten 500 sølvarmringer. Spillet med å legge sammen til 21 er oppfunnet. Les historien i [Spillings: sølvskatten på 67 kilo funnet på Gotland under en filmopptak](/no/2026/12/27/spillings-tesouro-prata-gotland-1999/).
+I 1999 fant arkeologer på Gotland mer enn 14 000 mynter og nesten 500 sølvarmringer. Spillet med å legge sammen til 21 er oppfunnet. Les historien i [Spillings: sølvskatten på 67 kilo funnet på Gotland under en filmopptak](/no/spillings-solvskatten-pa-67-kilo-funnet-pa-gotland-under/).

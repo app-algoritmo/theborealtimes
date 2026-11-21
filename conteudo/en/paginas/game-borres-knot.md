@@ -23,4 +23,4 @@ A knot of threads joins the points on the board. Tap a point to start and then, 
 
 ## The story behind it
 
-The Borre mound cemetery, in Vestfold, Norway, has seven large mounds and 21 smaller ones. The Borre style, tied to the place, is known for animal and knot ornaments, often used on harnesses. The one-stroke knot is invented. Read the story in [Borre, in Vestfold: seven great mounds, a buried ship and the style of knots and animals](/en/2027/01/24/borre-cemiterio-montes-vestfold-estilo-borre/).
+The Borre mound cemetery, in Vestfold, Norway, has seven large mounds and 21 smaller ones. The Borre style, tied to the place, is known for animal and knot ornaments, often used on harnesses. The one-stroke knot is invented. Read the story in [Borre, in Vestfold: seven great mounds, a buried ship and the style of knots and animals](/borre-in-vestfold-seven-great-mounds-a-buried-ship/).

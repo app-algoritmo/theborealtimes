@@ -37,4 +37,4 @@ It is worth remembering that the image of Tapio as a well-defined figure, with a
 
 Today, the image of the forest as a place of respect remains strong in Finland, where the right of public access to nature allows people to walk and pick wild berries on land that is not their own. There is no proof that this right comes from the old beliefs, and scholars avoid that direct link. But it can be noted that Finnish culture still treats the woods as a place to be known, and not merely used.
 
-To cross Tapio's forest without getting lost, reading the signs around every step, play [Tapio's forest](/en/game-tapios-forest/).
+To cross Tapio's forest without getting lost, reading the signs around every step, play [Tapio's forest](/game-tapios-forest/).

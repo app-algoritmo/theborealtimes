@@ -39,4 +39,4 @@ Snorri tells that the Norwegians were caught unprepared. The king was supposedly
 
 Magnus was the last Norwegian king to die in battle abroad. His death ended the attempt to keep direct Norwegian rule in the region. But the *Heimskringla*, which is the most detailed source, is also considered the least reliable in its details, having been written long afterwards. That is why the sagas are worth reading alongside the Irish sources.
 
-To cross a field where hidden ambushes lie, using the clues of the numbers, play [The ambush field](/en/game-the-ambush-field/).
+To cross a field where hidden ambushes lie, using the clues of the numbers, play [The ambush field](/game-the-ambush-field/).

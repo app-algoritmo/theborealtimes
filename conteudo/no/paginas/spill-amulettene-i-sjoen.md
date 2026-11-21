@@ -23,4 +23,4 @@ card:
 
 ## Historien bak
 
-Ved Tissø i Danmark har utgravinger funnet Tors hammere, valkyrje-spenner og våpen og smykker som ble kastet i sjøen. Kortparene er oppfunnet. Les historien i [Tissø, Tyrs sjø, i Danmark: ofringer og amuletter fra vikingtiden](/no/2027/03/14/tisso-o-lago-de-tyr-na-dinamarca-oferendas-e-amuletos-da-era-viking/).
+Ved Tissø i Danmark har utgravinger funnet Tors hammere, valkyrje-spenner og våpen og smykker som ble kastet i sjøen. Kortparene er oppfunnet. Les historien i [Tissø, Tyrs sjø, i Danmark: ofringer og amuletter fra vikingtiden](/no/tisso-tyrs-sjo-i-danmark-ofringer-og-amuletter/).

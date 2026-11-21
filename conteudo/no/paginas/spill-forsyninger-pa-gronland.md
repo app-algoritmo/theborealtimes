@@ -23,4 +23,4 @@ Trykk eller dra på skjermen for å flytte den reisende langs stranda. Fang de f
 
 ## Historien bak
 
-I Flóamanna saga forliser Torgils på Grønland, kameratene blir syke og han blir sittende med en baby å ta vare på. Regnet av is og kasser er oppfunnet. Les historien i [Flóamanna saga: Torgils Orrabeinsfostre og reisen til Grønland](/no/2027/03/07/floamanna-saga-porgils-orrabeinsfostri-e-a-viagem-a-groenlandia/).
+I Flóamanna saga forliser Torgils på Grønland, kameratene blir syke og han blir sittende med en baby å ta vare på. Regnet av is og kasser er oppfunnet. Les historien i [Flóamanna saga: Torgils Orrabeinsfostre og reisen til Grønland](/no/floamanna-saga-torgils-orrabeinsfostre-og-reisen/).

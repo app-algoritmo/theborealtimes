@@ -23,4 +23,4 @@ I Járnviðr sprer skogen seg fra ett hjørne. Trykk på en farge i paletten for
 
 ## Historien bak
 
-I Völuspá oppdrar en gammel kvinne i Járnviðr, Jernskogen, Fenrirs ætt; forskerne identifiserer henne mest sannsynlig med Angrboða, mor til Fenrir, Midgardsormen og Hel i Gylfaginning. Flekken som sprer seg er oppfunnet. Les historien i [Angrboða, jotunkvinnen i Járnviðr: mor til Fenrir, Midgardsormen og Hel](/no/2027/01/24/angrboda-giganta-jarnvidr-mae-de-fenrir/).
+I Völuspá oppdrar en gammel kvinne i Járnviðr, Jernskogen, Fenrirs ætt; forskerne identifiserer henne mest sannsynlig med Angrboða, mor til Fenrir, Midgardsormen og Hel i Gylfaginning. Flekken som sprer seg er oppfunnet. Les historien i [Angrboða, jotunkvinnen i Járnviðr: mor til Fenrir, Midgardsormen og Hel](/no/angrboda-jotunkvinnen-i-jarnvidr-mor-til-fenrir/).

@@ -37,4 +37,4 @@ Some customs are recorded without certain dating, such as throwing bread and ste
 
 The article marks as conjecture the link with Grimm's thesis, the etymology of *oskorei*, Höfler's theory (1934) of ritual warrior bands and the idea that medieval hunt legends shaped the witches' sabbath, which Hutton says has been "fundamentally challenged". The article does not describe a Norwegian Christmas tradition; it only notes that the Dutch Sinterklaas may have been influenced by the hunt, which is a theory.
 
-To capture the rival's pieces on a 6-by-6 board, as in a hunt through the night, play [The Åsgårdsreia hunt](/en/game-the-asgardsreia-hunt/).
+To capture the rival's pieces on a 6-by-6 board, as in a hunt through the night, play [The Åsgårdsreia hunt](/game-the-asgardsreia-hunt/).

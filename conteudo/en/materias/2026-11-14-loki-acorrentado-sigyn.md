@@ -41,4 +41,4 @@ Loki stays there, bound, until Ragnarök. In the *Völuspá*, the seeress also s
 
 Scholars debate Loki's place in the old Norse religion. Almost everything we know of him comes from Christian texts, and nothing indicates that he was worshipped. Some see him as a literary figure, created to give the myths humor and conflict. Others think the sources hide something older.
 
-To hold Sigyn's bowl, play [Sigyn's bowl](/en/game-sigyns-bowl/).
+To hold Sigyn's bowl, play [Sigyn's bowl](/game-sigyns-bowl/).

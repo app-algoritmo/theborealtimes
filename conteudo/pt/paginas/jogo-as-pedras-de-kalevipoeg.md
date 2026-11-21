@@ -23,4 +23,4 @@ Cada pedra mostra o peso (número grande) e o valor (número com estrela). Toque
 
 ## A história por trás
 
-O Kalevipoeg, epopeia estoniana organizada por Friedrich Reinhold Kreutzwald depois de 1850, narra as façanhas de um herói gigante, entre elas o arremesso de pedras. Escolher pedras para o saco é invenção. Leia a história em [Kalevipoeg: a epopeia estoniana de Kreutzwald, o herói gigante e as pedras arremessadas](/2027/01/31/kalevipoeg-epopeia-estoniana-kreutzwald/).
+O Kalevipoeg, epopeia estoniana organizada por Friedrich Reinhold Kreutzwald depois de 1850, narra as façanhas de um herói gigante, entre elas o arremesso de pedras. Escolher pedras para o saco é invenção. Leia a história em [Kalevipoeg: a epopeia estoniana de Kreutzwald, o herói gigante e as pedras arremessadas](/pt/kalevipoeg-epopeia-estoniana-kreutzwald/).

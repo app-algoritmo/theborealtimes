@@ -52,4 +52,4 @@ Norna-Gest arrives at the court of Óláfr Tryggvason with a gold piece from Sig
 
 The page consulted notes that King Eiríkr of Uppsala is identified in several ways, and that the tale has details, such as the death of Lyngvi, that the *Völsunga saga* does not. The date of composition is approximate.
 
-To shield the candle's flame from the winds that come, play [The flame of the candle](/en/game-the-flame-of-the-candle/).
+To shield the candle's flame from the winds that come, play [The flame of the candle](/game-the-flame-of-the-candle/).

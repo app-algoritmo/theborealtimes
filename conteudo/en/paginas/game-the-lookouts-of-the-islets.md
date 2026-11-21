@@ -23,4 +23,4 @@ The board is divided into islets of different colours. Place one lookout on each
 
 ## The story behind it
 
-In Harðar saga ok Hólmverja, Hörðr and his companions, outlaws, take refuge on an islet in Hvalfjörður, which comes to be called Geirshólm. The lookouts on this board are invented. Read the story in [Harðar saga ok Hólmverja: the outlaw, the islet of Geirshólmr and the sons' revenge](/en/2027/01/31/hardar-saga-holmverja-geirsholmr-hvalfjordur/).
+In Harðar saga ok Hólmverja, Hörðr and his companions, outlaws, take refuge on an islet in Hvalfjörður, which comes to be called Geirshólm. The lookouts on this board are invented. Read the story in [Harðar saga ok Hólmverja: the outlaw, the islet of Geirshólmr and the sons' revenge](/hardar-saga-ok-holmverja-the-outlaw-the-islet-of-geirsholmr/).

@@ -23,4 +23,4 @@ Hver rune er laget av streker. Dra fingeren (eller musen) fra den gule prikken t
 
 ## Historien bak
 
-Jellingsteinen ble reist omkring 965 av kong Harald Blåtann og bruker det yngre futhark. Runene i spillet er forenklet, og valget av fem er vårt. Les historien i [Jellingsteinen: det Harald Blåtann lot risse inn i runer](/no/2026/11/13/jelling-harald-runas/).
+Jellingsteinen ble reist omkring 965 av kong Harald Blåtann og bruker det yngre futhark. Runene i spillet er forenklet, og valget av fem er vårt. Les historien i [Jellingsteinen: det Harald Blåtann lot risse inn i runer](/no/jellingsteinen-det-harald-blatann-lot-risse-inn-i-runer/).

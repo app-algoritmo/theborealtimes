@@ -35,4 +35,4 @@ The giant also confesses that, if Thor's hammer blows had landed, the first woul
 
 Scholars read the story as a reflection on limits, on what strength cannot defeat, and on the power of illusion. It is also a comic tale, with a mighty god beaten by tricks. Like much of the Prose Edda, it has reached us only through Snorri's text, and it is hard to separate what comes from oral tradition from the author's literary invention.
 
-To face the tests, play [Útgarða-Loki's challenges](/en/game-utgarda-lokis-challenges/).
+To face the tests, play [Útgarða-Loki's challenges](/game-utgarda-lokis-challenges/).

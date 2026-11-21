@@ -23,4 +23,4 @@ Hver runde krever en nøyaktig sum. Trykk på brikkene for å legge sammen til d
 
 ## Historien bak
 
-Gulating var en årlig forsamling på Vestlandet, fra omkring 900 til 1300, og eldre Gulatingslova er den eldste skriftlige norske loven. Brikkene er oppfunnet. Les historien i [Gulating, forsamlingen på Vestlandet: fra år 900 til Magnus Lagabøtes skrevne lov](/no/2027/01/10/gulating-assembleia-lei-oeste-da-noruega/).
+Gulating var en årlig forsamling på Vestlandet, fra omkring 900 til 1300, og eldre Gulatingslova er den eldste skriftlige norske loven. Brikkene er oppfunnet. Les historien i [Gulating, forsamlingen på Vestlandet: fra år 900 til Magnus Lagabøtes skrevne lov](/no/gulating-forsamlingen-pa-vestlandet-fra-ar-900-til-magnus/).

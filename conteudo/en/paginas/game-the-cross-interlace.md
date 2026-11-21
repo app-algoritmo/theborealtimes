@@ -23,4 +23,4 @@ Tap a tile to rotate it. Connect the thread from the entrance, top left, to the 
 
 ## The story behind it
 
-The Gosforth Cross in Cumbria carries carved knotwork and scenes linked to Norse mythology. The tile game is made up. Read the story in [The Gosforth Cross: a Christian monument in England with scenes from Norse myths](/en/2026/11/21/gosforth-cruz-cumbria/).
+The Gosforth Cross in Cumbria carries carved knotwork and scenes linked to Norse mythology. The tile game is made up. Read the story in [The Gosforth Cross: a Christian monument in England with scenes from Norse myths](/the-gosforth-cross-a-christian-monument-in-england/).

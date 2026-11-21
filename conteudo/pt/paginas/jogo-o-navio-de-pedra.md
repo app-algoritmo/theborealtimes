@@ -23,4 +23,4 @@ Em Ales stenar, 59 blocos desenham um navio de 67 metros. Doze lugares formam o 
 
 ## A história por trás
 
-Em Kåseberga, na Escânia, 59 blocos de até 1.800 quilos desenham um navio de 67 metros, que o radiocarbono data de cerca de 1.400 anos atrás. Os doze lugares do jogo, o marcador e o ritmo são invenção. Leia a história em [Ales stenar: o navio de pedra da Suécia e o debate sobre a sua idade](/2027/03/28/ales-stenar-o-navio-de-pedra-da-suecia-e-o-debate-sobre-a-sua-idade/).
+Em Kåseberga, na Escânia, 59 blocos de até 1.800 quilos desenham um navio de 67 metros, que o radiocarbono data de cerca de 1.400 anos atrás. Os doze lugares do jogo, o marcador e o ritmo são invenção. Leia a história em [Ales stenar: o navio de pedra da Suécia e o debate sobre a sua idade](/pt/ales-stenar-o-navio-de-pedra-da-suecia-e-o-debate-sobre-a-sua-idade/).

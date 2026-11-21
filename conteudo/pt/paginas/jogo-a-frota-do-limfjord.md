@@ -23,4 +23,4 @@ Os navios acendem um por um, numa certa ordem. Quando terminarem, toque nos navi
 
 ## A história por trás
 
-Em 1085, Canuto IV chamou a frota ao Limfjord para invadir a Inglaterra, mas ela nunca zarpou. A ordem dos navios é invenção. Leia a história em [Canuto IV da Dinamarca: a frota que não partiu e a morte em Odense, em 1086](/2027/03/07/canuto-iv-da-dinamarca-a-frota-que-nao-partiu-e-a-morte-em-odense-em-1086/).
+Em 1085, Canuto IV chamou a frota ao Limfjord para invadir a Inglaterra, mas ela nunca zarpou. A ordem dos navios é invenção. Leia a história em [Canuto IV da Dinamarca: a frota que não partiu e a morte em Odense, em 1086](/pt/canuto-iv-da-dinamarca-a-frota-que-nao-partiu-e-a-morte-em-odense-em-1086/).

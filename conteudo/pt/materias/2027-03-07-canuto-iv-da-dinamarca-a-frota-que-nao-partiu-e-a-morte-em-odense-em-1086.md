@@ -45,4 +45,4 @@ Canuto quis tomar a coroa da Inglaterra, mas a frota se desfez antes de zarpar. 
 
 A causa da revolta é desconhecida: o verbete cita as multas depois da convocação de 1085 e a política de dízimos. Ælnoth fala de lança no flanco, mas tomografias de 2008 indicaram uma estocada no sacro, atravessando o abdômen, sem sinais de luta contra muitos. O ano de nascimento é aproximado. Alguns veem nele um tirano violento, outros um rei rigoroso mas justo.
 
-Para reunir a frota do Limfjord, repetindo a ordem em que os navios acendem, jogue [A frota do Limfjord](/jogo-a-frota-do-limfjord/).
+Para reunir a frota do Limfjord, repetindo a ordem em que os navios acendem, jogue [A frota do Limfjord](/pt/jogo-a-frota-do-limfjord/).

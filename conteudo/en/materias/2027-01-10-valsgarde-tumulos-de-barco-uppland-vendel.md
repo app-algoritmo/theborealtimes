@@ -43,4 +43,4 @@ The page does not describe who the buried people were, does not give dates for e
 
 The number of boat graves, as seen, appears with two values. The sizes of the boats were not given. And the finds cited are examples, not an inventory.
 
-To dig a grid and find the boats hidden by the numbers on the edges, play [The excavation at Valsgärde](/en/game-the-excavation-at-valsgarde/).
+To dig a grid and find the boats hidden by the numbers on the edges, play [The excavation at Valsgärde](/game-the-excavation-at-valsgarde/).

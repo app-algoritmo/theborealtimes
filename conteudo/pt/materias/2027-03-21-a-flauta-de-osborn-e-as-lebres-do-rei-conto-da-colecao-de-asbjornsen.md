@@ -44,4 +44,4 @@ Osborn, o mais novo de três irmãos, ajuda uma velha, ganha uma flauta que espa
 
 Não se sabe como esse conto circulava antes de ser coletado, nem como era contado de boca em boca. A tradução de Dasent, publicada em inglês, pode ter alterado detalhes e nomes da versão norueguesa.
 
-Para reunir as lebres na hora certa antes que fujam do campo, jogue [As lebres do rei](/jogo-as-lebres-do-rei/).
+Para reunir as lebres na hora certa antes que fujam do campo, jogue [As lebres do rei](/pt/jogo-as-lebres-do-rei/).

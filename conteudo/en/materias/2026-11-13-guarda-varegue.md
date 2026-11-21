@@ -42,4 +42,4 @@ Direct evidence of the Norse presence is inside Hagia Sophia itself. In a galler
 
 In Sweden, runestones commemorate those who went east and did not return. One of them speaks of men who went far in search of gold and died in the east. The rivers and the city were a destination of wealth and of risk.
 
-To feel the work of dragging a ship overland, play [Drag the ship](/en/game-drag-the-ship/).
+To feel the work of dragging a ship overland, play [Drag the ship](/game-drag-the-ship/).

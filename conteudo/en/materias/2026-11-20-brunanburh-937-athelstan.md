@@ -37,4 +37,4 @@ For historians, what matters is the result. Æthelstan consolidated his rule, an
 
 The battle also matters for what it reveals about the alliances of the time. A Viking king of Dublin, a Scottish king and a British king of Strathclyde joined together against a Saxon king, which shows that the political map of the British Isles was not divided only between Vikings and English. English sources gave the victory a special place in memory, and the *Chronicle* recorded it in verse, in the poem we cited above.
 
-To win the field piece by piece, turning the opponent's squares as in a battle, play [The field of Brunanburh](/en/game-the-field-of-brunanburh/).
+To win the field piece by piece, turning the opponent's squares as in a battle, play [The field of Brunanburh](/game-the-field-of-brunanburh/).

@@ -41,4 +41,4 @@ The rebuilt house, the Þjóðveldisbærinn, was raised from 1974 to 1977 to mar
 
 The texts show a chiefs' farm, with a long-fire hall, pantry and smithy, and a replica that is an architects' hypothesis. The exact date of the burial and the length of the occupation are points on which the sources diverge.
 
-To cut blocks of turf from a rectangle, without being left with the last block, play [The turf blocks](/en/game-the-turf-blocks/).
+To cut blocks of turf from a rectangle, without being left with the last block, play [The turf blocks](/game-the-turf-blocks/).

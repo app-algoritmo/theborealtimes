@@ -23,4 +23,4 @@ En knute av tråder knytter sammen punktene på brettet. Trykk på et punkt for 
 
 ## Historien bak
 
-Gravfeltet ved Borre i Vestfold i Norge har sju store hauger og 21 mindre. Borrestilen, knyttet til stedet, er kjent for dyre- og knuteornamenter, ofte brukt på seletøy. Knuten i én strek er oppfunnet. Les historien i [Borre i Vestfold: sju store hauger, et nedgravd skip og stilen med knuter og dyr](/no/2027/01/24/borre-cemiterio-montes-vestfold-estilo-borre/).
+Gravfeltet ved Borre i Vestfold i Norge har sju store hauger og 21 mindre. Borrestilen, knyttet til stedet, er kjent for dyre- og knuteornamenter, ofte brukt på seletøy. Knuten i én strek er oppfunnet. Les historien i [Borre i Vestfold: sju store hauger, et nedgravd skip og stilen med knuter og dyr](/no/borre-i-vestfold-sju-store-hauger-et-nedgravd-skip/).

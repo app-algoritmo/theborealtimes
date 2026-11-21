@@ -23,4 +23,4 @@ Fifteen rivets hold the hull planks, and one of them is loose. Tap a rivet and t
 
 ## The story behind it
 
-The Ladby ship in Denmark was a Viking chieftain's grave, its hull held by rivets. The jumping game is made up. Read the story in [Ladby: the Danish ship grave that left only marks and rivets in the earth](/en/2026/11/21/ladby-navio-funerario-dinamarca/).
+The Ladby ship in Denmark was a Viking chieftain's grave, its hull held by rivets. The jumping game is made up. Read the story in [Ladby: the Danish ship grave that left only marks and rivets in the earth](/ladby-the-danish-ship-grave-that-left-only-marks-and-rivets/).

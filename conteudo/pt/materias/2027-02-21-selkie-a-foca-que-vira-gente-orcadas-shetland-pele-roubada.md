@@ -52,4 +52,4 @@ O selkie é uma foca que tira a pele, e o conto central é o da pele roubada. As
 
 De onde vieram as histórias não se sabe. As teorias dos caiaques sami, dos inuit, dos espanhóis e das almas de afogados são especulação. Os estudiosos discordam sobre a confusão com os Finfolk. Os resumos usados aqui também não dão uma data para o início da tradição.
 
-Para tocar nas focas antes de elas sumirem nas rochas, jogue [As focas das rochas](/jogo-as-focas-das-rochas/).
+Para tocar nas focas antes de elas sumirem nas rochas, jogue [As focas das rochas](/pt/jogo-as-focas-das-rochas/).

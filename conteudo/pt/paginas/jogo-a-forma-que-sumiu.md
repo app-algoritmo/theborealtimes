@@ -23,4 +23,4 @@ Algumas formas coloridas aparecem por alguns segundos. Memorize quais são e ond
 
 ## A história por trás
 
-Holger Danske, ou Ogier, o Dinamarquês, aparece já na Chanson de Roland, por volta de 1060. Segundo a lenda dinamarquesa, ele dorme sob o castelo de Kronborg e desperta quando a Dinamarca está em perigo. Lembrar formas é invenção. Leia a história em [Holger Danske, ou Ogier, o Dinamarquês: do cavaleiro de Carlos Magno ao herói que dorme em Kronborg](/2027/01/31/holger-danske-ogier-o-dinamarques-kronborg/).
+Holger Danske, ou Ogier, o Dinamarquês, aparece já na Chanson de Roland, por volta de 1060. Segundo a lenda dinamarquesa, ele dorme sob o castelo de Kronborg e desperta quando a Dinamarca está em perigo. Lembrar formas é invenção. Leia a história em [Holger Danske, ou Ogier, o Dinamarquês: do cavaleiro de Carlos Magno ao herói que dorme em Kronborg](/pt/holger-danske-ogier-o-dinamarques-kronborg/).

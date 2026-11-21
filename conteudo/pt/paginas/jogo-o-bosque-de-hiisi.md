@@ -23,4 +23,4 @@ Um bosque sagrado tem 16 clareiras e quatro tipos de árvore, numerados de 1 a 4
 
 ## A história por trás
 
-Em estoniano, hiis é um bosque sagrado, geralmente em terreno elevado; em finlandês, hiisi nomeou primeiro lugares sagrados e só depois seres míticos. No Kalevala, Hiisi faz o alce de Lemminkäinen com madeira podre, salgueiro e juncos. O bosque numerado é invenção. Leia a história em [Hiisi: de bosque sagrado a demônio, e o alce que ele fez de madeira podre](/2027/01/24/hiisi-bosque-sagrado-alce-kalevala/).
+Em estoniano, hiis é um bosque sagrado, geralmente em terreno elevado; em finlandês, hiisi nomeou primeiro lugares sagrados e só depois seres míticos. No Kalevala, Hiisi faz o alce de Lemminkäinen com madeira podre, salgueiro e juncos. O bosque numerado é invenção. Leia a história em [Hiisi: de bosque sagrado a demônio, e o alce que ele fez de madeira podre](/pt/hiisi-bosque-sagrado-alce-kalevala/).

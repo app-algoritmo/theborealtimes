@@ -23,4 +23,4 @@ A cabeça de Mímir faz cinco perguntas sobre a história. Toque na resposta cer
 
 ## A história por trás
 
-Nas fontes nórdicas, o poço de Mímir fica sob uma raiz de Yggdrasil, e a cabeça de Mímir aparece na Ynglinga saga. As perguntas do jogo são invenção. Leia a história em [Mímir e o poço da sabedoria: o olho que Odin deu e a cabeça que continuou falando](/2026/11/15/mimir-poco-sabedoria/).
+Nas fontes nórdicas, o poço de Mímir fica sob uma raiz de Yggdrasil, e a cabeça de Mímir aparece na Ynglinga saga. As perguntas do jogo são invenção. Leia a história em [Mímir e o poço da sabedoria: o olho que Odin deu e a cabeça que continuou falando](/pt/mimir-poco-sabedoria/).

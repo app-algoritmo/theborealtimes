@@ -23,4 +23,4 @@ Cada casa vai receber um número em sequência. Você começa no 1: toque numa c
 
 ## A história por trás
 
-Harald Klak foi um rei dinamarquês batizado em 826. Ligar números vizinhos até a foz de um rio é invenção. Leia a história em [Harald Klak: o rei dinamarquês batizado em 826, aliado de Luís o Piedoso](/2027/02/28/harald-klak-o-rei-dinamarques-batizado-em-826-aliado-de-luis-o-piedoso/).
+Harald Klak foi um rei dinamarquês batizado em 826. Ligar números vizinhos até a foz de um rio é invenção. Leia a história em [Harald Klak: o rei dinamarquês batizado em 826, aliado de Luís o Piedoso](/pt/harald-klak-o-rei-dinamarques-batizado-em-826-aliado-de-luis-o-piedoso/).

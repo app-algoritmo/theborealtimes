@@ -23,4 +23,4 @@ Toque num tonel e depois em outro para passar o hidromel de cima. Só se despeja
 
 ## A história por trás
 
-Na saga dos Ynglingar, o rei Fróði morre num tonel de hidromel. A mistura de cores do jogo é invenção. Leia a história em [A Ynglinga saga: o rei que se afogou num tonel de hidromel e os reis de Uppsala](/2026/11/21/ynglinga-fjolnir-tonel-de-hidromel/).
+Na saga dos Ynglingar, o rei Fróði morre num tonel de hidromel. A mistura de cores do jogo é invenção. Leia a história em [A Ynglinga saga: o rei que se afogou num tonel de hidromel e os reis de Uppsala](/pt/ynglinga-fjolnir-tonel-de-hidromel/).

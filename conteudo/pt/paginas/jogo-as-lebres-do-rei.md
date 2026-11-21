@@ -23,4 +23,4 @@ Osborn guarda as lebres do rei no campo. De vez em quando uma lebre fica alaranj
 
 ## A história por trás
 
-No conto de Asbjørnsen na tradução de Dasent, Osborn guarda as lebres do rei com uma flauta mágica que dispersa e reúne o que ele quiser. As lebres que fogem para a beira do campo são invenção. Leia a história em [A flauta de Osborn e as lebres do rei: conto da coleção de Asbjørnsen](/2027/03/21/a-flauta-de-osborn-e-as-lebres-do-rei-conto-da-colecao-de-asbjornsen/).
+No conto de Asbjørnsen na tradução de Dasent, Osborn guarda as lebres do rei com uma flauta mágica que dispersa e reúne o que ele quiser. As lebres que fogem para a beira do campo são invenção. Leia a história em [A flauta de Osborn e as lebres do rei: conto da coleção de Asbjørnsen](/pt/a-flauta-de-osborn-e-as-lebres-do-rei-conto-da-colecao-de-asbjornsen/).

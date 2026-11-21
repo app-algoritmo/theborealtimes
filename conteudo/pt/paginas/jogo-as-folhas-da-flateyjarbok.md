@@ -23,4 +23,4 @@ Os números ao lado de cada linha e no alto de cada coluna dizem quantas casas s
 
 ## A história por trás
 
-A Flateyjarbók tem 225 folhas de pergaminho, escritas entre 1387 e 1394, e o padre Magnús Þórhallsson também desenhou as ilustrações. O desenho do jogo é invenção. Leia a história em [Flateyjarbók, o Livro de Flatey: 225 folhas de pergaminho escritas na Islândia no século XIV](/2027/01/10/flateyjarbok-livro-de-flatey-manuscrito-islandes/).
+A Flateyjarbók tem 225 folhas de pergaminho, escritas entre 1387 e 1394, e o padre Magnús Þórhallsson também desenhou as ilustrações. O desenho do jogo é invenção. Leia a história em [Flateyjarbók, o Livro de Flatey: 225 folhas de pergaminho escritas na Islândia no século XIV](/pt/flateyjarbok-livro-de-flatey-manuscrito-islandes/).

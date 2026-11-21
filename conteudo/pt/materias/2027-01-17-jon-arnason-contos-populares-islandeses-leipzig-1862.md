@@ -51,4 +51,4 @@ O artigo dá peso a dois nomes: Konrad Maurer, cuja viagem de 1858 reativou o tr
 
 O artigo diz que Jón ou Magnús podem ter "retocado" a redação dos contos, mas que as alterações conhecidas são pequenas. Ele observa que os gostos estilísticos islandeses diferiam pouco dos do resto da Europa, o que talvez reduza o efeito de qualquer edição. Uma nota de rodapé diz que o manuscrito foi descoberto em Munique, em 1971. O artigo não organiza os contos em categorias como trolls ou fantasmas, e esta matéria também não.
 
-Para ligar quatro fichas em linha, como quem puxa o fio de um conto, contra um adversário, jogue [Os fios dos contos de Jón](/jogo-os-fios-dos-contos-de-jon/).
+Para ligar quatro fichas em linha, como quem puxa o fio de um conto, contra um adversário, jogue [Os fios dos contos de Jón](/pt/jogo-os-fios-dos-contos-de-jon/).

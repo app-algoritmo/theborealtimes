@@ -23,4 +23,4 @@ På Ægirs fest drikker gudene fort. Fem horn står på bordet og tømmes etter 
 
 ## Historien bak
 
-I prosainnledningen til Lokasenna tar Ægir imot gudene på en fest der ølet skjenker seg selv og tjenerne Eldir og Fimafeng blir rost. Hornene som tømmes, og rytmen i spillet er oppdiktet. Les historien i [Ægir: havets jotun som byr gudene på øl, og festen i Lokasenna](/no/2027/03/21/aegir-o-gigante-do-mar-que-oferece-cerveja-aos-deuses-e-a-festa-da-lokasenna/).
+I prosainnledningen til Lokasenna tar Ægir imot gudene på en fest der ølet skjenker seg selv og tjenerne Eldir og Fimafeng blir rost. Hornene som tømmes, og rytmen i spillet er oppdiktet. Les historien i [Ægir: havets jotun som byr gudene på øl, og festen i Lokasenna](/no/aegir-havets-jotun-som-byr-gudene-pa-ol-og-festen/).

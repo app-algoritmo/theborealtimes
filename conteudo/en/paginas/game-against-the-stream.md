@@ -23,4 +23,4 @@ Row upriver, against the current. Tap the left side of the screen to row with th
 
 ## The story behind it
 
-In the tale, the husband searches upstream and finds his wife above a waterfall, floating against the current. The rowing is invented. Read the story in [The Contrary-Minded Woman: a Norwegian tale about stubbornness and the river](/en/2027/03/07/a-mulher-contraria-conto-noruegues-sobre-a-teimosia-e-o-rio/).
+In the tale, the husband searches upstream and finds his wife above a waterfall, floating against the current. The rowing is invented. Read the story in [The Contrary-Minded Woman: a Norwegian tale about stubbornness and the river](/the-contrary-minded-woman-a-norwegian-tale-about/).

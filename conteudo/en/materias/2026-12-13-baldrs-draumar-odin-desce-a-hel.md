@@ -35,4 +35,4 @@ The poem survives in the manuscript AM 748 I 4to, and not in the Codex Regius. S
 
 The poem does not show Odin winning. On the contrary, he is the god who knows everything and still cannot change what the seeress says. The scene of the grave, with the god asking advice from a dead woman, was later taken up by Richard Wagner and by a ballet by the composer Geirr Tveitt, from 1938.
 
-To find, among face-down cards, the pairs of signs that appear in Baldr's dreams, play [Baldr's dreams](/en/game-baldrs-dreams/).
+To find, among face-down cards, the pairs of signs that appear in Baldr's dreams, play [Baldr's dreams](/game-baldrs-dreams/).

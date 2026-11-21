@@ -23,4 +23,4 @@ Lyset går ut fra bålet til venstre og går rett fram til det treffer et speil.
 
 ## Historien bak
 
-Orknøyingenes saga gjør Torfinn Sigurdsson til en krigerjarl med land i Skottland. Speilene og bålene er oppfunnet. Les historien i [Torfinn den mektige: jarlen på Orknøyene som ifølge sagaen ble jarl som femåring](/no/2026/12/27/thorfinn-conde-das-orcades-orkneyinga-saga/).
+Orknøyingenes saga gjør Torfinn Sigurdsson til en krigerjarl med land i Skottland. Speilene og bålene er oppfunnet. Les historien i [Torfinn den mektige: jarlen på Orknøyene som ifølge sagaen ble jarl som femåring](/no/torfinn-den-mektige-jarlen-pa-orknoyene-som-ifolge-sagaen/).

@@ -41,4 +41,4 @@ Capitulares carolíngios proibiam vender armas a estrangeiros, e um édito de 86
 
 Espadas desse tipo eram caras e simbolizavam status. Em geral tinham dois gumes, lâmina com cerca de 80 a 90 centímetros e pouco mais de um quilo, e muitas foram achadas em túmulos e em leitos de rios. Uma espada Ulfberht de aço de qualidade rara não era, portanto, o equipamento comum de um guerreiro, e sim um bem raro que passava de mão em mão.
 
-Para forjar uma lâmina Ulfberht golpe a golpe, jogue [A lâmina Ulfberht](/jogo-lamina-ulfberht/).
+Para forjar uma lâmina Ulfberht golpe a golpe, jogue [A lâmina Ulfberht](/pt/jogo-lamina-ulfberht/).

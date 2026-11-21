@@ -23,4 +23,4 @@ Trykk på en brikke for å snu den. Koble tråden fra inngangen, øverst til ven
 
 ## Historien bak
 
-Gosforth-korset i Cumbria har skårne knuter og motiver knyttet til norrøn mytologi. Brikkespillet er diktet opp. Les historien i [Gosforth-korset: et kristent monument i England med scener fra norrøne myter](/no/2026/11/21/gosforth-cruz-cumbria/).
+Gosforth-korset i Cumbria har skårne knuter og motiver knyttet til norrøn mytologi. Brikkespillet er diktet opp. Les historien i [Gosforth-korset: et kristent monument i England med scener fra norrøne myter](/no/gosforth-korset-et-kristent-monument-i-england-med-scener/).

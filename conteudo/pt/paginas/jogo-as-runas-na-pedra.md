@@ -23,4 +23,4 @@ Os números de cada linha e de cada coluna dizem quantas casas seguidas devem se
 
 ## A história por trás
 
-Há mais de vinte pedras rúnicas suecas que lembram os homens da expedição de Ingvar ao leste. As pistas do jogo são invenção. Leia a história em [As pedras de Ingvar: a expedição sueca a Serkland que ficou gravada em pedra](/2026/11/20/ingvar-pedras-runicas-serkland/).
+Há mais de vinte pedras rúnicas suecas que lembram os homens da expedição de Ingvar ao leste. As pistas do jogo são invenção. Leia a história em [As pedras de Ingvar: a expedição sueca a Serkland que ficou gravada em pedra](/pt/ingvar-pedras-runicas-serkland/).

@@ -23,4 +23,4 @@ The carved planks of the portal are out of order. Slide them until they are in s
 
 ## The story behind it
 
-The north portal of the church of Urnes has interlaced animals and gave the Urnes style its name. Sliding planks into the right order is invented. Read the story in [Urnes: Norway’s stave church and the carving style that bears its name](/en/2027/02/28/urnes-a-igreja-de-madeira-da-noruega-e-o-estilo-que-leva-seu-nome/).
+The north portal of the church of Urnes has interlaced animals and gave the Urnes style its name. Sliding planks into the right order is invented. Read the story in [Urnes: Norway’s stave church and the carving style that bears its name](/urnes-norway-s-stave-church-and-the-carving-style/).

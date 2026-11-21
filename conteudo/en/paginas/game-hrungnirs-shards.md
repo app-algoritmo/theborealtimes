@@ -23,4 +23,4 @@ The stone giant shatters, and the shards fly. Swipe your finger (or mouse) acros
 
 ## The story behind it
 
-According to Snorri, a shard of Hrungnir's whetstone stayed lodged in Thor's head. The rain of shards is made up for the game. Read the story in [Thor against Hrungnir: the duel with the stone-hearted giant and the shard that stayed in the god's head](/en/2026/11/19/hrungnir-thor-duelo-pedra-amolar/).
+According to Snorri, a shard of Hrungnir's whetstone stayed lodged in Thor's head. The rain of shards is made up for the game. Read the story in [Thor against Hrungnir: the duel with the stone-hearted giant and the shard that stayed in the god's head](/thor-against-hrungnir-the-duel-with-the-stone-hearted-giant/).

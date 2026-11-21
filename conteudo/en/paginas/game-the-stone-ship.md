@@ -23,4 +23,4 @@ At Ale's Stones, 59 blocks draw a ship 67 metres long. Twelve places form the ou
 
 ## The story behind it
 
-At Kåseberga, in Scania, 59 blocks of up to 1,800 kilograms draw a ship 67 metres long, which radiocarbon dates to about 1,400 years ago. The twelve places in the game, the marker and the rhythm are invention. Read the story in [Ale's Stones: the stone ship of Sweden and the debate over its age](/en/2027/03/28/ales-stenar-o-navio-de-pedra-da-suecia-e-o-debate-sobre-a-sua-idade/).
+At Kåseberga, in Scania, 59 blocks of up to 1,800 kilograms draw a ship 67 metres long, which radiocarbon dates to about 1,400 years ago. The twelve places in the game, the marker and the rhythm are invention. Read the story in [Ale's Stones: the stone ship of Sweden and the debate over its age](/ale-s-stones-the-stone-ship-of-sweden-and-the-debate/).

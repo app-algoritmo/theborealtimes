@@ -38,4 +38,4 @@ The sources link Skaði to winter, hunting and skiing, and describe her hunting 
 
 The story is told mostly by Snorri Sturluson, in the 13th century, from older poems. Some parts, such as the laughter provoked by Loki, appear only in that version, and it is not known how much comes from oral tradition and how much is the author's own work.
 
-To repeat the goddess's choice, play [Choose by the feet](/en/game-choose-by-the-feet/).
+To repeat the goddess's choice, play [Choose by the feet](/game-choose-by-the-feet/).

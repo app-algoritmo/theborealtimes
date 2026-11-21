@@ -40,4 +40,4 @@ A origem do apelido "Dente Azul" é incerta. A tecnologia sem fio Bluetooth foi 
 
 Desde 2020, o museu Kongernes Jelling apresenta o sítio e a história dos reis que o construíram.
 
-Para gravar runas como as das pedras, jogue [Gravar as runas](/jogo-gravar-as-runas/).
+Para gravar runas como as das pedras, jogue [Gravar as runas](/pt/jogo-gravar-as-runas/).

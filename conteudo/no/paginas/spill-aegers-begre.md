@@ -23,4 +23,4 @@ Du og Loke setter fram begre i Ægers hall. Trykk på en kolonne (eller bruk pil
 
 ## Historien bak
 
-I Lokasenna håner Loke gudene ved Ægers gjestebud til Tor kommer. Begerspillet er diktet opp for spillet. Les historien i [Lokasenna: Ægers fest der Loke hånet gudene én etter én](/no/2026/11/21/lokasenna-festa-de-aegir/).
+I Lokasenna håner Loke gudene ved Ægers gjestebud til Tor kommer. Begerspillet er diktet opp for spillet. Les historien i [Lokasenna: Ægers fest der Loke hånet gudene én etter én](/no/lokasenna-aegers-fest-der-loke-hanet-gudene-en-etter/).

@@ -47,4 +47,4 @@ Em 2023, os fortes circulares da Era Viking, entre eles Borgring, foram inscrito
 
 A data exata de construção não foi confirmada: o forte costuma ser datado de cerca de 970–980, mas a datação conclusiva não foi feita. Só pequenas partes foram escavadas, e a finalidade é incerta, podendo ter sido defender rotas de comércio ou servir de caserna. A atribuição a Harald Dente Azul é plausível, mas não provada. O nome também variou ao longo do tempo, e a renomeação de 2014 causou desacordo público.
 
-Para ligar todos os caminhos ao centro de um anel de fortaleza, jogue [Os caminhos de Borgring](/jogo-os-caminhos-de-borgring/).
+Para ligar todos os caminhos ao centro de um anel de fortaleza, jogue [Os caminhos de Borgring](/pt/jogo-os-caminhos-de-borgring/).

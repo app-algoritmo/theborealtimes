@@ -23,4 +23,4 @@ Toque num bloco: ele e todos os blocos acima e à direita dele são cortados. De
 
 ## A história por trás
 
-No vale de Þjórsárdalur, a cinza do Hekla cobriu fazendas medievais. O jogo de cortar blocos de turfa é invenção. Leia a história em [Stöng: a fazenda islandesa soterrada pelo Hekla e a réplica que mostra como ela podia ser](/2026/12/27/stong-fazenda-islandesa-soterrada-hekla/).
+No vale de Þjórsárdalur, a cinza do Hekla cobriu fazendas medievais. O jogo de cortar blocos de turfa é invenção. Leia a história em [Stöng: a fazenda islandesa soterrada pelo Hekla e a réplica que mostra como ela podia ser](/pt/stong-fazenda-islandesa-soterrada-hekla/).

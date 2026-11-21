@@ -39,4 +39,4 @@ A saga continua com o filho de Hervör, Heiðrekr, que se torna um rei sábio e 
 
 A cena também mostra o que a sociedade da saga esperava de uma mulher: Hervör rompe esse papel ao viver como guerreiro, e a saga não a condena por isso. A figura da mulher guerreira aparece em outras fontes, como as *skjaldmeyjar*, as "donzelas do escudo" de Saxo Grammaticus, mas os estudiosos lembram que esses textos são literários e não dizem quantas mulheres, se alguma, de fato lutaram.
 
-Para repetir a ordem exata das chamas e das runas que Hervör viu nos túmulos, jogue [As chamas de Hervör](/jogo-as-chamas-de-hervor/).
+Para repetir a ordem exata das chamas e das runas que Hervör viu nos túmulos, jogue [As chamas de Hervör](/pt/jogo-as-chamas-de-hervor/).

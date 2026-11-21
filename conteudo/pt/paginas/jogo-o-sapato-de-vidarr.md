@@ -23,4 +23,4 @@ Toque (ou aperte Espaço) para parar o marcador dentro da faixa dourada. Cinco p
 
 ## A história por trás
 
-No Ragnarök, Víðarr pisa a mandíbula de Fenrir com um sapato feito de sobras de couro. O marcador é invenção. Leia a história em [Víðarr: o deus silencioso, o sapato grosso e o fim do lobo Fenrir](/2026/12/27/vidarr-deus-silencioso-sapato-fenrir/).
+No Ragnarök, Víðarr pisa a mandíbula de Fenrir com um sapato feito de sobras de couro. O marcador é invenção. Leia a história em [Víðarr: o deus silencioso, o sapato grosso e o fim do lobo Fenrir](/pt/vidarr-deus-silencioso-sapato-fenrir/).

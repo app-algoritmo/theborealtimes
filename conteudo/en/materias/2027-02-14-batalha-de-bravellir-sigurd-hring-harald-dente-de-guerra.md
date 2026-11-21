@@ -40,4 +40,4 @@ The main accounts, that of Saxo, around 1200, and the *Sögubrot* and the *Herva
 
 The site is mostly placed near Bråviken, in Östergötland, but there is a minority position that takes it to Småland, at Lake Åsnen. The sagas give about 770, and one hypothesis links the battle to the year 827, around Harald Klak. Some propose a real Swedish king who won a battle in the 8th century, others consider it only legend, and the *Nationalencyklopedin*, in 1990, says the historical basis is impossible to verify. One theory sees the origin in a civil war over the Danish throne after the death of Hemming, in 812. The second source warns that the sources differ on Sigurd's parents, that a saga about him cited in the *Bósa saga* has been lost and that the *Sögubrot* breaks off before the end.
 
-To find, from numbers on the edges, where ships are hidden on a map, play [The fleet of Brávellir](/en/game-the-fleet-of-bravellir/).
+To find, from numbers on the edges, where ships are hidden on a map, play [The fleet of Brávellir](/game-the-fleet-of-bravellir/).

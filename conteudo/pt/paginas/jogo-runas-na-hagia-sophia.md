@@ -23,4 +23,4 @@ Procure no painel de mármore as cinco runas entre dezenas de rabiscos e toque e
 
 ## A história por trás
 
-Na Hagia Sophia, em Istambul, há grafites em runas atribuídos a um certo Halfdan. As runas do jogo são invenção. Leia a história em [Halfdan na Hagia Sophia: as runas que um nórdico riscou no mármore de Constantinopla](/2026/11/17/halfdan-runas-hagia-sophia/).
+Na Hagia Sophia, em Istambul, há grafites em runas atribuídos a um certo Halfdan. As runas do jogo são invenção. Leia a história em [Halfdan na Hagia Sophia: as runas que um nórdico riscou no mármore de Constantinopla](/pt/halfdan-runas-hagia-sophia/).

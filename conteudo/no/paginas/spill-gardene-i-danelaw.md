@@ -23,4 +23,4 @@ Hver rute er verdt et tall: kolonnens tall, for radsummen, og radens tall, for k
 
 ## Historien bak
 
-I Danelaw i England finnes det mange hundre stedsnavn av skandinavisk opprinnelse; «-by» betyr en gård og er det vanligste leddet, og «-thorpe» en sekundær bosetning. Å merke ruter etter summer er oppfunnet. Les historien i [Norrøne stedsnavn i England: hva -by, -thorpe og -thwaite sier om Danelaw](/no/2027/02/21/toponimos-nordicos-na-inglaterra-by-thorpe-e-o-danelaw/).
+I Danelaw i England finnes det mange hundre stedsnavn av skandinavisk opprinnelse; «-by» betyr en gård og er det vanligste leddet, og «-thorpe» en sekundær bosetning. Å merke ruter etter summer er oppfunnet. Les historien i [Norrøne stedsnavn i England: hva -by, -thorpe og -thwaite sier om Danelaw](/no/norrone-stedsnavn-i-england-hva-by-thorpe-og-thwaite-sier/).

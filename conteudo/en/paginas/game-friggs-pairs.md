@@ -23,4 +23,4 @@ Tap a piece to turn it over and tap another to find its match. If they match, th
 
 ## The story behind it
 
-Frigg is Odin's wife and lives at Fensalir. The matching game is invented. Read the story in [Frigg: Odin's wife who made everything swear to spare Baldr, except one thing](/en/2027/01/03/frigg-esposa-de-odin-fensalir/).
+Frigg is Odin's wife and lives at Fensalir. The matching game is invented. Read the story in [Frigg: Odin's wife who made everything swear to spare Baldr, except one thing](/frigg-odin-s-wife-who-made-everything-swear-to-spare-baldr/).

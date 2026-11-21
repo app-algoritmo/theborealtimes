@@ -42,4 +42,4 @@ O mito dá uma origem divina à arte dos escaldos. Os poetas nórdicos chamavam 
 
 Os nomes do mito carregam sentido. *Óðrerir*, o nome do recipiente principal, pode ser lido como "o que agita a inspiração", já que *óðr* quer dizer fúria, mas também inspiração poética, e vem da mesma raiz do nome de Odin. *Bölverkr*, o disfarce do deus, significa algo como "malfeitor". Snorri mostra assim um Odin que busca a poesia por esperteza, e não por mérito, o que combina com a imagem do deus nas fontes: sábio, mas pouco confiável.
 
-Para beber os três goles sem derramar, jogue [Os três goles](/jogo-os-tres-goles/).
+Para beber os três goles sem derramar, jogue [Os três goles](/pt/jogo-os-tres-goles/).

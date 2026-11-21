@@ -23,4 +23,4 @@ Nordlyset har tent himmelen. Når du trykker på et lys, bytter det og de fire n
 
 ## Historien bak
 
-Konungs skuggsjá, en norsk tekst fra 1200-tallet, prøver å forklare nordlyset. Lysspillet er diktet opp. Les historien i [Nordlyset i det gamle Norden: Kongespeilet, ildreven og samenes stillhet](/no/2026/11/21/aurora-boreal-konungs-skuggsja/).
+Konungs skuggsjá, en norsk tekst fra 1200-tallet, prøver å forklare nordlyset. Lysspillet er diktet opp. Les historien i [Nordlyset i det gamle Norden: Kongespeilet, ildreven og samenes stillhet](/no/nordlyset-i-det-gamle-norden-kongespeilet-ildreven/).

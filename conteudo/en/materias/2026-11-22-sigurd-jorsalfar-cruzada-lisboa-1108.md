@@ -35,4 +35,4 @@ Historians point out that the Iberian part of the journey appears only in the Sc
 
 It is the first time that a Scandinavian king made a journey of this kind, and the saga uses it to show the kingdom of Norway as part of the Christian world of Europe.
 
-To connect, piece by piece, one edge of the board to the other before the rival, like someone crossing a continent from end to end, play [Sigurd's road](/en/game-sigurds-road/).
+To connect, piece by piece, one edge of the board to the other before the rival, like someone crossing a continent from end to end, play [Sigurd's road](/game-sigurds-road/).

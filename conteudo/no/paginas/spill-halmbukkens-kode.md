@@ -23,4 +23,4 @@ Det finnes en hemmelig kode på 4 knipper, i 5 farger som kan gjentas. Velg farg
 
 ## Historien bak
 
-Julebukken, den skandinaviske julebukken, har hatt mange former, og halmbukken er vanlig den dag i dag. Koden er oppfunnet. Les historien i [Den skandinaviske julebukken: fra siste kornband til den store halmbukken](/no/2027/01/03/julbock-bode-de-natal-palha-escandinavia/).
+Julebukken, den skandinaviske julebukken, har hatt mange former, og halmbukken er vanlig den dag i dag. Koden er oppfunnet. Les historien i [Den skandinaviske julebukken: fra siste kornband til den store halmbukken](/no/den-skandinaviske-julebukken-fra-siste-kornband/).

@@ -23,4 +23,4 @@ En rad føtter vises under teppet. Trykk på paret uten flekker før tidslinjen 
 
 ## Historien bak
 
-I myten lar gudene Skade velge mann bare etter føttene, og hun velger Njord i tro om at han er Balder. Flekkene og tidsgrensen er diktet opp for spillet. Les historien i [Skade velger mann etter føttene: fjellgudinnen som ville ha Balder og fikk Njord](/no/2026/11/15/skadi-escolhe-pelos-pes/).
+I myten lar gudene Skade velge mann bare etter føttene, og hun velger Njord i tro om at han er Balder. Flekkene og tidsgrensen er diktet opp for spillet. Les historien i [Skade velger mann etter føttene: fjellgudinnen som ville ha Balder og fikk Njord](/no/skade-velger-mann-etter-fottene-fjellgudinnen-som-ville-ha/).

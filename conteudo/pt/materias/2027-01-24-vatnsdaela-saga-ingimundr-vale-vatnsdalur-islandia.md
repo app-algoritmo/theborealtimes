@@ -47,4 +47,4 @@ O artigo lista a tradução de Jane Smiley de 2001, na Penguin Classics, dentro 
 
 Não se sabe qual das datas, fim do século XIII ou século XIV, é a certa para a composição original, e o artigo não resolve a questão. As versões completas são de papel e tardias, e o fragmento antigo é pequeno. O artigo não discute outros personagens, episódios e lugares da saga, e a matéria não pode dizer o que ele não diz.
 
-Para preencher um quadro de pedras claras e escuras, como quem povoa um vale, jogue [As pedras do vale](/jogo-as-pedras-do-vale/).
+Para preencher um quadro de pedras claras e escuras, como quem povoa um vale, jogue [As pedras do vale](/pt/jogo-as-pedras-do-vale/).
