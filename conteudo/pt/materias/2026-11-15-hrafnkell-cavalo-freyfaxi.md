@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/hrafnkell-freyfaxi.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cavalo castanho de crina clara num vale islandês, com um pastor jovem tentando montá-lo e um chefe de capa vermelha observando de longe com uma lança"
 fontes:
   - "Hrafnkels saga Freysgoða (Saga de Hrafnkell, sacerdote de Freyr)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/kong-lindorm.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et slottskammer i levende lys, der en ung kvinne i enkel kjole som sitter ved en seng, med en knippe kjepper, et kar med melk og et med lut ved føttene, ser på en stor grønnskjellet orm som kaster skinnet, og under skinnet tegner omrisset av en ung mann seg"
 fontes:
   - "Svend Grundtvig, *Gamle danske Minder i Folkemunde* (København, 1854–1861)"

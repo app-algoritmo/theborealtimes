@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/draupnir-anel-de-odin.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande anel de ouro pousado numa bancada de forja anã; do anel pingam, como gotas de metal, oito anéis menores, e ao fundo dois anões trabalham perto da brasa, com o martelo e o fole."
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning e Skáldskaparmál)"

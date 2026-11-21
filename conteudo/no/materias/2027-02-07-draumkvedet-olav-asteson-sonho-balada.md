@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/draumkvedet-olav-asteson.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann som sover på en halmseng i et trehus i Telemark, med vintersnø i vinduene; over ham, som tåke, vises en tornehei, en svært høy bro og en svart ild, i lys fra et stearinlys."
 fontes:
   - "Wikipedia, «Draumkvedet» (identifikasjon, senmiddelaldersk versjon, innsamling i Lårdal og Kviteseid, handling, komposisjoner)"

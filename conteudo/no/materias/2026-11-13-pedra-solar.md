@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/pedra-solar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn navigatør i baugen på et skip som holder en klar krystall mot en grå himmel, med en gylden stråle som går gjennom krystallen og viser hvor solen skjuler seg"
 fontes:
   - "*Rauðúlfs þáttr*, i *Flateyjarbók* (slutten av 1300-tallet)"

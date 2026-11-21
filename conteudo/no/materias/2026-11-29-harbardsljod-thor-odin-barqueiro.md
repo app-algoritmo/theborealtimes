@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/harbard-barqueiro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et sund med mørkt vann i skumringen, med en sterk, rødskjegget mann på stranda og, på den andre siden, en grånet ferjemann med bredbremmet hatt i en liten båt, begge med åpne armer som om de krangler, med fjell i bakgrunnen"
 fontes:
   - "*Eldre Edda*, *Hárbarðsljóð* (Codex Regius, ca. 1270, og fragmentet AM 748 I 4to)"

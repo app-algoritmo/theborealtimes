@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/catoira-torres-de-oeste.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de duas torres de pedra em ruínas na margem de uma ria calma, sob uma ponte moderna; na água, um barco de proa alta e vela listrada se aproxima, enquanto na margem pessoas vestidas de camponeses e de guerreiros nórdicos se encaram."
 fontes:
   - "Concello de Catoira, \"Historia\" (catoira.gal)"

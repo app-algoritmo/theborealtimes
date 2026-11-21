@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/odin-runas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Qwen)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en énøyd gud som henger i en kjempeask under en stjerneklar himmel, med glødende runer som svever rundt ham."
 fontes:
   - "*Den eldre Edda*, diktet Hávamál (håndskrift fra 1200-tallet)"

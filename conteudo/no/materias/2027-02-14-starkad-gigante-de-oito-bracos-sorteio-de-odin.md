@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/starkad-sorteio-de-odin.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kraftig, eldre nordisk kriger ved kanten av en granskog, med et spyd i hånden, og en mann med bredbremmet hatt og mørkeblå kappe som ser på ham bak et tre; på bakken en trestrimmel med risset tegn og, langt borte, en båt med lyst skrog i en bukt."
 fontes:
   - "Wikipedia, «Starkad» (de to Starkadene, Odin og Tor, Vikar, Saxo, andre kilder)"

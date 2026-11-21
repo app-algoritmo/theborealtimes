@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/selkie-foca-rochas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma costa de rochas negras ao entardecer, com uma foca-cinzenta deitada numa pedra à beira da água e, ao lado, uma pele de foca largada sobre a rocha; ao fundo, uma jovem de cabelos molhados olhando o mar."
 fontes:
   - "Wikipedia, \"Selkie\" (nome, variantes, Orkney, Unst, Islândia, ilhas Faroé, Sule Skerry, teorias)"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/aud-fazenda-islandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um fiorde islandês ao amanhecer, com um navio mercante de casco largo atracado numa praia de seixos pretos, de onde desembarcam homens e mulheres com bagagem; no primeiro plano, uma mulher alta de manto azul e cabelo grisalho aponta para um vale verde entre duas montanhas, enquanto homens libertos a observam."
 fontes:
   - "*Landnámabók* (versões Sturlubók e Hauksbók), capítulos sobre Breiðafjörður"

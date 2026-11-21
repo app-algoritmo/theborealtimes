@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/guthrum-wedmore-878.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pequeno rio num vale verde, com um homem alto de barba loura vestindo uma túnica branca sendo batizado por um bispo de mitra, diante de um rei de capa azul que o observa de pé, com trinta guerreiros de armadura em silêncio na margem e cabanas de palha ao fundo."
 fontes:
   - "*Crônica Anglo-Saxônica*, entradas dos anos 878 e 890"

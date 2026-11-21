@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/halfdan-hagia-sophia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de barba loura e cota de malha agachado numa galeria de mármore claro de uma grande basílica, riscando runas num parapeito com a ponta de uma faca, enquanto a luz entra por uma janela alta"
 fontes:
   - "Estudos de epigrafia rúnica sobre as inscrições da Hagia Sophia e do Leão do Pireu"

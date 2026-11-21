@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/carneiro-e-porco-na-floresta.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma casinha de troncos com telhado de turfa no meio de uma floresta de abetos, com um carneiro, um porco, um ganso, uma lebre e um galo à porta, enquanto dois lobos cinzentos espiam atrás de uma árvore ao entardecer."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, contos populares noruegueses, tradução de George Webbe Dasent, \"Tales from the Fjeld\" (Project Gutenberg nº 36385): \"The Sheep and the Pig who Set Up House\""

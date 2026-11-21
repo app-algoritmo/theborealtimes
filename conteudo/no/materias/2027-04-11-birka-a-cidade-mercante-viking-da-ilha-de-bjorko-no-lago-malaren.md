@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/birka-a-cidade-mercante.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vik med bryggekaier av tre, handelsbåter og stolpehus på en øy med bjørketrær, med folk som losser baller med tøy og sekker med sølvmynter, og en haug med graver bak."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Birka»"

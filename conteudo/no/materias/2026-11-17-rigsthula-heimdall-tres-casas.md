@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/rigsthula-casas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy, lys vandrer i grå kappe som banker på døra til et beskjedent torvhus, med to andre hus bak, en velstelt gård og en edel hall med utskårne stolper, i skumringen"
 fontes:
   - "*Rígsþula* (Rigstula), norrønt dikt bevart ufullstendig i håndskriftet Codex Wormianus (rundt 1350)"

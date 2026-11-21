@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/tynwald-colina.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma colina artificial de quatro degraus coberta de grama, numa planície verde na Ilha de Man, com uma capela de pedra ao fundo e uma procissão de pessoas em roupas escuras e coloridas subindo ao topo, sob um céu azul com nuvens"
 fontes:
   - "*Chronicle of Man and the Isles* (crônica medieval, século XIII)"

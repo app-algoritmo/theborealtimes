@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/snorri-sturluson.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de barba escura sentado a uma mesa de madeira em um salão islandês, escrevendo num pergaminho à luz de uma vela, com livros e uma banheira de pedra quente ao fundo"
 fontes:
   - "Edda em Prosa (Gylfaginning, Skáldskaparmál e Háttatal), atribuída a Snorri Sturluson"

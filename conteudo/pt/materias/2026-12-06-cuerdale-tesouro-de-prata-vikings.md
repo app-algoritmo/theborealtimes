@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/cuerdale-tesouro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um dique de terra à beira de um rio num dia nublado do século XIX, com operários de colete e chapéu de feltro abrindo um baú de chumbo cheio de moedas e barras de prata cintilantes; ao fundo, um homem de casaca observa com a mão na boca."
 fontes:
   - "British Museum, *The Cuerdale Hoard* (catálogo e ficha da coleção)"

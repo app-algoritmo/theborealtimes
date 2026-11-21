@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/espadas-ulfberht.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vikingsmed som hamrer et glødende sverd på et ambolt blant gnister i et steinverksted"
 fontes:
   - "Anne Stalsberg, studie om produksjon og distribusjon av Ulfberht-sverd, *Zeitschrift für Archäologie des Mittelalters* (2008)"

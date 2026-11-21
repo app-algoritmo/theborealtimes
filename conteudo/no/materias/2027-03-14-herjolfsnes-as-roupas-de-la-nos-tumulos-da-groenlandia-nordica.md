@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/herjolfsnes-roupas-de-la.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kirkegård ved en fjord av stein og is, med en åpen utgraving der biter av rød og grå ull ligger: en hette med lang tipp, en rund hatt og en sammenbrettet kjole; i bakgrunnen ruinene av en liten steinkirke."
 fontes:
   - "Poul Nørlund, Buried Norsemen at Herjolfsnes (1924)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/disir-disablot-uppsala.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy trehall i Uppsala en kald natt seint på vinteren, med kvinner i mørke kapper og andre i hvite rundt en offerstein farget rød, et bål og malte bjelker; utenfor, et snødekt marked, boder og vogner, og en mørk hest som snubler ved hallen."
 fontes:
   - "Wikipedia, «Dís» (betydning, belegg i Den eldre Edda, Merseburg-formelen, sagaer, forhold til valkyrjer, norner og følger)"

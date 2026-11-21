@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/bergtatt-montanha.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma jovem de saia vermelha e lenço andando sozinha ao crepúsculo por uma encosta rochosa da Noruega, com a abertura de uma caverna iluminada por uma luz dourada atrás de uma pedra, e figuras difusas de criaturas com caudas espiando entre as rochas"
 fontes:
   - "Peter Christen Asbjørnsen, *Norske Huldre-Eventyr og Folkesagn* (1845–1848)"

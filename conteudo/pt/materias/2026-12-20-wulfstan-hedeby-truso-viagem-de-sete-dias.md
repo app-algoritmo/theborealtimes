@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/wulfstan-hedeby-truso.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio mercante de vela quadrada navegando no Báltico ao amanhecer, com um homem de capa no leme olhando para a costa baixa à direita, onde se veem florestas e cabanas; ao longe, ilhas verdes à esquerda e, ao fundo, um porto com cais de madeira e barcos pequenos, sob nuvens claras."
 fontes:
   - "Wikipedia, \"Wulfstan of Hedeby\" (viajante, viagem c. 880, terras citadas, bibliografia)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/sigyn-e-a-tigela.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto sentada numa caverna escura, segurando uma tigela de pedra sobre um homem acorrentado a rochas, com uma serpente pendurada no teto e uma gota de luz caindo."
 fontes:
   - "Edda poética: Völuspá (estrofe 35) e prosa que fecha a Lokasenna"

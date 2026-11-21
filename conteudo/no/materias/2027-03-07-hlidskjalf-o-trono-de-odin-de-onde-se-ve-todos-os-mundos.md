@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/hlidskjalf-trono-de-odin.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et svært høyt sete i mørkt tre i en hall med sølvtak, der en gråskjegget gud i blå kappe ser gjennom en åpning ut over et enormt landskap av fjell, hav og skyer; to ravner sitter på armlenene."
 fontes:
   - "Wikipedia-artikkelen «Hlidskjalf» (Grímnismál, Skírnismál, Gylfaginning)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/gudrun-sonhos.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk kvinne med hvit hodeduk foran en torvgård i kveldslys, med fire uskarpe mannssilhuetter bak og en grå fjord"
 fontes:
   - "Laksdøla saga"

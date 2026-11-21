@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/ales-stenar-navio-de-pedra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande navio formado por blocos de pedra em pé, com proa e popa mais altas, no topo de um penhasco coberto de grama sobre o mar Báltico, com o sol baixo atrás e uma pessoa pequena caminhando entre as pedras."
 fontes:
   - "Märta Strömberg, \"Ale's Stones: A Monument of Recycled Boulders?\", Lund Archaeological Review 7, p. 77-87, Universidade de Lund (publicado em 2003)"

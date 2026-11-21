@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/bragi-deus-poesia-runas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trehall hos en norrøn høvding, med ild midt i rommet og utskårne bjelker, der en stående mann med flettet skjegg framsier vers for tilhørere på benker; på et bord et drikkehorn, og i bakgrunnen malte skjold på veggen, i varmt fakkellys."
 fontes:
   - "Wikipedia, «Bragi» (eddiske og skaldiske kilder, Bragi Boddason, etymologi, forskeres tolkninger)"

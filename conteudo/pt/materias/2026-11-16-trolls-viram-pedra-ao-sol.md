@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/trolls-pedra-sol.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de três trolls grandes, de nariz comprido e cabelos de musgo, correndo por uma montanha ao amanhecer, com os primeiros raios de sol tocando um deles, cuja perna já parece de pedra"
 fontes:
   - "Coleções de contos populares escandinavos do século XIX, como Norske Folkeeventyr, de Asbjørnsen e Moe"

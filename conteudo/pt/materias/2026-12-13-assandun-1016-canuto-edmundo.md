@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/assandun-1016-campo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma colina verde sob céu cinzento, com duas linhas de guerreiros de escudos e lanças em lados opostos; à frente de um dos lados, um rei de cabelo louro e capa vermelha ergue a espada, enquanto, no flanco do outro, um cavaleiro de armadura se afasta com seus homens."
 fontes:
   - "*Encomium Emmae Reginae* (c. 1040), relato do ataque de Canuto à Inglaterra"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/hymir-caldeirao-thor.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão gelado de gigantes, onde um deus ruivo e musculoso, de barba grossa, ergue sobre a cabeça um caldeirão enorme, com as alças batendo nos calcanhares, enquanto um gigante de barba coberta de gelo e uma velha de muitas cabeças o observam ao fundo."
 fontes:
   - "*Edda Poética*, *Hymiskviða* (Codex Regius, c. 1270)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/cuerdale-tesouro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en jordvoll ved en elv en overskyet dag på 1800-tallet, med arbeidere i vest og filthatt som åpner en blykiste full av glitrende mynter og sølvbarrer; i bakgrunnen ser en mann i frakk på med hånden mot munnen."
 fontes:
   - "British Museum, *The Cuerdale Hoard* (samlingskatalog og katalogpost)"

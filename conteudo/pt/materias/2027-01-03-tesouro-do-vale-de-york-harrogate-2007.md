@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/vale-de-york-tesouro-prata.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo de pasto inglês num dia frio de janeiro, com um homem e um menino de casaco de inverno segurando um detector de metais, e uma cova rasa onde aparece um vaso de prata dourada cheio de moedas, com uma pulseira grossa de ouro e pedaços de prata cortada ao lado; ao fundo, uma cerca de pedra baixa, ovelhas e um céu claro."
 fontes:
   - "Wikipedia, \"Vale of York Hoard\" (descoberta, conteúdo, datação, inquérito de tesouro, aquisição, origem dos objetos)"

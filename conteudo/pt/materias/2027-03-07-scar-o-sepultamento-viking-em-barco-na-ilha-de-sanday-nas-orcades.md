@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/scar-barco-orkney.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia de dunas e capim sob céu de tempestade, com a forma de um barco comprido delimitada por pedras e rebites de ferro no chão aberto; dentro dela, três silhuetas deitadas e, ao lado, uma placa de osso com o desenho de um dragão e uma espada, sob a luz fria da manhã."
 fontes:
   - "Verbete \"Scar boat burial\", Wikipédia"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/audun-urso-polar-cais.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i en enkel kappe som går langs en snødekt kai og leder en stor isbjørn i en kjetting; i bakgrunnen et skip med høy stavn og omrisset av hvite fjell under en blek himmel."
 fontes:
   - "Wikipedia, «The Tale of Auðun of the West Fjords» (sammendrag, håndskrifter, årstall, forskere som siteres)"

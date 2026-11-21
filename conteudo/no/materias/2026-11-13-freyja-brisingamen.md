@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/freyja-brisingamen.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av gudinnen Frøya i en dvergegrotte opplyst av esser, mens hun mottar et skinnende gullhalsbånd"
 fontes:
   - "*Den eldre Edda*, diktet Þrymskviða (håndskrift fra 1200-tallet)"

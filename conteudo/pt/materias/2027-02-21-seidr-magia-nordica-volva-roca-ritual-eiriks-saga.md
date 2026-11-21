@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/seidr-volva-roca-ritual.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto azul-escuro sentada numa plataforma elevada dentro de um salão, segurando um bastão com a ponta em forma de cesto e ornado de metal, enquanto jovens mulheres cantam ao redor e a luz de uma fogueira treme nas paredes de madeira."
 fontes:
   - "norse-mythology.org, \"Seiðr\" (a palavra, a prática, Eiríks saga rauða, Freyja, Odin, argr, Neil Price)"

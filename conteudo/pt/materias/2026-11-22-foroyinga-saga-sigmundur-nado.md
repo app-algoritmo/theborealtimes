@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/foroyinga-nado.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enseada de falésias verdes e escuras nas Ilhas Faroé sob um céu cinzento, com um homem forte de cabelo molhado nadando em águas agitadas em direção a uma praia de areia escura, enquanto, na costa atrás dele, homens armados observam de uma colina"
 fontes:
   - "*Færeyinga saga*, ed. Ólafur Halldórsson (Stofnun Árna Magnússonar, 1987)"

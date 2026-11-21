@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/groenlandia-hvalsey.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av steinruinene av en middelalderkirke uten tak ved en grønn grønlandsk fjord, med isfjell bak, sauer som beiter mellom steinene og en klar sensommerhimmel"
 fontes:
   - "*Grønlendingenes saga* og *Eirik den raudes saga* (1200-tallet), om grunnleggelsen av kolonien"

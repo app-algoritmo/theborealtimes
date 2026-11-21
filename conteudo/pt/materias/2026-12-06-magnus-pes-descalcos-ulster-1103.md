@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/magnus-ulster-1103.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia irlandesa ao amanhecer, com um drácar encalhado e guerreiros noruegueses de escudos redondos avançando por um campo de relva; entre a vegetação rasteira, lanceiros irlandeses escondidos preparam uma emboscada, enquanto um rei de capa vermelha e pernas à mostra olha para trás."
 fontes:
   - "Snorri Sturluson, *Heimskringla*, \"Saga de Magnus Pés-Descalços\" (c. 1230; trad. Lee M. Hollander, University of Texas Press, 1964)"

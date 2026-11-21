@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/morkinskinna-pergaminho-bolorento-reis.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et gammelt pergament, gulnet og med mørke muggflekker i kantene, åpent på et trebord i et kongelig bibliotek av stein, med tekst i spalter og en rød forsiringsbokstav; ved siden av et lys, en fjærpenn og et blekkhorn, og i bakgrunnen hyller med andre kodekser i mykt lys sent på ettermiddagen."
 fontes:
   - "Wikipedia, «Morkinskinna» (navn, datering, håndskrift GKS 1009 fol., tidsrom, skaldestrofer, þættir, forhold til Fagrskinna og Heimskringla)"

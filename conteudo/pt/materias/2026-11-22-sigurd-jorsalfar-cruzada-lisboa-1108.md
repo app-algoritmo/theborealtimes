@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/sigurd-cruzada.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma frota de navios longos de velas listradas passando diante de uma costa rochosa e ensolarada com uma cidade fortificada na colina, enquanto um jovem rei de manto vermelho e coroa simples observa da proa do primeiro navio, com a cabeça de dragão dourada à frente"
 fontes:
   - "Snorri Sturluson, *Heimskringla*, *Sigurðar saga Jórsalafara* (c. 1230)"

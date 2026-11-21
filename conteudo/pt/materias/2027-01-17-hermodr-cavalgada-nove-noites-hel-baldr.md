@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/hermodr-cavalgada-hel-baldr.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cavaleiro de capa escura montado num grande cavalo cinzento de oito patas, galopando de noite por um vale fundo e sombrio rumo a uma ponte coberta de ouro sobre um rio negro; ao lado da ponte, uma jovem de vestido claro o observa com uma lamparina, e ao fundo se vê o portão de um salão de pedra sob um céu sem estrelas."
 fontes:
   - "Wikipedia, \"Hermóðr\" (Gylfaginning, cap. 49; Hyndluljóð; Hákonarmál; Beowulf; Codex Regius)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/pedra-rok.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor grå stein dekket av runer på en svensk eng, med en trekirke i bakgrunnen og lave skyer, og en mann i kappe som berører steinens overflate"
 fontes:
   - "Britannica, oppslag Rök runestone"

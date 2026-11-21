@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/magni-modi-filhos-de-thor.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um menino de poucos dias, de força enorme, erguendo com as duas mãos o pé gigantesco de um gigante de pedra caído sobre o pescoço de um deus de barba ruiva, numa planície de lama e tempestade; ao longe, um cavalo dourado de crina brilhante observa, e dois jovens guerreiros de pé, lado a lado, aparecem num campo de ruínas ao amanhecer."
 fontes:
   - "Wikipedia, \"Móði and Magni\" (significado dos nomes, mãe de Magni, Hymiskviða, Þórsdrápa, Hárbarðsljóð, Gylfaginning, Skáldskaparmál, Vafþrúðnismál, estudos de Lindow e Simek)"

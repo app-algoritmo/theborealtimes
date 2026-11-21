@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/maldon-calcada.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma estreita calçada de pedra cercada de água num estuário ao amanhecer, com três guerreiros anglo-saxões com escudos redondos defendendo a passagem contra uma horda de vikings do outro lado"
 fontes:
   - "A Batalha de Maldon, poema em inglês antigo (fragmento de 325 versos)"

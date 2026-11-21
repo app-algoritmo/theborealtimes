@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/spillings-tesouro-gotland.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en baltisk øy med flate jorder og lave steinmurer ved daggry, hvor to arkeologer i mørke jakker og hansker knelende over et oppbrutt plankegulv avdekker to bøtter fulle av sølvmynter og sammenrullede sølvarmringer; ved siden av et bukk med vekt og en lykt, og i bakgrunnen en gård av stein og tre."
 fontes:
   - "Wikipedia, «Spillings Hoard» (oppdagelse, vekt, mynter, armringer, datering, gårdens kontekst)"

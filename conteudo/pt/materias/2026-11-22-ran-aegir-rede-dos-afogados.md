@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/ran-rede.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do fundo do mar em tons de verde e azul escuro, com uma mulher de cabelos longos e flutuantes segurando uma grande rede de pesca que sobe em direção à superfície, nove ondas em forma de jovens ao redor e, ao fundo, o brilho dourado de um salão submerso"
 fontes:
   - "Snorri Sturluson, *Skáldskaparmál* (c. 1220, capítulos sobre Ægir, Rán e suas filhas)"

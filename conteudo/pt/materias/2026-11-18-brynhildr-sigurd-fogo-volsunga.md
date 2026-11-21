@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/brynhildr-fogo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de armadura clara adormecida sobre uma colina rochosa, cercada por um anel de chamas altas e uma muralha de escudos, enquanto um cavaleiro de capa azul e espada na mão se aproxima a cavalo pelo fogo"
 fontes:
   - "Autor desconhecido, *Völsunga saga*, a Saga dos Volsungos (século XIII)"

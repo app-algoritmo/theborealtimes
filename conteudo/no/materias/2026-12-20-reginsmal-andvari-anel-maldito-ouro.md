@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/reginsmal-andvari-ouro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk foss i en norrøn skog, med en langskjegget dverg som sitter på huk i vannet, halvveis forvandlet til en gjedde, og en gud i rød kappe som holder et garn på bredden; i bakgrunnen en oterskinn på bakken, dekket av hauger med gull, og en gullring som glinser over det siste værhåret."
 fontes:
   - "*Den poetiske Edda*, oversatt av Henry Adams Bellows (1936), prosa og noter til «Reginsmál» (Mythopedia, Poetic Edda-biblioteket)"

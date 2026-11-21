@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/gudbrand-da-encosta-troca.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bonde med filthatt som går langs en fjellvei i Norge med en hane under armen, bak ham en hest, en gris, en geit, en sau og en gås som han alt har byttet bort, vist som lyse silhuetter langs veien; i det fjerne et tømmerhus i lia med en smilende kvinne i døra."
 fontes:
   - "Wikipedia, «Gudbrand on the Hill-side» (Asbjørnsen og Moe, Dasent i 1859, handling, veddemålet om hundre dalere, Andersen i 1861, Johannes V. Jensen i 1939, temaer, AT 1415-klassifisering)"

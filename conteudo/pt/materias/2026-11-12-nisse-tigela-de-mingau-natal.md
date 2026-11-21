@@ -6,7 +6,7 @@ natureza: "Conto original"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/nisse-mingau.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pequeno duende de barba cinzenta e gorro vermelho sentado no feno em um celeiro à noite, diante de uma tigela de mingau com manteiga."
 tags: [nisse, conto-original, natal-nordico, folclore, fazenda]
 ---

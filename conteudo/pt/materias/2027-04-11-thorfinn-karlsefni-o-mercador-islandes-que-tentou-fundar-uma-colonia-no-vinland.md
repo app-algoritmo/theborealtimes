@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/thorfinn-karlsefni-no-vinland.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio longo nórdico encalhado numa praia de seixos sob céu cinzento, com homens de capa descarregando caixas, um touro marrom solto na areia e figuras de peles ao longe entre as árvores."
 fontes:
   - "Eiríks saga rauða (Saga de Érico, o Vermelho)"

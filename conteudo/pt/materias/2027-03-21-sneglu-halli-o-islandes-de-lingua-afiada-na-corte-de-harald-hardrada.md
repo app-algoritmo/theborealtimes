@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/sneglu-halli-na-corte.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de rei nórdico com um poeta islandês de capa gasta de pé diante do trono, sorrindo, um rei de barba loira com uma tigela de mingau à frente, e um anão da corte trazendo um porco assado numa travessa."
 fontes:
   - "Sneglu-Halla þáttr, em Morkinskinna e Flateyjarbók"

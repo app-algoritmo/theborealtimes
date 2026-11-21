@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/aurora-boreal.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vinternattehimmel med bølgende gardiner av grønt og fiolett lys over et snødekt landskap, med en liten blek rev som løper på en topp og slår gnister med halen, et samisk telt i det fjerne og mennesker som står stille og ser opp"
 fontes:
   - "Ukjent forfatter, *Konungs skuggsjá* (*Kongespeilet*, Norge, omkring 1250; engelsk oversettelse av Laurence M. Larson, 1917)"

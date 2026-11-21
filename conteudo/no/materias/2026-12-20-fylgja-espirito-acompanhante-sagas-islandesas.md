@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/fylgja-espirito-neve.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i kappe som går alene langs en snødekt vei i skumringen, med skyggen forvandlet til en stor ulvefigur foran ham; i bakgrunnen lyset fra en gård, og en kvinne i et blekt, nesten gjennomsiktig slør som står ved stien under et tre med bare greiner."
 fontes:
   - "Hurstwic, «Supernatural Beings» (fylgjur som vokterånder)"

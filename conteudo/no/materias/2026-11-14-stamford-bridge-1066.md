@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/stamford-ponte.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kjempestor norrøn kriger med løftet øks, alene på en trebro over en elv, mot en mengde engelske soldater en tåkete morgen"
 fontes:
   - "*Den angelsaksiske krøniken*, versjonene C, D og E, innførsler for året 1066"

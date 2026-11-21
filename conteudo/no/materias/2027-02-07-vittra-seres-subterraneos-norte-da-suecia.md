@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/vittra-gado-subterraneo-suecia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en nordlig eng med store steiner og mose under en ettermiddagshimmel; mellom steinene en mørk åpning med et svakt lys, og en liten flokk lyse kyr som beiter i nærheten, fulgt på avstand av en skikkelse i grå klær."
 fontes:
   - "Wikipedia, «Vittra» (kvinnelig vesen i Nord-Sverige, forhold til fe, sammenligning med hulderen og skogsråen)"

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/clontarf-1014.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia ampla ao entardecer com guerreiros em cota de malha lutando entre barcos varados e uma maré que sobe, um estandarte negro com corvo flutuando ao fundo e uma tenda de campanha isolada numa duna"
 fontes:
   - "*Anais de Ulster* e *Anais de Inisfallen* (registros irlandeses medievais, entrada do ano de 1014)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/thorvard-vela-do-navio.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et langskip under et stort stripete seil som skjærer gjennom bølgene foran en trebrygge, med en konge som ser på fra kaia, og ved siden av ham en stormann i grå kappe og skarlagenrød tunika som peker på seilet."
 fontes:
   - "Þorvarðs þáttr krákunefs («Fortellingen om Thorvard Kråkenebb»), oversettelse av Eiður Eyþórsson for We Vikings, basert på Morkinskinna (GKS 1009 fol.) og Flateyjarbók (GKS 1005 fol.), etter utgaven til Guðni Jónsson, Íslenzk fornrit VI (1943)"

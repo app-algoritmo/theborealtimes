@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/surtr-gigante-fogo-muspelheim.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma planície de lava sob um céu vermelho-escuro, onde uma figura gigantesca de silhueta negra avança do sul com uma espada que emite luz branca; ao fundo, uma ponte em arco-íris em chamas sobre um abismo, rios de fogo correndo entre rochas escuras e fumaça subindo em colunas."
 fontes:
   - "Wikipedia, \"Surtr\" (Völuspá, Vafþrúðnismál, Gylfaginning, Skáldskaparmál; Surtshellir; Surtsey; teorias de Simek, Phillpotts, Orchard e Lindow)"

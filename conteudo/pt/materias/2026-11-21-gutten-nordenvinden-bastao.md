@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/nordenvinden-gutten.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um menino de roupa remendada de pé numa colina batida pelo vento, com os braços erguidos, diante de uma enorme figura de nuvem com bochechas cheias soprando uma rajada, um pequeno saco de farinha voando no ar e, ao fundo, uma pousada de madeira com um estalajadeiro desconfiado"
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, *Norske Folkeeventyr* (Christiania, 1843–1844, conto \"Gutten som gik til Nordenvinden\")"

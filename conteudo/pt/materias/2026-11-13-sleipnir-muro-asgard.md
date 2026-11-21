@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/sleipnir-muro-asgard.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um gigante construtor erguendo um enorme muro de pedra ao lado de um cavalo cinzento que arrasta blocos, numa tempestade de neve"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, parte Gylfaginning, capítulo 42 (cerca de 1220)"

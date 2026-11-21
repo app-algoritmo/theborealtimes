@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/louhi-pohjola.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma paisagem de gelo e noite sem luz, com uma mulher alta de manto escuro e cabelos longos diante de uma montanha com uma porta de pedra entreaberta, deixando escapar um fino raio dourado; ao longe, dois homens com tochas se aproximam pela neve."
 fontes:
   - "Elias Lönnrot, *Kalevala* (edição de 1849), runos 47–49"

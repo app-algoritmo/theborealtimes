@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/mara-pesadelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um estábulo de madeira ao amanhecer, com dois cavalos de crinas embaraçadas em nós, um balde virado no chão, a porta entreaberta e uma sombra fina e comprida desaparecendo pela fresta, sob uma luz azulada"
 fontes:
   - "Snorri Sturluson, *Heimskringla* (por volta de 1230), em especial a *Ynglinga saga*"

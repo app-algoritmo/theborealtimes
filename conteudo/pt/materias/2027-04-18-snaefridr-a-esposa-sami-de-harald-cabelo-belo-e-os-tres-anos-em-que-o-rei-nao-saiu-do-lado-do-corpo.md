@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/snaefridr-e-o-rei-harald.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de longos cabelos louros sentado ao lado de uma cama de peles onde repousa uma jovem de rosto sereno, numa cabana de madeira à luz de velas, enquanto um velho de barba branca o chama pela porta."
 fontes:
   - "Wikipédia em inglês, artigo \"Snæfríthr Svásadottir\""

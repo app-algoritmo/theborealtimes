@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/kingittorsuaq-as-tres-vardar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha rochosa e nua do Ártico, com três pilhas de pedras formando um triângulo no alto de um monte, uma laje com runas no centro, e ao fundo um mar de gelo à luz de um sol baixo; três caçadores de peles sobem a encosta."
 fontes:
   - "Inscrição rúnica de Kingittorsuaq (Museu Nacional da Dinamarca)"

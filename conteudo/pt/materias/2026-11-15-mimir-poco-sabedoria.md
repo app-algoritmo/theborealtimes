@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/mimir-poco.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um poço de água escura sob a raiz enorme de uma árvore, com um deus de capuz e um só olho inclinado sobre a borda, e na água o reflexo de uma cabeça de barba branca de olhos fechados"
 fontes:
   - "Völuspá, estrofes 28 e 46 (Edda Poética)"

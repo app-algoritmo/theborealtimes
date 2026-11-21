@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/sneglu-halli-na-corte.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn kongssal med en islandsk skald i en slitt kappe som står foran tronen og smiler, en lyshåret konge med en grøtbolle foran seg, og en hoffdverg som bærer inn en grisesteik på et fat."
 fontes:
   - "Sneglu-Halla þáttr, i Morkinskinna og Flateyjarbók"

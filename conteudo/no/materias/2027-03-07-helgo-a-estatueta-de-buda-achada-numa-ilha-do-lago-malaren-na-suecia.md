@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/helgo-buda-de-bronze.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et utgravingsbord under en presenning, ved bredden av en rolig innsjø med mørkt vann, med en bronsestatuett av Buddha sittende på en lotusblomst i forgrunnen, ved siden av en arkeologs graveskje og en metallholk; i bakgrunnen en bjørkeskog og en trebåt."
 fontes:
   - "Wikipedia-artikkelen «Helgö»"

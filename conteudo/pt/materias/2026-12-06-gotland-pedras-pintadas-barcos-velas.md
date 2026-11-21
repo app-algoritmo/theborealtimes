@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/gotland-pedra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha de campos abertos junto ao mar, com uma laje de pedra calcária em forma de cogumelo fincada na relva; a face da pedra mostra um navio de grande vela quadrada, cavaleiros e fileiras de figuras pintadas em vermelho, azul e amarelo, enquanto duas pessoas de túnicas simples observam as imagens."
 fontes:
   - "Gotlands Museum, *Gotlandic Picture Stones* (banco de dados e texto iconográfico)"

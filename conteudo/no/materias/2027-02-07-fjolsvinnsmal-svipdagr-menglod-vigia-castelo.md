@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/fjolsvinnsmal-svipdagr-castelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung vandrer i mørk kappe foran den lukkede porten til et slott på en snødekt fjelltopp; ved siden av porten ser en langskjegget vokter ned på ham fra en steinmur, og i et opplyst vindu i bakgrunnen skimtes silhuetten av en kvinne."
 fontes:
   - "Wikipedia, «Fjölsvinnsmál» (Svipdagsmál, Gróagaldr, håndskrifter fra 1600-tallet, Hyndluljóð, balladen Ungen Sveidal, Svend Grundtvig, Sophus Bugge)"

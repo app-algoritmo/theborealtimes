@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/sieidi-pedra-sami.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enorme rocha isolada na costa norte da Noruega, em forma de figura sentada, entre bétulas, com chifres de rena e ossos de peixe dispostos diante dela e pequenos objetos de metal brilhando na terra; ao fundo, o mar cinzento sob o sol baixo da tarde, e uma mulher sámi com gorro azul e manto bordado oferecendo algo, de cabeça baixa."
 fontes:
   - "*Religions* (MDPI), v. 11, n. 7, art. 317 (2020), \"Introduction\" (sieidi, oferendas, fontes históricas e pesquisa moderna)"

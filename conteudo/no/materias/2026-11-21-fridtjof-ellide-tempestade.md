@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/fridtjof-ellide.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et høystavnet vikingskip som kjemper mot kjempebølger under en svart himmel kløvd av lyn, med en ung mann ved styreåra og roere som bøyer seg over årene og, i skyene over, to kvinnesiluetter med utslått hår"
 fontes:
   - "Ukjent forfatter, *Friðþjófs saga ins frœkna* (islandsk saga, 1300-tallet)"

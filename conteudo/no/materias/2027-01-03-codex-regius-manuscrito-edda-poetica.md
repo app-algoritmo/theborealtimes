@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/codex-regius-manuscrito-edda.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor middelalderbok som ligger åpen på et trebord i et steinrom med smalt vindu, mørke pergamentsider med linjer av tett skrift og fargede initialer; ved siden av en fjærpenn, et hornblekkhus og et lys, og i bakgrunnen en hylle med andre kodekser og et gammelt islandsk flagg."
 fontes:
   - "Britannica, «Codex Regius» og «Poetic Edda» (datering, antall dikt, sider, håndskriftets historie)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/idun-macas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma deusa com uma caixa de maçãs douradas em um jardim ao entardecer, com uma águia gigante voando acima."
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, partes Gylfaginning e Skáldskaparmál (cerca de 1220)"

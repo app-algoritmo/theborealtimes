@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/thormod-estiklestad.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo de batalha ao entardecer, com um homem ferido de capa escura sentado junto a um celeiro de madeira, uma flecha cravada ao lado do peito, recitando versos, enquanto soldados passam ao fundo sob um sol que escurece"
 fontes:
   - "*Fóstbrœðra saga*, em *The Complete Sagas of Icelanders*, vol. II (Leifur Eiríksson, 1997)"

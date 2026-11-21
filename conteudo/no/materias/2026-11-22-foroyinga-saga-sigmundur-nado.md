@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/foroyinga-nado.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vik med mørkegrønne klipper på Færøyene under grå himmel, med en sterk mann med vått hår som svømmer i urolig vann mot en mørk sandstrand, mens bevæpnede menn ser på fra en høyde på land bak ham"
 fontes:
   - "*Færeyinga saga*, utg. Ólafur Halldórsson (Stofnun Árna Magnússonar, 1987)"

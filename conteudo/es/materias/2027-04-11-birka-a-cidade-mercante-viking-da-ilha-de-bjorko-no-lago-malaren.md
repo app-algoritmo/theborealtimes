@@ -6,7 +6,7 @@ natureza: "Historia documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/birka-a-cidade-mercante.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una ensenada con muelles de madera, barcos de comercio y casas de postes en una isla de abedules, con gente descargando fardos de tela y sacos de monedas de plata, y una colina de tumbas al fondo."
 fontes:
   - "Wikipedia en inglés, artículo «Birka»"

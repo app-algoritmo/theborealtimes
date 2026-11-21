@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/skuldelev-navios.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et smalt sund med stille vann i en dansk fjord, sett ovenfra, med fem trekjøler av ulik størrelse delvis under vann og lastet med stein, mens arkeologer i ullklær ser på fra den ene bredden, og en by med stråtak i bakgrunnen"
 fontes:
   - "Ole Crumlin-Pedersen og Olaf Olsen (red.), *The Skuldelev Ships I* (Vikingeskibsmuseet / Nationalmuseet, 2002)"

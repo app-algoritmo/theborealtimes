@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/huldra-floresta.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne med langt hår og lang kjole, sett bakfra i en granskog i skumringen, med tuppen av en kuhale synlig under kanten av kjolen"
 fontes:
   - "Peter Christen Asbjørnsen, samlinger av eventyr og sagn om huldrefolket (1840-årene)"

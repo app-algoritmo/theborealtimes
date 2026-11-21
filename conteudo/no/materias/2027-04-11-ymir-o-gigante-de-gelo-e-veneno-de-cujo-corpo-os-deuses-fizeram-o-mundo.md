@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/ymir-gigante-do-gelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm, blek kjempe av blåaktig is som ligger på siden på en snøslette under en himmel uten stjerner, med tre små kappekledde skikkelser stående på skulderen og damp som stiger opp fra dalen bak."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 5 til 8)"

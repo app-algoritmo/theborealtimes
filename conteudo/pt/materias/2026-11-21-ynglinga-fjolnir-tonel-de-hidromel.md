@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/ynglinga-fjolnir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira à noite, com um enorme tonel de madeira cheio de líquido dourado no centro, escadas de madeira acima e figuras de convivas à luz de tochas e, ao fundo, três grandes montes de terra sob um céu estrelado"
 fontes:
   - "Snorri Sturluson, *Heimskringla* (*Ynglinga saga*, por volta de 1230)"

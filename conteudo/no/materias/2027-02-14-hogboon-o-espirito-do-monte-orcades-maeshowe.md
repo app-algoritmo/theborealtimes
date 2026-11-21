@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/hogboon-monte-maeshowe.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en avrundet gresshaug i et åpent, værbitt landskap på Orknøyene, med en liten lav steininngang og en mørk gang, under en stormfull himmel; ved siden av en bonde med lue som ser på haugen og, i bakgrunnen, en ku som ligger i gresset og en inngjerding av stein."
 fontes:
   - "Digit Scotland, «Think twice before excavating a mound» (Nela Scholma-Mason) (hogboon, navnet, beretninger fra Sanday og Rousay, Maeshowe)"

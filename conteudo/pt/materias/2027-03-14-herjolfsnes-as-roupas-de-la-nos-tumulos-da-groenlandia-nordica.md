@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/herjolfsnes-roupas-de-la.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cemitério à beira de um fiorde de pedra e gelo, com uma escavação aberta onde repousam peças de lã vermelha e cinza: um capuz de ponta longa, um chapéu redondo e um vestido dobrado; ao fundo, ruínas de uma pequena igreja de pedra."
 fontes:
   - "Poul Nørlund, Buried Norsemen at Herjolfsnes (1924)"

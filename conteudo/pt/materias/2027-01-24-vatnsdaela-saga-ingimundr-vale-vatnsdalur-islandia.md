@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/vatnsdaela-saga-vale-islandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale verde e largo no norte da Islândia, com um rio claro serpenteando entre colinas baixas; um homem de manto azul e um amuleto pendurado no pescoço, de pé sobre uma pedra, olha o vale à sua frente; atrás dele, uma mulher de véu escuro aponta para o norte, e ao longe se vê a baía, sob nuvens baixas e brancas."
 fontes:
   - "Wikipedia, \"Vatnsdæla saga\" (resumo, Ingimundr Þorsteinsson, Hafrsfjord, feiticeira, manuscritos AM 445 b 4to, AM 559 4to e AM 942 4to, datação, bibliografia)"

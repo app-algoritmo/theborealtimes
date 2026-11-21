@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/rollo-sena.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkskjegget vikinghøvding i ringbrynje ved siden av en frankisk stormann i blå kappe, som håndhilser foran et telt på en elvebredd, med skip med drakehode fortøyd bak og ryttere som ser på på avstand"
 fontes:
   - "Dudo av Saint-Quentin, *De moribus et actis primorum Normanniae ducum* (omkring 1015)"

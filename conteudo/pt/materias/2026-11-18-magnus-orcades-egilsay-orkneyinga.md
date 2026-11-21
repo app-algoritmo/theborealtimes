@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/magnus-egilsay.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem de manto claro ajoelhado numa pequena igreja de pedra numa ilha plana ao amanhecer, rezando de mãos juntas, enquanto na praia oito navios de proa em dragão acabam de ancorar ao lado de dois barcos menores"
 fontes:
   - "Autor desconhecido, *Orkneyinga saga*, a Saga dos Condes das Órcades (por volta de 1200, escrita na Islândia)"

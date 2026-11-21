@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/aud-fazenda-islandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk fjord ved daggry, med et bredskrogget handelsskip fortøyd på en strand med svarte småstein, der menn og kvinner med bagasje går i land; i forgrunnen peker en høy kvinne i blå kappe og med grått hår mot en grønn dal mellom to fjell, mens frigitte menn ser på henne."
 fontes:
   - "*Landnámabók* (Sturlubók- og Hauksbók-versjonene), kapitlene om Breiðafjörður"

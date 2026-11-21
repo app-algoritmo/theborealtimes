@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/draupnir-anel-de-odin.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor gullring som hviler på en dvergesmies benk; fra ringen drypper åtte mindre ringer som dråper av metall, og i bakgrunnen arbeider to dverger ved glørne, med hammer og belg."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning og Skáldskaparmál)"

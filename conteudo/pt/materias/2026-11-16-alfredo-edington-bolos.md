@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/alfredo-edington.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de barba curta sentado perto de uma lareira numa cabana, pensativo, enquanto uma mulher o observa e uns pães escuros fumegam na brasa, com pântano e névoa pela janela"
 fontes:
   - "Crônica Anglo-Saxônica (entradas dos anos 871 a 878)"

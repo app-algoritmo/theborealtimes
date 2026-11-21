@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/thorfinn-orcades-conde.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en øy med grønne enger og klipper over Nordsjøen, med en norrøn jarl i blå kappe og mørkt hår stående i baugen på et skip og se mot en strand hvor en annen flåte ligger for anker; i bakgrunnen ruinene av en liten steinkirke på en holme som henger sammen med land ved en sandstripe."
 fontes:
   - "Wikipedia, «Thorfinn the Mighty» (foreldre, styre, Karl Hundason, Rögnvald, Roma, død, tabellen «tradisjon mot bekreftelse»)"

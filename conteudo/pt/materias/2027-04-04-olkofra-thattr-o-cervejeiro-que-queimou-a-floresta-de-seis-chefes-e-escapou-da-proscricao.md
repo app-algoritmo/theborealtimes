@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/olkofra-cervejeiro-capuz.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem baixo de capuz de lã diante de uma floresta de bétulas parcialmente queimada, com fumaça subindo e seis chefes de capas coloridas em cima de uma rocha ao fundo, sob um céu de primavera na Islândia."
 fontes:
   - "Ölkofra þáttr (Möðruvallabók, século XIV), em tradução inglesa consultada na página \"The Saga of Ale-Hood\" (wevikings.com)"

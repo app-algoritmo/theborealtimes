@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/askeladden-e-o-troll-do-mingau.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gutt i enkle klær som sitter foran et enormt troll i en skogshytte, med dampende grøtboller, og en tøysekk skjult under guttens skjorte."
 fontes:
   - "George Webbe Dasent, Popular Tales from the Norse (Project Gutenberg, nr. 8933), eventyr V, «Boots who ate a match with the Troll», oversettelse av eventyr fra Asbjørnsen og Moe"

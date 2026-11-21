@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/panqueca-que-fugiu.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor gyllen pannekake som ruller som et hjul nedover en bakkesti, forfulgt av en kone, en mann og barn; foran venter en høne, en hane, en gås og en feit gris ved en bekk."
 fontes:
   - "Peter Christen Asbjørnsen, Tales from the Fjeld, oversatt av George Webbe Dasent (Project Gutenberg, ebok 36385)"

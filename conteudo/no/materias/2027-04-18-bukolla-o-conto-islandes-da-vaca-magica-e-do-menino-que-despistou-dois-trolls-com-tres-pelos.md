@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/bukolla-a-vaca-magica.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gutt som løper ved siden av en stor flekkete ku over en islandsk mark av lava og mose, med et nyoppstått fjell bak seg og et enormt troll som sitter fast i et hull i fjellet."
 fontes:
   - "All Things Iceland, «What makes Búkolla so special: the story of Iceland's enchanted cow» (sammendrag av eventyret og rollen det har i islandsk barnetradisjon)"

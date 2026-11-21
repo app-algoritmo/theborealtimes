@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/recitador-da-lei-rocha.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de barba grisalha e capa vermelha, em pé sobre uma pedra elevada num campo aberto, falando de braços abertos para uma assembleia de pessoas sentadas na grama em semicírculo, sob um céu claro com montanhas ao fundo."
 fontes:
   - "Wikipedia, \"Lawspeaker\" (cargo, Islândia, Suécia, Noruega, Finlândia, listas, fontes citadas, dúvidas dos historiadores)"

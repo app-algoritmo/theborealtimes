@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/uunartoq-disco-de-sol.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um disco de madeira clara com entalhes triangulares ao redor da borda e um furo no centro, preso por um pino vertical que lança uma sombra fina sobre linhas gravadas; ao fundo, o convés de um navio de madeira num mar frio e um sol baixo e dourado."
 fontes:
   - "Verbete \"Uunartoq Disc\", Wikipédia"

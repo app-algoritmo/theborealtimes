@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/navios-oseberg.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio viking ricamente entalhado, com proa em cabeça de dragão, dentro de uma escavação sob um monte funerário."
 fontes:
   - "Museu dos Navios Vikings, Museu de História Cultural da Universidade de Oslo, informações sobre os navios de Oseberg, Gokstad e Tune"

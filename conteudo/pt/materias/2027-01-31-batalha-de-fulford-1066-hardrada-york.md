@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/batalha-de-fulford-1066.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma batalha ao amanhecer junto a um rio e a um pântano: de um lado, guerreiros noruegueses com escudos redondos e machados avançam em fileiras; do outro, ingleses de cota de malha recuam entre juncos e lama; ao fundo, a silhueta de uma cidade murada e uma frota de navios longos ancorados num rio."
 fontes:
   - "Wikipedia, \"Battle of Fulford\" (data, Harald Hardrada, Tostig, Edwin e Morcar, rio Ouse, pântano de Fordland, Riccall, York, Stamford Bridge, Hastings, números, Orderic Vital)"

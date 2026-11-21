@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/lokasenna-aegir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerhall opplyst av skinnende gull, med guder rundt lange bord og hevede begre, en rødhåret mann med ironisk smil som står midt i rommet og peker på dem og, i døra, en skjeggete gud med en hammer"
 fontes:
   - "Ukjent forfatter, *Eldre Edda* (*Lokasenna*, Codex Regius, islandsk håndskrift fra omkring 1270)"

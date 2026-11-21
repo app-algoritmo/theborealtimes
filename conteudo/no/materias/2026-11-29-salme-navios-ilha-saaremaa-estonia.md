@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/salme-navios.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en baltisk øy under grå himmel, med utgraving av en stor trebåt i en grop i sandjord, arkeologer i moderne klær som måler skroget, og ved siden av, i forgrunnen, sverd, spydspisser og biter av skjold lagt ut på en klut"
 fontes:
   - "T. Douglas Price m.fl., «Isotopes and the origin of the Salme ship burials», *Antiquity* 90 (2016)"

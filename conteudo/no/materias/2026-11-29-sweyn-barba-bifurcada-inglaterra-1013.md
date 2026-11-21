@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/sweyn-1013.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en flåte med høye stavner som seiler opp en bred elv mellom grønne jorder ved daggry, med en konge med skjegget delt i to spisser stående i det første skipet og, på breddene, bønder og soldater som ser på på avstand, under en grå himmel"
 fontes:
   - "*Den angelsaksiske krøniken*, årsberetningen for 1013 (overs. Michael Swanton, Phoenix, 2000)"

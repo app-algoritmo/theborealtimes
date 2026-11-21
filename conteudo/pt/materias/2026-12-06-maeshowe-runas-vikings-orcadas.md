@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/maeshowe-camara.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do interior de uma câmara de pedra, com grandes lajes cuidadosamente encaixadas, iluminada pela luz de uma tocha; vários homens de capas grossas e barbas escuras gravam runas na parede com a ponta de uma faca, enquanto uma neve fraca entra pelo corredor de entrada."
 fontes:
   - "Orkneyinga saga (c. 1200), trad. Hermann Pálsson e Paul Edwards (Penguin Classics, 1978), episódio de 1153"

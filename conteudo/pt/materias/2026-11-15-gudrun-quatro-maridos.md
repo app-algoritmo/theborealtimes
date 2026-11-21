@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/gudrun-sonhos.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher islandesa de touca branca diante de uma fazenda de turfa ao entardecer, com quatro silhuetas de homens desfocadas ao fundo e um fiorde cinzento"
 fontes:
   - "Laxdæla saga (Saga dos Habitantes do Vale do Salmão)"

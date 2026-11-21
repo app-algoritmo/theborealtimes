@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/hacon-barba-grisalha-mendigo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en prins forkledd som tigger, med mosegrått skjegg og pelskappe, som tilbyr et gyllent rokkehjul til en prinsesse i vinduet på et tre-slott; i bakgrunnen ligger en tømmerhytte ved skogkanten."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, norske folkeeventyr, oversatt av George Webbe Dasent, «Popular Tales from the Norse» (Project Gutenberg nr. 8933): «Hacon Grizzlebeard»"

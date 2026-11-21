@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/fanitullen-melodia-do-diabo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norsk gårdskjeller i lyktelys, med en felespiller med utsmykket fele som sitter på en ølsylinder; under bordet en kløvd hov der foten skulle vært, og øverst i trappa en mann med brett som mister bollen."
 fontes:
   - "Norsk Kornølfestival, «Fanitullen» (artikkel 18. juni 2019)"

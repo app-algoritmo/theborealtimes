@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/batalha-de-bravellir-exercitos.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma vasta planície sob um céu tempestuoso, com dois grandes exércitos de lanças e escudos redondos se encontrando, um velho rei numa carruagem com uma espada em cada mão e, ao fundo, uma baía com um grande número de navios longos; um vulto de chapéu largo observa de uma colina."
 fontes:
   - "Wikipedia, \"Battle of Brávellir\" (relatos de Saxo, Sögubrot e Hervarar saga, números, local, historicidade)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/halldor-snorrason-e-o-rei-harald.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor norsk hall om natten, der en islending i enkel kappe holder et sverd mot halsen på en konge i sengen, mens en dronning med en ring i hånden ser på stående ved siden av."
 fontes:
   - "Engelsk Wikipedia, artikkelen «The Tale of Halldor Snorrason II» (Halldórs þáttr Snorrasonar inn síðari), bevart i Morkinskinna"

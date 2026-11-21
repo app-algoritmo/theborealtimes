@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/snorri-godi-em-helgafell.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de barba grisalha e manto, sentado num banco de pedra diante de uma casa de turfa numa colina baixa, com um lago e montanhas ao fundo e três rolos de pergaminho sobre os joelhos."
 fontes:
   - "Eyrbyggja saga (capítulos 14, 15, 49 e 56)"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/pedra-solar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navegador nórdico na proa de um navio erguendo um cristal transparente para um céu cinzento, com um raio dourado atravessando o cristal e revelando onde o sol se esconde"
 fontes:
   - "*Rauðúlfs þáttr*, na *Flateyjarbók* (final do século XIV)"

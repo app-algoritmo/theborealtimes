@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/berserker-furia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro nórdico vestido com uma pele de urso, com os olhos arregalados, mordendo a borda do próprio escudo, diante de uma muralha de escudos inimiga numa praia"
 fontes:
   - "Þorbjörn Hornklofi, *Haraldskvæði* ou *Hrafnsmál* (cerca do ano 900)"

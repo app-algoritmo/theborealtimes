@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/fenrir-gleipnir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Qwen)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um lobo gigante envolto em uma fita luminosa, com um guerreiro de mão na boca do animal e outros deuses nórdicos observando em uma costa rochosa sob tempestade"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, parte Gylfaginning (cerca de 1220)"

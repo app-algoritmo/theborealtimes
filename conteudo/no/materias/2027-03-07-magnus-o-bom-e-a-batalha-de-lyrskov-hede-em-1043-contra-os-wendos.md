@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/magnus-bom-lyrskov.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en åpen hei ved daggry, med en rekke norrøne krigere med runde skjold foran en ung konge i rød silkeskjorte med løftet øks, og på himmelen, i gyllen dis, silhuetten av en kronet helgenkonge; langt borte rykker en folkemengde av krigere fram."
 fontes:
   - "Wikipedia-artikkelen «Battle of Lyrskov Heath»"

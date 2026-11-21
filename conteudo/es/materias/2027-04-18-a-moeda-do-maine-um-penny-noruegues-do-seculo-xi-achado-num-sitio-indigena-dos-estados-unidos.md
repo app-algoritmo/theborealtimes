@@ -6,7 +6,7 @@ natureza: "Historia documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/a-moeda-norueguesa-do-maine.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una moneda de plata perforada con un busto de rey e inscripciones, apoyada en una palma de la mano sobre una capa de tierra oscura, con la bahía y los pinos de Maine al fondo, y una lupa al lado."
 fontes:
   - "Wikipedia en inglés, artículo «Maine penny» (hallazgo, identificación, datación del sitio y las opiniones enfrentadas)"

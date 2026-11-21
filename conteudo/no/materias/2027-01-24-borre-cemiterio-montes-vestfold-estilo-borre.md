@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/borre-cemiterio-montes-vestfold.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rekke store gressdekte hauger under en ettermiddagshimmel i Vestfold, med Oslofjorden glinsende i bakgrunnen; i forgrunnen et hesteseletøy av bronse pyntet med flettede dyr og knuter, hvilende på en stein; en arkeolog med en radarsonde går mellom haugene, og silhuetten av et langskip tegner seg under bakken."
 fontes:
   - "Wikipedia, «Borre mound cemetery» (beliggenhet, hauger, utgravingene 1851–52, 1925 og 1989–91, Borrestilen, georadar i 2007, 2013 og 2019, havn, Midgard Viking Center)"

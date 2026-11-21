@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/sampo-louhi.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher alta de manto escuro e coroa de gelo à frente de uma montanha rochosa, com um grande moinho de tampa colorida brilhando numa caverna, e ao fundo um barco de heróis atravessando o mar sob um céu de aurora"
 fontes:
   - "Elias Lönnrot, *Kalevala* (primeira edição em 1835, edição ampliada em 1849)"

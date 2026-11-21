@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/bardar-saga-snaefellsjokull.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rundtoppet bre over en kysthalvøy på Island, med en høy skikkelse i grå hette og en lang stav med krok som går i snøen; nedenfor, på stranda, en torvgård og en liten isblokk som driver på havet, og i det fjerne omrisset av en hest."
 fontes:
   - "Wikipedia, «Bárðar saga Snæfellsáss» (handling, Gestr, Raknarr, datering, håndskrifter, utgaver)"

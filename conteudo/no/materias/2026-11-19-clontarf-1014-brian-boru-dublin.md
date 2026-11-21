@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/clontarf-1014.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bred strand i skumringen med krigere i ringbrynje som kjemper mellom opptrukne båter og stigende tidevann, et svart ravnebanner som blafrer i bakgrunnen og et enslig feltteltt på en sanddyne"
 fontes:
   - "*Annalene i Ulster* og *Annalene i Inisfallen* (irske middelalderkilder, innføring for året 1014)"

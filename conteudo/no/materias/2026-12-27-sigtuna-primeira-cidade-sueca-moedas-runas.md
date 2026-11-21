@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/sigtuna-oficina-moedas-runas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bred, tråkket jordgate i en tømmerby ved en innsjø, med lange, smale tomter på hver side, tømmerhus med torvtak og verksteder fremst; i forgrunnen bøyer en håndverker seg over en benk med myntstempler, og i bakgrunnen står en runestein ved stien og en steinkirke under bygging."
 fontes:
   - "medieval.eu, «Sigtuna – a powerful political and cultural centre in Sweden c. 980–1200» (grunnleggelse, mynter, tomter, runer, kirker, befolkning)"

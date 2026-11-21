@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/hedeby-porto.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um porto viking ao amanhecer, com navios de carga amarrados a um cais de madeira, caixas e barris empilhados, casas de telhado de palha e um muro semicircular ao fundo"
 fontes:
   - "Museu Viking Haithabu (Wikinger Museum Haithabu), Schleswig"

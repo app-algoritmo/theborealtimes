@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/ivar-exercito.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um chefe viking pálido e de olhar frio sentado numa cadeira de escudos carregada por quatro guerreiros, diante de uma fileira de tendas num acampamento junto a um rio, com fumaça de fogueiras e cavalos ao fundo sob um céu de inverno"
 fontes:
   - "*Crônica Anglo-Saxônica* (compilada entre os séculos IX e XII), anos de 865 a 878"

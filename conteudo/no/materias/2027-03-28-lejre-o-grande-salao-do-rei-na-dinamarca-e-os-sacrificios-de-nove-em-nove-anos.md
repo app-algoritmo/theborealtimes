@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/lejre-salao-do-rei.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm lang tre-hall med lavt tak, plankevegger og røyk som stiger opp fra taket, på en grønn høyde på Sjælland, med en rund gravhaug i bakgrunnen og små skikkelser som går mot døra i skumringen."
 fontes:
   - "«Archaeology and the Legendary Hleidargard», side om Lejre og sagaen om Hrólfr Kraki, University of California, Los Angeles (viking.ucla.edu), med henvisning til Tom Christensens utgravinger i 1986-1988"

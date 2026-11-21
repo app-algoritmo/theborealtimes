@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/lokasenna-aegir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira iluminado por ouro reluzente, com deuses sentados em volta de longas mesas e taças erguidas, um homem de cabelo ruivo e sorriso irônico de pé no centro apontando para eles e, à porta, um deus barbudo com um martelo"
 fontes:
   - "Autor desconhecido, *Edda Poética* (*Lokasenna*, Codex Regius, manuscrito islandês de cerca de 1270)"

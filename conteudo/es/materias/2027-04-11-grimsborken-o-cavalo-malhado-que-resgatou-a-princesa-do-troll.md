@@ -6,7 +6,7 @@ natureza: "Mito o leyenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/grimsborken-o-cavalo-malhado.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un enorme caballo gris moteado y luminoso, con silla y brida doradas, subiendo una pared de roca casi vertical con un joven jinete, y la boca oscura de una cueva de troll arriba."
 fontes:
   - "Peter Christen Asbjørnsen y Jørgen Moe, Norske Folkeeventyr, «Grimsborken»"

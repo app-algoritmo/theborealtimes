@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/harald-hardrada-stamford.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en svært høy norrøn kriger i rød kappe og ringbrynje, stående i baugen på et skip med høy stavn på et grått hav, med blikket mot en grønn engelsk kyst; i bakgrunnen hundrevis av stripete seil og en by med gylne kupler tegnet i horisonten, som et minne om Østen."
 fontes:
   - "Wikipedia, «Harald Hardrada» (fødsel, Stiklestad, Rus', Væringgarden, regjeringstid, 1066, kilder og tilnavn)"

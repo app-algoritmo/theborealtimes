@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/draugen-nevoa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk skikkelse i våt oljehud i en båt som er brutt i to, midt i tett tåke over et mørkt hav, med en svak lykt og en liten fiskebåt i bakgrunnen"
 fontes:
   - "Norske folkloresamlinger fra 1800-tallet, som de av Peter Christen Asbjørnsen og Rikard Berge"

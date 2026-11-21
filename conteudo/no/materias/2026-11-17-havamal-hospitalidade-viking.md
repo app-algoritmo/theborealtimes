@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/havamal-hospitalidade.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av innsiden av en stor trehall med et tent ildsted midt i rommet, lange benker, en reisende i våt kappe som tas imot i døra og en vertinne som rekker fram et drikkehorn"
 fontes:
   - "*Håvamål*, i den eldre Edda (Codex Regius, rundt 1270)"

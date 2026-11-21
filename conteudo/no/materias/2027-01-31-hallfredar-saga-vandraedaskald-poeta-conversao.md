@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/hallfredar-saga-poeta-conversao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkskjegget skald som står i en tresal og framsier vers foran en høvding med gylden krone, med skjæret fra faklene bak seg; ved siden av ligger et stort skip med drageforstavn ankret i en bukt, og et trekors står på stranden, som symbol på trosskiftet."
 fontes:
   - "Wikipedia, «Hallfreðar saga vandræðaskálds» (Hallfreðr, ca. 965 til ca. 1007, Hákon Sigurðarson, Óláfr Tryggvason, Eiríkr Hákonarson, omvendelse, lausavísur, håndskrifter, Óláfsdrápa Tryggvasonar)"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/voluspa-vidente.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma anciã de capa escura e cajado sentada numa pedra alta, com o rosto voltado para um homem de um olho só, de chapéu largo e manto azul, que a ouve de pé; ao redor, runas luminosas flutuam no ar e, ao fundo, uma grande árvore e um céu em chamas"
 fontes:
   - "*Völuspá*, na *Edda Poética* (Codex Regius, c. 1270) e na versão do *Hauksbók* (início do século XIV)"

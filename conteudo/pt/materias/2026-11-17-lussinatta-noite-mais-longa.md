@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/lussi-chama.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma menina de camisola branca atravessando um pátio de neve à noite com uma única vela na mão, enquanto uma fileira de sombras altas cavalga ao fundo entre rajadas de vento e flocos de neve"
 fontes:
   - "Coleções de folclore norueguês e sueco dos séculos XIX e XX sobre o Natal e os costumes de inverno"

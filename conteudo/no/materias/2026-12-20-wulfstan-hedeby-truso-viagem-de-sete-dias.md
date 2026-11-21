@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/wulfstan-hedeby-truso.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et handelsskip med råseil som seiler på Østersjøen ved daggry, med en mann i kappe ved styreåra som ser mot den lave kysten til høyre, der man ser skoger og hytter; i det fjerne grønne øyer til venstre og, bakerst, en havn med kaier av tre og små båter, under lyse skyer."
 fontes:
   - "Wikipedia, «Wulfstan of Hedeby» (reisende, reise ca. 880, nevnte land, litteratur)"

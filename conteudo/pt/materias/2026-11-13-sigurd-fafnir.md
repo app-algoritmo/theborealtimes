@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/sigurd-fafnir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem herói nórdico agachado numa cova numa charneca rochosa, com uma espada brilhante, enquanto um enorme dragão verde rasteja sobre a cova num crepúsculo de tempestade"
 fontes:
   - "*Völsunga saga* (cerca de 1270)"

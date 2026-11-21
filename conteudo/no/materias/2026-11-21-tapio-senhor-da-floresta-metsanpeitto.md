@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/tapio-floresta.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tett, dyster furuskog i en blåaktig tåke, med en mann i ullkåpe som snurrer rundt på en åpning og prøver å finne stien, og silhuetten av en gammel mann med mosedekt skjegg og barkhatt mellom stammene i bakgrunnen"
 fontes:
   - "Elias Lönnrot, *Kalevala* (utgaven fra 1849, sanger om jakt og om Tapio og Mielikki)"

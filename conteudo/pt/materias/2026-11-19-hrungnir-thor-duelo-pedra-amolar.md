@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/hrungnir-duelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus de barba ruiva atirando um martelo contra um gigante de pedra com escudo de rocha, numa planície rachada sob nuvens negras, com faíscas no ar, um rapaz ágil ao lado do deus e uma grande figura de barro ao fundo"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Skáldskaparmál*, por volta de 1220)"

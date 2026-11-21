@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/fanitullen-melodia-do-diabo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um porão de fazenda norueguesa à luz de lampiões, com um violinista de rabeca de ornamentos sentado num barril de cerveja; sob a mesa, um casco fendido no lugar do pé, e no alto da escada um homem de bandeja deixando cair a tigela."
 fontes:
   - "Norsk Kornølfestival, \"Fanitullen\" (artigo de 18 de junho de 2019)"

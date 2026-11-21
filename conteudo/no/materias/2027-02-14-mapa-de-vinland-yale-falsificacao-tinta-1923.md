@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/mapa-de-vinland-yale.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et konserveringslaboratorium med et gulnet pergamentkart på trekkpapir, som viser den stiliserte omrisslinjen av øyer og en stor landmasse i vest, ved siden av et benkespektrometer og et forstørrelsesglass; i bakgrunnen hyller med gamle bøker og et vindu i vinterlys."
 fontes:
   - "medievalists.net (2021), nyhetssak om analysene av Vinlandskartet ved Yale (historikk, blekk, innskrift på baksiden, konklusjon)"

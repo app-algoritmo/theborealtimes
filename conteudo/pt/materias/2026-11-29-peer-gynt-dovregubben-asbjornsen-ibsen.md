@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/peer-gynt-dovre.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de pedra dentro de uma montanha, iluminado por tochas verdes, com um rapaz de colete e chapéu de feltro correndo entre trolls de nariz longo e orelhas pontudas, e no fundo um rei troll de coroa de pedra sentado num trono de rocha"
 fontes:
   - "Peter Christen Asbjørnsen, *Norske Huldre-Eventyr og Folkesagn* (1845 a 1848)"

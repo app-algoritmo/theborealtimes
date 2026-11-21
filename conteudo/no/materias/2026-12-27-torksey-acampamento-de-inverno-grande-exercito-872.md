@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/torksey-acampamento-grande-exercito.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en flat øy ved elva Trent seint på høsten, med hundrevis av telt og lave hytter, horder av norrøne krigere som reparerer skip på bredden, kvinner med spindler, en mann som veier sølv på en vekt og en gruppe som spiller med bly-brikker på et skjold; i bakgrunnen tåke og sumpmark."
 fontes:
   - "University of Sheffield, via ScienceDaily (18. mai 2017), om leiren ved Torksey (Hadley og Richards, *The Antiquaries Journal*, 2016)"

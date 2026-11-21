@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/floamanna-saga-groenlandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de barba escura e capa de lã, de pé numa praia coberta de neve ao lado de um barco encalhado, com um bebê enrolado em peles nos braços; ao fundo, blocos de gelo, montanhas brancas e um céu de nuvens baixas, com uma fogueira pequena acesa à esquerda."
 fontes:
   - "Verbete \"Flóamanna saga\", Wikipédia"

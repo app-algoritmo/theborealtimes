@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/galloway-hoard-tesouro-escocia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en grønn beitemark i Skottland med en mann som sitter på huk ved en metalldetektor og løfter en tung sølvarmring opp av jorda; ved siden av viser en liten dyp grøft et drevet sølvkar pakket i tøy, med lokk, og i bakgrunnen lave åser og regnskyer over en steinkirke."
 fontes:
   - "Wikipedia, «Galloway Hoard» (funnet i 2014, innhold, kar fra Vest-Asia, kjøpet i 2017, åpne spørsmål)"

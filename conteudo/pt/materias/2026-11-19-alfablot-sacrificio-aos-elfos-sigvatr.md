@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/alfablot-elfos.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de capa encharcada de neve diante de uma porta de madeira fechada de uma casa baixa numa floresta ao anoitecer, com luz quente nas frestas, enquanto uma mulher de lenço fala por trás da porta e pequenas luzes pálidas flutuam entre as árvores"
 fontes:
   - "Sigvatr Þórðarson, *Austrfaravísur* (poema escaldo do século XI, conservado em *Heimskringla* e em outras sagas)"

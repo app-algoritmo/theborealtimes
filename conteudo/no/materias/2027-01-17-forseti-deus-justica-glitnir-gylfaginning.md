@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/forseti-deus-justica-glitnir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor sal i lyst tre som hviler på skyer, med sølvtak og skinnende gylne søyler i skumringen; ved døra sitter en skjegget mann i en enkel kappe på en bred benk og lytter til to trøtte besøkende som krangler og så håndhilser; bak dem en rødlig himmel."
 fontes:
   - "New World Encyclopedia, «Forseti» (Gylfaginning, salen Glitnir, Fosite hos friserne, etymologi; bygger på Orchard, Lindow og de Vries)"

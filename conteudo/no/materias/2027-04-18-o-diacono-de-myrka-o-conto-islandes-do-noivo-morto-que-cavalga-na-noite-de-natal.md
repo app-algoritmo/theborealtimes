@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/o-diacono-de-myrka.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en fullmånenatt over en mørk elv, med en rytter med hatt og skjerf som skjuler ansiktet og som har en ung kvinne bak seg, og i bakgrunnen en liten kirke med en klokke og en åpen grav."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Djákninn á Myrká», med sammendrag av eventyret, utgivelseshistorien og ATU 365-klassifiseringen"

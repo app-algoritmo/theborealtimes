@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/njordr-deus-mar-nootun.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enseada nórdica ao amanhecer, com um deus de barba clara e capa azul de pé na proa de um barco de pesca, estendendo a mão para o vento que enche a vela; ao fundo, uma casa de madeira à beira da água com gaivotas ao redor e, no alto de uma montanha nevada distante, a silhueta de uma mulher de esquis e arco."
 fontes:
   - "Wikipedia, \"Njörðr\" (atestações na Edda Poética, na Edda em Prosa e na Heimskringla; casamento com Skaði; etimologia; debate acadêmico)"

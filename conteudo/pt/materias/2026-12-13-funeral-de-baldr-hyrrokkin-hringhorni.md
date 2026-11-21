@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/baldr-funeral-navio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia ao entardecer, com um navio enorme de proa alta sendo empurrado para a água por uma giganta de cabelos negros montada num lobo enorme, com cobras no lugar de rédeas, enquanto deuses de capas escuras observam e rolos de madeira soltam faíscas."
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, *Gylfaginning* (c. 1220), capítulo sobre a morte de Baldr"

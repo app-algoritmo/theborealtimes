@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/thorfinn-karlsefni-no-vinland.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et norrønt langskip trukket opp på en strand med småstein under grå himmel, med menn i kapper som laster ut kasser, en brun okse løs på sanden og skikkelser i skinn i det fjerne mellom trærne."
 fontes:
   - "Eiríks saga rauða (Eirik Raudes saga)"

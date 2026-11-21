@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/gnezdovo-tumulos-e-inscricao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bred elv omgitt av grønne jorder, med en liten befestet tømmerby på bredden og, i bakgrunnen, rader av runde, gresskledde jordhauger; i forgrunnen bærer kjøpmenn i enkle kapper på bylter med pelsverk og en leireamfora med risset skrift."
 fontes:
   - "Wikipedia, \"Gnezdovo\" (sted, størrelse, datering, hauger, varjagisk nærvær, innskrift, handel, forskning, debatt)"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/bjarni-sem-bussola.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio nórdico de vela quadrada no meio de um mar cinzento envolto em névoa; na proa, um capitão aponta para uma costa verde e baixa, e a tripulação o olha pedindo que desembarque, mas ele segura o leme firme."
 fontes:
   - "Grænlendinga saga (Saga dos Groenlandeses)"

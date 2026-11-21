@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/harald-gille-nove-relhas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en steinsal i fakkelskinn med ni glødende plogjern i en rekke på gulvet, en barføtt mann i lys tunika som går mellom dem, og to biskoper med mitra som ser på ved siden av en sittende konge."
 fontes:
   - "Snorre Sturlason, Heimskringla (sagaene om Magnus Berrføtt og Harald Gille)"

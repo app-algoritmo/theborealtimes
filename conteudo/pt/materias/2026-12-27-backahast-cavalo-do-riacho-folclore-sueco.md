@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/backahast-cavalo-riacho.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um riacho de floresta sueca coberto de neblina ao amanhecer, com um cavalo branco majestoso parado na margem, a crina molhada e os olhos claros; ao lado, uma criança de blusa vermelha estende a mão para ele, e na água, atrás, refletem-se ramos e uma silhueta escura que parece um homem com um violino."
 fontes:
   - "Wikipedia (espelho), \"Neck (water spirit)\" (nomes, bäckahäst, Noruega e Ilhas Faroé, crenças cristãs, incertezas)"

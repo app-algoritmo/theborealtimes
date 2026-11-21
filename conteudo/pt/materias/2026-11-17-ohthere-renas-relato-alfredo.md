@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/ohthere-renas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um chefe nórdico de barba grisalha ao lado de seu navio numa costa ártica, observando um rebanho de renas conduzidas por um pastor sámi de gorro azul, sob um céu pálido de fim de tarde"
 fontes:
   - "*Orósio em inglês antigo*, versão associada ao círculo do rei Alfredo, o Grande (fim do século IX), com os relatos de Ohthere e Wulfstan"

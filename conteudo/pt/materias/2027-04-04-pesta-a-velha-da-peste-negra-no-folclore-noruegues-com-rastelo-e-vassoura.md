@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/pesta-velha-da-peste-negra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma velha pálida e acinzentada de manto escuro caminhando por uma trilha de fazendas na encosta, com uma vassoura numa mão e um rastelo na outra, sob um céu de névoa; ao longe, uma menina pequena olha de uma janela."
 fontes:
   - "\"Pesta kommer\", Tidsskrift for Den norske legeforening (tidsskriftet.no, 2007), sobre as lendas norueguesas da Peste Negra e os desenhos de Theodor Kittelsen"

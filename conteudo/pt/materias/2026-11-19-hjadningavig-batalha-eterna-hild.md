@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/hild-hjadningar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de guerreiros lutando numa praia ao luar, com uma mulher de manto escuro em pé entre os corpos caídos, que se levantam em silêncio, enquanto o mar prateado bate em penhascos baixos e névoa cobre a ilha"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Skáldskaparmál*, por volta de 1220, citando a *Ragnarsdrápa* de Bragi Boddason)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/navios-oseberg.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et rikt utskåret vikingskip, med dragehode i baugen, inne i en utgraving under en gravhaug."
 fontes:
   - "Vikingskipshuset, Kulturhistorisk museum, Universitetet i Oslo, informasjon om Oseberg-, Gokstad- og Tuneskipet"

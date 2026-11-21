@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/constantinopla-860-rus.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enorme cidade de muralhas altas à beira de um estreito, com cúpulas douradas e torres, vista do mar; centenas de pequenos barcos de remo e velas quadradas se aproximam da costa, enquanto na muralha clérigos de manto longo erguem um ícone e uma tempestade escura se forma no horizonte."
 fontes:
   - "Focio de Constantinopla, *Homilias* sobre o ataque dos rus (agosto de 860)"

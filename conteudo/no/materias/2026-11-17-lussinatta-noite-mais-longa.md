@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/lussi-chama.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en jente i hvit nattkjole som går over en snødekt gårdsplass om natta med ett enkelt lys i hånden mens en rekke høye skygger rir i bakgrunnen mellom vindkast og snøfnugg"
 fontes:
   - "Samlinger av norsk og svensk folketro fra 1800- og 1900-tallet om jul og vinterskikker"

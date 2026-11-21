@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/ask-embla.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia ao amanhecer, com dois troncos de árvore caídos na areia, três figuras altas de capas coloridas inclinadas sobre eles, e uma luz dourada saindo da madeira, com o mar calmo e montanhas azuis ao fundo"
 fontes:
   - "*Edda Poética*, *Völuspá*, estrofes 17 e 18 (Codex Regius, c. 1270)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/skidbladnir-navio-que-dobra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio de madeira clara com vela branca bem armada, flutuando sobre nuvens ao entardecer, com guerreiros e deuses a bordo; ao lado, em primeiro plano, o mesmo navio dobrado como um pano e guardado na mão de uma figura de capa verde."
 fontes:
   - "Wikipedia, \"Skíðblaðnir\" (nome, Grímnismál, Gylfaginning, Skáldskaparmál, Ynglinga saga, donos e fabricantes)"

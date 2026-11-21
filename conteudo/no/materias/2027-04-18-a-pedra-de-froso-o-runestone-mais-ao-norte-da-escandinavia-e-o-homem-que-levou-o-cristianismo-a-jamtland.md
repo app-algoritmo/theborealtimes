@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/a-pedra-de-froso.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en runestein ved en ferjekai i et rolig sund, med en tømmerbro under bygging i bakgrunnen og tre menn som arbeider, en av dem risser runer i steinen."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Frösö Runestone» (J RS1928;66)"

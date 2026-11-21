@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/ilmarinen-noiva-de-ouro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um ferreiro de avental de couro diante de uma forja acesa, olhando uma estátua de moça de cabelos dourados e cabeça de prata deitada num leito de peles, num ateliê escuro e cheio de brasas, com foles de couro ao lado."
 fontes:
   - "Elias Lönnrot, Kalevala (edição de 1849), 37ª runa, tradução inglesa de John Martin Crawford (1888, Standard Ebooks)"

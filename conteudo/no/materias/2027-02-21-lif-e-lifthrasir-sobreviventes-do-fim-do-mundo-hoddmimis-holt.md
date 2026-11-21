@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/lif-bosque-de-hoddmimir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en snødekt skog ved daggry, med to skikkelser, en mann og en kvinne, i ly mellom de tykke røttene til et stort tre og drikker dugg fra bladene i den første solen, mens himmelen i det fjerne blir rød."
 fontes:
   - "Wikipedia, «Líf and Lífþrasir» (avsnitt fra Vafþrúðnismál og Gylfaginning, navn, tolkninger av Larrington og Simek)"

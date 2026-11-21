@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/magnus-egilsay.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung mann i lys kappe som ligger på kne i en liten steinkirke på en flat øy ved daggry og ber med foldede hender, mens åtte drageskip med drakehode akkurat har ankret ved siden av to mindre båter på stranden"
 fontes:
   - "Ukjent forfatter, *Orknøyingenes saga* (*Orkneyinga saga*, omkring 1200, skrevet på Island)"

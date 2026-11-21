@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/kong-lindorm.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um quarto de castelo à luz de velas, onde uma jovem de vestido simples sentada ao lado de uma cama, com um feixe de varas, uma tina de leite e uma de lixívia aos pés, observa um grande verme de escamas verdes que larga a pele, e sob a pele aparece o contorno de um rapaz"
 fontes:
   - "Svend Grundtvig, *Gamle danske Minder i Folkemunde* (Copenhague, 1854-1861)"

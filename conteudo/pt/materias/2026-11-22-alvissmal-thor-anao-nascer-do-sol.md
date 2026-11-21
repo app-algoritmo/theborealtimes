@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/alvissmal-anao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de pedra, de noite, com um deus enorme de barba ruiva e martelo na cintura sentado à mesa, diante de um anão pálido de manto escuro que gesticula; pela porta aberta entram os primeiros raios dourados do amanhecer"
 fontes:
   - "*Alvíssmál*, na *Edda Poética* (Codex Regius, c. 1270)"

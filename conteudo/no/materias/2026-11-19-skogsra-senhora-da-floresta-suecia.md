@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/skogsra-floresta.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en slank kvinne med langt hår i mosegrønn kjole som står blant graner en tåkete kveld, vakker forfra og bakfra med en stamme hul som et gammelt tre, mens en hettekledd jeger med gevær og hund ser på henne på avstand"
 fontes:
   - "Gunnar Olof Hyltén-Cavallius, *Wärend och Wirdarne* (1863–1868, opptegnelse av folketradisjoner fra Småland)"

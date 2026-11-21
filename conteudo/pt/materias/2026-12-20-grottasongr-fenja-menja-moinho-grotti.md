@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/grotti-moinho-fenja.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de duas gigantas de braços fortes girando uma enorme mó de pedra numa sala fria à noite, com ouro e luz saindo da pedra e fumaça de um incêndio distante pela janela; no fundo, um rei dormindo no trono, e à direita um navio afundando num redemoinho de água branca."
 fontes:
   - "Wikipedia, \"Grottasöngr\" (resumo da *Edda em prosa* e do poema, com bibliografia de Larrington, Orchard e Tolley)"

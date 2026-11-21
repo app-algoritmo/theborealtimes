@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/bragi-deus-poesia-runas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de madeira de um chefe nórdico, com fogo central e vigas entalhadas, onde um homem de barba trançada, de pé, recita versos para ouvintes sentados em bancos; sobre uma mesa, um chifre de beber, e ao fundo escudos pintados pendurados na parede, em luz quente de tocha."
 fontes:
   - "Wikipedia, \"Bragi\" (fontes eddicas e escáldicas, Bragi Boddason, etimologia, interpretações de estudiosos)"

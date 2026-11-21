@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/joukahainen-kalevala-duelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et finsk landskap med sjø og granskog, der en gammel mann med langt hvitt skjegg står og synger med åpne armer, mens en ung mann i lærrustning synker ned i en gjørmete myr til brystet, med hendene hevet; i bakgrunnen en hest og en slede og en ung kvinne kledd i hvitt som ser på på avstand."
 fontes:
   - "Wikiwand, «Joukahainen» (figur i *Kalevala*, navn og tolkninger)"

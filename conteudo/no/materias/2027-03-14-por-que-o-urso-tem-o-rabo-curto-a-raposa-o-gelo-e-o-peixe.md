@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/urso-rabo-curto-gelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en brun bjørn som sitter med ryggen til på en islagt innsjø, med halen senket i et rundt hull i isen; ved siden av ser en rød rev med en rad fisk i munnen som ser på fra avstand, under en bleik vinterhimmel med snødekte furuer."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, Norske Folkeeventyr, eventyret \"Hvorfor bjørnen er stubbrumpet\""

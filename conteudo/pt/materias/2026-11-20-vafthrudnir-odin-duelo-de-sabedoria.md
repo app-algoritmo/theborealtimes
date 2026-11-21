@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/vafthrudnir-duelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um viajante de chapéu largo e manto azul sentado diante de um gigante de barba cinzenta num salão de pedra iluminado por uma fogueira, com um tabuleiro de pedras brancas e negras entre os dois e runas riscadas na parede"
 fontes:
   - "Autor desconhecido, *Edda Poética* (*Vafþrúðnismál*, manuscrito Codex Regius, por volta de 1270)"

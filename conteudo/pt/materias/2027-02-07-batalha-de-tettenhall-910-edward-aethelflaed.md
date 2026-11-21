@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/batalha-de-tettenhall-910.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma planície inglesa de campos verdes e rios, com dois exércitos de guerreiros de escudos redondos e cotas de malha cercando um grupo de saqueadores vikings junto a um monte de carga e barris; ao fundo, bandeiras de Wessex e da Mércia sob um céu de nuvens baixas."
 fontes:
   - "Wikipedia, \"Battle of Tettenhall\" (data de Æthelweard, campanha de 910, reis vikings mortos, consequências)"

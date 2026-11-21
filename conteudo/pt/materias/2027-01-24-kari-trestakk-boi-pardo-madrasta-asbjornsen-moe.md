@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/kari-trestakk-boi-pardo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma menina de capa de madeira, de tábuas amarradas, parada ao lado de um grande boi pardo numa floresta cujas folhas são de cobre, com um castelo ao fundo; o boi tem um pano estendido sobre a relva, cheio de comida; mais ao longe, um troll de pele cinzenta espreita entre os troncos, e raios de luz alaranjada atravessam a mata."
 fontes:
   - "Wikipedia, \"Katie Woodencloak\" (Kari Trestakk; coleção de Asbjørnsen e Moe, Norske Folkeeventyr; Red Fairy Book de Andrew Lang; tipo ATU 510A; variantes de Valdres e Telemark; menção a Olcott, 1928)"

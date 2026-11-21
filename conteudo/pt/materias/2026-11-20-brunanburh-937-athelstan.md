@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/brunanburh-937.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois exércitos se encontrando num vale encharcado de chuva: de um lado soldados anglo-saxões com escudos redondos e estandartes de dragão, do outro vikings de elmo e escoceses de lança, sob um céu pesado de nuvens e um rio ao fundo"
 fontes:
   - "*Crônica Anglo-Saxônica* (anal de 937, incluindo o poema \"A Batalha de Brunanburh\")"

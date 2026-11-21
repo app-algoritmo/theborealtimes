@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/julbock-bode-palha-natal.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande bode de palha amarrado com fitas vermelhas numa praça coberta de neve numa noite de dezembro, com casas de madeira iluminadas e crianças de gorro olhando para ele; ao lado, um feixe de trigo seco amarrado e um grupo de jovens mascarados com chifres batendo à porta de uma casa."
 fontes:
   - "Wikipedia, \"Yule goat\" (origem, teoria de Thor, feixe da colheita, figura do século XI, bode que pedia presentes, bode que dava presentes, bode de palha, Gävle)"

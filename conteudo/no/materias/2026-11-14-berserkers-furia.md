@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/berserker-furia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn kriger kledd i bjørneskinn, med store øyne, som biter i kanten av sitt eget skjold foran en fiendtlig skjoldborg på en strand"
 fontes:
   - "Torbjørn Hornklove, *Haraldskvæði* eller *Hrafnsmál* (ca. år 900)"

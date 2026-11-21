@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/alfheim-elfos-luz-e-sombra.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração dividida em dois: no alto, uma clareira clara com figuras esguias de cabelos dourados diante de um salão de luz; embaixo, sob raízes e pedra, figuras escuras e curvadas junto a uma forja de brasa fraca."
 fontes:
   - "Snorri Sturluson, Edda em Prosa (Gylfaginning)"

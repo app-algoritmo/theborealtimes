@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/thralls-escravizados-era-viking.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn gård tidlig om morgenen, med en langhus av torv og tre, der en kvinne melker en ku i en innhegning og en mann i enkel tunika leder en liten saueflokk langs en fuktig li; langt borte ser en mann i blå kappe fra husdøra, med lave skyer over en fjord."
 fontes:
   - "Wikipedia, «Thrall» (definisjon og samfunnsorden etter Rígsþula, opphav, arbeid, frigivelse, leysingi, slutten på slaveriet)"

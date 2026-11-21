@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/fagrskinna-pergaminho-belo-reis.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de escriba com um pergaminho largo desenrolado, de bordas cuidadas, coberto de linhas de texto e de versos copiados em fileiras curtas; ao lado, um tinteiro, uma pena e uma pequena pilha de outros pergaminhos, e ao fundo uma janela de pedra deixando entrar luz fria sobre um fiorde de águas escuras."
 fontes:
   - "Wikipedia, \"Fagrskinna\" (data, autoria, abrangência, fontes, relação com Morkinskinna, Heimskringla e Ágrip, manuscritos, sentido do nome)"

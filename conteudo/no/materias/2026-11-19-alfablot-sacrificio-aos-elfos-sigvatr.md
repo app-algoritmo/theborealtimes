@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/alfablot-elfos.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i snøtung kappe foran den lukkede tredøra til et lavt hus i en skog i skumringen, med varmt lys i sprekkene, mens en kvinne med skaut snakker bak døra og små bleke lys svever mellom trærne"
 fontes:
   - "Sigvat Tordarson, *Austrfaravísur* (skaldedikt fra 1000-tallet, bevart i *Heimskringla* og andre sagaer)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/beaivi-sol-sami.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et arktisk landskap med blålig snø mot slutten av vinteren, med en lav, gyllen sol som står opp over en høyde og en samisk skinntromme malt med en solsirkel lent mot en bjørk; i forgrunnen henger en samisk kvinne med blå lue og brodert kofte en løvring på en gren, og et hvitt reinsdyr med hvit tråd i øret ser på fra nært hold."
 fontes:
   - "Wikipedia, «Beaivi» (navn, trommer, Beaivi-nieida, offer, hvit rein, kilder)"

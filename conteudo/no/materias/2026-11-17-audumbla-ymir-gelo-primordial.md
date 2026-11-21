@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/audumbla-gelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor hvit ku med korte horn som slikker på en blokk blå is i et tåkedekt tomrom mens hodet og skuldrene til en lyshåret mann stiger fram av isen, med en sovende jotun som hviler ved siden av"
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delen *Gylfaginning* (rundt 1220)"

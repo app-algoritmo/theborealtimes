@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/emma-da-normandia-rainha.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelaldrende dronning i slør og mørkeblå kappe med gullkant, som står i en steinkatedral med søyler og buer, med to konger med ulike kroner ved siden av seg, en eldre med hvitt skjegg og en ung lyshåret; på et bord ligger et åpent manuskript med en miniatyr av henne som tar imot en bok."
 fontes:
   - "Wikipedia, «Emma of Normandy» (fødsel, Ælfgifu, ekteskapene med Æthelred og Knut, barn, eksilet 1013–14, Encomium Emmae Reginae, Courtenay Compendium, Alfred i 1036, Hardeknut, Edvard Bekjenneren, død i 1052, sagnet om ildprøven)"

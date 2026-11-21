@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/bosa-saga-sala-do-rei.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de madeira com um rei sentado no trono e, diante dele, um homem robusto de capa escura ao lado de uma mulher idosa de véu, de braços erguidos; sobre uma mesa, uma bolsa de couro cheia de moedas e, ao fundo, um tesoureiro encolhido."
 fontes:
   - "Wikipedia, \"Bósa saga ok Herrauðs\" (personagens, enredo, edições e traduções)"

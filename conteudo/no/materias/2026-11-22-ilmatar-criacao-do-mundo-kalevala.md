@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/ilmatar-criacao.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne med langt lyst hår som flyter på ryggen i et stort, stille hav under grå himmel, med ett kne hevet over vannet der en liten fugl med mørkt nebb lander, og ovenfra faller egg som knuses til lys og danner sola, månen og stjernene"
 fontes:
   - "Elias Lönnrot, *Kalevala* (utgaven fra 1849, sang 1), overs. Keith Bosley (Oxford World's Classics, 1989)"

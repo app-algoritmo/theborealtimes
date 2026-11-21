@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/danevirke-muralha.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma longa muralha de terra coberta de grama atravessando uma planície verde sob um céu de nuvens baixas, com uma paliçada de madeira no alto, um portão estreito e guardas de capacete e escudo redondo observando ao longe uma coluna de cavaleiros"
 fontes:
   - "Anais do Reino dos Francos (*Annales regni Francorum*, entrada do ano de 808, sobre o rei Godfred)"

@@ -6,7 +6,7 @@ natureza: "Saga o fuente medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/halldor-snorrason-e-o-rei-harald.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran salón noruego de noche, donde un islandés con capa sencilla apunta una espada al cuello de un rey en la cama, mientras una reina, con un anillo en la mano, lo observa de pie a su lado."
 fontes:
   - "Wikipedia en inglés, artículo «The Tale of Halldor Snorrason II» (Halldórs þáttr Snorrasonar inn síðari), conservado en la Morkinskinna"

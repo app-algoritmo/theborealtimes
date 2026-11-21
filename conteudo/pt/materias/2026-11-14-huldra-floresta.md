@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/huldra-floresta.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de cabelos longos e vestido comprido, de costas, numa floresta de abetos ao entardecer, com a ponta de uma cauda de vaca aparecendo sob a barra do vestido"
 fontes:
   - "Peter Christen Asbjørnsen, coletâneas de contos e lendas sobre os huldrefolk (década de 1840)"

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/mammen-camara-funeraria.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma câmara funerária de madeira dentro de um monte, com um caixão longo sobre almofadas, um manto bordado dobrado, dois machados sobre a tampa, uma grande vela de cera acesa ao lado e baldes de madeira junto à parede."
 fontes:
   - "Nationalmuseet (natmus.dk), página sobre a sepultura de Mammen (achado, dendrocronologia, objetos, Harald Dente Azul)"

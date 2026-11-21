@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/svarfdaela-saga-vale.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trang dal i Nord-Island, med en lys elv som renner mellom mørke, snødekte fjell; nede i dalbunnen en torvgård med røyk fra taket, og to kappekledde skikkelser, den ene støttet på en stav, som krangler foran døren."
 fontes:
   - "Wikipedia, «Svarfdæla saga» (handling, Thorstein Svarfað, Karl, Ljótólf, datering, Rebecca Merkelbachs kapittel fra 2020)"

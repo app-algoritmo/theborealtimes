@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/birkebeiner-haakon.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to middelalderske skiløpere i pelsklær som krysser et snødekt fjell i snøstorm, den ene bærer en baby pakket inn i pels"
 fontes:
   - "Sturla Þórðarson, *Hákonar saga Hákonarsonar* (1260-årene)"

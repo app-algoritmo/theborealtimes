@@ -6,7 +6,7 @@ natureza: "Original fortelling"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/nisse-mingau.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en liten grå-skjegget nisse i rød lue som sitter på høy i en låve om natten, foran en skål med grøt og smør."
 tags: [nisse, originalt-eventyr, nordisk-jul, folketro, gård]
 ---

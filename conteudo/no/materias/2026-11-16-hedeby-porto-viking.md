@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/hedeby-porto.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vikinghavn ved daggry, med lastskip fortøyd til en trekai, stablede kasser og tønner, stråtekte hus og en halvsirkelformet voll i bakgrunnen"
 fontes:
   - "Wikinger Museum Haithabu, Schleswig"

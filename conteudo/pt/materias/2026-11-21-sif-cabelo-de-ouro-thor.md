@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/sif-cabelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de longos cabelos dourados que brilham como trigo maduro, de pé num campo ao entardecer, com um deus de barba ruiva ao lado segurando um martelo e, ao fundo, duas pequenas figuras de anões trabalhando numa forja"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Skáldskaparmál* e *Gylfaginning*, trechos sobre Sif e seus filhos, por volta de 1220)"

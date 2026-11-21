@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/ivar-exercito.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en blek vikinghøvding med kaldt blikk som sitter på en skjoldstol båret av fire krigere, foran en rekke telt i en leir ved en elv, med røyk fra leirbål og hester bak under en vinterhimmel"
 fontes:
   - "*Den angelsaksiske krøniken* (satt sammen mellom 800- og 1100-tallet), årene 865 til 878"

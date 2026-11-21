@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/vili-e-ve-irmaos-de-odin.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av tre høye skikkelser i kapper ved havet, én med blå hette og to med grå og brune kapper, foran to trestammer som ligger på sanden, med kalde bølger og en skyet morgenhimmel."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, om skapelsen av verden og av Ask og Embla)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/lagarfljot-serpente.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lang grå islandsk innsjø i tåke, og en slangekropp med flere pukler som stiger opp av vannet, mens en liten skikkelse på stranden ser på"
 fontes:
   - "Islandsk folketro om Lagarfljótsormur"

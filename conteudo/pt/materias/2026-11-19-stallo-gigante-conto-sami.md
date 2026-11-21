@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/stallo-gigante.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma figura enorme de cota de malha enferrujada e barba branca curvada sob uma tenda de couro numa paisagem de tundra ao entardecer, com neve, renas ao longe, uma pequena figura esperta de roupa colorida sentada junto ao fogo e uma panela fumegando"
 fontes:
   - "Just Qvigstad, *Lappiske eventyr og sagn* (coletânea de contos sámi, publicada entre 1927 e 1929)"

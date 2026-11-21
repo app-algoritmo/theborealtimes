@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/frigg-esposa-odin-fensalir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en moden norrøn gudinne i blå kappe og hvit hodepynt, sittende i en trehall ved ildlys, med en rokk ved siden av og en eske av ask på fanget til en knelende tjenestepike; i bakgrunnen, gjennom vinduet, en misteltein over snøen og, på et høyt sete, en enøyd skikkelse som ser ut over verden."
 fontes:
   - "Wikipedia, «Frigg» (navn, fredag, Origo Gentis Langobardorum, Paulus Diakonus, Merseburg, Den eldre Edda, Snorres Edda, Ynglinga saga, Völsunga saga, tjenestepiker, Frigg og Freyja)"

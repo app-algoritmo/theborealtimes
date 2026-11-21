@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/guarda-varegue.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de guerreiros vikings com cotas de malha arrastando um navio sobre troncos numa margem verde, com as cúpulas douradas de Constantinopla brilhando no horizonte"
 fontes:
   - "Constantino VII Porfirogeneta, *De Administrando Imperio* (cerca de 950)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/orvar-odd-faxi.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gammel, hvitskjegget kriger i mørk kappe som står på åpen mark, med spydspissen mot en halvt nedgravd hestekranium i gresset der en hoggorm kommer ut, og tre tynne piler stukket i bakken ved siden av"
 fontes:
   - "Ukjent forfatter, *Örvar-Odds saga* (islandsk sagnsaga, 1200- og 1300-tallet)"

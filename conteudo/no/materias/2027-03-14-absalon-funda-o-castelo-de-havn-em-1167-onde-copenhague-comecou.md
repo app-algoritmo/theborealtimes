@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/absalon-castelo-de-havn.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en liten borg av kalkstein på en lav øy ved et grått sund, med et treskip som losser store blokker på kaia og en biskop i mørk kappe som peker på muren under bygging; fiskebåter i bakgrunnen."
 fontes:
   - "Saxo Grammaticus, Gesta Danorum (omkring 1200)"

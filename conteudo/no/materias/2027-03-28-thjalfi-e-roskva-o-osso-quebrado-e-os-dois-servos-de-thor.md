@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/thjalfi-osso-da-coxa-de-bode.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gårdsstue ved ilden, der Tor løfter en hammer over to bukkeskinn som ligger utbredt med rene ben, mens en redd gutt og en jente ser på, og en av bukkene reiser seg halt."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 44 til 47)"

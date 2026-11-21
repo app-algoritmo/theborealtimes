@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/agnete-mar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i blå kjole og utslått hår ved kanten av en dansk strand i skumringen, som ser på bølgene, med en blågrønn havmann som reiser seg fra vannet til livet og rekker ut en hånd, og en liten kirke med tårn i bakgrunnen"
 fontes:
   - "Svend Grundtvig (red.), *Danmarks gamle Folkeviser* (fra 1853), balladen «Agnete og Havmanden»"

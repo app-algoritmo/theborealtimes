@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/magnus-bom-lyrskov.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma charneca aberta ao amanhecer, com uma linha de guerreiros nórdicos de escudos redondos à frente de um jovem rei de camisa vermelha de seda e machado erguido, e no céu, em névoa dourada, a silhueta de um rei santo de coroa; ao longe, uma multidão de guerreiros avança."
 fontes:
   - "Verbete \"Battle of Lyrskov Heath\", Wikipédia"

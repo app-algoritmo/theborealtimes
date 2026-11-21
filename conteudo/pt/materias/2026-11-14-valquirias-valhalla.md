@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/valquirias-valhalla.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma valquíria de armadura montada num cavalo branco sobre um campo de batalha ao entardecer, com guerreiros caídos no chão e, ao fundo, um grande salão cujo telhado parece feito de escudos dourados"
 fontes:
   - "Grímnismál, Vafþrúðnismál e Lokasenna, na Edda Poética (manuscritos do século XIII)"

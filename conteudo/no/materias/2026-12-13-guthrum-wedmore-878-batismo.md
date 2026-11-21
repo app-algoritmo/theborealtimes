@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/guthrum-wedmore-878.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en liten elv i en grønn dal, med en høy lyshåret mann i hvit tunika som døpes av en biskop med mitra, foran en konge i blå kappe som ser på stående, med tretti panserkledde krigere i stillhet på bredden og stråtekte hytter i bakgrunnen."
 fontes:
   - "*Anglosaksisk krønike*, innføringene for årene 878 og 890"

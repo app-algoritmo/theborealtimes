@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/bifrost-ponte-de-tres-cores.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ponte luminosa de três faixas de cor, uma vermelha como brasa, arqueada entre uma colina verde e um palácio no céu; no alto, um guarda com um grande chifre vigia, e cavaleiros cruzam a ponte ao entardecer."
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, capítulos 13, 15, 17, 27 e 51; Skáldskaparmál, capítulo 16)"

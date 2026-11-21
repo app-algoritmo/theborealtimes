@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/grogaldr-nove-feiticos.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem diante de um monte funerário coberto de neve ao anoitecer; do monte ergue-se a figura pálida de uma mulher cantando, com nove pequenos símbolos de luz flutuando ao redor dela, e ao fundo uma trilha sobe a montanha."
 fontes:
   - "Grógaldr, estrofes 6 a 14, Edda Poética (tradução de Lee M. Hollander, 1962)"

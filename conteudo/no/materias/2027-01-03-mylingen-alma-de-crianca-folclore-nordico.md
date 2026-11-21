@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/mylingen-alma-crianca-estrada.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ensom grusvei i Sverige om natten, under fullmåne mellom furutrær og lav tåke, med en reisende med lykt i hånden som ser seg tilbake og en liten blek skikkelse i nattkjole som dukker opp ved veikanten; i bakgrunnen korsene på en bygdekirkegård med steinmur og en trekirke."
 fontes:
   - "Wikipedia, «Myling» (navn og etymologi, møtet og tyngden, midler, historisk bakgrunn, studier av af Klintberg, Kvideland og Sehmsdorf, Pentikäinen og Simpson)"

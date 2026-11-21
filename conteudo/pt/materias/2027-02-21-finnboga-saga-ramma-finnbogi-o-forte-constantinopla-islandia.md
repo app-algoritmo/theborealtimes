@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/finnbogi-constantinopla-portao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem alto e de ombros largos, de capa vermelha, diante de um grande portão de cidade com cúpulas ao fundo, enquanto um homem de ricas vestes lhe entrega uma bolsa; a seus pés, a pele de um urso."
 fontes:
   - "Wikipedia, \"Finnboga saga ramma\" (enredo, manuscritos, datação, relação com a Vatnsdæla saga)"

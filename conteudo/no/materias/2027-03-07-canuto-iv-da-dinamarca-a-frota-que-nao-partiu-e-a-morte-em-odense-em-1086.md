@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/canuto-iv-odense.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vik med mange trebåter med drakehoder oppankret i rekker under grå himmel, og på land en trekirke med alter lyst opp av stearinlys, der en konge i rød kappe knesetter seg foran væpnede menn som kommer inn døren."
 fontes:
   - "Wikipedia-artikkelen «Canute IV of Denmark»"

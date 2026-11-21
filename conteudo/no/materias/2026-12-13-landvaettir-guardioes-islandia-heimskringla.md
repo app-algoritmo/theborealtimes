@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/landvaettir-ilha.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vulkansk øy sett fra sjøen, med fire gigantiske skikkelser som vokter hver sin side av kysten: en vinget drage omgitt av slanger i øst, en enorm fugl med utstrakte vinger i nord, en okse med bronsehorn som vader ut i vannet i vest og en jotun med jernstav, høyere enn fjellene, i sør; på havet svømmer en mørk hval bort."
 fontes:
   - "Snorre Sturlason, *Heimskringla*, *Olav Tryggvasons saga* (ca. 1230), passasjen om Harald Gormssons spionasje"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/assipattle-stoor-worm-orkney.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung mann med rufsete hår i en liten båt som ror mot gapet på en kjempestor, skjellkledd havorm mens han holder en glødende torv; i bakgrunnen en klippekyst og, i bølgene, holmer som ligner steintenner, med en prinsesse langt borte i et tårn og en hest på stranden."
 fontes:
   - "Wikipedia, «Assipattle and the Stoor Worm» (eventyr fra Orknøyene, Walter Traill Dennison, The Scottish Antiquary 1891, Douglas' samling, Marwick, Dasent, Hartland, Simpson, handling, opphavet til øyene)"

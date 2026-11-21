@@ -6,7 +6,7 @@ natureza: "Historia documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/a-pedra-de-froso.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una piedra rúnica junto a un embarcadero de barcaza en un estrecho de aguas tranquilas, con un puente de madera en construcción al fondo y tres hombres trabajando, uno de ellos grabando runas en la piedra."
 fontes:
   - "Wikipedia en inglés, artículo «Frösö Runestone» (J RS1928;66)"

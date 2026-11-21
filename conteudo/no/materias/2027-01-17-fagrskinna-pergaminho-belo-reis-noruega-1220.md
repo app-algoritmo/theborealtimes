@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/fagrskinna-pergaminho-belo-reis.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et skrivebord med et bredt pergament rullet ut, med ryddige kanter, dekket av tekstlinjer og vers skrevet i korte rader; ved siden av et blekkhus, en fjærpenn og en liten stabel med andre pergamenter, og bak dem et steinvindu som slipper kaldt lys inn over en fjord med mørkt vann."
 fontes:
   - "Wikipedia, «Fagrskinna» (datering, forfatterskap, dekning, kilder, forhold til Morkinskinna, Heimskringla og Ágrip, håndskrifter, navnets betydning)"

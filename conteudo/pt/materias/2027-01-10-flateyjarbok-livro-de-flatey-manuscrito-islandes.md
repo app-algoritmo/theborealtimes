@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/flateyjarbok-livro-flatey-manuscrito.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma sala de escrita islandesa de turfa e madeira, à luz de lamparina, onde dois padres de hábito escuro trabalham curvados sobre grandes folhas de pergaminho: um escreve com pena, outro desenha uma letra capitular colorida; pilhas de folhas secando, tinteiros de chifre e, pela janela estreita, o mar cinzento de uma ilha."
 fontes:
   - "Wikipedia, \"Flateyjarbók\" (encomenda, copistas, datas, conteúdo, trajetória até Copenhague e devolução em 1971)"

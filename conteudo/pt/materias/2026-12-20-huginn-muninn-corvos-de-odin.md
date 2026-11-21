@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/huginn-muninn-corvos.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus de um olho só, de capa azul e chapéu largo, sentado num trono alto ao entardecer, com dois corvos negros pousados nos ombros, um sussurrando em cada ouvido; ao fundo, um vasto mundo de campos, florestas e mar visto do alto, e uma terceira ave voando ao longe sobre uma montanha."
 fontes:
   - "Wikipedia, \"Huginn and Muninn\" (fontes primárias, significado dos nomes, achados arqueológicos e interpretações modernas)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/odin-runas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Qwen)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus de um olho só pendurado em um freixo gigante sob um céu estrelado, com runas luminosas flutuando ao redor."
 fontes:
   - "*Edda Poética*, poema Hávamál (manuscrito do século XIII)"

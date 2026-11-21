@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/ohthere-renas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gråskjegget nordisk høvding ved skipet sitt på en arktisk kyst som ser på en reinflokk ført av en samisk gjeter med blå lue, under en blek ettermiddagshimmel"
 fontes:
   - "*Gammelengelsk Orosius*, versjon knyttet til kong Alfred den stores krets (slutten av 800-tallet), med beretningene til Ohthere og Wulfstan"

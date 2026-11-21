@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/birka-guerreira.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et gravkammer av tre med et skjelett svøpt i silke, våpen, piler, to hester og brikker fra et brettspill, i lyktelys"
 fontes:
   - "Charlotte Hedenstierna-Jonson m.fl., 'A female Viking warrior confirmed by genomics', *American Journal of Physical Anthropology*, 2017"

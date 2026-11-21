@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/egil-poema.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um poeta viking em um salão à luz de velas, recitando diante de um rei e uma rainha sentados, com guerreiros observando nas sombras."
 fontes:
   - "*Saga de Egil* (*Egils saga Skallagrímssonar*), início do século XIII, autoria incerta, muitas vezes atribuída a Snorri Sturluson"

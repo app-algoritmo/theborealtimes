@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/uunartoq-disco-de-sol.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en skive av lyst tre med trekantede hakk rundt kanten og et hull i midten, utstyrt med en loddrett pinne som kaster en tynn skygge over inngraverte linjer; i bakgrunnen dekket på et treskip på et kaldt hav og en lav, gyllen sol."
 fontes:
   - "Wikipedia-artikkelen «Uunartoq Disc»"

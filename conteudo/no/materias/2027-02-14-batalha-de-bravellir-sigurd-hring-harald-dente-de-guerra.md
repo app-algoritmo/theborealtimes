@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/batalha-de-bravellir-exercitos.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vid slette under en stormfull himmel, der to store hærer med spyd og runde skjold møtes, en gammel konge i en vogn med et sverd i hver hånd og, i bakgrunnen, en bukt med et stort antall langskip; en skikkelse med bredbremmet hatt ser på fra en høyde."
 fontes:
   - "Wikipedia, «Battle of Brávellir» (beretningene til Saxo, Sögubrot og Hervarar saga, tall, sted, historisitet)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/gudbrand-da-encosta-troca.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um fazendeiro de chapéu de feltro, caminhando por uma estrada de montanha na Noruega, com um galo debaixo do braço, atrás dele um cavalo, um porco, uma cabra, uma ovelha e um ganso que ele já trocou, mostrados em silhueta clara no caminho; ao longe, uma casa de toras na encosta, com uma mulher sorrindo na porta."
 fontes:
   - "Wikipedia, \"Gudbrand on the Hill-side\" (Asbjørnsen e Moe, Dasent em 1859, enredo, aposta de cem táleres, Andersen em 1861, Johannes V. Jensen em 1939, temas, classificação AT 1415)"

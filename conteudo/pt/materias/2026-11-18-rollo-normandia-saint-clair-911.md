@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/rollo-sena.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um chefe viking de barba escura e cota de malha ao lado de um nobre franco de manto azul, apertando as mãos diante de uma tenda numa margem de rio, com navios de proa em dragão ancorados atrás e cavaleiros observando de longe"
 fontes:
   - "Dudo de Saint-Quentin, *De moribus et actis primorum Normanniae ducum* (por volta de 1015)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/pesta-velha-da-peste-negra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en blek, gråaktig gammel kvinne i mørk kappe som går langs en sti med gårder i en li, med en sopelime i den ene hånden og en rive i den andre, under en tåkete himmel; langt unna ser en liten jente ut av et vindu."
 fontes:
   - "«Pesta kommer», Tidsskrift for Den norske legeforening (tidsskriftet.no, 2007), om de norske sagnene om svartedauen og Theodor Kittelsens tegninger"

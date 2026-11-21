@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/fossegrim-violino.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um espírito pálido de cabelos de água branca sentado numa pedra coberta de musgo ao lado de uma cachoeira ao entardecer, tocando um violino, com um menino de fazenda ajoelhado ouvindo"
 fontes:
   - "Benjamin Thorpe, *Northern Mythology*, 1851-1852, volume 2"

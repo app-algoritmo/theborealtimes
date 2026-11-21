@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/backahast-cavalo-riacho.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en svensk skogsbekk dekket av tåke ved daggry, med en majestetisk hvit hest stående på bredden, manen våt og øynene bleke; ved siden av rekker et barn i rød genser ut en hånd mot den, og i vannet bak speiles grener sammen med en mørk silhuett som ligner en mann med fiolin."
 fontes:
   - "Wikipedia (speil), «Neck (water spirit)» (navn, bäckahäst, Norge og Færøyene, kristen tids forestillinger, usikkerheter)"

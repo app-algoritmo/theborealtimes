@@ -6,7 +6,7 @@ natureza: "Historia documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/a-pedra-de-karlevi.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una piedra rúnica de granito de poco más de un metro en una pradera costera con el estrecho de Kalmar al fondo, con bandas de runas rectas, y una figura de mujer con velo que lee las inscripciones con la mano."
 fontes:
   - "Wikipedia en inglés, artículo «Karlevi Runestone» (Öl 1), con la inscripción, la traducción y las referencias"

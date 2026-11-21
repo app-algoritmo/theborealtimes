@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-17
 imagem: "/estatico/img/materias/hermodr-cavalgada-hel-baldr.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rytter i mørk kappe på en stor grå åttebeint hest, som galopperer om natten gjennom en dyp, dyster dal mot en gullbelagt bru over en svart elv; ved siden av brua følger en ung kvinne i lys kjole ham med en lykt, og i bakgrunnen står porten til en steinsal under en stjerneløs himmel."
 fontes:
   - "Wikipedia, «Hermóðr» (Gylfaginning, kap. 49; Hyndluljóð; Hákonarmál; Beowulf; Codex Regius)"

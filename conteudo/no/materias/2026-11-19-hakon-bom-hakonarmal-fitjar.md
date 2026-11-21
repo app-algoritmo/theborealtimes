@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/hakon-fitjar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norsk konge i gullhjelm og ringbrynje som har falt ved foten av en mast på en steinstrand, med såret arm, mens to kvinnelige skikkelser i skinnende rustning og spyd kommer ned fra den overskyede himmelen over et grått hav"
 fontes:
   - "Snorre Sturlason, *Heimskringla* (*Håkon den godes saga*, omkring 1230)"

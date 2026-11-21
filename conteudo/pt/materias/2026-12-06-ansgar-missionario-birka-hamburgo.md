@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/ansgar-birka.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um monge de hábito marrom, de rosto magro e cajado, caminhando por um cais de madeira em Birka, com barcos de comerciantes ao fundo e uma pequena cruz de madeira numa colina; moradores de túnicas coloridas o observam com curiosidade."
 fontes:
   - "Rimbert, *Vita Anskarii* (c. 870), trad. inglesa de Charles H. Robinson, *Anskar, the Apostle of the North* (1921)"

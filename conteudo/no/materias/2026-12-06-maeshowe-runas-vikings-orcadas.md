@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/maeshowe-camara.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av innsiden av et steinkammer, med store heller som er nøye føyd sammen, opplyst av gløden fra en fakkel; flere menn i tykke kapper og mørke skjegg rister runer inn i veggen med tuppen av en kniv, mens et svakt snøfall driver inn gjennom inngangsgangen."
 fontes:
   - "Orknøyingenes saga (ca. 1200), overs. Hermann Pálsson og Paul Edwards (Penguin Classics, 1978), episoden fra 1153"

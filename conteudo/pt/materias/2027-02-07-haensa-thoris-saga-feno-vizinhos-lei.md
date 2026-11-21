@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/haensa-thoris-saga-feno.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma fazenda islandesa no inverno, com um grande monte de feno coberto de neve ao lado de um celeiro de turfa; um homem de aspecto severo barra o caminho com os braços cruzados, enquanto três vizinhos, de capas e capuzes, discutem com ele sob um céu cinzento."
 fontes:
   - "Wikipedia, \"Hænsa-Þóris saga\" (enredo, Ari Þorgilsson na Íslendingabók, Magnus VI, objeção no Althing em 1281, manuscrito AM 162 G fol)"

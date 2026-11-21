@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/moinho-sal-mar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um moinho de pedra mágico girando no fundo de um mar escuro, soltando sal branco brilhante, com o casco de um navio viking afundando ao fundo"
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, *Norske Folkeeventyr* (1841-1844)"

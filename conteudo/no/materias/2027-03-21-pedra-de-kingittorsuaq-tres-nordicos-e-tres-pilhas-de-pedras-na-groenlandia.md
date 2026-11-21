@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/kingittorsuaq-as-tres-vardar.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bar, steinete arktisk øy, med tre steinvarder som danner en trekant på toppen av en haug, en hella med runer i midten, og bak dem et ishav i lavt sollys; tre fangstmenn klatrer opp skråningen."
 fontes:
   - "Runeinnskriften fra Kingittorsuaq (Danmarks Nationalmuseum)"

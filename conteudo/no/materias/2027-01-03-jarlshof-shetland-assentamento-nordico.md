@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/jarlshof-shetland-casa-longa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et arkeologisk område ved en vindfull bukt sør på Shetland, med lave steinmurer fra flere tider stablet oppå hverandre, et rundt jernalder-steintårn i bakgrunnen og et 20 meter langt norrønt langhus med torvtak under rekonstruksjon; i forgrunnen måler en arkeolog en skiferhelle med tegning av et skip med dragehode, og sauer beiter på haugen."
 fontes:
   - "Wikipedia, «Jarlshof» (Shetland, lag, utgravninger i 1925 og Alex Curle, norrønn bosetning, funn, Walter Scotts navn, foreløpig verdensarv)"

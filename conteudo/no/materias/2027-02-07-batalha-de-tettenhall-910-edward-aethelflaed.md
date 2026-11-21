@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/batalha-de-tettenhall-910.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en engelsk slette med grønne marker og elver, der to hærer av krigere med runde skjold og ringbrynjer omringer en gruppe vikingraidere ved en haug med bytte og tønner; i bakgrunnen flagg fra Wessex og Mercia under en himmel med lave skyer."
 fontes:
   - "Wikipedia, «Battle of Tettenhall» (dato fra Æthelweard, felttoget i 910, drepte vikingkonger, følger)"

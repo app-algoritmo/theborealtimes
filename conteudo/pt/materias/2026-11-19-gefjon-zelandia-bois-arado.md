@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/gefjon-arado.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma deusa de manto claro conduzindo quatro enormes bois num arado, abrindo um sulco profundo na terra à beira de um lago, com um pedaço de chão se soltando e deslizando para o mar sob um céu de crepúsculo"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa* (*Gylfaginning*, prólogo da primeira parte, por volta de 1220)"

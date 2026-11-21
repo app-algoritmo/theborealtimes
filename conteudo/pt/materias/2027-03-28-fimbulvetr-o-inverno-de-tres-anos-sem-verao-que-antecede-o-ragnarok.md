@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/fimbulvetr-inverno-sem-verao.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma fazenda de madeira quase soterrada por neve que chega de todos os lados, sob um céu escuro onde o sol aparece pálido e fraco; uma família observa da porta, e ao fundo uma árvore enorme resiste ao vento."
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, capítulo 51)"

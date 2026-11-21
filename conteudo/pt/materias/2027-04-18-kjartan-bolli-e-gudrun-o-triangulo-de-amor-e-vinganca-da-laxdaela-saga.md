@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/kjartan-bolli-e-gudrun.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de três figuras numa fazenda islandesa de turfa ao entardecer: um homem alto e orgulhoso, outro que o olha de lado, e uma mulher de véu escuro entre eles, com um toucado bordado nas mãos."
 fontes:
   - "Wikipédia em inglês, artigo \"Laxdæla saga\", com o enredo, a datação e os manuscritos"

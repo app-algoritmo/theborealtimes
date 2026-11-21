@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/sigmund-espada-no-tronco.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerhall med bål langs gulvet og et enormt tre midt i rommet, med greiner som går gjennom taket; en ung mann drar i et sverd som sitter i stammen, mens en gammel mann med slokhatt og flekkete kappe går ut døra i bakgrunnen."
 fontes:
   - "Volsungesaga, kapittel 3 (engelsk oversettelse av William Morris og Eiríkr Magnússon, 1870)"

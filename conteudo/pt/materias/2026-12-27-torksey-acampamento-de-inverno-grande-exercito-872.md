@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/torksey-acampamento-grande-exercito.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha plana à beira do rio Trent no fim do outono, com centenas de tendas de lona e cabanas baixas, hordas de guerreiros nórdicos reparando navios na margem, mulheres com fusos, um homem pesando prata numa balança e um grupo jogando com peças de chumbo sobre um escudo; ao fundo, névoa e charcos."
 fontes:
   - "Universidade de Sheffield, via ScienceDaily (18 de maio de 2017), sobre o acampamento de Torksey (Hadley e Richards, *The Antiquaries Journal*, 2016)"

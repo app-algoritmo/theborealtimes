@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/brand-o-generoso-tres-pedidos.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tresal i Nidaros, der en islending står foran kong Harald og river ermet av en rød tunika og kaster resten bort, mens en skald ved siden av ser på; en kappe og en øks innlagt med gull ligger på benken."
 fontes:
   - "Brands þáttr örva («Fortellingen om Brand den gavmilde»), oversettelse av Eiður Eyþórsson for We Vikings, basert på Morkinskinna (GKS 1009 fol.), Hulda (AM 66 fol.) og Hrokkinskinna (GKS 1010 fol.), utgave av Einar Ól. Sveinsson, Íslenzk fornrit IV"

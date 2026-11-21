@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/emma-da-normandia-rainha.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma rainha de meia-idade, de véu e manto azul-escuro com borda dourada, de pé numa catedral de pedra com colunas e arcos, tendo ao lado dois reis de coroas diferentes, um mais velho de barba branca e outro louro e jovem; sobre uma mesa, um manuscrito aberto com uma miniatura dela recebendo um livro."
 fontes:
   - "Wikipedia, \"Emma of Normandy\" (nascimento, Ælfgifu, casamentos com Æthelred e Cnut, filhos, exílio de 1013–14, Encomium Emmae Reginae, Courtenay Compendium, Alfred em 1036, Harthacnut, Eduardo o Confessor, morte em 1052, lenda da prova do fogo)"

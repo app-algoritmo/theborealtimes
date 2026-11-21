@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/soria-moria.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et gyllent slott som skinner på en høyde mellom furutrær i solnedgang, med en gutt i kappe og et lite skip i en bukt langt unna"
 fontes:
   - "Asbjørnsen og Moe, Norske Folkeeventyr"

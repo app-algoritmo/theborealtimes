@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/birkebeiner-haakon.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois esquiadores medievais com roupas de pele atravessando uma montanha nevada numa nevasca, um deles carregando um bebê enrolado em peles"
 fontes:
   - "Sturla Þórðarson, *Hákonar saga Hákonarsonar* (década de 1260)"

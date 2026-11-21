@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/orvar-odd-faxi.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um velho guerreiro de barba branca e de manto escuro de pé sobre um campo aberto, com a ponta de uma lança tocando um crânio de cavalo meio enterrado na grama, de onde uma víbora emerge, e três flechas finas cravadas no chão ao lado"
 fontes:
   - "Autor desconhecido, *Örvar-Odds saga* (saga lendária islandesa, séculos XIII e XIV)"

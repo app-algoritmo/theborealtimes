@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/rurik-ladoga.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor trebåt med utskåret stavn som beveger seg opp en rolig elv mellom mørke skoger, med menn i hjelm og runde skjold langs borden og et tettsted av trehus på en haug ved bredden, under en blek morgenhimmel"
 fontes:
   - "*Nestorkrøniken* (*Povest' vremennykh let*, «Fortellingen om de svunne år», satt sammen i Kiev omkring 1113)"

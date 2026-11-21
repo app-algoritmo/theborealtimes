@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/snorri-godi-em-helgafell.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann med grått skjegg og kappe som sitter på en steinbenk foran et torvhus på en lav ås, med en innsjø og fjell bak og tre pergamentruller på fanget."
 fontes:
   - "Eyrbyggja saga (kapittel 14, 15, 49 og 56)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/mannen-casa.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et norsk tømmerhus med torvtak, en ku som henger i et tau ved siden av pipa og en mann i hvit skjorte som er heist opp av den andre enden av tauet, mens en kvinne med skaut løper inn på tunet med en kniv i hånden og en gris flykter mellom hønene"
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, *Norske Folkeeventyr* (1841 til 1844), eventyret «Mannen som skulle stelle hjemme»"

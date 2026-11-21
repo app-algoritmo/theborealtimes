@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/ladoga-contas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um povoado de casas de madeira à beira de um rio largo na Rússia setentrional, com barcos de casco raso puxados à margem, mercadores trocando peles e prata, e numa oficina aberta um artesão fazendo contas de vidro colorido sobre uma chama, sob um céu claro de verão"
 fontes:
   - "Jonathan Shepard e Simon Franklin, *The Emergence of Rus, 750–1200* (Longman, 1996)"

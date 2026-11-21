@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/marbendill-homem-do-mar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pequeno ser de pele esverdeada e barba de algas, preso por uma rede de um barco a remo num mar cinzento, olhando um fazendeiro barbudo de gorro de lã, enquanto gaivotas voam em volta sob um céu frio do norte."
 fontes:
   - "Jón Árnason, \"Þá hló marbendill\", em Íslenzkar þjóðsögur og æfintýri (século XIX)"

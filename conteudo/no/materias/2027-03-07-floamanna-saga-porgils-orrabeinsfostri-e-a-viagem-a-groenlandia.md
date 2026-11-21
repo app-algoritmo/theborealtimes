@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/floamanna-saga-groenlandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkskjegget mann i ullkappe som står på en snødekt strand ved siden av en grunnstøtt båt, med en baby innsvøpt i pelsverk i armene; i bakgrunnen isblokker, hvite fjell og en himmel med lave skyer, og et lite bål tent til venstre."
 fontes:
   - "Wikipedia-artikkelen «Flóamanna saga»"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/sigurd-fafnir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung norrøn helt som huker seg i en grop på en steinete hei med et blinkende sverd, mens en enorm grønn drage kryper over gropa i et stormfullt skumringslys"
 fontes:
   - "*Völsunga saga* (ca. 1270)"

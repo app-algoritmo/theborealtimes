@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/baldr-visco.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av den strålende guden Balder i en hall i Asgard mens gudene kaster spyd og steiner som preller av, og en misteltein glør i et mørkt hjørne"
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delen Gylfaginning (ca. 1220)"

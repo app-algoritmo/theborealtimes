@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/knytlinga-saga-reis-dinamarca.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konge med gylden krone som sitter på en trone av tre i en dansk hall, med en islandsk skriver i mørk kappe som noterer bragdene på pergament ved siden av; i bakgrunnen, gjennom et vindu, kommer et langskip til en kyst med mangehodete trebilder, og et kors reises på stranden."
 fontes:
   - "Wikipedia, «Knýtlinga saga» (tid, forfatterskap, Danmarks konger, Valdemar II, Heimskringla, venderne og slaviske guder, Svantevit i Arkona, Gartz, omvendelser, oversettelse av Hermann Pálsson og Paul Edwards, 1986)"

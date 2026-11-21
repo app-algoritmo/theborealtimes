@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/bosa-saga-sala-do-rei.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tømret hall med en konge på tronen og foran ham en kraftig mann i mørk kappe ved siden av en eldre kvinne med slør og løftede armer; på et bord en lærpung full av mynter og i bakgrunnen en skattmester som krymper seg."
 fontes:
   - "Wikipedia, «Bósa saga ok Herrauðs» (personer, handling, utgaver og oversettelser)"

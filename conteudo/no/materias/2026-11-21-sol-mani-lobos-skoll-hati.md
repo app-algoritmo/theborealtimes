@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/sol-mani.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i en gylden vogn trukket av to hester over en rødnende himmel, med en stor mørk ulv som løper bak med åpen munn og, i bakgrunnen, en blek måne ledet av en ung mann til fots over skyene"
 fontes:
   - "Snorre Sturlason, *Yngre Edda* (*Gylfaginning*, kapitler om sola, månen og ulvene, omkring 1220)"

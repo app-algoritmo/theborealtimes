@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/freyja-brisingamen.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração da deusa Freyja numa caverna de anões iluminada por forjas, recebendo um colar de ouro brilhante"
 fontes:
   - "*Edda Poética*, poema Þrymskviða (manuscrito do século XIII)"

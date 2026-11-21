@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/svolder-ormen.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande navio-dragão viking cercado por navios menores num mar cinzento, com guerreiros de escudos redondos no convés e uma flecha cruzando o céu"
 fontes:
   - "Heimskringla, Óláfs saga Tryggvasonar (Snorri Sturluson)"

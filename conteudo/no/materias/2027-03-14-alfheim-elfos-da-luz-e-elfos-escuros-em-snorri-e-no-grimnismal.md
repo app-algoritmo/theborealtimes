@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/alfheim-elfos-luz-e-sombra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon delt i to: øverst en lys lysning med slanke, gullhårede skikkelser foran en lyshall; nederst, under røtter og stein, mørke, krumbøyde skikkelser ved en esse med svak glo."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning)"

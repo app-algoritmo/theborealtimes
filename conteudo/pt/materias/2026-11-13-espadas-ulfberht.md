@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/espadas-ulfberht.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um ferreiro viking martelando uma espada incandescente sobre uma bigorna, entre faíscas, numa oficina de pedra"
 fontes:
   - "Anne Stalsberg, estudo sobre produção e distribuição das espadas Ulfberht, *Zeitschrift für Archäologie des Mittelalters* (2008)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/batalha-de-nesjar-fiorde.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norsk fjord med grått vann en marsmorgen, med dusinvis av langskip med utskårne stavner fortøyd side om side, folk i kapper og skjold langs rekkene, snø i liene og en tømmerkirke i det fjerne; i forgrunnen en skald i kappe som noterer vers på et brett."
 fontes:
   - "Wikipedia, «Battle of Nesjar» (dato, styrker, sted, dikt, følger, monument)"

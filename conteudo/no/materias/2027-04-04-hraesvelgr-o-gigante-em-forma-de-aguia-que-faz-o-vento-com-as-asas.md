@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/hraesvelgr-gigante-aguia-vento.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en digert mørk ørn med utstrakte vinger, sittende på en stein ytterst på en grå himmel, med skyer og buede vindstrøk under seg og bittesmå seilbåter på et fjernt hav."
 fontes:
   - "Den eldre Edda, Vafþrúðnismál (strofe 37)"

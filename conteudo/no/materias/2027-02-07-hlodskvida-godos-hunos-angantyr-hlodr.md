@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/hlodskvida-godos-hunos.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to hærer på en slette, den ene av krigere i ringbrynje med runde skjold, den andre av ridende bueskyttere i pelslue, som står mot hverandre i kanten av en skog; i midten løfter en høvding i rød kappe en arm, og bak ham ser en ung kvinnelig kriger med hjelm på."
 fontes:
   - "Wikipedia, «Hlöðskviða» (handling, Hervarar saga, håndskriftene H og R, Christopher Tolkien, historiske identifikasjoner, parallelle tradisjoner)"

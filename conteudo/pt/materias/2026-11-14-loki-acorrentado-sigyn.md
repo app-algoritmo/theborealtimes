@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/loki-sigyn.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma caverna escura onde um deus preso a três pedras se contorce, enquanto uma mulher ao lado ergue uma tigela para aparar o veneno que pinga de uma serpente no teto"
 fontes:
   - "*Lokasenna*, poema da *Edda Poética* (manuscrito Codex Regius, cerca de 1270)"

@@ -6,7 +6,7 @@ natureza: "Mito o leyenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/jord-a-terra-mae-de-thor.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una mujer inmensa y serena tendida como un paisaje cubierto de hierba y flores, con montañas en los hombros, y un joven guerrero de barba pelirroja y martillo a su lado, mirándola."
 fontes:
   - "Wikipedia en inglés, artículo «Jörð», con los pasajes de la Gylfaginning, el Skáldskaparmál, la Völuspá, la Lokasenna y el Hárbarðsljóð"

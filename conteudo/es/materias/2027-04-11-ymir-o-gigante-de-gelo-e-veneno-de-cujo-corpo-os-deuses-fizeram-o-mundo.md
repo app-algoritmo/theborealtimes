@@ -6,7 +6,7 @@ natureza: "Mito o leyenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-11
 imagem: "/estatico/img/materias/ymir-gigante-do-gelo.webp"
-imagem_credito: "Ilustración generada por inteligencia artificial"
+imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gigante inmenso y pálido, hecho de hielo azulado, tumbado de lado en una llanura de nieve bajo un cielo sin estrellas, con tres figuras pequeñas con capa de pie sobre su hombro y vapor que sube del valle del fondo."
 fontes:
   - "Snorri Sturluson, Edda prosaica (Gylfaginning, capítulos 5 a 8)"

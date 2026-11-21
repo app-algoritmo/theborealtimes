@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/sevilha-guadalquivir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um largo rio calmo ao entardecer, com navios vikings de proa em forma de dragão subindo a corrente em direção a uma cidade de muros baixos e minaretes brancos; na margem, soldados de turbante e cavaleiros se reúnem sob estandartes verdes, e fumaça sobe de algumas casas."
 fontes:
   - "Ibn al-Qūṭiyya (m. 977), *Ta'rīkh iftitāḥ al-Andalus* (relato do ataque de 844)"

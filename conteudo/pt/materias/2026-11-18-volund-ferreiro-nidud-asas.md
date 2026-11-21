@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/volund-ferreiro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um ferreiro de longos cabelos escuros numa pequena ilha rochosa, com uma forja de pedra e ferramentas ao lado, ajustando asas de penas escuras nos braços enquanto o sol se põe sobre o mar"
 fontes:
   - "Autor desconhecido, *Völundarkviða*, na *Edda Poética* (poema conservado em manuscrito do século XIII)"

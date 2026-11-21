@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/lejre-salao-do-rei.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um enorme salão de madeira de teto baixo e longo, com paredes de tábuas e fumaça saindo pelo telhado, numa colina verde da Zelândia, com um túmulo arredondado ao fundo e figuras pequenas caminhando até a porta ao entardecer."
 fontes:
   - "\"Archaeology and the Legendary Hleidargard\", página sobre Lejre e a saga de Hrólfr Kraki, University of California, Los Angeles (viking.ucla.edu), com referência às escavações de Tom Christensen em 1986-1988"

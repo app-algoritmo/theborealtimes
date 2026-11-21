@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/njordr-deus-mar-nootun.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn vik ved daggry, med en lyshåret gud i blå kappe stående i baugen på en fiskebåt, med en hånd rakt mot vinden som fyller seilet; i bakgrunnen et trehus ved vannkanten med måker rundt, og på et fjernt, snødekt fjell silhuetten av en kvinne med ski og bue."
 fontes:
   - "Wikipedia, «Njörðr» (belegg i Den poetiske Edda, Snorres Edda og Heimskringla; ekteskapet med Skaði; etymologi; forskningsdebatt)"

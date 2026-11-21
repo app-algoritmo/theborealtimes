@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/orlygsstadir-1238-campo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en åpen mark i Nord-Island i sensommeren, med to store rekker av menn bevæpnet med skjold og spyd som møtes i en skråning; i forgrunnen faller krigere og et veltet banner, og i bakgrunnen blålige fjell og en trang fjord."
 fontes:
   - "Wikipedia, «Battle of Örlygsstaðir» (dato, ledere, styrker, tap og kilder)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/princesa-que-ninguem-calava.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gutt i slitte klær foran en prinsesse med krone ved en stor peis, med en død kråke, en vidjekvist, en skår av en skål, to geitehorn, en kile og en skosåle utover et trebord."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, «Prinsessen som ingen kunne målbinde» (Norske Folkeeventyr)"

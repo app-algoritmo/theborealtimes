@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/brunanburh-937.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to hærer som møtes i en regnvåt dal: på den ene siden angelsaksiske soldater med runde skjold og drakebannere, på den andre vikinger med hjelm og skotter med spyd, under en tung, skyet himmel med en elv bak"
 fontes:
   - "*Den angelsaksiske krøniken* (årsoppføringen for 937, med diktet «Slaget ved Brunanburh»)"

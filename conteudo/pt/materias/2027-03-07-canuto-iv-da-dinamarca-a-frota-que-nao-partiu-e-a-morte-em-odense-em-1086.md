@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/canuto-iv-odense.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enseada com muitos navios de madeira de proa em dragão ancorados em fileiras sob céu cinzento, e à margem uma igreja de madeira com altar iluminado por velas, onde um rei de manto vermelho se ajoelha à frente de homens armados que entram pela porta."
 fontes:
   - "Verbete \"Canute IV of Denmark\", Wikipédia"

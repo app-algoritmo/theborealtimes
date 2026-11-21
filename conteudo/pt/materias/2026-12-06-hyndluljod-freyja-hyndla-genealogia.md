@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/hyndla-gruta.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma gruta escura iluminada por tochas, onde uma deusa loura de manto vermelho, montada num grande javali de cerdas douradas, enfrenta uma velha gigante de cabelos grisalhos sentada junto ao fogo; ao fundo, um jovem de capa simples observa a cena."
 fontes:
   - "*Edda Poética*, *Hyndluljóð* (preservado na *Flateyjarbók*, fim do século XIV)"

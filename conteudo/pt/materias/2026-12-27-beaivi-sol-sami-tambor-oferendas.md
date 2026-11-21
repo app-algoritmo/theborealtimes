@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/beaivi-sol-sami.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma paisagem ártica de neve azulada no fim do inverno, com um sol baixo e dourado nascendo sobre uma colina e um tambor sámi de couro, pintado com um círculo solar, apoiado numa bétula; em primeiro plano, uma mulher sámi de gorro azul e manto bordado pendura um anel de folhas num galho, e uma rena branca de laço branco na orelha observa de perto."
 fontes:
   - "Wikipedia, \"Beaivi\" (nome, tambores, Beaivi-nieida, oferendas, rena branca, fontes)"

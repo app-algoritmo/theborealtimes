@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/ragnar-cobras.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn kriger i lodne bukser i en steingrop full av slanger, med hodet hevet, mens en konge med krone ser på ham ovenfra"
 fontes:
   - "*Ragnars saga loðbrókar* (1200-tallet)"

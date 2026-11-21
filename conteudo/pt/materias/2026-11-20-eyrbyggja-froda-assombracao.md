@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/eyrbyggja-froda.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma fazenda islandesa de turfa à noite, com vultos pálidos e molhados de pé diante da porta, homens de capa segurando tochas em semicírculo diante deles e a cabeça de uma foca emergindo do chão de terra batida à luz do fogo"
 fontes:
   - "Autor desconhecido, *Eyrbyggja saga* (saga islandesa do século XIII), em *Íslenzk fornrit* IV (Hið íslenzka fornritafélag, 1935)"

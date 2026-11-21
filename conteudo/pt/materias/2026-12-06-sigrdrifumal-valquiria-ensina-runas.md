@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/sigrdrifa-runa.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma colina de pedra cercada por um muro de escudos sob um céu estrelado, onde uma valquíria de armadura prateada, recém-desperta, entrega um chifre de bebida a um jovem guerreiro de cabelos claros; runas luminosas flutuam no ar entre os dois."
 fontes:
   - "*Edda Poética*, *Sigrdrífumál* (Codex Regius, c. 1270, com lacuna; estrofes finais em manuscritos de papel posteriores)"

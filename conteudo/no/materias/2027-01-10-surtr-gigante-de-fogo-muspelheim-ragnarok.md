@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/surtr-gigante-fogo-muspelheim.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lavaslette under en mørkerød himmel, der en kjempestor skikkelse med svart silhuett går fram fra sør med et sverd som gir fra seg hvitt lys; i bakgrunnen en regnbuebro i flammer over et dypt gap, ildelver mellom mørke steiner og røyk som stiger i søyler."
 fontes:
   - "Wikipedia, «Surtr» (Völuspá, Vafþrúðnismál, Gylfaginning, Skáldskaparmál; Surtshellir; Surtsey; teorier av Simek, Phillpotts, Orchard og Lindow)"

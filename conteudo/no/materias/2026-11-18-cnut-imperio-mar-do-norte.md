@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/cnut-mare.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lyssjegget konge med en enkel krone som sitter på en trone av tre på en strand, med hånden løftet foran bølgene som kommer inn, med hoffmenn i mørke kapper som står og ser på og skip med drakehode langt unna under en grå himmel"
 fontes:
   - "*Den angelsaksiske krøniken* (satt sammen mellom 800- og 1100-tallet), årene 1013 til 1035"

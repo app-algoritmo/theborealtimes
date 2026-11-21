@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/capacete-gjermundbu.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial (Gemini)"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração em estilo de museu de um capacete viking de ferro redondo, sem chifres, ao lado de uma cota de malha e um escudo de madeira."
 fontes:
   - "Museu de História Cultural da Universidade de Oslo, informações sobre o capacete de Gjermundbu"

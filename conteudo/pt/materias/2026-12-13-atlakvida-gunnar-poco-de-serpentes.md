@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/atli-poco-serpentes.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um poço de pedra escura cheio de serpentes enroladas, no meio de um grande salão de madeira, onde um guerreiro de barba loura, com as mãos amarradas, toca uma harpa com os dedos dos pés; ao fundo, um rei de cabelo preto e uma mulher de véu escuro observam do alto."
 fontes:
   - "*Edda Poética*, *Atlakviða* (Codex Regius, c. 1270)"

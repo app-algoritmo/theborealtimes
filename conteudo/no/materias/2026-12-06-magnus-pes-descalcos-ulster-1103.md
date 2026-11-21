@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/magnus-ulster-1103.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en irsk strand i morgengry, med et langskip på grunn og norske krigere med runde skjold som rykker fram over en gresslette; mellom lav vegetasjon forbereder skjulte irske spydmenn et bakhold, mens en konge i rød kappe med bare bein ser seg tilbake."
 fontes:
   - "Snorre Sturlason, *Heimskringla*, «Magnus Berrføtts saga» (ca. 1230; overs. Lee M. Hollander, University of Texas Press, 1964)"

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/bryggen-paus-de-runas.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cais de madeira medieval em Bergen com fileiras de casas de tábuas coloridas, e num primeiro plano um comerciante sentado entalhando runas num pau de pinho com uma faca, ao lado de pilhas de peixe seco e barris."
 fontes:
   - "Bryggens Museum, Bergen (inscrições rúnicas de Bryggen)"

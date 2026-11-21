@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/valemon-urso-branco.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinne i blå kappe og jernhansker som klatrer opp en skråning av is og snø i skumringen mot et slott med høye tårn og opplyste vinduer på toppen; ved siden av henne det ferske sporet etter en stor hvit bjørn og, bak, en skog av snødekte furuer."
 fontes:
   - "Wikipedia-artikkelen «White-Bear-King-Valemon»"

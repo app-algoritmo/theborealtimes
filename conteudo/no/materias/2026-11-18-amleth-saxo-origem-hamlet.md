@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/amleth-loucura.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkhåret ung mann i askesmusset tøy som sitter ved ildstedet i en tømmerhall, med et våkent blikk bak et tomt uttrykk, mens en mann i kappe ser på fra en skygge og tre pergamentbrev ligger på bordet"
 fontes:
   - "Saxo Grammaticus, *Gesta Danorum*, bok III og IV (omkring 1200)"

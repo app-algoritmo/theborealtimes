@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/askeladden-troll.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz sorridente de roupas simples segurando uma pedra redonda diante de um troll enorme numa floresta norueguesa de outono"
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, *Norske Folkeeventyr* (1841-1844)"

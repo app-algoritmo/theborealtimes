@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/urso-rabo-curto-gelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um urso pardo sentado de costas num lago congelado, com o rabo mergulhado num buraco redondo no gelo; ao lado, uma raposa ruiva com uma fieira de peixes na boca observa de longe, sob um céu pálido de inverno com pinheiros cobertos de neve."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, Norske Folkeeventyr, conto \"Hvorfor bjørnen er stubbrumpet\""

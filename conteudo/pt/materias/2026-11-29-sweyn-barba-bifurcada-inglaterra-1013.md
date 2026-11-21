@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/sweyn-1013.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma frota de navios de proa alta subindo um rio largo entre campos verdes ao amanhecer, com um rei de barba dividida em duas pontas em pé no primeiro navio e, nas margens, camponeses e soldados observando de longe, sob um céu cinzento"
 fontes:
   - "*Crônica Anglo-Saxônica*, anais de 1013 (trad. Michael Swanton, Phoenix, 2000)"

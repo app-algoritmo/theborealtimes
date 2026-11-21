@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/finfolk-barco-orcades.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et grått hav med tåke ved Orknøyene, med en fiskebåt som følges av en smal båt med mørk stavn og lange årer, rodd av en høy, tynn mann; over vannet omrisset av en øy skjult i tåke og, på akterenden av fiskebåten, et kritt-kors tegnet på treverket."
 fontes:
   - "Wikipedia, «Finfolk» (beskrivelse, Finfolkaheem, Hildaland, siterte kilder)"

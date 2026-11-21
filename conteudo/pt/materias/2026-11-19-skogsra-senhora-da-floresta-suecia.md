@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-19
 imagem: "/estatico/img/materias/skogsra-floresta.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher esguia de longos cabelos e vestido verde-musgo parada entre abetos num anoitecer de neblina, vista de frente bela e de costas com o tronco oco como uma árvore velha, enquanto um caçador de capuz, com rifle e cão, olha para ela de longe"
 fontes:
   - "Gunnar Olof Hyltén-Cavallius, *Wärend och Wirdarne* (1863–1868, registro de tradições populares de Småland)"

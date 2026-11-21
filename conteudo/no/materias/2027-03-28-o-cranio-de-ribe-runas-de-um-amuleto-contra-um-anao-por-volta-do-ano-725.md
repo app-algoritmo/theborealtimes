@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/ribe-craneo-com-runas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et fragment av skallebein med et lite hull, dekket av innskårne runer, som ligger på et trebord i en markedsbod; i bakgrunnen kjøpmenn og vekter for å veie sølv under en blek himmel."
 fontes:
   - "Ribe-hodeskallefragmentet, funnet ved en utgraving i Ribe i Danmark i 1973 og datert til omkring 725"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-07
 imagem: "/estatico/img/materias/draumkvedet-olav-asteson.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem adormecido num leito de palha numa casa de madeira de Telemark, com a neve do inverno nas janelas; acima dele, em forma de névoa, surgem uma charneca de espinhos, uma ponte muito alta e um fogo negro, sob a luz de uma vela."
 fontes:
   - "Wikipedia, \"Draumkvedet\" (identificação, versão tardia medieval, recolha em Lårdal e Kviteseid, enredo, composições)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/thor-serpente.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en skjegget gud i en liten båt på et stormfullt hav, som drar en kjempehavslange opp med en fiskesnøre."
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delen Gylfaginning (ca. 1220)"

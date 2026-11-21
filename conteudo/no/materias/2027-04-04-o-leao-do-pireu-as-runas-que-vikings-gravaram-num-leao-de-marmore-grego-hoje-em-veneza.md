@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/leao-do-pireu-runas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor marmorløve som sitter foran en steinport i Venezia, med bånd av runer risset inn på sidene i slyngede former, en kanal med grønt vann bak og to små besøkende som ser på nært hold."
 fontes:
   - "«Vikings tagged the great lion in Venice with runes», Science Norway (sciencenorway.no), om studien til Thorgunn Snædal"

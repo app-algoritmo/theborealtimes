@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/vardoger-passos-na-escada.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et trehus om natten, med en kvinne som står ved ytterdøra og lytter, mens en blek, gjennomsiktig skikkelse av en mann går opp trappa; i bakgrunnen, på veien, går den virkelige mannen fortsatt med en lykt."
 fontes:
   - "Anne-Sofie Schjøtner Skaar, «vardøger», Store norske leksikon (snl.no), oppdatert 8. juni 2026"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/a-pedra-de-karlevi.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en runestein av granitt på litt over en meter i en kystenge med Kalmarsundet i bakgrunnen, med bånd av rette runer, og en slørkledd kvinne som leser innskriftene med hånden."
 fontes:
   - "Engelsk Wikipedia, artikkelen «Karlevi Runestone» (Öl 1), med innskriften, oversettelsen og referansene"

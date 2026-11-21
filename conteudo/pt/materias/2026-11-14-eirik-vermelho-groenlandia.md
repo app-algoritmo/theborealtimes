@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/eirik-groenlandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma frota de navios vikings entrando num fiorde de encostas verdes e geleiras ao fundo, com um homem de barba ruiva na proa do primeiro navio"
 fontes:
   - "*Eiríks saga rauða* (século XIII)"

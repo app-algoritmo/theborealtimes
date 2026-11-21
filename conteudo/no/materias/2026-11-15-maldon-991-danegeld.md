@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/maldon-calcada.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en smal steinvei omgitt av vann i et elveutløp ved daggry, med tre angelsaksiske krigere med runde skjold som forsvarer overgangen mot en horde vikinger på den andre siden"
 fontes:
   - "Slaget ved Maldon, dikt på gammelengelsk (fragment på 325 vers)"

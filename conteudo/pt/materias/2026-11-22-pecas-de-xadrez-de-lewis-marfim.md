@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-22
 imagem: "/estatico/img/materias/lewis-xadrez.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de madeira com um tabuleiro e peças de xadrez medievais de marfim claro, entre elas um rei sentado de espada no colo, uma rainha de mão na face, um bispo e um guerreiro de olhos arregalados mordendo a borda do escudo, iluminadas por uma vela, com um mapa de ilhas ao fundo"
 fontes:
   - "David Caldwell, Mark Hall e Caroline Wilkinson, \"The Lewis hoard of gaming pieces\", *Medieval Archaeology* 53 (2009)"

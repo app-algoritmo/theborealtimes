@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/salme-navios.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha báltica sob céu cinzento, com a escavação de um grande barco de madeira numa cova no solo arenoso, arqueólogos de roupas modernas medindo o casco, e ao lado, em primeiro plano, espadas, pontas de lança e pedaços de escudo dispostos sobre um pano"
 fontes:
   - "T. Douglas Price e outros, \"Isotopes and the origin of the Salme ship burials\", *Antiquity* 90 (2016)"

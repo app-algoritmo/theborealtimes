@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/vainamoinen-kantele.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gammel mann med langt hvitt skjegg som sitter på en stein ved en finsk innsjø og spiller en lys trekantele, med elg, fugler og fisk samlet rundt under et grønnaktig nordlys"
 fontes:
   - "Elias Lönnrot, *Kalevala* (første utgave 1835, utvidet versjon 1849), samling av finsk og karelsk muntlig diktning"

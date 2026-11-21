@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/disir-disablot-uppsala.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de madeira de teto alto em Uppsala, numa noite fria de fim de inverno, com mulheres de manto escuro e outras de manto branco em volta de uma pedra de sacrifício manchada de vermelho, uma fogueira e vigas pintadas; do lado de fora, um mercado coberto de neve, tendas e carroças, e um cavalo escuro tropeçando perto do salão."
 fontes:
   - "Wikipedia, \"Dís\" (significado, atestações no Edda poético, Encantamento de Merseburgo, sagas, relação com valquírias, nornas e fylgjur)"

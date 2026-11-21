@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/ingolfr-pilares.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um chefe nórdico de barba ruiva na proa de um navio de madeira, atirando ao mar dois grandes pilares entalhados, diante de uma costa islandesa de montanhas negras e vapor subindo do chão"
 fontes:
   - "Autor desconhecido, *Landnámabók*, o Livro dos Assentamentos (séculos XII a XIV, em várias versões)"

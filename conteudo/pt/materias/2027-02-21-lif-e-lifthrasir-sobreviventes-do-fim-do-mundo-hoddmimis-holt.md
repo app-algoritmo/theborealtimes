@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/lif-bosque-de-hoddmimir.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um bosque coberto de neve ao amanhecer, com duas figuras, um homem e uma mulher, abrigadas entre as raízes grossas de uma grande árvore e bebendo o orvalho de folhas ao primeiro sol, enquanto ao longe o céu se tinge de vermelho."
 fontes:
   - "Wikipedia, \"Líf and Lífþrasir\" (passagens da Vafþrúðnismál e da Gylfaginning, nomes, interpretações de Larrington e Simek)"

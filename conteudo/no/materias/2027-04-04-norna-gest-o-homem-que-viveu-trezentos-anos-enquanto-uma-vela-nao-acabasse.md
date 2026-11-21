@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/norna-gest-vela-da-vida.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gammel mann med langt skjegg og mørk kappe som sitter foran en konge i en tresal og holder et kort, tent lys, mens skygger av krigere og et sverd faller på veggen bak."
 fontes:
   - "Norna-Gests þáttr, del av «Den største sagaen om Olav Tryggvason» i håndskriftet Flateyjarbók (slutten av 1300-tallet)"

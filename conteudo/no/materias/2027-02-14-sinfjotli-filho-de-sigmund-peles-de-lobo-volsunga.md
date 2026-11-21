@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/sinfjotli-peles-de-lobo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to grå ulver side om side i en lysning i en snødekt skog, med lyse øyne rettet mot betrakteren, og to sammenbrettede skinn ved foten av et tre; i bakgrunnen en stor tømmerhall mellom furuer og, på elvebredden, en ferjemann med bredbremmet hatt og en liten båt."
 fontes:
   - "Wikipedia, «Sinfjötli» (fødsel, ulveskinn, død, andre omtaler)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-31
 imagem: "/estatico/img/materias/naglfar-navio-das-unhas.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et gigantisk, blekt skip med et ru skrog laget av buede flis som minner om negler, glidende på et mørkt hav under en sprukket himmel; på dekk en mengde monstrøse skikkelser og en jotun ved roret, mens man i forgrunnen ser en menneskehånd med pent trimmede negler på land."
 fontes:
   - "Wikipedia, «Naglfar» (Völuspá, Gylfaginning kap. 43 og 51, Skáldskaparmál, etymologi, indoeuropeiske paralleller, runesteinen fra Tullstorp, moderne referanser)"

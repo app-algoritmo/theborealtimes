@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/hogboon-monte-maeshowe.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um monte de grama arredondado numa paisagem aberta e ventosa das Órcades, com uma pequena entrada de pedra baixa e um corredor escuro, sob um céu de tempestade; ao lado, um agricultor de boné olhando o monte e, ao fundo, uma vaca deitada na relva e um cercado de pedras."
 fontes:
   - "Digit Scotland, \"Think twice before excavating a mound\" (Nela Scholma-Mason) (o hogboon, o nome, relatos de Sanday e Rousay, Maeshowe)"

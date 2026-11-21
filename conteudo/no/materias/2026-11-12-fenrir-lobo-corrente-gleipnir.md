@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/fenrir-gleipnir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Qwen)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kjempeulv viklet inn i et glødende bånd, med hånden til en kriger i munnen på dyret og andre norrøne guder som ser på fra en steinete strand under storm"
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delen Gylfaginning (ca. 1220)"

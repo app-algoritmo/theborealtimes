@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/vatnsdaela-saga-vale-islandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bred, grønn dal i Nord-Island med en klar elv som slynger seg mellom lave åser; en mann i blå kappe med en amulett rundt halsen står på en stein og ser utover dalen foran seg; bak ham peker en kvinne med mørk slør mot nord, og i det fjerne ses en bukt, under lave, hvite skyer."
 fontes:
   - "Wikipedia, «Vatnsdæla saga» (sammendrag, Ingimundr Þorsteinsson, Hafrsfjord, trollkvinne, håndskriftene AM 445 b 4to, AM 559 4to og AM 942 4to, datering, bibliografi)"

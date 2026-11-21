@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/kullervo-rebanho.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz de cabelos escuros e roupas rústicas parado numa clareira de floresta finlandesa ao anoitecer, com um pequeno corno nas mãos, enquanto lobos e ursos de pelo cinzento saem das árvores como um rebanho, sob um céu roxo"
 fontes:
   - "Elias Lönnrot, *Kalevala* (1849), trad. Keith Bosley (Oxford University Press, 1989), runos 31 a 36"

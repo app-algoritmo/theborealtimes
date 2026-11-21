@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-15
 imagem: "/estatico/img/materias/thor-utgard.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en sterk skjegget gud som løfter en labb på en enorm grå katt i en jotunsal, sett av en gammel kvinne bak og av jotner som ler, med et digert drikkehorn ved siden av"
 fontes:
   - "Gylfaginning, kapittel 44 (Snorres Edda)"

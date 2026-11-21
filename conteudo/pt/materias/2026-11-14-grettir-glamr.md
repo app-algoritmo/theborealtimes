@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/grettir-glamr.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro forte, no meio de um salão de madeira com o teto desabando, diante de uma figura pálida e alta caída de costas, cujos olhos brilham sob a luz da lua que surge entre as nuvens"
 fontes:
   - "Grettis saga Ásmundarsonar, capítulos 32 a 35 (século XIV), em tradução de William Morris e Eiríkr Magnússon, 1869"

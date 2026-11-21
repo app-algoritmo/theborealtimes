@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/dorestad-porto-reno.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en elvehavn fra 800-tallet med lange kaier av tre, rektangulære lagerhus og lasteskip fortøyd langs Rhinen; kjøpmenn i fargerike kapper som forhandler om tønner, skinn og tøy, og i bakgrunnen en rekke vikingskip med høy stavn som nærmer seg over vannet ved daggry."
 fontes:
   - "Frisia Coast Trail, «The Batwing Doors of Dorestad. A Two-Way Gateway of Trade and Power» (handel, mynting, tokt, arkeologi og forfall)"

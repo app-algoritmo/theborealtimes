@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/reginsmal-andvari-ouro.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma cachoeira escura numa floresta nórdica, com um anão de barba comprida agachado na água, meio transformado em lúcio, e um deus de capa vermelha segurando uma rede na margem; ao fundo, uma pele de lontra estendida no chão, coberta por montes de ouro, e um anel dourado brilhando sobre o último pelo do bigode."
 fontes:
   - "*Edda Poética*, tradução de Henry Adams Bellows (1936), prosa e notas de \"Reginsmál\" (Mythopedia, biblioteca da Edda Poética)"

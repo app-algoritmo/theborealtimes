@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/eiriksmal-erico-no-valhalla.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do interior de um grande salão de madeira com escudos nas paredes e uma porta aberta; Odin, de capa azul, de pé à frente, ao lado de dois guerreiros que se levantam de seus bancos para receber um rei de capa vermelha que chega à porta com cinco outros reis atrás."
 fontes:
   - "Wikipedia, \"Eiríksmál\" (data, Gunnhild, diálogo entre Odin, Bragi e Sigmund, métrica fornyrðislag, relação com Hákonarmál, Roger de Wendover)"

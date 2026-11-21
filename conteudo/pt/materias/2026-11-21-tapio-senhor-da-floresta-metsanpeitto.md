@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/tapio-floresta.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma floresta de pinheiros densa e sombria numa névoa azulada, com um homem de casaco de lã girando sobre si mesmo no meio de uma clareira, tentando achar o caminho, e a silhueta de um velho de barba coberta de musgo e chapéu de casca de árvore entre os troncos ao fundo"
 fontes:
   - "Elias Lönnrot, *Kalevala* (edição de 1849, cantos sobre caçadas e sobre Tapio e Mielikki)"

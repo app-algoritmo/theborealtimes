@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-29
 imagem: "/estatico/img/materias/largs-1263.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en skotsk strand med skip med høye stavner som ligger på grunn mellom bølgene under en stormfull himmel, norrøne soldater i hjelm og med skjold samlet på sanda foran en høyde der en flokk spydmenn kan sees, med en konge i rød kappe i bakgrunnen"
 fontes:
   - "Sturla Þórðarson, *Hákonar saga Hákonarsonar* (ca. 1265), overs. G. W. Dasent, *Icelandic Sagas*, bd. IV (Rolls Series, 1894)"

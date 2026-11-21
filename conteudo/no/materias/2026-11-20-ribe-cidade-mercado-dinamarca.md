@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/ribe-mercado.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en markedsgate ved en elv i Danmark på 700-tallet, med rader av små tømmerhus og boder, vogner med tønner og skinn, kjøpmenn i fargerike kapper som prutter og en sølvvekt på et bord"
 fontes:
   - "Claus Feveile (red.), *Ribe Studier: Det ældste Ribe* (Jysk Arkæologisk Selskab, 2006)"

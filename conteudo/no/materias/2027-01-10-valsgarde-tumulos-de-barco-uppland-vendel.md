@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-10
 imagem: "/estatico/img/materias/valsgarde-tumulos-barco-uppsala.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en arkeologisk utgraving i Sverige, en klar dag, med rektangulære grøfter i brun jord og, i en av dem, den mørke konturen av en stor trebåt med rader av jernnagler; arkeologer i enkle klær måler og tegner i notatbøker, og i bakgrunnen en bjørkelund og en fjern steinkirke."
 fontes:
   - "Uppsala universitet, siden «Valsgärde» ved Museum Gustavianum (beliggenhet, utgravingskampanjer, graver, funn og prosjektet Vikingafenomenet)"

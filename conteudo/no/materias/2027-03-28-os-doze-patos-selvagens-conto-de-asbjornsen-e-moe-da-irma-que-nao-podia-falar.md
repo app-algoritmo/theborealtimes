@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/doze-patos-selvagens.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinne som sitter på en hei full av blomstrende tistler og plukker dun med hendene, i stillhet; i bakgrunnen krysser tolv villender den kalde kveldshimmelen, og en tømmerhytte skimtes mellom trærne."
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, norske folkeeventyr, oversatt av George Webbe Dasent, «Popular Tales from the Norse» (Project Gutenberg nr. 8933): «The Twelve Wild Ducks»"

@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-14
 imagem: "/estatico/img/materias/ragnar-cobras.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro nórdico de calças peludas dentro de um poço de pedra cheio de serpentes, de cabeça erguida, enquanto um rei de coroa o observa do alto"
 fontes:
   - "*Ragnars saga loðbrókar* (século XIII)"

@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/jolasveinar-treze-rapazes.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et islandsk vindu om vinteren med en sko på vinduskarmen; utenfor står en rekke på tretten små menn i ulllue og jakke, hver med en stjålet ting som en pølse, et lys og en bolle, under en snøfull himmel."
 fontes:
   - "Jóhannes úr Kötlum, Jólin koma (1932)"

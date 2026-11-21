@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-16
 imagem: "/estatico/img/materias/ibn-fadlan-rus.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en reisende i turban og blå tunika med en pergamentrull foran høye lyshårede menn med grønne tatoveringer, ved siden av et stort trebåt på bredden av en bred elv"
 fontes:
   - "Risala (reiseberetning) av Ahmad ibn Fadlan, 921–922, i moderne utgaver og oversettelser"

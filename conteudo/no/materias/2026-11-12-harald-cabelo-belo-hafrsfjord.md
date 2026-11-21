@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-12
 imagem: "/estatico/img/materias/harald-hafrsfjord.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens (Gemini)"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et sjøslag mellom vikingskip i en norsk fjord, med en langhåret konge i baugen på det ledende skipet."
 fontes:
   - "Snorre Sturlason, *Heimskringla*, Harald Hårfagres saga (ca. 1230)"

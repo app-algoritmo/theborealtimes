@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/landnamabok-assentamentos-islandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um escriba islandês medieval, de capuz marrom, sentado num escritório de madeira iluminado por uma lamparina de gordura, escrevendo numa grande folha de pergaminho que traz um mapa esboçado de uma ilha com o litoral cheio de nomes; ao fundo, uma janela dá para uma paisagem de montanhas, fiordes e uma fazenda de turfa."
 fontes:
   - "Wikipedia, \"Landnámabók\" (estrutura, datação, versões, confiabilidade)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/ingvar-pedra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor grå runestein på en svensk eng i skumringen, dekket av runer og en risset slange, med en kvinne i skaut og blå kjole som knelende foran den, og i bakgrunnen en fjord med et krigsskip som seiler ut"
 fontes:
   - "Ukjent forfatter, *Yngvars saga víðförla* (islandsk saga, 1200-tallet)"

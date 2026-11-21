@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/vidarr-sapato-fenrir.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mark med høyt gress og kratt under en blodrød himmel ved verdens ende, hvor en taus gud i mørkegrønn kappe setter en enorm sko av lappet lær på underkjeven til en gigantisk ulv og holder overkjeven med hånden; i bakgrunnen silhuetten av en falt Odin og skjæret fra Surtrs ild."
 fontes:
   - "Wikipedia, «Víðarr» (Den poetiske Edda, Snorres Edda, Gosforth-korset og teorier)"

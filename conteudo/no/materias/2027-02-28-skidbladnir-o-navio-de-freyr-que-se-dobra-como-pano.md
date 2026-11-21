@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/skidbladnir-navio-que-dobra.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et skip i lyst tre med et hvitt seil som står godt, svevende over skyer i skumringen, med krigere og guder om bord; ved siden av, i forgrunnen, det samme skipet brettet sammen som et tøystykke og holdt i hånden til en skikkelse i grønn kappe."
 fontes:
   - "Wikipedia, \"Skíðblaðnir\" (navn, Grímnismál, Gylfaginning, Skáldskaparmál, Ynglinga saga, eiere og skapere)"

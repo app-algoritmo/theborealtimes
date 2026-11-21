@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-21
 imagem: "/estatico/img/materias/aegir-gigante-do-mar.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de festa nórdico iluminado por ouro, com deuses sentados em bancos de madeira, uma figura alta e de barba verde-mar servindo cerveja de um enorme caldeirão, e pela janela, ondas batendo contra uma ilha rochosa."
 fontes:
   - "Edda poética, Lokasenna, Hymiskviða e Grímnismál"

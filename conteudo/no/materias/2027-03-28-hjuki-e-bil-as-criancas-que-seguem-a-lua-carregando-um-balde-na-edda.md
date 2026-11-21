@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/hjuki-e-bil-seguem-a-lua.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to små barn som går over nattehimmelen bak en full måne og bærer en lang stang med en trebøtte som henger i den på skuldrene; nedenfor glitrer en kilde mellom mørke trær."
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 11, «Om Sól og Máni»)"

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/tesouro-de-hiddensee-joias.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia de ilha báltica ao amanhecer, com um homem agachado na areia úmida descobrindo um pequeno feixe de joias de ouro, entre elas pendentes de forma de cruz com pontas arredondadas, sob um céu limpo depois da tempestade."
 fontes:
   - "Wikipedia, \"Hiddensee treasure\" (achado, composição, peso, datação, museus)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-07
 imagem: "/estatico/img/materias/pequeno-freddy-violino.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um menino magro de roupa nova e casaco de pele, tocando um violino no alto de um cadafalso de madeira, enquanto à sua volta um xerife, um juiz, soldados e camponeses dançam sem parar, com as roupas rasgadas; ao fundo, uma bétula e um céu de inverno."
 fontes:
   - "Conto \"Little Freddy with his Fiddle\", de Asbjørnsen e Moe, em tradução inglesa (Tales from the Fjeld, de George Webbe Dasent)"

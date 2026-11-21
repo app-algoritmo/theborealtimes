@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/hjuki-e-bil-seguem-a-lua.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de duas crianças pequenas caminhando pelo céu noturno atrás de uma lua cheia, carregando nos ombros uma vara comprida com um balde de madeira pendurado; embaixo, uma fonte brilha entre árvores escuras."
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, capítulo 11, \"Do Sol e da Lua\")"

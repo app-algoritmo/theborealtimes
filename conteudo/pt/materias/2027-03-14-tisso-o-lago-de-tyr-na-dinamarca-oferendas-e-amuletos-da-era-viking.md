@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/tisso-lago-de-tyr.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um lago calmo ao amanhecer, com um longo salão de madeira de paredes brancas na margem; no primeiro plano, mãos colocam uma espada e uma joia na água, e sobre uma mesa de pedra repousam pequenos martelos de prata e pingentes de mulheres com chifre de bebida."
 fontes:
   - "Museu Nacional da Dinamarca (Nationalmuseet), \"Sacrifices to the Norse god Tyr\""

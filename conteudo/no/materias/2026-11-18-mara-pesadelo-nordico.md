@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-18
 imagem: "/estatico/img/materias/mara-pesadelo.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trestall ved daggry, med to hester hvis manker er viklet inn i knuter, en veltet bøtte på gulvet, døra på gløtt og en tynn, lang skygge som smetter ut gjennom åpningen, under et blåaktig lys"
 fontes:
   - "Snorre Sturlason, *Heimskringla* (omkring 1230), særlig *Ynglingesaga*"

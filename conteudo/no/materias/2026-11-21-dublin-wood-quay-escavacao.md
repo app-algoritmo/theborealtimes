@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-21
 imagem: "/estatico/img/materias/dublin-wood-quay.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en arkeologisk utgraving ved en elv, med flettede vegger av gamle hus blottlagt i mørk jord, arkeologer som knær med små spader, esker med skosåler av lær og kammer av bein på et bord og, i bakgrunnen, en moderne by med byggekraner"
 fontes:
   - "Patrick F. Wallace, *The Viking Age Buildings of Dublin* (Royal Irish Academy, 1992)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-20
 imagem: "/estatico/img/materias/tynwald-colina.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kunstig, gresskledd haug med fire trinn på en grønn slette på Isle of Man, med en steinkapell bak og en prosesjon av mennesker i mørke og fargerike klær som går opp til toppen, under en blå himmel med skyer"
 fontes:
   - "*Chronicle of Man and the Isles* (middelalderkrønike, 1200-tallet)"

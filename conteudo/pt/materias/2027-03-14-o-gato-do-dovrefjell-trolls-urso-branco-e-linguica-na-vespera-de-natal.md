@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-14
 imagem: "/estatico/img/materias/dovrefjell-trolls-e-urso.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma cabana rústica na montanha na noite de Natal, com uma mesa posta e trolls de narizes longos e caudas variadas sentados ao redor; um troll pequeno estende uma linguiça num garfo para um grande urso branco que levanta a cabeça debaixo do fogão."
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, Norske Folkeeventyr (1852), tradução inglesa de George Webbe Dasent, Popular Tales from the Norse (1859)"

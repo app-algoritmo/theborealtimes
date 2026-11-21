@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-24
 imagem: "/estatico/img/materias/tatterhood-lurvehette-princesa-feia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en jente med uregjerlig hår og en fillete hette, ridende på en mørk geit med en tresleiv i hånden, ved siden av en båt på en steinete strand; på øya i bakgrunnen viker tre troll tilbake for henne, og en ung kvinne i lys kjole venter i båten med en duk rundt halsen; en himmel med lave skyer og kaldt vinterlys."
 fontes:
   - "Wikipedia, «Tatterhood» (Lurvehette; samling av Asbjørnsen og Moe, Norske Folkeeventyr; Dasents oversettelse; type ATU 711; norske, islandske, svenske, danske, irske og amerikanske varianter; Stith Thompson, Hodne, Liungman, El-Shamy og Sehmsdorf)"

@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-20
 imagem: "/estatico/img/materias/orlygsstadir-1238-campo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo aberto no norte da Islândia, num fim de verão, com duas grandes linhas de homens armados de escudos e lanças se encontrando numa encosta; em primeiro plano, guerreiros caindo e uma bandeira derrubada, e ao fundo montanhas azuladas e um fiorde estreito."
 fontes:
   - "Wikipedia, \"Battle of Örlygsstaðir\" (data, comandantes, efetivos, baixas e fontes)"

@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/hrolf-ouro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en nordisk konge til hest som galopperer over en slette ved daggry og sprer gullmynter og ringer bak seg mens ryttere i mørke kapper stiger av for å samle dem opp"
 fontes:
   - "Snorre Sturlason, *Snorres Edda*, delen *Skáldskaparmál* (rundt 1220)"

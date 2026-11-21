@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-04
 imagem: "/estatico/img/materias/norna-gest-vela-da-vida.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um velho de barba comprida e manto escuro sentado diante de um rei num salão de madeira, segurando uma vela curta e acesa, enquanto sombras de guerreiros e de uma espada se projetam na parede ao fundo."
 fontes:
   - "Norna-Gests þáttr, parte da \"Maior saga de Olavo Tryggvason\" no manuscrito Flateyjarbók (final do século XIV)"

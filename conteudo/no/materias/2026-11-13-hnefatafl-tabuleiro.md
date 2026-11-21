@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-13
 imagem: "/estatico/img/materias/hnefatafl-tabuleiro.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to vikinger som spiller et brettspill i tre med brikker av bein og glass ved ildlys i et langhus"
 fontes:
   - "*Orknøyingenes saga* og *Hervarar saga ok Heiðreks*, med omtaler av spillet (1200–1300-tallet)"

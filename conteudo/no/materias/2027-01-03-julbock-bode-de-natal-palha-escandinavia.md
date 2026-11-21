@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/julbock-bode-palha-natal.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor halmbukk bundet med røde bånd på et snødekt torg en desemberkveld, med opplyste trehus og barn med luer som ser på den; ved siden av et bundet knippe tørr hvete og en gruppe maskerte ungdommer med horn som banker på døra til et hus."
 fontes:
   - "Wikipedia, «Yule goat» (opphav, Tor-teori, innhøstingsbandet, figur fra 1000-tallet, bukken som krevde gaver, bukken som ga gaver, halmbukker, Gävle)"

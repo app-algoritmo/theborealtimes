@@ -6,7 +6,7 @@ natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
 data: 2027-03-28
 imagem: "/estatico/img/materias/thorvard-vela-do-navio.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio nórdico de casco comprido sob uma grande vela listrada cortando as ondas diante de um porto de madeira, com um rei observando do cais e, ao seu lado, um nobre em capa cinzenta e túnica escarlate apontando a vela."
 fontes:
   - "Þorvarðs þáttr krákunefs (\"O conto de Thorvard Bico-de-Corvo\"), tradução de Eiður Eyþórsson para We Vikings, com base na Morkinskinna (GKS 1009 fol.) e na Flateyjarbók (GKS 1005 fol.), segundo a edição de Guðni Jónsson, Íslenzk fornrit VI (1943)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-04-18
 imagem: "/estatico/img/materias/bukolla-a-vaca-magica.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um menino correndo ao lado de uma grande vaca malhada num campo islandês de lava e musgo, com uma montanha recém-surgida atrás deles e um troll enorme preso num buraco da montanha."
 fontes:
   - "All Things Iceland, \"What makes Búkolla so special: the story of Iceland's enchanted cow\" (resumo do conto e do papel dele na tradição infantil islandesa)"

@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-11-17
 imagem: "/estatico/img/materias/audumbla-gelo.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande vaca branca de chifres curtos lambendo um bloco de gelo azul num vazio coberto de bruma, enquanto do gelo emerge a cabeça e os ombros de um homem louro, e ao lado repousa um gigante adormecido"
 fontes:
   - "Snorri Sturluson, *Edda em Prosa*, parte *Gylfaginning* (por volta de 1220)"

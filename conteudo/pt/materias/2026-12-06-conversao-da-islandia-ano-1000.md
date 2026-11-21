@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-06
 imagem: "/estatico/img/materias/conversao-islandia.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração da Rocha da Lei em Thingvellir, com uma planície cercada por falésias de lava, centenas de pessoas em grupos de tendas coloridas e, em primeiro plano, um homem de capa grossa deitado no chão com o rosto coberto; ao longe, um grupo de cristãos com uma cruz de madeira e um grupo de pagãos com estandartes se encaram."
 fontes:
   - "Ari Þorgilsson, *Íslendingabók* (c. 1122–1133), capítulo 7"

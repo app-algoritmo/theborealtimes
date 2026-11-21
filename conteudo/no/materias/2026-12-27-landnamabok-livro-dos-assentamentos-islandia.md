@@ -6,7 +6,7 @@ natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-27
 imagem: "/estatico/img/materias/landnamabok-assentamentos-islandia.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelalderlig islandsk skriver med brun hette, sittende ved et trebord opplyst av en tranlampe, skrivende på et stort pergamentark med et skissert kart over en øy med en kystlinje full av navn; i bakgrunnen ser et vindu ut mot et landskap av fjell, fjorder og en torvgård."
 fontes:
   - "Wikipedia, «Landnámabók» (oppbygning, datering, versjoner, pålitelighet)"

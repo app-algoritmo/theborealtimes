@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-14
 imagem: "/estatico/img/materias/tesouro-de-hoen-joias.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de museu com um colar de pequenas contas de vidro coloridas, moedas de prata de aspecto árabe, uma fivela de ouro de três lóbulos e um medalhão bizantino, sob luz suave; ao fundo, uma janela mostra um vale norueguês com um rio e uma fazenda."
 fontes:
   - "Wikipedia, \"Hoen treasure\" (achado, esconderijo na guerra, contagem, museu)"

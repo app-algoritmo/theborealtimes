@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-21
 imagem: "/estatico/img/materias/trow-monte-violino.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um monte coberto de grama sob a lua, com uma porta aberta no flanco iluminada por uma luz dourada, de onde saem pequenas figuras dançando em roda ao som de um violino tocado por um homem sentado na relva; ao fundo, um círculo de pedras erguidas."
 fontes:
   - "Wikipedia, \"Trow (folklore)\" (descrição, trows de colina e de mar, etimologia, Haltadans, 1529)"

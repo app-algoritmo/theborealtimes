@@ -6,7 +6,7 @@ natureza: "Myte eller legende"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/ahkka-deusas-sami-parto.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en samisk torvgamme, goahti, en vinternatt med et bål i midten, en kvinne i fødsel liggende på reinskinn og en jordmor ved siden av; tre gjennomsiktige kvinnelige skikkelser svever rundt, én ved bålet, en annen med en liten bue og den tredje ved døra, og utenfor rein og snø under nordlys."
 fontes:
   - "Wikipedia, «Máttaráhkká» (navn, døtre, Ganander 1789, jomfru Maria, Krohn)"

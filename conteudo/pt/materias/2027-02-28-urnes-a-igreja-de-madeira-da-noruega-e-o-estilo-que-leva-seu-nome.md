@@ -6,7 +6,7 @@ natureza: "História documentada"
 autor: "Paulo Fernando de Barros"
 data: 2027-02-28
 imagem: "/estatico/img/materias/urnes-portal-norte-entalhado.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma igreja de madeira escura, de vários telhados sobrepostos de tábuas, à beira de um fiorde sob céu claro, com, em primeiro plano, uma prancha de madeira entalhada em linhas finas, com animais e serpentes entrelaçados num desenho de curvas elegantes."
 fontes:
   - "Wikipedia, \"Urnes Stave Church\" (local, datas, igrejas anteriores, trechos reaproveitados, estilo Urnes, leituras do portal, UNESCO)"

@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/constantinopla-860-rus.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm by med høye murer ved et sund, med gylne kupler og tårn, sett fra sjøen; hundrevis av små robåter med firkantseil nærmer seg kysten, mens prester i lange kapper løfter et ikon på muren og et mørkt uvær samler seg ved horisonten."
 fontes:
   - "Fotios av Konstantinopel, *Homilier* om angrepet fra rusene (august 860)"

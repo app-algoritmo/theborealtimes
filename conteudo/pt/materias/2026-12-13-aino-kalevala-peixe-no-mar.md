@@ -6,7 +6,7 @@ natureza: "Mito ou lenda"
 autor: "Paulo Fernando de Barros"
 data: 2026-12-13
 imagem: "/estatico/img/materias/aino-lago-kalevala.webp"
-imagem_credito: "Ilustração gerada por inteligência artificial"
+imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma moça de vestido claro e tranças louras chorando sentada numa rocha à beira de um lago nórdico ao entardecer, com bétulas ao fundo; na água, um pequeno peixe prateado salta perto de um homem velho de barba cinzenta sentado num barco, com uma vara de pesca na mão."
 fontes:
   - "Elias Lönnrot, *Kalevala* (1835, edição antiga; 1849, edição final), Runo 4"

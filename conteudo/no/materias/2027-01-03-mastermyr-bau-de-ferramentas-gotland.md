@@ -6,7 +6,7 @@ natureza: "Dokumentert historie"
 autor: "Paulo Fernando de Barros"
 data: 2027-01-03
 imagem: "/estatico/img/materias/mastermyr-bau-ferramentas-gotland.webp"
-imagem_credito: "Illustrasjon generert av kunstig intelligens"
+imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en åpen eikekiste på bunnen av en fuktig åker på Gotland i oktober 1936, med en kjetting av åttetallformede ledd rundt, slegger, tenger, et lite ambolt, sager, meisler, filer, hengelåser og en jernvekt synlig; ved siden av holder en bonde med lue plogen, og i bakgrunnen et hvitkalket steinhus og en grå himmel."
 fontes:
   - "Wikipedia, «Mästermyr chest» (funnet i 1936, kiste, lenker, kjeler, verktøy, datering, sannsynlig eier, hypoteser om nedsetting)"
