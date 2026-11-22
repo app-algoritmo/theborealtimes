@@ -492,6 +492,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_ginnungagap: jogo-gelo-fogo-ou-vazio
+    jogo_eir: jogo-o-que-cada-fonte-diz
+    jogo_gullveig: jogo-o-que-se-sabe-e-o-que-nao
+    jogo_gunnar: jogo-o-que-gunnar-procura
+    jogo_hallgerdr: jogo-cada-marido-cada-cena
+    jogo_sonatorrek: jogo-cada-trecho-do-poema
+    jogo_nydam: jogo-cada-fato-no-seu-capitulo
+    jogo_torslunda: jogo-cada-detalhe-no-seu-lugar
+    jogo_holmganga: jogo-o-que-o-duelo-exige
+    jogo_cintoazul: jogo-tres-coisas-em-ordem
+    jogo_lordpeter: jogo-quem-faz-o
+    jogo_setepotros: jogo-o-que-o-caminho-pede
+    jogo_mestreferreiro: jogo-os-tres-pedidos-do-ferreiro
     jogo_fulla: jogo-o-que-frigg-pede
     jogo_folkvangr: jogo-as-escolhas-de-freyja
     jogo_vipunen: jogo-a-forja-dentro-do-gigante
@@ -1097,6 +1110,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_ginnungagap: game-ice-fire-or-the-void
+    jogo_eir: game-what-each-source-says
+    jogo_gullveig: game-what-is-known-and-what-is-not
+    jogo_gunnar: game-what-gunnar-looks
+    jogo_hallgerdr: game-each-husband-each-scene
+    jogo_sonatorrek: game-each-part-of-the-poem
+    jogo_nydam: game-each-fact-in-its-chapter
+    jogo_torslunda: game-each-detail-in-its-place
+    jogo_holmganga: game-what-the-duel-demands
+    jogo_cintoazul: game-three-things-in-order
+    jogo_lordpeter: game-who-does-what
+    jogo_setepotros: game-what-the-road-asks
+    jogo_mestreferreiro: game-the-smith-s-three-wishes
     jogo_fulla: game-what-frigg-asks
     jogo_folkvangr: game-freyja-s-choices
     jogo_vipunen: game-the-forge-inside-the-giant
@@ -1702,6 +1728,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_ginnungagap: spill-is-ild-eller-tomrommet
+    jogo_eir: spill-hva-hver-kilde-sier
+    jogo_gullveig: spill-hva-som-er-kjent-og-ikke
+    jogo_gunnar: spill-hva-gunnar-leter-etter
+    jogo_hallgerdr: spill-hver-ektemann-hver-scene
+    jogo_sonatorrek: spill-hver-del-av-diktet
+    jogo_nydam: spill-hvert-faktum-i-sitt-kapittel
+    jogo_torslunda: spill-hver-detalj-pa-sin-plass
+    jogo_holmganga: spill-hva-duellen-krever
+    jogo_cintoazul: spill-tre-ting-i-rekkefolge
+    jogo_lordpeter: spill-hvem-gjor-hva
+    jogo_setepotros: spill-hva-veien-krever
+    jogo_mestreferreiro: spill-smedens-tre-onsker
     jogo_fulla: spill-hva-frigg-ber-om
     jogo_folkvangr: spill-freyjas-valg
     jogo_vipunen: spill-smia-inni-jotunen
@@ -1991,6 +2030,19 @@ es:
     jogo_tjangvide: juego-cada-detalle-en-su-parte
     jogo_askold: juego-guerreros-y-mercaderes
     jogo_lund: juego-los-solares-de-la-ciudad-nueva
+    jogo_ginnungagap: juego-hielo-fuego-o-vacio
+    jogo_eir: juego-que-dice-cada-fuente
+    jogo_gullveig: juego-lo-que-se-sabe-y-lo
+    jogo_gunnar: juego-lo-que-busca-gunnar
+    jogo_hallgerdr: juego-cada-marido-cada-escena
+    jogo_sonatorrek: juego-cada-tramo-del-poema
+    jogo_nydam: juego-cada-hecho-en-su-capitulo
+    jogo_torslunda: juego-cada-detalle-en-su-lugar
+    jogo_holmganga: juego-lo-que-exige-el-duelo
+    jogo_cintoazul: juego-tres-cosas-en-orden
+    jogo_lordpeter: juego-quien-hace-que
+    jogo_setepotros: juego-lo-que-pide-el-camino
+    jogo_mestreferreiro: juego-los-tres-deseos-del-herrero
   curiosidades: []
   interface:
     capa: Portada
