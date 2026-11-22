@@ -58,4 +58,4 @@ Las matrices están en el Museo de Historia de Suecia (Statens Historiska Museum
 
 Cuatro matrices de bronce muestran que los cascos de la época de Vendel se decoraban en serie, con escenas de guerreros, lobos y osos. Si el hombre que baila es Odín y el otro un guerrero lobo es una lectura que proponen los estudiosos, no una certeza.
 
-Para entrenar la observación con los detalles de las cuatro matrices, juega a [Cada detalle en su lugar](/es/juego-cada-detalle-en-su-lugar/).
+Para entrenar la observación con los detalles de las cuatro matrices, juega a [Las láminas de bronce](/es/juego-las-laminas-de-bronce/).

@@ -58,4 +58,4 @@ The dies are in the Swedish History Museum (Statens Historiska Museum).
 
 Four bronze dies show that Vendel-period helmets were decorated in series, with scenes of warriors, wolves and bears. Whether the dancing man is Odin and the other a wolf-warrior is a reading that scholars propose, not a certainty.
 
-To train your observation with the details of the four dies, play [Each detail in its place](/game-each-detail-in-its-place/).
+To train your observation with the details of the four dies, play [The bronze foils](/game-the-bronze-foils/).

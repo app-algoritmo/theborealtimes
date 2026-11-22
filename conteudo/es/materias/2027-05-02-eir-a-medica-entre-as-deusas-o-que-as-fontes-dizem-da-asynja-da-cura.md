@@ -53,4 +53,4 @@ No hay ningún mito en que Eir cure a alguien. Wikipedia no registra ningún epi
 
 Eir es una figura de pocas líneas, pero coherente: la curación. Quién era, diosa, valquiria o sirvienta de otra diosa, sigue siendo una cuestión abierta.
 
-Para entrenar la memoria con las hierbas del monte de la curación, juega a [Qué dice cada fuente](/es/juego-que-dice-cada-fuente/).
+Para entrenar la memoria con las hierbas del monte de la curación, juega a [Hierbas en el monte de la curación](/es/juego-hierbas-en-el-monte-de-la-curacion/).

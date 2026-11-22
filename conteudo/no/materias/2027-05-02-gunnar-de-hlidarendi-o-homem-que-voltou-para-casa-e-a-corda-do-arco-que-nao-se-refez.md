@@ -59,4 +59,4 @@ I kap. 77 blir Gunnar gravlagt i en haug, sittende oppreist. Rannveig vil ikke l
 
 Hovedscenen har ingen stor kamp: Den har en mann som ser på sitt eget hjem og velger å snu. Sagaen viser hva det koster. Den som vil ha den nøyaktige scenen, bør lese Dasents oversettelse, nevnt ovenfor.
 
-Vil du trene sikte og oppmerksomhet med pilene, spill [Hva Gunnar leter etter](/no/spill-hva-gunnar-leter-etter/).
+Vil du trene sikte og oppmerksomhet med pilene, spill [Skyting på Lithend](/no/spill-skyting-pa-lithend/).

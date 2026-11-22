@@ -50,4 +50,4 @@ A Islândia proibiu a hólmganga em 1006 e a Noruega em 1014, oito anos depois.
 
 A hólmganga mostra uma sociedade com lei sem tribunal forte: duas pessoas, um couro, três escudos e regras que todos conheciam. Com o tempo, as mortes causadas pelo duelo levaram à proibição.
 
-Para treinar a atenção com os escudos e as bordas do couro, jogue [O que o duelo exige](/pt/jogo-o-que-o-duelo-exige/).
+Para treinar a atenção com os escudos e as bordas do couro, jogue [Defenda o couro](/pt/jogo-defenda-o-couro/).

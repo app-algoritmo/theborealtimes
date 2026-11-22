@@ -59,4 +59,4 @@ No cap. 77, Gunnar é enterrado num montículo, sentado, em pé. Rannveig não d
 
 A cena central não tem um grande combate: tem um homem que olha para a própria casa e escolhe voltar. A saga mostra o que isso custa. Quem quiser a cena exata deve ler a tradução de Dasent, citada acima.
 
-Para treinar a pontaria e a atenção com as flechas, jogue [O que Gunnar procura](/pt/jogo-o-que-gunnar-procura/).
+Para treinar a pontaria e a atenção com as flechas, jogue [Tiro ao alvo em Lithend](/pt/jogo-tiro-ao-alvo-em-lithend/).

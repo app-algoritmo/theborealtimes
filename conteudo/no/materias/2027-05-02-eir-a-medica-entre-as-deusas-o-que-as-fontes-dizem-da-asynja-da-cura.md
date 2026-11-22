@@ -53,4 +53,4 @@ Det finnes ingen myte om at Eir helbreder noen. Wikipedia registrerer ingen epis
 
 Eir er en skikkelse med få linjer, men en sammenhengende en: helbredelse. Hvem hun var, gudinne, valkyrje eller tjenerinne for en annen gudinne, er fortsatt et åpent spørsmål.
 
-Vil du trene hukommelsen med urtene på helbredelsens berg, spill [Hva hver kilde sier](/no/spill-hva-hver-kilde-sier/).
+Vil du trene hukommelsen med urtene på helbredelsens berg, spill [Urter på legebjerget](/no/spill-urter-pa-legebjerget/).

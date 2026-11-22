@@ -58,4 +58,4 @@ Os moldes estão no Museu de História da Suécia (Statens Historiska Museum).
 
 Quatro moldes de bronze mostram que os capacetes da era Vendel eram decorados em série, com cenas de guerreiros, lobos e ursos. Se o homem dançando é Odin e o outro é um guerreiro-lobo é uma leitura que os estudiosos propõem, e não uma certeza.
 
-Para treinar a observação com os detalhes dos quatro moldes, jogue [Cada detalhe no seu lugar](/pt/jogo-cada-detalhe-no-seu-lugar/).
+Para treinar a observação com os detalhes dos quatro moldes, jogue [As folhas de bronze](/pt/jogo-as-folhas-de-bronze/).

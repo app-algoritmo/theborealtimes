@@ -59,4 +59,4 @@ Não reproduz os versos. O que importa aqui é a estrutura e o contexto.
 
 O Sonatorrek é o poema de um pai que perdeu dois filhos, escrito, segundo a saga, para não se deixar morrer. Passa do luto à raiva contra os deuses e à calma final. Tem lacunas no texto, mas é um dos poemas escáldicos mais elogiados.
 
-Para treinar a memória com as imagens do mar, da árvore e da cerca, jogue [Cada trecho do poema](/pt/jogo-cada-trecho-do-poema/).
+Para treinar a memória com as imagens do mar, da árvore e da cerca, jogue [A cerca dos parentes](/pt/jogo-a-cerca-dos-parentes/).

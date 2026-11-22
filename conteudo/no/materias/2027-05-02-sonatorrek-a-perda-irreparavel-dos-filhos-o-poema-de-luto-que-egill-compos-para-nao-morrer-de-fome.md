@@ -59,4 +59,4 @@ Den gjengir ikke versene. Det som teller her, er oppbygningen og sammenhengen.
 
 Sonatorrek er diktet til en far som mistet to sønner, skrevet, ifølge sagaen, for at han ikke skulle la seg dø. Det går fra sorg til sinne mot gudene og til en endelig ro. Teksten har hull, men det er et av de mest rosede skaldediktene.
 
-Vil du trene hukommelsen med bildene av havet, treet og gjerdet, spill [Hver del av diktet](/no/spill-hver-del-av-diktet/).
+Vil du trene hukommelsen med bildene av havet, treet og gjerdet, spill [Slektens gjerde](/no/spill-slektens-gjerde/).

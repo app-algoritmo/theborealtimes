@@ -62,4 +62,4 @@ El cuento no explica cómo pudo el troll hechizar a la princesa ni por qué el h
 
 «Lord Peter» es un cuento de astucia, en que el heredero de casi nada gana un castillo gracias a un gato. El sol, que hace reventar a los trolls, es el arma final.
 
-Para entrenar la atención con los ciervos, los rebaños y los portones del castillo, juega a [Quién hace qué](/es/juego-quien-hace-que/).
+Para entrenar la atención con los ciervos, los rebaños y los portones del castillo, juega a [Plata para los pastores](/es/juego-plata-para-los-pastores/).

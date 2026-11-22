@@ -57,4 +57,4 @@ Wikipedia muestra que los lectores discrepan. La saga cuenta las acciones, pero 
 
 Hallgerðr es recordada por la muerte de maridos, por una disputa entre dos casas y por una negativa. El pedido de un mechón de pelo, en el momento más duro de la vida de Gunnar, quedó como la escena que la define. Las lecturas de ella cambian según el estudioso.
 
-Para entrenar el razonamiento con los conflictos entre las dos casas, juega a [Cada marido, cada escena](/es/juego-cada-marido-cada-escena/).
+Para entrenar el razonamiento con los conflictos entre las dos casas, juega a [La cuerda de cabello](/es/juego-la-cuerda-de-cabello/).

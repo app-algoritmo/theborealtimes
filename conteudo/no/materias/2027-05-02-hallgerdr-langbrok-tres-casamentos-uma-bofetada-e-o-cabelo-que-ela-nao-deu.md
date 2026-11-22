@@ -57,4 +57,4 @@ Wikipedia viser at leserne er uenige. Sagaen forteller handlingene, men den som 
 
 Hallgerðr huskes for ektemenns død, for en strid mellom to husstander og for en nektelse. Ønsket om en hårlokk, i det hardeste øyeblikket i Gunnars liv, ble scenen som definerer henne. Tolkningene av henne skifter med forskeren.
 
-Vil du trene resonneringen med konfliktene mellom de to husstandene, spill [Hver ektemann, hver scene](/no/spill-hver-ektemann-hver-scene/).
+Vil du trene resonneringen med konfliktene mellom de to husstandene, spill [Hårbuestrengen](/no/spill-harbuestrengen/).

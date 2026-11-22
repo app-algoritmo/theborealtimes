@@ -53,4 +53,4 @@ There is no myth of Eir healing anyone. Wikipedia records no episode in which sh
 
 Eir is a figure of few lines, but a coherent one: healing. Who she was, goddess, valkyrie or servant of another goddess, remains an open question.
 
-To train your memory with the herbs of the hill of healing, play [What each source says](/game-what-each-source-says/).
+To train your memory with the herbs of the hill of healing, play [Herbs on the hill of healing](/game-herbs-on-the-hill-of-healing/).

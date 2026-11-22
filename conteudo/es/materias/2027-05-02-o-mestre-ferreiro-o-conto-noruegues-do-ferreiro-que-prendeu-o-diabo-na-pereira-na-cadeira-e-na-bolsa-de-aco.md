@@ -60,4 +60,4 @@ El texto no cuenta qué ocurre con el herrero después de que entra en el cielo.
 
 Es un cuento de astucia en que el herrero, orgulloso y descuidado al principio, usa los deseos para vencer al diablo tres veces. Lo que el cuento deja abierto es si el herrero merecía de verdad entrar en el cielo.
 
-Para entrenar la atención con el peral, la silla y la bolsa de acero, juega a [Los tres deseos del herrero](/es/juego-los-tres-deseos-del-herrero/).
+Para entrenar la atención con el peral, la silla y la bolsa de acero, juega a [El martillo del maestro](/es/juego-el-martillo-del-maestro/).

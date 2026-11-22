@@ -53,4 +53,4 @@ A Wikipédia não menciona, e por isso este texto também não afirma, o que o v
 
 Ginnungagap é o espaço aberto entre o gelo de Niflheim e o fogo de Múspell. Na versão de Snorri, é ali que o calor derrete a geada e surge Ymir, de quem descendem os gigantes. O significado exato do nome ainda é debatido.
 
-Para treinar a atenção com o gelo, as faíscas e as gotas, jogue [Gelo, fogo ou Vazio](/pt/jogo-gelo-fogo-ou-vazio/).
+Para treinar a atenção com o gelo, as faíscas e as gotas, jogue [Faíscas para Ymir](/pt/jogo-faiscas-para-ymir/).

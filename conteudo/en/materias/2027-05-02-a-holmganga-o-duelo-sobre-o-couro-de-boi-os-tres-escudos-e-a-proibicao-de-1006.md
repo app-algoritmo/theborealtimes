@@ -50,4 +50,4 @@ Iceland banned the hólmganga in 1006 and Norway in 1014, eight years later.
 
 The hólmganga shows a society with law but without a strong court: two people, a hide, three shields and rules everyone knew. In time, the deaths the duel caused led to its ban.
 
-To train your attention with the shields and the borders of the hide, play [What the duel demands](/game-what-the-duel-demands/).
+To train your attention with the shields and the borders of the hide, play [Defend the hide](/game-defend-the-hide/).

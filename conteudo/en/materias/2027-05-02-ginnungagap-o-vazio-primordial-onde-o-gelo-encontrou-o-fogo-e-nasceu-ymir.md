@@ -53,4 +53,4 @@ Wikipedia does not mention, and so this text does not claim, what the void held 
 
 Ginnungagap is the open space between the ice of Niflheim and the fire of Múspell. In Snorri's version, it is there that heat melts the rime and Ymir appears, ancestor of the giants. The exact meaning of the name is still debated.
 
-To train your attention with the ice, the sparks and the drops, play [Ice, fire or the Void](/game-ice-fire-or-the-void/).
+To train your attention with the ice, the sparks and the drops, play [Sparks for Ymir](/game-sparks-for-ymir/).

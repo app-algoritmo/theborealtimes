@@ -62,4 +62,4 @@ O conto não explica como o troll pôde enfeitiçar a princesa nem por que o fei
 
 "Lord Peter" é um conto de esperteza, em que um herdeiro de quase nada ganha um castelo graças a um gato. O sol, que faz os trolls estourarem, é a arma final.
 
-Para treinar a atenção com os veados, os rebanhos e os portões do castelo, jogue [Quem faz o quê](/pt/jogo-quem-faz-o/).
+Para treinar a atenção com os veados, os rebanhos e os portões do castelo, jogue [Prata para os pastores](/pt/jogo-prata-para-os-pastores/).

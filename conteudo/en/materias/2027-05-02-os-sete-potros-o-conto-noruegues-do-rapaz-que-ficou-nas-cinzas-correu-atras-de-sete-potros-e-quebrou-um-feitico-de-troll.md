@@ -64,4 +64,4 @@ The king is overjoyed. He gives Boots the other half of the kingdom after his de
 
 It is a tale of three tries. The first two fall into the old woman's trap, and the third wins by not stopping. The answer to the king's riddle is not to find out what the foals eat, but to bring proof from the church.
 
-To train your attention with the foals, the pitcher and the birch trunk, play [What the road asks for](/game-what-the-road-asks/).
+To train your attention with the foals, the pitcher and the birch trunk, play [Boots gallops with the foals](/game-boots-gallops-with-the-foals/).

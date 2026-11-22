@@ -64,4 +64,4 @@ Kongen er henrykt. Han gir Askeladden den andre halvparten av riket etter sin d�
 
 Det er et eventyr om tre forsøk. De to første går i den gamle konas felle, og det tredje vinner ved ikke å stoppe. Svaret på kongens gåte er ikke å finne ut hva føllene spiser, men å ta med bevis fra kirka.
 
-Vil du trene oppmerksomheten med føllene, mugga og bjørkestammen, spill [Hva veien krever](/no/spill-hva-veien-krever/).
+Vil du trene oppmerksomheten med føllene, mugga og bjørkestammen, spill [Boots galopperer med føllene](/no/spill-boots-galopperer-med-follene/).

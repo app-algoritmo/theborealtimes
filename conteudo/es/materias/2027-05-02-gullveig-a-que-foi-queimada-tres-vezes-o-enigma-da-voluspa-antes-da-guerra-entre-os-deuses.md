@@ -49,4 +49,4 @@ Wikipedia dice sin rodeos que la etimología sigue siendo incierta y que tanto l
 
 Gullveig es una figura de pocos versos: atravesada, quemada tres veces, renacida, luego llamada Heiðr. Qué hace y qué significa sigue abierto. La escena se lee como un posible comienzo de la guerra entre los Æsir y los Vanir, pero los estudiosos aún debaten si es el propio oro, una forma de Freyja o una bruja que enseñó magia a los dioses.
 
-Para entrenar el razonamiento con las llamas y los salones, juega a [Lo que se sabe y lo que no](/es/juego-lo-que-se-sabe-y-lo/).
+Para entrenar el razonamiento con las llamas y los salones, juega a [El salón del oro](/es/juego-el-salon-del-oro/).

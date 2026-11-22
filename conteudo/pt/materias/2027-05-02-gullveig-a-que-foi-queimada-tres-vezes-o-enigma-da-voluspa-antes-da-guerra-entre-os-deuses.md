@@ -49,4 +49,4 @@ A Wikipédia diz com todas as letras que a etimologia continua incerta e que tan
 
 Gullveig é uma figura de poucos versos: perfurada, queimada três vezes, renascida, depois chamada Heiðr. O que ela faz e o que significa seguem em aberto. A cena é lida como o começo possível da guerra entre os Æsir e os Vanir, mas os estudiosos ainda debatem se ela é o próprio ouro, uma forma de Freyja ou uma bruxa que ensinou magia aos deuses.
 
-Para treinar o raciocínio com as chamas e os salões, jogue [O que se sabe e o que não](/pt/jogo-o-que-se-sabe-e-o-que-nao/).
+Para treinar o raciocínio com as chamas e os salões, jogue [O salão do ouro](/pt/jogo-o-salao-do-ouro/).

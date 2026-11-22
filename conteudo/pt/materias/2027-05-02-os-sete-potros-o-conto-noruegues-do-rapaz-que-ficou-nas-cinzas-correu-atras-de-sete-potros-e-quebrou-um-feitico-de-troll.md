@@ -64,4 +64,4 @@ O rei fica feliz. Dá a Boots, depois de morrer, a outra metade do reino. O narr
 
 É um conto de três tentativas. Os dois primeiros caem na armadilha da velha, e o terceiro vence por não parar. A solução do enigma do rei não é descobrir o que os potros comem, mas levar a prova da igreja.
 
-Para treinar a atenção com os potros, a jarra e o tronco de bétula, jogue [O que o caminho pede](/pt/jogo-o-que-o-caminho-pede/).
+Para treinar a atenção com os potros, a jarra e o tronco de bétula, jogue [Boots galopa com os potros](/pt/jogo-boots-galopa-com-os-potros/).

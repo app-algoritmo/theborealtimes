@@ -53,4 +53,4 @@ Wikipedia nevner ikke, og derfor hevder heller ikke denne teksten, hva tomrommet
 
 Ginnungagap er det åpne rommet mellom isen i Niflheim og ilden i Múspell. I Snorres versjon er det der varmen smelter rimet og Ymir dukker opp, jotnenes stamfar. Den nøyaktige betydningen av navnet diskuteres fortsatt.
 
-Vil du trene oppmerksomheten med isen, gnistene og dråpene, spill [Is, ild eller Tomrommet](/no/spill-is-ild-eller-tomrommet/).
+Vil du trene oppmerksomheten med isen, gnistene og dråpene, spill [Gnister til Ymir](/no/spill-gnister-til-ymir/).

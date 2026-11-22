@@ -60,4 +60,4 @@ The text does not tell what happens to the smith after he gets into heaven. The 
 
 It is a tale of cunning in which the smith, proud and careless at first, uses the wishes to beat the devil three times. What the tale leaves open is whether the smith really deserved to get into heaven.
 
-To train your attention with the pear-tree, the chair and the steel purse, play [The smith's three wishes](/game-the-smith-s-three-wishes/).
+To train your attention with the pear-tree, the chair and the steel purse, play [The master's hammer](/game-the-master-s-hammer/).

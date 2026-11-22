@@ -58,4 +58,4 @@ O Museu Nacional da Dinamarca retomou a escavação do pântano em 1989. Foram a
 
 O barco de Nydam é anterior aos vikings em mais de quatro séculos, mas mostra que a tradição de barcos de remo no norte já existia. Ele foi oferecido a deuses, soterrado em lama, achado por um arqueólogo e levado para outro país por causa de uma guerra.
 
-Para treinar a atenção com os remos e as tábuas do casco, jogue [Cada fato no seu capítulo](/pt/jogo-cada-fato-no-seu-capitulo/).
+Para treinar a atenção com os remos e as tábuas do casco, jogue [As tábuas do casco](/pt/jogo-as-tabuas-do-casco/).

@@ -59,4 +59,4 @@ It does not reproduce the verses. What matters here is the structure and the con
 
 Sonatorrek is the poem of a father who lost two sons, written, according to the saga, so that he would not let himself die. It moves from grief to anger at the gods and to a final calm. The text has gaps, but it is one of the most praised skaldic poems.
 
-To train your memory with the images of the sea, the tree and the fence, play [Each part of the poem](/game-each-part-of-the-poem/).
+To train your memory with the images of the sea, the tree and the fence, play [The fence of kin](/game-the-fence-of-kin/).

@@ -50,4 +50,4 @@ Island forbød hólmgangen i 1006 og Norge i 1014, åtte år senere. Reglene var
 
 Hólmgangen viser et samfunn med lov, men uten sterke domstoler: to personer, en hud, tre skjold og regler alle kjente. Etter hvert førte dødsfallene duellen forårsaket, til forbud.
 
-Vil du trene oppmerksomheten med skjoldene og kantene på huden, spill [Hva duellen krever](/no/spill-hva-duellen-krever/).
+Vil du trene oppmerksomheten med skjoldene og kantene på huden, spill [Forsvar huden](/no/spill-forsvar-huden/).

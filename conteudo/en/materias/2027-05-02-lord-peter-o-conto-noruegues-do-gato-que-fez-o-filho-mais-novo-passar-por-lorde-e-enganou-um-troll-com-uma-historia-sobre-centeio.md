@@ -62,4 +62,4 @@ The tale does not explain how the troll could bewitch the princess or why the sp
 
 "Lord Peter" is a tale of cunning, in which the heir to almost nothing gains a castle thanks to a cat. The sun, which makes trolls burst, is the final weapon.
 
-To train your attention with the deer, the herds and the castle gates, play [Who does what](/game-who-does-what/).
+To train your attention with the deer, the herds and the castle gates, play [Silver for the shepherds](/game-silver-for-the-shepherds/).

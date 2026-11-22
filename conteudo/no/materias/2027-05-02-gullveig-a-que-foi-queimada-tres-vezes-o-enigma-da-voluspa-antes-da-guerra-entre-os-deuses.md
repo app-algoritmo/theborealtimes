@@ -49,4 +49,4 @@ Wikipedia sier rett ut at etymologien fortsatt er usikker og at både identifise
 
 Gullveig er en skikkelse med noen få linjer: gjennomboret, brent tre ganger, gjenfødt, så kalt Heiðr. Hva hun gjør og hva hun betyr, står åpent. Scenen leses som en mulig begynnelse på krigen mellom æsene og vanene, men forskerne diskuterer fortsatt om hun er selve gullet, en form for Freyja eller en heks som lærte gudene magi.
 
-Vil du trene resonneringen med flammene og hallene, spill [Hva som er kjent og ikke](/no/spill-hva-som-er-kjent-og-ikke/).
+Vil du trene resonneringen med flammene og hallene, spill [Gullhallen](/no/spill-gullhallen/).

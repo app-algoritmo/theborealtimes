@@ -60,4 +60,4 @@ In the book's introduction, Dasent says the belt gives the boy great strength an
 
 The tale joins in a single plot a magic belt, a troll, lions, a healing spring and a dancing bear. What stands out is that the boy wins by using the belt's strength and his wits, and the final victory comes from a disguise, not from a fight.
 
-To train your attention with the belt, the lions and the spring, play [Three things in order](/game-three-things-in-order/).
+To train your attention with the belt, the lions and the spring, play [The boy's hill](/game-the-boy-s-hill/).

@@ -58,4 +58,4 @@ Stemplene ligger på Statens Historiska Museum, Sveriges historiske museum.
 
 Fire bronsestempler viser at hjelmer fra vendeltida ble pyntet i serie, med scener av krigere, ulver og bjørner. Om den dansende mannen er Odin og den andre en ulvekriger, er en tolkning forskerne foreslår, ikke en sikkerhet.
 
-Vil du trene observasjonsevnen med detaljene på de fire stemplene, spill [Hver detalj på sin plass](/no/spill-hver-detalj-pa-sin-plass/).
+Vil du trene observasjonsevnen med detaljene på de fire stemplene, spill [Bronsefoliene](/no/spill-bronsefoliene/).

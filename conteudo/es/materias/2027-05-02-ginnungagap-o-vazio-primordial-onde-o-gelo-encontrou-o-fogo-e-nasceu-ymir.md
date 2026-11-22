@@ -53,4 +53,4 @@ Wikipedia no menciona, y por eso este texto tampoco afirma, qué contenía el va
 
 Ginnungagap es el espacio abierto entre el hielo de Niflheim y el fuego de Múspell. En la versión de Snorri, allí el calor derrite la escarcha y aparece Ymir, del que descienden los gigantes. El significado exacto del nombre aún se debate.
 
-Para entrenar la atención con el hielo, las chispas y las gotas, juega a [Hielo, fuego o Vacío](/es/juego-hielo-fuego-o-vacio/).
+Para entrenar la atención con el hielo, las chispas y las gotas, juega a [Chispas para Ymir](/es/juego-chispas-para-ymir/).

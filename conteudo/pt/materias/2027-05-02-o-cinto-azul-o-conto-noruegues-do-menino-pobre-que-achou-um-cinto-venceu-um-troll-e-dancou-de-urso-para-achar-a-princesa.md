@@ -60,4 +60,4 @@ Na introdução do livro, Dasent diz que o cinto dá grande força ao menino e q
 
 O conto junta num só enredo um cinto mágico, um troll, leões, uma fonte que cura e um urso dançante. O que mais chama atenção é que o menino vence usando a força do cinto e a esperteza, e a vitória final vem do disfarce, não de uma luta.
 
-Para treinar a atenção com o cinto, os leões e a fonte, jogue [Três coisas em ordem](/pt/jogo-tres-coisas-em-ordem/).
+Para treinar a atenção com o cinto, os leões e a fonte, jogue [O monte do menino](/pt/jogo-o-monte-do-menino/).

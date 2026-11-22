@@ -59,4 +59,4 @@ In ch. 77, Gunnar is buried in a cairn, seated upright. Rannveig will not let hi
 
 The central scene has no great combat: it has a man who looks at his own home and chooses to go back. The saga shows what that costs. Whoever wants the exact scene should read Dasent's translation, cited above.
 
-To train your aim and attention with the arrows, play [What Gunnar looks for](/game-what-gunnar-looks/).
+To train your aim and attention with the arrows, play [Target shooting at Lithend](/game-target-shooting-at-lithend/).

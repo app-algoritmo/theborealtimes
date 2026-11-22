@@ -49,4 +49,4 @@ Wikipedia says outright that the etymology remains uncertain and that both the i
 
 Gullveig is a figure of a few lines: pierced, burned three times, reborn, then called Heiðr. What she does and what she means remain open. The scene is read as a possible start of the war between the Æsir and the Vanir, but scholars still debate whether she is gold itself, a form of Freyja or a witch who taught magic to the gods.
 
-To train your reasoning with the flames and the halls, play [What is known and what is not](/game-what-is-known-and-what-is-not/).
+To train your reasoning with the flames and the halls, play [The hall of gold](/game-the-hall-of-gold/).

@@ -62,4 +62,4 @@ Eventyret forklarer ikke hvordan trollet kunne forhekse prinsessen, eller hvorfo
 
 «Lord Peter» er et eventyr om list, der arvingen til nesten ingenting får et slott takket være en katt. Solen, som får troll til å sprekke, er det siste våpenet.
 
-Vil du trene oppmerksomheten med hjortene, flokkene og slottsportene, spill [Hvem gjør hva](/no/spill-hvem-gjor-hva/).
+Vil du trene oppmerksomheten med hjortene, flokkene og slottsportene, spill [Sølv til gjeterne](/no/spill-solv-til-gjeterne/).

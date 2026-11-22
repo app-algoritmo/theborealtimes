@@ -58,4 +58,4 @@ Nasjonalmuseet i Danmark tok opp igjen utgravingen av myra i 1989. Funnene omfat
 
 Nydambåten er mer enn fire århundrer eldre enn vikingene, men viser at tradisjonen med robåter i nord allerede fantes. Den ble ofret til guder, begravd i gjørme, funnet av en arkeolog og ført til et annet land på grunn av en krig.
 
-Vil du trene oppmerksomheten med årene og plankene i skroget, spill [Hvert faktum i sitt kapittel](/no/spill-hvert-faktum-i-sitt-kapittel/).
+Vil du trene oppmerksomheten med årene og plankene i skroget, spill [Skrogets planker](/no/spill-skrogets-planker/).

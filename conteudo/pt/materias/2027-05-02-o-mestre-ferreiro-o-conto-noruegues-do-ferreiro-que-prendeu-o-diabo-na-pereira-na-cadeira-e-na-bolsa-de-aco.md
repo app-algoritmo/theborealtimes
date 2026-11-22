@@ -60,4 +60,4 @@ O texto não conta o que acontece com o ferreiro depois que ele entra no céu. O
 
 É um conto de esperteza em que o ferreiro, de começo orgulhoso e descuidado, usa os desejos para vencer o diabo três vezes. O que o conto deixa em aberto é se o ferreiro merecia mesmo entrar no céu.
 
-Para treinar a atenção com a pereira, a cadeira e a bolsa de aço, jogue [Os três pedidos do ferreiro](/pt/jogo-os-tres-pedidos-do-ferreiro/).
+Para treinar a atenção com a pereira, a cadeira e a bolsa de aço, jogue [O martelo do mestre](/pt/jogo-o-martelo-do-mestre/).

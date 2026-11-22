@@ -60,4 +60,4 @@ I bokas innledning sier Dasent at beltet gir gutten stor styrke og at gutten som
 
 Eventyret binder sammen et magisk belte, et troll, løver, en helbredende kilde og en dansebjørn i én handling. Det som slår en, er at gutten vinner med beltets styrke og vett, og at den endelige seieren kommer fra en forkledning, ikke fra en kamp.
 
-Vil du trene oppmerksomheten med beltet, løvene og kilden, spill [Tre ting i rekkefølge](/no/spill-tre-ting-i-rekkefolge/).
+Vil du trene oppmerksomheten med beltet, løvene og kilden, spill [Guttens haug](/no/spill-guttens-haug/).

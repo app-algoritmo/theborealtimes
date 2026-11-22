@@ -57,4 +57,4 @@ Wikipedia shows that readers disagree. The saga tells the actions, but whoever r
 
 Hallgerðr is remembered for the deaths of husbands, for a feud between two households and for a refusal. The request for a lock of hair, at the hardest moment of Gunnar's life, became the scene that defines her. Readings of her change with the scholar.
 
-To train your reasoning with the conflicts between the two households, play [Each husband, each scene](/game-each-husband-each-scene/).
+To train your reasoning with the conflicts between the two households, play [The hair bowstring](/game-the-hair-bowstring/).

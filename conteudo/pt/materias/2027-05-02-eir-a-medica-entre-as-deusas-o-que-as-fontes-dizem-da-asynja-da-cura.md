@@ -53,4 +53,4 @@ Não há mito de Eir curando alguém. A Wikipédia não registra nenhum episódi
 
 Eir é uma figura de poucas linhas, mas coerente: a cura. Quem ela era, deusa, valquíria ou servidora de outra deusa, é uma questão em aberto.
 
-Para treinar a memória com as ervas do monte da cura, jogue [O que cada fonte diz](/pt/jogo-o-que-cada-fonte-diz/).
+Para treinar a memória com as ervas do monte da cura, jogue [Ervas no monte da cura](/pt/jogo-ervas-no-monte-da-cura/).

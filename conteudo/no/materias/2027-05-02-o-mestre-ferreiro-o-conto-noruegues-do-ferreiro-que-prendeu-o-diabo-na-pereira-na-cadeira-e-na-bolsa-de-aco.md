@@ -60,4 +60,4 @@ Teksten forteller ikke hva som skjer med smeden etter at han har kommet inn i hi
 
 Det er et eventyr om list der smeden, stolt og uforsiktig i begynnelsen, bruker ønskene til å slå djevelen tre ganger. Det eventyret lar stå åpent, er om smeden virkelig fortjente å komme inn i himmelen.
 
-Vil du trene oppmerksomheten med pæretreet, stolen og stålpungen, spill [Smedens tre ønsker](/no/spill-smedens-tre-onsker/).
+Vil du trene oppmerksomheten med pæretreet, stolen og stålpungen, spill [Mesterens hammer](/no/spill-mesterens-hammer/).

@@ -64,4 +64,4 @@ El rey se alegra. Da a Boots, tras su muerte, la otra mitad del reino. El narrad
 
 Es un cuento de tres intentos. Los dos primeros caen en la trampa de la vieja, y el tercero gana por no detenerse. La solución del acertijo del rey no es averiguar qué comen los potros, sino llevar la prueba de la iglesia.
 
-Para entrenar la atención con los potros, la jarra y el tronco de abedul, juega a [Lo que pide el camino](/es/juego-lo-que-pide-el-camino/).
+Para entrenar la atención con los potros, la jarra y el tronco de abedul, juega a [Boots galopa con los potros](/es/juego-boots-galopa-con-los-potros/).

@@ -60,4 +60,4 @@ En la introducción del libro, Dasent dice que el cinturón da gran fuerza al ni
 
 El cuento junta en una sola trama un cinturón mágico, un troll, leones, una fuente que cura y un oso bailarín. Lo que más llama la atención es que el niño vence con la fuerza del cinturón y su ingenio, y la victoria final viene del disfraz, no de una pelea.
 
-Para entrenar la atención con el cinturón, los leones y la fuente, juega a [Tres cosas en orden](/es/juego-tres-cosas-en-orden/).
+Para entrenar la atención con el cinturón, los leones y la fuente, juega a [El monte del niño](/es/juego-el-monte-del-nino/).

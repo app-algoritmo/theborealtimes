@@ -59,4 +59,4 @@ En el cap. 77, Gunnar es enterrado en un túmulo, sentado y erguido. Rannveig no
 
 La escena central no tiene un gran combate: tiene a un hombre que mira su propia casa y elige volver. La saga muestra lo que eso cuesta. Quien quiera la escena exacta debe leer la traducción de Dasent, citada arriba.
 
-Para entrenar la puntería y la atención con las flechas, juega a [Lo que busca Gunnar](/es/juego-lo-que-busca-gunnar/).
+Para entrenar la puntería y la atención con las flechas, juega a [Tiro al blanco en Lithend](/es/juego-tiro-al-blanco-en-lithend/).

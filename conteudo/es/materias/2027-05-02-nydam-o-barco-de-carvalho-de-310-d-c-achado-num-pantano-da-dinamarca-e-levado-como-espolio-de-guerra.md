@@ -58,4 +58,4 @@ El Museo Nacional de Dinamarca retomó la excavación de la turbera en 1989. Se 
 
 El barco de Nydam es anterior a los vikingos en más de cuatro siglos, pero muestra que la tradición de barcos de remos en el norte ya existía. Fue ofrecido a los dioses, enterrado en barro, hallado por un arqueólogo y llevado a otro país por una guerra.
 
-Para entrenar la atención con los remos y las tablas del casco, juega a [Cada hecho en su capítulo](/es/juego-cada-hecho-en-su-capitulo/).
+Para entrenar la atención con los remos y las tablas del casco, juega a [Las tablas del casco](/es/juego-las-tablas-del-casco/).

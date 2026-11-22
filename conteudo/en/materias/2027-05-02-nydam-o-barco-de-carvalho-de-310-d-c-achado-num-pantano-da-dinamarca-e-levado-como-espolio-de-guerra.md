@@ -58,4 +58,4 @@ The National Museum of Denmark resumed excavation of the bog in 1989. Finds incl
 
 The Nydam boat predates the Vikings by more than four centuries, but it shows that the tradition of rowing boats in the north already existed. It was offered to gods, buried in mud, found by an archaeologist and carried to another country because of a war.
 
-To train your attention with the oars and the planks of the hull, play [Each fact in its chapter](/game-each-fact-in-its-chapter/).
+To train your attention with the oars and the planks of the hull, play [The planks of the hull](/game-the-planks-of-the-hull/).

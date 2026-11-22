@@ -57,4 +57,4 @@ A Wikipédia mostra que os leitores discordam. A saga conta as ações, mas quem
 
 Hallgerðr é lembrada por três mortes de maridos, por uma briga entre duas casas e por uma recusa. O pedido de uma mecha de cabelo, no momento mais duro da vida de Gunnar, ficou como a cena que a define. As leituras dela mudam conforme o estudioso.
 
-Para treinar o raciocínio com os conflitos entre as duas casas, jogue [Cada marido, cada cena](/pt/jogo-cada-marido-cada-cena/).
+Para treinar o raciocínio com os conflitos entre as duas casas, jogue [A corda de cabelo](/pt/jogo-a-corda-de-cabelo/).
