@@ -618,3 +618,5 @@ html.jogo-aberto,html.jogo-aberto body{overflow:hidden;overscroll-behavior:none}
 .etiquetas span{font-family:var(--util);font-size:11px;letter-spacing:.06em;
   text-transform:uppercase;color:var(--tinta-2);border:1px solid var(--fio-2);
   padding:5px 10px}
+
+.loja-sacola{display:inline-flex;align-items:center;vertical-align:middle;margin-right:.7rem;color:inherit;line-height:1}.loja-sacola:hover{opacity:.75}.faixa-topo a.loja-sacola{color:#fff;border-bottom:0}
