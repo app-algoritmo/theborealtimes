@@ -19,7 +19,7 @@ card:
 
 ## Como jogar
 
-Odin, Vili e Vé deram dons ao primeiro casal, Ask e Embla. Um dom aparece no alto da tela. Toque na caixa do irmão que o deu, ou use as teclas 1, 2 e 3: a primeira é Odin, a segunda é Vili e a terceira é Vé. Caixa errada, ou dom sem resposta, é erro. Entregue 10 dons antes do tempo acabar. Três erros encerram o jogo.
+Odin, Vili e Vé deram dons ao primeiro casal, Ask e Embla. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.
 
 ## A história por trás
 

@@ -19,7 +19,7 @@ card:
 
 ## Como jogar
 
-Jörð é a Terra e a mãe de Thor. Uma menção a ela aparece no alto da tela. Toque na caixa do tipo de fonte que a traz, ou use as teclas 1, 2 e 3: a primeira é a Edda em prosa, a segunda é a Edda poética e a terceira são os poemas dos escaldos. Caixa errada, ou menção sem resposta, é erro. Ligue 10 menções antes do tempo acabar. Três erros encerram o jogo.
+Jörð é a Terra e a mãe de Thor. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.
 
 ## A história por trás
 

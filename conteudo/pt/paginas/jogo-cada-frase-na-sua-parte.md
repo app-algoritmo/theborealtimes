@@ -19,7 +19,7 @@ card:
 
 ## Como jogar
 
-A pedra de Karlevi, em Öland, tem uma parte em prosa, uma estrofe e uma inscrição no reverso. Uma frase aparece no alto da tela. Toque na caixa da parte da pedra em que ela está, ou use as teclas 1, 2 e 3: a primeira é a prosa, a segunda é a estrofe em dróttkvætt e a terceira é o reverso. Caixa errada, ou frase sem resposta, é erro. Ligue 10 frases antes do tempo acabar. Três erros encerram o jogo.
+A pedra de Karlevi, em Öland, tem uma parte em prosa, uma estrofe e uma inscrição no reverso. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.
 
 ## A história por trás
 

@@ -6,8 +6,12 @@ BTJogo.registrar({
     "toque": "Toque para começar",
     "de_novo": "Toque para tentar de novo",
     "jogar": "Toque para jogar de novo",
+    "h2": "Erros",
+    "h3": "Tempo",
+    "carregando": "Carregando o 3D…",
+    "sem3d": "Este aparelho não conseguiu mostrar gráficos 3D. Tente em outro navegador.",
     "titulo": "Os dons dos irmãos",
-    "sub": "Odin, Vili e Vé deram dons ao primeiro casal, Ask e Embla. Um dom aparece no alto da tela. Toque na caixa do irmão que o deu, ou use as teclas 1, 2 e 3: a primeira é Odin, a segunda é Vili e a terceira é Vé. Caixa errada, ou dom sem resposta, é erro. Entregue 10 dons antes do tempo acabar. Três erros encerram o jogo.",
+    "sub": "Odin, Vili e Vé deram dons ao primeiro casal, Ask e Embla. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.",
     "perdeu": "Os dons se misturaram",
     "v1": "Cada dom com o seu irmão!",
     "v2": "Na Gylfaginning, Odin dá o fôlego e a vida, Vili dá o entendimento e o movimento ou a sensação, e Vé dá o rosto, a fala, a audição e a visão. A fila de dons, as três caixas e o ritmo do jogo são invenção.",
@@ -27,17 +31,18 @@ BTJogo.registrar({
       "Dá a audição.",
       "Dá a visão."
     ],
-    "h3": "Tempo",
-    "carregando": "Carregando o 3D…",
-    "sem3d": "Este aparelho não conseguiu mostrar gráficos 3D. Tente em outro navegador.",
-    "h2": "Erros"
+    "dica": "Toque numa caixa ou use ← → e 1-2-3"
   },
   "en": {
     "toque": "Tap to start",
     "de_novo": "Tap to try again",
     "jogar": "Tap to play again",
+    "h2": "Mistakes",
+    "h3": "Time",
+    "carregando": "Loading the 3D…",
+    "sem3d": "This device could not show 3D graphics. Try another browser.",
     "titulo": "The brothers' gifts",
-    "sub": "Odin, Vili and Vé gave gifts to the first couple, Ask and Embla. A gift appears at the top of the screen. Tap the box of the brother who gave it, or use keys 1, 2 and 3: the first is Odin, the second is Vili and the third is Vé. A wrong box, or a gift left unanswered, is a mistake. Deliver 10 gifts before time runs out. Three mistakes end the game.",
+    "sub": "Odin, Vili and Vé gave gifts to the first couple, Ask and Embla. Each phrase falls from above. Guide it to the right box: tap the box, or use the arrow keys and keys 1, 2 and 3 (Space drops it faster). The wrong box is a mistake. Get 10 right before time runs out. 3 mistakes end the game.",
     "perdeu": "The gifts got mixed up",
     "v1": "Every gift with its brother!",
     "v2": "In the Gylfaginning, Odin gives breath and life, Vili gives understanding and motion or feeling, and Vé gives the face, speech, hearing and sight. The row of gifts, the three boxes and the rhythm of the game are invention.",
@@ -57,17 +62,18 @@ BTJogo.registrar({
       "Gives hearing.",
       "Gives sight."
     ],
-    "h3": "Time",
-    "carregando": "Loading the 3D…",
-    "sem3d": "This device could not show 3D graphics. Try another browser.",
-    "h2": "Mistakes"
+    "dica": "Tap a box or use ← → and 1-2-3"
   },
   "no": {
     "toque": "Trykk for å starte",
     "de_novo": "Trykk for å prøve igjen",
     "jogar": "Trykk for å spille igjen",
+    "h2": "Feil",
+    "h3": "Tid",
+    "carregando": "Laster 3D…",
+    "sem3d": "Denne enheten kunne ikke vise 3D-grafikk. Prøv en annen nettleser.",
     "titulo": "Brødrenes gaver",
-    "sub": "Odin, Vili og Vé ga gaver til det første paret, Ask og Embla. En gave vises øverst på skjermen. Trykk på boksen til broren som ga den, eller bruk tastene 1, 2 og 3: Den første er Odin, den andre er Vili og den tredje er Vé. En feil boks, eller en gave uten svar, er en feil. Lever 10 gaver før tiden er ute. Tre feil avslutter spillet.",
+    "sub": "Odin, Vili og Vé ga gaver til det første paret, Ask og Embla. Hver frase faller ovenfra. Led den til riktig boks: trykk på boksen, eller bruk piltastene og tastene 1, 2 og 3 (mellomrom får den til å falle raskere). Feil boks er en feil. Få 10 riktige før tiden er ute. 3 feil avslutter spillet.",
     "perdeu": "Gavene ble blandet",
     "v1": "Hver gave hos sin bror!",
     "v2": "I Gylfaginning gir Odin ånde og liv, Vili gir forstand og bevegelse eller følelse, og Vé gir ansiktet, talen, hørselen og synet. Rekka med gaver, de tre boksene og rytmen i spillet er oppdiktet.",
@@ -87,10 +93,7 @@ BTJogo.registrar({
       "Gir hørselen.",
       "Gir synet."
     ],
-    "h3": "Tid",
-    "carregando": "Laster 3D…",
-    "sem3d": "Denne enheten kunne ikke vise 3D-grafikk. Prøv en annen nettleser.",
-    "h2": "Feil"
+    "dica": "Trykk på en boks eller bruk ← → og 1-2-3"
   }
 },
   criar: function (api) {
@@ -107,7 +110,7 @@ BTJogo.registrar({
     function rr(x, y, w, h, r) { g.beginPath(); g.moveTo(x + r, y); g.arcTo(x + w, y, x + w, y + h, r); g.arcTo(x + w, y + h, x, y + h, r); g.arcTo(x, y + h, x, y, r); g.arcTo(x, y, x + w, y, r); g.closePath(); }
     function bar(x, y, w, h, f, c) { g.fillStyle = 'rgba(0,0,0,.28)'; g.fillRect(x, y, w, h); g.fillStyle = c; g.fillRect(x, y, w * Math.max(0, Math.min(1, f)), h); }
     var SRC = '/g/three.min.js?v=1';
-    var CFG = {"sky": 1845820, "fog": [30, 90], "hemi": [14214388, 1844272], "sun": 16773336, "sunPos": [-6, 22, 14], "cam": [0, 5, 9], "look": [0, 0.8, 0.8], "fov": 58, "fovP": 72, "target": 10, "maxe": 3, "total": 120, "bgA": "#0e2335", "bgB": "#050b12"};
+    var CFG = {"sky": 1845820, "fog": [30, 90], "hemi": [14214388, 1844272], "sun": 16773336, "sunPos": [-6, 22, 14], "cam": [0, 5, 9], "look": [0, 1.2, 0], "fov": 58, "fovP": 72, "target": 10, "maxe": 3, "total": 120, "bgA": "#0e2335", "bgB": "#050b12"};
     var HEAD = typeof document === 'undefined', ls = HEAD ? 2 : 0;
     var TH = null, R = null, scene = null, camera = null, sun = null, snap = null, endT = 0, sceneT = 0;
     var cvEl = HEAD ? null : document.getElementById('jogo-vili');
@@ -186,54 +189,78 @@ BTJogo.registrar({
     function reset() { st = 'menu'; }
     function camShake(dt) { if (shake > 0) { shake -= dt; return (Math.random() - 0.5) * 0.5 * shake; } return 0; }
 
-    G = (function () {
-      var CAT = [0, 0, 1, 1, 2, 2, 2, 2], bag = [], cur = 0, tl = 8, lim = 8, cd = 0, gap = 0, P = [];
-      function bx(i) { return (i - 1) * 3.6; }
-      function scr() { var o = []; for (var i = 0; i < 3; i++) o.push(toScr(bx(i), 0.9, 1.2)); return o; }
-      function next() {
-        if (!bag.length) { for (var i = 0; i < 8; i++) bag.push(i); for (var a = 7; a > 0; a--) { var j = Math.floor(Math.random() * (a + 1)), t = bag[a]; bag[a] = bag[j]; bag[j] = t; } }
-        cur = bag.pop(); lim = Math.max(5.5, 8.5 - score * 0.3); tl = lim; gap = 0.4;
+    var PRM = {"ground": 2765632, "cols": [5917322, 3832410, 9067066], "cat": [0, 0, 1, 1, 2, 2, 2, 2]};
+
+
+G = (function () {
+  var cards = [], bag = [], sel = 1, mk = [], arrow = null, spawnT = 0, glow = 0;
+
+  function hw() { var f = fit(), d = 8 * f, fv = (api.w / api.h < 0.8 ? 72 : 58) * Math.PI / 360; return d * Math.tan(fv) * (api.w / api.h); }
+  function wx(x) { return (x / api.w - 0.5) * 2 * hw(); }
+  function pairMk() { var o = { on: false, kind: 0, x: 0, y: 9, z: 0, v: 3, g0: mkItem(0), g1: mkItem(1) }; o.g0.visible = false; o.g1.visible = false; scene.add(o.g0); scene.add(o.g1); return o; }
+  function dica() { txt(T.dica, api.w / 2, api.h - 22, Math.max(12, Math.min(15, api.w / 40)), '#ffe9a8', 'center'); }
+
+  function px(c) { var s = Math.min(3.6, hw() * 0.62); return (c - 1) * s; }
+  function refill() { var i, j, t; bag = []; for (i = 0; i < T.frases.length; i++) bag.push(i); for (i = bag.length - 1; i > 0; i--) { j = Math.floor(Math.random() * (i + 1)); t = bag[i]; bag[i] = bag[j]; bag[j] = t; } }
+  function spawn() { if (!bag.length) refill(); cards.push({ i: bag.pop(), col: 1, sx: 0, y: 8.5, fast: false }); }
+  function low() { var b = null, i; for (i = 0; i < cards.length; i++) if (!b || cards[i].y < b.y) b = cards[i]; return b; }
+  function setCol(c) { var k = low(); if (!k) return; if (k.col === c) k.fast = true; else k.col = c; }
+  function land(k) {
+    var ok = PRM.cat[k.i] === k.col, x = px(k.col);
+    if (ok) { burst(x, 1.4, 0.8, 14, 2.4, 1, 0.9, 0.4, 3); good(); } else { burst(x, 1.4, 0.8, 10, 2, 1, 0.3, 0.3, 2); bad(); }
+  }
+  return {
+    init: function () {
+      var m, i;
+      m = new TH.Mesh(new TH.PlaneGeometry(60, 40), mat(PRM.ground)); m.rotation.x = -Math.PI / 2; m.position.set(0, -0.05, -6); scene.add(m);
+      for (i = 0; i < 3; i++) { m = new TH.Mesh(new TH.BoxGeometry(3.0, 0.9, 1.6), mat(PRM.cols[i])); m.position.set(0, 0.45, 0); scene.add(m); mk.push(m); m = new TH.Mesh(new TH.BoxGeometry(3.1, 0.12, 1.7), mat(0xa8842c)); m.position.set(0, 0.95, 0); scene.add(m); mk.push(m); }
+      arrow = new TH.Mesh(new TH.ConeGeometry(0.35, 0.8, 4), mat(0xffe08a, { emissive: 0x665522 })); arrow.rotation.x = Math.PI; arrow.position.set(0, 2.2, 0); scene.add(arrow);
+    },
+    start: function () { cards = []; refill(); sel = 1; spawnT = 0; spawn(); },
+    logic: function (dt) {
+      var i, k, v = Math.min(3.1, 1.5 + score * 0.07), lw = low();
+      if (!cards.length) { spawn(); }
+      else if (score >= 3 && cards.length < 2 && lw && lw.y < 4.2) spawn();
+      for (i = cards.length - 1; i >= 0; i--) {
+        k = cards[i]; k.y -= (k.fast ? v * 4 : v) * dt;
+        if (k.y <= 1.3) { cards.splice(i, 1); land(k); if (st !== 'play') return; }
       }
-      function tap(i) {
-        if (cd > 0 || gap > 0) return; cd = 0.3;
-        if (i === CAT[cur]) { burst(bx(i), 1.6, 1.2, 14, 2.4, 1, 0.9, 0.5, 3); good(); if (st === 'play') next(); }
-        else bad();
+    },
+    down: function (x) { setCol(x < api.w / 3 ? 0 : (x > api.w * 2 / 3 ? 2 : 1)); },
+    move: function () {},
+    key: function (c, d) {
+      if (!d) return; var k = low(), n = { Digit1: 0, Digit2: 1, Digit3: 2 }[c];
+      if (n !== undefined) setCol(n);
+      else if (k && (c === 'ArrowLeft' || c === 'KeyA')) k.col = Math.max(0, k.col - 1);
+      else if (k && (c === 'ArrowRight' || c === 'KeyD')) k.col = Math.min(2, k.col + 1);
+      else if (k && (c === 'ArrowDown' || c === 'Space' || c === 'KeyS')) k.fast = true;
+    },
+    cam: function (sk) { var f = fit(); setCam(sk, 4.6 + 2 * (f - 1), 9 * f, 0, 2.6, 0); },
+    anim: function (dt) {
+      var i, k = low();
+      for (i = 0; i < 3; i++) { mk[i * 2].position.x = px(i); mk[i * 2 + 1].position.x = px(i); }
+      for (i = 0; i < cards.length; i++) cards[i].sx += (px(cards[i].col) - cards[i].sx) * Math.min(1, dt * 12);
+      if (k) { arrow.visible = true; arrow.position.set(k.sx, 2.4 + Math.sin(sceneT * 6) * 0.15, 0); } else arrow.visible = false;
+      this.cam(camShake(dt));
+    },
+    hud: function () {
+      var W = api.w, H = api.h, fs = Math.max(12, Math.min(17, W / 34)), cw = Math.min(W * 0.5, 320), i, q, k, p, ls, h, bl, sp;
+      for (i = 0; i < 3; i++) {
+        p = toScr(px(i), 0.9, 0.9); sp = Math.max(70, Math.abs(toScr(px(1), 0.9, 0.9).x - toScr(px(0), 0.9, 0.9).x)) * 0.92; bl = api.quebra(T.bins[i], sp, 13);
+        for (q = 0; q < bl.length; q++) txt(bl[q], p.x, p.y + 24 + q * 15, 13, '#f3ecd2', 'center');
       }
-      return {
-        init: function () {
-          var i, m, cols = [0x5a4a8a, 0x3a7a5a, 0x8a5a3a];
-          m = new TH.Mesh(new TH.PlaneGeometry(50, 36), mat(0x2a3038)); m.rotation.x = -Math.PI / 2; m.position.set(0, -0.05, -4); scene.add(m);
-          for (i = 0; i < 3; i++) {
-            m = new TH.Mesh(new TH.BoxGeometry(2.8, 1.5, 1.8), mat(cols[i])); m.position.set(bx(i), 0.75, 1.2); scene.add(m);
-            m = new TH.Mesh(new TH.BoxGeometry(3.0, 0.2, 2.0), mat(0xb08a30)); m.position.set(bx(i), 1.55, 1.2); scene.add(m);
-          }
-          m = new TH.Mesh(new TH.PlaneGeometry(40, 16), mat(0x182028)); m.position.set(0, 7, -6); scene.add(m);
-          for (i = 0; i < 7; i++) { m = new TH.Mesh(new TH.ConeGeometry(1.3, 5 + (i % 3), 6), mat(0x1a2a28)); m.position.set(-18 + i * 6, 2.5, -9); scene.add(m); }
-          m = new TH.Mesh(new TH.BoxGeometry(14, 3.5, 3), mat(0x6a6a78)); m.position.set(0, 1.7, -7.5); scene.add(m);
-        },
-        start: function () { bag = []; cd = 0; next(); P = scr(); },
-        logic: function (dt) {
-          if (cd > 0) cd -= dt;
-          if (gap > 0) { gap -= dt; return; }
-          tl -= dt; if (tl <= 0) { bad(); if (st === 'play') next(); }
-        },
-        down: function (x, y) { if (!P.length) P = scr(); var i = nearest(P, x, y, Math.max(44, 0.18 * Math.min(api.w, api.h))); if (i >= 0) tap(i); },
-        key: function (c, d) { if (!d) return; var n = { Digit1: 0, Digit2: 1, Digit3: 2 }[c]; if (n !== undefined) tap(n); },
-        cam: function (sk) { var f = fit() > 1 ? 1.7 : 1; setCam(sk, 5 + 2.5 * (f - 1), 9 * f, 0, 0.8, 0.8); },
-        anim: function (dt) { this.cam(camShake(dt)); P = scr(); },
-        hud: function () {
-          var W = api.w, H = api.h, fs = Math.max(13, Math.min(19, W / 28)), mw = Math.min(W - 40, 560), ls = api.quebra(T.frases[cur], mw, fs), y0 = Math.max(124, H * 0.2), i;
-          g.fillStyle = 'rgba(10,8,25,.72)'; g.fillRect(W / 2 - mw / 2 - 10, y0 - fs - 6, mw + 20, ls.length * (fs + 5) + 12);
-          for (i = 0; i < ls.length; i++) txt(ls[i], W / 2, y0 + i * (fs + 5), fs, '#ffe9a8', 'center');
-          var yb = y0 + ls.length * (fs + 5) + 8; g.fillStyle = 'rgba(255,255,255,.18)'; g.fillRect(W / 2 - 60, yb, 120, 5); g.fillStyle = '#ffd870'; g.fillRect(W / 2 - 60, yb, 120 * Math.max(0, tl / lim), 5);
-          for (i = 0; i < 3; i++) if (P[i]) {
-            var sp = Math.max(70, Math.abs(P[1].x - P[0].x)) * 0.92, bl = api.quebra(T.bins[i], sp, 13), q;
-            for (q = 0; q < bl.length; q++) txt(bl[q], P[i].x, P[i].y + 44 + q * 15, 13, '#e6dcf8', 'center');
-          }
-        },
-        dbg: function () { return { need: gap > 0 ? -1 : CAT[cur], pos: scr() }; }
-      };
-    })();
+      for (i = 0; i < cards.length; i++) {
+        k = cards[i]; p = toScr(k.sx, k.y, 0.8); ls = api.quebra(T.frases[k.i], cw - 16, fs); h = ls.length * (fs + 4) + 14;
+        g.fillStyle = 'rgba(250,244,225,.96)'; g.fillRect(p.x - cw / 2, p.y - h / 2, cw, h);
+        g.fillStyle = 'rgba(0,0,0,.25)'; g.fillRect(p.x - cw / 2, p.y + h / 2, cw, 3);
+        for (q = 0; q < ls.length; q++) txt(ls[q], p.x, p.y - h / 2 + 8 + fs + q * (fs + 4) - 4, fs, '#2a2236', 'center');
+      }
+      txt(T.dica, W / 2, H - 22, Math.max(12, Math.min(15, W / 40)), '#ffe9a8', 'center');
+    },
+    dbg: function () { var k = low(); return { need: k ? PRM.cat[k.i] : -1, col: k ? k.col : -1, y: k ? k.y : 0 }; }
+  };
+})();
+
 
     if (HEAD) { TH = stub(); scene = stub(); camera = stub(); G.init(); }
     return {

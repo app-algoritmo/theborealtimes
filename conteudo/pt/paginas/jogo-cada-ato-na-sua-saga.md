@@ -19,7 +19,7 @@ card:
 
 ## Como jogar
 
-Snorri goði aparece em três sagas islandesas. Um ato dele aparece no alto da tela. Toque na caixa da saga que o conta, ou use as teclas 1, 2 e 3: a primeira é a Eyrbyggja saga, a segunda é a Laxdæla saga e a terceira é a Njáls saga. Caixa errada, ou ato sem resposta, é erro. Ligue 10 atos antes do tempo acabar. Três erros encerram o jogo.
+Snorri goði aparece em três sagas islandesas. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.
 
 ## A história por trás
 

@@ -19,7 +19,7 @@ card:
 
 ## Como jogar
 
-A pedra de Tjängvide, em Gotland, tem um campo de cima, um campo de baixo e uma inscrição. Um detalhe aparece no alto da tela. Toque na caixa da parte da pedra em que ele está, ou use as teclas 1, 2 e 3: a primeira é o campo de cima, a segunda é o campo de baixo e a terceira é a inscrição. Caixa errada, ou detalhe sem resposta, é erro. Ligue 10 detalhes antes do tempo acabar. Três erros encerram o jogo.
+A pedra de Tjängvide, em Gotland, tem um campo de cima, um campo de baixo e uma inscrição. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.
 
 ## A história por trás
 

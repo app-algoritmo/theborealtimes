@@ -19,7 +19,7 @@ card:
 
 ## Como jogar
 
-Odin, Vili e Vé mataram Ymir e fizeram o mundo com o corpo dele. Uma parte do corpo aparece no alto da tela. Toque na caixa do lugar do mundo em que ela se transformou, ou use as teclas 1, 2 e 3: a primeira é a terra, a segunda é o mar e a terceira é o céu. Caixa errada, ou parte sem resposta, é erro. Devolva 10 partes antes do tempo acabar. Três erros encerram o jogo.
+Odin, Vili e Vé mataram Ymir e fizeram o mundo com o corpo dele. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.
 
 ## A história por trás
 
