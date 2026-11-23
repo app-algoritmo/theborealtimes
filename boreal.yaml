@@ -1,5 +1,5 @@
 # ============================================================
-# THE BOREAL TIMES — configuração central
+# BOREAL SAGA PLAY — configuração central
 # Histórias do Norte: mitos, sagas, lendas, contos e história.
 # Português é o idioma principal. Inglês e norueguês são secundários, em /en/ e /no/.
 # ============================================================
@@ -23,7 +23,7 @@ site:
     latitude: "59.0544"
     longitude: "10.0268"
     endereco: "Holtebygdveien 23, 3282 Kvelde, Larvik, Noruega"
-    # O relógio do jornal. A Cloudflare constrói em UTC; sem isto, a
+    # O relógio do site. A Cloudflare constrói em UTC; sem isto, a
     # reconstrução noturna viraria a data uma hora tarde demais.
     fuso: Europe/Oslo
   cobertura: Escandinávia e mundo nórdico
@@ -610,7 +610,7 @@ pt:
     rodape_reinos: Reinos
     rodape_glossario: Glossário
     rodape_personagens: Personagens
-    linha_edicao: by The Boreal Times · Duna Press Edições
+    linha_edicao: Edições Duna Press
     sobre: Sobre
     assine: Assinar
     ultimas: Ver também
@@ -1238,7 +1238,7 @@ en:
     rodape_reinos: Realms
     rodape_glossario: Glossary
     rodape_personagens: Characters
-    linha_edicao: by The Boreal Times · Duna Press Editions
+    linha_edicao: Duna Press Editions
     sobre: About
     assine: Subscribe
     ultimas: See also
@@ -1866,7 +1866,7 @@ en:
     rodape_reinos: Rikene
     rodape_glossario: Ordliste
     rodape_personagens: Skikkelser
-    linha_edicao: by The Boreal Times · Duna Press-utgaver
+    linha_edicao: Duna Press-utgaver
     sobre: Om
     assine: Abonner
     ultimas: Se også
@@ -2091,7 +2091,7 @@ es:
     rodape_reinos: Reinos
     rodape_glossario: Glosario
     rodape_personagens: Personajes
-    linha_edicao: por The Boreal Times · Duna Press Editions
+    linha_edicao: Ediciones Duna Press
     sobre: Acerca de
     assine: Suscríbete
     ultimas: Mira también

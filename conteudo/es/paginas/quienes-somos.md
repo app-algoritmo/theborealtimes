@@ -7,11 +7,9 @@ atualizado: noviembre de 2026
 
 Boreal Saga Play cuenta historias del Norte: mitos, sagas, leyendas, cuentos e historia de Escandinavia y del mundo nórdico, desde la Era vikinga hasta hoy. Pueden ser verdaderas, legendarias o inventadas, y cada texto dice cuál es el caso. El sitio aparece en español, inglés, portugués y noruego.
 
-El nombre viene del inglés, pero «Times» significa aquí épocas: historias de todas las eras.
-
 ## La casa
 
-Boreal Saga Play está producido por [Duna Press](https://dunapress.org), una editorial fundada en 2017 que publica periodismo en portugués. Boreal nació en 2025 como un periódico de economía y geopolítica y, en noviembre de 2026, se rediseñó para contar historias. Duna Press continúa con su periodismo diario; Boreal Saga Play no publica noticias.
+Boreal Saga Play está producido por [Duna Press](https://dunapress.org), una editorial fundada en 2017 que publica periodismo en portugués. Duna Press continúa con su periodismo diario; Boreal Saga Play no publica noticias.
 
 ## Quién escribe
 

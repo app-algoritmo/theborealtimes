@@ -57,7 +57,7 @@ function enviar_email($para, $assunto, $texto, $extra = []) {
     'MIME-Version: 1.0',
     'Content-Type: text/plain; charset=UTF-8',
     'Content-Transfer-Encoding: 8bit',
-    'X-Mailer: BorealTimes',
+    'X-Mailer: BorealSagaPlay',
   ];
   foreach ($extra as $linha) $cab[] = $linha;
   return mail($para, mb_encode_mimeheader($assunto, 'UTF-8'), $texto, implode("\r\n", $cab), '-f' . $c['de_email']);

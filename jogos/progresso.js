@@ -175,7 +175,7 @@
     var gr = g.createLinearGradient(0, 0, 1200, 630); gr.addColorStop(0, '#120c2e'); gr.addColorStop(0.55, '#2a1458'); gr.addColorStop(1, '#0b3a46'); g.fillStyle = gr; g.fillRect(0, 0, 1200, 630);
     for (var i = 0; i < 90; i++) { g.globalAlpha = Math.random() * 0.8; g.fillStyle = '#fff'; g.fillRect(Math.random() * 1200, Math.random() * 420, 2, 2); } g.globalAlpha = 1;
     var au = g.createLinearGradient(0, 150, 0, 420); au.addColorStop(0, 'rgba(40,220,150,0)'); au.addColorStop(0.5, 'rgba(40,220,150,.25)'); au.addColorStop(1, 'rgba(40,220,150,0)'); g.fillStyle = au; g.fillRect(0, 150, 1200, 270);
-    g.textAlign = 'center'; g.fillStyle = '#f5a800'; g.font = 'bold 34px Georgia,serif'; g.fillText('THE BOREAL TIMES', 600, 70);
+    g.textAlign = 'center'; g.fillStyle = '#f5a800'; g.font = 'bold 34px Georgia,serif'; g.fillText('BOREAL SAGA PLAY', 600, 70);
     g.font = '170px serif'; g.fillText(EMB[rk.i], 600, 270);
     g.fillStyle = '#fff'; g.font = 'bold 76px Georgia,serif'; g.fillText(TX.ranks[rk.i], 600, 372);
     g.fillStyle = '#d9d0ff'; g.font = '42px Georgia,serif'; g.fillText(r.n + ' / ' + r.tot + ' ' + TX.de + '  ·  ' + r.pts + ' ' + TX.pts, 600, 438);

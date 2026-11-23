@@ -1,4 +1,4 @@
--- Tabela de assinantes da newsletter do Boreal Times.
+-- Tabela de assinantes da newsletter do Boreal Saga Play.
 -- Rode no phpMyAdmin do Domeneshop, no banco criado para o Boreal (aba SQL).
 CREATE TABLE IF NOT EXISTS boreal_assinantes (
   id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,

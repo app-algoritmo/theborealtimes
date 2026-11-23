@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-THE BOREAL TIMES — gerador do site e ferramentas de redação.
+BOREAL SAGA PLAY — gerador do site e ferramentas de redação.
 
     python3 publicar.py construir     gera o site em site/
     python3 publicar.py nova          cria o esqueleto de uma matéria
@@ -985,7 +985,7 @@ def servir():
     import socketserver
     os.chdir(SAIDA)
     with socketserver.TCPServer(("", 8000), http.server.SimpleHTTPRequestHandler) as s:
-        print("The Boreal Times em http://localhost:8000 — Ctrl+C encerra.")
+        print("Boreal Saga Play em http://localhost:8000 — Ctrl+C encerra.")
         s.serve_forever()
 
 

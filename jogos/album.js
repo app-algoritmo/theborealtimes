@@ -1,4 +1,4 @@
-/* Galeria Épica e Álbum de Figurinhas — The Boreal Times
+/* Galeria Épica e Álbum de Figurinhas — Boreal Saga Play
    Uma figurinha por história. Tudo roda no navegador; o progresso fica salvo
    no próprio aparelho (localStorage). Sem bibliotecas. */
 (function () {

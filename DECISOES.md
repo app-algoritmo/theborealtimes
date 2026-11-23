@@ -46,7 +46,7 @@ Podem ser ilustrações geradas por IA. A legenda diz isso, o copidesque avisa s
 
 ## Relação com a Duna Press
 
-O Boreal Times é "elaborado por Duna Press". A Duna segue com jornalismo diário; o Boreal não publica notícias. O aviso antigo de "o que sai aqui não sai lá" deixou de fazer sentido, porque os dois não disputam mais o mesmo assunto.
+O Boreal Saga Play é "elaborado por Duna Press". A Duna segue com jornalismo diário; o Boreal não publica notícias. O aviso antigo de "o que sai aqui não sai lá" deixou de fazer sentido, porque os dois não disputam mais o mesmo assunto.
 
 ## Modelo
 
@@ -56,7 +56,7 @@ O paywall por trecho, o conteúdo em `/restrito/` e a autenticação sem senha, 
 
 ## Editora e exposição jurídica
 
-O Boreal Times é elaborado por Duna Press. A representação legal e a titularidade são de **Digital Solutions - De Barros**, org.nr 996 041 468, registrada na Noruega, com sede em Larvik. Não existe "Boreal Times AS".
+O Boreal Saga Play é elaborado por Duna Press. A representação legal e a titularidade são de **Digital Solutions - De Barros**, org.nr 996 041 468, registrada na Noruega, com sede em Larvik. Não existe empresa "Boreal Saga Play AS".
 
 É um **enkeltpersonforetak**: não há separação patrimonial, e o editor responde pessoalmente. Com conteúdo de história e folclore a exposição é bem menor que na cobertura de defesa, mas continua valendo reavaliar com advogado, em especial sobre direitos autorais e uso de IA. Ponto em aberto.
 
@@ -68,9 +68,9 @@ Mantém o `git push`, é gratuito nesta faixa de uso e serve o site estático. *
 
 Sem detecção por IP. `hreflang` correto, troca manual visível no topo, e uma faixa discreta que sugere o outro idioma conforme o navegador. Sugestão, não desvio.
 
-## Domínio: borealtimes.org
+## Domínio: borealsagaplay.com
 
-O `.org` mantém simetria com `dunapress.org`. O `.no` pertence à casa e serve como redirecionamento.
+O domínio canônico é `borealsagaplay.com`. O antigo `borealtimes.org` redireciona para ele (ver `_redirects`) e segue só para o e-mail.
 
 ## Medição: GA4 com consentimento
 

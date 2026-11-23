@@ -1,4 +1,4 @@
-# Newsletter do Boreal Times — servidor (Domeneshop)
+# Newsletter do Boreal Saga Play — servidor (Domeneshop)
 
 Estes arquivos NÃO fazem parte do site na Cloudflare. Eles vão por FTP para o webhotel do Domeneshop
 (dsnorge.com) e gravam os assinantes no banco MySQL.
@@ -12,7 +12,7 @@ Estes arquivos NÃO fazem parte do site na Cloudflare. Eles vão por FTP para o 
    `inscrever.php`, `confirmar.php`, `cancelar.php`, `comum.php`, `enviar.php`, `config.php`, `.htaccess`.
    Nunca envie `config.php` para o GitHub.
 5. Teste abrindo https://dsnorge.com/boreal/inscrever.php no navegador: deve aparecer `{"ok":false,"erro":"metodo"}`.
-6. Faça uma inscrição de teste em borealtimes.org/assinatura/ com o seu e-mail e confira se a mensagem chega.
+6. Faça uma inscrição de teste em borealsagaplay.com/pt/assinatura/ com o seu e-mail e confira se a mensagem chega.
 
 ## Remetente e caixa de spam
 

@@ -1,4 +1,4 @@
-/* Boreal Times — fontes servidas do próprio domínio.
+/* Boreal Saga Play — fontes servidas do próprio domínio.
    Motivo: corta uma conexão a servidor de terceiros (ganho de LCP) e evita
    enviar IP do leitor ao Google, o que importa sob LGPD e GDPR.
    Os .woff2 são baixados por tools/baixar_fontes.py e versionados no repo. */
