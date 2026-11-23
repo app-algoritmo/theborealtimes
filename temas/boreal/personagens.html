@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% from "reinos_macros.html" import fundo %}
+{% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
+{% block conteudo %}
+<link rel="stylesheet" href="/estatico/css/reinos.css?v={{ css_v }}">
+<div class="rn rn-lista rn-r-hub">
+  {{ fundo('hub') }}
+  <header class="rn-cab">
+    <p class="rn-olho">{{ pagina.olho }}</p>
+    <h1>{{ pagina.titulo }}</h1>
+    <p class="rn-resumo">{{ pagina.intro }}</p>
+    <span class="rn-fio" aria-hidden="true"></span>
+  </header>
+  <div class="rn-ferram">
+    <input class="rn-busca" id="rn-busca" type="search" placeholder="{{ pagina.busca }}" aria-label="{{ pagina.busca }}">
+    <div class="rn-filtros" role="group" aria-label="{{ pagina.rot_filtro }}">
+      <button type="button" data-g="" aria-pressed="true">{{ pagina.todos }}</button>
+      {% for g in pagina.grupos %}<button type="button" data-g="{{ g.chave }}" aria-pressed="false">{{ g.nome }}</button>{% endfor %}
+    </div>
+  </div>
+  <div class="rn-pgrade" id="rn-pgrade">
+    {% for p in pagina.personagens %}
+    <article class="rn-pers rn-{{ p.reino }}" id="{{ p.id }}" data-g="{{ p.grupo }}" style="--cc:{{ pagina.cores[p.reino] }}">
+      <header>
+        {% if p.reino in ['asgard','jotunheim','muspelheim','niflheim'] %}<img src="/estatico/img/reinos/{{ p.reino }}-p.webp" alt="" width="34" height="38" loading="lazy">{% else %}<span class="rn-mundo" aria-hidden="true">ᛗ</span>{% endif %}
+        <div><h3>{{ p.nome }}</h3><p class="rn-tipo">{{ p.tipo }} · {{ p.reino_nome }}</p></div>
+      </header>
+      <p>{{ p.texto }}</p>
+      {% if p.historias %}<div class="rn-hist">{{ pagina.rot_historias }}{% for h in p.historias %}<a href="{{ h.u }}">{{ h.t }}</a>{% endfor %}</div>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  <p class="rn-vazio" id="rn-vazio" hidden>{{ pagina.vazio }}</p>
+</div>
+<script>
+(function(){var q=document.getElementById('rn-busca'),v=document.getElementById('rn-vazio'),g='';
+function n(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
+function f(){var t=n(q.value.trim()),achou=0;
+ document.querySelectorAll('.rn-pers').forEach(function(e){var ok=(!g||e.dataset.g===g)&&(!t||n(e.textContent).indexOf(t)>-1);e.hidden=!ok;if(ok)achou++;});
+ v.hidden=achou>0;}
+q.addEventListener('input',f);
+document.querySelectorAll('.rn-filtros button').forEach(function(b){b.addEventListener('click',function(){g=b.dataset.g;
+ document.querySelectorAll('.rn-filtros button').forEach(function(x){x.setAttribute('aria-pressed',x===b?'true':'false');});f();});});})();
+</script>
+{% endblock %}

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% from "reinos_macros.html" import fundo %}
+{% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
+{% block conteudo %}
+<link rel="stylesheet" href="/estatico/css/reinos.css?v={{ css_v }}">
+<div class="rn rn-hub rn-r-hub">
+  {{ fundo('hub') }}
+  <header class="rn-cab">
+    <p class="rn-olho">{{ pagina.olho }}</p>
+    <h1>{{ pagina.titulo }}</h1>
+    <p class="rn-resumo">{{ pagina.intro }}</p>
+    <span class="rn-fio" aria-hidden="true"></span>
+  </header>
+  <div class="rn-grade">
+    {% for r in pagina.reinos %}
+    <a class="rn-card rn-{{ r.chave }}" href="{{ idioma.prefixo }}/{{ t.paginas['reino_' ~ r.chave] }}/">
+      <span class="rn-brasao"><img src="/estatico/img/reinos/{{ r.chave }}-p.webp" alt="{{ r.alt }}" width="{{ r.w }}" height="{{ r.h }}" loading="{{ 'eager' if loop.index < 3 else 'lazy' }}"></span>
+      <h2>{{ r.nome }}</h2>
+      <p class="rn-epi">{{ r.epiteto }}</p>
+      <p>{{ r.resumo }}</p>
+      <span class="rn-ler">{{ pagina.ler }} →</span>
+    </a>
+    {% endfor %}
+  </div>
+  <div class="rn-pe">
+    <p>{{ pagina.rodape }}</p>
+    <div class="rn-botoes">
+      <a class="rn-botao" href="{{ idioma.prefixo }}/{{ t.paginas.personagens }}/">{{ pagina.btn_personagens }}</a>
+      <a class="rn-botao" href="{{ idioma.prefixo }}/{{ t.paginas.glossario }}/">{{ pagina.btn_glossario }}</a>
+      <a class="rn-botao" href="{{ idioma.prefixo }}/{{ t.paginas.galeria }}/">{{ pagina.btn_galeria }}</a>
+    </div>
+    <p class="rn-nota" style="margin-top:26px">{{ conteudo_html|striptags }}</p>
+  </div>
+</div>
+{% endblock %}

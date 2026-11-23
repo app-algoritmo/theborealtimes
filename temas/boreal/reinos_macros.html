@@ -1,0 +1,28 @@
+{# Fundo épico de cada reino: camadas de CSS e SVG, sem imagens pesadas. #}
+{% macro arvore() %}
+<svg class="rn-arvore" viewBox="0 0 400 600" preserveAspectRatio="xMidYMax meet" aria-hidden="true">
+  <path d="M188 600 C190 520 186 470 176 420 C150 400 118 396 84 360 C112 372 142 372 168 384 C160 352 138 330 116 318 C148 322 168 340 180 366 C176 320 166 280 140 246 C166 258 184 282 192 318 C196 280 196 240 190 196 C204 232 208 270 206 312 C214 276 232 252 262 240 C240 262 226 292 222 330 C232 304 256 288 288 288 C260 300 240 326 232 356 C256 346 292 346 322 330 C298 352 262 366 232 378 C226 410 220 460 224 520 C226 560 230 580 236 600 Z M150 600 C164 580 176 570 190 566 L214 566 C230 572 244 584 262 600 Z"/>
+  <path d="M132 246 C124 226 130 204 148 190 C150 208 146 226 132 246 Z M262 240 C276 222 292 214 312 214 C298 226 280 234 262 240 Z M190 196 C186 170 194 146 208 130 C210 152 204 176 190 196 Z"/>
+</svg>
+{% endmacro %}
+{% macro montes() %}
+<svg class="rn-montes" viewBox="0 0 1200 200" preserveAspectRatio="none" aria-hidden="true">
+  <path d="M0 200 L0 140 L90 90 L150 125 L260 40 L340 110 L430 70 L520 130 L640 30 L720 105 L800 75 L900 135 L1010 55 L1100 110 L1200 80 L1200 200 Z"/>
+</svg>
+{% endmacro %}
+{% macro particulas(n, folhas=0) %}
+{% for i in range(n) %}<i class="rn-p" style="--x:{{ (i*37+11)%100 }}%;--d:{{ 9+(i*7)%11 }}s;--l:-{{ (i*13)%17 }}s;--s:{{ 2+(i%3) }}px;--dx:{{ ((i*29)%90)-45 }}px"></i>{% endfor %}
+{% for i in range(folhas) %}<i class="rn-folha" style="--x:{{ (i*53+7)%100 }}%;--d:{{ 12+(i*5)%9 }}s;--l:-{{ (i*11)%19 }}s;--dx:{{ ((i*31)%120)-40 }}px"></i>{% endfor %}
+{% endmacro %}
+{% macro fundo(reino) %}
+<div class="rn-fundo" aria-hidden="true">
+  <div class="rn-estrelas"></div>
+  <div class="rn-aurora"></div>
+  {% if reino == 'asgard' %}<div class="rn-raios"></div><div class="rn-ponte"></div>{% endif %}
+  {% if reino == 'jotunheim' %}<div class="rn-neblina"></div>{% endif %}
+  {% if reino == 'muspelheim' %}<div class="rn-brasa"></div>{% endif %}
+  {% if reino == 'niflheim' %}<div class="rn-gelo"></div>{% endif %}
+  {{ arvore() }}{{ montes() }}
+  {% if reino == 'jotunheim' %}{{ particulas(18, 14) }}{% elif reino == 'muspelheim' %}{{ particulas(46) }}{% elif reino == 'niflheim' %}{{ particulas(60) }}{% else %}{{ particulas(30) }}{% endif %}
+</div>
+{% endmacro %}

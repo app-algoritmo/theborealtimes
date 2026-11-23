@@ -137,6 +137,13 @@ pt:
     progresso: meu-progresso
     galeria: galeria
     album: album
+    reinos: reinos
+    glossario: glossario
+    personagens: personagens
+    reino_asgard: reino-asgard
+    reino_jotunheim: reino-jotunheim
+    reino_muspelheim: reino-muspelheim
+    reino_niflheim: reino-niflheim
     jogo_thor: jogo-pesca-de-thor
     jogo_leif: jogo-viagem-de-leif
     jogo_idun: jogo-idun-e-as-macas
@@ -600,6 +607,9 @@ pt:
     menu_galeria: Galeria
     menu_album: Álbum
     menu_progresso: Meu progresso
+    rodape_reinos: Reinos
+    rodape_glossario: Glossário
+    rodape_personagens: Personagens
     linha_edicao: by The Boreal Times · Duna Press Edições
     sobre: Sobre
     assine: Assinar
@@ -755,6 +765,13 @@ en:
     progresso: my-progress
     galeria: gallery
     album: album
+    reinos: realms
+    glossario: glossary
+    personagens: characters
+    reino_asgard: realm-asgard
+    reino_jotunheim: realm-jotunheim
+    reino_muspelheim: realm-muspelheim
+    reino_niflheim: realm-niflheim
     jogo_thor: game-thors-fishing-trip
     jogo_leif: game-leifs-voyage
     jogo_idun: game-idun-and-the-apples
@@ -1218,6 +1235,9 @@ en:
     menu_galeria: Gallery
     menu_album: Album
     menu_progresso: My progress
+    rodape_reinos: Realms
+    rodape_glossario: Glossary
+    rodape_personagens: Characters
     linha_edicao: by The Boreal Times · Duna Press Editions
     sobre: About
     assine: Subscribe
@@ -1373,6 +1393,13 @@ en:
     progresso: min-fremgang
     galeria: galleri
     album: album
+    reinos: rikene
+    glossario: ordliste
+    personagens: skikkelser
+    reino_asgard: rike-asgard
+    reino_jotunheim: rike-jotunheim
+    reino_muspelheim: rike-muspelheim
+    reino_niflheim: rike-niflheim
     jogo_thor: spill-thors-fisketur
     jogo_leif: spill-leifs-reise
     jogo_idun: spill-idun-og-eplene
@@ -1836,6 +1863,9 @@ en:
     menu_galeria: Galleri
     menu_album: Album
     menu_progresso: Min fremgang
+    rodape_reinos: Rikene
+    rodape_glossario: Ordliste
+    rodape_personagens: Skikkelser
     linha_edicao: by The Boreal Times · Duna Press-utgaver
     sobre: Om
     assine: Abonner
@@ -1991,6 +2021,13 @@ es:
     progresso: mi-progreso
     galeria: galeria
     album: album
+    reinos: reinos
+    glossario: glosario
+    personagens: personajes
+    reino_asgard: reino-asgard
+    reino_jotunheim: reino-jotunheim
+    reino_muspelheim: reino-muspelheim
+    reino_niflheim: reino-niflheim
     jogo_ymir: juego-cada-parte-en-su-lugar
     jogo_sleipnir: juego-el-camino-de-sleipnir
     jogo_sigyn: juego-el-cuenco-bajo-el-veneno
@@ -2051,6 +2088,9 @@ es:
     menu_galeria: Galería
     menu_album: Álbum
     menu_progresso: Mi progreso
+    rodape_reinos: Reinos
+    rodape_glossario: Glosario
+    rodape_personagens: Personajes
     linha_edicao: por The Boreal Times · Duna Press Editions
     sobre: Acerca de
     assine: Suscríbete

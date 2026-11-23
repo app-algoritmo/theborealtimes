@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% from "reinos_macros.html" import fundo %}
+{% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
+{% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
+{% block conteudo %}
+<link rel="stylesheet" href="/estatico/css/reinos.css?v={{ css_v }}">
+<div class="rn rn-lista rn-r-hub">
+  {{ fundo('hub') }}
+  <header class="rn-cab">
+    <p class="rn-olho">{{ pagina.olho }}</p>
+    <h1>{{ pagina.titulo }}</h1>
+    <p class="rn-resumo">{{ pagina.intro }}</p>
+    <span class="rn-fio" aria-hidden="true"></span>
+  </header>
+  <div class="rn-ferram">
+    <input class="rn-busca" id="rn-busca" type="search" placeholder="{{ pagina.busca }}" aria-label="{{ pagina.busca }}">
+    <nav class="rn-letras" aria-label="A–Z">{% for l in pagina.letras %}<a href="#l-{{ l }}">{{ l }}</a>{% endfor %}</nav>
+  </div>
+  <div class="rn-glos" id="rn-glos">
+    {% for g in pagina.grupos %}
+    <section class="rn-letra" id="l-{{ g.letra }}"><h2>{{ g.letra }}</h2>
+      <dl>{% for x in g.termos %}<div class="rn-termo"><dt id="{{ x.id }}">{{ x.termo }}</dt><dd>{{ x.def }}</dd></div>{% endfor %}</dl>
+    </section>
+    {% endfor %}
+    <p class="rn-vazio" id="rn-vazio" hidden>{{ pagina.vazio }}</p>
+  </div>
+</div>
+<script>
+(function(){var q=document.getElementById('rn-busca'),v=document.getElementById('rn-vazio');
+function n(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
+q.addEventListener('input',function(){var t=n(q.value.trim()),achou=0;
+ document.querySelectorAll('.rn-termo').forEach(function(e){var ok=!t||n(e.textContent).indexOf(t)>-1;e.hidden=!ok;if(ok)achou++;});
+ document.querySelectorAll('.rn-letra').forEach(function(s){s.hidden=!s.querySelector('.rn-termo:not([hidden])');});
+ v.hidden=achou>0;});})();
+</script>
+{% endblock %}
