@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Sagaene forteller at Gudrid krysset Atlanterhavet til Grønland og Vinland. Isflakene i spillet er diktet opp.",
     "h1": "Overfart",
     "h2": "Skrog"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La ruta de Gudríð",
+    "sub": "Guía el barco a izquierda y derecha (arrastra, usa el ratón o las flechas) y esquiva los bloques de hielo. Aguanta la travesía hasta divisar tierra. Con tres golpes, el barco no resiste.",
+    "perdeu": "El hielo venció a la travesía",
+    "v1": "¡Tierra a la vista!",
+    "v2": "Las sagas cuentan que Gudríð cruzó el Atlántico hasta Groenlandia y Vinlandia. Los bloques de hielo del juego son invención.",
+    "h1": "Travesía",
+    "h2": "Casco"
   }
 },
   criar: function (api) {

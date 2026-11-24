@@ -34,6 +34,17 @@ BTJogo.registrar({
     "v1": "Lasten er i orden!",
     "v2": "Hedeby var en stor handelshavn, i bruk fra 700-tallet til midten av 1000-tallet. Stabelen og kranen i spillet er diktet opp.",
     "h1": "Kasser"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El puerto de Hedeby",
+    "sub": "La grúa balancea la caja. Toca para soltarla sobre la pila: la parte que sobresale cae al mar. Apila ocho cajas sin fallar el muelle por completo.",
+    "perdeu": "La carga cayó al mar",
+    "v1": "¡Carga en orden!",
+    "v2": "Hedeby fue un gran puerto de comercio, activo entre el siglo VIII y mediados del XI. La pila y la grúa del juego son invención.",
+    "h1": "Cajas"
   }
 },
   criar: function (api) {

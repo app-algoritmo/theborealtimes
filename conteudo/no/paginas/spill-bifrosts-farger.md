@@ -15,7 +15,7 @@ card:
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
 <script src="/g/tela.js?v=31" defer></script>
-<script src="/g/heimdall-bifrost.js?v=4" defer></script>
+<script src="/g/heimdall-bifrost.js?v=5" defer></script>
 
 ## Slik spiller du
 

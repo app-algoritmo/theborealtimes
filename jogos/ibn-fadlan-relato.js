@@ -73,6 +73,30 @@ BTJogo.registrar({
       "Ibn Fadlan var bulgarenes konge.",
       "Ibn Fadlan kaller kjøpmennene «vikinger»."
     ]
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El relato de Ibn Fadlan",
+    "sub": "Lee cada frase y decide: ¿está en el relato del viajero de Bagdad o se inventó después, en películas y leyendas? Ocho frases; con tres errores el califa pierde la paciencia.",
+    "perdeu": "El califa perdió la paciencia",
+    "v1": "¡Cronista aprobado!",
+    "v2": "El relato de Ibn Fadlan, de 921–922, describe a los Rus' del Volga. Las frases del juego se escribieron para él.",
+    "h1": "Frase",
+    "h2": "Errores",
+    "sim": "Está en el relato",
+    "nao": "Se inventó",
+    "q": [
+      "Los Rus' se lavaban la cara por la mañana en una misma palangana.",
+      "Ibn Fadlan viajó por encargo del califa de Bagdad.",
+      "Los hombres del Norte usaban yelmos con cuernos.",
+      "El relato describe tatuajes verdes de los dedos al cuello.",
+      "Unos monstruos atacaban el campamento por la noche.",
+      "El relato describe el funeral de un jefe en un barco.",
+      "Ibn Fadlan era el rey de los búlgaros.",
+      "Ibn Fadlan llama «vikingos» a los mercaderes."
+    ]
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Sagaen om Gunnlaug Ormstunge døde begge i duellen. I spillet overlever bare én; hoggene er diktet opp.",
     "h1": "Paringer",
     "h2": "Sår"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El duelo de Gunnlaug",
+    "sub": "Hrafn ataca desde arriba o desde abajo. Toca la mitad superior de la pantalla para defender un golpe alto y la inferior para un golpe bajo, antes de que se acabe el tiempo. Defiende ocho golpes; con tres heridas el duelo termina.",
+    "perdeu": "Caíste en Dingenes",
+    "v1": "¡Ganaste el duelo!",
+    "v2": "Según la Saga de Gunnlaug Lengua de Serpiente, el duelo terminó con la muerte de los dos. En el juego, solo uno sobrevive; los golpes son invención.",
+    "h1": "Defensas",
+    "h2": "Heridas"
   }
 },
   criar: function (api) {

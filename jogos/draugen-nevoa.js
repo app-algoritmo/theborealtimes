@@ -34,6 +34,17 @@ BTJogo.registrar({
     "v1": "Bøyene er i sikkerhet!",
     "v2": "I norsk tradisjon er draugen ånden til en druknet mann, sett på havet og i tåka. Bøyejakten er diktet opp for spillet.",
     "h1": "Bøyer"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La niebla del Draugen",
+    "sub": "En la niebla, conduce el barco (arrastra, usa el ratón o las flechas) hasta las seis boyas doradas. El Draugen vaga despacio tras de ti y aparece solo cuando está cerca. No dejes que te alcance.",
+    "perdeu": "El Draugen alcanzó el barco",
+    "v1": "¡Boyas a salvo!",
+    "v2": "En la tradición noruega, el draug es el espíritu de un ahogado visto en el mar y en la niebla. La caza de las boyas es invención del juego.",
+    "h1": "Boyas"
   }
 },
   criar: function (api) {

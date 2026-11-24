@@ -37,6 +37,23 @@ BTJogo.registrar({
       v1: 'Tor klarte nesten det umulige!',
       v2: 'I Snorres Edda var hornet knyttet til havet, katten var Midgardsormen og Elle var Alderdommen. Her klarer du det, noe som ikke skjer i myten.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Los desafíos de Útgarða-Loki",
+      "sub": "Tres pruebas en el salón del gigante: bebe del cuerno, levanta al gato y lucha con la vieja. Nada es lo que parece, pero la fuerza de Thor vale igualmente.",
+      "tempo": "Tiempo",
+      "p1": "Prueba 1: el cuerno",
+      "d1": "Mantén pulsado para beber. Suelta para respirar.",
+      "p2": "Prueba 2: el gato",
+      "d2": "¡Toca rápido para levantar al gato!",
+      "p3": "Prueba 3: la vieja Elli",
+      "d3": "¡Toca alternando izquierda y derecha!",
+      "perdeu": "El gigante se rio de ti",
+      "v1": "¡Thor casi venció a lo imposible!",
+      "v2": "En la Edda en prosa, el cuerno estaba unido al mar, el gato era la serpiente Jörmungandr y Elli era la Vejez. Aquí lo consigues, algo que no ocurre en el mito."
     }
   },
   criar: function (api) {

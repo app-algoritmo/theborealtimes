@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Trelleborg står!',
       v2: 'Festningen Trelleborg hadde fire porter, fire kvarter og seksten langhus innenfor ringen, reist rundt 981. Spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Construir Trelleborg",
+      "sub": "Una cruz de estacas gira sobre el terreno. Toca cuando se alinee con la cruz del proyecto, el contorno dorado, para asentar las casas de un cuarto de la fortaleza. Cuatro etapas, cuatro casas cada una; en cada etapa el giro se acelera y la tolerancia disminuye. Con tres errores, el plan se pierde.",
+      "etapa": "Etapa",
+      "erros": "Errores",
+      "casas": "Casas",
+      "perdeu": "El plan se perdió",
+      "v1": "¡Trelleborg está en pie!",
+      "v2": "La fortaleza de Trelleborg tuvo cuatro puertas, cuatro cuartos y dieciséis casas largas dentro del anillo, y se levantó hacia 981. El juego es una simplificación."
     }
   },
   criar: function (api) {

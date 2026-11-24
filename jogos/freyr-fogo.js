@@ -34,6 +34,17 @@ BTJogo.registrar({
     "v1": "Du kom deg gjennom flammene!",
     "v2": "I Skírnismál rir Skirne gjennom en ildmur for å fri til Gerd. Hindrene i spillet er diktet opp.",
     "h1": "Avstand"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Salta el muro de fuego",
+    "sub": "Skírnir cabalga hacia la casa de los gigantes y las llamas cercan el camino. Toca (o usa la barra espaciadora) para saltar sobre cada hoguera. Llega al final sin quemarte.",
+    "perdeu": "Las llamas alcanzaron al caballo",
+    "v1": "¡Atravesaste las llamas!",
+    "v2": "En el Skírnismál, Skírnir cruza un muro de fuego a caballo para pedir la mano de Gerðr. Los obstáculos del juego son invención.",
+    "h1": "Distancia"
   }
 },
   criar: function (api) {

@@ -34,6 +34,17 @@ BTJogo.registrar({
     "v1": "Bifrost er vokta!",
     "v2": "Heimdall vokter broen Bifrost og skal under Ragnarok blåse i Gjallarhorn. Fargene og rekkefølgen i spillet er diktet opp.",
     "h1": "Runde"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los colores de Bifröst",
+    "sub": "Heimdall sopla el Gjallarhorn y los colores del puente se encienden en secuencia. Repite el orden tocando los colores. En cada ronda la secuencia crece; seis rondas y el puente queda guardado.",
+    "perdeu": "El puente se quedó sin guardia",
+    "v1": "¡Bifröst está guardado!",
+    "v2": "Heimdall guarda el puente Bifröst y, en el Ragnarök, soplará el Gjallarhorn. Los colores y la secuencia del juego son invención.",
+    "h1": "Ronda"
   }
 },
   criar: function (api) {

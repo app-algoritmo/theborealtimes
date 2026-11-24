@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Fortellingen om de brente kakene er en sen tradisjon som ikke finnes i de eldste tekstene om Alfred. Spillet er diktet opp.",
     "h1": "Berget",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los pasteles de Alfredo",
+    "sub": "Tres pasteles se hornean en la piedra caliente. Toca cada uno cuando esté dorado (la barra en la zona clara). Demasiado pronto queda crudo; demasiado tarde, se quema. Salva diez pasteles con un máximo de tres errores.",
+    "perdeu": "Los pasteles se quemaron",
+    "v1": "¡Ningún pastel quemado!",
+    "v2": "La historia de los pasteles quemados es una tradición tardía, que no aparece en los textos más antiguos sobre Alfredo. El juego es invención.",
+    "h1": "Salvados",
+    "h2": "Errores"
   }
 },
   criar: function (api) {

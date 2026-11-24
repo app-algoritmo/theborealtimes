@@ -34,6 +34,17 @@ BTJogo.registrar({
     "v1": "Slottet i sikte!",
     "v2": "I eventyret bærer Nordavinden jenta til slottet østenfor sol og vestenfor måne. Skyene i spillet er diktet opp.",
     "h1": "Åpninger"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El Viento del Norte",
+    "sub": "Toca (o usa la barra espaciadora) para que el Viento del Norte dé un impulso hacia arriba. Pasa por las aberturas entre las nubes de tormenta sin tocarlas ni caer al mar. Ocho aberturas hasta el castillo.",
+    "perdeu": "Al viento se le acabó el aliento",
+    "v1": "¡Castillo a la vista!",
+    "v2": "En el cuento, el Viento del Norte lleva a la joven al castillo al este del sol y al oeste de la luna. Las nubes del juego son invención.",
+    "h1": "Aberturas"
   }
 },
   criar: function (api) {

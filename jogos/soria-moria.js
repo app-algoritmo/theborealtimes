@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Soria Moria!',
       v2: 'I eventyret til Asbjørnsen og Moe kommer Halvor til det gylne slottet etter en lang reise. Labyrintene i spillet er tilfeldige og diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Rumbo a Soria Moria",
+      "sub": "Halvor atraviesa tres bosques hasta divisar el castillo dorado. Toca en la dirección en que quieres andar (o usa las flechas) y llega al castillo antes de que se acabe el tiempo. Los bosques son cada vez mayores.",
+      "floresta": "Bosque",
+      "tempo": "Tiempo",
+      "perdeu": "La noche cayó sobre el bosque",
+      "v1": "¡Soria Moria!",
+      "v2": "En el cuento de Asbjørnsen y Moe, Halvor llega al castillo dorado después de un largo viaje. Los laberintos del juego se sortean y son inventados."
     }
   },
   criar: function (api) {

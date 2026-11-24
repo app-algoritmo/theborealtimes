@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_dannebrog: jogo-o-ritmo-dos-bracos-do-bispo
+    jogo_marsk: jogo-a-fuga-para-hjelm
+    jogo_galdra: jogo-fato-lenda-e-peca
+    jogo_tilberi: jogo-o-sinal-da-cruz-no-estabulo
+    jogo_trundholm: jogo-as-pecas-do-carro-do-sol
+    jogo_primstav: jogo-dias-simbolos-e-historia
+    jogo_thorra: jogo-as-bandejas-do-banquete
+    jogo_vegvisir: jogo-pela-tempestade
+    jogo_gripir: jogo-as-profecias-de-gripir
+    jogo_avaldsnes: jogo-o-estreito-de-karmsund
+    jogo_brattahlid: jogo-o-feno-do-fiorde
+    jogo_ormurin: jogo-a-danca-da-balada
+    jogo_sigeyst: jogo-o-duelo-com-mael-brigte
     jogo_ljosvet: jogo-personagens-manuscritos-e-estudos
     jogo_hreidar: jogo-o-banquete-do-rei
     jogo_skaldh: jogo-a-pesca-no-fiorde
@@ -1179,6 +1192,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_dannebrog: game-the-rhythm-of-the-bishop-s-arms
+    jogo_marsk: game-the-flight-to-hjelm
+    jogo_galdra: game-fact-legend-and-play
+    jogo_tilberi: game-the-sign-of-the-cross-in-the-cowshed
+    jogo_trundholm: game-the-parts-of-the-sun-chariot
+    jogo_primstav: game-days-symbols-and-history
+    jogo_thorra: game-the-trays-of-the-feast
+    jogo_vegvisir: game-through-the-storm
+    jogo_gripir: game-gripir-s-prophecies
+    jogo_avaldsnes: game-the-karmsund-strait
+    jogo_brattahlid: game-the-hay-of-the-fjord
+    jogo_ormurin: game-the-dance-of-the-ballad
+    jogo_sigeyst: game-the-duel-with-mael-brigte
     jogo_ljosvet: game-characters-manuscripts-and-studies
     jogo_hreidar: game-the-king-s-feast
     jogo_skaldh: game-fishing-in-the-fjord
@@ -1859,6 +1885,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_dannebrog: spill-biskopens-armer-i-takt
+    jogo_marsk: spill-flukten-til-hjelm
+    jogo_galdra: spill-fakta-legende-og-skuespill
+    jogo_tilberi: spill-korsets-tegn-i-fjoset
+    jogo_trundholm: spill-delene-til-solvogna
+    jogo_primstav: spill-dager-symboler-og-historie
+    jogo_thorra: spill-bankettens-brett
+    jogo_vegvisir: spill-gjennom-stormen
+    jogo_gripir: spill-gripirs-spadommer
+    jogo_avaldsnes: spill-karmsundet
+    jogo_brattahlid: spill-hoyet-ved-fjorden
+    jogo_ormurin: spill-balladens-dans
+    jogo_sigeyst: spill-duellen-med-mael-brigte
     jogo_ljosvet: spill-personer-handskrifter-og-studier
     jogo_hreidar: spill-kongens-bankett
     jogo_skaldh: spill-fisket-i-fjorden
@@ -2337,6 +2376,32 @@ es:
     jogo_mimir: juego-el-pozo-de-mimir
     jogo_rok: juego-descifrar-la-piedra-de-rok
     jogo_skadi: juego-elige-por-los-pies
+    jogo_dannebrog: juego-el-ritmo-de-los-brazos-del-obispo
+    jogo_marsk: juego-la-huida-a-hjelm
+    jogo_galdra: juego-hecho-leyenda-y-obra
+    jogo_tilberi: juego-la-senal-de-la-cruz-en-el-establo
+    jogo_trundholm: juego-las-piezas-del-carro-solar
+    jogo_primstav: juego-dias-simbolos-y-historia
+    jogo_thorra: juego-las-bandejas-del-banquete
+    jogo_vegvisir: juego-por-la-tormenta
+    jogo_gripir: juego-las-profecias-de-gripir
+    jogo_avaldsnes: juego-el-estrecho-de-karmsund
+    jogo_brattahlid: juego-el-heno-del-fiordo
+    jogo_ormurin: juego-el-baile-de-la-balada
+    jogo_sigeyst: juego-el-duelo-con-mael-brigte
+    jogo_soria: juego-rumbo-a-soria-moria
+    jogo_svolder: juego-la-batalla-de-svolder
+    jogo_utgard: juego-los-desafios-de-utgarda-loki
+    jogo_trelleborg: juego-construir-trelleborg
+    jogo_ventonorte: juego-el-viento-del-norte
+    jogo_bolos: juego-los-pasteles-de-alfredo
+    jogo_draugen: juego-la-niebla-del-draugen
+    jogo_freyr: juego-salta-el-muro-de-fuego
+    jogo_gudrid: juego-la-ruta-de-gudrid
+    jogo_gunnlaug: juego-el-duelo-de-gunnlaug
+    jogo_hedeby: juego-el-puerto-de-hedeby
+    jogo_bifrost: juego-los-colores-de-bifrost
+    jogo_fadlan: juego-el-relato-de-ibn-fadlan
   curiosidades: []
   interface:
     capa: Portada

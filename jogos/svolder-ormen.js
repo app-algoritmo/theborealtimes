@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Svolder holdt!',
       v2: 'I Heimskringla splitter en pil buen til Einar Tambarskjelve, og kongen spør hva som brast. Spillet er diktet opp; det virkelige slaget endte med Olav Tryggvasons fall.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca y mantén para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "La batalla de Svolder",
+      "sub": "Mantén pulsado para tensar el arco y suelta cuando la barra esté en la franja dorada. Soltar demasiado pronto falla el tiro; estirar más allá del límite rompe el arco, como en la saga. Acierta a 8 barcos; con cuatro tiros fallidos, la Serpiente Larga cae.",
+      "acertos": "Aciertos",
+      "falhas": "Fallos",
+      "perdeu": "La Serpiente Larga fue tomada",
+      "quebrou": "El arco se rompió",
+      "v1": "¡Svolder resistió!",
+      "v2": "En la Heimskringla, una flecha parte el arco de Einarr Þambarskelfir y el rey pregunta qué se ha roto. El juego es una invención; la batalla real terminó con la caída de Olaf Tryggvason."
     }
   },
   criar: function (api) {
