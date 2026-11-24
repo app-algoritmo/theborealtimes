@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Veien ble holdt!',
       v2: 'I 991, ved Maldon, lot Byrhtnoth vikingene krysse og tapte slaget; diktet kaller det ofermōd. Spillet finner opp det seirende forsvaret.',
       jogar: 'Trykk for å spille igjen', mare: 'Tidevann'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "La calzada de Maldon",
+      "sub": "La marea baja deja libre la calzada, y los vikingos intentan cruzar. Toca a cada invasor para frenarlo antes de que llegue a la orilla inglesa. Repele a 12 invasores; con tres pasos, Inglaterra paga el tributo.",
+      "barrados": "Frenados",
+      "passaram": "Pasaron",
+      "perdeu": "Los vikingos cruzaron",
+      "v1": "¡La calzada fue defendida!",
+      "v2": "En 991, en Maldon, Byrhtnoth dejó cruzar a los vikingos y perdió la batalla; el poema lo llama ofermōd. El juego inventa la defensa victoriosa.",
+      "mare": "Marea"
     }
   },
   criar: function (api) {

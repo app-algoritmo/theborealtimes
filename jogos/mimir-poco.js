@@ -49,6 +49,65 @@ BTJogo.registrar({
         ['Hvordan bevarte Odin hodet?', ['Med urter og trolldom', 'Med is', 'Med gull'], 0],
         ['Hva antyder navnet Mime?', ['Den som husker', 'Den sterkeste', 'Den reisende'], 0]
       ]
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "El pozo de Mímir",
+      "sub": "La cabeza de Mímir habla desde el fondo del pozo y pone a prueba lo que aprendiste en la historia. Responde cinco preguntas; con tres errores, el agua se enturbia.",
+      "pergunta": "Pregunta",
+      "erros": "Errores",
+      "perdeu": "El agua se enturbió",
+      "v1": "¡Bebiste del pozo!",
+      "v2": "Las preguntas vienen del artículo sobre Mímir. La cabeza que habla aparece en la Ynglinga saga y el pozo bajo la raíz, en la Gylfaginning.",
+      "q": [
+            [
+                  "¿Dónde está el pozo de Mímir?",
+                  [
+                        "Bajo una raíz de Yggdrasil",
+                        "En lo alto de Asgard",
+                        "Dentro de Valhalla"
+                  ],
+                  0
+            ],
+            [
+                  "¿Qué dejó Odín en el pozo, como prenda?",
+                  [
+                        "Un ojo",
+                        "La lanza",
+                        "Un cuervo"
+                  ],
+                  0
+            ],
+            [
+                  "¿Quién cortó la cabeza de Mímir?",
+                  [
+                        "Los Vanir",
+                        "Los gigantes de hielo",
+                        "Loki"
+                  ],
+                  0
+            ],
+            [
+                  "¿Cómo conservó Odín la cabeza?",
+                  [
+                        "Con hierbas y encantamientos",
+                        "Con hielo",
+                        "Con oro"
+                  ],
+                  0
+            ],
+            [
+                  "¿Qué sugiere el nombre Mímir?",
+                  [
+                        "Aquel que recuerda",
+                        "El más fuerte",
+                        "El viajero"
+                  ],
+                  0
+            ]
+      ]
     }
   },
   criar: function (api) {

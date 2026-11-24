@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Loven er resitert!',
       v2: 'Alltinget, grunnlagt rundt 930, hadde en lovsigemann som sa opp lovene utenat på Lovberget. Rytmen i spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "El recitador de la ley",
+      "sub": "Desde lo alto de la Roca de la Ley, recita la ley al ritmo justo. Las palabras caen en tres carriles: toca el carril correcto cuando lleguen a la línea dorada. Tres años de recitación; si fallas más de diez veces, la asamblea pierde el hilo.",
+      "ano": "Año",
+      "erros": "Errores",
+      "perdeu": "La asamblea perdió el hilo",
+      "v1": "¡La ley fue recitada!",
+      "v2": "El Althing, fundado hacia 930, tenía un recitador de la ley que decía las leyes de memoria en la Lögberg. El ritmo del juego es invención."
     }
   },
   criar: function (api) {

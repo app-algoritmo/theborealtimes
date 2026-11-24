@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Eden ble holdt!',
       v2: 'I sagaen dreper Hrafnkel gjeteren som red Frøyfaks, og det utløser fallet hans. Spillet er en forenkling og snur dilemmaet: her er spørsmålet hvem som er skyldig.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "El caballo de Freyr",
+      "sub": "Hrafnkell juró castigar a quien montara a Freyfaxi. Pastores pasan por el campo: toca solo a quien esté montando el caballo de crines claras. Atrapa a 8 jinetes; tres errores (tocar a un inocente o dejar pasar a un jinete) y pierdes el juramento.",
+      "pegos": "Atrapados",
+      "erros": "Errores",
+      "perdeu": "El juramento se rompió",
+      "v1": "¡El juramento se cumplió!",
+      "v2": "En la saga, Hrafnkell mata al pastor que montó a Freyfaxi y eso desencadena su caída. El juego es una simplificación e invierte el dilema: aquí la pregunta es quién es culpable."
     }
   },
   criar: function (api) {

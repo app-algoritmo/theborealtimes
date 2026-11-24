@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Ordene er risset!',
       v2: 'Rökstenen, fra 800-tallet, har omtrent 725 runer. Stavemåtene i spillet er forenklet, og ordene er navn og begreper fra den norrøne verden.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Descifrar la piedra de Rök",
+      "sub": "Graba cada palabra en la piedra tocando las runas del futhark reciente, en el orden de las letras. Cada runa muestra la letra que representa. Cinco palabras, diez segundos cada una; con tres errores, el cincel resbala.",
+      "palavra": "Palabra",
+      "erros": "Errores",
+      "perdeu": "El cincel resbaló",
+      "v1": "¡Palabras grabadas!",
+      "v2": "La piedra de Rök, del siglo IX, tiene unas 725 runas. Las grafías del juego están simplificadas, y las palabras son nombres y términos del mundo nórdico."
     }
   },
   criar: function (api) {

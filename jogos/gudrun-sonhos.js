@@ -31,6 +31,26 @@ BTJogo.registrar({
       v2: 'Ifølge Laksdøla saga er rekkefølgen Torvald, Tord, Bolle og Torkjell. Sagaens drømmer er andre; dette spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen',
       nm: ['Torvald', 'Tord', 'Bolle', 'Torkjell']
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Los sueños de Gudrún",
+      "sub": "Gudrún tuvo cuatro maridos. Memoriza el orden de los matrimonios y después toca los nombres en la secuencia correcta. Tres rondas, cada una con menos pistas; tres errores y el sueño se deshace.",
+      "rodada": "Ronda",
+      "erros": "Errores",
+      "mem": "Memoriza el orden",
+      "qual": "Toca a los maridos, en el orden de los matrimonios",
+      "perdeu": "El sueño se deshizo",
+      "v1": "¡Los recordaste a todos!",
+      "v2": "Según la Laxdæla saga, el orden es Þorvaldr, Þórðr, Bolli y Þorkell. Los sueños de la saga son otros; este juego es invención.",
+      "nm": [
+            "Þorvaldr",
+            "Þórðr",
+            "Bolli",
+            "Þorkell"
+      ]
     }
   },
   criar: function (api) {

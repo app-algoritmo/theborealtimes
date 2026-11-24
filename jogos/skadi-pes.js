@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Du valgte… Njord!',
       v2: 'I myten trodde Skade at hun hadde valgt Balder og valgte Njord, havguden. Regelen med føttene kommer fra Snorres Edda; spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen', ultimo: 'Det siste paret er Njords'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Elige por los pies",
+      "sub": "Como Skaði, solo ves los pies por debajo de la cortina. En cada ronda, toca el par más limpio y sin manchas antes de que se acabe el tiempo. Cinco rondas; con tres errores, los dioses se ríen de ti.",
+      "rodada": "Ronda",
+      "erros": "Errores",
+      "perdeu": "Los dioses se rieron de ti",
+      "v1": "¡Elegiste… a Njörðr!",
+      "v2": "En el mito, Skaði creyó haber elegido a Baldr y eligió a Njörðr, el dios del mar. La regla de los pies viene de la Edda en prosa; el juego es invención.",
+      "ultimo": "El último par es de Njörðr"
     }
   },
   criar: function (api) {

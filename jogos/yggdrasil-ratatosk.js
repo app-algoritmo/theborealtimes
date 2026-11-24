@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Beskjedene er levert!',
       v2: 'I Grimnismål og hos Snorre løper ekornet Ratatosk langs treet Yggdrasil og bærer fornærmelser mellom ørnen og dragen Nidhogg. De råtne greinene og tellingen av beskjeder er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Ratatosk y el árbol",
+      "sub": "La ardilla Ratatosk lleva las ofensas del águila al dragón Níðhöggr, y de vuelta. Toca a la izquierda o a la derecha (o usa las flechas) para cambiar de rama. Recoge 8 recados y esquiva las ramas podridas.",
+      "recados": "Recados",
+      "vidas": "Aliento",
+      "perdeu": "Te caíste del árbol",
+      "v1": "¡Recados entregados!",
+      "v2": "En el Grímnismál y en Snorri, la ardilla Ratatosk corre por el árbol Yggdrasil llevando ofensas entre el águila y el dragón Níðhöggr. Las ramas podridas y la cuenta de recados son invención del juego."
     }
   },
   criar: function (api) {

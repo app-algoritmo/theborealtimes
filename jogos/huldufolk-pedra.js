@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Veien er åpnet!',
       v2: 'På Island har bygging vært diskutert på grunn av steiner som sies å være hjem for det skjulte folket. Spillet leker med den tanken.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Desvía el camino",
+      "sub": "Arrastra el dedo (o el ratón) del punto verde al punto rojo para trazar el camino, sin rozar las rocas donde vive el pueblo oculto. Si las rozas, el camino vuelve a empezar. Cuatro tramos; con cinco roces la obra queda paralizada.",
+      "trecho": "Tramo",
+      "toques": "Roces",
+      "perdeu": "La obra quedó paralizada",
+      "v1": "¡El camino se abrió!",
+      "v2": "En Islandia, se han discutido obras por piedras consideradas moradas del pueblo oculto. El juego es una broma con esa idea."
     }
   },
   criar: function (api) {

@@ -28,6 +28,20 @@ BTJogo.registrar({
       v1: 'Mjølner er tilbake!',
       v2: 'I diktet Trymskvida forkler Tor seg som brud for å få tilbake hammeren som jotunen Trym stjal. Putespillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "¿Dónde está el martillo?",
+      "sub": "El gigante Thrym escondió el martillo de Thor. Observa bajo qué cojín está, sigue los cambios y toca el cojín correcto. Cinco rondas, hasta dos fallos.",
+      "rodada": "Ronda",
+      "vidas": "Fallos",
+      "observe": "Observa...",
+      "escolha": "¿Dónde está el martillo?",
+      "perdeu": "Thrym se quedó con el martillo",
+      "v1": "¡Mjölnir ha vuelto!",
+      "v2": "En el poema Þrymskviða, Thor se disfraza de novia para recuperar el martillo robado por el gigante Thrym. El juego de los cojines es invención."
     }
   },
   criar: function (api) {

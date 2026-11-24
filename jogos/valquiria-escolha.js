@@ -28,6 +28,20 @@ BTJogo.registrar({
       v1: 'Alle ble ført bort!',
       v2: 'I de norrøne kildene mottar Odin en del av de falne i Valhall, og Frøya velger de andre til Folkvang. Regelen med ravn og halsbånd er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "La elección de la valquiria",
+      "sub": "Los guerreros caen del campo de batalla. Quien trae la pluma de cuervo va a Valhalla (izquierda); quien trae el collar de oro va a Fólkvangr (derecha). Toca el lado correcto (o usa las flechas) antes de que lleguen al suelo.",
+      "acertos": "Elecciones",
+      "erros": "Errores",
+      "sala0": "Valhalla",
+      "sala1": "Fólkvangr",
+      "perdeu": "Se perdieron demasiadas almas",
+      "v1": "¡Todos fueron llevados!",
+      "v2": "En las fuentes nórdicas, Odín recibe a parte de los muertos en combate en Valhalla, y Freyja elige a los demás para Fólkvangr. La regla del cuervo y del collar es invención del juego."
     }
   },
   criar: function (api) {

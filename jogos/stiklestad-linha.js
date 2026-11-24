@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Linjen holdt!',
       v2: 'Slaget ved Stiklestad i 1030 kostet kong Olav Haraldsson livet. Sagaene sier at solen mørknet under kampen; om det var en solformørkelse, diskuterer forskerne. Spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Mantén la línea en Stiklestad",
+      "sub": "El enemigo empuja la línea del rey Olaf. Toca para empujar de vuelta, pero cada empujón gasta aliento, que vuelve poco a poco. Guarda fuerzas para los embates. Aguanta hasta que el sol se oscurezca.",
+      "folego": "Aliento",
+      "linha": "La línea",
+      "dia": "Hasta el oscurecer",
+      "perdeu": "La línea se rompió",
+      "v1": "¡La línea resistió!",
+      "v2": "La batalla de Stiklestad, en 1030, costó la vida al rey Olaf Haraldsson. Las sagas dicen que el sol se oscureció durante el combate; si fue un eclipse, los estudiosos lo discuten. El juego es una simplificación."
     }
   },
   criar: function (api) {

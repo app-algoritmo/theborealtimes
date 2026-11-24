@@ -28,6 +28,17 @@ BTJogo.registrar({
       v1: 'Ormen har vokst!',
       v2: 'I islandsk folketro vokste ormen etter at den ble kastet i innsjøen med gullet og bundet av trollmenn. Spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "La serpiente del Lagarfljót",
+      "sub": "El gusano crece en el fondo del lago. Toca la mitad izquierda de la pantalla para girar a la izquierda y la derecha para girar a la derecha (o usa las flechas). Recoge 12 monedas de oro sin chocar con las orillas ni con tu propio cuerpo.",
+      "ouro": "Oro",
+      "perdeu": "El gusano se enroscó",
+      "v1": "¡El gusano creció!",
+      "v2": "En el folclore islandés, el gusano creció después de que lo arrojaran al lago con el oro, y los hechiceros lo ataron. El juego es una invención."
     }
   },
   criar: function (api) {

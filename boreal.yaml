@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_ljosvet: jogo-personagens-manuscritos-e-estudos
+    jogo_hreidar: jogo-o-banquete-do-rei
+    jogo_skaldh: jogo-a-pesca-no-fiorde
+    jogo_viglund: jogo-o-palheiro-da-emboscada
+    jogo_vapnf: jogo-a-luta-no-campo-de-feno
+    jogo_thordr: jogo-a-espada-skofnung
+    jogo_sidu: jogo-rumo-as-orcadas
+    jogo_kjalnes: jogo-cada-um-no-seu-lugar
+    jogo_reykd: jogo-as-margens-do-laxa
+    jogo_stangar: jogo-o-duelo-no-monte
+    jogo_hvita: jogo-noticias-e-boatos
+    jogo_keldugn: jogo-a-viagem-a-noruega
+    jogo_valla: jogo-as-folhas-do-pergaminho
     jogo_darradar: jogo-o-tear-das-valquirias
     jogo_haustlong: jogo-as-lascas-de-hrungnir
     jogo_husdrapa: jogo-o-salao-pintado
@@ -1166,6 +1179,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_ljosvet: game-characters-manuscripts-and-studies
+    jogo_hreidar: game-the-king-s-feast
+    jogo_skaldh: game-fishing-in-the-fjord
+    jogo_viglund: game-the-ambush-haystack
+    jogo_vapnf: game-the-fight-in-the-hayfield
+    jogo_thordr: game-the-sword-skofnung
+    jogo_sidu: game-toward-orkney
+    jogo_kjalnes: game-each-one-in-their-place
+    jogo_reykd: game-the-banks-of-the-laxa
+    jogo_stangar: game-the-duel-at-the-mound
+    jogo_hvita: game-news-and-rumours
+    jogo_keldugn: game-the-voyage-to-norway
+    jogo_valla: game-the-parchment-leaves
     jogo_darradar: game-the-valkyries-loom
     jogo_haustlong: game-hrungnir-s-splinters
     jogo_husdrapa: game-the-painted-hall
@@ -1833,6 +1859,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_ljosvet: spill-personer-handskrifter-og-studier
+    jogo_hreidar: spill-kongens-bankett
+    jogo_skaldh: spill-fisket-i-fjorden
+    jogo_viglund: spill-bakholdets-hoystakk
+    jogo_vapnf: spill-kampen-pa-hoyenga
+    jogo_thordr: spill-sverdet-skofnung
+    jogo_sidu: spill-mot-orknoyene
+    jogo_kjalnes: spill-hver-pa-sin-plass
+    jogo_reykd: spill-breddene-av-laxa
+    jogo_stangar: spill-tvekampen-ved-haugen
+    jogo_hvita: spill-nyheter-og-rykter
+    jogo_keldugn: spill-reisen-til-norge
+    jogo_valla: spill-pergamentbladene
     jogo_darradar: spill-valkyrjenes-vev
     jogo_haustlong: spill-hrungnirs-splinter
     jogo_husdrapa: spill-den-malte-hallen
@@ -2272,6 +2311,32 @@ es:
     jogo_ragnar: juego-el-pozo-de-las-serpientes
     jogo_ragnarok: juego-la-ultima-batalla
     jogo_stamford: juego-el-puente-de-stamford
+    jogo_ljosvet: juego-personajes-manuscritos-y-estudios
+    jogo_hreidar: juego-el-banquete-del-rey
+    jogo_skaldh: juego-la-pesca-en-el-fiordo
+    jogo_viglund: juego-el-pajar-de-la-emboscada
+    jogo_vapnf: juego-la-pelea-en-el-campo-de-heno
+    jogo_thordr: juego-la-espada-skofnung
+    jogo_sidu: juego-rumbo-a-las-orcadas
+    jogo_kjalnes: juego-cada-uno-en-su-sitio
+    jogo_reykd: juego-las-orillas-del-laxa
+    jogo_stangar: juego-el-duelo-en-el-monticulo
+    jogo_hvita: juego-noticias-y-rumores
+    jogo_keldugn: juego-el-viaje-a-noruega
+    jogo_valla: juego-las-hojas-del-pergamino
+    jogo_stiklestad: juego-manten-la-linea-en-stiklestad
+    jogo_martelo: juego-donde-esta-el-martillo
+    jogo_valquiria: juego-la-eleccion-de-la-valquiria
+    jogo_ratatosk: juego-ratatosk-y-el-arbol
+    jogo_althing: juego-el-recitador-de-la-ley
+    jogo_gudrun: juego-los-suenos-de-gudrun
+    jogo_hrafnkell: juego-el-caballo-de-freyr
+    jogo_huldu: juego-desvia-el-camino
+    jogo_lagarfljot: juego-la-serpiente-del-lagarfljot
+    jogo_maldon: juego-la-calzada-de-maldon
+    jogo_mimir: juego-el-pozo-de-mimir
+    jogo_rok: juego-descifrar-la-piedra-de-rok
+    jogo_skadi: juego-elige-por-los-pies
   curiosidades: []
   interface:
     capa: Portada
