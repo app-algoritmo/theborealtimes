@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Sommeren er kommet!',
       v2: 'I Snorres beretning ba byggmesteren om Frøya, Solen og Månen som betaling, og gudene gikk bare med på det hvis muren var ferdig på én vinter. Loke, som hoppe, lokket hesten bort, og fra den foreningen ble Sleipnir, Odins åttebeinte hest, født. Spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El muro de Asgard",
+      "sub": "El constructor tiene hasta el primer día del verano para terminar el muro, con la ayuda del caballo Svaðilfari. Tú eres Loki, disfrazado de yegua: toca las burbujas de corazón para distraer al caballo y retrasar la obra.",
+      "toque": "Toca para empezar",
+      "muro": "Muro",
+      "dia": "Días hasta el verano",
+      "perdeu": "El muro quedó listo",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Llegó el verano!",
+      "v2": "En el relato de Snorri, el constructor pedía como pago a Freyja, el Sol y la Luna, y los dioses solo aceptaron si el muro quedaba listo en un solo invierno. Loki, como yegua, atrajo al caballo, y de esa unión nació Sleipnir, el caballo de ocho patas de Odín. El juego es una simplificación.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

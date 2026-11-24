@@ -28,6 +28,21 @@ BTJogo.registrar({
       v1: 'Konstantinopel i sikte!',
       v2: 'Rusene bar eller dro båtene sine over land ved strykene i elvene, slik keiser Konstantin VII beskrev omkring 950. Rytmen, klokken og tauet er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Arrastrar el barco",
+      "sub": "Entre ríos, los vikingos arrastraban el barco por tierra. Toca (o usa la barra espaciadora) cuando el marcador pase por la franja verde para tirar de la cuerda. En el centro, el tirón es perfecto. Llega a Constantinopla antes del anochecer.",
+      "toque": "Toca para empezar",
+      "tempo": "Tiempo",
+      "ok": "¡Fuerza!",
+      "perf": "¡Perfecto!",
+      "erro": "¡Resbaló!",
+      "perdeu": "Anocheció",
+      "p1": "El barco se quedó por el camino.",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Constantinopla a la vista!",
+      "v2": "Los rus cargaban o arrastraban los barcos por tierra en los rápidos de los ríos, como describió el emperador Constantino VII hacia 950. El ritmo, el tiempo y la cuerda son invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

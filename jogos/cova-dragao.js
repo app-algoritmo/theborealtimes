@@ -28,6 +28,21 @@ BTJogo.registrar({
       v1: 'Dragen har falt!',
       v2: "I Völsunga saga graver Sigurd en grop på Fåvnes vei og sårer ham nedenfra, et råd han får av Odin i forkledning. De tre passeringene og tidsfristen for graving er diktet opp for spillet.",
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La fosa del dragón",
+      "sub": "Toca (o usa la barra espaciadora) varias veces para cavar la fosa antes de que llegue el dragón. Después, cuando el punto claro de su vientre pase justo sobre Sigurd, toca para golpear. El dragón pasa tres veces.",
+      "toque": "Toca para empezar",
+      "cavar": "¡Cava! Toca rápido",
+      "golpe": "¡Toca para golpear!",
+      "passada": "Pasada",
+      "perdeu": "El dragón escapó",
+      "p1": "La fosa no estuvo lista a tiempo.",
+      "p2": "Fallaste las tres pasadas.",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡El dragón cayó!",
+      "v2": "En la Saga de los Volsungos, Sigurd cava una fosa en el camino de Fafnir y lo hiere por debajo, consejo que recibe de Odín disfrazado. Las tres pasadas y el tiempo para cavar son invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

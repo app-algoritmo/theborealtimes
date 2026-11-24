@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Kongen slapp unna!',
       v2: 'Hnefatafl ble spilt i vikingtiden, og brett er funnet på steder som Gokstadskipet. De opprinnelige reglene gikk tapt og er rekonstruert; dette brettet på 7×7 ruter er en forenklet versjon, og her blir kongen bare tatt på fire sider.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Hnefatafl en miniatura",
+      "sub": "Diriges al rey y a cuatro defensores, de morado. Lleva al rey a una de las cuatro esquinas. Los atacantes, de rojo, intentan cercarlo. Toca una pieza y luego el destino.",
+      "toque": "Toca para empezar",
+      "sua": "Tu turno",
+      "pensa": "Los atacantes piensan...",
+      "pecas": "Defensores",
+      "perdeu": "El rey fue cercado",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡El rey escapó!",
+      "v2": "El hnefatafl se jugaba en tiempos vikingos, y se han hallado tableros en lugares como el barco de Gokstad. Las reglas originales se perdieron y se reconstruyeron; este tablero de 7×7 es una versión simplificada, y el rey aquí solo se captura por cuatro lados.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

@@ -28,6 +28,22 @@ BTJogo.registrar({
       v1: 'Steinen er risset!',
       v2: 'Den store Jellingsteinen, knyttet til Harald Blåtann og datert til omkring 965, bruker runene i det yngre futhark. Tegningene i spillet er forenklet, og valget av de fem runene er vårt.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Grabar las runas",
+      "sub": "Harald Diente Azul manda grabar una piedra en Jelling. Arrastra el dedo (o el ratón) de un punto a otro, siguiendo el trazo que brilla, para grabar cada runa.",
+      "toque": "Toca para empezar",
+      "runa": "Runa",
+      "nomes": [
+            "fé",
+            "þurs",
+            "kaun",
+            "hagall",
+            "nauðr"
+      ],
+      "v1": "¡La piedra está grabada!",
+      "v2": "La gran piedra de Jelling, ligada a Harald Diente Azul y fechada hacia 965, usa las runas del futhark joven. Los dibujos del juego están simplificados, y la elección de las cinco runas es nuestra.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

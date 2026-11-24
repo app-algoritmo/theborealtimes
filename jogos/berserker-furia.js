@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Raseriet har lagt seg!',
       v2: 'Sagaene beskriver berserker som uler, biter i skjoldene og ikke kjenner jern. Historikere diskuterer hva det egentlig var; raserimåleren er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Furia de berserker",
+      "sub": "Mantén pulsado el dedo (o la barra espaciadora) para que la furia suba; suelta para que baje. Cuando el enemigo llegue a tu alcance, la furia debe estar en la franja roja: poca, y te hieren; demasiada, y la furia te quema. Derriba a 12 enemigos.",
+      "toque": "Toca para empezar",
+      "derrotas": "Derrotados",
+      "vidas": "Vidas",
+      "furia": "Furia",
+      "perdeu": "La furia te venció",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡La furia pasó!",
+      "v2": "Las sagas describen berserkers que aullaban, mordían los escudos y no sentían el hierro. Los historiadores discuten qué era eso en realidad; el medidor de furia es invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

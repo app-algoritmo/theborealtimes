@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Prinsen er i sikkerhet!',
       v2: 'Ifølge Håkon Håkonssons saga, skrevet av Sturla Þórðarson, bar to birkebeinere den lille gutten gjennom fjellene til Trondheim. Han skulle bli kong Håkon IV. Ruten i spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La travesía de los Birkebeiner",
+      "sub": "Invierno de 1206. Lleva al pequeño príncipe Haakon montaña abajo hasta ponerlo a salvo. Arrastra el dedo (o usa las flechas) para esquivar los árboles y las piedras.",
+      "toque": "Toca para empezar",
+      "trecho": "Camino",
+      "batidas": "Choques",
+      "perdeu": "El esquí chocó demasiado fuerte",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡El príncipe está a salvo!",
+      "v2": "Según la saga de Haakon Haakonsson, escrita por Sturla Þórðarson, dos Birkebeiner llevaron al pequeño niño por las montañas hasta Trondheim. Llegaría a ser el rey Haakon IV. El recorrido del juego es una simplificación.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Tre skip er lastet!',
       v2: 'I det norske eventyret samlet av Asbjørnsen og Moe maler en magisk kvern hva som helst den blir bedt om, men sjømannen kjenner ikke ordet som får den til å stoppe. Skipet synker, og kvernen fortsetter å male salt på havets bunn. Spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El molino que muele sal",
+      "sub": "Mantén pulsado el dedo (o la barra espaciadora) para girar el molino y verter sal en el barco. Suelta antes de pasar la línea: ¡el molino tarda en parar! Llena tres barcos.",
+      "toque": "Toca para empezar",
+      "navio": "Barco",
+      "sobre": "Cuidado: ¡el molino aún gira!",
+      "perdeu": "El barco se hundió",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Tres barcos cargados!",
+      "v2": "En el cuento noruego recogido por Asbjørnsen y Moe, un molino mágico muele lo que se le pide, pero el marinero no sabe la palabra para pararlo. El barco se hunde, y el molino sigue moliendo sal en el fondo del mar. El juego es una simplificación.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

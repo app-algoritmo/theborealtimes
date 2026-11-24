@@ -31,6 +31,23 @@ BTJogo.registrar({
       v1: 'Du fant solen!',
       v2: 'En islandsk saga forteller at kong Olav brukte en solstein for å vise hvor solen sto en overskyet dag. Moderne forsøk viser at en krystall kan hjelpe, men ingen vet om vikingene brukte en. Spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La piedra del sol",
+      "sub": "El cielo está lleno de nubes. Arrastra el dedo (o usa las flechas) para mover la mira a lo largo del horizonte y observa las dos luces del cristal: el sol está donde las dos brillan igual. Toca Marcar. Son cinco rondas.",
+      "toque": "Toca para empezar",
+      "marcar": "Marcar",
+      "rodada": "Ronda",
+      "acertos": "Aciertos",
+      "certo": "¡Encontraste el sol!",
+      "quase": "Fallaste por poco",
+      "longe": "Lejos del sol",
+      "perdeu": "Demasiadas nubes",
+      "p1": "Acertaste menos de cuatro veces.",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Encontraste el sol!",
+      "v2": "Una saga islandesa cuenta que el rey Olaf usó una piedra del sol para mostrar dónde estaba el sol en un día nublado. Experimentos modernos muestran que un cristal podría ayudar, pero nadie sabe si los vikingos lo usaban. El juego es una simplificación.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

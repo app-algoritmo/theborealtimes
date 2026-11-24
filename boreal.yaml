@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_gungnir: jogo-gungnir-o-que-cada-texto-diz
+    jogo_skofnung: jogo-o-duelo-de-kormak
+    jogo_gjallarhorn: jogo-o-sopro-de-heimdallr
+    jogo_megingjord: jogo-as-luvas-de-ferro-de-thor
+    jogo_laevateinn: jogo-laevateinn-espada-flecha-ou-varinha
+    jogo_hildisvini: jogo-os-antepassados-de-ottar
+    jogo_aegishjalmr: jogo-os-golpes-de-fafnir
+    jogo_gallehus: jogo-o-chifre-de-gallehus
+    jogo_eggjum: jogo-as-runas-da-pedra-de-eggja
+    jogo_snoldelev: jogo-a-pedra-de-gunnvaldr
+    jogo_gundestrup: jogo-as-placas-de-gundestrup
+    jogo_gullinbursti: jogo-gullinbursti-corre-sobre-a-agua
+    jogo_vimose: jogo-as-runas-do-pente-de-vimose
     jogo_lagertha: jogo-lagertha-defende-a-linha
     jogo_thorgerdr: jogo-os-aneis-de-thorgerdr
     jogo_sigrun: jogo-o-monte-de-helgi
@@ -1140,6 +1153,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_gungnir: game-gungnir-what-each-text-says
+    jogo_skofnung: game-kormak-s-duel
+    jogo_gjallarhorn: game-heimdallr-s-blast
+    jogo_megingjord: game-thor-s-iron-gloves
+    jogo_laevateinn: game-laevateinn-sword-arrow-or-wand
+    jogo_hildisvini: game-ottar-s-ancestors
+    jogo_aegishjalmr: game-fafnir-s-blows
+    jogo_gallehus: game-the-horn-of-gallehus
+    jogo_eggjum: game-the-runes-of-the-eggja-stone
+    jogo_snoldelev: game-gunnvaldr-s-stone
+    jogo_gundestrup: game-the-gundestrup-plates
+    jogo_gullinbursti: game-gullinbursti-runs-over-the-water
+    jogo_vimose: game-the-runes-of-the-vimose-comb
     jogo_lagertha: game-lagertha-holds-the-line
     jogo_thorgerdr: game-thorgerdr-s-rings
     jogo_sigrun: game-helgi-s-mound
@@ -1781,6 +1807,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_gungnir: spill-gungnir-hva-hver-tekst-sier
+    jogo_skofnung: spill-kormaks-duell
+    jogo_gjallarhorn: spill-heimdalls-stot
+    jogo_megingjord: spill-tors-jernhansker
+    jogo_laevateinn: spill-laevateinn-sverd-pil-eller-stav
+    jogo_hildisvini: spill-ottars-forfedre
+    jogo_aegishjalmr: spill-favnes-slag
+    jogo_gallehus: spill-gallehus-hornet
+    jogo_eggjum: spill-runene-pa-eggja-steinen
+    jogo_snoldelev: spill-gunnvaldrs-stein
+    jogo_gundestrup: spill-gundestrup-platene
+    jogo_gullinbursti: spill-gullinbursti-loper-over-vannet
+    jogo_vimose: spill-runene-pa-vimose-kammen
     jogo_lagertha: spill-lagertha-holder-linjen
     jogo_thorgerdr: spill-thorgerdrs-ringer
     jogo_sigrun: spill-helgis-haug
@@ -2145,6 +2184,31 @@ es:
     jogo_bodes: juego-los-tres-machos-cabrios-bruse
     jogo_troll: juego-askeladden-y-el-troll
     jogo_frigg: juego-las-promesas-de-frigg
+    jogo_gungnir: juego-gungnir-que-dice-cada-texto
+    jogo_skofnung: juego-el-duelo-de-kormak
+    jogo_gjallarhorn: juego-el-soplido-de-heimdallr
+    jogo_megingjord: juego-los-guantes-de-hierro-de-thor
+    jogo_laevateinn: juego-laevateinn-espada-flecha-o-varita
+    jogo_hildisvini: juego-los-antepasados-de-ottar
+    jogo_aegishjalmr: juego-los-golpes-de-fafnir
+    jogo_gallehus: juego-el-cuerno-de-gallehus
+    jogo_eggjum: juego-las-runas-de-la-piedra-de-eggja
+    jogo_snoldelev: juego-la-piedra-de-gunnvaldr
+    jogo_gundestrup: juego-las-placas-de-gundestrup
+    jogo_gullinbursti: juego-gullinbursti-corre-sobre-el-agua
+    jogo_vimose: juego-las-runas-del-peine-de-vimose
+    jogo_esqui: juego-la-travesia-de-los-birkebeiner
+    jogo_ulfberht: juego-la-hoja-ulfberht
+    jogo_violino: juego-el-violin-de-la-cascada
+    jogo_freyja: juego-la-fragua-de-los-enanos
+    jogo_arrasto: juego-arrastrar-el-barco
+    jogo_tafl: juego-hnefatafl-en-miniatura
+    jogo_runas: juego-grabar-las-runas
+    jogo_moinho: juego-el-molino-que-muele-sal
+    jogo_pedrasol: juego-la-piedra-del-sol
+    jogo_cova: juego-la-fosa-del-dragon
+    jogo_berserker: juego-furia-de-berserker
+    jogo_balanca: juego-la-balanza-del-mercader
   curiosidades: []
   interface:
     capa: Portada

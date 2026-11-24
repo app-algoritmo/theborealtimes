@@ -31,6 +31,26 @@ BTJogo.registrar({
       v1: 'Halsbåndet er ferdig!',
       v2: 'I Sörla þáttr heter de fire dvergene Alfrigg, Dvalin, Berling og Grer, og det er deres halsbånd Frøya vil ha. Rytmesmia er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La fragua de los enanos",
+      "sub": "Cuatro enanos forjan el collar de Freyja. Observa el orden en que brillan los yunques y repite los golpes. Cada ronda añade uno más.",
+      "toque": "Toca para empezar",
+      "cont": "Cuentas",
+      "erros": "Errores",
+      "olhe": "Observa...",
+      "sua": "¡Tu turno!",
+      "nomes": [
+            "Alfrigg",
+            "Dvalin",
+            "Berling",
+            "Grer"
+      ],
+      "perdeu": "El collar no quedó listo",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡El collar está listo!",
+      "v2": "En la Sörla þáttr, los cuatro enanos se llaman Alfrigg, Dvalin, Berling y Grer, y suyo es el collar que Freyja desea. La forja al ritmo es invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

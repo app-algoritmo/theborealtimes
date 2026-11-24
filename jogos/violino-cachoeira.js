@@ -28,6 +28,22 @@ BTJogo.registrar({
       v1: 'Trærne danset!',
       v2: 'I norsk folketro bor Fossegrimen i fossene og lærer bort felespill til dem som gir ham kjøtt en torsdagskveld, så godt at trærne danser. Melodien og tonene er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El violín de la cascada",
+      "sub": "Fossegrim toca al pie de la cascada. Toca la cuerda justa cuando cada nota dorada llegue a la línea brillante (en el ordenador, usa las teclas 1 a 4 o D, F, J, K). Acierta 28 de las 40 notas y los árboles bailan. El juego tiene sonidos sencillos.",
+      "toque": "Toca para empezar",
+      "notas": "Notas",
+      "perf": "¡Perfecto!",
+      "bom": "Bien",
+      "errou": "Fallaste",
+      "perdeu": "Los árboles se quedaron quietos",
+      "p1": "Acertaste",
+      "p1b": "de 40 notas. Hacían falta 28.",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Los árboles bailaron!",
+      "v2": "En el folclore noruego, Fossegrim vive en las cascadas y enseña violín a quien le lleva carne en una noche de jueves, hasta el punto de que los árboles bailen. La melodía y las notas son invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

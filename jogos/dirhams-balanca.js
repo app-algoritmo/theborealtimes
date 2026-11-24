@@ -28,6 +28,20 @@ BTJogo.registrar({
       v1: 'Handlene er i havn!',
       v2: 'Vikingene veide sølv på små vekter og kuttet mynter og smykker i biter (hacksilver). Vektene og handlene i spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La balanza del mercader",
+      "sub": "El comprador quiere exactamente el peso pedido en plata. Toca los pedazos para ponerlos o quitarlos de la balanza hasta que el peso coincida. Seis tratos, tiempo limitado, hasta dos fallos.",
+      "toque": "Toca para empezar",
+      "negocio": "Trato",
+      "alvo": "Peso pedido",
+      "na_balanca": "En la balanza",
+      "falhas": "Fallos",
+      "perdeu": "El comprador se marchó",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Tratos cerrados!",
+      "v2": "Los vikingos pesaban plata en balanzas pequeñas y cortaban monedas y joyas en pedazos (hacksilver). Los pesos y los tratos del juego son inventados.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

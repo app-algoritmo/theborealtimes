@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Sverdet er smidd!',
       v2: 'Omtrent 170 sverd fra 800- til 1000-tallet bærer navnet VLFBERHT, og noen har eksepsjonelt stål. Smiingen i spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La hoja Ulfberht",
+      "sub": "Toca (o usa la barra espaciadora) cuando el marcador pase por la franja dorada, con el hierro en su punto. Ocho golpes certeros forjan la espada. Tres errores estropean la hoja.",
+      "toque": "Toca para empezar",
+      "golpes": "Golpes",
+      "erros": "Errores",
+      "perdeu": "La hoja se agrietó",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Espada forjada!",
+      "v2": "Unas 170 espadas de los siglos IX a XI llevan grabado el nombre VLFBERHT, y algunas tienen acero de calidad excepcional. La forja del juego es una simplificación.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {
