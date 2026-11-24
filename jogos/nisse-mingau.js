@@ -25,6 +25,19 @@ BTJogo.registrar({
       v1: 'Det ble dag!',
       v2: 'Jenta kommer til fjøset med skålen med grøt og smør. Nissen får sin belønning. Dette er et originalt eventyr, inspirert av den skandinaviske nissetradisjonen.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El nisse del granero",
+      "sub": "Toca donde quieras ir (o usa las flechas). Cuando un animal pida ayuda, corre hasta él antes de que se acabe el tiempo. Cuida de todos hasta que amanezca.",
+      "toque": "Toca para empezar",
+      "cuidados": "Cuidados",
+      "noite": "Noche",
+      "amanhecer": "Amanecer",
+      "perdeu": "El granero se quedó sin cuidados",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Amaneció!",
+      "v2": "La niña llega al granero con el cuenco de gachas y mantequilla. El nisse tiene su recompensa. Esta es una historia original, inspirada en la tradición escandinava del nisse.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

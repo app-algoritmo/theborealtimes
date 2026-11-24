@@ -34,6 +34,22 @@ BTJogo.registrar({
       fim1: 'Tor brakte Jormungand opp til overflaten.',
       fim2: 'Men ifølge Snorre ble Hymir redd og kappet linen: slangen sank, og kampen ble spart til Ragnarok.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La pesca de Thor",
+      "sub": "Mantén pulsado para tirar de la línea. Suelta cuando la serpiente embista.",
+      "toque": "Toca para empezar",
+      "tensao": "Línea",
+      "dist": "Fondo",
+      "aviso": "¡Va a tirar! ¡Suelta!",
+      "rodada": "Ronda",
+      "arrebentou": "La línea se rompió",
+      "fugiu": "La serpiente volvió al fondo",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "proxima": "¡Ronda ganada! Toca para la siguiente",
+      "fim1": "Thor llevó a Jörmungandr a la superficie.",
+      "fim2": "Según Snorri, sin embargo, Hymir tuvo miedo y cortó la línea: la serpiente volvió al mar y el duelo quedó para el Ragnarök.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

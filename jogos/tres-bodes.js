@@ -28,6 +28,22 @@ BTJogo.registrar({
       v1: 'Den store bukken kastet trollet i elva!',
       v2: 'De tre bukkene nådde setra og ble tjukke. I eventyret samlet av Asbjørnsen og Moe slutter det slik: «Snipp, snapp, snute, så er eventyret ute.» Brueløpet er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Los tres machos cabríos Bruse",
+      "sub": "Toca (o pulsa espacio) para saltar. Cruza el puente con los tres machos cabríos, del más pequeño al más grande.",
+      "toque": "Toca para empezar",
+      "vidas": "Vidas",
+      "etapas": [
+        "El más pequeño de los machos cabríos",
+        "El macho cabrío mediano",
+        "El gran macho cabrío Bruse"
+      ],
+      "perdeu": "El troll se quedó con el puente",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡El gran macho cabrío arrojó al troll al río!",
+      "v2": "Los tres machos cabríos llegaron al pasto y engordaron. En el cuento de Asbjørnsen y Moe, la historia termina así: «Snipp, snapp, snute, så er eventyret ute». Las carreras por el puente son invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

@@ -25,6 +25,18 @@ BTJogo.registrar({
       v1: 'Gudene forblir unge!',
       v2: 'I myten bortfører jotunen Tjatse, i ørneskikkelse, Idun, og Loke henter henne tilbake. I spillet er det du som beskytter eplene.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Idun y las manzanas",
+      "sub": "Mueve la cesta para atrapar las manzanas doradas antes de que caigan al suelo. ¡Cuidado con la sombra del águila!",
+      "toque": "Toca para empezar",
+      "macas": "Manzanas",
+      "juv": "Juventud",
+      "perdeu": "Los dioses envejecieron",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Los dioses siguen jóvenes!",
+      "v2": "En el mito, el gigante Thjazi, en forma de águila, rapta a Idun, y Loki la trae de vuelta. En el juego, eres tú quien protege las manzanas.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

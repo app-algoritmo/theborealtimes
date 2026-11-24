@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_lagertha: jogo-lagertha-defende-a-linha
+    jogo_thorgerdr: jogo-os-aneis-de-thorgerdr
+    jogo_sigrun: jogo-o-monte-de-helgi
+    jogo_hildigunn: jogo-hildigunnr-costura-o-manto
+    jogo_oddrun: jogo-a-cavalgada-de-oddrun
+    jogo_saga: jogo-saga-o-que-cada-fonte-diz
+    jogo_sigridr: jogo-os-aneis-de-sigridr
+    jogo_thyri: jogo-a-muralha-de-danevirke
+    jogo_alfhild: jogo-a-frota-de-alfhild
+    jogo_aslaug: jogo-o-pao-de-kraka
+    jogo_ingigerdr: jogo-ingigerdr-tres-lugares-da-vida
+    jogo_gunnlod: jogo-os-vasos-de-gunnlod
+    jogo_bergthora: jogo-a-batedeira-de-bergthora
     jogo_ginnungagap: jogo-faiscas-para-ymir
     jogo_eir: jogo-ervas-no-monte-da-cura
     jogo_gullveig: jogo-o-salao-do-ouro
@@ -1127,6 +1140,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_lagertha: game-lagertha-holds-the-line
+    jogo_thorgerdr: game-thorgerdr-s-rings
+    jogo_sigrun: game-helgi-s-mound
+    jogo_hildigunn: game-hildigunnr-sews-the-cloak
+    jogo_oddrun: game-oddrun-s-ride
+    jogo_saga: game-saga-what-each-source-says
+    jogo_sigridr: game-sigridr-s-rings
+    jogo_thyri: game-the-danevirke-wall-2
+    jogo_alfhild: game-alfhild-s-fleet
+    jogo_aslaug: game-kraka-s-bread
+    jogo_ingigerdr: game-ingigerdr-three-places-of-a-life
+    jogo_gunnlod: game-gunnlod-s-vessels
+    jogo_bergthora: game-bergthora-s-churn
     jogo_ginnungagap: game-sparks-for-ymir
     jogo_eir: game-herbs-on-the-hill-of-healing
     jogo_gullveig: game-the-hall-of-gold
@@ -1755,6 +1781,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_lagertha: spill-lagertha-holder-linjen
+    jogo_thorgerdr: spill-thorgerdrs-ringer
+    jogo_sigrun: spill-helgis-haug
+    jogo_hildigunn: spill-hildigunnr-syr-kappen
+    jogo_oddrun: spill-oddruns-ritt
+    jogo_saga: spill-saga-hva-hver-kilde-sier
+    jogo_sigridr: spill-sigridrs-ringer
+    jogo_thyri: spill-danevirke-muren-2
+    jogo_alfhild: spill-alfhilds-flate
+    jogo_aslaug: spill-krakas-brod
+    jogo_ingigerdr: spill-ingigerdr-tre-steder-i-et-liv
+    jogo_gunnlod: spill-gunnlods-kar
+    jogo_bergthora: spill-bergthoras-kjerne
     jogo_ginnungagap: spill-gnister-til-ymir
     jogo_eir: spill-urter-pa-legebjerget
     jogo_gullveig: spill-gullhallen
@@ -2080,6 +2119,32 @@ es:
     jogo_lordpeter: juego-plata-para-los-pastores
     jogo_setepotros: juego-boots-galopa-con-los-potros
     jogo_mestreferreiro: juego-el-martillo-del-maestro
+    jogo_lagertha: juego-lagertha-defiende-la-linea
+    jogo_thorgerdr: juego-los-anillos-de-thorgerdr
+    jogo_sigrun: juego-el-tumulo-de-helgi
+    jogo_hildigunn: juego-hildigunnr-cose-el-manto
+    jogo_oddrun: juego-la-cabalgada-de-oddrun
+    jogo_saga: juego-saga-que-dice-cada-fuente
+    jogo_sigridr: juego-los-anillos-de-sigridr
+    jogo_thyri: juego-la-muralla-de-danevirke
+    jogo_alfhild: juego-la-flota-de-alfhild
+    jogo_aslaug: juego-el-pan-de-kraka
+    jogo_ingigerdr: juego-ingigerdr-tres-lugares-de-una-vida
+    jogo_gunnlod: juego-las-vasijas-de-gunnlod
+    jogo_bergthora: juego-la-mantequera-de-bergthora
+    jogo_capacete: juego-excavacion-en-gjermundbu
+    jogo_egil: juego-la-noche-de-egil
+    jogo_fenrir: juego-gleipnir-la-cinta-imposible
+    jogo_harald: juego-el-peine-de-rognvald
+    jogo_idun: juego-idun-y-las-manzanas
+    jogo_leif: juego-el-viaje-de-leif
+    jogo_oseberg: juego-el-casco-de-oseberg
+    jogo_nisse: juego-el-nisse-del-granero
+    jogo_huginn: juego-el-vuelo-de-huginn
+    jogo_thor: juego-la-pesca-de-thor
+    jogo_bodes: juego-los-tres-machos-cabrios-bruse
+    jogo_troll: juego-askeladden-y-el-troll
+    jogo_frigg: juego-las-promesas-de-frigg
   curiosidades: []
   interface:
     capa: Portada

@@ -34,6 +34,20 @@ BTJogo.registrar({
       vb1: 'Tolv eder!',
       vb2: 'Men i myten utelot Frigg misteltein fordi hun mente den var for ung, og det var med det skuddet Balder døde. Tallet tolv er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Las promesas de Frigg",
+      "sub": "Frigg necesita que todas las cosas juren no herir a Baldr. Toca las cosas que aparecen para recoger el juramento de cada una. Reúne 12 juramentos antes de que se acabe el tiempo, y no pierdas de vista nada.",
+      "toque": "Toca para empezar",
+      "jur": "Juramentos",
+      "tempo": "Tiempo",
+      "perdeu": "Se acabó el tiempo",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "va1": "¡Te acordaste del muérdago!",
+      "va2": "En el mito, Frigg consideró el brote de muérdago demasiado joven para pedirle el juramento, y fue con él con lo que murió Baldr. En el juego, te acordaste: ese final es invención.",
+      "vb1": "¡Doce juramentos!",
+      "vb2": "Pero, en el mito, Frigg dejó fuera el muérdago, por considerarlo demasiado joven, y fue con él con lo que murió Baldr. El número doce es invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

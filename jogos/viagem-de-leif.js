@@ -38,6 +38,25 @@ BTJogo.registrar({
       v2: 'Ifølge Grønlendingenes saga overvintret Leiv der.',
       v3: 'Ved L’Anse aux Meadows i Canada bekrefter arkeologien nordboer omkring 1021, men det beviser ikke at det var stedet Leiv kalte Vinland.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El viaje de Leif",
+      "sub": "Esquiva el hielo y las rocas. Recoge barriles. Llega a Vinland.",
+      "sub2": "Arrastra el dedo o el ratón, o usa las flechas.",
+      "toque": "Toca para zarpar",
+      "etapas": [
+        "Rumbo a Helluland, la «tierra de las piedras planas»",
+        "Markland, la «tierra del bosque»",
+        "Rumbo a Vinland"
+      ],
+      "casco": "Casco",
+      "barris": "Barriles",
+      "perdeu": "El barco no resistió",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Llegaste a Vinland!",
+      "v2": "Según la saga de los groenlandeses, Leif pasó allí el invierno.",
+      "v3": "En L’Anse aux Meadows, en Canadá, la arqueología confirma la presencia de nórdicos hacia 1021, pero no prueba que ese sea el lugar que Leif llamó Vinland.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

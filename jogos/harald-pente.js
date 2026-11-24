@@ -22,6 +22,15 @@ BTJogo.registrar({
       v1: 'Hårfagre!',
       v2: 'Ifølge Snorre Sturlasons Heimskringla klippet Harald håret etter seieren ved Hafrsfjord, og Rognvald kjemte det. Derav tilnavnet. Historikere ser på edsscenen med varsomhet, og spillet forenkler alt.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El peine de Rögnvald",
+      "sub": "Harald juró no cortarse ni peinarse el pelo hasta reinar sobre toda Noruega. Pasa el dedo (o el ratón) sobre los nudos para desenredarlos.",
+      "toque": "Toca para empezar",
+      "nos": "Nudos",
+      "v1": "¡Cabello Hermoso!",
+      "v2": "Según la Heimskringla, de Snorri Sturluson, tras la victoria de Hafrsfjord Harald se cortó el pelo y Rögnvald se lo peinó. De ahí el apodo. Los historiadores miran la escena del juramento con cautela, y el juego lo simplifica todo.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

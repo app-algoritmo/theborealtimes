@@ -31,6 +31,20 @@ BTJogo.registrar({
       v1: 'Askeladden vinner!',
       v2: 'I eventyret samlet av Asbjørnsen og Moe lurer Askeladden trollet med list, og versjonene av spisekonkurransen varierer. Spillmekanikken er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Askeladden y el troll",
+      "sub": "Askeladden compite con un troll a ver quién come más. Mantén el dedo (o la barra espaciadora) para verter las gachas en el saco escondido, ¡y suelta cuando el troll mire!",
+      "toque": "Toca para empezar",
+      "saco": "Saco",
+      "erros": "Pillados",
+      "segure": "Mantén pulsado para esconder, suelta cuando mire",
+      "olha": "¡Está mirando!",
+      "perdeu": "El troll descubrió el truco",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Askeladden ganó!",
+      "v2": "En el cuento recogido por Asbjørnsen y Moe, Askeladden engaña al troll con trucos de astucia, y las versiones del concurso de comida varían. La mecánica del juego es invención.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

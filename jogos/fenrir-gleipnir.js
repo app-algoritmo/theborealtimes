@@ -40,6 +40,34 @@ BTJogo.registrar({
       v1: 'Fenrir er bundet!',
       v2: 'I Snorres beretning lager dvergene båndet, og Fenrir går bare med på å bli bundet hvis en gud legger en hånd i munnen hans. Tyr gjør det, og mister hånden da ulven ser at han ble lurt. I spillet er det diktet opp at man samler de seks tingene.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Gleipnir, la cinta imposible",
+      "sub": "Los enanos necesitan seis cosas que ya no existen. Toca las burbujas correctas, sin tocar las cosas comunes. Después, sujeta la cinta en el punto justo para atar al lobo.",
+      "toque": "Toca para empezar",
+      "vidas": "Errores",
+      "reais": [
+        "pasos de gato",
+        "barba de mujer",
+        "raíces de montaña",
+        "tendones de oso",
+        "aliento de pez",
+        "saliva de pájaro"
+      ],
+      "falsas": [
+        "cadena de hierro",
+        "anillo de oro",
+        "hilo de lana",
+        "cuerda de lino",
+        "cuchillo de bronce"
+      ],
+      "fase2": "Sujeta la cinta: mantén el hilo en la franja verde hasta que el lobo se rinda.",
+      "segure": "Mantén pulsado para apretar, suelta para aflojar",
+      "perdeu": "Fenrir se soltó",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Fenrir está atado!",
+      "v2": "En la historia de Snorri, quienes hacen la cinta son los enanos, y Fenrir solo acepta que lo aten si un dios le pone la mano en la boca. Týr la pone, y pierde la mano cuando el lobo ve que lo engañaron. En el juego, reunir las seis cosas es invención.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

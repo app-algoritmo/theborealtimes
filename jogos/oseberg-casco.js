@@ -28,6 +28,17 @@ BTJogo.registrar({
       v1: 'Skroget er ferdig!',
       v2: 'Oseberg- og Gokstadskipene ble bygget slik, i eik, med overlappende naglede planker («klinkbygging»). Stablingen med trykk i spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El casco de Oseberg",
+      "sub": "Los barcos vikingos tenían el casco de tablas superpuestas, sujetas con remaches. Toca para soltar cada tabla sobre la anterior. Lo que sobresalga del apoyo se corta.",
+      "toque": "Toca para empezar",
+      "tab": "Tablas",
+      "perdeu": "La tabla cayó fuera",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Casco terminado!",
+      "v2": "Los barcos de Oseberg y Gokstad se hicieron así, de roble, con tablas superpuestas y remachadas (la técnica de «tingladillo»). En el juego, apilar con el toque es invención.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

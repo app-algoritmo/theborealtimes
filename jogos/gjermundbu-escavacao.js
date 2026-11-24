@@ -25,6 +25,15 @@ BTJogo.registrar({
       v1: 'Ingen horn!',
       v2: 'Gjermundbu-hjelmen er den eneste nesten komplette vikinghjelmen som er funnet så langt: rund, av jern, med øyebeskyttelse. Den har ingen horn. Graveprosessen i spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "Excavación en Gjermundbu",
+      "sub": "En 1943, en una tumba vikinga de Ringerike, apareció un casco de hierro. Pasa el dedo (o el ratón) sobre la tierra para limpiarlo con cuidado.",
+      "toque": "Toca para empezar",
+      "limpo": "Limpio",
+      "v1": "¡Sin cuernos!",
+      "v2": "El casco de Gjermundbu es el único casco vikingo casi entero encontrado hasta hoy: redondo, de hierro, con protección para los ojos. No tiene cuernos. La excavación del juego es una simplificación.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

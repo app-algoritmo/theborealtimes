@@ -46,6 +46,96 @@ BTJogo.registrar({
       v1: 'Hodet er reddet!',
       v2: 'Ifølge Egils saga komponerte han «Höfuðlausn», hodeløsningen, på én natt for å vinne over kong Erik. Det virkelige diktet er ikke gjengitt her. Stavrim er et ekte trekk ved skaldediktingen; spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "La noche de Egil",
+      "sub": "Egil debe componer un poema antes del amanecer. Toca solo las palabras que empiezan con la letra del verso. Cada error apaga la vela.",
+      "toque": "Toca para empezar",
+      "verso": "Verso",
+      "letra": "Letra",
+      "conj": [
+        {
+          "l": "M",
+          "c": [
+            "mar",
+            "mano",
+            "mañana",
+            "metal"
+          ],
+          "o": [
+            "lobo",
+            "fuego",
+            "noche",
+            "rey",
+            "hierro",
+            "nieve",
+            "viento",
+            "piedra"
+          ]
+        },
+        {
+          "l": "N",
+          "c": [
+            "noche",
+            "niebla",
+            "nave",
+            "nombre"
+          ],
+          "o": [
+            "mar",
+            "luna",
+            "fuego",
+            "rey",
+            "hierro",
+            "sol",
+            "viento",
+            "tierra"
+          ]
+        },
+        {
+          "l": "F",
+          "c": [
+            "fuego",
+            "fama",
+            "fuerza",
+            "flecha"
+          ],
+          "o": [
+            "mar",
+            "luna",
+            "lobo",
+            "rey",
+            "nieve",
+            "sol",
+            "viento",
+            "piedra"
+          ]
+        },
+        {
+          "l": "L",
+          "c": [
+            "lobo",
+            "lanza",
+            "luz",
+            "lumbre"
+          ],
+          "o": [
+            "mar",
+            "fuego",
+            "noche",
+            "rey",
+            "hierro",
+            "nieve",
+            "viento",
+            "piedra"
+          ]
+        }
+      ],
+      "perdeu": "La vela se apagó",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Cabeza salvada!",
+      "v2": "Según la saga de Egil, compuso la «Höfuðlausn», el rescate de la cabeza, en una sola noche, para agradar al rey Eirík. El poema real no aparece aquí. La aliteración es un rasgo verdadero de la poesía de los escaldos; el juego es invención.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {

@@ -25,6 +25,17 @@ BTJogo.registrar({
       v1: 'Huginn og Muninn er tilbake hos Odin!',
       v2: 'Ravnene Huginn («tanke») og Muninn («minne») flyr ut over verden hver dag. I diktet Grímnismál, i Den eldre Edda, frykter Odin at Huginn ikke skal komme tilbake, og enda mer for Muninn. Grenene i flukten er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "titulo": "El vuelo de Huginn",
+      "sub": "Toca (o pulsa espacio) para batir las alas. Pasa entre las ramas del Árbol del Mundo y lleva a Odín las noticias del mundo.",
+      "toque": "Toca para empezar",
+      "pontos": "Ramas",
+      "perdeu": "Huginn se perdió",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "v1": "¡Huginn y Muninn volvieron con Odín!",
+      "v2": "Los cuervos Huginn («pensamiento») y Muninn («memoria») salen cada día por el mundo. En el poema Grímnismál, de la Edda poética, Odín teme que Huginn no vuelva y teme aún más por Muninn. Las ramas del vuelo son invención del juego.",
+      "jogar": "Toca para jugar otra vez"
     }
   },
   criar: function (api) {
