@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Glåm falt!',
       v2: 'I Grettes saga har Glåm et blikk som lammer av redsel, og kampen skjer en måneskinnsnatt mellom skyer. Spillmekanikken er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Los ojos de Glámr",
+      "sub": "Grettir se enfrenta al muerto viviente Glámr en una noche de luna. Mientras la luna brilla, la mirada de Glámr paraliza: no ataques. Toca para golpear solo cuando las nubes la cubran. Acierta seis golpes.",
+      "golpes": "Golpes",
+      "coragem": "Coraje",
+      "perdeu": "La mirada de Glámr venció",
+      "v1": "¡Glámr cayó!",
+      "v2": "En la Saga de Grettir, Glámr tiene una mirada que paraliza de miedo, y la lucha ocurre en una noche de luna entre nubes. La mecánica del juego es invención."
     }
   },
   criar: function (api) {

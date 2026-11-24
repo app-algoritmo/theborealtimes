@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Dagen gryr!',
       v2: 'I Vøluspå og hos Snorre dør gudene i Ragnarok, og først etterpå lever jorden igjen. Her holdt du ut til daggry: den slutten er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "La última batalla",
+      "sub": "Llegó el Ragnarök, y lobos y gigantes avanzan sobre el salón de los dioses. Toca la mitad izquierda o derecha de la pantalla (o usa las flechas) para golpear a quien se acerca por cada lado. Resiste hasta el amanecer.",
+      "salao": "Salón",
+      "ate": "Hasta el amanecer",
+      "perdeu": "El salón cayó",
+      "v1": "¡Amaneció!",
+      "v2": "En la Völuspá y en Snorri, los dioses mueren en el Ragnarök, y solo después la tierra renace. Aquí has resistido hasta el amanecer: ese final se inventó para el juego."
     }
   },
   criar: function (api) {

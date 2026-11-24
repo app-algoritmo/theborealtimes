@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Ragnar sang til slutten!',
       v2: 'I sagaene dør Ragnar i kong Ællas slangegrav, syngende. Hukommelsesspillet er diktet opp, og scenen er legende, ikke historisk opptegnelse.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "El pozo de las serpientes",
+      "sub": "Ragnar está en el pozo del rey Ælla. Las serpientes se alzan una a una: memoriza el orden y toca las madrigueras en la misma secuencia. Sobrevive a siete rondas.",
+      "rodada": "Ronda",
+      "observe": "Observa...",
+      "vez": "Tu turno",
+      "perdeu": "La serpiente mordió",
+      "v1": "¡Ragnar cantó hasta el final!",
+      "v2": "En las sagas, Ragnar muere en el pozo de serpientes del rey Ælla, cantando. El juego de memoria es invención, y la escena es leyenda, no registro histórico."
     }
   },
   criar: function (api) {

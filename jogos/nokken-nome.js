@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Nøkken flyktet!',
       v2: 'I noen folketroberetninger jager det nøkken bort å kjenne navnet dens eller bruke jern. Bokstavspillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "El nombre del Nøkken",
+      "sub": "El nøkken sube del lago hacia el niño. Toca las letras N, Ø, K, K, en ese orden, mientras flotan en el agua. Una letra equivocada le hace avanzar. Espántalo tres veces.",
+      "rodada": "Ronda",
+      "nome": "El nombre",
+      "perdeu": "El nøkken alcanzó al niño",
+      "v1": "¡El nøkken huyó!",
+      "v2": "En algunos relatos folclóricos, saber el nombre del nøkken o usar hierro lo aleja. La broma de las letras es invención del juego."
     }
   },
   criar: function (api) {

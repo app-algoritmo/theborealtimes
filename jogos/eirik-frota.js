@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Land i sikte!',
       v2: 'Ifølge sagaen om Eirik Raude la 25 skip ut fra Island, og 14 kom fram til Grønland. Rutene, isen og tiden over havet er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para zarpar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Veinticinco barcos",
+      "sub": "Eirik lleva una flota de colonos rumbo a Groenlandia. Arrastra el dedo para guiar el barco de delante (o usa las flechas): los demás siguen su estela. El hielo y las rocas hunden barcos. Llega con 14 o más.",
+      "navios": "Barcos",
+      "chegada": "Groenlandia",
+      "perdeu": "Se perdieron demasiados barcos",
+      "v1": "¡Tierra a la vista!",
+      "v2": "Según la Saga de Eirik el Rojo, partieron 25 barcos de Islandia y llegaron 14 a Groenlandia. Las rutas, el hielo y el tiempo de travesía son invención del juego."
     }
   },
   criar: function (api) {

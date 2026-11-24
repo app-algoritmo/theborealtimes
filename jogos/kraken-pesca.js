@@ -28,6 +28,20 @@ BTJogo.registrar({
       v1: 'Båten er full!',
       v2: 'Pontoppidan, biskop av Bergen, beskrev i 1752 krakenen som et veldig udyr som uvanlig rikt fiske kunne røpe: der fisken samler seg for tett, skulle den ligge under. Spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Pesca sobre el Kraken",
+      "sub": "Hay demasiado pescado en un punto del mar, y está sobre un kraken. Mantén pulsado el dedo (o la barra espaciadora) para pescar; suelta para guardar la pesca. Si el monstruo sube, pierdes lo que has pescado en esta ronda. Reúne 90 peces en 5 rondas.",
+      "rodada": "Ronda",
+      "guardado": "Guardado",
+      "no_barco": "En el barco",
+      "agua": "El agua burbujea...",
+      "perdeu": "Faltó pescado",
+      "v1": "¡Barco lleno!",
+      "v2": "Pontoppidan, obispo de Bergen, describió en 1752 el kraken como un monstruo enorme que la pesca abundante delataría: donde los peces se juntan demasiado, él estaría debajo. El juego es invención."
     }
   },
   criar: function (api) {

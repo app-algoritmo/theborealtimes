@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_darradar: jogo-o-tear-das-valquirias
+    jogo_haustlong: jogo-as-lascas-de-hrungnir
+    jogo_husdrapa: jogo-o-salao-pintado
+    jogo_ragnarsdrapa: jogo-o-escudo-de-bragi
+    jogo_hrafnsmal: jogo-as-noticias-do-corvo
+    jogo_hamdismal: jogo-a-cavalgada-dos-irmaos
+    jogo_runepoems: jogo-fe-ur-e-thurs
+    jogo_vellekla: jogo-o-ouro-de-vellekla
+    jogo_solarljod: jogo-os-raios-de-solarljod
+    jogo_helreid: jogo-a-carruagem-de-brynhildr
+    jogo_atlamal: jogo-as-runas-de-gudrun
+    jogo_austrfarar: jogo-as-portas-fechadas-de-sigvatr
+    jogo_hattatal: jogo-as-estrofes-de-snorri
     jogo_gungnir: jogo-gungnir-o-que-cada-texto-diz
     jogo_skofnung: jogo-o-duelo-de-kormak
     jogo_gjallarhorn: jogo-o-sopro-de-heimdallr
@@ -1153,6 +1166,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_darradar: game-the-valkyries-loom
+    jogo_haustlong: game-hrungnir-s-splinters
+    jogo_husdrapa: game-the-painted-hall
+    jogo_ragnarsdrapa: game-bragi-s-shield
+    jogo_hrafnsmal: game-the-raven-s-news
+    jogo_hamdismal: game-the-brothers-ride
+    jogo_runepoems: game-fe-ur-and-thurs
+    jogo_vellekla: game-the-gold-of-vellekla
+    jogo_solarljod: game-the-rays-of-solarljod
+    jogo_helreid: game-brynhildr-s-wagon
+    jogo_atlamal: game-gudrun-s-runes
+    jogo_austrfarar: game-sigvatr-s-closed-doors
+    jogo_hattatal: game-snorri-s-stanzas
     jogo_gungnir: game-gungnir-what-each-text-says
     jogo_skofnung: game-kormak-s-duel
     jogo_gjallarhorn: game-heimdallr-s-blast
@@ -1807,6 +1833,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_darradar: spill-valkyrjenes-vev
+    jogo_haustlong: spill-hrungnirs-splinter
+    jogo_husdrapa: spill-den-malte-hallen
+    jogo_ragnarsdrapa: spill-bragis-skjold
+    jogo_hrafnsmal: spill-ravnens-nyheter
+    jogo_hamdismal: spill-brodrenes-ritt
+    jogo_runepoems: spill-fe-ur-og-thurs
+    jogo_vellekla: spill-gullet-i-vellekla
+    jogo_solarljod: spill-stralene-i-solarljod
+    jogo_helreid: spill-brynhilds-vogn
+    jogo_atlamal: spill-gudruns-runer
+    jogo_austrfarar: spill-sigvats-lukkede-dorer
+    jogo_hattatal: spill-snorres-strofer
     jogo_gungnir: spill-gungnir-hva-hver-tekst-sier
     jogo_skofnung: spill-kormaks-duell
     jogo_gjallarhorn: spill-heimdalls-stot
@@ -2209,6 +2248,30 @@ es:
     jogo_cova: juego-la-fosa-del-dragon
     jogo_berserker: juego-furia-de-berserker
     jogo_balanca: juego-la-balanza-del-mercader
+    jogo_darradar: juego-el-telar-de-las-valquirias
+    jogo_haustlong: juego-las-astillas-de-hrungnir
+    jogo_husdrapa: juego-el-salon-pintado
+    jogo_ragnarsdrapa: juego-el-escudo-de-bragi
+    jogo_hrafnsmal: juego-las-noticias-del-cuervo
+    jogo_hamdismal: juego-la-cabalgata-de-los-hermanos
+    jogo_runepoems: juego-fe-ur-y-thurs
+    jogo_vellekla: juego-el-oro-de-vellekla
+    jogo_solarljod: juego-los-rayos-de-solarljod
+    jogo_helreid: juego-el-carro-de-brynhildr
+    jogo_atlamal: juego-las-runas-de-gudrun
+    jogo_austrfarar: juego-las-puertas-cerradas-de-sigvatr
+    jogo_hattatal: juego-las-estrofas-de-snorri
+    jogo_eirik: juego-veinticinco-barcos
+    jogo_glamr: juego-los-ojos-de-glamr
+    jogo_gryla: juego-los-trece-jolasveinar
+    jogo_huldra: juego-quien-tiene-cola
+    jogo_kraken: juego-pesca-sobre-el-kraken
+    jogo_remar: juego-remar-hasta-lindisfarne
+    jogo_kari: juego-la-fuga-de-kari
+    jogo_nokken: juego-el-nombre-del-nokken
+    jogo_ragnar: juego-el-pozo-de-las-serpientes
+    jogo_ragnarok: juego-la-ultima-batalla
+    jogo_stamford: juego-el-puente-de-stamford
   curiosidades: []
   interface:
     capa: Portada

@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Land i sikte!',
       v2: 'Den 8. juni 793 angrep vikinger klosteret på Lindisfarne i Northumbria. Detaljene om overfarten og åretaktene er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Remar hasta Lindisfarne",
+      "sub": "El barco cruza el mar del Norte rumbo a la isla. Toca cuando el marcador pase por la zona dorada para dar una remada certera. Las remadas a destiempo retrasan el barco. Da veinte remadas.",
+      "remadas": "Remadas",
+      "erros": "Errores",
+      "perdeu": "El barco no llegó a tiempo",
+      "v1": "¡Tierra a la vista!",
+      "v2": "El 8 de junio de 793, vikingos atacaron el monasterio de Lindisfarne, en Northumbria. Los detalles de la travesía y el ritmo de las remadas son invención del juego."
     }
   },
   criar: function (api) {

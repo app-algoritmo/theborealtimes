@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Broen holdt!',
       v2: 'Kilder skrevet etter slaget, som Henry av Huntingdon, forteller at én enkelt norsk øksemann holdt broen til han ble truffet nedenfra. I virkeligheten døde Harald Hardråde og slaget gikk tapt, i 1066. Seieren her er diktet opp for spillet.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "El puente de Stamford",
+      "sub": "Eres el hachero que defiende el puente. Toca encima del puente (o usa la barra espaciadora) para golpear a quien llega por la derecha. Cuando surja una lanza bajo las tablas, toca debajo del puente (o usa la flecha hacia abajo) para apartarla a tiempo. Derriba a 20 enemigos.",
+      "derrotas": "Derrotados",
+      "vidas": "Vidas",
+      "perdeu": "El puente cayó",
+      "perdeu2": "La lanza que venía de abajo te alcanzó",
+      "v1": "¡El puente resistió!",
+      "v2": "Fuentes escritas después de la batalla, como Enrique de Huntingdon, cuentan que un solo hachero noruego defendió el puente hasta ser alcanzado desde abajo. En la historia real, Harald Hardrada murió y la batalla se perdió, en 1066. La victoria aquí es invención del juego."
     }
   },
   criar: function (api) {

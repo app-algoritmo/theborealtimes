@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Du avslørte henne!',
       v2: 'I norsk folketro ser huldra ut som en pen ung kvinne, men har kuhale og, i mange fortellinger, en hul rygg som en trestamme. Spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "¿Quién tiene cola?",
+      "sub": "Una huldra se esconde entre las muchachas del bosque. Solo la cola la delata, y por un instante, bajo el borde del vestido. Tócala cuando la veas. Descubre a la huldra en 5 rondas, con un máximo de 3 engaños.",
+      "rodada": "Ronda",
+      "enganos": "Engaños",
+      "demorou": "Escapó",
+      "perdeu": "La huldra te engañó",
+      "v1": "¡La has reconocido!",
+      "v2": "En el folclore noruego, la huldra parece una muchacha bonita, pero tiene cola de vaca y, en muchos relatos, la espalda hueca como un tronco. El juego es invención."
     }
   },
   criar: function (api) {

@@ -28,6 +28,19 @@ BTJogo.registrar({
       v1: 'Du holdt ut til slutten!',
       v2: 'I Snorres Edda holder Sigyn en skål over Loke, og når hun går for å tømme den, faller giften på ham, og han vrir seg og får jorden til å skjelve. Spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "El cuenco de Sigyn",
+      "sub": "Loki está atado, y una serpiente gotea veneno sobre él. Arrastra el cuenco (o usa las flechas) para recoger las gotas. Cuando se llene, llévalo hasta la jarra, en el borde de la pantalla, para vaciarlo. Cada gota que cae sobre Loki hace temblar la tierra.",
+      "gotas": "Cuenco",
+      "tremores": "Temblores",
+      "jarra": "Jarra",
+      "perdeu": "La tierra tembló demasiado",
+      "v1": "¡Has aguantado hasta el final!",
+      "v2": "En la Edda en prosa de Snorri, Sigyn sostiene un cuenco sobre Loki y, cuando va a vaciarlo, el veneno cae sobre él, que se retuerce y hace temblar la tierra. El juego es una simplificación."
     }
   },
   criar: function (api) {

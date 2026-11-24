@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Julen er reddet!',
       v2: 'Ifølge islandsk folketro kommer de tretten juleguttene én hver natt fra 12. desember. Listene varierer, og spillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Los trece Jólasveinar",
+      "sub": "Trece noches, un hijo de Grýla por noche. Cada uno intenta llevarse su objetivo favorito: toca el objeto antes de que el anillo se cierre. Si se llevan cinco cosas, la despensa está perdida.",
+      "noite": "Noche",
+      "levados": "Llevados",
+      "perdeu": "La despensa quedó vacía",
+      "v1": "¡Navidad salvada!",
+      "v2": "Según el folclore islandés, los trece Jólasveinar llegan uno por noche a partir del 12 de diciembre. Las listas varían y el juego es una invención."
     }
   },
   criar: function (api) {

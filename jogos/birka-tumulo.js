@@ -31,6 +31,28 @@ BTJogo.registrar({
       v1: 'Graven er gjenskapt!',
       v2: 'I over hundre år ble skjelettet i grav Bj 581 lest som en kriger. I 2017 viste DNA at det var en kvinne, og det diskuteres fortsatt om hun ledet tropper eller om gjenstandene hadde en annen betydning. Parspillet er diktet opp.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "Los bienes de la tumba",
+      "sub": "En la tumba Bj 581, en Birka, había armas, caballos y piezas de juego. Da la vuelta a dos cartas cada vez y encuentra los 8 pares de objetos. Puedes equivocarte como máximo 10 veces.",
+      "pares": "Pares",
+      "erros": "Errores",
+      "itens": [
+            "Espada",
+            "Hacha",
+            "Flechas",
+            "Escudo",
+            "Caballos",
+            "Piezas de juego",
+            "Seda",
+            "Cuchillo"
+      ],
+      "perdeu": "Demasiados errores",
+      "v1": "¡Tumba reconstruida!",
+      "v2": "Durante más de un siglo, el esqueleto de la tumba Bj 581 se leyó como el de un guerrero. En 2017, el ADN mostró que era de una mujer, y aún se debate si mandaba tropas o si los objetos tenían otro sentido. El juego de pares es invención."
     }
   },
   criar: function (api) {

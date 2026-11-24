@@ -28,6 +28,18 @@ BTJogo.registrar({
       v1: 'Kåre slapp unna!',
       v2: 'I Njåls saga flykter Kåre langs de brennende bjelkene, med klær og hår i brann, og kaster seg i en bekk. Spillet er en forenkling.',
       jogar: 'Trykk for å spille igjen'
+    },
+    es: {
+      "toque": "Toca para empezar",
+      "de_novo": "Toca para intentarlo de nuevo",
+      "jogar": "Toca para jugar otra vez",
+      "titulo": "La fuga de Kári",
+      "sub": "La casa de Njál arde. Toca (o usa la barra espaciadora) para saltar las llamas; mantén pulsado para saltar más alto. Llega al tejado antes de que el fuego venza.",
+      "telhado": "Tejado",
+      "folego": "Aliento",
+      "perdeu": "El fuego venció",
+      "v1": "¡Kári escapó!",
+      "v2": "En la Saga de Njál, Kári huye por las vigas en llamas, con la ropa y el cabello ardiendo, y se arroja a un arroyo. El juego es una simplificación."
     }
   },
   criar: function (api) {
