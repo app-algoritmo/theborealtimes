@@ -669,3 +669,93 @@ html.jogo-aberto,html.jogo-aberto body{overflow:hidden;overscroll-behavior:none}
 @keyframes aurora-estrelas{from{opacity:.82}to{opacity:1}}
 @media(max-width:640px){.masthead{padding:26px 0 40px}}
 @media(prefers-reduced-motion:reduce){.masthead::before,.masthead::after{animation:none}}
+
+/* ── Noite boreal nas histórias e nos jogos ──────────────── */
+body.noite{
+  --papel:#0d0b2a; --papel-2:rgba(255,255,255,.06); --papel-3:rgba(255,255,255,.08);
+  --tinta:#EEEAFB; --tinta-2:#C3BEDC; --tinta-3:#9893B8; --tinta-4:#7F7AA0;
+  --fio:rgba(255,255,255,.14); --fio-2:rgba(255,255,255,.26);
+  --marca:#B9A0FF;
+  background:#0a0922;
+}
+body.noite::before{
+  content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:
+    radial-gradient(60% 40% at 12% 8%,rgba(40,230,160,.16),rgba(40,230,160,0) 70%),
+    radial-gradient(55% 45% at 85% 14%,rgba(150,100,255,.20),rgba(150,100,255,0) 70%),
+    radial-gradient(70% 50% at 50% 100%,rgba(0,190,210,.10),rgba(0,190,210,0) 70%),
+    radial-gradient(1.2px 1.2px at 8% 22%,#fff,transparent 60%),
+    radial-gradient(1px 1px at 19% 64%,rgba(255,255,255,.7),transparent 60%),
+    radial-gradient(1.3px 1.3px at 31% 12%,#fff,transparent 60%),
+    radial-gradient(1px 1px at 43% 48%,rgba(255,255,255,.6),transparent 60%),
+    radial-gradient(1.2px 1.2px at 57% 30%,#fff,transparent 60%),
+    radial-gradient(1px 1px at 66% 72%,rgba(255,255,255,.7),transparent 60%),
+    radial-gradient(1.3px 1.3px at 77% 18%,#fff,transparent 60%),
+    radial-gradient(1px 1px at 88% 56%,rgba(255,255,255,.6),transparent 60%),
+    radial-gradient(1.2px 1.2px at 95% 84%,rgba(255,255,255,.7),transparent 60%),
+    linear-gradient(180deg,#0b0a22 0%,#120e38 55%,#0a0922 100%);
+}
+body.noite .cabeca-materia h1,body.noite .texto h2,body.noite .texto h3{color:#fff}
+body.noite .linha-fina{color:var(--tinta-2)}
+body.noite .texto{color:#E2DEF2}
+body.noite .texto a{color:#C8B6FF;border-bottom-color:rgba(200,182,255,.45)}
+body.noite .texto a:hover{color:#fff;border-bottom-color:#fff}
+body.noite .texto-editorial>p:first-of-type::first-letter,body.noite .texto>p:first-of-type::first-letter{color:#7CF0C4}
+body.noite .texto blockquote{border-left-color:rgba(124,240,196,.55);color:var(--tinta-2)}
+body.noite .legenda,body.noite .credito{color:var(--tinta-3)}
+body.noite .materia img{border-radius:6px;box-shadow:0 10px 40px rgba(0,0,0,.45)}
+body.noite .materia figure img{background:rgba(255,255,255,.05)}
+body.noite .chapeu,body.noite .rotulo{color:#7CF0C4;border-color:rgba(124,240,196,.4)}
+body.noite .nav{border-bottom-color:rgba(120,255,200,.25)}
+
+/* ── Pergaminho escandinavo nas histórias e nos jogos ─────── */
+body.pergaminho{
+  --papel:#ecdcb2; --papel-2:rgba(90,58,24,.07); --papel-3:rgba(90,58,24,.12);
+  --tinta:#3a2512; --tinta-2:#55391d; --tinta-3:#6f5030; --tinta-4:#85663f;
+  --fio:rgba(74,47,23,.28); --fio-2:rgba(74,47,23,.5);
+  --marca:#8a2f14;
+  background:#e6d3a4;
+}
+body.pergaminho::before{
+  content:"";position:fixed;inset:0;z-index:-2;pointer-events:none;
+  background:
+    radial-gradient(120% 90% at 50% 40%,rgba(255,244,214,.55),rgba(255,244,214,0) 60%),
+    radial-gradient(130% 110% at 50% 50%,rgba(0,0,0,0) 55%,rgba(110,66,20,.38) 100%),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='360'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' stitchTiles='stitch' numOctaves='3' seed='4'/><feColorMatrix values='0 0 0 0 .36  0 0 0 0 .22  0 0 0 0 .08  0 0 0 .5 0'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='.55'/></svg>"),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='900'><filter id='m'><feTurbulence type='fractalNoise' baseFrequency='.006' stitchTiles='stitch' numOctaves='3' seed='9'/><feColorMatrix values='0 0 0 0 .55  0 0 0 0 .34  0 0 0 0 .12  0 0 0 1.1 -.35'/></filter><rect width='100%' height='100%' filter='url(%23m)' opacity='.5'/></svg>"),
+    #ead8ab;
+}
+body.pergaminho::after{
+  content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:url("/estatico/img/perg-doodles.svg") 0 0/760px 760px repeat;
+  opacity:.17;
+}
+@media (min-width:1280px){
+  body.pergaminho::after{
+    background:
+      url("/estatico/img/perg-lateral.svg") left 18px top 0/200px auto repeat-y,
+      url("/estatico/img/perg-lateral.svg") right 18px top 0/200px auto repeat-y;
+    opacity:.34;
+  }
+}
+body.pergaminho main::before{
+  content:"";display:block;height:56px;max-width:760px;margin:18px auto 0;
+  background:url("/estatico/img/perg-friso.svg") center/auto 100% repeat-x;opacity:.5;
+}
+body.pergaminho .materia{position:relative}
+body.pergaminho .materia::after{
+  content:"";display:block;height:24px;margin:34px auto 6px;max-width:520px;
+  background:url("/estatico/img/perg-tranca.svg") center/auto 100% repeat-x;opacity:.55;
+}
+body.pergaminho .cabeca-materia h1,body.pergaminho .texto h2,body.pergaminho .texto h3{color:#2b1809}
+body.pergaminho .linha-fina{color:var(--tinta-2)}
+body.pergaminho .texto{color:#33200e}
+body.pergaminho .texto a{color:#8a2f14;border-bottom-color:rgba(138,47,20,.45)}
+body.pergaminho .texto a:hover{color:#5c1a07;border-bottom-color:#5c1a07}
+body.pergaminho .texto-editorial>p:first-of-type::first-letter,body.pergaminho .texto>p:first-of-type::first-letter{color:#8a2f14}
+body.pergaminho .texto blockquote{border-left-color:rgba(138,47,20,.6);color:var(--tinta-2)}
+body.pergaminho .legenda,body.pergaminho .credito{color:var(--tinta-3)}
+body.pergaminho .materia img{border-radius:3px;box-shadow:0 6px 22px rgba(70,40,10,.35);border:1px solid rgba(74,47,23,.45)}
+body.pergaminho .chapeu,body.pergaminho .rotulo{color:#8a2f14;border-color:rgba(138,47,20,.45)}
+body.pergaminho .nav{border-bottom-color:rgba(74,47,23,.35)}
+@media (max-width:600px){body.pergaminho::after{background-size:520px 520px;opacity:.13}body.pergaminho main::before{height:36px;margin-top:10px}}

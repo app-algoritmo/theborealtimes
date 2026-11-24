@@ -86,7 +86,7 @@
         crossorigin="anonymous"></script>
 {% endif %}
 </head>
-<body>
+<body class="{% block corpo_classe %}{% endblock %}">
 
 {% set loja_rotulo = {'pt':'Loja','en':'Shop','no':'Butikk','es':'Tienda'}.get(idioma.curto, 'Shop') %}
 <div class="faixa-topo"><div class="env">
@@ -109,7 +109,7 @@
 {% set nav_cores = ['mitos','sagas','viking','contos'] %}
 {% set nav_url = pagina.url|default('') %}
 {% set nav_sec = pagina.secao|default('') %}
-{% set nav_jogo = (pagina.olho|default('')) in ['Jogo','Game','Spill'] %}
+{% set nav_jogo = (pagina.olho|default('')) in ['Jogo','Game','Spill','Juego'] %}
 <nav class="nav"><div class="env">
   <a href="{{ idioma.prefixo }}/"{% if nav_url == idioma.prefixo ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_inicio }}</a>
   <a href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/" class="nav-jogos"{% if nav_jogo or nav_url == idioma.prefixo ~ '/' ~ t.paginas.jogos ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_jogos }}</a>

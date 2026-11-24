@@ -2,6 +2,8 @@
 {% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
 {% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
 
+{% block corpo_classe %}{% if (pagina.olho|default('')) in ['Jogo','Game','Spill','Juego'] %}pergaminho{% endif %}{% endblock %}
+
 {% block conteudo %}
 <article class="materia">
   <div class="cabeca-materia">

@@ -2,6 +2,7 @@
 {% block titulo %}{{ pagina.titulo }} — {{ site.nome }}{% endblock %}
 {% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
 {% block ogtipo %}article{% endblock %}
+{% block corpo_classe %}pergaminho{% endblock %}
 {% block ogimagem %}{{ pagina.imagem|default(site.url ~ '/estatico/img/boreal-social.png?v=3') }}{% endblock %}
 
 {% block conteudo %}
