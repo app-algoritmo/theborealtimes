@@ -322,7 +322,7 @@
         '<h2 id="sg-v-t">' + esc(x.t) + '</h2><p class="sg-reino">' + esc(TX.reinos[x.s]) + (x.k ? ' · ' + esc(x.k) : '') + '</p>' +
         '<p class="sg-res">' + esc(x.r) + '</p>' +
         '<a class="sg-btn sg-btn-p" href="' + esc(x.u) + '">' + esc(TX.ler) + '</a>' +
-        (c ? '<p class="sg-cred">' + esc(c) + '</p>' : '') + '</div>' +
+        '<p class="sg-cred">Boreal Saga Play</p></div>' +
         (lista.length > 1 ? '<button type="button" class="sg-nav sg-nav-a" aria-label="' + esc(TX.ant) + '">‹</button><button type="button" class="sg-nav sg-nav-p" aria-label="' + esc(TX.prox) + '">›</button>' : '') +
         '</div>';
       dlg.setAttribute('aria-labelledby', 'sg-v-t');
