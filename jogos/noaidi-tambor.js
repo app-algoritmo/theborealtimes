@@ -43,6 +43,20 @@ BTJogo.registrar({
     "h2": "Feil",
     "ouve": "Hør rytmen",
     "repete": "Nå du"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El tambor del noaidi",
+    "sub": "El noaidi toca un ritmo en el tambor. Escucha con atención y repítelo tocando en la pantalla (o en la barra espaciadora) al mismo compás, con golpes cortos y largos. Acierta cinco ritmos, con un máximo de dos errores.",
+    "perdeu": "Se perdió el ritmo",
+    "v1": "¡El tambor responde!",
+    "v2": "Los noaidi, chamanes del pueblo sami, usaban tambores de piel decorados. Los ritmos del juego son invención.",
+    "h1": "Ritmos",
+    "h2": "Errores",
+    "ouve": "Escucha el ritmo",
+    "repete": "Ahora tú"
   }
 },
   criar: function (api) {

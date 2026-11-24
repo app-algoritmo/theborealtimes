@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Nordboerne bodde på Grønland i flere hundre år, på gårder ved fjordene, som ved Hvalsey. Isovergangen er diktet opp for spillet.",
     "h1": "Kryssinger",
     "h2": "Dukkerter"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La travesía del fiordo",
+    "sub": "Cruza el fiordo saltando de bloque en bloque de hielo, de la orilla de abajo a la de arriba. Toca arriba, abajo o a un lado de ti (o usa las flechas) para saltar. Llega tres veces a la otra orilla; al tercer chapuzón el juego termina.",
+    "perdeu": "El fiordo te tragó",
+    "v1": "¡Al otro lado!",
+    "v2": "Los nórdicos vivieron en Groenlandia durante siglos, en granjas a orillas de fiordos, como en Hvalsey. La travesía sobre el hielo es invención del juego.",
+    "h1": "Travesías",
+    "h2": "Chapuzones"
   }
 },
   criar: function (api) {

@@ -43,6 +43,20 @@ BTJogo.registrar({
     "h2": "Feil",
     "conte": "Tell bare skipene",
     "quanto": "Hvor mange skip?"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los barcos de Magnus",
+    "sub": "Los barcos aparecen y desaparecen en el mar, uno a uno. Cuenta solo los barcos, sin las rocas, y después toca el número correcto (o usa las teclas 1 a 4). Son seis cuentas, con un máximo de dos errores.",
+    "perdeu": "La cuenta no cuadró",
+    "v1": "¡Cuenta correcta!",
+    "v2": "Magnus Erlendsson es muerto en la isla de Egilsay, hacia 1117, y después es recordado como santo. Las cuentas son invención del juego.",
+    "h1": "Cuentas",
+    "h2": "Errores",
+    "conte": "Cuenta solo los barcos",
+    "quanto": "¿Cuántos barcos?"
   }
 },
   criar: function (api) {

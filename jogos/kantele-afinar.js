@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala, samlet av Elias Lönnrot på 1800-tallet, lager Väinämöinen den første kantelen av kjeven til en stor fisk. Strengene og stemmingen i spillet er diktet opp.",
     "h1": "Strenger",
     "h2": "Røket"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Afina el kantele",
+    "sub": "Arrastra el dedo a la izquierda o a la derecha (o usa las flechas) para girar la clavija de la cuerda y llevar la aguja al centro verde. Mantenla ahí un instante y la cuerda queda afinada. Cada cuerda tiene tiempo limitado; con tres cuerdas rotas el juego termina.",
+    "perdeu": "Se rompieron las cuerdas",
+    "v1": "¡El kantele canta!",
+    "v2": "En el Kalevala, reunido por Elias Lönnrot en el siglo XIX, Väinämöinen hace el primer kantele con la mandíbula de un gran pez. Las cuerdas y la afinación del juego son invención.",
+    "h1": "Cuerdas",
+    "h2": "Rotas"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Snorre stakk Loke Brokk for å ødelegge smiingen, og skaftet ble kort.",
     "h1": "Fluer",
     "h2": "Stikk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Moscas en la fragua",
+    "sub": "Loki, en forma de mosca, quiere picar a Brokkr y estropear el martillo. Toca las moscas (o mueve la mira con las flechas y usa la barra espaciadora) antes de que lleguen a su mano. Acierta veinte moscas; a la tercera picadura el juego termina.",
+    "perdeu": "La mosca estropeó el martillo",
+    "v1": "¡El Mjölnir está listo!",
+    "v2": "Según Snorri, Loki picó a Brokkr para estropear la forja, y el mango salió corto.",
+    "h1": "Moscas",
+    "h2": "Picaduras"
   }
 },
   criar: function (api) {

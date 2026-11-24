@@ -43,6 +43,20 @@ BTJogo.registrar({
     "h2": "Feil",
     "ver": "Husk brevet med seglet",
     "onde": "Hvor er brevet?"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La carta cambiada",
+    "sub": "Amleth cambió la carta que lo mandaba a la muerte. Mira qué carta lleva el sello, síguela mientras las tres cambian de sitio y toca sobre ella (o usa las teclas 1, 2 y 3). Acierta seis veces; al tercer error el juego termina.",
+    "perdeu": "Perdiste la carta de vista",
+    "v1": "¡La carta correcta!",
+    "v2": "En Saxo, Amleth cambia el mensaje que lo llevaba a la muerte, y son los portadores quienes mueren. El cambio de cartas es invención del juego.",
+    "h1": "Cartas",
+    "h2": "Errores",
+    "ver": "Memoriza la carta con el sello",
+    "onde": "¿Dónde está la carta?"
   }
 },
   criar: function (api) {

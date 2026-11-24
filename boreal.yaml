@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_widsith: jogo-a-harpa-do-cantor
+    jogo_finnsburg: jogo-a-porta-de-finnsburg
+    jogo_nibelungen: jogo-o-tesouro-no-reno
+    jogo_franks: jogo-as-placas-do-cofre
+    jogo_bjorn: jogo-remar-ate-luni
+    jogo_margrete: jogo-um-fato-um-reino
+    jogo_birger: jogo-as-toras-de-estocolmo
+    jogo_vladimir: jogo-os-pechenegues-em-kiev
+    jogo_jordanes: jogo-as-peles-de-scandza
+    jogo_nils: jogo-com-martin-pelos-campos
+    jogo_aasen: jogo-os-cadernos-de-aasen
+    jogo_tordenskjold: jogo-os-barris-de-dynekilen
+    jogo_bull: jogo-as-notas-de-ole-bull
     jogo_kalmar: jogo-os-blocos-da-coroa-dos-tres-reinos
     jogo_engelbrekt: jogo-as-torres-dos-castelos-dos-bailios
     jogo_jonarason: jogo-antes-em-e-depois-de-1550
@@ -1205,6 +1218,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_widsith: game-the-singer-s-harp
+    jogo_finnsburg: game-the-door-of-finnsburg
+    jogo_nibelungen: game-the-treasure-in-the-rhine
+    jogo_franks: game-the-plates-of-the-casket
+    jogo_bjorn: game-rowing-to-luni
+    jogo_margrete: game-one-fact-one-realm
+    jogo_birger: game-the-logs-of-stockholm
+    jogo_vladimir: game-the-pechenegs-at-kiev
+    jogo_jordanes: game-the-pelts-of-scandza
+    jogo_nils: game-across-the-fields-with-martin
+    jogo_aasen: game-aasen-s-notebooks
+    jogo_tordenskjold: game-the-barrels-of-dynekilen
+    jogo_bull: game-ole-bull-s-notes
     jogo_kalmar: game-the-blocks-of-the-three-realm-crown
     jogo_engelbrekt: game-the-towers-of-the-bailiffs-castles
     jogo_jonarason: game-before-in-and-after-1550
@@ -1911,6 +1937,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_widsith: spill-sangerens-harpe
+    jogo_finnsburg: spill-dora-i-finnsburg
+    jogo_nibelungen: spill-skatten-i-rhinen
+    jogo_franks: spill-platene-i-skrinet
+    jogo_bjorn: spill-a-ro-til-luni
+    jogo_margrete: spill-ett-faktum-ett-rike
+    jogo_birger: spill-stokkene-i-stockholm
+    jogo_vladimir: spill-pesjenegene-ved-kiev
+    jogo_jordanes: spill-skinnene-fra-scandza
+    jogo_nils: spill-over-jordene-med-martin
+    jogo_aasen: spill-aasens-notatboker
+    jogo_tordenskjold: spill-tonnene-fra-dynekilen
+    jogo_bull: spill-ole-bulls-toner
     jogo_kalmar: spill-blokkene-i-kronen-til-de-tre-rikene
     jogo_engelbrekt: spill-tarnene-pa-fogdenes-slott
     jogo_jonarason: spill-for-i-og-etter-1550
@@ -2467,6 +2506,32 @@ es:
     jogo_kennings: juego-adivinanzas-de-kennings
     jogo_kopakonan: juego-la-piel-de-foca
     jogo_lussi: juego-la-llama-de-lussi
+    jogo_widsith: juego-el-arpa-del-cantor
+    jogo_finnsburg: juego-la-puerta-de-finnsburg
+    jogo_nibelungen: juego-el-tesoro-en-el-rin
+    jogo_franks: juego-las-placas-del-cofre
+    jogo_bjorn: juego-remar-hasta-luni
+    jogo_margrete: juego-un-hecho-un-reino
+    jogo_birger: juego-los-troncos-de-estocolmo
+    jogo_vladimir: juego-los-pechenegos-en-kiev
+    jogo_jordanes: juego-las-pieles-de-scandza
+    jogo_nils: juego-por-los-campos-con-martin
+    jogo_aasen: juego-los-cuadernos-de-aasen
+    jogo_tordenskjold: juego-los-barriles-de-dynekilen
+    jogo_bull: juego-las-notas-de-ole-bull
+    jogo_hidromel: juego-los-tres-tragos
+    jogo_ohthere: juego-los-renos-de-ohthere
+    jogo_rigs: juego-las-tres-casas
+    jogo_kantele: juego-afina-el-kantele
+    jogo_amleth: juego-la-carta-cambiada
+    jogo_brynhildr: juego-el-circulo-de-fuego
+    jogo_cnut: juego-las-olas-de-canuto
+    jogo_groenlandia: juego-la-travesia-del-fiordo
+    jogo_ivar: juego-el-muro-de-escudos
+    jogo_magnus: juego-los-barcos-de-magnus
+    jogo_mara: juego-el-establo-de-la-mara
+    jogo_mjolnir: juego-moscas-en-la-fragua
+    jogo_noaidi: juego-el-tambor-del-noaidi
   curiosidades: []
   interface:
     capa: Portada

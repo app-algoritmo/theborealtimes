@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ivar Beinløs var en av lederne for den store hedenske hæren som invaderte England omkring 865. Muren i spillet er diktet opp.",
     "h1": "Skjold",
     "h2": "Tapte"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El muro de escudos",
+    "sub": "Ivar quiere romper el muro de escudos. Mueve el hacha (arrastra, o usa las flechas) para rebotar la bola y derribar todos los escudos. Si la bola cae tres veces, gana el muro. La bola sale sola pasados dos segundos.",
+    "perdeu": "El muro resistió",
+    "v1": "¡El muro cayó!",
+    "v2": "Ivar el Deshuesado fue uno de los jefes del Gran Ejército pagano que invadió Inglaterra hacia 865. El muro del juego es invención.",
+    "h1": "Escudos",
+    "h2": "Caídas"
   }
 },
   criar: function (api) {

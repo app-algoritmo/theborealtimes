@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Snorres Edda drikker Odin skaldemjøden i tre slurker og tømmer tre kar. Linjen og merkene i spillet er diktet opp.",
     "h1": "Slurker",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los tres tragos",
+    "sub": "Mantén el dedo (o la barra espaciadora) pulsado para que Odín beba: el nivel sube cada vez más rápido. Suelta cuando llegue a la marca dorada. Pasarse o quedarse corto derrama el hidromiel. Vacía los tres recipientes con un máximo de tres errores.",
+    "perdeu": "El hidromiel se derramó",
+    "v1": "¡El águila alza el vuelo!",
+    "v2": "En la Edda en prosa, Odín bebe el hidromiel de los poetas en tres tragos, vaciando tres recipientes. La barra y las marcas del juego son invención.",
+    "h1": "Tragos",
+    "h2": "Errores"
   }
 },
   criar: function (api) {

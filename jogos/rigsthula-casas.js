@@ -46,6 +46,21 @@ BTJogo.registrar({
     "servo": "Trell",
     "camp": "Bonde",
     "jarl": "Jarl"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las tres casas",
+    "sub": "Heimdall, como Ríg, visita tres casas. Cada familia llega con una herramienta: el cesto y la cuerda son de la casa del siervo, el grano y el buey son de la casa del campesino, el escudo y el arco son de la casa del jarl. Toca la casa correcta (o usa las teclas 1, 2 y 3) antes de que se acabe el tiempo. Atiende a doce familias con un máximo de tres errores.",
+    "perdeu": "Se perdió el orden de las casas",
+    "v1": "¡Las tres casas están en orden!",
+    "v2": "En el poema Rígsþula, Heimdall, como Ríg, visita tres casas y da origen al siervo, al campesino y al jarl. Las familias y las herramientas del juego son invención.",
+    "h1": "Familias",
+    "h2": "Errores",
+    "servo": "Siervo",
+    "camp": "Campesino",
+    "jarl": "Jarl"
   }
 },
   criar: function (api) {

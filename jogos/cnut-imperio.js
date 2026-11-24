@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Rike",
     "h2": "Bortkastet",
     "rest": "trekk igjen"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las olas de Canuto",
+    "sub": "Empieza por la esquina de arriba, a la izquierda. En cada jugada, elige un color: tu territorio se vuelve de ese color y se traga las casillas vecinas del mismo color. Cubre todo el tablero antes de que se acaben las jugadas. Una jugada que no se traga nada es en vano.",
+    "perdeu": "Se acabaron las jugadas",
+    "v1": "¡Todo el reino es tuyo!",
+    "v2": "Canuto gobernó Inglaterra, Dinamarca y Noruega. La leyenda de la marea es conocida, pero el rompecabezas es invención del juego.",
+    "h1": "Reino",
+    "h2": "En vano",
+    "rest": "jugadas restantes"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ohthere fortalte kong Alfred at han hadde seks hundre tamme rein. Gjerdet, gjeteren og reinens flukt i spillet er diktet opp.",
     "h1": "Rein",
     "h2": "Tapt"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los renos de Ohthere",
+    "sub": "Arrastra el dedo (o el ratón, o usa las flechas) para mover al pastor. Los renos huyen de quien se acerca, así que ponte detrás de ellos para empujarlos hacia el corral, a la derecha. Salva ocho de diez renos en setenta segundos; si se pierden tres por los bordes, el juego termina.",
+    "perdeu": "El rebaño se dispersó",
+    "v1": "¡El rebaño está en el corral!",
+    "v2": "Ohthere contó al rey Alfredo que tenía seiscientos renos domesticados. El corral, el pastor y la huida de los renos en el juego son invención.",
+    "h1": "Renos",
+    "h2": "Perdidos"
   }
 },
   criar: function (api) {

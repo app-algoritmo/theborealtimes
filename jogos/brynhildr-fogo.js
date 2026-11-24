@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I sagaene sover Brynhild bak en mur av ild. Flammepuslespillet er diktet opp for spillet.",
     "h1": "Runder",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El círculo de fuego",
+    "sub": "Un muro de llamas rodea a Brynhildr. Toca una piedra: ella y sus cuatro vecinas cambian de estado (la encendida se apaga, y viceversa). Apaga todas las llamas, en tres fases cada vez más difíciles, antes de que se acabe el tiempo.",
+    "perdeu": "Las llamas no se apagaron",
+    "v1": "¡El fuego se apagó!",
+    "v2": "En las sagas, Brynhildr duerme dentro de un muro de fuego. El rompecabezas de apagar llamas es invención del juego.",
+    "h1": "Fases",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

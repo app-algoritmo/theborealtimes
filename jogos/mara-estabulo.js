@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I skandinavisk tradisjon er mara en ånd som rir på brystet til folk som sover, og man sier at den floker hestemanker. Spillet er diktet opp.",
     "h1": "Forskjeller",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El establo de la mara",
+    "sub": "Después de la visita de la mara, el establo quedó distinto. Hay cinco diferencias entre los dos dibujos. Toca donde encuentres cada una (o mueve la mira con las flechas y usa la barra espaciadora). Tres toques errados y el juego termina. El tiempo es corto.",
+    "perdeu": "La mara lo revolvió todo",
+    "v1": "¡Todas las diferencias!",
+    "v2": "En la tradición escandinava, la mara es un espíritu que monta sobre el pecho de quien duerme, y dicen que enreda las crines de los caballos. El juego es invención.",
+    "h1": "Diferencias",
+    "h2": "Errores"
   }
 },
   criar: function (api) {
