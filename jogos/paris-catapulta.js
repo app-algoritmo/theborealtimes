@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Under beleiringen i 885–886 forsvarte parisere broen mot en stor vikingflåte. Katapulten og siktingen i spillet er diktet opp.",
     "h1": "Senket",
     "h2": "Forbi"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La catapulta de París",
+    "sub": "Barcos vikingos bajan por el Sena rumbo al puente. Toca el agua para lanzar una piedra: cae al cabo de un instante, así que apunta un poco por delante del barco. Húndelos antes de que pasen tres.",
+    "perdeu": "Los barcos pasaron el puente",
+    "v1": "¡París resistió!",
+    "v2": "En el sitio de 885–886, los parisinos defendieron el puente contra una gran flota vikinga. La catapulta y la puntería del juego son invención.",
+    "h1": "Hundidos",
+    "h2": "Pasaron"
   }
 },
   criar: function (api) {

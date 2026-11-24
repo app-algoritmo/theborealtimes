@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Snorres Edda slikket kua Auðumbla den salte isen, og på tre dager kom Bure til syne, Odins bestefar. Rundene i spillet er diktet opp.",
     "h1": "Runder",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El hielo de Auðumbla",
+    "sub": "Arrastra el dedo (o el ratón; con el teclado, usa las flechas y mantén la barra espaciadora) sobre el hielo para lamerlo y derretirlo. Bajo el hielo hay una forma: primero los cabellos, después la cabeza, por fin el hombre entero. Revela la forma sin derretir demasiado hielo alrededor, en veinticinco segundos por ronda. Con tres rondas perdidas, el juego termina.",
+    "perdeu": "El hielo quedó sin forma",
+    "v1": "¡Búri salió del hielo!",
+    "v2": "En la Edda en prosa, la vaca Auðumbla lamió el hielo salado y, en tres días, surgió Búri, abuelo de Odín. Las rondas del juego son invención.",
+    "h1": "Rondas",
+    "h2": "Errores"
   }
 },
   criar: function (api) {

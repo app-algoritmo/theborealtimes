@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Avstand",
     "h2": "Innhentet",
     "ouro": "gull"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El oro de Hrólf",
+    "sub": "Tres jinetes de Aðils persiguen a Hrólf, uno en cada carril. Toca el carril de uno de ellos (o usa las teclas 1, 2 y 3) para arrojar oro delante de él: se detiene a recogerlo. Tienes diez bolsas. Llega al bosque antes de que te alcancen tres veces.",
+    "perdeu": "Los jinetes alcanzaron a Hrólf",
+    "v1": "¡El bosque!",
+    "v2": "En la Edda en prosa, Hrólf Kraki esparce oro en Fyrisvellir para retrasar a los perseguidores. Los carriles y las bolsas del juego son invención.",
+    "h1": "Distancia",
+    "h2": "Alcances",
+    "ouro": "oro"
   }
 },
   criar: function (api) {

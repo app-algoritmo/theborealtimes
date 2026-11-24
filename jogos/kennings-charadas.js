@@ -169,6 +169,62 @@ BTJogo.registrar({
         "skog"
       ]
     ]
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Adivinanzas de kennings",
+    "sub": "Los escaldos decían las cosas dando rodeos. Lee cada expresión y toca la respuesta correcta (o usa las teclas 1, 2 y 3). Cada adivinanza tiene diez segundos. Son siete; con tres errores el juego termina.",
+    "perdeu": "Al rey no le gustaron los versos",
+    "v1": "¡El rey aplaude!",
+    "v2": "Snorri Sturluson explicó los kennings en la Edda en prosa, hacia 1220. Las adivinanzas del juego usan expresiones de este tipo, escritas para él.",
+    "h1": "Adivinanzas",
+    "h2": "Errores",
+    "q": [
+      [
+        "cabello de Sif",
+        "oro",
+        "trigo",
+        "fuego"
+      ],
+      [
+        "hidromiel de Odín",
+        "poesía",
+        "guerra",
+        "mar"
+      ],
+      [
+        "tempestad de Odín",
+        "batalla",
+        "invierno",
+        "barco"
+      ],
+      [
+        "caballo del mar",
+        "barco",
+        "ballena",
+        "ola"
+      ],
+      [
+        "camino de la ballena",
+        "mar",
+        "puente",
+        "sendero de montaña"
+      ],
+      [
+        "fuego de Ægir",
+        "oro",
+        "sol",
+        "cerveza"
+      ],
+      [
+        "árbol de la batalla",
+        "guerrero",
+        "lanza",
+        "bosque"
+      ]
+    ]
   }
 },
   criar: function (api) {

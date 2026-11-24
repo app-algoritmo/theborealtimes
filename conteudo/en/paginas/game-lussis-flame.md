@@ -15,7 +15,7 @@ card:
 <p class="jogo-nota">Tap the game to open it fullscreen. On a computer, Esc exits; on a phone, use the ✕ button.</p>
 <noscript>This game needs JavaScript.</noscript>
 <script src="/g/tela.js?v=31" defer></script>
-<script src="/g/lussi-chama.js?v=1" defer></script>
+<script src="/g/lussi-chama.js?v=2" defer></script>
 
 ## How to play
 

@@ -49,6 +49,22 @@ BTJogo.registrar({
     "n2": "Vann",
     "n3": "Mat",
     "n4": "Kappe"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Huéspedes en el salón",
+    "sub": "Los huéspedes llegan al salón y cada uno pide algo: fuego, agua, comida o un manto seco. Toca el objeto correcto (o usa las teclas 1 a 4) para atender a quien lleva más tiempo esperándolo. Un objeto equivocado o una espera demasiado larga cuentan como error. Atiende a doce huéspedes con un máximo de tres errores.",
+    "perdeu": "Los huéspedes se fueron",
+    "v1": "¡El salón está en paz!",
+    "v2": "El poema Hávamál pide al anfitrión fuego, agua, comida y ropa seca para quien llega de fuera. Los huéspedes y las esperas del juego son invención.",
+    "h1": "Atendidos",
+    "h2": "Errores",
+    "n1": "Fuego",
+    "n2": "Agua",
+    "n3": "Comida",
+    "n4": "Manto"
   }
 },
   criar: function (api) {

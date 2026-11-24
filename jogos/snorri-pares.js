@@ -34,6 +34,17 @@ BTJogo.registrar({
     "v1": "En skalds hukommelse!",
     "v2": "Snorre Sturlason samlet de norrøne mytene i Snorres Edda rundt 1220. Kortene og trekkene i spillet er diktet opp.",
     "h1": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los pares de Snorri",
+    "sub": "Con las cartas boca abajo, encuentra los seis pares de runas. Toca dos cartas cada vez; si son iguales, quedan abiertas. Tienes catorce jugadas para probar la memoria de un escaldo.",
+    "perdeu": "La memoria falló",
+    "v1": "¡Memoria de escaldo!",
+    "v2": "Snorri Sturluson reunió los mitos nórdicos en la Edda en prosa, hacia 1220. Las cartas y las jugadas del juego son invención.",
+    "h1": "Jugadas"
   }
 },
   criar: function (api) {

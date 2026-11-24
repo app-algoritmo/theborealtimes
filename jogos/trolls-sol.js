@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I skandinaviske eventyr blir troll til stein hvis sola når dem. Det er et vanlig motiv; hulene og kappløpet er diktet opp for spillet.",
     "h1": "I sikkerhet",
     "h2": "Stein"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Antes de que salga el sol",
+    "sub": "El sol avanza de derecha a izquierda. Toca a cada troll para mandarlo corriendo hasta las cuevas, a la izquierda, antes de que la luz lo alcance y lo convierta en piedra. Salva nueve de los doce trolls.",
+    "perdeu": "Demasiados trolls se volvieron piedra",
+    "v1": "¡Los trolls están a salvo!",
+    "v2": "En los cuentos escandinavos, los trolls se vuelven piedra si los alcanza el sol. Es un motivo común; las cuevas y la carrera son invención del juego.",
+    "h1": "A salvo",
+    "h2": "Piedra"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I de norrøne kildene former nornene skjebnen ved Urds brønn. Båndet og tråden i spillet er diktet opp.",
     "h1": "Tråd",
     "h2": "Spenning"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El hilo de las nornas",
+    "sub": "Arrastra el dedo (o el ratón, o usa las flechas) hacia arriba y hacia abajo y mantén la punta del hilo dentro de la franja dorada que ondula. Si el hilo se queda suelto demasiado tiempo, se rompe.",
+    "perdeu": "El hilo se rompió",
+    "v1": "¡El hilo está tejido!",
+    "v2": "En las fuentes nórdicas, las nornas moldean el destino junto al pozo de Urðr. La franja y el hilo del juego son invención.",
+    "h1": "Hilo",
+    "h2": "Tensión"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I den færøyske legenden om Kópakonan finner selkvinnen det skjulte skinnet og vender tilbake til havet. Perlene, krokene og steinene i spillet er diktet opp.",
     "h1": "Perler",
     "h2": "Støt"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La piel de foca",
+    "sub": "La mujer foca vuelve al mar. Arrastra el dedo (o el ratón, o usa las flechas) hacia arriba y hacia abajo y nada entre los peligros. Recoge ocho perlas y esquiva los anzuelos y las rocas. Con tres golpes, el juego termina.",
+    "perdeu": "La foca quedó atrapada",
+    "v1": "¡De vuelta al mar!",
+    "v2": "En la leyenda feroesa de la Kópakonan, la mujer foca encuentra la piel escondida y vuelve al mar. Las perlas, los anzuelos y las rocas del juego son invención.",
+    "h1": "Perlas",
+    "h2": "Golpes"
   }
 },
   criar: function (api) {

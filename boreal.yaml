@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_kalmar: jogo-os-blocos-da-coroa-dos-tres-reinos
+    jogo_engelbrekt: jogo-as-torres-dos-castelos-dos-bailios
+    jogo_jonarason: jogo-antes-em-e-depois-de-1550
+    jogo_somerled: jogo-os-golpes-da-noite-da-epifania
+    jogo_seydabrev: jogo-ovelhas-terra-e-mar
+    jogo_olavsoka: jogo-o-ritmo-da-regata
+    jogo_borgund: jogo-as-tabuas-da-igreja
+    jogo_fastelavn: jogo-os-doces-do-barril-do-gato
+    jogo_hekla: jogo-as-ovelhas-e-a-chuva-de-cinzas
+    jogo_thorlaks: jogo-a-raia-e-as-velas-de-kertasnikir
+    jogo_stortebeker: jogo-os-golpes-da-abordagem
+    jogo_gustavvasa: jogo-a-fuga-de-esquis
+    jogo_odainsakr: jogo-o-mel-do-paraiso
     jogo_dannebrog: jogo-o-ritmo-dos-bracos-do-bispo
     jogo_marsk: jogo-a-fuga-para-hjelm
     jogo_galdra: jogo-fato-lenda-e-peca
@@ -1192,6 +1205,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_kalmar: game-the-blocks-of-the-three-realm-crown
+    jogo_engelbrekt: game-the-towers-of-the-bailiffs-castles
+    jogo_jonarason: game-before-in-and-after-1550
+    jogo_somerled: game-the-blows-of-epiphany-night
+    jogo_seydabrev: game-sheep-land-and-sea
+    jogo_olavsoka: game-the-rhythm-of-the-regatta
+    jogo_borgund: game-the-planks-of-the-church
+    jogo_fastelavn: game-the-sweets-from-the-cat-barrel
+    jogo_hekla: game-the-sheep-and-the-rain-of-ash
+    jogo_thorlaks: game-the-skate-and-kertasnikir-s-candles
+    jogo_stortebeker: game-the-blows-of-the-boarding
+    jogo_gustavvasa: game-the-flight-on-skis
+    jogo_odainsakr: game-the-honey-of-paradise
     jogo_dannebrog: game-the-rhythm-of-the-bishop-s-arms
     jogo_marsk: game-the-flight-to-hjelm
     jogo_galdra: game-fact-legend-and-play
@@ -1885,6 +1911,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_kalmar: spill-blokkene-i-kronen-til-de-tre-rikene
+    jogo_engelbrekt: spill-tarnene-pa-fogdenes-slott
+    jogo_jonarason: spill-for-i-og-etter-1550
+    jogo_somerled: spill-slagene-i-helligtrekongersnatten
+    jogo_seydabrev: spill-sauer-land-og-hav
+    jogo_olavsoka: spill-rytmen-i-regattaen
+    jogo_borgund: spill-plankene-i-kirken
+    jogo_fastelavn: spill-godteriet-fra-kattetonna
+    jogo_hekla: spill-sauene-og-askeregnet
+    jogo_thorlaks: spill-skaten-og-kertasnikirs-lys
+    jogo_stortebeker: spill-slagene-under-entringen
+    jogo_gustavvasa: spill-flukten-pa-ski
+    jogo_odainsakr: spill-honningen-i-paradis
     jogo_dannebrog: spill-biskopens-armer-i-takt
     jogo_marsk: spill-flukten-til-hjelm
     jogo_galdra: spill-fakta-legende-og-skuespill
@@ -2402,6 +2441,32 @@ es:
     jogo_hedeby: juego-el-puerto-de-hedeby
     jogo_bifrost: juego-los-colores-de-bifrost
     jogo_fadlan: juego-el-relato-de-ibn-fadlan
+    jogo_kalmar: juego-los-bloques-de-la-corona-de-los-tres-reinos
+    jogo_engelbrekt: juego-las-torres-de-los-castillos-de-los-bailios
+    jogo_jonarason: juego-antes-de-en-y-despues-de-1550
+    jogo_somerled: juego-los-golpes-de-la-noche-de-epifania
+    jogo_seydabrev: juego-ovejas-tierra-y-mar
+    jogo_olavsoka: juego-el-ritmo-de-la-regata
+    jogo_borgund: juego-los-tablones-de-la-iglesia
+    jogo_fastelavn: juego-los-dulces-del-barril-del-gato
+    jogo_hekla: juego-las-ovejas-y-la-lluvia-de-ceniza
+    jogo_thorlaks: juego-la-raya-y-las-velas-de-kertasnikir
+    jogo_stortebeker: juego-los-golpes-del-abordaje
+    jogo_gustavvasa: juego-la-huida-en-esquis
+    jogo_odainsakr: juego-la-miel-del-paraiso
+    jogo_nornas: juego-el-hilo-de-las-nornas
+    jogo_paris: juego-la-catapulta-de-paris
+    jogo_snorri: juego-los-pares-de-snorri
+    jogo_trolls: juego-antes-de-que-salga-el-sol
+    jogo_audumbla: juego-el-hielo-de-audumbla
+    jogo_beowulf: juego-el-brazo-de-grendel
+    jogo_halfdan: juego-runas-en-santa-sofia
+    jogo_havamal: juego-huespedes-en-el-salon
+    jogo_hrolf: juego-el-oro-de-hrolf
+    jogo_ingolfr: juego-los-pilares-de-ingolfr
+    jogo_kennings: juego-adivinanzas-de-kennings
+    jogo_kopakonan: juego-la-piel-de-foca
+    jogo_lussi: juego-la-llama-de-lussi
   curiosidades: []
   interface:
     capa: Portada

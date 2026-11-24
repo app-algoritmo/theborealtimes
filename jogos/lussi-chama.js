@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I norsk og svensk folketro var natten til 13. desember årets lengste og farligste. Vinden og ferden i spillet er diktet opp.",
     "h1": "Skritt",
     "h2": "Slokket"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La llama de Lussi",
+    "sub": "Cruza el patio con la vela hasta la casa. Cuando el viento avise, mantén el dedo (o la barra espaciadora) para proteger la llama con las manos, y suelta para andar de nuevo. Las manos se cansan si se quedan cerradas demasiado tiempo. Si la llama se apaga tres veces, el juego termina.",
+    "perdeu": "La llama se apagó",
+    "v1": "¡La casa está iluminada!",
+    "v2": "En la tradición popular de Noruega y Suecia, la noche del 13 de diciembre era la más larga y peligrosa del año. El viento y la travesía del juego son invención.",
+    "h1": "Pasos",
+    "h2": "Se apagó"
   }
 },
   criar: function (api) {

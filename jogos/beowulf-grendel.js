@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I diktet Beowulf kjemper helten ubevæpnet mot Grendel i hallen Heorot og river av monsterets arm. Kraftprøven i spillet er diktet opp.",
     "h1": "Arm",
     "h2": "Sklier"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El brazo de Grendel",
+    "sub": "Beowulf sujeta el brazo de Grendel sin ningún arma. Toca rápido (o machaca la barra espaciadora) para tirar. Cuando el monstruo se debata, la pantalla avisa y después tiembla: en ese momento, ¡no tires! Tirar durante el tirón hace resbalar a Beowulf. Arranca el brazo antes de tres resbalones.",
+    "perdeu": "Grendel escapó",
+    "v1": "¡El brazo fue arrancado!",
+    "v2": "En el poema Beowulf, el héroe lucha sin armas contra Grendel en el salón de Heorot y le arranca el brazo al monstruo. La lucha de fuerza del juego es invención.",
+    "h1": "Brazo",
+    "h2": "Resbalones"
   }
 },
   criar: function (api) {

@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Treff",
     "h2": "Feil",
     "vento": "vind"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los pilares de Ingólfr",
+    "sub": "Toca (o usa la barra espaciadora) para lanzar el pilar. El marcador en el agua muestra dónde caería sin viento; la flecha muestra hacia dónde lo empuja el viento. Acierta en la bahía dorada cuatro veces, con un máximo de tres fallos.",
+    "perdeu": "Los pilares se perdieron en el mar",
+    "v1": "¡Tierra a la vista!",
+    "v2": "Según el Libro de los Asentamientos, Ingólfr lanzó los pilares al mar y se instaló donde se detuvieron. La bahía, el viento y el marcador del juego son invención.",
+    "h1": "Aciertos",
+    "h2": "Errores",
+    "vento": "viento"
   }
 },
   criar: function (api) {

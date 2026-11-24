@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I et galleri i Hagia Sofia finnes en runeinnskrift tilskrevet en mann ved navn Halvdan. Marmoret, rissene og de fem runene i spillet er diktet opp.",
     "h1": "Runer",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Runas en Santa Sofía",
+    "sub": "El parapeto de mármol está cubierto de rayas de visitantes. Entre ellas hay cinco runas verdaderas, de trazos rectos con un asta. Tócalas. Cada toque errado cuenta como error, y los guardias llegan en cincuenta segundos.",
+    "perdeu": "Llegaron los guardias",
+    "v1": "¡Cinco runas encontradas!",
+    "v2": "En una galería de Santa Sofía hay una inscripción en runas atribuida a un tal Halfdan. El mármol, las rayas y las cinco runas del juego son invención.",
+    "h1": "Runas",
+    "h2": "Errores"
   }
 },
   criar: function (api) {
