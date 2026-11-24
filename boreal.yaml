@@ -40,7 +40,7 @@ site:
 # Medição — consentimento negado por padrão; a CMP do AdSense atualiza
 # ------------------------------------------------------------
 medicao:
-  ga4: "G-F8DGD8SR0E"
+  ga4: "G-12VY3Y5S1L"
   verificacao_google: ""   # preencher depois do site no ar
   verificacao_bing: ""
 
