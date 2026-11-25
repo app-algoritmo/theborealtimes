@@ -3,7 +3,7 @@ titulo: "Gleipnir, la cinta imposible"
 resumo: "Juego: reúne las seis cosas que no existen para que los enanos hagan Gleipnir y luego sujeta la cinta en el punto justo para atar al lobo Fenrir."
 olho: Juego
 card:
-  imagem: fenrir-gleipnir
+  imagem: fenrir-gleipnir-2
   cor: mitos
   secao: "Mitos y dioses"
   tipo: "⛓️ Tensión"

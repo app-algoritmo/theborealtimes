@@ -3,7 +3,7 @@ titulo: "Gleipne, det umulige båndet"
 resumo: "Spill: samle de seks tingene som ikke finnes lenger slik at dvergene kan lage Gleipne, og hold så båndet i riktig spenning for å binde ulven Fenrir."
 olho: Spill
 card:
-  imagem: fenrir-gleipnir
+  imagem: fenrir-gleipnir-2
   cor: mitos
   secao: "Myter og guder"
   tipo: "⛓️ Spenning"

@@ -3,7 +3,7 @@ titulo: "Gleipnir, the impossible ribbon"
 resumo: "Game: gather the six things that no longer exist so the dwarfs can make Gleipnir, then hold the ribbon at the right tension to bind the wolf Fenrir."
 olho: Game
 card:
-  imagem: fenrir-gleipnir
+  imagem: fenrir-gleipnir-2
   cor: mitos
   secao: "Myths & Gods"
   tipo: "⛓️ Tension"
