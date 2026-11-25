@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Runder",
     "h2": "Tid",
     "dica": "brett"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La balanza de la paz",
+    "sub": "Æsir y Vanir hacen las paces intercambiando regalos. Toca un regalo para moverlo: bandeja, plato izquierdo, plato derecho. Reparte todos los regalos de modo que los dos platos pesen lo mismo. Son tres rondas, y el tiempo es corto.",
+    "perdeu": "La paz no llegó a tiempo",
+    "v1": "¡Se hizo la paz!",
+    "v2": "Según Snorri, Æsir y Vanir hicieron la paz e intercambiaron rehenes. La balanza y los regalos son invención del juego.",
+    "h1": "Rondas",
+    "h2": "Tiempo",
+    "dica": "bandeja"
   }
 },
   criar: function (api) {

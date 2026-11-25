@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ved Fitjar, omkring 961, beseiret kong Håkon Eiriks sønner, ifølge tradisjonen. Skjoldryddingen er diktet opp for spillet.",
     "h1": "Fjernet",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los escudos de Fitjar",
+    "sub": "Los escudos cubren la playa después de la batalla. Toca un grupo de dos o más escudos del mismo color, vecinos, para retirarlos; los de arriba caen. Retira al menos treinta y nueve de los cuarenta y nueve antes de que se acabe el tiempo. Sin grupos, el juego termina.",
+    "perdeu": "Los escudos se quedaron en la playa",
+    "v1": "¡La playa está limpia!",
+    "v2": "En Fitjar, hacia 961, el rey Håkon derrotó a los hijos de Eirik, según la tradición. La limpieza de los escudos es invención del juego.",
+    "h1": "Retirados",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

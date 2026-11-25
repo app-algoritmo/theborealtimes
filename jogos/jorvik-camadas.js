@@ -43,6 +43,20 @@ BTJogo.registrar({
     "h2": "Skader",
     "modoC": "Grave",
     "modoM": "Markere"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las capas de Jórvík",
+    "sub": "Excavas una parcela de Jórvík, en York. Toca una casilla para excavar. El número indica cuántas capas frágiles hay en las casillas vecinas. Romper una capa frágil causa un daño, y al tercer daño la excavación se interrumpe. Excava las 50 casillas seguras. El botón de abajo alterna entre excavar y marcar.",
+    "perdeu": "La excavación se interrumpió",
+    "v1": "¡La excavación está completa!",
+    "v2": "En Coppergate, en York, las excavaciones de 1976 a 1981 revelaron casas y talleres de la Jórvík vikinga. Las capas frágiles del juego son invención.",
+    "h1": "Hallazgos",
+    "h2": "Daños",
+    "modoC": "Excavar",
+    "modoM": "Marcar"
   }
 },
   criar: function (api) {

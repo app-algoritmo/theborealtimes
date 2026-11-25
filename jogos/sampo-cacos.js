@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala går Sampo i stykker på havet, og bitene gir Finland overflod. Puslespillet er diktet opp for spillet.",
     "h1": "Brikker",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los fragmentos del Sampo",
+    "sub": "El Sampo se rompió en nueve pedazos y uno de ellos desapareció en el mar. Toca una pieza junto al hueco para deslizarla (o usa las flechas) y recompón la imagen antes de que se acabe el tiempo.",
+    "perdeu": "El Sampo se perdió entre las olas",
+    "v1": "¡El Sampo está entero!",
+    "v2": "En el Kalevala, el Sampo se rompe en el mar y los fragmentos traen abundancia a Finlandia. El rompecabezas es invención del juego.",
+    "h1": "Piezas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

@@ -15,7 +15,7 @@ card:
 <p class="jogo-nota">Trykk på spillet for å åpne det på hel skjerm. På datamaskin avslutter du med Esc; på mobil bruker du ✕-knappen.</p>
 <noscript>Dette spillet krever JavaScript.</noscript>
 <script src="/g/tela.js?v=31" defer></script>
-<script src="/g/rollo-sena.js?v=1" defer></script>
+<script src="/g/rollo-sena.js?v=2" defer></script>
 
 ## Slik spiller du
 

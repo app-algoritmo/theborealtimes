@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Nivåer",
     "h2": "Tid",
     "dica": "R starter nivået på nytt"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El escondite de Gísli",
+    "sub": "Gísli, proscrito, cierra el escondite con piedras. Empuja cada piedra hasta una marca del suelo. Solo se puede empujar, nunca tirar. Flechas, WASD o toque junto al héroe para andar; R reinicia el nivel. Son tres niveles y el tiempo es limitado.",
+    "perdeu": "Los perseguidores llegaron antes",
+    "v1": "¡El escondite está cerrado!",
+    "v2": "En la saga de Gísli, el héroe vive años como proscrito en Islandia. Las piedras y los niveles del juego son invención.",
+    "h1": "Niveles",
+    "h2": "Tiempo",
+    "dica": "R reinicia el nivel"
   }
 },
   criar: function (api) {

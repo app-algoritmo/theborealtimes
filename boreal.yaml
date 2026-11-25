@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_skarphedinn: jogo-o-gelo-do-markarfljot
+    jogo_karisolm: jogo-cada-momento-um-capitulo
+    jogo_gutasaga: jogo-cada-trecho-sua-parte
+    jogo_visby: jogo-o-campo-de-gotland
+    jogo_hrafnagaldr: jogo-o-canto-do-corvo
+    jogo_geri: jogo-a-carne-dos-lobos
+    jogo_bjorketorp: jogo-as-runas-de-bjorketorp
+    jogo_illerup: jogo-as-lancas-do-lago
+    jogo_dumbarton: jogo-a-rocha-de-alt-clut
+    jogo_edmund: jogo-as-moedas-do-rei-edmundo
+    jogo_danca: jogo-os-passos-da-roda
+    jogo_kirkegrim: jogo-a-fundacao-da-igreja
+    jogo_helhest: jogo-aveia-para-a-morte
     jogo_widsith: jogo-a-harpa-do-cantor
     jogo_finnsburg: jogo-a-porta-de-finnsburg
     jogo_nibelungen: jogo-o-tesouro-no-reno
@@ -1218,6 +1231,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_skarphedinn: game-the-ice-of-the-markarfljot
+    jogo_karisolm: game-one-moment-one-chapter
+    jogo_gutasaga: game-one-passage-one-part
+    jogo_visby: game-the-field-of-gotland
+    jogo_hrafnagaldr: game-the-raven-s-chant
+    jogo_geri: game-the-meat-of-the-wolves
+    jogo_bjorketorp: game-the-runes-of-bjorketorp
+    jogo_illerup: game-the-spears-of-the-lake
+    jogo_dumbarton: game-the-rock-of-alt-clut
+    jogo_edmund: game-king-edmund-s-coins
+    jogo_danca: game-the-steps-of-the-ring
+    jogo_kirkegrim: game-the-foundation-of-the-church
+    jogo_helhest: game-oats-for-death
     jogo_widsith: game-the-singer-s-harp
     jogo_finnsburg: game-the-door-of-finnsburg
     jogo_nibelungen: game-the-treasure-in-the-rhine
@@ -1937,6 +1963,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_skarphedinn: spill-isen-pa-markarfljot
+    jogo_karisolm: spill-ett-oyeblikk-ett-kapittel
+    jogo_gutasaga: spill-ett-avsnitt-en-del
+    jogo_visby: spill-marka-pa-gotland
+    jogo_hrafnagaldr: spill-ravnens-galder
+    jogo_geri: spill-ulvenes-kjott
+    jogo_bjorketorp: spill-runene-i-bjorketorp
+    jogo_illerup: spill-spydene-i-sjoen
+    jogo_dumbarton: spill-klippen-i-alt-clut
+    jogo_edmund: spill-kong-edmunds-mynter
+    jogo_danca: spill-trinnene-i-ringen
+    jogo_kirkegrim: spill-kirkens-grunnmur
+    jogo_helhest: spill-havre-til-doden
     jogo_widsith: spill-sangerens-harpe
     jogo_finnsburg: spill-dora-i-finnsburg
     jogo_nibelungen: spill-skatten-i-rhinen
@@ -2532,6 +2571,32 @@ es:
     jogo_mara: juego-el-establo-de-la-mara
     jogo_mjolnir: juego-moscas-en-la-fragua
     jogo_noaidi: juego-el-tambor-del-noaidi
+    jogo_skarphedinn: juego-el-hielo-del-markarfljot
+    jogo_karisolm: juego-cada-momento-un-capitulo
+    jogo_gutasaga: juego-cada-pasaje-su-parte
+    jogo_visby: juego-el-campo-de-gotland
+    jogo_hrafnagaldr: juego-el-canto-del-cuervo
+    jogo_geri: juego-la-carne-de-los-lobos
+    jogo_bjorketorp: juego-las-runas-de-bjorketorp
+    jogo_illerup: juego-las-lanzas-del-lago
+    jogo_dumbarton: juego-la-roca-de-alt-clut
+    jogo_edmund: juego-las-monedas-del-rey-edmundo
+    jogo_danca: juego-los-pasos-del-corro
+    jogo_kirkegrim: juego-los-cimientos-de-la-iglesia
+    jogo_helhest: juego-avena-para-la-muerte
+    jogo_rollo: juego-el-curso-del-sena
+    jogo_sampo: juego-los-fragmentos-del-sampo
+    jogo_uphellyaa: juego-la-galera-de-up-helly-aa
+    jogo_volund: juego-las-plumas-del-herrero
+    jogo_aesir: juego-la-balanza-de-la-paz
+    jogo_alfablot: juego-el-alfablot
+    jogo_clontarf: juego-la-marea-de-clontarf
+    jogo_gefjon: juego-la-tierra-de-gefjon
+    jogo_gisli: juego-el-escondite-de-gisli
+    jogo_hakon: juego-los-escudos-de-fitjar
+    jogo_hjadningavig: juego-la-batalla-sin-fin
+    jogo_hrungnir: juego-los-fragmentos-de-hrungnir
+    jogo_jorvik: juego-las-capas-de-jorvik
   curiosidades: []
   interface:
     capa: Portada

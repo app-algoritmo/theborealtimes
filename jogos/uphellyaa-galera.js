@@ -43,6 +43,20 @@ BTJogo.registrar({
     "h2": "Feil",
     "pecas": "Deler",
     "lugares": "Plasser"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La galera de Up Helly Aa",
+    "sub": "Monta la galera para la fiesta. Arrastra cada pieza (o elige con las flechas y usa la barra espaciadora) hasta su lugar en el dibujo. Una pieza en el lugar equivocado es un error: tres y el juego termina. El tiempo es corto.",
+    "perdeu": "La galera no quedó lista",
+    "v1": "¡La galera está lista!",
+    "v2": "En Up Helly Aa, en Lerwick, en las Shetland, se quema una galera cada invierno en un festival de fuego. El montaje del juego es invención.",
+    "h1": "Piezas",
+    "h2": "Errores",
+    "pecas": "Piezas",
+    "lugares": "Lugares"
   }
 },
   criar: function (api) {

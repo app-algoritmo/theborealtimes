@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Fjær",
     "h2": "Bortkastet",
     "dica": "fra korteste til lengste"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las plumas del herrero",
+    "sub": "Völund necesita poner las plumas de las alas en orden, de la más corta a la más larga. Toca una pluma y luego otra para intercambiarlas (o usa las flechas y la barra espaciadora). Un intercambio que no deja ninguna pluma en su sitio es en vano: tres y el juego termina.",
+    "perdeu": "Las alas no quedaron listas",
+    "v1": "¡Völund vuela!",
+    "v2": "En el poema, Völund huye por los aires tras años preso en la isla. Las plumas y los intercambios son invención del juego.",
+    "h1": "Plumas",
+    "h2": "En vano",
+    "dica": "de la más corta a la más larga"
   }
 },
   criar: function (api) {

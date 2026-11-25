@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Skáldskaparmál kjemper hjadningene uten ende, natt etter natt. Kampen i spillet er diktet opp.",
     "h1": "Poeng",
     "h2": "Sluppet inn"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La batalla sin fin",
+    "sub": "Hild y los Hjaðningar luchan sin parar. Mueve tu hoja (arrastra, flechas o W y S) para devolver el golpe. Quien acierta en el otro lado gana un punto; el primero en llegar a siete gana. Al tercer golpe que pase por tu lado, el juego termina.",
+    "perdeu": "El golpe pasó, y la batalla siguió",
+    "v1": "¡La batalla terminó, por hoy!",
+    "v2": "Según el Skáldskaparmál, los Hjaðningar luchan sin fin, noche tras noche. La partida del juego es invención.",
+    "h1": "Puntos",
+    "h2": "Recibidos"
   }
 },
   criar: function (api) {

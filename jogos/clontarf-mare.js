@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Slaget ved Clontarf stod i 1014, nær Dublin. Skipsjakten er diktet opp for spillet.",
     "h1": "Skip",
     "h2": "Feilskudd"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La marea de Clontarf",
+    "sub": "Los barcos nórdicos huyen por el estuario con la marea. Toca una casilla del agua para lanzar una flecha incendiaria: fallo, acierto o barco hundido. Hunde los tres barcos, de cuatro, tres y dos casillas. En la flecha perdida número veinticinco, la marea se lleva la flota.",
+    "perdeu": "La marea se llevó la flota",
+    "v1": "¡Los barcos se fueron a pique!",
+    "v2": "La batalla de Clontarf se libró en 1014, cerca de Dublín. La caza de barcos es invención del juego.",
+    "h1": "Barcos",
+    "h2": "Fallos"
   }
 },
   criar: function (api) {

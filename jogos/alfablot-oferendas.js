@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Stier",
     "h2": "Tid",
     "dica": "dekk alle rutene"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El Álfablót",
+    "sub": "Cada ofrenda tiene un altar del mismo color. Arrastra desde una ofrenda hasta su altar, formando un camino; los caminos no pueden cruzarse, y pasar por encima de otro lo corta. Cubre todas las casillas del campo. El tiempo es limitado.",
+    "perdeu": "El banquete pasó sin las ofrendas",
+    "v1": "¡Los álfar fueron honrados!",
+    "v2": "El Álfablót es una ofrenda a los elfos, citada en la poesía de Sigvatr Þórðarson. Los caminos del juego son invención.",
+    "h1": "Caminos",
+    "h2": "Tiempo",
+    "dica": "cubre todas las casillas"
   }
 },
   criar: function (api) {

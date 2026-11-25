@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Snorre ble et skår av Hrungnes bryne sittende fast i hodet til Tor. Skårregnet er diktet opp for spillet.",
     "h1": "Skår",
     "h2": "Mistet"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los fragmentos de Hrungnir",
+    "sub": "El gigante de piedra se hace pedazos, y los fragmentos vuelan. Pasa el dedo (o el ratón) por encima de ellos para cortarlos; con el teclado, mueve la mira y usa la barra espaciadora. Corta veinticinco fragmentos. Si caen tres, el juego termina.",
+    "perdeu": "Los fragmentos cayeron sobre el dios",
+    "v1": "¡El gigante cayó!",
+    "v2": "Según Snorri, un fragmento de la piedra de afilar de Hrungnir quedó clavado en la cabeza de Thor. La lluvia de fragmentos es invención del juego.",
+    "h1": "Fragmentos",
+    "h2": "Perdidos"
   }
 },
   criar: function (api) {

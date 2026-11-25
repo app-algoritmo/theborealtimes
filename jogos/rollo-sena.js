@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Rollo og mennene hans slo seg ned ved nedre Seine, og Normandie vokste frem derfra. Elvepuslespillet er diktet opp for spillet.",
     "h1": "Elver",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El curso del Sena",
+    "sub": "Gira los tramos del río, de uno en uno (o usa las flechas y la barra espaciadora), hasta que el agua salga del nacimiento, a la izquierda, y llegue al mar, a la derecha. Son tres ríos, y el tiempo es corto.",
+    "perdeu": "El agua no llegó al mar",
+    "v1": "¡El agua llegó al mar!",
+    "v2": "Rollón y sus hombres se instalaron en el curso bajo del Sena, y de ahí nació Normandía. El rompecabezas del río es invención del juego.",
+    "h1": "Ríos",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

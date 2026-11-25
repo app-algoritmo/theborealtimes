@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Tomter",
     "h2": "Feil",
     "dica": "trykk på en tomt for å angre"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La tierra de Gefjon",
+    "sub": "Gefjon quiere cortar la tierra en parcelas. Arrastra de una casilla a otra para marcar un rectángulo (o usa las flechas y la barra espaciadora en las dos esquinas). Cada rectángulo debe tener un solo número, igual a su área. Cubre todo el suelo. Al cuarto error el juego termina.",
+    "perdeu": "El arado se perdió en medio de la tierra",
+    "v1": "¡La isla está cortada!",
+    "v2": "Según Snorri, Gefjon aró una isla entera en una noche. La división en parcelas es invención del juego.",
+    "h1": "Parcelas",
+    "h2": "Errores",
+    "dica": "toca una parcela para deshacer"
   }
 },
   criar: function (api) {
