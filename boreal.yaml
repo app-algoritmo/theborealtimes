@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_flugumyri: jogo-a-noite-de-flugumyri
+    jogo_haugsnes: jogo-as-pedras-de-haugsnes
+    jogo_hrafn: jogo-a-vida-de-hrafn
+    jogo_havardar: jogo-os-golpes-da-vinganca
+    jogo_ogmundr: jogo-a-carroca-na-nevasca
+    jogo_iona: jogo-a-pena-dos-copistas
+    jogo_waterford: jogo-a-torre-de-reginald
+    jogo_vestmannaeyjar: jogo-a-fuga-pela-praia
+    jogo_knattleikr: jogo-as-bolas-do-campo
+    jogo_hrimgerdr: jogo-os-raios-do-amanhecer
+    jogo_eikthyrnir: jogo-as-gotas-de-hvergelmir
+    jogo_sjoorm: jogo-o-ritmo-dos-remos
+    jogo_olelukoje: jogo-o-leite-doce-de-ole
     jogo_melkorka: jogo-cada-passo-seu-lugar
     jogo_kveldulf: jogo-os-golpes-da-noite
     jogo_hjalti: jogo-a-lei-unica
@@ -1244,6 +1257,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_flugumyri: game-the-night-of-flugumyri
+    jogo_haugsnes: game-the-stones-of-haugsnes
+    jogo_hrafn: game-hrafn-s-life
+    jogo_havardar: game-the-blows-of-vengeance
+    jogo_ogmundr: game-the-wagon-in-the-blizzard
+    jogo_iona: game-the-scribes-quill
+    jogo_waterford: game-reginald-s-tower
+    jogo_vestmannaeyjar: game-the-flight-along-the-beach
+    jogo_knattleikr: game-the-balls-of-the-field
+    jogo_hrimgerdr: game-the-rays-of-dawn
+    jogo_eikthyrnir: game-the-drops-of-hvergelmir
+    jogo_sjoorm: game-the-rhythm-of-the-oars
+    jogo_olelukoje: game-ole-s-sweet-milk
     jogo_melkorka: game-each-step-in-its-place
     jogo_kveldulf: game-the-blows-of-the-night
     jogo_hjalti: game-the-single-law
@@ -1989,6 +2015,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_flugumyri: spill-natten-pa-flugumyri
+    jogo_haugsnes: spill-steinene-pa-haugsnes
+    jogo_hrafn: spill-hrafns-liv
+    jogo_havardar: spill-hevnens-slag
+    jogo_ogmundr: spill-vogna-i-snostormen
+    jogo_iona: spill-skrivernes-penn
+    jogo_waterford: spill-reginalds-tarn
+    jogo_vestmannaeyjar: spill-flukten-langs-stranda
+    jogo_knattleikr: spill-ballene-pa-banen
+    jogo_hrimgerdr: spill-daggryets-straler
+    jogo_eikthyrnir: spill-drapene-i-hvergelmir
+    jogo_sjoorm: spill-aretakten
+    jogo_olelukoje: spill-oles-sote-melk
     jogo_melkorka: spill-hvert-steg-pa-sin-plass
     jogo_kveldulf: spill-nattens-slag
     jogo_hjalti: spill-den-ene-loven
@@ -2662,6 +2701,32 @@ es:
     jogo_ingvar: juego-las-runas-en-la-piedra
     jogo_jolakotturinn: juego-ovillos-antes-que-el-gato
     jogo_orvar: juego-los-anos-de-odd
+    jogo_flugumyri: juego-la-noche-de-flugumyri
+    jogo_haugsnes: juego-las-piedras-de-haugsnes
+    jogo_hrafn: juego-la-vida-de-hrafn
+    jogo_havardar: juego-los-golpes-de-la-venganza
+    jogo_ogmundr: juego-el-carro-en-la-ventisca
+    jogo_iona: juego-la-pluma-de-los-copistas
+    jogo_waterford: juego-la-torre-de-reginald
+    jogo_vestmannaeyjar: juego-la-huida-por-la-playa
+    jogo_knattleikr: juego-las-pelotas-del-campo
+    jogo_hrimgerdr: juego-los-rayos-del-amanecer
+    jogo_eikthyrnir: juego-las-gotas-de-hvergelmir
+    jogo_sjoorm: juego-el-ritmo-de-los-remos
+    jogo_olelukoje: juego-la-leche-dulce-de-ole
+    jogo_ribe: juego-carros-en-el-mercado-de-ribe
+    jogo_geirrod: juego-las-barras-de-geirrodr
+    jogo_tynwald: juego-los-escalones-de-la-colina
+    jogo_vafthrudnir: juego-el-duelo-de-las-piedras
+    jogo_aurora: juego-las-luces-del-cielo
+    jogo_danevirke: juego-el-muro-del-danevirke
+    jogo_dublin: juego-las-parcelas-de-dublin
+    jogo_fridtjof: juego-ellide-en-la-tempestad
+    jogo_gosforth: juego-el-entrelazado-de-la-cruz
+    jogo_nordenvinden: juego-el-baston-del-viento-del-norte
+    jogo_jomsborg: juego-los-muros-de-jomsborg
+    jogo_ladby: juego-los-remaches-de-ladby
+    jogo_lokasenna: juego-las-copas-de-aegir
   curiosidades: []
   interface:
     capa: Portada

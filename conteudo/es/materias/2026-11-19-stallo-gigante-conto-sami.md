@@ -39,4 +39,4 @@ En arqueología existe un tipo de yacimiento llamado *stállotomt*, una casa gra
 
 Para quien cuenta, el gigante es un modo de hablar de límites: qué es fuerza bruta y qué es inteligencia, qué se tiene y qué se hace. La moraleja del pequeño que vence permanece, y el gigante sirve de espejo para la vanidad.
 
-Para llegar al final del camino sin que te vean cuando el gigante mira hacia atrás, juega a /es/juego-el-sendero-de-stallo/.
+Para llegar al final del camino sin que te vean cuando el gigante mira hacia atrás, juega a [El sendero de Stállo](/es/juego-el-sendero-de-stallo/).

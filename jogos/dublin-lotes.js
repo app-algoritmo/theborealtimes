@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Utgravingene på Wood Quay i Dublin avdekket tomter med vikinghus langs gater. Tomtemalingen er diktet opp for spillet.",
     "h1": "Tomter",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las parcelas de Dublín",
+    "sub": "Empiezas en la parcela de la esquina de arriba, a la izquierda. Elige un color abajo: tu territorio se vuelve de ese color y se traga las parcelas vecinas que lo tengan. Pinta todo el mapa de un solo color dentro del límite de jugadas. Teclado: números del 1 al 5.",
+    "perdeu": "El mapa quedó a retazos",
+    "v1": "¡Dublín es toda tuya!",
+    "v2": "Las excavaciones de Wood Quay, en Dublín, revelaron parcelas de casas vikingas alineadas en calles. La pintura de parcelas es invención del juego.",
+    "h1": "Parcelas",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {

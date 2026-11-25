@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I sagaen holdt jomsvikingene en festning ved Østersjøen, der den nøyaktige plasseringen er omdiskutert. Blokkene i spillet er diktet opp.",
     "h1": "Blokker",
     "h2": "Baller"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los muros de Jomsborg",
+    "sub": "Arrastra el dedo (o usa las flechas) para mover el escudo y rebotar la bola contra los muros de la fortaleza. Derriba todos los bloques. Si la bola cae tres veces, el juego termina. El tiempo es limitado.",
+    "perdeu": "La fortaleza resistió",
+    "v1": "¡Los muros se vinieron abajo!",
+    "v2": "En la saga, los jomsvikingos guardaban una fortaleza en el Báltico, cuya ubicación exacta se discute. Los bloques del juego son invención.",
+    "h1": "Bloques",
+    "h2": "Bolas"
   }
 },
   criar: function (api) {

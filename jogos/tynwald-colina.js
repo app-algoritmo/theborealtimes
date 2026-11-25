@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Skiver",
     "h2": "Trekk",
     "dica": "aldri en større skive på en mindre"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los escalones de la colina",
+    "sub": "Cuatro discos están en el poste de la izquierda. Lleva todos al poste de la derecha, de uno en uno, sin poner nunca un disco mayor sobre uno menor. Toca un poste para coger el disco de arriba y toca otro para soltarlo (o usa las flechas y el espacio). Hay un límite de movimientos.",
+    "perdeu": "Los escalones se mezclaron",
+    "v1": "¡Has subido la colina!",
+    "v2": "En Tynwald Hill, en la isla de Man, la colina tiene cuatro niveles escalonados. Los discos y las reglas del juego son invención.",
+    "h1": "Discos",
+    "h2": "Movimientos",
+    "dica": "nunca un disco mayor sobre uno menor"
   }
 },
   criar: function (api) {

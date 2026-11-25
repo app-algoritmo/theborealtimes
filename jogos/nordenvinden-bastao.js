@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I eventyret samlet av Asbjørnsen og Moe får gutten en kjeppen av Nordavinden som slår på ordre. Huset med vinduer er diktet opp.",
     "h1": "Treff",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El bastón del Viento del Norte",
+    "sub": "Los hombres del posadero se asoman por las ventanas. Toca (o usa las teclas del 1 al 9, en cuadrícula) a cada ladrón de capucha roja antes de que se esconda, pero respeta a los huéspedes de gorro azul. Da 24 golpes. Cinco fallos acaban el juego.",
+    "perdeu": "El posadero escapó",
+    "v1": "¡El posadero aprendió la lección!",
+    "v2": "En el cuento de Asbjørnsen y Moe, el muchacho recibe del Viento del Norte un bastón que golpea por orden. La casa de ventanas es invención del juego.",
+    "h1": "Aciertos",
+    "h2": "Fallos"
   }
 },
   criar: function (api) {

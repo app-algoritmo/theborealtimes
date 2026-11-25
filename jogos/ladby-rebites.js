@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ladbyskipet i Danmark var en vikinghøvdings grav, med skroget holdt av nagler. Hoppespillet er diktet opp.",
     "h1": "Nagler",
     "h2": "Angret"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los remaches de Ladby",
+    "sub": "Quince remaches sujetan las tablas del casco, y uno está suelto. Toca un remache y después el hueco vacío, al otro lado de un vecino: el vecino sale. Quita todos hasta que quede solo uno. Puedes deshacer 3 jugadas, con el botón o con la tecla U.",
+    "perdeu": "Sobraron demasiados remaches",
+    "v1": "¡Solo quedó un remache!",
+    "v2": "El barco de Ladby, en Dinamarca, era la sepultura de un jefe vikingo, con el casco sujeto por remaches. El juego de saltos es invención.",
+    "h1": "Remaches",
+    "h2": "Deshechas"
   }
 },
   criar: function (api) {

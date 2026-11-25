@@ -39,4 +39,4 @@ Es importante recordar que la saga es una obra tardía, escrita siglos después 
 
 La escena muestra también lo que la sociedad de la saga esperaba de una mujer: Hervör rompe ese papel al vivir como guerrero, y la saga no la condena por ello. La figura de la mujer guerrera aparece en otras fuentes, como las *skjaldmeyjar*, las «doncellas del escudo» de Saxo Grammaticus, pero los estudiosos recuerdan que esos textos son literarios y no dicen cuántas mujeres, si es que alguna, lucharon de verdad.
 
-Para repetir el orden exacto de las llamas y de las runas que Hervör vio en los túmulos, juega a /es/juego-las-llamas-de-hervor/.
+Para repetir el orden exacto de las llamas y de las runas que Hervör vio en los túmulos, juega a [Las llamas de Hervör](/es/juego-las-llamas-de-hervor/).

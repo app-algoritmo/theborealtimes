@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Konungs skuggsjá, en norsk tekst fra 1200-tallet, prøver å forklare nordlyset. Lysspillet er diktet opp.",
     "h1": "Lys",
     "h2": "Trykk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las luces del cielo",
+    "sub": "La aurora ha encendido el cielo. Al tocar una luz, ella y las cuatro vecinas (arriba, abajo, izquierda y derecha) cambian: las encendidas se apagan y las apagadas se encienden. Apaga las 25 luces. Hay un límite de toques y de tiempo.",
+    "perdeu": "El cielo siguió encendido",
+    "v1": "¡El cielo quedó oscuro y en calma!",
+    "v2": "El Speculum Regale, texto noruego del siglo XIII, intenta explicar la aurora boreal. El juego de luces es invención.",
+    "h1": "Luces",
+    "h2": "Toques"
   }
 },
   criar: function (api) {

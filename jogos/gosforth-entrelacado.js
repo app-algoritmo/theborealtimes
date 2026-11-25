@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Gosforth-korset i Cumbria har skårne knuter og motiver knyttet til norrøn mytologi. Brikkespillet er diktet opp.",
     "h1": "Tråd",
     "h2": "Vendinger"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El entrelazado de la cruz",
+    "sub": "Toca una pieza para girarla. Conecta el hilo de la entrada, arriba a la izquierda, hasta la salida, abajo a la derecha. Las piezas unidas al hilo se iluminan. Hay un límite de giros y de tiempo.",
+    "perdeu": "El hilo quedó roto",
+    "v1": "¡El entrelazado está completo!",
+    "v2": "La cruz de Gosforth, en Cumbria, tiene tallas de nudos y escenas ligadas a la mitología nórdica. El juego de piezas es invención.",
+    "h1": "Hilo",
+    "h2": "Giros"
   }
 },
   criar: function (api) {

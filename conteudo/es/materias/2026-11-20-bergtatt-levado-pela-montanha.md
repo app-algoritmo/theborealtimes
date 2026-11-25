@@ -37,4 +37,4 @@ Lo que sabemos de la creencia procede de relatos de campesinos recogidos por est
 
 La idea de que las personas podían desaparecer en las montañas también tiene, según muchos estudiosos, un lado práctico. En una tierra de fiordos, acantilados y bosques, andar solo al atardecer era arriesgado, y quien no volvía, en la mayoría de los casos, se había perdido o había sufrido un accidente. La creencia ofrecía una explicación y, al mismo tiempo, un aviso a los más jóvenes: no convenía alejarse de casa después de la puesta de sol.
 
-Para atravesar el salón de la montaña esquivando las piedras que caen, hasta encontrar la salida, juega a /es/juego-el-salon-de-la-montana/.
+Para atravesar el salón de la montaña esquivando las piedras que caen, hasta encontrar la salida, juega a [El salón de la montaña](/es/juego-el-salon-de-la-montana/).

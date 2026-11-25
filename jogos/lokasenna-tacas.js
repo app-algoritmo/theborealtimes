@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Lokasenna håner Loke gudene ved Ægers gjestebud til Tor kommer. Begerspillet er diktet opp for spillet.",
     "h1": "Rekke",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las copas de Ægir",
+    "sub": "Tú y Loki servís copas en el salón de Ægir. Toca una columna (o usa las flechas y el espacio) para soltar una copa dorada. Alinea cuatro, en horizontal, en vertical o en diagonal, antes de que Loki alinee las suyas. El empate cuenta como derrota. El tiempo es limitado.",
+    "perdeu": "Loki se llevó la mejor parte",
+    "v1": "¡Has acallado a Loki!",
+    "v2": "En el Lokasenna, Loki insulta a los dioses en el banquete de Ægir, hasta que llega Thor. La partida de copas es invención del juego.",
+    "h1": "Secuencia",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

@@ -41,4 +41,4 @@ El yacimiento muestra que el comercio nórdico no era solo pillaje: había merca
 
 Los cementerios de Kaupang también muestran quién vivía en el lugar: hay tumbas de hombres, mujeres y niños, con objetos personales. Eso indica una comunidad estable, y no solo visitantes de paso. Los investigadores debaten quién controlaba el poblado, y el vínculo con jefes locales o con reyes vecinos sigue en discusión.
 
-Para ayudar a un mercader a ordenar las mercancías sin repetir ninguna en cada fila, juega a /es/juego-el-mercado-de-kaupang/.
+Para ayudar a un mercader a ordenar las mercancías sin repetir ninguna en cada fila, juega a [El mercado de Kaupang](/es/juego-el-mercado-de-kaupang/).

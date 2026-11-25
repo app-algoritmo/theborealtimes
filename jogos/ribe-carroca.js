@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Gater",
     "h2": "Trekk",
     "dica": "Den gylne vogna skal til kaia"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Carros en el mercado de Ribe",
+    "sub": "La calle está atascada de carros. Arrastra cada carro en el sentido de su largo (o toca uno y usa las flechas) para abrir camino hasta el muelle, a la derecha, para el carro dorado. Resuelve 3 calles. Cada calle tiene un límite de movimientos.",
+    "perdeu": "La calle quedó atascada",
+    "v1": "¡La calle está libre!",
+    "v2": "Las excavaciones en Ribe muestran un mercado activo desde principios del siglo VIII. Los carros del juego son invención.",
+    "h1": "Calles",
+    "h2": "Movimientos",
+    "dica": "el carro dorado va al muelle"
   }
 },
   criar: function (api) {

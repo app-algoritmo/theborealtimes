@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Danevirke var en voll av jord og tre i Sør-Danmark, utvidet gjennom århundrene. Feltforsvaret er diktet opp for spillet.",
     "h1": "Inntrengere",
     "h2": "Brudd"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El muro del Danevirke",
+    "sub": "Los invasores avanzan por cinco carriles hasta el muro, a la izquierda. Toca una casilla vacía para colocar un guardia, que gasta 2 monedas y lanza dardos a lo largo del carril. Las monedas llegan con el tiempo. Derrota a los 22 invasores. Si 3 cruzan el muro, el juego termina. Teclado: flechas y espacio.",
+    "perdeu": "El muro fue vencido",
+    "v1": "¡El muro del Danevirke resistió!",
+    "v2": "El Danevirke era una muralla de tierra y madera en el sur de Dinamarca, ampliada a lo largo de los siglos. La defensa por carriles es invención del juego.",
+    "h1": "Invasores",
+    "h2": "Brechas"
   }
 },
   criar: function (api) {

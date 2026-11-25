@@ -37,4 +37,4 @@ No sabemos qué fue en realidad la expedición. No se ha identificado ningún ve
 
 Las piedras de Ingvar también son útiles a los lingüistas, porque ofrecen formas de la lengua hablada en la Suecia del siglo XI y nombres de personas que no aparecen en ninguna otra fuente. Por eso, la lectura de las runas, hecha por especialistas en bases de datos como la de Uppsala, ayuda a entender no solo la expedición, sino también la vida de las familias que la recordaron.
 
-Para grabar las runas en la piedra, rellenando las casillas correctas según las pistas de cada fila y columna, juega a /es/juego-las-runas-en-la-piedra/.
+Para grabar las runas en la piedra, rellenando las casillas correctas según las pistas de cada fila y columna, juega a [Las runas en la piedra](/es/juego-las-runas-en-la-piedra/).

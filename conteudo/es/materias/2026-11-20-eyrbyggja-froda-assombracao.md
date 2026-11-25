@@ -37,4 +37,4 @@ Ninguna excavación ha confirmado los hechos, y la saga se escribió unos dos si
 
 Conviene recordar que la *Eyrbyggja saga* no trata solo de fantasmas. Es una crónica de familias y de disputas en la región de Snæfellsnes, y el caudillo Snorri goði es uno de sus personajes centrales. El episodio de Fróðá es solo una parte, y el autor parece más interesado en mostrar cómo una comunidad afrontaba un problema que en asustar al público.
 
-Para descubrir, como en el tribunal, el orden correcto de los acusados que esperan a la puerta, juega a /es/juego-los-acusados-a-la-puerta/.
+Para descubrir, como en el tribunal, el orden correcto de los acusados que esperan a la puerta, juega a [Los acusados a la puerta](/es/juego-los-acusados-a-la-puerta/).

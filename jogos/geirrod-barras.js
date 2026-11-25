@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Snorre brukte Tor jernhansker for å gripe den glødende stanga. Regnet av stenger er diktet opp for spillet.",
     "h1": "Stenger",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las barras de Geirrøðr",
+    "sub": "El gigante lanza barras de hierro al rojo. Arrastra el dedo (o usa las flechas) para mover a Thor y agarrar cada barra con los guantes de hierro. Atrapa 15 barras. En la tercera que caiga, el juego termina.",
+    "perdeu": "La barra pasó entre tus manos",
+    "v1": "¡Los guantes sujetaron el hierro!",
+    "v2": "Según Snorri, Thor usó guantes de hierro para agarrar la barra al rojo. La lluvia de barras es invención del juego.",
+    "h1": "Barras",
+    "h2": "Fallos"
   }
 },
   criar: function (api) {

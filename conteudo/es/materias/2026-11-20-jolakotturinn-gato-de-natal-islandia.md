@@ -37,4 +37,4 @@ El gato no tiene en las fuentes la misma presencia que Grýla y los Yule Lads, y
 
 La amenaza del gato también ayuda a entender la vida rural de la época: el invierno era largo, la ropa de lana era esencial para afrontar el frío, y un regalo práctico tenía un valor real. Recibir una prenda nueva no era un lujo, y el miedo al gato era, tras la imagen del monstruo, el miedo a pasar el invierno sin abrigo.
 
-Para recoger los ovillos de lana y tricotar antes de que llegue el gato, sin dejar que el hilo se enrede consigo mismo, juega a /es/juego-ovillos-antes-que-el-gato/.
+Para recoger los ovillos de lana y tricotar antes de que llegue el gato, sin dejar que el hilo se enrede consigo mismo, juega a [Ovillos antes que el gato](/es/juego-ovillos-antes-que-el-gato/).

@@ -49,6 +49,22 @@ BTJogo.registrar({
     "pensa": "Vaftrudne tenker…",
     "ganhou": "Runde vunnet",
     "perdida": "Runde tapt"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El duelo de las piedras",
+    "sub": "Vafþrúðnir juega al Nim contigo. Hay tres montones de piedras. En tu turno, toca una piedra para quitarla, junto con las que están encima, de un solo montón. Quien quite la última piedra gana la ronda. Gana 2 rondas antes de perder 2. (Teclado: flechas para elegir el montón y la cantidad, espacio para confirmar.)",
+    "perdeu": "El gigante contó mejor",
+    "v1": "¡Has vencido al gigante!",
+    "v2": "En el Vafþrúðnismál, Odín vence al gigante con una pregunta que solo él sabía responder. El juego de piedras es invención del juego.",
+    "h1": "Rondas",
+    "h2": "Fallos",
+    "vez": "Tu turno",
+    "pensa": "Vafþrúðnir piensa…",
+    "ganhou": "Ronda ganada",
+    "perdida": "Ronda perdida"
   }
 },
   criar: function (api) {

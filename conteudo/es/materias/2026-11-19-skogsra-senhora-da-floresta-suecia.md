@@ -39,4 +39,4 @@ Una lectura común es que las historias servían para dar sentido a peligros rea
 
 Hoy la skogsrå aparece en libros infantiles, ilustraciones y juegos, por lo general más amable que en las recopilaciones antiguas. Lo que se sabe, y debe decirse, es que esas historias son leyendas y que la creencia en ellas varió mucho de un lugar a otro.
 
-Para ver cuánto sabes sobre la señora del bosque y otros seres del folclore nórdico, juega a /es/juego-la-senora-del-bosque/.
+Para ver cuánto sabes sobre la señora del bosque y otros seres del folclore nórdico, juega a [La señora del bosque](/es/juego-la-senora-del-bosque/).

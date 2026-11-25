@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I sagaen tåler Ellide en storm som to trollkvinner har reist. Bølgebeltene i spillet er diktet opp.",
     "h1": "Kryssinger",
     "h2": "Kollisjoner"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Ellide en la tempestad",
+    "sub": "Las hechiceras han levantado olas contra el Ellide. Toca junto al barco, o desliza el dedo (o usa las flechas), para avanzar, retroceder o moverte de lado. Cruza los carriles de olas hasta la isla de arriba, tres veces. Al cuarto golpe, el juego termina.",
+    "perdeu": "Las olas se tragaron al Ellide",
+    "v1": "¡El Ellide cruzó la tempestad!",
+    "v2": "En la saga, el Ellide resiste una tempestad levantada por dos hechiceras. Los carriles de olas del juego son invención.",
+    "h1": "Travesías",
+    "h2": "Golpes"
   }
 },
   criar: function (api) {

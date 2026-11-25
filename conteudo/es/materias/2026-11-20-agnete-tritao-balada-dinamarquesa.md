@@ -37,4 +37,4 @@ Hoy la historia se lee como una narración sobre la elección entre pertenencias
 
 Los seres del mar de las tradiciones escandinavas tienen formas variadas. El *havmand* y la *havfrue*, en los nombres daneses, aparecen en baladas y leyendas de la costa, y algunas de esas historias tratan de encuentros entre personas y criaturas del mar, que rara vez terminan bien para una de las partes. La balada de Agnete llama la atención porque da voz, para muchos lectores, a la nostalgia de la tierra, y porque la elección final es de una mujer, y no de un destino impuesto.
 
-Para recoger los tesoros del fondo del mar, intercambiando piezas vecinas hasta alinear tres iguales, como quien busca el camino entre dos mundos, juega a /es/juego-los-tesoros-del-fondo-del-mar/.
+Para recoger los tesoros del fondo del mar, intercambiando piezas vecinas hasta alinear tres iguales, como quien busca el camino entre dos mundos, juega a [Los tesoros del fondo del mar](/es/juego-los-tesoros-del-fondo-del-mar/).
