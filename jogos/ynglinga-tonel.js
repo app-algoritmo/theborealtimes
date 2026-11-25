@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Ynglingesagaen dør kong Fróði i en tønne med mjød. Fargeblandingen i spillet er diktet opp.",
     "h1": "Tønner",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los toneles de Fróði",
+    "sub": "Toca un tonel y luego otro para pasar el hidromiel de arriba. Solo se vierte en un tonel vacío o sobre el mismo color, y si hay sitio. Deja cada tonel con un solo color, lleno. Hay un límite de movimientos y de tiempo.",
+    "perdeu": "El salón quedó en desorden",
+    "v1": "¡Cada tonel tiene su color!",
+    "v2": "En la saga de los Ynglingar, el rey Fróði muere en un tonel de hidromiel. La mezcla de colores del juego es invención.",
+    "h1": "Toneles",
+    "h2": "Movimientos"
   }
 },
   criar: function (api) {

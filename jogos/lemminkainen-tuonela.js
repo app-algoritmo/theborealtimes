@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala river Lemminkäinens mor opp delene hans fra elva i Tuonela. Den jagende svanen i spillet er diktet opp.",
     "h1": "Deler",
     "h2": "Liv"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El río de Tuonela",
+    "sub": "Muévete por los canales del río. Flechas o WASD, o toca la dirección hacia la que quieres ir. Recoge los 8 pedazos del hijo. El cisne negro te persigue: si te alcanza, pierdes una vida. Tienes 3 vidas.",
+    "perdeu": "El cisne negro te alcanzó",
+    "v1": "¡Se recogieron todos los pedazos!",
+    "v2": "En el Kalevala, la madre de Lemminkäinen recoge del río de Tuonela los pedazos de su hijo con un rastrillo. El cisne perseguidor del juego es invención.",
+    "h1": "Pedazos",
+    "h2": "Vidas"
   }
 },
   criar: function (api) {

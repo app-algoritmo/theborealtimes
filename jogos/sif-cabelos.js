@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Snorre klippet Loke av håret til Sif, og dvergene lagde det på nytt i gull. Flettene i spillet er diktet opp.",
     "h1": "Fletter",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los cabellos de Sif",
+    "sub": "Las ocho trenzas de oro de Sif se han mezclado. Toca una trenza vecina del hueco vacío para moverla (o usa las flechas). Coloca las trenzas en orden del 1 al 8, con el hueco en la esquina de abajo. Hay un límite de movimientos.",
+    "perdeu": "Las trenzas se mezclaron del todo",
+    "v1": "¡Los cabellos de Sif están rehechos!",
+    "v2": "Según Snorri, Loki cortó el pelo de Sif y los enanos lo rehicieron en oro. Las trenzas del juego son invención.",
+    "h1": "Trenzas",
+    "h2": "Movimientos"
   }
 },
   criar: function (api) {

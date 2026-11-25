@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Blant Lewis-sjakkbrikkene er det riddere og bønder skåret i hvalrosstann. Turen på brettet er diktet opp.",
     "h1": "Ruter",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El paseo del caballo",
+    "sub": "El caballo se mueve en L: dos casillas en una dirección y una en la otra. Toca una casilla marcada para saltar hasta ella. Visita las 25 casillas, sin repetir ninguna. Para retroceder un salto, toca el caballo (o usa Retroceso). El tiempo es limitado.",
+    "perdeu": "El tiempo se acabó antes del final del paseo",
+    "v1": "¡El caballo visitó todas las casillas!",
+    "v2": "Entre las piezas de Lewis hay caballeros y peones tallados en marfil de morsa. El paseo por el tablero es invención.",
+    "h1": "Casillas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I kildene eier Rán et garn som hun fanger de druknede med. Maskespillet er diktet opp.",
     "h1": "Masker",
     "h2": "Rán"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las mallas de Rán",
+    "sub": "Cada jugada une dos puntos vecinos con un hilo. Quien cierra el cuarto lado de una malla se la queda y juega de nuevo. Toca un hilo (o usa las flechas y el espacio). Cierra al menos 9 de las 16 mallas antes que Rán. El tiempo es limitado.",
+    "perdeu": "La red de Rán se quedó con más mallas",
+    "v1": "¡La red es tuya!",
+    "v2": "En las fuentes, Rán posee una red con la que atrapa a los que se ahogan. El juego de cerrar mallas es invención.",
+    "h1": "Mallas",
+    "h2": "Rán"
   }
 },
   criar: function (api) {

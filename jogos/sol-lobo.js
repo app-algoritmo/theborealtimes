@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Snorre løper Sol fordi en ulv jager henne, og i ragnarok tar den henne igjen. Slåkampen er diktet opp for spillet.",
     "h1": "Sol",
     "h2": "Ulv"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El sol y el lobo",
+    "sub": "Tú guías a Sól y el lobo Sköll quiere el sol. Arrastra el dedo (o usa las flechas) para mover tu barra y devolver el sol. Haz que el sol pase por el lobo 7 veces. Si el lobo marca 5 veces, el juego termina.",
+    "perdeu": "El lobo alcanzó el sol",
+    "v1": "¡El sol sigue en el cielo!",
+    "v2": "Según Snorri, Sól corre porque un lobo la persigue, y en el Ragnarök la alcanza. La partida de devolver el sol es invención del juego.",
+    "h1": "Sol",
+    "h2": "Lobo"
   }
 },
   criar: function (api) {

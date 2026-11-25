@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "På Borg i Lofoten er et stort høvdinghus gravd ut. Kornspillet er diktet opp.",
     "h1": "Kornloft",
     "h2": "Rival"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los granos del jefe",
+    "sub": "Cada depósito tiene 4 granos. Elige uno de los tuyos (abajo) y los granos se reparten, uno por depósito, hacia la derecha. Si el último cae en tu granero (a la derecha), juegas otra vez. Si cae en un depósito tuyo vacío, te llevas también los granos del depósito de enfrente. Termina con más granos en el granero que el rival.",
+    "perdeu": "El rival guardó más granos",
+    "v1": "¡El granero del jefe está lleno!",
+    "v2": "En Borg, en las Lofoten, se excavó una gran casa larga de jefe. El juego de repartir granos es invención.",
+    "h1": "Granero",
+    "h2": "Rival"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I det danske eventyret Kong Lindorm må bruden møte ormekongen og befri ham fra skinnet. Slagene i spillet er diktet opp.",
     "h1": "Skinn",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El látigo de la novia",
+    "sub": "Un marcador corre de un lado a otro de la barra. Toca (o usa el espacio) cuando esté en la franja dorada: el golpe acierta y cae una piel del gusano. La franja se estrecha y el marcador se acelera. Quita las 10 pieles. Con tres errores se acaba.",
+    "perdeu": "El gusano se quedó con la piel",
+    "v1": "¡Las diez pieles cayeron!",
+    "v2": "En el cuento danés Kong Lindorm, la novia debe enfrentarse al rey-gusano y librarlo de la piel. Los golpes del juego son invención.",
+    "h1": "Pieles",
+    "h2": "Errores"
   }
 },
   criar: function (api) {

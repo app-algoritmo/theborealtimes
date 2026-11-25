@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Færøyingenes saga forteller om en mann som slapp unna ved å svømme. Ruten og målene i spillet er diktet opp.",
     "h1": "Distanse",
     "h2": "Pust"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "A nado entre las islas",
+    "sub": "Alterna las brazadas: toca el lado izquierdo y el derecho de la pantalla, uno cada vez (o usa A y D, o las flechas). Dos brazadas seguidas del mismo lado gastan el aliento sin avanzar. Si el aliento se acaba, apenas avanzas. Recorre 120 metros antes de que se acabe el tiempo.",
+    "perdeu": "Las olas vencieron al nadador",
+    "v1": "¡Llegaste a la otra isla!",
+    "v2": "La Saga de los feroeses habla de un hombre que escapó a nado. El trayecto y las medidas del juego son invención.",
+    "h1": "Distancia",
+    "h2": "Aliento"
   }
 },
   criar: function (api) {

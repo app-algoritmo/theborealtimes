@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_hafli: jogo-os-fatos-de-haflidi
+    jogo_lagaboter: jogo-os-livros-da-lei
+    jogo_halfdansvarte: jogo-o-gelo-do-lago-rand
+    jogo_ebbesen: jogo-a-noite-de-randers
+    jogo_stufr: jogo-as-estrofes-de-stufr
+    jogo_knock: jogo-os-rebites-de-knock-y-doonee
+    jogo_saucourt: jogo-os-golpes-de-saucourt
+    jogo_limerick: jogo-as-moedas-do-shannon
+    jogo_asynjur: jogo-os-aneis-de-juramento
+    jogo_fornjotr: jogo-os-flocos-de-snaer
+    jogo_mannelig: jogo-o-refrao-da-balada
+    jogo_gilitrutt: jogo-os-novelos-de-gilitrutt
+    jogo_lundfinn: jogo-as-pedras-da-catedral
     jogo_flugumyri: jogo-a-noite-de-flugumyri
     jogo_haugsnes: jogo-as-pedras-de-haugsnes
     jogo_hrafn: jogo-a-vida-de-hrafn
@@ -1257,6 +1270,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_hafli: game-haflidi-s-facts
+    jogo_lagaboter: game-the-law-books
+    jogo_halfdansvarte: game-the-ice-of-lake-rand
+    jogo_ebbesen: game-the-night-in-randers
+    jogo_stufr: game-stufr-s-stanzas
+    jogo_knock: game-the-rivets-of-knock-y-doonee
+    jogo_saucourt: game-the-blows-of-saucourt
+    jogo_limerick: game-the-coins-of-the-shannon
+    jogo_asynjur: game-the-oath-rings
+    jogo_fornjotr: game-snaer-s-snowflakes
+    jogo_mannelig: game-the-ballad-refrain
+    jogo_gilitrutt: game-gilitrutt-s-balls-of-wool
+    jogo_lundfinn: game-the-stones-of-the-cathedral
     jogo_flugumyri: game-the-night-of-flugumyri
     jogo_haugsnes: game-the-stones-of-haugsnes
     jogo_hrafn: game-hrafn-s-life
@@ -2015,6 +2041,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_hafli: spill-haflidis-fakta
+    jogo_lagaboter: spill-lovbokene
+    jogo_halfdansvarte: spill-isen-pa-rands-sjoen
+    jogo_ebbesen: spill-natten-i-randers
+    jogo_stufr: spill-stufrs-strofer
+    jogo_knock: spill-naglene-pa-knock-y-doonee
+    jogo_saucourt: spill-slagene-ved-saucourt
+    jogo_limerick: spill-myntene-ved-shannon
+    jogo_asynjur: spill-edsringene
+    jogo_fornjotr: spill-snaers-snofnugg
+    jogo_mannelig: spill-balladens-refreng
+    jogo_gilitrutt: spill-gilitrutts-ullnoster
+    jogo_lundfinn: spill-katedralens-steiner
     jogo_flugumyri: spill-natten-pa-flugumyri
     jogo_haugsnes: spill-steinene-pa-haugsnes
     jogo_hrafn: spill-hrafns-liv
@@ -2727,6 +2766,32 @@ es:
     jogo_jomsborg: juego-los-muros-de-jomsborg
     jogo_ladby: juego-los-remaches-de-ladby
     jogo_lokasenna: juego-las-copas-de-aegir
+    jogo_hafli: juego-los-hechos-de-haflidi
+    jogo_lagaboter: juego-los-libros-de-la-ley
+    jogo_halfdansvarte: juego-el-hielo-del-lago-rand
+    jogo_ebbesen: juego-la-noche-de-randers
+    jogo_stufr: juego-las-estrofas-de-stufr
+    jogo_knock: juego-los-remaches-de-knock-y-doonee
+    jogo_saucourt: juego-los-golpes-de-saucourt
+    jogo_limerick: juego-las-monedas-del-shannon
+    jogo_asynjur: juego-los-anillos-de-juramento
+    jogo_fornjotr: juego-los-copos-de-snaer
+    jogo_mannelig: juego-el-estribillo-de-la-balada
+    jogo_gilitrutt: juego-los-ovillos-de-gilitrutt
+    jogo_lundfinn: juego-las-piedras-de-la-catedral
+    jogo_sif: juego-los-cabellos-de-sif
+    jogo_sol: juego-el-sol-y-el-lobo
+    jogo_tapio: juego-el-bosque-de-tapio
+    jogo_ynglinga: juego-los-toneles-de-frodi
+    jogo_alvissmal: juego-las-preguntas-de-thor
+    jogo_borg: juego-los-granos-del-jefe
+    jogo_foroyinga: juego-a-nado-entre-las-islas
+    jogo_ilmatar: juego-los-vasos-de-ilmatar
+    jogo_lindorm: juego-el-latigo-de-la-novia
+    jogo_lemminkainen: juego-el-rio-de-tuonela
+    jogo_lindholm: juego-el-contorno-del-barco
+    jogo_lewis: juego-el-paseo-del-caballo
+    jogo_ran: juego-las-mallas-de-ran
   curiosidades: []
   interface:
     capa: Portada

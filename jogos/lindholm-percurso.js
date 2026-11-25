@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "På Lindholm Høje finnes graver med markeringer lagt i form av et skip. Ruten i spillet er diktet opp.",
     "h1": "Rute",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El contorno del barco",
+    "sub": "Empieza por la marca dorada. Toca una marca vecina (al lado, arriba o abajo) para avanzar. Pasa por todas, una sola vez cada una. Para retroceder un paso, toca la marca donde estás (o usa Retroceso). Las flechas también mueven. El tiempo es limitado.",
+    "perdeu": "El tiempo se acabó a mitad de camino",
+    "v1": "¡Recorriste el barco entero!",
+    "v2": "En Lindholm Høje hay sepulturas con piedras dispuestas en forma de barco. El recorrido del juego es invención.",
+    "h1": "Recorrido",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

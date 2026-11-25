@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I finsk tradisjon er Tapio herre over skogen og viltet. De villedende omveiene i spillet er diktet opp.",
     "h1": "Sti",
     "h2": "Omveier"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El bosque de Tapio",
+    "sub": "Cada casilla esconde un tramo de monte. Toca para pisar: el número dice cuántos desvíos engañosos hay alrededor. Pisa todos los tramos seguros. El botón de bandera (o la tecla F) marca un desvío sospechoso. Con dos desvíos te pierdes.",
+    "perdeu": "Te perdiste en el bosque",
+    "v1": "¡Cruzaste el bosque de Tapio!",
+    "v2": "En la tradición finlandesa, Tapio es el señor del bosque y de los animales de caza. Los desvíos engañosos del juego son invención.",
+    "h1": "Sendero",
+    "h2": "Desvíos"
   }
 },
   criar: function (api) {

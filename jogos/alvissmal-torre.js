@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I diktet Alvíssmál holder Tor dvergen fast med spørsmål til lyset kommer inn. Stablespillet er diktet opp.",
     "h1": "Spørsmål",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las preguntas de Thor",
+    "sub": "Un bloque de pregunta corre de un lado a otro. Toca (o usa el espacio) para soltarlo sobre la torre: lo que quede fuera del bloque de abajo se corta. Apila 14 preguntas antes de que salga el sol, sin dejar que la torre desaparezca.",
+    "perdeu": "El sol salió primero",
+    "v1": "¡Retuviste al enano hasta el amanecer!",
+    "v2": "En el poema Alvíssmál, Thor retiene al enano con preguntas hasta que entra la luz. El juego de apilar es invención.",
+    "h1": "Preguntas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

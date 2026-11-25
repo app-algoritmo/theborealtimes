@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala oppstår verden av et egg som brytes over havet. Karene og målene i spillet er diktet opp.",
     "h1": "Oppgave",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los vasos de Ilmatar",
+    "sub": "Hay dos vasos de tamaños distintos y ninguna marca de medida. Toca los botones: llenar (▲), vaciar (▼) o verter un vaso en el otro (→ ←). Deja uno de los vasos con exactamente la cantidad pedida. Son 3 desafíos, con un número limitado de jugadas.",
+    "perdeu": "Se acabaron las jugadas o el tiempo",
+    "v1": "¡El agua está en la medida justa!",
+    "v2": "En el Kalevala, la creación del mundo parte de un huevo que se rompe sobre el mar. Los vasos y las medidas del juego son invención.",
+    "h1": "Desafío",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {
