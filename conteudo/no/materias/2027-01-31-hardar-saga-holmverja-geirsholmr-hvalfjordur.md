@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hardar-saga-holmverja-ilhota.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en liten steinete holme i en islandsk fjord under grå himmel, med en gruppe væpnede menn i mørke kapper rundt et bål mellom steiner og et torvhus; i vannet svømmer en kvinne og to gutter mot land, mens bønder på fastlandet ser på, skjult bak et steingjerde."
 fontes:
-  - "Wikipedia, «Harðar saga ok Hólmverja» (håndskrifter, miljø, handling, Geirshólmr, Hvalfjörður, Hǫrðr Grímkelsson, Helga Haraldsdóttir, Torfi, Kjartan Kǫtluson)"
+  - "Oppslagsverk om «Harðar saga ok Hólmverja» (håndskrifter, miljø, handling, Geirshólmr, Hvalfjörður, Hǫrðr Grímkelsson, Helga Haraldsdóttir, Torfi, Kjartan Kǫtluson)"
 tags: [harðar saga, hólmverja, geirshólmr, hvalfjörður, islendingesaga, fredløs]
 ---
 

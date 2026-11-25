@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/freydis-eiriksdottir-vinlandia.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn kvinne med mørkt hår i vinden, i blå kappe, med øks i hånden, som står på en steinstrand i Vinland ved daggry ved siden av en bredskrogget båt på grunn; i bakgrunnen lave torvhus og tett skog; himmelen i grått og oransje, og en tynn tåke over vannet."
 fontes:
-  - "Wikipedia, «Freydís Eiríksdóttir» (Grønlendingenes saga, kapittel 8; Eirik Raudes saga; Karlsefnis ekspedisjon; Helgi og Finnbogi; angrepet fra skrælingene; bygger på Sephton, Kunz, Jesch, Karlsson, Magnusson og Pálsson)"
+  - "Oppslagsverk om «Freydís Eiríksdóttir» (Grønlendingenes saga, kapittel 8; Eirik Raudes saga; Karlsefnis ekspedisjon; Helgi og Finnbogi; angrepet fra skrælingene; bygger på Sephton, Kunz, Jesch, Karlsson, Magnusson og Pálsson)"
 tags: [freydís eiríksdóttir, vinland, grønlendingenes saga, eirik raudes saga, skrælinger]
 ---
 

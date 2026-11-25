@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem de túnica simples em pé diante de um rei de barba ruiva sentado em cadeira alta num salão iluminado por velas, com homens da guarda sentados à mesa e ramos de pinheiro na parede, numa noite de inverno."
 fontes:
   - "Íslendings þáttr sögufróða, conservado em Morkinskinna, Hulda e Hrokkinskinna"
-  - "Wikipédia em inglês, artigo \"The Tale of the Story-Wise Icelander\", consultado para conferir enredo, manuscritos e datação (Régis Boyer, 1999; Elena Gurevich, 2006)"
+  - "Obras de referência em inglês, artigo \"The Tale of the Story-Wise Icelander\", consultado para conferir enredo, manuscritos e datação (Régis Boyer, 1999; Elena Gurevich, 2006)"
 tags: [íslendings þáttr sögufróða, harald hardrada, morkinskinna, natal, halldórr snorrason, sagas, þáttr]
 ---
 

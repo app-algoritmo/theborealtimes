@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/rindr-mae-de-vali.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne som står foran et tre med lys bark, med en trebit merket med risset tegn liggende ved føttene; i bakgrunnen venter en skikkelse med hette og bredbremmet hatt mellom bjørkestammer en grå vinterdag."
 fontes:
-  - "Wikipedia, «Rindr» (Gylfaginning, Kormákr Ögmundarsons Sigurðardrápa, Baldrs draumar, Grógaldr, Saxos Gesta Danorum, etymologi)"
+  - "Oppslagsverk om «Rindr» (Gylfaginning, Kormákr Ögmundarsons Sigurðardrápa, Baldrs draumar, Grógaldr, Saxos Gesta Danorum, etymologi)"
 tags: [rindr, váli, odin, saxo, rinda, baldr]
 ---
 

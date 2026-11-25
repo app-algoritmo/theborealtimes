@@ -11,7 +11,7 @@ imagem_alt: "Ilustración de un drakkar de casco oscuro anclado cerca de una isl
 fontes:
   - "Orkneyinga saga (escrita hacia 1200 por un escriba islandés desconocido)"
   - "Caithness.org, artículo sobre Swein Asleifsson, con pasajes citados de la saga"
-  - "Wikipedia en inglés, artículo «Sweyn Asleifsson», para fechas y episodios"
+  - "Obras de referencia en inglés, artículo «Sweyn Asleifsson», para fechas y episodios"
 tags: [svein asleifarson, sweyn asleifsson, orkneyinga saga, órcadas, gairsay, dublín, vikingo]
 ---
 

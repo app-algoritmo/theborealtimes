@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vellekla-o-poema-para-o-jarl-hakon.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una flota de barcos de proa alta con velas rayadas en aguas estrechas entre islas rocosas de una costa noruega, bajo un cielo cargado, con un poeta con capa sentado en la proa de un barco, sosteniendo una copa de oro."
 fontes:
-  - "Wikipedia en inglés, artículos «Vellekla» y «Battle of Hjörungavágr»"
+  - "Obras de referencia en inglés, artículos «Vellekla» y «Battle of Hjörungavágr»"
   - "Fagrskinna, Heimskringla, Óláfs saga Tryggvasonar en mesta y Flateyjarbók, que citan versos del poema"
   - "Finnur Jónsson, edición (1912 a 1915)"
 tags: [vellekla, einarr skálaglamm, hákon sigurðarson, hjörungavágr, jomsvikingos, poesía escáldica, sunnmøre]

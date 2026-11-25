@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/morkinskinna-pergaminho-bolorento-reis.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pergaminho antigo, amarelado e manchado de bolor escuro nas bordas, aberto sobre uma mesa de madeira numa biblioteca real de pedra, com texto em colunas e uma letra inicial vermelha; ao lado, uma vela, uma pena e um tinteiro, e ao fundo prateleiras com outros códices em luz suave de fim de tarde."
 fontes:
-  - "Wikipedia, \"Morkinskinna\" (nome, data, manuscrito GKS 1009 fol., período, estrofes escáldicas, þættir, relação com Fagrskinna e Heimskringla)"
+  - "Obras de referência sobre \"Morkinskinna\" (nome, data, manuscrito GKS 1009 fol., período, estrofes escáldicas, þættir, relação com Fagrskinna e Heimskringla)"
 tags: [morkinskinna, sagas de reis, islândia, escáldica, noruega]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/nidhoggr-dragao-raiz-yggdrasill.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en dyp hule under røttene til et enormt tre, med en bevinget slange med mørke skjell og bleke øyne som ligger kveilet rundt en tykk rot som den biter i; bak den en iskald tåke og en sal av bein og ryggrader, og oppover stammen klatrer et lite rødlig ekorn."
 fontes:
-  - "Wikipedia, «Nidhogg» (Gylfaginning, Grímnismál, Völuspá; Náströnd; Ratatosk; etymologi)"
+  - "Oppslagsverk om «Nidhogg» (Gylfaginning, Grímnismál, Völuspá; Náströnd; Ratatosk; etymologi)"
 tags: [níðhogg, yggdrasil, völuspá, náströnd, drage]
 ---
 

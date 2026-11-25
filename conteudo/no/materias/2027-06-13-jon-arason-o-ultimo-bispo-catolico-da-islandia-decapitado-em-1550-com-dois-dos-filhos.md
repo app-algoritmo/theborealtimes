@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/jon-arason-o-ultimo-bispo-catolico-da-islandia-d
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en biskop med gråsprengt skjegg, mitra og lilla kappe, som står foran en kirke av torv og tre i den islandske vinteren, med to unge menn ved siden av seg og soldater med spyd bak, under en tung himmel."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Jón Arason»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Jón Arason»"
 tags: [jón arason, hólar, luthersk reformasjon, island, christian iii, sauðafell, skálholt, biskop]
 ---
 

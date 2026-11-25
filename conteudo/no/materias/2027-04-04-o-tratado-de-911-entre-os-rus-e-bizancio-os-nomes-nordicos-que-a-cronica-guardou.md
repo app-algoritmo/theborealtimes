@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et steinbord i en søylesal i Konstantinopel, med e
 fontes:
   - "Nestorkrøniken (Povest vremennykh let), teksten til avtalen under året 911"
   - "Serhii Plokhy, «The Origins of the Slavic Nations» (2006), brukt for vurderingen av tekstens pålitelighet"
-  - "Wikipedia på engelsk, artikkelen «Rus'–Byzantine Treaty (911)», brukt for å kontrollere listen over sendebud og paragrafene"
+  - "oppslagsverk på engelsk, artikkelen «Rus'–Byzantine Treaty (911)», brukt for å kontrollere listen over sendebud og paragrafene"
 tags: [avtalen av 911, rus, bysants, nestorkrøniken, oleg, væringer, norrøne navn]
 ---
 

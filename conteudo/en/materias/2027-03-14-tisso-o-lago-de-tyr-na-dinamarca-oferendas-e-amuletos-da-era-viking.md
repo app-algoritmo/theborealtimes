@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a calm lake at dawn, with a long white-walled timbe
 fontes:
   - "National Museum of Denmark (Nationalmuseet), \"Sacrifices to the Norse god Tyr\""
   - "Medievalhistories, \"Tissø: a cultural, commercial and elite centre from the Viking Age\""
-  - "Wikipedia, \"Tissø\""
+  - "Reference works on \"Tissø\""
 tags: [tissø, tyr, offerings, amulets, thor hammers, valkyries, denmark]
 ---
 

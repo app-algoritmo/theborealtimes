@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um viajante medieval de capa ao lado de um companheiro, diante de uma ponte de pedra sobre um rio escuro e de um dragão enorme de boca aberta, com uma terra ensolarada de riachos de mel e uma torre suspensa no ar ao fundo, sob uma luz dourada."
 fontes:
   - "Eiríks saga víðförla, tradução de Tunstall (texto e notas)"
-  - "Wikipédia em inglês, artigo sobre a saga"
+  - "Obras de referência em inglês, artigo sobre a saga"
 tags: [eiríks saga víðförla, ódáinsakr, eirek o viajante, paraíso, dragão, miklagarðr, saga lendária]
 ---
 

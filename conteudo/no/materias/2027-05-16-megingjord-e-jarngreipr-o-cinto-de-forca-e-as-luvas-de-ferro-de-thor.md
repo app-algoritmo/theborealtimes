@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et bredt, mørkt lærbelte med metallspenne og et p
 fontes:
   - "Snorre Sturluson, Snorres Edda, Gylfaginning (omkring 1220), om beltet og hanskene"
   - "Eilífr Goðrúnarson, Þórsdrápa (900-tallet), strofe 7"
-  - "Engelsk Wikipedia, artikkelen «Megingjörð», med henvisning til Andy Orchard (1997)"
+  - "Engelsk Oppslagsverk om artikkelen «Megingjörð», med henvisning til Andy Orchard (1997)"
 tags: [megingjörð, járngreipr, tor, mjølner, gylfaginning, þórsdrápa, eilífr goðrúnarson]
 ---
 

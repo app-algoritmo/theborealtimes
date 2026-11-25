@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et lite grønnaktig vesen med skjegg av tang, fange
 fontes:
   - "Jón Árnason, «Þá hló marbendill», i Íslenzkar þjóðsögur og æfintýri (1800-tallet)"
   - "Hálfs saga ok Hálfsrekka, kapittel 7 («Frá spám marmennils»)"
-  - "Wikipedia på engelsk, artikkelen «Marmennill», brukt for å kontrollere kildene (Landnámabók, Jón Árnason, Sävborg 2016)"
+  - "oppslagsverk på engelsk, artikkelen «Marmennill», brukt for å kontrollere kildene (Landnámabók, Jón Árnason, Sävborg 2016)"
 tags: [marbendill, marmennill, havmann, islandsk folketro, jón árnason, hálfs saga, landnámabók]
 ---
 

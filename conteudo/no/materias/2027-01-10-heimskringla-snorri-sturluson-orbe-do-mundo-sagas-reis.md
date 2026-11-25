@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/heimskringla-snorri-orbe-mundo.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk høvdingegård i torv og tre, ved skumring, med en middelaldrende mann i mørk kappe som sitter ved et skrivebord og skriver i lyset fra en oljelampe på et stort pergament; rundt ham stablede ruller og kodekser, et smalt vindu med utsikt over en grønn mark og et fjell langt unna."
 fontes:
-  - "Wikipedia, «Heimskringla» (forfatterskap, tittel, håndskrifter, omfang, Óláfs saga helga, Haraldr harðráði, kilder, historisk kritikk)"
+  - "Oppslagsverk om «Heimskringla» (forfatterskap, tittel, håndskrifter, omfang, Óláfs saga helga, Haraldr harðráði, kilder, historisk kritikk)"
 tags: [heimskringla, snorre sturluson, kongesagaer, ynglinga saga, norge]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um grande leão de mármore sentado diante de um po
 fontes:
   - "\"Vikings tagged the great lion in Venice with runes\", Science Norway (sciencenorway.no), sobre o estudo de Thorgunn Snædal"
   - "Thorgunn Snædal, estudo das runas do Leão do Pireu (2014), publicado por Riksantikvarieämbetet"
-  - "Wikipédia em inglês, artigo \"Piraeus Lion\", consultado para conferir as referências"
+  - "Obras de referência em inglês, artigo \"Piraeus Lion\", consultado para conferir as referências"
 tags: [leão do pireu, runas, veneza, arsenal, thorgunn snædal, åkerblad, suécia]
 ---
 

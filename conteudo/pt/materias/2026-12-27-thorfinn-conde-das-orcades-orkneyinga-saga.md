@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/thorfinn-orcades-conde.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha de campos verdes e falésias sobre o mar do Norte, com um conde nórdico de capa azul e cabelos escuros em pé na proa de um navio, olhando para uma praia onde há outra frota ancorada; ao fundo, as ruínas de uma pequena igreja de pedra numa ilhota ligada à terra por uma faixa de areia."
 fontes:
-  - "Wikipedia, \"Thorfinn the Mighty\" (pais, reinado, Karl Hundason, Rögnvald, Roma, morte, tabela \"tradição vs. corroboração\")"
-  - "*Orkneyinga saga* e *Heimskringla* (Saga de Olavo), segundo a Wikipedia"
-  - "Thomson (2008), Woolf (2007), Muir (2005) e Crawford (1987), citados na Wikipedia"
+  - "Obras de referência sobre \"Thorfinn the Mighty\" (pais, reinado, Karl Hundason, Rögnvald, Roma, morte, tabela \"tradição vs. corroboração\")"
+  - "*Orkneyinga saga* e *Heimskringla* (Saga de Olavo), segundo as fontes"
+  - "Thomson (2008), Woolf (2007), Muir (2005) e Crawford (1987), citados em obras de referência"
 tags: [thorfinn sigurdsson, órcades, orkneyinga saga, karl hundason, birsay]
 ---
 

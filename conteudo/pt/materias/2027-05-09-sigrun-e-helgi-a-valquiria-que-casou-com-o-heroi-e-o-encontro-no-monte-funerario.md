@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto escuro e cabelo claro, de pé diante da porta aberta de um monte funerário coberto de grama, com uma lamparina na mão, e lá dentro um guerreiro de cota de malha coberto de geada sentado num banco de pedra, sob um céu de fim de noite."
 fontes:
   - "Edda poética, Helgakviða Hundingsbana I e II (manuscrito Codex Regius, cerca de 1270; tradução inglesa de Henry Adams Bellows)"
-  - "Wikipédia em inglês, artigos \"Helgakviða Hundingsbana I\" e \"Helgakviða Hundingsbana II\""
+  - "Obras de referência em inglês, artigos \"Helgakviða Hundingsbana I\" e \"Helgakviða Hundingsbana II\""
 tags: [sigrún, helgi hundingsbani, helgakviða hundingsbana, edda poética, codex regius, valquírias, kára, völsungar]
 ---
 

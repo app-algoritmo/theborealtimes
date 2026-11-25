@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/heidrun-cabra-valhalla-hidromel.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma cabra de pelagem clara de pé sobre o telhado de escudos dourados de um grande salão de madeira, mordiscando as folhas de uma árvore enorme de galhos retorcidos; do úbere cai um fio dourado de hidromel num grande caldeirão de ferro, enquanto guerreiros barbudos erguem chifres de beber lá embaixo, sob um céu de nuvens alaranjadas."
 fontes:
-  - "Wikipedia, \"Heiðrún\" (Grímnismál, Gylfaginning, Hyndluljóð, árvore Læraðr, cervo Eikþyrnir, hipótese de Liberman, etimologia debatida)"
+  - "Obras de referência sobre \"Heiðrún\" (Grímnismál, Gylfaginning, Hyndluljóð, árvore Læraðr, cervo Eikþyrnir, hipótese de Liberman, etimologia debatida)"
 tags: [heiðrún, valhalla, grímnismál, læraðr, eikþyrnir]
 ---
 

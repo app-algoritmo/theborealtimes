@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gulating-assembleia-oeste-noruega.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en forsamling under åpen himmel i en bukt på Vestlandet, med dusinvis av menn i fargede kapper samlet i en halvsirkel på en eng ved en fjord, stripete telt av lerret, en taler som står på en stein og en mann som skriver på pergament; trebåter trukket opp på stranda, fjell bak og klar himmel."
 fontes:
-  - "Wikipedia, «Gulating» (sted, tidsrom, Håkon den gode, eldre og yngre Gulatingslova, Magnus Lagabøte, håndskrifter, mannebot)"
+  - "Oppslagsverk om «Gulating» (sted, tidsrom, Håkon den gode, eldre og yngre Gulatingslova, Magnus Lagabøte, håndskrifter, mannebot)"
 tags: [gulating, ting, lov, norge, vikingtid]
 ---
 

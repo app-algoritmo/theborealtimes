@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/nydam-o-barco-do-pantano.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk myr ved daggry, med en lang klinkbygd eikebåt som stiger opp av gjørma, omgitt av menn i 1800-talls hatter og frakker med spader, og i bakgrunnen et lite hvitt hus og en grå himmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Nydam Mose», med utgravningene 1859 til 1863 og fra 1989, dateringen og båtens nåværende plassering"
-  - "Nasjonalmuseet i Danmark og Nydam-selskapet, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Nydam Mose», med utgravningene 1859 til 1863 og fra 1989, dateringen og båtens nåværende plassering"
+  - "Nasjonalmuseet i Danmark og Nydam-selskapet, sitert i oppslagsverk"
 tags: [nydam, nydambåten, nydam mose, conrad engelhardt, sønderborg, gottorf, jernalder, offer]
 ---
 

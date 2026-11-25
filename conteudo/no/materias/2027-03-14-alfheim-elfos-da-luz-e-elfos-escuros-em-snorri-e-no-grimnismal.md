@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon delt i to: øverst en lys lysning med slanke, gullhår
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning)"
   - "Grímnismál, strofe 5, Den eldre Edda (oversettelse av Carolyne Larrington, 1996)"
-  - "Wikipedia, \"Álfheimr\""
+  - "Oppslagsverk om \"Álfheimr\""
 tags: [álfheimr, alver, frøy, snorre, grímnismál, norrøn mytologi]
 ---
 

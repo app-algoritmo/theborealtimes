@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ole-bull-o-violinista-de-bergen-que-fundou-um-te
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en langhåret fiolinist i mørk frakk som spiller på en tredeskopp, med en lys fiolin under haken, foran et publikum ved levende lys, og i et vindu bak ham en norsk havneby med tre hus ved en fjord."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Ole Bull»"
+  - "Engelsk Oppslagsverk om artikkelen «Ole Bull»"
 tags: [ole bull, fiolin, bergen, det norske theater, oleana, grieg, 1800-tallet]
 ---
 

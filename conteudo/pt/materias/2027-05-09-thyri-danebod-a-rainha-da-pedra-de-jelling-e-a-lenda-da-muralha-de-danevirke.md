@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thyri-danebod-a-muralha-de-jelling.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto longo e véu, de pé numa colina verde ao lado de uma grande pedra com sulcos entalhados, olhando para uma longa muralha de terra e estacas de madeira que corta uma planície até o horizonte, com operários empilhando blocos de turfa ao longe sob um céu aberto."
 fontes:
-  - "Wikipédia em inglês, artigo \"Thyra Danebod\", com as passagens de Saxo Grammaticus, Sven Aggesen, Historia Norwegiæ, Jómsvíkinga saga e a inscrição de Jelling 1"
+  - "Obras de referência em inglês, artigo \"Thyra Danebod\", com as passagens de Saxo Grammaticus, Sven Aggesen, Historia Norwegiæ, Jómsvíkinga saga e a inscrição de Jelling 1"
   - "Estudos citados no artigo: Imer, Åhfeldt e Zedig (2023), Randsborg (2008), Hollander (1928), Lund (2020) e Bregnsbo e Jensen (2022)"
 tags: [þyri, thyra, danebod, gorm o velho, jelling, danevirke, saxo grammaticus, sven aggesen, runas]
 ---

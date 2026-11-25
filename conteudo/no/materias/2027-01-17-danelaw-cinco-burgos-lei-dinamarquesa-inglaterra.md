@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/danelaw-cinco-burgos-inglaterra.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en engelsk slette med åkre og myrer tidlig på 900-tallet, med en bosetning av tømmerhus omgitt av en grøft og en palisade, og en jordvei der en blandet gruppe menn i ullkapper krangler ved en stein; i det fjerne en bro og en steinkirke under lave skyer."
 fontes:
-  - "Wikipedia, «Danelaw» (navnets opprinnelse, traktaten mellom Alfred og Guthrum, de fem byene, utstrekning, stedsnavn, gjenerobringen ved Edvard den eldre)"
+  - "Oppslagsverk om «Danelaw» (navnets opprinnelse, traktaten mellom Alfred og Guthrum, de fem byene, utstrekning, stedsnavn, gjenerobringen ved Edvard den eldre)"
 tags: [danelagen, fem byer, alfred, guthrum, england]
 ---
 

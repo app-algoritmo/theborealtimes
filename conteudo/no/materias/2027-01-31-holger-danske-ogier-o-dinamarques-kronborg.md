@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/holger-danske-kronborg.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kriger med hvitt skjegg og hvitt hår i ringbrynje og hjelm, som sitter sovende ved et steinbord i en krypt under et renessanseslott ved sjøen, med skjegget strukket over bordet og sverdet hvilende på kneet; i bakgrunnen en steintrapp og fakkelskjær, og et lite dansk flagg i et hjørne."
 fontes:
-  - "Wikipedia, «Holger Danske» (Rolandskvadet, La Chevalerie Ogier de Danemarche, Karlamagnús saga, Christiern Pedersen i 1534, Kronborg-sagnet, Keightley, Thiele, Andersen, statuen fra 1907, Kunzens opera, Ingemann, den danske motstandsbevegelsen, mulige historiske forbilder)"
+  - "Oppslagsverk om «Holger Danske» (Rolandskvadet, La Chevalerie Ogier de Danemarche, Karlamagnús saga, Christiern Pedersen i 1534, Kronborg-sagnet, Keightley, Thiele, Andersen, statuen fra 1907, Kunzens opera, Ingemann, den danske motstandsbevegelsen, mulige historiske forbilder)"
 tags: [holger danske, ogier danskeren, kronborg, rolandskvadet, karl den store, danmark]
 ---
 

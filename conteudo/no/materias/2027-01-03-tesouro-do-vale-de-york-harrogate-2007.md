@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vale-de-york-tesouro-prata.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en engelsk beitemark en kald januardag, med en mann og en gutt i vinterjakker som holder en metalldetektor, og en grunn grop der et forgylt sølvkar fullt av mynter vises, med en tykk gullarmring og biter av kuttet sølv ved siden av; i bakgrunnen en lav steinmur, sauer og en klar himmel."
 fontes:
-  - "Wikipedia, «Vale of York Hoard» (funn, innhold, datering, skattefunnundersøkelse, innkjøp, opphav til gjenstandene)"
+  - "Oppslagsverk om «Vale of York Hoard» (funn, innhold, datering, skattefunnundersøkelse, innkjøp, opphav til gjenstandene)"
 tags: [vale of york-skatten, harrogate, sølv, mynter, athelstan]
 ---
 

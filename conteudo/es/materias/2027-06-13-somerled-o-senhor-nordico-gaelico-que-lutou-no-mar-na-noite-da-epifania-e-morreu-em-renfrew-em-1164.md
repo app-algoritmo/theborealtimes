@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/somerled-o-senhor-nordico-gaelico-da-batalha-nav
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una batalla naval nocturna entre dos grupos de barcos con proa de cabeza de dragón, en un mar oscuro iluminado por antorchas, con un guerrero con yelmo y escudo redondo en la proa del barco delantero y montañas escocesas al fondo."
 fontes:
-  - "Wikipedia en inglés, artículo «Somerled»"
+  - "Obras de referencia en inglés, artículo «Somerled»"
 tags: [somerled, sumarliði, islas escocesas, argyll, isla de man, crovan, clan donald, renfrew]
 ---
 

@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/nott-dagr-carruagens.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de duas carruagens cruzando um céu nórdico: à frente, uma carruagem escura e prateada puxada por um cavalo de espuma branca, com uma figura feminina de capa; atrás, uma carruagem clara e dourada puxada por um cavalo de crina radiante, com um jovem luminoso; abaixo, uma terra coberta de orvalho."
 fontes:
-  - "Wikipedia, \"Nótt\" (família, cavalo Hrímfaxi, fontes da Edda)"
-  - "Wikipedia, \"Dagr\" (parentesco, cavalo Skinfaxi, carruagem, divergência entre manuscritos)"
+  - "Obras de referência sobre \"Nótt\" (família, cavalo Hrímfaxi, fontes da Edda)"
+  - "Obras de referência sobre \"Dagr\" (parentesco, cavalo Skinfaxi, carruagem, divergência entre manuscritos)"
 tags: [nótt, dagr, noite e dia, skinfaxi, hrímfaxi, edda, odin]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/stortebeker-o-pirata-do-baltico-e-do-mar-do-nort
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et krigsskip av tre, med brede seil og akterslott, som entrer et annet skip i et grått Nordsjøen-hav, med menn i vams og korte sverd på dekk, uten blod, under tunge skyer ved daggry."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Klaus Störtebeker»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Klaus Störtebeker»"
 tags: [störtebeker, vitaliebrødrene, sjørøveri, hansaen, hamburg, visby, 1401]
 ---
 

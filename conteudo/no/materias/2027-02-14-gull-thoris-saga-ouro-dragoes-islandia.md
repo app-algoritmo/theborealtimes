@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gull-thoris-saga-ouro-dragoes.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en nordisk kriger i mørk kappe ved munningen av en fuktig hule ved siden av en foss, med kister og gullmynter bak seg og skyggen av en drage sammenrullet over skatten; i det fjerne de grønne åsene i en islandsk fjord under en himmel med lave skyer."
 fontes:
-  - "Wikipedia, «Gull-Þóris saga» (miljø, handling, forfatterskap tilskrevet Sturla Þórðarson)"
+  - "Oppslagsverk om «Gull-Þóris saga» (miljø, handling, forfatterskap tilskrevet Sturla Þórðarson)"
   - "Danmarks Nationalleksikon (lex.dk), «Guld-Tores saga» (datering, håndskrift, handling, dragemotivet)"
 tags: [gull-tores saga, torskfirdingenes saga, drager, island, landnåm, gull]
 ---

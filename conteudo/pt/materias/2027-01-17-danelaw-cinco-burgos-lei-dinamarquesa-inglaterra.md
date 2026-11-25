@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/danelaw-cinco-burgos-inglaterra.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma planície inglesa de campos e brejos no começo do século X, com um povoado de casas de madeira cercado por um fosso e uma paliçada, e uma estrada de terra batida onde um grupo misto de homens de capas de lã discute junto a uma pedra; ao longe, uma ponte e uma igreja de pedra, sob nuvens baixas."
 fontes:
-  - "Wikipedia, \"Danelaw\" (origem do nome, tratado de Alfredo e Guthrum, Cinco Burgos, extensão, nomes de lugar, reconquista por Eduardo, o Velho)"
+  - "Obras de referência sobre \"Danelaw\" (origem do nome, tratado de Alfredo e Guthrum, Cinco Burgos, extensão, nomes de lugar, reconquista por Eduardo, o Velho)"
 tags: [danelaw, cinco burgos, alfredo, guthrum, inglaterra]
 ---
 

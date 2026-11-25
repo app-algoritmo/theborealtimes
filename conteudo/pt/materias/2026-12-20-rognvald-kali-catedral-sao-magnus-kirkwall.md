@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/rognvald-kirkwall-catedral.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma catedral de arenito vermelho e amarelo sendo erguida numa pequena cidade portuária das Órcades, com andaimes de madeira, pedreiros e carroças de pedra; no primeiro plano, um nobre de manto escuro e cabelos claros observando a obra com um pergaminho na mão, e ao fundo o mar cinzento com barcos de vela."
 fontes:
-  - "Wikipedia, \"Rögnvald Kali Kolsson\" (vida, Órcades, catedral, peregrinação e morte)"
-  - "Wikipedia, \"St Magnus Cathedral\" (a catedral de Kirkwall)"
-  - "*Orkneyinga saga* (principal fonte narrativa sobre o conde, segundo a Wikipedia)"
+  - "Obras de referência sobre \"Rögnvald Kali Kolsson\" (vida, Órcades, catedral, peregrinação e morte)"
+  - "Obras de referência sobre \"St Magnus Cathedral\" (a catedral de Kirkwall)"
+  - "*Orkneyinga saga* (principal fonte narrativa sobre o conde, segundo as fontes)"
 tags: [rögnvald kali, são magnus, kirkwall, orkney, orkneyinga saga]
 ---
 

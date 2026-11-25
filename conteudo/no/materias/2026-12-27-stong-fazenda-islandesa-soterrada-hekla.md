@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/stong-fazenda-hekla-cinza.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk dal dekket av aske og mose med en hvit vulkantopp i bakgrunnen, hvor en lang, lav middelaldergård av torv har grønt tak og en rad steiner i grunnmuren; i tunet bærer en kvinne med slør og en mann i kappe ved, og en liten torvkirke skimtes lenger bort."
 fontes:
-  - "Wikipedia, «Þjóðveldisbærinn Stöng» (beliggenhet, nedgraving i 1104, gjenoppbygging 1974–1977, kirken fra 2000)"
+  - "Oppslagsverk om «Þjóðveldisbærinn Stöng» (beliggenhet, nedgraving i 1104, gjenoppbygging 1974–1977, kirken fra 2000)"
   - "EXARC, «Þjóðveldisbærinn – Viking farm Stöng» (utgravinger på 1930-tallet, omtrent 40 gårder)"
   - "Guide to Iceland, «Stöng – Ruins of a Real Viking Settlement Manor and the Reconstructed Saga-Age Farm in Iceland» (utgraving i 1939, rom, Gaukur Trandilsson, kopi)"
 tags: [stöng, þjórsárdalur, hekla, vikinggård, gaukur trandilsson]

@@ -1,6 +1,6 @@
 ---
 titulo: "Hólmgangen: duellen på oksehuden, de tre skjoldene og forbudet i 1006"
-resumo: "Hólmgangen var den regulerte duellen i de norrøne sagaene: en oksehud på bakken, tre kanter rundt, tre skjold hver og kamp til første blod. Se reglene ifølge Wikipedia og Kormáks saga, hva vinneren fikk og hvorfor Island forbød duellen i 1006."
+resumo: "Hólmgangen var den regulerte duellen i de norrøne sagaene: en oksehud på bakken, tre kanter rundt, tre skjold hver og kamp til første blod. Se reglene ifølge kildene og Kormáks saga, hva vinneren fikk og hvorfor Island forbød duellen i 1006."
 secao: "Vikingtid"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/holmganga-o-duelo-sobre-o-couro.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to menn med skjold og sverd som står mot hverandre på en oksehud spent ut på bakken på en slette, med hasselstaver i hjørnene og linjer risset rundt, mens en liten folkemengde ser på i stillhet fra en bakketopp."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Holmgang», med reglene fra Kormáks saga, Egils saga, fragmentet fra Västgötalagen og forbudet"
-  - "Engelsk Wikipedia, artikkelen «Gunnlaugr ormstunga», sitert for duellen med Hrafn Önundarson"
+  - "Engelsk Oppslagsverk om artikkelen «Holmgang», med reglene fra Kormáks saga, Egils saga, fragmentet fra Västgötalagen og forbudet"
+  - "Engelsk Oppslagsverk om artikkelen «Gunnlaugr ormstunga», sitert for duellen med Hrafn Önundarson"
 tags: [hólmgang, holmgang, duell, kormáks saga, egils saga, gunnlaugr ormstunga, norrøn rett, islendingesagaer]
 ---
 

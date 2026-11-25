@@ -12,7 +12,7 @@ fontes:
   - "Laxdœla saga (século XIII), capítulos sobre Eiðr, Þorkell Eyjólfsson e Gellir"
   - "Kormáks saga, capítulos 9 e 10, sobre o duelo com Bersi"
   - "Hrólfs saga kraka (século XIV), que chama Skofnung de a melhor das espadas do Norte"
-  - "Wikipédia em inglês, artigo \"Skofnung\", com as referências a Oakeshott (1991) e Whetter e McDonald (2006)"
+  - "Obras de referência em inglês, artigo \"Skofnung\", com as referências a Oakeshott (1991) e Whetter e McDonald (2006)"
 tags: [skofnung, hrólf kraki, laxdæla saga, kormáks saga, espadas, eiðr, þorkell eyjólfsson, gellir]
 ---
 

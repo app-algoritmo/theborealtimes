@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ljosvetninga-saga-gudmundr-e-os-ljosvetningar.we
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira em um vale do norte da Islândia, onde um chefe de manto azul e anel de ouro no braço discute de pé diante de um grupo de homens armados, enquanto um velho de capuz, num canto, parece dormir com a cabeça apoiada na mão."
 fontes:
-  - "Wikipédia em inglês, artigo \"Ljósvetninga saga\""
+  - "Obras de referência em inglês, artigo \"Ljósvetninga saga\""
   - "Ljósvetninga saga, edição de Björn Sigfússon (1940)"
   - "Andersson e Miller, tradução \"Law and Literature in Medieval Iceland\" (1989), que traz também a Valla-Ljóts saga"
 tags: [ljósvetninga saga, guðmundr inn ríki, ljósavatn, sagas islandesas, drauma-finni, haakon jarl, manuscritos]

@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et stort, buet horn av mørkt metall med gullbånd 
 fontes:
   - "Snorre Sturluson, Snorres Edda, Gylfaginning, kapittel 15, 27 og 51 (omkring 1220)"
   - "Den poetiske Edda, Völuspá (manuskripter fra 1200-tallet)"
-  - "Engelsk Wikipedia, artiklene «Gjallarhorn» og «Mímisbrunnr», med sitater fra Rudolf Simek og John Lindow"
+  - "Engelsk Oppslagsverk om artiklene «Gjallarhorn» og «Mímisbrunnr», med sitater fra Rudolf Simek og John Lindow"
 tags: [gjallarhorn, heimdall, mime, ragnarok, gylfaginning, völuspá, yggdrasil]
 ---
 

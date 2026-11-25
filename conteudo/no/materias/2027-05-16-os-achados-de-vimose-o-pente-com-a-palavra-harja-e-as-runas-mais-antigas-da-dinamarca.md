@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/pente-de-vimose-harja-runas-mais-antigas.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en fintannet beinkam med runer risset inn i ryggen, ved siden av et bronsespenne, en slirebeslag og en spydspiss, lagt ut på en mørk klut på en arkeologs bord, med et forstørrelsesglass ved siden av."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Vimose inscriptions» (liste over gjenstander, dateringer og lesninger)"
-  - "Elmar Seebold, essay fra 1994 om språklig tolkning av de arkaiske innskriftene (sitert av Wikipedia)"
+  - "Engelsk Oppslagsverk om artikkelen «Vimose inscriptions» (liste over gjenstander, dateringer og lesninger)"
+  - "Elmar Seebold, essay fra 1994 om språklig tolkning av de arkaiske innskriftene (sitert av oppslagsverk)"
 tags: [vimose, harja, runer, eldre futhark, danmark, fyn, kam]
 ---
 

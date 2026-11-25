@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/grobina-montes-funerarios.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma paisagem plana junto ao mar Báltico, com dezenas de pequenos montes cobertos de grama alinhados em campo aberto, uma colina com restos de um forte ao fundo e uma pedra com desenhos gravados em pé entre os montes."
 fontes:
-  - "Wikipedia, \"Grobin\" (localização, escavações de Nerman, cemitérios, pedra decorada, Rimbert)"
+  - "Obras de referência sobre \"Grobin\" (localização, escavações de Nerman, cemitérios, pedra decorada, Rimbert)"
   - "UNESCO, Lista Indicativa, Grobiņa (nº 6258) (descrição do sítio, cemitérios, argumentos da candidatura)"
 tags: [grobiņa, letônia, liepāja, gotland, priediens, seeburg, rimbert]
 ---

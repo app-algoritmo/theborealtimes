@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-cofre-de-franks-o-cofre-de-osso-de-baleia-com-
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et lite skrin av lyst hvalbein på et tre bord, med sidene skåret med scener av en fanget smed, tre konger med gaver og to tvillinger som ammes av en ulvinne, og runebånd gravert rundt."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Franks Casket»"
+  - "Engelsk Oppslagsverk om artikkelen «Franks Casket»"
 tags: [franks casket, auzon, weland, runer, gammelengelsk, northumbria, british museum]
 ---
 

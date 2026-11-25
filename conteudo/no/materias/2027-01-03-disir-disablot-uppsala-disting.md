@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/disir-disablot-uppsala.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy trehall i Uppsala en kald natt seint på vinteren, med kvinner i mørke kapper og andre i hvite rundt en offerstein farget rød, et bål og malte bjelker; utenfor, et snødekt marked, boder og vogner, og en mørk hest som snubler ved hallen."
 fontes:
-  - "Wikipedia, «Dís» (betydning, belegg i Den eldre Edda, Merseburg-formelen, sagaer, forhold til valkyrjer, norner og følger)"
-  - "Wikipedia, «Dísablót» (Uppsala, Heimskringla, Ynglinga saga, Hervarar saga, Disting)"
-  - "Wikipedia, «Disting» (markedet i Uppsala)"
+  - "Oppslagsverk om «Dís» (betydning, belegg i Den eldre Edda, Merseburg-formelen, sagaer, forhold til valkyrjer, norner og følger)"
+  - "Oppslagsverk om «Dísablót» (Uppsala, Heimskringla, Ynglinga saga, Hervarar saga, Disting)"
+  - "Oppslagsverk om «Disting» (markedet i Uppsala)"
 tags: [dísir, dísablót, uppsala, disting, valkyrjer]
 ---
 

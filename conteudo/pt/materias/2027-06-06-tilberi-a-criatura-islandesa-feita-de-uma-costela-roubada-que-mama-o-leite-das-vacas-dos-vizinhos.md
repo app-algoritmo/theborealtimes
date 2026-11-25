@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tilberi-a-criatura-que-rouba-leite-na-islandia.w
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração noturna de um curral de turfa na Islândia, onde uma criatura pálida e comprida, feita de lã cinzenta e com um osso por dentro, estica o corpo para alcançar o úbere de uma vaca, enquanto uma janela de leiteria brilha ao fundo, com uma mulher de lenço observando."
 fontes:
-  - "Wikipédia em inglês, artigo \"Tilberi\""
+  - "Obras de referência em inglês, artigo \"Tilberi\""
   - "Jacqueline Simpson, \"Icelandic Folktales and Legends\" (1972)"
   - "Jón Árnason, \"Íslenzkar þjóðsögur og æfintýri\" (1862-1864)"
   - "Kvideland e Sehmsdorf, \"Scandinavian Folk Belief and Legend\" (1988)"

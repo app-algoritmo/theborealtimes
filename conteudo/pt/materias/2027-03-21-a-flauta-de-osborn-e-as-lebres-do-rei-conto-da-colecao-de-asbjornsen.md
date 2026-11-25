@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz de camisa de lã sentado numa colina tocando uma flauta de madeira, cercado de dezenas de lebres que se reúnem ao redor dele; ao longe, o castelo do rei e uma princesa na torre observando."
 fontes:
   - "Peter Christen Asbjørnsen, Tales from the Fjeld, tradução de George Webbe Dasent, conto \"Osborn's Pipe\" (Projeto Gutenberg, ebook 36385)"
-  - "Wikipedia, \"Norwegian Folktales\""
+  - "Obras de referência sobre \"Norwegian Folktales\""
 tags: [osborn, flauta, lebres, asbjørnsen, dasent, conto popular, noruega]
 ---
 

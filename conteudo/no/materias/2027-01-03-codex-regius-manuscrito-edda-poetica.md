@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor middelalderbok som ligger åpen på et trebord i et steinrom med smalt vindu, mørke pergamentsider med linjer av tett skrift og fargede initialer; ved siden av en fjærpenn, et hornblekkhus og et lys, og i bakgrunnen en hylle med andre kodekser og et gammelt islandsk flagg."
 fontes:
   - "Britannica, «Codex Regius» og «Poetic Edda» (datering, antall dikt, sider, håndskriftets historie)"
-  - "Wikipedia, «Codex Regius» (Brynjólfur Sveinsson, sending til Danmark, retur i 1971, hull)"
+  - "Oppslagsverk om «Codex Regius» (Brynjólfur Sveinsson, sending til Danmark, retur i 1971, hull)"
 tags: [codex regius, den eldre edda, håndskrift, island, brynjólfur]
 ---
 

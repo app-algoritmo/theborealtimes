@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en skjeggete mann i mørk kappe på en fjordskråni
 fontes:
   - "Landnámabók (Landnåmsboken), slik den er gjengitt av Islands miljøbyrå (Umhverfisstofnun) om Vatnsfjörður"
   - "Umhverfisstofnun, \"Hrafna-Flóki and Flókatóftir\""
-  - "Wikipedia, \"Settlement of Iceland\""
+  - "Oppslagsverk om \"Settlement of Iceland\""
 tags: [hrafna-flóki, island, landnámabók, vatnsfjörður, høy, landnåmet av island]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/kjalnesinga-saga-bui-esja-e-o-templo-em-chamas.w
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy, blek ung mann med en lærslynge i hånden, stående foran et brennende tretempel om natten, med en stor trollkvinne med langt, mørkt hår bak seg i fjellsiden, under en himmel full av gnister."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Kjalnesinga saga», og en bloggkommentar om sagaen"
+  - "Engelsk Oppslagsverk om artikkelen «Kjalnesinga saga», og en bloggkommentar om sagaen"
   - "Håndskrift AM 471 4to"
   - "Oversettelse av Waggoner (2010)"
 tags: [kjalnesinga saga, búi andríðsson, esja, jökull, harald hårfagre, islendingesagaer, tempel, am 471 4to]

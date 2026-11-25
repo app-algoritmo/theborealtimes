@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tesouro-de-hoen-joias.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et museumsbord med et halsbånd av små fargede glassperler, sølvmynter med arabisk preg, et trelappet gullspenne og en bysantinsk medaljong, under mykt lys; i bakgrunnen viser et vindu en norsk dal med en elv og en gård."
 fontes:
-  - "Wikipedia, «Hoen treasure» (funn, skjulested under krigen, telling, museum)"
+  - "Oppslagsverk om «Hoen treasure» (funn, skjulested under krigen, telling, museum)"
   - "Store norske leksikon (snl.no), «Hoenskatten» (sammensetning, opprinnelse, nedleggelsestidspunkt, hypoteser)"
 tags: [hoenskatten, hoen, buskerud, vikingtid, kufiske mynter, smykker, 1834]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/huginn-muninn-corvos.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en énøyd gud i blå kappe og bredbremmet hatt, sittende på en høy trone i skumringen, med to svarte ravner på skuldrene, én som hvisker i hvert øre; i bakgrunnen en vid verden av marker, skoger og hav sett ovenfra, og en tredje fugl som flyr langt borte over et fjell."
 fontes:
-  - "Wikipedia, «Huginn and Muninn» (primærkilder, navnenes betydning, arkeologiske funn og moderne tolkninger)"
+  - "Oppslagsverk om «Huginn and Muninn» (primærkilder, navnenes betydning, arkeologiske funn og moderne tolkninger)"
   - "*Den poetiske Edda*, «Grímnismál» (strofen om ravnene)"
   - "Snorre Sturlason, *Snorres Edda* (*Gylfaginning*) og *Heimskringla* (*Ynglingesaga*)"
 tags: [huginn, muninn, odin, ravner, grímnismál]

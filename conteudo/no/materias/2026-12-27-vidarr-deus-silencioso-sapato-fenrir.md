@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/vidarr-sapato-fenrir.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mark med høyt gress og kratt under en blodrød himmel ved verdens ende, hvor en taus gud i mørkegrønn kappe setter en enorm sko av lappet lær på underkjeven til en gigantisk ulv og holder overkjeven med hånden; i bakgrunnen silhuetten av en falt Odin og skjæret fra Surtrs ild."
 fontes:
-  - "Wikipedia, «Víðarr» (Den poetiske Edda, Snorres Edda, Gosforth-korset og teorier)"
-  - "*Völuspá*, *Vafþrúðnismál* og *Grímnismál* i Den poetiske Edda, etter Wikipedia"
-  - "*Gylfaginning* (kap. 29 og 51) og *Skáldskaparmál* av Snorre Sturlason, etter Wikipedia"
+  - "Oppslagsverk om «Víðarr» (Den poetiske Edda, Snorres Edda, Gosforth-korset og teorier)"
+  - "*Völuspá*, *Vafþrúðnismál* og *Grímnismál* i Den poetiske Edda, etter oppslagsverk"
+  - "*Gylfaginning* (kap. 29 og 51) og *Skáldskaparmál* av Snorre Sturlason, etter oppslagsverk"
 tags: [víðarr, vidar, fenrir, ragnarok, gosforth]
 ---
 

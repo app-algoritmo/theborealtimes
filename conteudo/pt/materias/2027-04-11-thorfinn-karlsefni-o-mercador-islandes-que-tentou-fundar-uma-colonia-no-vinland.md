@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um navio longo nórdico encalhado numa praia de sei
 fontes:
   - "Eiríks saga rauða (Saga de Érico, o Vermelho)"
   - "Grænlendinga saga (Saga dos Groenlandeses)"
-  - "Wikipédia em inglês, artigo \"Thorfinn Karlsefni\", para confrontar as duas sagas"
+  - "Obras de referência em inglês, artigo \"Thorfinn Karlsefni\", para confrontar as duas sagas"
 tags: [thorfinn karlsefni, vinland, eiríks saga rauða, grænlendinga saga, gudrid, freydís, skrælings]
 ---
 

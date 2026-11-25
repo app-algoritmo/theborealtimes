@@ -10,7 +10,7 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una mujer con capa oscura y cabello claro, de pie ante la puerta abierta de un túmulo cubierto de hierba, con una lámpara en la mano, y dentro un guerrero con cota de malla cubierto de escarcha sentado en un banco de piedra, bajo un cielo de madrugada."
 fontes:
   - "Edda poética, Helgakviða Hundingsbana I y II (manuscrito Codex Regius, hacia 1270; traducción inglesa de Henry Adams Bellows)"
-  - "Wikipedia en inglés, artículos «Helgakviða Hundingsbana I» y «Helgakviða Hundingsbana II»"
+  - "Obras de referencia en inglés, artículos «Helgakviða Hundingsbana I» y «Helgakviða Hundingsbana II»"
 tags: [sigrún, helgi hundingsbani, helgakviða hundingsbana, edda poética, codex regius, valquirias, kára, völsungos]
 ---
 

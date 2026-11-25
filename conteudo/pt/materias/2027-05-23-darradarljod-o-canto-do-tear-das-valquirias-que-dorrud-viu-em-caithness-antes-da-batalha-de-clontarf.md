@@ -10,8 +10,8 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma cabana de pedra à noite, vista de fora, onde doze mulheres de mantos escuros tecem diante de um grande tear de pé, com fios longos e pesos redondos de pedra pendurados, enquanto um homem de capa, no escuro do lado de fora, as observa."
 fontes:
   - "Njáls saga, capítulo 157, que conserva o poema Darraðarljóð (saga islandesa do século XIII)"
-  - "Wikipédia em inglês, artigo \"Darraðarljóð\""
-  - "Wikipédia em inglês, artigo \"Warp-weighted loom\""
+  - "Obras de referência em inglês, artigo \"Darraðarljóð\""
+  - "Obras de referência em inglês, artigo \"Warp-weighted loom\""
 tags: [darraðarljóð, valquírias, njáls saga, clontarf, tear, caithness, poesia escáldica]
 ---
 

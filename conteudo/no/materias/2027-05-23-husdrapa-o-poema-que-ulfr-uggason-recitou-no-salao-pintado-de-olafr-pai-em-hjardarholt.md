@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/husdrapa-o-salao-de-hjardarholt.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av innsiden av en stor tømret hall i ildskjær, med malte paneler på veggene og i taket som viser en brennende båt, en gud i en liten båt med en slange og to skikkelser som strides om et smykke, mens en skald står og framfører for gjestene."
 fontes:
-  - "Engelsk Wikipedia, artiklene «Húsdrápa» og «Úlfr Uggason»"
+  - "Engelsk Oppslagsverk om artiklene «Húsdrápa» og «Úlfr Uggason»"
   - "Laxdøla saga, som nevner diktet og Óláfr pás hall"
   - "Snorre Sturluson, Snorres Edda (omkring 1220), som bevarer strofene"
 tags: [húsdrápa, úlfr uggason, óláfr pái, hjarðarholt, laxdøla saga, balder, skaldedikt]

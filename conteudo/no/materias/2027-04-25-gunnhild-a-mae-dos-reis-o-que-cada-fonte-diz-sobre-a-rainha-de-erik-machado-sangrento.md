@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gunnhild-a-mae-dos-reis.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vikingdronning med mørkt hår og pelskappe, stående foran en tømmerhall ved en fjordstrand, med tre unge krigere bak seg og et hestehode på en stolpe ved siden av, under lave skyer."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Gunnhild, Mother of Kings», med avsnittene om Heimskringla, Egils saga, Historia Norwegiae, Laksdøla saga, Jómsvikingesaga og kvinnen fra Haraldskær"
+  - "Engelsk Oppslagsverk om artikkelen «Gunnhild, Mother of Kings», med avsnittene om Heimskringla, Egils saga, Historia Norwegiae, Laksdøla saga, Jómsvikingesaga og kvinnen fra Haraldskær"
 tags: [gunnhild, kongemor, eirik blodøks, heimskringla, egils saga, vikingsaga, vikingdronning]
 ---
 

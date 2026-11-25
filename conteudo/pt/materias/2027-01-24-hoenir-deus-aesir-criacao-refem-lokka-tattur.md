@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hoenir-deus-aesir-refem.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus alto e de pernas compridas, de manto verde-musgo, parado à beira de um lago raso ao amanhecer; sete cisnes brancos pousam na água ao redor dele e, ao fundo, um garoto de camisa de lã os observa da margem; neblina fina sobre os juncos e um céu pálido em tons de rosa."
 fontes:
-  - "Wikipedia, \"Hœnir\" (Völuspá, Prose Edda, Ynglinga saga, Haustlöng, Reginsmál, balada Lokka táttur, etimologia e hipótese da cegonha; apoia-se em MacCulloch, Hopkins e Rydberg)"
+  - "Obras de referência sobre \"Hœnir\" (Völuspá, Prose Edda, Ynglinga saga, Haustlöng, Reginsmál, balada Lokka táttur, etimologia e hipótese da cegonha; apoia-se em MacCulloch, Hopkins e Rydberg)"
 tags: [hœnir, æsir, völuspá, ynglinga saga, lokka táttur]
 ---
 

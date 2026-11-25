@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/fastelavn-a-festa-nordica-do-barril-com-o-gato-p
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av barn kledd som katt, heks og ridder i en dansk vinterhage, som slår med en kølle på en trebøtte malt med en katt, hvorfra godteri og appelsiner faller, med fastelavnsboller på et bord og en ris pyntet med fjær."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Fastelavn»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Fastelavn»"
 tags: [fastelavn, slå katten av tønna, kattetønne, fastelavnsbolle, danmark, norge, nordiske tradisjoner]
 ---
 

@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma moça de vestido claro e tranças louras chorando sentada numa rocha à beira de um lago nórdico ao entardecer, com bétulas ao fundo; na água, um pequeno peixe prateado salta perto de um homem velho de barba cinzenta sentado num barco, com uma vara de pesca na mão."
 fontes:
   - "Elias Lönnrot, *Kalevala* (1835, edição antiga; 1849, edição final), Runo 4"
-  - "Wikipédia (inglês), \"Aino (mythology)\", com referências à pintura de Akseli Gallen-Kallela"
+  - "obras de referência (inglês), \"Aino (mythology)\", com referências à pintura de Akseli Gallen-Kallela"
   - "Akseli Gallen-Kallela, *Aino-triptyykki* (1891)"
 tags: [aino, kalevala, väinämöinen, joukahainen, gallen-kallela]
 ---

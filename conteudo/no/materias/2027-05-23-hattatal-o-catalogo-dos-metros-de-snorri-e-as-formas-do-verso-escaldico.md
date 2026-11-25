@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hattatal-snorri-e-as-formas-do-verso.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelaldrende mann i mørkegrønn tunika som sitter ved et trebord i en islandsk hall og skriver med fjærpenn på et pergament fullt av korte linjer, med sammenrullede pergamenter og en oljelampe ved siden av, og et smalt vindu med kaldt lys."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Háttatal»"
+  - "Engelsk Oppslagsverk om artikkelen «Háttatal»"
   - "Snorra-Edda, av Snorre Sturlason"
   - "Første grammatiske avhandling, til sammenligning"
 tags: [háttatal, snorre sturlason, snorra-edda, dróttkvætt, skaldediktning, metrikk, første grammatiske avhandling]

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/svarfdaela-saga-vale.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale estreito no norte da Islândia, com um rio claro descendo entre montanhas escuras de topo nevado; no fundo do vale, uma casa de turfa com fumaça no teto, e duas figuras de capa, uma delas apoiada num bastão, discutindo diante da porta."
 fontes:
-  - "Wikipedia, \"Svarfdæla saga\" (enredo, Thorstein Svarfað, Karl, Ljótólf, datação, capítulo de Rebecca Merkelbach de 2020)"
+  - "Obras de referência sobre \"Svarfdæla saga\" (enredo, Thorstein Svarfað, Karl, Ljótólf, datação, capítulo de Rebecca Merkelbach de 2020)"
   - "Store norske leksikon, \"Soga om svarvdølane\" (duas partes, Landnámabók, manuscritos, lacuna na cópia do século XVII)"
 tags: [svarfdœla saga, svarfaðardalur, karl, ljótólf, islândia, saga]
 ---

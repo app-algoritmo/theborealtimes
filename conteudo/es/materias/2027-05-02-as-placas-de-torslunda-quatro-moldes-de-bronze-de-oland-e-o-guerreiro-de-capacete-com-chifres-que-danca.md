@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/torslunda-as-quatro-matrizes-de-bronze.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de cuatro placas de bronce cuadradas dispuestas sobre un paño oscuro: en una, dos guerreros con cascos de jabalí caminan con lanzas; en otra, un hombre con cuernos baila junto a un hombre cubierto con una piel de lobo; en otra, un hombre sostiene un animal con una cuerda; y en la última, un hombre está entre dos osos."
 fontes:
-  - "Wikipedia en inglés, artículo «Torslunda plates», con la descripción de las cuatro matrices, la datación y las interpretaciones"
-  - "Museo de Historia de Suecia (Statens Historiska Museum), donde se guardan las matrices, citado en Wikipedia"
+  - "Obras de referencia en inglés, artículo «Torslunda plates», con la descripción de las cuatro matrices, la datación y las interpretaciones"
+  - "Museo de Historia de Suecia (Statens Historiska Museum), donde se guardan las matrices, citado en obras de referencia"
 tags: [torslunda, placas de torslunda, öland, vendel, pressblech, casco, odín, úlfhéðnar]
 ---
 

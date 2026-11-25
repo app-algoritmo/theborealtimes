@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ivar-aasen-o-filho-de-camponeses-que-percorreu-a
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i mørk frakk og hatt, med en veske over skulderen, som sitter på en stein foran en norsk dal med fjord og gårder og skriver i en notatbok, med andre notatbøker og en bukett markblomster ved siden av seg."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Ivar Aasen»"
+  - "Engelsk Oppslagsverk om artikkelen «Ivar Aasen»"
 tags: [ivar aasen, landsmål, nynorsk, dialekter, sunnmøre, filologi, norsk språk]
 ---
 

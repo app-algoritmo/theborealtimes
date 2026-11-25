@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/starkad-sorteio-de-odin.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kraftig, eldre nordisk kriger ved kanten av en granskog, med et spyd i hånden, og en mann med bredbremmet hatt og mørkeblå kappe som ser på ham bak et tre; på bakken en trestrimmel med risset tegn og, langt borte, en båt med lyst skrog i en bukt."
 fontes:
-  - "Wikipedia, «Starkad» (de to Starkadene, Odin og Tor, Vikar, Saxo, andre kilder)"
+  - "Oppslagsverk om «Starkad» (de to Starkadene, Odin og Tor, Vikar, Saxo, andre kilder)"
   - "Danmarks Nationalleksikon (lex.dk), «Gautreks Saga» (handling, den åttearmede jotunen, ofringen av Vikar)"
 tags: [starkad, starkaðr, odin, tor, vikar, gautreks saga, saxo]
 ---

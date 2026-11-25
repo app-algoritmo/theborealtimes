@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/solarljod-o-pai-que-fala-do-alem.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gråskjegget mann i lys kappe som står på en høyde ved daggry med hevet hånd foran en stor lav sol der strålene faller i gylne linjer over en dal, mens en ung mann lytter fra en stein."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Sólarljóð»"
-  - "Gro Steinsland, inndeling av diktet som Wikipedia viser til"
-  - "Fredrik Paasche og Peter Hallberg, forskere som Wikipedia viser til"
+  - "Engelsk Oppslagsverk om artikkelen «Sólarljóð»"
+  - "Gro Steinsland, inndeling av diktet som oppslagsverk viser til"
+  - "Fredrik Paasche og Peter Hallberg, forskere som oppslagsverk viser til"
 tags: [sólarljóð, solsangen, islandsk poesi, ljóðaháttr, syn om livet etter døden, håvamål]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/sao-bricio-oxford.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração sóbria de uma igreja de pedra do ano 1000, com a porta escurecida por fumaça, vista de fora ao anoitecer, com um pergaminho aberto em primeiro plano sobre uma mesa de madeira, trazendo uma carta com selo de cera e linhas de escrita em latim antigo, ao lado de uma vela apagada."
 fontes:
-  - "Wikipedia, \"St Brice's Day massacre\" (data, ordem, Crônica Anglo-Saxônica, carta de 1004, achados de Oxford e de Dorset, debate)"
+  - "Obras de referência sobre \"St Brice's Day massacre\" (data, ordem, Crônica Anglo-Saxônica, carta de 1004, achados de Oxford e de Dorset, debate)"
   - "History Today, \"The St Brice's Day Massacre\" (contexto, ordem, Oxford, interpretações)"
 tags: [1002, æthelred, dia de são bricio, oxford, dinamarqueses, arqueologia]
 ---

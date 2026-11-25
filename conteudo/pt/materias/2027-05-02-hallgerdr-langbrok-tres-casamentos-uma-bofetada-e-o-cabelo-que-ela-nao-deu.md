@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/hallgerdr-langbrok-cabelo-longo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher alta de cabelo tão longo que cobre os ombros e as costas, de pé diante de uma porta de madeira, de braços cruzados, enquanto um homem de armadura leve olha para ela do outro lado de um salão com poucas luzes."
 fontes:
-  - "Wikipédia em inglês, artigo \"Hallgerðr Höskuldsdóttir\", com a Landnámabók e a Saga de Njáll"
+  - "Obras de referência em inglês, artigo \"Hallgerðr Höskuldsdóttir\", com a Landnámabók e a Saga de Njáll"
   - "Saga de Njáll, tradução inglesa de George Webbe Dasent, The Story of Burnt Njal, Projeto Gutenberg, cap. 16, 48 e 76"
-  - "Ian Maxwell, Ursula Dronke, George Clark e Andrew Hamer, citados na Wikipédia"
+  - "Ian Maxwell, Ursula Dronke, George Clark e Andrew Hamer, citados em obras de referência"
 tags: [hallgerðr, langbrók, saga de njáll, gunnar, glúmr, þjóstólfr, bergþóra, sagas islandesas]
 ---
 

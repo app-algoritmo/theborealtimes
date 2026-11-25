@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/a-moeda-norueguesa-do-maine.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una moneda de plata perforada con un busto de rey e inscripciones, apoyada en una palma de la mano sobre una capa de tierra oscura, con la bahía y los pinos de Maine al fondo, y una lupa al lado."
 fontes:
-  - "Wikipedia en inglés, artículo «Maine penny» (hallazgo, identificación, datación del sitio y las opiniones enfrentadas)"
-  - "Svein Gullbekk, artículo en el Journal of the North Atlantic (noviembre de 2017), citado en Wikipedia, que defiende que la moneda es un hallazgo genuino"
-  - "Kolbjørn Skaare (Universidad de Oslo), identificación de la moneda, citado en Wikipedia"
+  - "Obras de referencia en inglés, artículo «Maine penny» (hallazgo, identificación, datación del sitio y las opiniones enfrentadas)"
+  - "Svein Gullbekk, artículo en el Journal of the North Atlantic (noviembre de 2017), citado en Obras de referencia sobre que defiende que la moneda es un hallazgo genuino"
+  - "Kolbjørn Skaare (Universidad de Oslo), identificación de la moneda, citado en obras de referencia"
 tags: [moneda de maine, sitio goddard, olaf kyrre, penique noruego, penobscot, vinland, numismática]
 ---
 

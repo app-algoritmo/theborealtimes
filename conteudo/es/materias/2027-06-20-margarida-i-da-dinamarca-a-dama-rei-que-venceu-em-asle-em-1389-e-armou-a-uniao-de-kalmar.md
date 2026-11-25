@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/margarida-i-a-rainha-que-uniu-tres-reinos-nordic
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una reina medieval con manto azul y corona de oro ante un mapa de pergamino de Dinamarca, Noruega y Suecia, con tres pequeñas coronas sobre la mesa, un castillo de piedra por la ventana y un joven con corona a su lado."
 fontes:
-  - "Wikipedia en inglés, artículo «Margaret I of Denmark»"
+  - "Obras de referencia en inglés, artículo «Margaret I of Denmark»"
 tags: [margarita i, unión de kalmar, erik de pomerania, haakon vi, dinamarca, noruega, suecia]
 ---
 

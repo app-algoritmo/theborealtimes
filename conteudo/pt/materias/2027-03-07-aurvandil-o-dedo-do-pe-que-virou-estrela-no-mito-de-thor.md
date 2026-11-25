@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/aurvandil-dedo-estrela.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um gigante de barba ruiva, com um martelo à cintura, vadeando um rio largo e gelado sob céu escuro, com um cesto de vime nas costas; do cesto sai um pé descalço e, no alto, uma estrela branca brilha entre blocos de gelo à deriva."
 fontes:
-  - "Snorri Sturluson, Edda em Prosa (Skáldskaparmál), conforme resumida no verbete \"Aurvandill\" da Wikipédia"
-  - "Verbete \"Gróa\", Wikipédia"
+  - "Snorri Sturluson, Edda em Prosa (Skáldskaparmál), conforme resumida no verbete \"Aurvandill\" da obras de referência"
+  - "Verbete \"Gróa\", obra de referência"
   - "Gesta Danorum, de Saxo Gramático, conforme citada nos mesmos verbetes"
 tags: [aurvandil, thor, groa, estrela, edda em prosa, mitologia nórdica]
 ---

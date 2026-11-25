@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um salão de pedra à luz de tochas com nove relhas
 fontes:
   - "Snorri Sturluson, Heimskringla (sagas de Magnus Descalço e de Harald Gille)"
   - "Encyclopaedia Britannica, \"Harald IV\""
-  - "Wikipedia, \"Harald Gille\""
+  - "Obras de referência sobre \"Harald Gille\""
 tags: [harald gille, haraldr gilli, prova do ferro, heimskringla, sigurd jorsalfar, magnus descalço, guerras civis]
 ---
 

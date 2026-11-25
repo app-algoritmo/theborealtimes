@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um navio longo de casco escuro ancorado perto de um
 fontes:
   - "Orkneyinga saga (escrita por volta de 1200, por um escriba islandês desconhecido)"
   - "Caithness.org, artigo sobre Swein Asleifsson, com trechos citados da saga"
-  - "Wikipédia em inglês, artigo \"Sweyn Asleifsson\", para datas e episódios"
+  - "Obras de referência em inglês, artigo \"Sweyn Asleifsson\", para datas e episódios"
 tags: [svein asleifarson, sweyn asleifsson, orkneyinga saga, órcades, gairsay, dublin, viking]
 ---
 

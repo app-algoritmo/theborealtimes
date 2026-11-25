@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorsteins-saga-sidu-hallssonar-clontarf-e-os-so
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un barco de madera de proa alta, a remos, cruzando un mar gris al amanecer hacia una costa de rocas oscuras, con guerreros de escudos redondos sentados en los bancos y un hombre con capa de pie en la proa, mirando la tierra."
 fontes:
-  - "Wikipedia en inglés, artículo «Þorsteins saga Síðu-Hallssonar»"
+  - "Obras de referencia en inglés, artículo «Þorsteins saga Síðu-Hallssonar»"
   - "Þorsteins þáttr Síðu-Hallssonar (Draumr Þorsteins Síðu-Hallssonar), sobre el destino del héroe"
 tags: [þorsteins saga síðu-hallssonar, clontarf, órcadas, sagas islandesas, jarl sigurðr, þórhaddr, sueño]
 ---

@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a dark-hulled longship anchored near an island of g
 fontes:
   - "Orkneyinga saga (written around 1200 by an unknown Icelandic scribe)"
   - "Caithness.org, article on Swein Asleifsson, with passages quoted from the saga"
-  - "English Wikipedia, article \"Sweyn Asleifsson\", for dates and episodes"
+  - "Reference work in English, article \"Sweyn Asleifsson\", for dates and episodes"
 tags: [svein asleifarson, sweyn asleifsson, orkneyinga saga, orkney, gairsay, dublin, viking]
 ---
 

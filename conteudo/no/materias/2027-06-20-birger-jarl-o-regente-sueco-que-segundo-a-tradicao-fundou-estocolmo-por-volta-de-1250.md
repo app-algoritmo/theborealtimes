@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/birger-jarl-o-regente-que-segundo-a-tradicao-fun
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelalderhøvding i grønn kappe og hertugkrone som står på en liten klippeøy i en innsjø, med stablede tømmerstokker ved siden av, kjøpmannsbåter i bakgrunnen og et steintårn som fortsatt er under bygging."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Birger Jarl»"
+  - "Engelsk Oppslagsverk om artikkelen «Birger Jarl»"
 tags: [birger jarl, stockholm, bjälbo-ætten, magnus ladulås, middelalderens sverige, folkungene, mälaren]
 ---
 

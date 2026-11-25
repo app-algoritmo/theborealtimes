@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ramsund-entalhe-de-sigurd.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande rocha lisa e cinzenta numa floresta de bétulas, com uma faixa de serpente entalhada em curva e, dentro dela, cenas gravadas: um homem junto a uma fogueira com o dedo na boca, pássaros sobre ele, um cavalo carregado e um corpo caído ao lado de uma cabeça e de ferramentas de ferreiro."
 fontes:
-  - "Wikipedia, \"Sigurd stones\" (visão geral, entalhe de Ramsund, pedra de Gök, pedra de Drävle, outras pedras e imagens)"
+  - "Obras de referência sobre \"Sigurd stones\" (visão geral, entalhe de Ramsund, pedra de Gök, pedra de Drävle, outras pedras e imagens)"
 tags: [ramsund, sigurd, fáfnir, pedras de sigurd, södermanland, runas]
 ---
 

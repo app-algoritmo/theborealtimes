@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/hamdismal-os-irmaos-de-gudrun.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to krigere i ringbrynje som rir side om side over et tåkedekt fjell under en grå himmel, med silhuetten av en stor tømret hall i det fjerne og en kvinne i mørk kappe som ser på fra en stein."
 fontes:
-  - "Engelsk Wikipedia, artiklene «Hamðismál» og «Ermanaric»"
-  - "Jordanes, Getica (551), som Wikipedia viser til"
-  - "Annales Quedlinburgenses (slutten av 900-tallet), som Wikipedia viser til"
+  - "Engelsk Oppslagsverk om artiklene «Hamðismál» og «Ermanaric»"
+  - "Jordanes, Getica (551), som oppslagsverk viser til"
+  - "Annales Quedlinburgenses (slutten av 900-tallet), som oppslagsverk viser til"
 tags: [hamðismál, hamdir, sörli, gudrun, jörmunrekkr, ermanarik, den eldre edda]
 ---
 

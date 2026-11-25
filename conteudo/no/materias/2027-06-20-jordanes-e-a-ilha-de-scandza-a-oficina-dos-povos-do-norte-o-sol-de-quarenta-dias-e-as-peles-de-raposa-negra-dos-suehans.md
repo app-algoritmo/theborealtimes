@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/jordanes-e-a-ilha-de-scandza-a-oficina-dos-povos
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bysantinsk skriver i lang tunika på et kontor, med en pergamentrull og et kart over en stor øy i nord, og i et vindu bak ham et snølandskap med kraftige hester, en lav sol ved horisonten og mørke skinn på bordet."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Jordanes»"
-  - "Engelsk Wikipedia, artikkelen «Scandza»"
+  - "Engelsk Oppslagsverk om artikkelen «Jordanes»"
+  - "Engelsk Oppslagsverk om artikkelen «Scandza»"
 tags: [jordanes, getica, scandza, skandinavia, goterne, suehanerne, 500-tallet]
 ---
 

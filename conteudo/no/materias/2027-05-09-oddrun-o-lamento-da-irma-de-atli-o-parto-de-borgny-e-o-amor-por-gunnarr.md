@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i mørkeblå kappe på en grå hest som galopperer langs en snødekt vei mot en stor trehall med lys i vinduene i det fjerne, under en himmel sent på ettermiddagen, med hovspor i snøen bak seg."
 fontes:
   - "Oddrúnargrátr, i den eldre Edda (Codex Regius), i engelsk oversettelse av Henry Adams Bellows, med oversetterens innledende note"
-  - "Engelskspråklig Wikipedia, artikkelen «Oddrúnargrátr»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Oddrúnargrátr»"
 tags: [oddrún, oddrúnargrátr, eldre edda, atle, gunnarr, borgný, codex regius, vølsungsyklusen]
 ---
 

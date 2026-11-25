@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/magnus-bom-lyrskov.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en åpen hei ved daggry, med en rekke norrøne krigere med runde skjold foran en ung konge i rød silkeskjorte med løftet øks, og på himmelen, i gyllen dis, silhuetten av en kronet helgenkonge; langt borte rykker en folkemengde av krigere fram."
 fontes:
-  - "Wikipedia-artikkelen «Battle of Lyrskov Heath»"
-  - "Wikipedia-artikkelen «Magnus the Good»"
+  - "Oppslagsverk om «Battle of Lyrskov Heath»"
+  - "Oppslagsverk om «Magnus the Good»"
   - "Snorre Sturlason, Heimskringla, slik den er sitert i artiklene"
 tags: [magnus den gode, lyrskov hede, 1043, venderne, olav den hellige, hedeby]
 ---

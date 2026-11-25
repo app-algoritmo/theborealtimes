@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/jord-a-terra-mae-de-thor.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una mujer inmensa y serena tendida como un paisaje cubierto de hierba y flores, con montañas en los hombros, y un joven guerrero de barba pelirroja y martillo a su lado, mirándola."
 fontes:
-  - "Wikipedia en inglés, artículo «Jörð», con los pasajes de la Gylfaginning, el Skáldskaparmál, la Völuspá, la Lokasenna y el Hárbarðsljóð"
+  - "Obras de referencia en inglés, artículo «Jörð», con los pasajes de la Gylfaginning, el Skáldskaparmál, la Völuspá, la Lokasenna y el Hárbarðsljóð"
   - "Edda prosaica, Gylfaginning (secciones 10 y 25) y Skáldskaparmál (secciones 4, 19 y 90)"
   - "Edda poética, Völuspá y Lokasenna (estrofa 58)"
 tags: [jörð, thor, odín, tierra, fjörgyn, hlóðyn, gylfaginning, skáldskaparmál]

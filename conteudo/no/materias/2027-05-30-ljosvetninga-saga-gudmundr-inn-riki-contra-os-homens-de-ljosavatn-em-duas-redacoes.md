@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ljosvetninga-saga-gudmundr-e-os-ljosvetningar.we
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor trehall i en dal i Nord-Island, der en høvding i blå kappe med en gullring på armen argumenterer stående foran en gruppe væpnede menn, mens en gammel mann med hette i et hjørne ser ut til å sove med hodet hvilende i hånden."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Ljósvetninga saga»"
+  - "Engelsk Oppslagsverk om artikkelen «Ljósvetninga saga»"
   - "Ljósvetninga saga, utgave ved Björn Sigfússon (1940)"
   - "Andersson og Miller, oversettelsen «Law and Literature in Medieval Iceland» (1989), som også inneholder Valla-Ljóts saga"
 tags: [ljósvetninga saga, guðmundr inn ríki, ljósavatn, islendingesagaer, drauma-finni, håkon jarl, håndskrifter]

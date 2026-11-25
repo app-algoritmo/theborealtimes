@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/svarfdaela-saga-vale.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trang dal i Nord-Island, med en lys elv som renner mellom mørke, snødekte fjell; nede i dalbunnen en torvgård med røyk fra taket, og to kappekledde skikkelser, den ene støttet på en stav, som krangler foran døren."
 fontes:
-  - "Wikipedia, «Svarfdæla saga» (handling, Thorstein Svarfað, Karl, Ljótólf, datering, Rebecca Merkelbachs kapittel fra 2020)"
+  - "Oppslagsverk om «Svarfdæla saga» (handling, Thorstein Svarfað, Karl, Ljótólf, datering, Rebecca Merkelbachs kapittel fra 2020)"
   - "Store norske leksikon, «Soga om svarvdølane» (to deler, Landnámabók, håndskrifter, lakune i kopien fra 1600-tallet)"
 tags: [svarfdœla saga, svarfaðardalur, karl, ljótólf, island, saga]
 ---

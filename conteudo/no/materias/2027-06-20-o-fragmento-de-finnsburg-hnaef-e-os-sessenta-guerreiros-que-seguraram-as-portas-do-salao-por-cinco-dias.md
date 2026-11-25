@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-fragmento-de-finnsburg-hnaef-e-os-sessenta-gue
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av angelsaksiske krigere med runde skjold som forsvarer den doble døra til en stor tømmerhall om natten, med angripernes fakler som rykker fram i snøen og en høvding i rød kappe som står i inngangen og løfter spydet."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Fight at Finnsburg»"
+  - "Engelsk Oppslagsverk om artikkelen «Fight at Finnsburg»"
 tags: [finnsburg, hnæf, hengest, beowulf, angelsaksisk poesi, fragment, hickes]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/fjolsvinnsmal-svipdagr-castelo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um jovem viajante de capa escura diante do portão fechado de um castelo no alto de uma montanha nevada; ao lado do portão, um vigia de barba comprida o observa de cima de um muro de pedra, e ao fundo, numa janela iluminada, aparece a silhueta de uma mulher."
 fontes:
-  - "Wikipedia, \"Fjölsvinnsmál\" (Svipdagsmál, Gróagaldr, manuscritos do século XVII, Hyndluljóð, balada Ungen Sveidal, Svend Grundtvig, Sophus Bugge)"
+  - "Obras de referência sobre \"Fjölsvinnsmál\" (Svipdagsmál, Gróagaldr, manuscritos do século XVII, Hyndluljóð, balada Ungen Sveidal, Svend Grundtvig, Sophus Bugge)"
 tags: [fjölsvinnsmál, svipdagr, menglöð, gróagaldr, edda]
 ---
 

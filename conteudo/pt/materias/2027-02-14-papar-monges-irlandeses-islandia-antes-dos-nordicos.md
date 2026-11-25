@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/papar-monges-costa.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma costa islandesa de basalto negro e musgo verde, com uma pequena ilha ao largo, a ruína de uma cabana de pedra baixa e três figuras de manto escuro e cruz de madeira junto a um barco de couro; no céu, nuvens baixas e uma faixa de luz."
 fontes:
-  - "Wikipedia, \"Papar\" (Íslendingabók, Landnámabók, topônimos, outras fontes)"
+  - "Obras de referência sobre \"Papar\" (Íslendingabók, Landnámabók, topônimos, outras fontes)"
   - "Hurstwic, \"Settlement of Iceland\" (datas do povoamento, vestígios atribuídos aos papar, situação da arqueologia)"
 tags: [papar, monges irlandeses, islândia, landnámabók, íslendingabók, povoamento, ingólfur]
 ---

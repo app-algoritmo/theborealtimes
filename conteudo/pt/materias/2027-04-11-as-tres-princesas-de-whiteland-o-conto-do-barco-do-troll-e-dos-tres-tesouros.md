@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um jovem rei de pé numa charneca ventosa entre tr�
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, Norske Folkeeventyr"
   - "George Webbe Dasent, Popular Tales from the Norse, \"The Three Princesses of Whiteland\" (tradução inglesa)"
-  - "Wikipédia em inglês, artigo \"The Three Princesses of Whiteland\", para a classificação do tipo do conto"
+  - "Obras de referência em inglês, artigo \"The Three Princesses of Whiteland\", para a classificação do tipo do conto"
 tags: [as três princesas de whiteland, asbjørnsen, moe, dasent, contos noruegueses, atu 400]
 ---
 

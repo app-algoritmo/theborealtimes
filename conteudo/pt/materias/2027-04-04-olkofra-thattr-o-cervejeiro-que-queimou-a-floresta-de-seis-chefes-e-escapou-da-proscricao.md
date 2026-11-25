@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem baixo de capuz de lã diante de uma floresta de bétulas parcialmente queimada, com fumaça subindo e seis chefes de capas coloridas em cima de uma rocha ao fundo, sob um céu de primavera na Islândia."
 fontes:
   - "Ölkofra þáttr (Möðruvallabók, século XIV), em tradução inglesa consultada na página \"The Saga of Ale-Hood\" (wevikings.com)"
-  - "Wikipédia em inglês, artigo \"Ölkofra þáttr\", consultado para conferir manuscritos, tradições e estudos"
+  - "Obras de referência em inglês, artigo \"Ölkofra þáttr\", consultado para conferir manuscritos, tradições e estudos"
 tags: [ölkofra þáttr, ale-hood, althing, godaskógr, skafti, snorri, satira jurídica]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/chifres-de-ouro-de-gallehus.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois grandes chifres dourados curvos, cobertos de faixas horizontais de figuras de animais, serpentes e homens em relevo, expostos sobre uma almofada escura em uma sala de museu antiga, com uma lupa e um caderno de desenho ao lado."
 fontes:
-  - "Wikipédia em inglês, artigo \"Golden Horns of Gallehus\" (descoberta, dimensões, inscrição DR 12, roubo de 1802)"
+  - "Obras de referência em inglês, artigo \"Golden Horns of Gallehus\" (descoberta, dimensões, inscrição DR 12, roubo de 1802)"
   - "Ole Worm, De aureo cornu (1641), primeiro desenho conservado"
   - "Adam Oehlenschläger, poema \"Guldhornene\", sobre os chifres"
 tags: [gallehus, chifres de ouro, runas, futhark antigo, dinamarca, hlewagastiz, idade do ferro germânica]

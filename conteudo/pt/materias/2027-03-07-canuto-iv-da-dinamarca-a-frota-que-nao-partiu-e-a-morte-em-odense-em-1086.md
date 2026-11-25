@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/canuto-iv-odense.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enseada com muitos navios de madeira de proa em dragão ancorados em fileiras sob céu cinzento, e à margem uma igreja de madeira com altar iluminado por velas, onde um rei de manto vermelho se ajoelha à frente de homens armados que entram pela porta."
 fontes:
-  - "Verbete \"Canute IV of Denmark\", Wikipédia"
+  - "Verbete \"Canute IV of Denmark\", obra de referência"
   - "Ælnoth de Canterbury, biografia de Canuto, conforme citada no verbete"
   - "Chronicon Roskildense, conforme citada no verbete"
 tags: [canuto iv, dinamarca, odense, 1086, inglaterra, são canuto]

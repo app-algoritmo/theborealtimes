@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ullr-esquis-arco-teixo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale de teixos sob neve ao entardecer, onde um deus de barba curta, de pé sobre esquis longos e estreitos, segura um grande arco de teixo; ao lado dele, um escudo redondo apoiado no gelo como se fosse um barco, e, ao longe, um salão de madeira com a luz acesa e uma fileira de pegadas na neve."
 fontes:
-  - "Wikipedia, \"Ullr\" (etimologia, atestações, topônimos, teorias)"
-  - "*Gylfaginning* (cap. 31) e *Skáldskaparmál*, de Snorri Sturluson, segundo a Wikipedia"
-  - "Molin (2015), de Vries (1970b, 1977) e Simek (1993), citados na Wikipedia"
+  - "Obras de referência sobre \"Ullr\" (etimologia, atestações, topônimos, teorias)"
+  - "*Gylfaginning* (cap. 31) e *Skáldskaparmál*, de Snorri Sturluson, segundo as fontes"
+  - "Molin (2015), de Vries (1970b, 1977) e Simek (1993), citados em obras de referência"
 tags: [ullr, ýdalir, sif, esqui, mitologia nórdica]
 ---
 

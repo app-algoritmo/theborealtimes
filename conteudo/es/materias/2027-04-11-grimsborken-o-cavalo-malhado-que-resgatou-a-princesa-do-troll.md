@@ -11,7 +11,7 @@ imagem_alt: "Ilustración de un enorme caballo gris moteado y luminoso, con sill
 fontes:
   - "Peter Christen Asbjørnsen y Jørgen Moe, Norske Folkeeventyr, «Grimsborken»"
   - "George Webbe Dasent, Popular Tales from the Norse, «Dapplegrim» (traducción inglesa)"
-  - "Wikipedia en inglés, artículo «Dapplegrim», para el resumen del argumento y la clasificación ATU 531"
+  - "Obras de referencia en inglés, artículo «Dapplegrim», para el resumen del argumento y la clasificación ATU 531"
 tags: [grimsborken, dapplegrim, asbjørnsen, moe, dasent, cuentos noruegos, atu 531]
 ---
 

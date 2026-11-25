@@ -10,7 +10,7 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una vara fina y oscura, entre espada y varita, sobre un cofre de hierro con nueve candados en un sótano de piedra, bajo una figura femenina con capa que la vigila, y al fondo una ventana con un gallo dorado en una rama."
 fontes:
   - "Edda poética, Fjölsvinnsmál, estrofas 25 a 27 (edición de Bugge)"
-  - "Wikipedia en inglés, artículo «Lævateinn», con las referencias a Bugge (1860), Árni Magnússon (1787), Hollander (2011) y Gardeła (2009)"
+  - "Obras de referencia en inglés, artículo «Lævateinn», con las referencias a Bugge (1860), Árni Magnússon (1787), Hollander (2011) y Gardeła (2009)"
 tags: [lævateinn, fjölsvinnsmál, loki, viðófnir, sinmara, mímameiðr, edda poética]
 ---
 

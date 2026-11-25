@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a bare, rocky Arctic island, with three piles of st
 fontes:
   - "Runic inscription of Kingittorsuaq (National Museum of Denmark)"
   - "Finn Gad, The History of Greenland (context of the Norse)"
-  - "Wikipedia, \"Kingittorsuaq Runestone\""
+  - "Reference works on \"Kingittorsuaq Runestone\""
 tags: [kingittorsuaq, runestone, greenland, upernavik, runes, greenland norse, cairns]
 ---
 

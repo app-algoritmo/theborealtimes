@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gunnhild-a-mae-dos-reis.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una reina vikinga de pelo oscuro y capa de piel, de pie ante un salón de madera a la orilla de un fiordo, con tres jóvenes guerreros detrás y una cabeza de caballo en un poste a su lado, bajo nubes bajas."
 fontes:
-  - "Wikipedia en inglés, artículo «Gunnhild, Mother of Kings», con los pasajes sobre la Heimskringla, la saga de Egil, la Historia Norwegiae, la saga Laxdæla, la Jómsvíkinga saga y la mujer de Haraldskær"
+  - "Obras de referencia en inglés, artículo «Gunnhild, Mother of Kings», con los pasajes sobre la Heimskringla, la saga de Egil, la Historia Norwegiae, la saga Laxdæla, la Jómsvíkinga saga y la mujer de Haraldskær"
 tags: [gunnhild, madre de reyes, erik hacha sangrienta, heimskringla, saga de egil, saga vikinga, reina vikinga]
 ---
 

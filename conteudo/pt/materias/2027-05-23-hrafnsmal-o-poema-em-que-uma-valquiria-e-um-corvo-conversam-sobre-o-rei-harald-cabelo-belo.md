@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/hrafnsmal-a-valquiria-e-o-corvo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto escuro e elmo sentada numa rocha no alto de uma colina ao amanhecer, falando com um grande corvo negro pousado no braço dela, com um fiorde e navios de proa alta ao longe."
 fontes:
-  - "Wikipédia em inglês, artigos \"Hrafnsmál\" e \"Haustlöng\""
-  - "R. D. Fulk, edição do poema (2012), citada pela Wikipédia"
+  - "Obras de referência em inglês, artigos \"Hrafnsmál\" e \"Haustlöng\""
+  - "R. D. Fulk, edição do poema (2012), citada em obras de referência"
 tags: [hrafnsmál, haraldskvæði, þorbjörn hornklofi, harald cabelo belo, valquíria, corvo, poesia escáldica]
 ---
 

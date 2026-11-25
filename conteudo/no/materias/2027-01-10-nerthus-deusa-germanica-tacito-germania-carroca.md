@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/nerthus-deusa-carroca-tacito.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en hellig lund på en nordlig øy, i lys sent på ettermiddagen, der hvite okser trekker sakte en vogn tildekt med lyst tøy mellom høye eiker; en prest går ved siden av uten å røre tøyet, folk ser stille på på avstand, og i bakgrunnen en rolig innsjø omkranset av siv."
 fontes:
-  - "Wikipedia, «Nerthus» (Tacitus, Germania kap. 40; urgermansk *Nerþuz og Njörðr; usikkerhet om sted, kjønn og håndskriftlesning)"
+  - "Oppslagsverk om «Nerthus» (Tacitus, Germania kap. 40; urgermansk *Nerþuz og Njörðr; usikkerhet om sted, kjønn og håndskriftlesning)"
 tags: [nerthus, tacitus, germania, njörðr, vogn]
 ---
 

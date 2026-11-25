@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/birger-jarl-o-regente-que-segundo-a-tradicao-fun
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um chefe medieval de manto verde e coroa de duque, de pé sobre uma pequena ilha rochosa num lago, com toras de madeira empilhadas ao lado, barcos de comerciantes ao fundo e uma torre de pedra ainda em construção."
 fontes:
-  - "Wikipédia em inglês, artigo \"Birger Jarl\""
+  - "Obras de referência em inglês, artigo \"Birger Jarl\""
 tags: [birger jarl, estocolmo, casa de bjälbo, magnus ladulås, suécia medieval, folkungar, mälaren]
 ---
 

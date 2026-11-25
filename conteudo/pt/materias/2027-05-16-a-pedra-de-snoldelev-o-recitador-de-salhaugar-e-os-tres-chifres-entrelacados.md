@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/pedra-de-snoldelev-os-tres-chifres.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma pedra rúnica cinzenta, mais alta que uma pessoa, em pé num campo verde da Dinamarca, com colunas de runas e, perto do topo, três chifres de beber entrelaçados em triângulo, sob um céu claro de fim de tarde."
 fontes:
-  - "Wikipédia em inglês, artigo \"Snoldelev Stone\" (descoberta, inscrição, tradução, símbolo dos chifres)"
+  - "Obras de referência em inglês, artigo \"Snoldelev Stone\" (descoberta, inscrição, tradução, símbolo dos chifres)"
   - "Rundata, inscrição DR 248"
-  - "Referências citadas na Wikipédia: Nielsen (1974), Birkmann (1995), Simek (2007), Peterson (2002), Sundqvist (2009)"
+  - "Referências citadas em obras de referência: Nielsen (1974), Birkmann (1995), Simek (2007), Peterson (2002), Sundqvist (2009)"
 tags: [pedra de snoldelev, dr 248, þulr, runas, dinamarca, chifres de beber, futhark novo]
 ---
 

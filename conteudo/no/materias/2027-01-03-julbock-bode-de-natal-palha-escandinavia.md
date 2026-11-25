@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/julbock-bode-palha-natal.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor halmbukk bundet med røde bånd på et snødekt torg en desemberkveld, med opplyste trehus og barn med luer som ser på den; ved siden av et bundet knippe tørr hvete og en gruppe maskerte ungdommer med horn som banker på døra til et hus."
 fontes:
-  - "Wikipedia, «Yule goat» (opphav, Tor-teori, innhøstingsbandet, figur fra 1000-tallet, bukken som krevde gaver, bukken som ga gaver, halmbukker, Gävle)"
+  - "Oppslagsverk om «Yule goat» (opphav, Tor-teori, innhøstingsbandet, figur fra 1000-tallet, bukken som krevde gaver, bukken som ga gaver, halmbukker, Gävle)"
 tags: [julebukk, julbock, halm, jul, skandinavia]
 ---
 

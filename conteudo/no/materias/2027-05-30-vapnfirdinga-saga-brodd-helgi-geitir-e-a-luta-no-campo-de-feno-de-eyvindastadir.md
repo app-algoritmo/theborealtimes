@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vapnfirdinga-saga-a-luta-no-campo-de-feno.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høyeng ved en islandsk gård, der to grupper menn står mot hverandre med spyd og skjold mellom hauger av slått høy, mens en kvinne med hvitt skaut i det fjerne ser på med hendene mot brystet, under en skyet himmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Vápnfirðinga saga»"
+  - "Engelsk Oppslagsverk om artikkelen «Vápnfirðinga saga»"
   - "Oversettelse av John Tucker (1997)"
   - "Studier av William Miller og Lönnroth"
 tags: [vápnfirðinga saga, brodd-helgi, geitir, vopnafjörður, islendingesagaer, eyvindastaðir, tucker]

@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en stor marmorløve som sitter foran en steinport i
 fontes:
   - "«Vikings tagged the great lion in Venice with runes», Science Norway (sciencenorway.no), om studien til Thorgunn Snædal"
   - "Thorgunn Snædal, studie av runene på Pireusløven (2014), utgitt av Riksantikvarieämbetet"
-  - "Wikipedia på engelsk, artikkelen «Piraeus Lion», brukt for å kontrollere henvisningene"
+  - "oppslagsverk på engelsk, artikkelen «Piraeus Lion», brukt for å kontrollere henvisningene"
 tags: [pireusløven, runer, venezia, arsenalet, thorgunn snædal, åkerblad, sverige]
 ---
 

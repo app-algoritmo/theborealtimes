@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorkell-o-alto-guerreiro.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro muito alto, de cota de malha e capa escura, de pé na proa de um navio longo ancorado numa praia de seixos, com um grupo de homens armados atrás dele; ao fundo, as muralhas e a torre de uma catedral numa cidade inglesa, sob um céu carregado."
 fontes:
-  - "Wikipedia, \"Thorkell the Tall\" (vida, Canterbury em 1009 e 1011, Ælfheah, Æthelred, Canuto, condado da Ânglia Oriental, exílio e 1023)"
+  - "Obras de referência sobre \"Thorkell the Tall\" (vida, Canterbury em 1009 e 1011, Ælfheah, Æthelred, Canuto, condado da Ânglia Oriental, exílio e 1023)"
   - "Encyclopaedia Britannica, \"Thorkell the Tall\" (início de vida, invasões da Inglaterra de 1009 a 1011, serviço sob Æthelred e Canuto)"
 tags: [thorkell o alto, canterbury, ælfheah, canuto, æthelred, anglia oriental]
 ---

@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um cemitério de igreja inglesa com várias lápides de pedra arqueadas como telhados de casa, com telhas esculpidas nas laterais e animais nas pontas; um urso de pedra abraça uma delas, sob um céu nublado."
 fontes:
   - "Corpus of Anglo-Saxon Stone Sculpture, volume VI"
-  - "Wikipedia, \"Hogback (sculpture)\""
+  - "Obras de referência sobre \"Hogback (sculpture)\""
 tags: [hogback, pedras tumulares, govan, brompton, anglo-escandinavo, inglaterra, escócia]
 ---
 

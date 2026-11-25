@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vladimir-o-grande-o-principe-de-kiev-que-voltou-
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um príncipe medieval de capa vermelha e barba loura numa colina sobre o rio Dniepre, com guerreiros nórdicos de cota de malha ao lado, uma cidade de igrejas de cúpulas douradas ao fundo e um velho ídolo de madeira caído no chão."
 fontes:
-  - "Wikipédia em inglês, artigo \"Vladimir the Great\""
+  - "Obras de referência em inglês, artigo \"Vladimir the Great\""
 tags: [vladimir o grande, kiev, varegues, rus' de kiev, perun, anna porfirogênita, crônica primária]
 ---
 

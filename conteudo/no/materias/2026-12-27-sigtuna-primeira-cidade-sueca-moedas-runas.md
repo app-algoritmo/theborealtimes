@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en bred, tråkket jordgate i en tømmerby ved en in
 fontes:
   - "medieval.eu, «Sigtuna – a powerful political and cultural centre in Sweden c. 980–1200» (grunnleggelse, mynter, tomter, runer, kirker, befolkning)"
   - "Ancient Origins, «First Swedish City was Metropolis of Viking-Era Immigrants» (DNA- og isotopstudie av omtrent 38 individer)"
-  - "Wikipedia, «Sigtuna» (beliggenhet, kirkeruiner, tilbakegang, 1187)"
+  - "Oppslagsverk om «Sigtuna» (beliggenhet, kirkeruiner, tilbakegang, 1187)"
 tags: [sigtuna, olof skötkonung, mynter, runesteiner, mälaren]
 ---
 

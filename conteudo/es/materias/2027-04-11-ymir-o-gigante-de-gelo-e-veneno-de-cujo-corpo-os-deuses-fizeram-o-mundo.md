@@ -12,7 +12,7 @@ fontes:
   - "Snorri Sturluson, Edda prosaica (Gylfaginning, capítulos 5 a 8)"
   - "Edda poética: Vafþrúðnismál, Grímnismál y Völuspá"
   - "Snorri Sturluson, Edda prosaica (Skáldskaparmál, para las kenningar del cielo y de la tierra)"
-  - "Wikipedia en inglés, artículo «Ymir», consultado para comprobar los pasajes y las comparaciones de los estudiosos"
+  - "Obras de referencia en inglés, artículo «Ymir», consultado para comprobar los pasajes y las comparaciones de los estudiosos"
 tags: [ymir, aurgelmir, bergelmir, gylfaginning, vafþrúðnismál, grímnismál, creación del mundo]
 ---
 

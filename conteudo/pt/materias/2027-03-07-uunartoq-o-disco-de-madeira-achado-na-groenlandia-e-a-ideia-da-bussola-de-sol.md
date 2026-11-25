@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/uunartoq-disco-de-sol.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um disco de madeira clara com entalhes triangulares ao redor da borda e um furo no centro, preso por um pino vertical que lança uma sombra fina sobre linhas gravadas; ao fundo, o convés de um navio de madeira num mar frio e um sol baixo e dourado."
 fontes:
-  - "Verbete \"Uunartoq Disc\", Wikipédia"
+  - "Verbete \"Uunartoq Disc\", obra de referência"
   - "Carl V. Sølver, estudo sobre o disco, conforme citado no verbete"
   - "Estudos da Universidade Eötvös (2013 e 2018), conforme citados no verbete"
 tags: [uunartoq, disco, bússola solar, groenlândia, navegação viking, arqueologia]

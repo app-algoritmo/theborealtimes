@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a very old man with a long beard and a dark blue cl
 fontes:
   - "Mikael Agricola, preface to Dauidin Psaltari (1551)"
   - "Elias Lönnrot, Kalevala (1849 edition)"
-  - "Wikipedia, \"Ukko\""
+  - "Reference works on \"Ukko\""
 tags: [ukko, finland, thunder, ukon vakat, agricola, finnish mythology]
 ---
 

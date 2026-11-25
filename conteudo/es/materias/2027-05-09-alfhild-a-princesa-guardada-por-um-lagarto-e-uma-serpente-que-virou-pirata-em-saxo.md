@@ -10,7 +10,7 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un drakkar de proa alta y vela a rayas navegando en un mar gris cerca de una costa de roquedales, con mujeres con cascos sencillos y escudos redondos a lo largo de la borda, y una de ellas, de frente, quitándose el casco y dejando caer el cabello largo, mientras se acerca un segundo barco."
 fontes:
   - "Saxo Grammaticus, Gesta Danorum, libro VII, pasaje sobre Alfhild y Alf"
-  - "Wikipedia en inglés, artículo «Alf and Alfhild», con la información sobre las fuentes y las versiones posteriores"
+  - "Obras de referencia en inglés, artículo «Alf and Alfhild», con la información sobre las fuentes y las versiones posteriores"
 tags: [alfhild, alvilda, saxo grammaticus, gesta danorum, doncellas guerreras, piratas, alf, sigar, mujeres guerreras]
 ---
 

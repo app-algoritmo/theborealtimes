@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i mørk kappe og med lyst hår som står foran den åpne døren til en gresskledd gravhaug med en lampe i hånden, og inne i haugen en kriger i ringbrynje dekket av rim som sitter på en steinbenk, under en himmel sent på natten."
 fontes:
   - "Den eldre Edda, Helgakviða Hundingsbana I og II (manuskriptet Codex Regius, rundt 1270; engelsk oversettelse av Henry Adams Bellows)"
-  - "Engelskspråklig Wikipedia, artiklene «Helgakviða Hundingsbana I» og «Helgakviða Hundingsbana II»"
+  - "Engelskspråklig Oppslagsverk om artiklene «Helgakviða Hundingsbana I» og «Helgakviða Hundingsbana II»"
 tags: [sigrún, helgi hundingsbane, helgakviða hundingsbana, eldre edda, codex regius, valkyrier, kára, vølsungene]
 ---
 

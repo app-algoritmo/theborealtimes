@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um lago calmo ao amanhecer, com um longo salão de 
 fontes:
   - "Museu Nacional da Dinamarca (Nationalmuseet), \"Sacrifices to the Norse god Tyr\""
   - "Medievalhistories, \"Tissø: a cultural, commercial and elite centre from the Viking Age\""
-  - "Wikipedia, \"Tissø\""
+  - "Obras de referência sobre \"Tissø\""
 tags: [tissø, tyr, oferendas, amuletos, martelos de thor, valquírias, dinamarca]
 ---
 

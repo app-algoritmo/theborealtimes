@@ -12,7 +12,7 @@ fontes:
   - "Snorri Sturluson, Edda prosaica (Gylfaginning, capítulos 15, 41, 42 y 49)"
   - "Edda poética: Grímnismál, Baldrs draumar y Hyndluljóð"
   - "Piedra de Tjängvide (G 110), Gotland, en el Museo Nacional de Antigüedades de Suecia"
-  - "Wikipedia en inglés, artículo «Sleipnir», consultado para comprobar los pasajes y las teorías de los estudiosos"
+  - "Obras de referencia en inglés, artículo «Sleipnir», consultado para comprobar los pasajes y las teorías de los estudiosos"
 tags: [sleipnir, odín, loki, svaðilfari, gylfaginning, piedra de tjängvide]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/pedra-de-eggja-a-inscricao-mais-longa-do-futhark
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en grå steinhelle med rader av runer og den enkle omrisstegningen av en hest, lent på siden i en pløyd åker i skumringen, med en forlatt trepløy og et fjell i bakgrunnen, uten mennesker."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Eggja stone» (funn, datering, lesninger av Krause og Jankuhn, 1966, og av Ottar Grønvik, 1985)"
+  - "Engelsk Oppslagsverk om artikkelen «Eggja stone» (funn, datering, lesninger av Krause og Jankuhn, 1966, og av Ottar Grønvik, 1985)"
   - "Rundata, innskrift N KJ101"
 tags: [eggja-steinen, eggjum, eldre futhark, runer, norge, sogndal, galder, grav]
 ---

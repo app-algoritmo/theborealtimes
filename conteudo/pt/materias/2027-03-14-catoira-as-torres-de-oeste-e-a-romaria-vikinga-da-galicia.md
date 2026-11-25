@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de duas torres de pedra em ruínas na margem de uma ri
 fontes:
   - "Concello de Catoira, \"Historia\" (catoira.gal)"
   - "Turismo de Galicia, \"Torres de Oeste\""
-  - "Wikipedia (hispanopedia), \"Romería vikinga de Catoira\""
+  - "Obras de referência sobre \"Romería vikinga de Catoira\""
 tags: [catoira, torres de oeste, romaria vikinga, galícia, arousa, vikings na península ibérica]
 ---
 

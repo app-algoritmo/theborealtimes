@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/birka-a-cidade-mercante.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vik med bryggekaier av tre, handelsbåter og stolpehus på en øy med bjørketrær, med folk som losser baller med tøy og sekker med sølvmynter, og en haug med graver bak."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Birka»"
+  - "Engelsk Oppslagsverk om artikkelen «Birka»"
   - "Rimbert, Vita Ansgarii (Ansgars liv, omkring 865), den første kjente beskrivelsen av Birka"
   - "UNESCO, «Birka and Hovgården», verdensarv (1993, referanse 555)"
 tags: [birka, björkö, mälaren, adelsö, hovgården, ansgar, rimbert, vikinghandel]

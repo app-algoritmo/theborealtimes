@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en enorm by med høye murer ved et sund, med gylne 
 fontes:
   - "Fotios av Konstantinopel, *Homilier* om angrepet fra rusene (august 860)"
   - "*Nestorkrøniken* (1100-tallet), for den sene versjonen av episoden"
-  - "Wikipedia (engelsk), «Siege of Constantinople (860)», med studien til Constantine Zuckerman som det viser til"
+  - "oppslagsverk (engelsk), «Siege of Constantinople (860)», med studien til Constantine Zuckerman som det viser til"
 tags: [konstantinopel, 860, rus, fotios, bysants]
 ---
 

@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz de roupa simples sentado diante de um troll enorme numa cabana de floresta, com tigelas de mingau fumegando, e um saco de pano escondido sob a camisa do rapaz."
 fontes:
   - "George Webbe Dasent, Popular Tales from the Norse (Projeto Gutenberg, nº 8933), conto V, \"Boots who ate a match with the Troll\", tradução dos contos de Asbjørnsen e Moe"
-  - "Wikipédia em inglês, artigo \"Asbjørnsen and Moe\", sobre a coletânea Norske Folkeeventyr"
+  - "Obras de referência em inglês, artigo \"Asbjørnsen and Moe\", sobre a coletânea Norske Folkeeventyr"
 tags: [askeladden, boots, troll, asbjørnsen e moe, dasent, contos noruegueses, concurso]
 ---
 

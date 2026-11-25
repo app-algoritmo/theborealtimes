@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/heidarviga-saga-charneca.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma charneca islandesa vasta e sem árvores, de capim amarelado e poças rasas, sob céu de tempestade; no primeiro plano, dois grupos de homens armados de capas escuras se encaram a distância, com lanças e escudos; ao fundo, colinas azuladas e uma casa de turfa isolada, e um corvo pousado numa pedra."
 fontes:
-  - "Wikipedia, \"Heiðarvíga saga\" (perda de doze folhas no incêndio de Copenhague em 1728, resumo de Jón Grunnvíkingur, enredo, datação, bibliografia de Finlay, Shortt Butler, Wilson, Byock e Viðar Hreinsson)"
+  - "Obras de referência sobre \"Heiðarvíga saga\" (perda de doze folhas no incêndio de Copenhague em 1728, resumo de Jón Grunnvíkingur, enredo, datação, bibliografia de Finlay, Shortt Butler, Wilson, Byock e Viðar Hreinsson)"
 tags: [heiðarvíga saga, egill skallagrímsson, copenhague 1728, jón grunnvíkingur, feud]
 ---
 

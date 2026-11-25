@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/trow-monte-violino.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gresskledd haug under månen, med en åpen dør i flanken lyst opp av et gyllent lys, der små skikkelser kommer ut og danser i ring til en fele spilt av en mann som sitter på torven; i bakgrunnen en krets av reiste steiner."
 fontes:
-  - "Wikipedia, «Trow (folklore)» (beskrivelse, haugtrow og sjøtrow, etymologi, Haltadans, 1529)"
+  - "Oppslagsverk om «Trow (folklore)» (beskrivelse, haugtrow og sjøtrow, etymologi, Haltadans, 1529)"
   - "medievalists.net, tekst i PDF om trow (foreslåtte opprinnelser, tolkninger av Marwick, Towrie, Emerick og Dey)"
 tags: [trow, trows, orknøyene, shetland, felespill, haltadans, hogboon, draugr]
 ---

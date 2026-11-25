@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a young shepherdess on a low-vegetation hillside pi
 fontes:
   - "Elias Lönnrot, Kalevala (1849 edition), rune 50 (in John Martin Crawford's English translation)"
   - "Kalevalaseura (Kalevala Society), summary \"What happens in the Kalevala\""
-  - "English Wikipedia, \"Kalevala (synopses)\", to check the order of events"
+  - "Reference works in English, \"Kalevala (synopses)\", to check the order of events"
 tags: [marjatta, kalevala, väinämöinen, lönnrot, karelia, finnish folklore]
 ---
 

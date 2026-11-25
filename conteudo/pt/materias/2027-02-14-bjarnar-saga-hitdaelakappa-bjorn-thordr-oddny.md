@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/bjarnar-saga-poetas-rivais.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois homens de capa em lados opostos de uma praia pedregosa de Snæfellsnes, com a geleira ao fundo, e uma mulher de véu no meio observando de uma casa de turfa; no chão, uma tábua de madeira com sinais riscados, sob um céu de inverno."
 fontes:
-  - "Wikipedia, \"Bjarnar saga Hítdœlakappa\" (enredo, personagens, manuscritos)"
+  - "Obras de referência sobre \"Bjarnar saga Hítdœlakappa\" (enredo, personagens, manuscritos)"
   - "Daniel Sävborg, artigo sobre erotismo, amor e emoção na Bjarnar saga Hítdœlakappa (core.ac.uk), com datação, manuscritos e leituras da saga"
 tags: [bjarnar saga, björn, þórðr kolbeinsson, oddný, skald, snæfellsnes]
 ---

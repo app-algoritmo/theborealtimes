@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-nibelungenlied-siegfried-kriemhild-e-o-tesouro
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en helt i kort kappe ved en bred elv i skumringen, med en dronning i rød kjole som gråter ved siden av, en kriger med mørk hjelm som følger med bak et tre og en gullkiste halvveis nedsunket i elvebredden."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Nibelungenlied»"
+  - "Engelsk Oppslagsverk om artikkelen «Nibelungenlied»"
 tags: [nibelungenlied, siegfried, kriemhild, hagen, volsungesagaen, middelalderpoesi, nibelungenes skatt]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/brattahlid-a-igreja-de-thjodhild-na-groenlandia.
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma encosta verde à beira de um fiorde na Groenlândia, com uma pequena igreja de paredes de turfa e telhado de madeira, um cemitério em volta e, mais ao fundo, uma casa comprida e ovelhas pastando, sob um céu claro de verão e montanhas com neve ao longe."
 fontes:
-  - "Wikipédia em inglês, artigo \"Brattahlíð\""
+  - "Obras de referência em inglês, artigo \"Brattahlíð\""
   - "Jørgen Meldgaard, relatório sobre a escavação de Brattahlíð (1982)"
   - "Eiríks saga rauða e Grænlendinga saga"
 tags: [brattahlíð, qassiarsuk, erik o vermelho, þjóðhildr, groenlândia nórdica, kujataa, eiríksfjörður, igreja]

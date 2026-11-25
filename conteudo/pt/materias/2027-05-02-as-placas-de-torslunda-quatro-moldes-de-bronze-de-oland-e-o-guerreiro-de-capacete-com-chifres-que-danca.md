@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/torslunda-as-quatro-matrizes-de-bronze.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de quatro placas de bronze quadradas dispostas sobre um pano escuro: numa, dois guerreiros com capacetes de javali caminham com lanças, noutra, um homem com chifres dança ao lado de um homem coberto por pele de lobo, noutra, um homem segura um animal por uma corda, e na última, um homem fica entre dois ursos."
 fontes:
-  - "Wikipédia em inglês, artigo \"Torslunda plates\", com a descrição dos quatro moldes, a datação e as interpretações"
-  - "Museu de História da Suécia (Statens Historiska Museum), onde os moldes estão guardados, citado na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Torslunda plates\", com a descrição dos quatro moldes, a datação e as interpretações"
+  - "Museu de História da Suécia (Statens Historiska Museum), onde os moldes estão guardados, citado em obras de referência"
 tags: [torslunda, placas de torslunda, öland, vendel, pressblech, capacete, odin, úlfhéðnar]
 ---
 

@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ginnungagap-o-vazio-primordial.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um imenso abismo escuro entre duas terras: de um lado paredes de gelo e neblina azulada, do outro faíscas e brasas vermelhas voando pelo ar, e no meio, gotas que se juntam na forma de um gigante adormecido."
 fontes:
-  - "Wikipédia em inglês, artigo \"Ginnungagap\", com as passagens da Völuspá e da Gylfaginning, a etimologia e as identificações geográficas tardias"
+  - "Obras de referência em inglês, artigo \"Ginnungagap\", com as passagens da Völuspá e da Gylfaginning, a etimologia e as identificações geográficas tardias"
   - "Snorri Sturluson, Gylfaginning (cap. IV a VI na tradução de Brodeur, 1916)"
-  - "Ursula Dronke, The Poetic Edda, vol. II (1997); De Vries, Altnordisches etymologisches Wörterbuch (1977); Seaver, Maps, Myths and Men (2004), citados na Wikipédia"
+  - "Ursula Dronke, The Poetic Edda, vol. II (1997); De Vries, Altnordisches etymologisches Wörterbuch (1977); Seaver, Maps, Myths and Men (2004), citados em obras de referência"
 tags: [ginnungagap, ymir, niflheim, múspell, audumla, völuspá, gylfaginning, cosmogonia]
 ---
 

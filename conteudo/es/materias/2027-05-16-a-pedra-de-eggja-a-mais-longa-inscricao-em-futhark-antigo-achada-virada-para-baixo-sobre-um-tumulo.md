@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/pedra-de-eggja-a-inscricao-mais-longa-do-futhark
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una laja de piedra gris grabada con filas de runas y el dibujo sencillo de un caballo, apoyada de lado en un campo arado al atardecer, con un arado de madera abandonado y una montaña al fondo, sin personas."
 fontes:
-  - "Wikipedia en inglés, artículo «Eggja stone» (hallazgo, datación, lecturas de Krause y Jankuhn, 1966, y de Ottar Grønvik, 1985)"
+  - "Obras de referencia en inglés, artículo «Eggja stone» (hallazgo, datación, lecturas de Krause y Jankuhn, 1966, y de Ottar Grønvik, 1985)"
   - "Rundata, inscripción N KJ101"
 tags: [piedra de eggja, eggjum, futhark antiguo, runas, noruega, sogndal, galdr, tumba]
 ---

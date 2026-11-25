@@ -11,7 +11,7 @@ imagem_alt: "Illustration of an Icelandic fjord at dawn, with a broad-hulled mer
 fontes:
   - "*Landnámabók* (Sturlubók and Hauksbók versions), chapters on Breiðafjörður"
   - "*Laxdæla saga*, opening chapters"
-  - "Wikipedia (English), entry \"Aud the Deep-minded\", with the sources it cites: *Landnámabók*, *Laxdæla saga*, *Eyrbyggja saga*, *Njáls saga*, *Eiríks saga rauða* and *Grettis saga*"
+  - "reference works (English), entry \"Aud the Deep-minded\", with the sources it cites: *Landnámabók*, *Laxdæla saga*, *Eyrbyggja saga*, *Njáls saga*, *Eiríks saga rauða* and *Grettis saga*"
 tags: [auðr djúpúðga, laxdæla saga, landnámabók, iceland, settlement]
 ---
 

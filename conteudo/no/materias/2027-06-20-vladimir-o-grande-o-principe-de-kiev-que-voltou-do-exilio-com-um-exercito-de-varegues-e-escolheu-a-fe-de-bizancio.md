@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vladimir-o-grande-o-principe-de-kiev-que-voltou-
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelalderfyrste i rød kappe og lyst skjegg på en høyde over Dnepr, med norrøne krigere i ringbrynje ved siden av, en by med kirker med gylne kupler i bakgrunnen og et gammelt trebilde som har falt om på bakken."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Vladimir the Great»"
+  - "Engelsk Oppslagsverk om artikkelen «Vladimir the Great»"
 tags: [vladimir den store, kiev, væringer, kievriket, perun, anna porfyrogenneta, nestorkrøniken]
 ---
 

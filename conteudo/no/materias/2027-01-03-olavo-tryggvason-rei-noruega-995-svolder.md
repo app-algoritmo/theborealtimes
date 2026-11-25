@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/olavo-tryggvason-svolder.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et stort vikinglangskip for krig med forgylt dragehode i baugen, hevede årer og skjold hengt langs relingen, omgitt av mindre båter under en grå himmel på sjøen ved Svolder; en konge i rød kappe og hjelm står i baugen, og et kors vises ved siden av en trestatue av en gud som har falt i en åker."
 fontes:
-  - "Wikipedia, «Olaf Tryggvason» (opphav, barndom, England, dåp, regjeringstid 995–1000, kristning, Svolder, kilder)"
+  - "Oppslagsverk om «Olaf Tryggvason» (opphav, barndom, England, dåp, regjeringstid 995–1000, kristning, Svolder, kilder)"
 tags: [olav tryggvason, svolder, norge, kristning, ormen lange]
 ---
 

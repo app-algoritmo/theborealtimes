@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/heimskringla-snorri-orbe-mundo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma fazenda islandesa de chefe, em turfa e madeira, ao entardecer, com um homem de meia-idade e manto escuro sentado a uma escrivaninha, escrevendo à luz de uma lamparina de óleo sobre um grande pergaminho; ao redor, rolos e códices empilhados, uma janela estreita com vista para um campo verde e uma montanha distante."
 fontes:
-  - "Wikipedia, \"Heimskringla\" (autoria, título, manuscritos, escopo, Óláfs saga helga, Haraldr harðráði, fontes, crítica histórica)"
+  - "Obras de referência sobre \"Heimskringla\" (autoria, título, manuscritos, escopo, Óláfs saga helga, Haraldr harðráði, fontes, crítica histórica)"
 tags: [heimskringla, snorri sturluson, sagas de reis, ynglinga saga, noruega]
 ---
 

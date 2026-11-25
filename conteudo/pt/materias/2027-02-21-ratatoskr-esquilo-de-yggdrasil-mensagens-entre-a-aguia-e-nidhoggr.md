@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ratatoskr-esquilo-yggdrasil.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande freixo com raízes enormes e, no tronco, um pequeno esquilo de dentes longos correndo para cima; no alto da copa, uma águia de olhar atento com um gavião entre os olhos e, entre as raízes, a sombra de um dragão."
 fontes:
-  - "Wikipedia, \"Ratatoskr\" (Grímnismál, Gylfaginning cap. 16, etimologia, interpretações de Simek, Davidson, Lindow e outros)"
+  - "Obras de referência sobre \"Ratatoskr\" (Grímnismál, Gylfaginning cap. 16, etimologia, interpretações de Simek, Davidson, Lindow e outros)"
   - "Skjalden, \"Yggdrasil\" (o esquilo, a águia, Veðrfölnir, Níðhöggr, os quatro cervos)"
 tags: [ratatoskr, esquilo, yggdrasil, níðhöggr, veðrfölnir, grímnismál, gylfaginning]
 ---

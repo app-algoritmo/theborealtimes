@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/atlamal-os-remos-de-gunnar-e-hogni.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to kvinner i lange kjoler, én mørkhåret og én lys, ved kanten av en islagt fjord ved daggry, som tar farvel med en båt som to menn og tre følgesvenner ror, mens en hvit isbjørn krysser snøen i det fjerne på stranden."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Atlamál»"
-  - "Ursula Dronke, utgave (1969), som Wikipedia viser til"
+  - "Engelsk Oppslagsverk om artikkelen «Atlamál»"
+  - "Ursula Dronke, utgave (1969), som oppslagsverk viser til"
   - "Codex Regius, håndskriften til Den eldre Edda"
 tags: [atlamál, atle, gudrun, gunnar, høgne, kostbera, glaumvør, den eldre edda, grønland]
 ---

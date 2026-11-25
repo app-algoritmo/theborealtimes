@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gammel mann med langt skjegg og mørk kappe som sitter foran en konge i en tresal og holder et kort, tent lys, mens skygger av krigere og et sverd faller på veggen bak."
 fontes:
   - "Norna-Gests þáttr, del av «Den største sagaen om Olav Tryggvason» i håndskriftet Flateyjarbók (slutten av 1300-tallet)"
-  - "Wikipedia på engelsk, artikkelen «Norna-Gests þáttr», brukt for å kontrollere handling, håndskrifter og datering"
+  - "oppslagsverk på engelsk, artikkelen «Norna-Gests þáttr», brukt for å kontrollere handling, håndskrifter og datering"
 tags: [norna-gest, norner, livslyset, flateyjarbók, olav tryggvason, sigurd, þáttr]
 ---
 

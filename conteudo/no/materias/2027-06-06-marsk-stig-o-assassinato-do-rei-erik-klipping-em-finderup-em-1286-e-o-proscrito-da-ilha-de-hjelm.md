@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/marsk-stig-o-assassinato-de-erik-klipping-em-fin
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Nattlig illustrasjon av en stor trelåve ved siden av en liten steinkirke, på åpent land på Jylland, med lyset fra en lykt som siver ut gjennom den halvåpne døren og, på veien, hettekledde skikkelser i brune kutter som går stille under lett snø."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Stig Andersen Hvide»"
-  - "Engelsk Wikipedia, artikkelen «Eric V of Denmark»"
-  - "Engelsk Wikipedia, artikkelen «Hjelm (island)»"
+  - "Engelsk Oppslagsverk om artikkelen «Stig Andersen Hvide»"
+  - "Engelsk Oppslagsverk om artikkelen «Eric V of Denmark»"
+  - "Engelsk Oppslagsverk om artikkelen «Hjelm (island)»"
   - "Svend Grundtvig (utg.), «Marsk Stig: Dansk Folkevise fra 13de Aarhundrede» (1861)"
 tags: [marsk stig, stig andersen hvide, erik klipping, erik v av danmark, finderup, hjelm, jacob av halland, danske viser]
 ---

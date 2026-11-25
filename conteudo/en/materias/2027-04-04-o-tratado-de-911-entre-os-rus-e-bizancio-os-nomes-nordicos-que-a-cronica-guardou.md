@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a stone table in a hall of columns in Constantinopl
 fontes:
   - "Primary Chronicle (Povest vremennykh let), text of the treaty under the year 911"
   - "Serhii Plokhy, \"The Origins of the Slavic Nations\" (2006), cited for the assessment of the text's reliability"
-  - "English Wikipedia, article \"Rus'–Byzantine Treaty (911)\", consulted to check the list of envoys and the clauses"
+  - "Reference work in English, article \"Rus'–Byzantine Treaty (911)\", consulted to check the list of envoys and the clauses"
 tags: [treaty of 911, rus, byzantium, primary chronicle, oleg, varangians, norse names]
 ---
 

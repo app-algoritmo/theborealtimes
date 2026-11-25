@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/marsk-stig-o-assassinato-de-erik-klipping-em-fin
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração noturna de um grande celeiro de madeira ao lado de uma pequena igreja de pedra, em campo aberto na Jutlândia, com a luz de um lampião saindo pela porta entreaberta e, na estrada, vultos encapuzados em hábitos marrons caminhando em silêncio sob a neve fina."
 fontes:
-  - "Wikipédia em inglês, artigo \"Stig Andersen Hvide\""
-  - "Wikipédia em inglês, artigo \"Eric V of Denmark\""
-  - "Wikipédia em inglês, artigo \"Hjelm (island)\""
+  - "Obras de referência em inglês, artigo \"Stig Andersen Hvide\""
+  - "Obras de referência em inglês, artigo \"Eric V of Denmark\""
+  - "Obras de referência em inglês, artigo \"Hjelm (island)\""
   - "Svend Grundtvig (org.), \"Marsk Stig: Dansk Folkevise fra 13de Aarhundrede\" (1861)"
 tags: [marsk stig, stig andersen hvide, erik klipping, erik v da dinamarca, finderup, hjelm, jacob de halland, baladas dinamarquesas]
 ---

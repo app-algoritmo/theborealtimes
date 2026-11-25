@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en liten borg av kalkstein på en lav øy ved et grått sund, med et treskip som losser store blokker på kaia og en biskop i mørk kappe som peker på muren under bygging; fiskebåter i bakgrunnen."
 fontes:
   - "Saxo Grammaticus, Gesta Danorum (omkring 1200)"
-  - "Wikipedia, \"Absalon's Castle\""
+  - "Oppslagsverk om \"Absalon's Castle\""
   - "Utgravingene i 1907 og 1917 på Slotsholmen, under Christiansborg slott, slik de er oppsummert i kilden over"
 tags: [absalon, havn, københavn, saxo, slotsholmen, middelalderens danmark]
 ---

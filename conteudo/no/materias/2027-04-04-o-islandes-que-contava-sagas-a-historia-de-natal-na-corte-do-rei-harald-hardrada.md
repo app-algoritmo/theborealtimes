@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung mann i en enkel tunika som står foran en rødskjegget konge på en høy stol i en sal med levende lys, med livvakter ved bordet og grankvister på veggen, en vinternatt."
 fontes:
   - "Íslendings þáttr sögufróða, bevart i Morkinskinna, Hulda og Hrokkinskinna"
-  - "Wikipedia på engelsk, artikkelen «The Tale of the Story-Wise Icelander», brukt for å kontrollere handling, håndskrifter og datering (Régis Boyer, 1999; Elena Gurevich, 2006)"
+  - "oppslagsverk på engelsk, artikkelen «The Tale of the Story-Wise Icelander», brukt for å kontrollere handling, håndskrifter og datering (Régis Boyer, 1999; Elena Gurevich, 2006)"
 tags: [íslendings þáttr sögufróða, harald hardråde, morkinskinna, jul, halldórr snorrason, sagaer, þáttr]
 ---
 

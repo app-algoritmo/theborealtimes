@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ragnarsdrapa-o-escudo-de-bragi.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et rundt treskjold delt i fire deler, hver med en malt scene, ved siden av en gråskjegget skald som står foran en høvding på et høgsete, i en tømret hall med gulaktig lys."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Ragnarsdrápa»"
+  - "Engelsk Oppslagsverk om artikkelen «Ragnarsdrápa»"
   - "Snorre Sturluson, Snorres Edda (omkring 1220), som siterer strofene"
-  - "Vésteinn Ólason, forsker som Wikipedia viser til"
+  - "Vésteinn Ólason, forsker som oppslagsverk viser til"
 tags: [ragnarsdrápa, bragi boddason, skjold, hamdir, hjadningevig, skaldedikt, snorres edda]
 ---
 

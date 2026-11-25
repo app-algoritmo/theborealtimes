@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/vegvisir-o-simbolo-do-manuscrito-huld-de-1860.we
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et ark med gammelt pergament, flekket og gulnet, på et trebord, med et stort symbol med åtte innskårne staver ordnet i en sirkel, tegnet med mørkt blekk, ved siden av en fjærpenn, et blekkhus og et lite messingkompass."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Vegvísir»"
-  - "Engelsk Wikipedia, artikkelen «Icelandic magical staves»"
+  - "Engelsk Oppslagsverk om artikkelen «Vegvísir»"
+  - "Engelsk Oppslagsverk om artikkelen «Icelandic magical staves»"
   - "Huld-manuskriptet (ÍB 383 4to), Islands nasjonalbibliotek"
 tags: [vegvísir, galdrastafir, huld-manuskriptet, geir vigfússon, islandsk magi, ægishjálmur, galdrabók, vikingkompass]
 ---

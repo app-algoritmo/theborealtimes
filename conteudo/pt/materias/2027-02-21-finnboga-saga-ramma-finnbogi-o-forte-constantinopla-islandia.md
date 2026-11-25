@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/finnbogi-constantinopla-portao.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem alto e de ombros largos, de capa vermelha, diante de um grande portão de cidade com cúpulas ao fundo, enquanto um homem de ricas vestes lhe entrega uma bolsa; a seus pés, a pele de um urso."
 fontes:
-  - "Wikipedia, \"Finnboga saga ramma\" (enredo, manuscritos, datação, relação com a Vatnsdæla saga)"
+  - "Obras de referência sobre \"Finnboga saga ramma\" (enredo, manuscritos, datação, relação com a Vatnsdæla saga)"
   - "Store norske leksikon (snl.no), verbete sobre a Finnboga saga ramma (enredo, manuscritos, rímur)"
 tags: [finnboga saga ramma, finnbogi, urðaköttr, constantinopla, joão tzimisces, möðruvallabók, rímur]
 ---

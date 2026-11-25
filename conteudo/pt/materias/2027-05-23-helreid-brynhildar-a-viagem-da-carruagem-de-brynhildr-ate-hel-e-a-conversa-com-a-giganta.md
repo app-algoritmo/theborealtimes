@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/helreid-brynhildar-a-carruagem-de-brynhildr.webp
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma carruagem de madeira ricamente decorada, rodeada de chamas baixas, levando uma mulher de longo cabelo claro e manto vermelho por uma estrada de pedra rumo a uma casa de pedra na encosta, onde uma giganta de capa escura espera à porta, sob um céu cinzento."
 fontes:
-  - "Wikipédia em inglês, artigo \"Helreið Brynhildar\""
+  - "Obras de referência em inglês, artigo \"Helreið Brynhildar\""
   - "Edda poética, poema Helreið Brynhildar"
   - "Norna-Gests þáttr, que cita quase todo o poema"
 tags: [helreið brynhildar, brynhildr, sigurd, edda poética, valquíria, giganta, norna-gests þáttr]

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gunnars-saga-keldugnupsfifls-o-tolo-que-foi-a-no
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un joven alto y torpe, de pelo revuelto y túnica sencilla, de pie en la cubierta de un barco de madera junto a su hermano, mirando una costa noruega de fiordos cubiertos de pinos, mientras los marineros a su alrededor lo miran con gesto divertido."
 fontes:
-  - "Wikipedia en inglés, artículo «Gunnars saga Keldugnúpsfífls»"
+  - "Obras de referencia en inglés, artículo «Gunnars saga Keldugnúpsfífls»"
   - "Traducción de Anderson (1997)"
 tags: [gunnars saga keldugnúpsfífls, gunnar, helgi, jarl haakon, noruega, sagas islandesas, anderson]
 ---

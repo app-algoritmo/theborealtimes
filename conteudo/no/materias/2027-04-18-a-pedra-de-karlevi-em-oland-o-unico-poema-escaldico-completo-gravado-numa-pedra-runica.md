@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/a-pedra-de-karlevi.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en runestein av granitt på litt over en meter i en kystenge med Kalmarsundet i bakgrunnen, med bånd av rette runer, og en slørkledd kvinne som leser innskriftene med hånden."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Karlevi Runestone» (Öl 1), med innskriften, oversettelsen og referansene"
-  - "Rundata (Samnordisk runetextdatabas), oppføring Öl 1, sitert i Wikipedia"
-  - "Judith Jesch, Ships and Men in the Late Viking Age (2001), og Peter Foote og David M. Wilson, The Viking Achievement (1989), sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Karlevi Runestone» (Öl 1), med innskriften, oversettelsen og referansene"
+  - "Rundata (Samnordisk runetextdatabas), oppføring Öl 1, sitert i oppslagsverk"
+  - "Judith Jesch, Ships and Men in the Late Viking Age (2001), og Peter Foote og David M. Wilson, The Viking Achievement (1989), sitert i oppslagsverk"
 tags: [karlevi-steinen, öland, runer, dróttkvætt, skaldediktning, thor, odin, kenning]
 ---
 

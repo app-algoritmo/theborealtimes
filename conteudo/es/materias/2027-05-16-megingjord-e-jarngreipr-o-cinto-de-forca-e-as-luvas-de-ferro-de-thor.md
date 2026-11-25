@@ -11,7 +11,7 @@ imagem_alt: "Ilustración de un ancho cinturón de cuero oscuro con hebilla de m
 fontes:
   - "Snorri Sturluson, Edda en prosa, Gylfaginning (hacia 1220), sobre el cinturón y los guantes"
   - "Eilífr Goðrúnarson, Þórsdrápa (siglo X), estrofa 7"
-  - "Wikipedia en inglés, artículo «Megingjörð», con la referencia a Andy Orchard (1997)"
+  - "Obras de referencia en inglés, artículo «Megingjörð», con la referencia a Andy Orchard (1997)"
 tags: [megingjörð, járngreipr, thor, mjölnir, gylfaginning, þórsdrápa, eilífr goðrúnarson]
 ---
 

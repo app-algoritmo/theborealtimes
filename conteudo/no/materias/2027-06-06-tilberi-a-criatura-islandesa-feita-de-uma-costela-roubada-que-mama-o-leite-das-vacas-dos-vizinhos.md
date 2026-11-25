@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tilberi-a-criatura-que-rouba-leite-na-islandia.w
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Nattlig illustrasjon av et fjøs av torv på Island, der et blekt, langt vesen laget av grå ull med et bein inni strekker kroppen for å nå juret på en ku, mens et melkebuvindu lyser i bakgrunnen, med en kvinne med skaut som følger med."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Tilberi»"
+  - "Engelsk Oppslagsverk om artikkelen «Tilberi»"
   - "Jacqueline Simpson, «Icelandic Folktales and Legends» (1972)"
   - "Jón Árnason, «Íslenzkar þjóðsögur og æfintýri» (1862-1864)"
   - "Kvideland og Sehmsdorf, «Scandinavian Folk Belief and Legend» (1988)"

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/saemundur-escola-negra.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk steingang i en underjordisk skole, med bøker i svart bind i stabler og en innskrift over døren, der en ung prest i stor kappe flykter ved lyset fra et stearinlys, mens en lang skygge og en svart hånd strekker seg etter ham; i bakgrunnen dukker en sel opp av bølgene under en grå himmel."
 fontes:
-  - "Wikipedia (engelsk), «Sæmundr fróði Sigfússon», med kildene det viser til (Stephen Flowers, *Icelandic Magic*; Stephen Mitchell, *Witchcraft and Magic in the Nordic Middle Ages*; Jón Hnefill Aðalsteinsson, «Sæmundr Fróði: a medieval master of magic», 1994)"
+  - "oppslagsverk (engelsk), «Sæmundr fróði Sigfússon», med kildene det viser til (Stephen Flowers, *Icelandic Magic*; Stephen Mitchell, *Witchcraft and Magic in the Nordic Middle Ages*; Jón Hnefill Aðalsteinsson, «Sæmundr Fróði: a medieval master of magic», 1994)"
   - "Jón Árnason (utg.), *Íslenzkar þjóðsögur og æfintýri* (1862–1864), fortellinger om Sæmundur"
 tags: [sæmundur fróði, den svarte skole, island, djevelen, folketro]
 ---

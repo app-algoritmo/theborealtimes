@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/pedra-de-snoldelev-os-tres-chifres.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una piedra rúnica gris, más alta que una persona, de pie en un campo verde de Dinamarca, con columnas de runas y, cerca de la parte superior, tres cuernos para beber entrelazados en triángulo, bajo un cielo claro de final de tarde."
 fontes:
-  - "Wikipedia en inglés, artículo «Snoldelev Stone» (hallazgo, inscripción, traducción, símbolo de los cuernos)"
+  - "Obras de referencia en inglés, artículo «Snoldelev Stone» (hallazgo, inscripción, traducción, símbolo de los cuernos)"
   - "Rundata, inscripción DR 248"
-  - "Referencias citadas por Wikipedia: Nielsen (1974), Birkmann (1995), Simek (2007), Peterson (2002), Sundqvist (2009)"
+  - "Referencias citadas por obras de referencia: Nielsen (1974), Birkmann (1995), Simek (2007), Peterson (2002), Sundqvist (2009)"
 tags: [piedra de snoldelev, dr 248, þulr, runas, dinamarca, cuernos para beber, futhark joven]
 ---
 

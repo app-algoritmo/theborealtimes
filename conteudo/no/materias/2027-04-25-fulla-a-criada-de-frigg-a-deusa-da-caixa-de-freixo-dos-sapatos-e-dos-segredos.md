@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/fulla-a-criada-de-frigg.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung gudinne med løst hår og et gullbånd i pannen ved siden av en sittende dronning, med en liten eske av askeved i hendene og et par sko ved føttene, i en nordisk hall opplyst av ild."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Fulla», med passasjene fra Grímnismál, Gylfaginning (kap. 35 og 49), Skáldskaparmál og Merseburg-formelen"
-  - "Rudolf Simek, John Lindow, Andy Orchard, Hilda Ellis Davidson og John Knight Bostock, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Fulla», med passasjene fra Grímnismál, Gylfaginning (kap. 35 og 49), Skáldskaparmál og Merseburg-formelen"
+  - "Rudolf Simek, John Lindow, Andy Orchard, Hilda Ellis Davidson og John Knight Bostock, sitert i oppslagsverk"
 tags: [fulla, volla, frigg, åsynjer, grímnismál, gylfaginning, merseburg-formelen, balder]
 ---
 

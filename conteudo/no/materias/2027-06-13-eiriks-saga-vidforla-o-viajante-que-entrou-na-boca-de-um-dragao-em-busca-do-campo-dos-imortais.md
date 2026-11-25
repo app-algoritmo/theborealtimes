@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelalderreisende i kappe ved siden av en følgesvenn, foran en steinbro over en mørk elv og en enorm drage med åpen munn, med et solfylt land med honningbekker og et tårn som henger i luften i bakgrunnen, under et gyllent lys."
 fontes:
   - "Eiríks saga víðförla, Tunstalls oversettelse (tekst og noter)"
-  - "Engelskspråklig Wikipedia, artikkelen om sagaen"
+  - "Engelskspråklig Oppslagsverk om artikkelen om sagaen"
 tags: [eiríks saga víðförla, ódáinsakr, eirek den reisende, paradis, drage, miklagarðr, sagnsaga]
 ---
 

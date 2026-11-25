@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en engelsk kirkegård med flere buede gravsteiner som hustak, med utskårne singler på sidene og dyr i endene; en steinbjørn omfavner en av dem, under en skyet himmel."
 fontes:
   - "Corpus of Anglo-Saxon Stone Sculpture, bind VI"
-  - "Wikipedia, «Hogback (sculpture)»"
+  - "Oppslagsverk om «Hogback (sculpture)»"
 tags: [hogback, gravsteiner, govan, brompton, anglo-skandinavisk, england, skottland]
 ---
 

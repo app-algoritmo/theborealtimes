@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem alto de manto azul parado numa estrada de terra, olhando para trás, para uma encosta verde e uma fazenda com telhado de turfa ao longe, enquanto um cavalo ao lado dele ergue a cabeça e outro homem segue a pé para um navio."
 fontes:
   - "Saga de Njáll (Brennu-Njáls saga), tradução inglesa de George Webbe Dasent, The Story of Burnt Njal, Projeto Gutenberg, cap. 48, 55 e 72 a 78"
-  - "Wikipédia em inglês, artigo \"Gunnar Hámundarson\""
+  - "Obras de referência em inglês, artigo \"Gunnar Hámundarson\""
   - "Hurstwic, página \"Gunnar Hámundarson\", para o casamento, a morte e a frase final dos adversários"
 tags: [gunnar hámundarson, saga de njáll, hlíðarendi, lithend, hallgerðr, njáll, kolskeggr, sagas islandesas]
 ---

@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/harald-hardrada-stamford.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro nórdico muito alto, de capa vermelha e cota de malha, de pé na proa de um navio de proa alta num mar cinzento, olhando para uma costa verde da Inglaterra; ao fundo, centenas de velas listradas e uma cidade de cúpulas douradas desenhada no horizonte, como lembrança do Oriente."
 fontes:
-  - "Wikipedia, \"Harald Hardrada\" (nascimento, Stiklestad, Rus', Guarda Varegue, reinado, 1066, fontes e epíteto)"
-  - "*Heimskringla* (Snorri Sturluson) e *Morkinskinna*, segundo a Wikipedia"
-  - "Kekaumenos, *Strategikon* (anos 1070), segundo a Wikipedia"
+  - "Obras de referência sobre \"Harald Hardrada\" (nascimento, Stiklestad, Rus', Guarda Varegue, reinado, 1066, fontes e epíteto)"
+  - "*Heimskringla* (Snorri Sturluson) e *Morkinskinna*, segundo as fontes"
+  - "Kekaumenos, *Strategikon* (anos 1070), segundo as fontes"
 tags: [harald hardrada, guarda varegue, stamford bridge, heimskringla, rus de quieve]
 ---
 

@@ -12,7 +12,7 @@ fontes:
   - "Eyrbyggja saga (kapittel 14, 15, 49 og 56)"
   - "Laxdøla saga (kapittel 71)"
   - "Njåls saga (kapittel 114 og 145)"
-  - "Engelsk Wikipedia, artikkelen «Snorri Goði», for årstall og plassering av stedene"
+  - "Engelsk Oppslagsverk om artikkelen «Snorri Goði», for årstall og plassering av stedene"
 tags: [snorre goði, helgafell, eyrbyggja saga, laxdøla saga, njåls saga, island]
 ---
 

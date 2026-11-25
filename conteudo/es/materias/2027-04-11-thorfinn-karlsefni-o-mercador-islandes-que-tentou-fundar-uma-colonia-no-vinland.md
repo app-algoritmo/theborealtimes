@@ -11,7 +11,7 @@ imagem_alt: "Ilustración de un drakkar nórdico varado en una playa de guijarro
 fontes:
   - "Eiríks saga rauða (Saga de Erico el Rojo)"
   - "Grænlendinga saga (Saga de los groenlandeses)"
-  - "Wikipedia en inglés, artículo «Thorfinn Karlsefni», para contrastar las dos sagas"
+  - "Obras de referencia en inglés, artículo «Thorfinn Karlsefni», para contrastar las dos sagas"
 tags: [thorfinn karlsefni, vinland, eiríks saga rauða, grænlendinga saga, gudrid, freydís, skrælings]
 ---
 

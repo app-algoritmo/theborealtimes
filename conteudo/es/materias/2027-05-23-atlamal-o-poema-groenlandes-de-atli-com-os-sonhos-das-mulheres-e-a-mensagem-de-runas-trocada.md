@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/atlamal-os-remos-de-gunnar-e-hogni.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de dos mujeres con vestidos largos, una de cabello oscuro y otra rubia, al borde de un fiordo helado al amanecer, despidiéndose de un bote en el que reman dos hombres y tres compañeros, mientras en la orilla un oso polar blanco cruza la nieve a lo lejos."
 fontes:
-  - "Wikipedia en inglés, artículo «Atlamál»"
-  - "Ursula Dronke, edición (1969), citada por Wikipedia"
+  - "Obras de referencia en inglés, artículo «Atlamál»"
+  - "Ursula Dronke, edición (1969), citada por obras de referencia"
   - "Codex Regius, manuscrito de la Edda poética"
 tags: [atlamál, atli, guðrún, gunnarr, högni, kostbera, glaumvör, edda poética, groenlandia]
 ---

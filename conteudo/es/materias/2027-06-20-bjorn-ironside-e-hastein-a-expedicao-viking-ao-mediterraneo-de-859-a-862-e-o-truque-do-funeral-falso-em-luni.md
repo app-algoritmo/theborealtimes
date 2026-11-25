@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/bjorn-ironside-e-hastein-a-expedicao-viking-ao-m
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una flota de drakkars con velas rayadas entrando en un puerto mediterráneo de aguas turquesa, con murallas de piedra clara en la costa, remos en alto y un jefe con capa roja de pie en la proa de un barco bajo un cielo azul de verano."
 fontes:
-  - "Wikipedia en inglés, artículo «Björn Ironside»"
+  - "Obras de referencia en inglés, artículo «Björn Ironside»"
 tags: [björn costado de hierro, hastein, luni, mediterráneo, sena, vikingos, ragnar lodbrok]
 ---
 

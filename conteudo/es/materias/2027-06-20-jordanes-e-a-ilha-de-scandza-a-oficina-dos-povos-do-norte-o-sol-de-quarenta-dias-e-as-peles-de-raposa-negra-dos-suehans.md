@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/jordanes-e-a-ilha-de-scandza-a-oficina-dos-povos
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un escriba bizantino con túnica larga en un despacho, con un rollo de pergamino y un mapa de una gran isla en el norte, y al fondo, en una ventana, un paisaje nevado con caballos robustos, un sol bajo en el horizonte y pieles oscuras sobre la mesa."
 fontes:
-  - "Wikipedia en inglés, artículo «Jordanes»"
-  - "Wikipedia en inglés, artículo «Scandza»"
+  - "Obras de referencia en inglés, artículo «Jordanes»"
+  - "Obras de referencia en inglés, artículo «Scandza»"
 tags: [jordanes, getica, scandza, escandinavia, godos, suehans, siglo vi]
 ---
 

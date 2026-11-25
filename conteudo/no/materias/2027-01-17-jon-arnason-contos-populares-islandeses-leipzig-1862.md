@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/jon-arnason-contos-islandeses.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et bibliotekrom fra 1800-tallet i Reykjavík, med trehyller fulle av bøker og håndskrifter, og på et bord stabler av håndskrevne ark, et blekkhus og en tent oljelampe; en mann med kort skjegg, i mørk frakk, leser et ark oppmerksomt, og gjennom vinduet ser en en gate med trehus under en klar himmel."
 fontes:
-  - "Wikipedia, «Jón Árnason (author)» (liv, bibliotekar, Magnús Grímsson, Konrad Maurer, utgivelse i 1862 og 1864, Grimm, utgave fra 1954–61)"
+  - "Oppslagsverk om «Jón Árnason (author)» (liv, bibliotekar, Magnús Grímsson, Konrad Maurer, utgivelse i 1862 og 1864, Grimm, utgave fra 1954–61)"
 tags: [jón árnason, islandsk folketro, þjóðsögur, konrad maurer, leipzig]
 ---
 

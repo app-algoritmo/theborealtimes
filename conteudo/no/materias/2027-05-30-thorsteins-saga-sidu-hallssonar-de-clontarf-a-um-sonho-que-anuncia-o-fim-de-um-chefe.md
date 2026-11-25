@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorsteins-saga-sidu-hallssonar-clontarf-e-os-so
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trebåt med høy stavn som ros over et grått hav i morgengry mot en kyst av mørke bergarter, med krigere med runde skjold som sitter på tofter og en mann i kappe som står i stavnen og ser mot land."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Þorsteins saga Síðu-Hallssonar»"
+  - "Engelsk Oppslagsverk om artikkelen «Þorsteins saga Síðu-Hallssonar»"
   - "Þorsteins þáttr Síðu-Hallssonar (Draumr Þorsteins Síðu-Hallssonar), om heltens skjebne"
 tags: [þorsteins saga síðu-hallssonar, clontarf, orknøyene, islendingesagaer, jarl sigurðr, þórhaddr, drøm]
 ---

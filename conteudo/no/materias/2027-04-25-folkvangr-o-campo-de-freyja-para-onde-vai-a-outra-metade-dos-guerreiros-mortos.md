@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/folkvangr-o-campo-de-freyja.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vid grønn eng i skumringen, med en stor trehall formet som et skip i midten, der en lyshåret gudinne i fjærkappe tar imot krigere som kommer til fots over gresset."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Fólkvangr», med passasjene fra Grímnismál, Gylfaginning (kap. 24) og Egils saga"
-  - "Engelsk Wikipedia, artikkelen «Sessrúmnir», sitert for Freyjas hall"
-  - "John Lindow, Britt-Mari Näsström, Rudolf Simek, Hilda Ellis Davidson, Hopkins og Haukur Þorgeirsson, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Fólkvangr», med passasjene fra Grímnismál, Gylfaginning (kap. 24) og Egils saga"
+  - "Engelsk Oppslagsverk om artikkelen «Sessrúmnir», sitert for Freyjas hall"
+  - "John Lindow, Britt-Mari Näsström, Rudolf Simek, Hilda Ellis Davidson, Hopkins og Haukur Þorgeirsson, sitert i oppslagsverk"
 tags: [fólkvangr, freyja, sessrúmnir, valhall, grímnismál, gylfaginning, egils saga, einherjer]
 ---
 

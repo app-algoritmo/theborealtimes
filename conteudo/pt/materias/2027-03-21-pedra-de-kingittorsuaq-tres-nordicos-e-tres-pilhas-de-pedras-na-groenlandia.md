@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma ilha rochosa e nua do Ártico, com três pilhas
 fontes:
   - "Inscrição rúnica de Kingittorsuaq (Museu Nacional da Dinamarca)"
   - "Finn Gad, The History of Greenland (contexto dos nórdicos)"
-  - "Wikipedia, \"Kingittorsuaq Runestone\""
+  - "Obras de referência sobre \"Kingittorsuaq Runestone\""
 tags: [kingittorsuaq, pedra rúnica, groenlândia, upernavik, runas, nórdicos da groenlândia, cairns]
 ---
 

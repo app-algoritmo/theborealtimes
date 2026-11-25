@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/orlygsstadir-1238-campo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo aberto no norte da Islândia, num fim de verão, com duas grandes linhas de homens armados de escudos e lanças se encontrando numa encosta; em primeiro plano, guerreiros caindo e uma bandeira derrubada, e ao fundo montanhas azuladas e um fiorde estreito."
 fontes:
-  - "Wikipedia, \"Battle of Örlygsstaðir\" (data, comandantes, efetivos, baixas e fontes)"
-  - "*Íslendinga saga*, parte da *Sturlunga saga* (lista de mortos), segundo a Wikipedia"
-  - "Sverrir Jakobsson (2016), Gunnar Karlsson (2000) e Jón Viðar Sigurðsson (1999), citados na Wikipedia"
+  - "Obras de referência sobre \"Battle of Örlygsstaðir\" (data, comandantes, efetivos, baixas e fontes)"
+  - "*Íslendinga saga*, parte da *Sturlunga saga* (lista de mortos), segundo as fontes"
+  - "Sverrir Jakobsson (2016), Gunnar Karlsson (2000) e Jón Viðar Sigurðsson (1999), citados em obras de referência"
 tags: [örlygsstaðir, 1238, sturlungar, islândia, sturlunga saga]
 ---
 

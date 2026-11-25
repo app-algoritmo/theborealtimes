@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/urnes-portal-norte-entalhado.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk tømmerkirke med flere overlappende spontak, ved en fjord under klar himmel, med, i forgrunnen, en utskåret treplanke med fine linjer, med dyr og slanger flettet sammen i et mønster av elegante kurver."
 fontes:
-  - "Wikipedia, \"Urnes Stave Church\" (sted, datering, tidligere kirker, gjenbrukte deler, urnesstil, tolkninger av portalen, UNESCO)"
+  - "Oppslagsverk om \"Urnes Stave Church\" (sted, datering, tidligere kirker, gjenbrukte deler, urnesstil, tolkninger av portalen, UNESCO)"
   - "UNESCO, Verdensarvsenteret, \"Urnes Stave Church\" (beskrivelse, kriterier, integritet, autentisitet)"
 tags: [urnes, stavkirke, urnesstil, luster, sognefjorden, unesco]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thordar-saga-hredu-skofnung-e-o-duelo-de-sorli.w
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tvekamp under åpen himmel på en eng på Island, der to menn står mot hverandre med runde skjold og et langt sverd med lyst blad, mens en ring av menn i kapper ser på i stillhet rundt dem, under en blek himmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Þórðar saga hreðu»"
+  - "Engelsk Oppslagsverk om artikkelen «Þórðar saga hreðu»"
   - "Utgave ved Jon Hagland (2004)"
 tags: [þórðar saga hreðu, skofnung, skeggi, islendingesagaer, tvekamp, sǫrli, hagland]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/olavo-tryggvason-svolder.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande navio longo de guerra viking com cabeça de dragão dourada na proa, remos erguidos e escudos pendurados na amurada, cercado por barcos menores sob um céu cinzento no mar de Svolder; um rei de capa vermelha e elmo está de pé na proa, e uma cruz aparece ao lado de uma estátua de madeira de um deus caída num campo."
 fontes:
-  - "Wikipedia, \"Olaf Tryggvason\" (origem, infância, Inglaterra, batismo, reino 995–1000, cristianização, Svolder, fontes)"
+  - "Obras de referência sobre \"Olaf Tryggvason\" (origem, infância, Inglaterra, batismo, reino 995–1000, cristianização, Svolder, fontes)"
 tags: [olavo tryggvason, svolder, noruega, cristianização, ormrinn langi]
 ---
 

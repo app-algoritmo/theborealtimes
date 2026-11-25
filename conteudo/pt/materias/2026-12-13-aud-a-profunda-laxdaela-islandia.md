@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um fiorde islandês ao amanhecer, com um navio merc
 fontes:
   - "*Landnámabók* (versões Sturlubók e Hauksbók), capítulos sobre Breiðafjörður"
   - "*Laxdæla saga*, capítulos iniciais"
-  - "Wikipédia (inglês), verbete \"Aud the Deep-minded\", com as fontes citadas: *Landnámabók*, *Laxdæla saga*, *Eyrbyggja saga*, *Njáls saga*, *Eiríks saga rauða* e *Grettis saga*"
+  - "obras de referência (inglês), verbete \"Aud the Deep-minded\", com as fontes citadas: *Landnámabók*, *Laxdæla saga*, *Eyrbyggja saga*, *Njáls saga*, *Eiríks saga rauða* e *Grettis saga*"
 tags: [auðr djúpúðga, laxdæla saga, landnámabók, islândia, colonização]
 ---
 

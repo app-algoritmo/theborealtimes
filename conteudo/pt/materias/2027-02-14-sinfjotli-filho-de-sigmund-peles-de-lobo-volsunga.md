@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/sinfjotli-peles-de-lobo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois lobos cinza lado a lado numa clareira de floresta nevada, os olhos claros fixos no espectador, com duas peles dobradas ao pé de uma árvore; ao fundo, um grande salão de madeira entre pinheiros e, na margem de um rio, um barqueiro de chapéu largo com um pequeno barco."
 fontes:
-  - "Wikipedia, \"Sinfjötli\" (nascimento, peles de lobo, morte, outras menções)"
-  - "Wikipedia, \"Völsunga saga\" (data, manuscrito, o episódio da loba, o entalhe de Ramsund)"
+  - "Obras de referência sobre \"Sinfjötli\" (nascimento, peles de lobo, morte, outras menções)"
+  - "Obras de referência sobre \"Völsunga saga\" (data, manuscrito, o episódio da loba, o entalhe de Ramsund)"
 tags: [sinfjötli, völsunga saga, sigmund, signý, peles de lobo, lobisomem, siggeir]
 ---
 

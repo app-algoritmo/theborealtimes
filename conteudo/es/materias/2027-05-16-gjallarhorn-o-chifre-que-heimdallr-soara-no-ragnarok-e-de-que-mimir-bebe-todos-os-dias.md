@@ -11,7 +11,7 @@ imagem_alt: "Ilustración de un gran cuerno curvo de metal oscuro con bandas de 
 fontes:
   - "Snorri Sturluson, Edda en prosa, Gylfaginning, capítulos 15, 27 y 51 (hacia 1220)"
   - "Edda poética, Völuspá (manuscritos del siglo XIII)"
-  - "Wikipedia en inglés, artículos «Gjallarhorn» y «Mímisbrunnr», con las citas de Rudolf Simek y John Lindow"
+  - "Obras de referencia en inglés, artículos «Gjallarhorn» y «Mímisbrunnr», con las citas de Rudolf Simek y John Lindow"
 tags: [gjallarhorn, heimdallr, mímir, ragnarök, gylfaginning, völuspá, yggdrasil]
 ---
 

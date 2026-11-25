@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/reykjavik-871-salao-de-turfa.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon i snitt av en moderne kjeller av glass og betong med en stor torvhall fra vikingtiden bevart på gulvet, en steinarne i midten, trebenker og et mørkt bånd av aske i bakken, med besøkende som ser ned fra gangbroer."
 fontes:
-  - "Wikipedia på engelsk, artikkelen «The Settlement Exhibition», om utgravingen i Aðalstræti 16 og utstillingen (Reykjavík bymuseum)"
+  - "oppslagsverk på engelsk, artikkelen «The Settlement Exhibition», om utgravingen i Aðalstræti 16 og utstillingen (Reykjavík bymuseum)"
   - "Landnámabók, boka om landnåmsmennene, i avsnittet om Ingólfr Arnarson"
 tags: [reykjavík 871±2, aðalstræti, langhus, tefra, landnámabók, ingólfr arnarson, arkeologi]
 ---

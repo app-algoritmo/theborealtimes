@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/borgund-a-igreja-de-madeira-de-cerca-de-1200-com
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørk trekirke med flere overlappende tak, med drakehoder på mønene, ved siden av et eget klokketårn, i en grønn norsk dal omgitt av fjell, under lave skyer."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Borgund Stave Church»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Borgund Stave Church»"
 tags: [borgund, stavkirke, lærdal, norge, drakehoder, runer]
 ---
 

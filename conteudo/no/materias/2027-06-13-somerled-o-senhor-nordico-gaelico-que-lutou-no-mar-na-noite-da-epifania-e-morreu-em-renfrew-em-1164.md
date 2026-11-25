@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/somerled-o-senhor-nordico-gaelico-da-batalha-nav
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et nattlig sjøslag mellom to grupper skip med drakehoder i baugen, på et mørkt hav lyst opp av fakler, med en kriger med hjelm og rundt skjold i baugen på det fremste skipet og skotske fjell i bakgrunnen."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Somerled»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Somerled»"
 tags: [somerled, sumarliði, skotske øyer, argyll, isle of man, crovan, clan donald, renfrew]
 ---
 

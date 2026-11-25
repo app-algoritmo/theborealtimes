@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/a-carta-das-ovelhas-de-1298-o-documento-mais-ant
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pergaminho aberto sobre uma mesa de madeira numa casa de turfa das Ilhas Faroé, com ovelhas de orelhas marcadas pela janela, uma pena de escrita e uma balança, sob a luz de uma lamparina."
 fontes:
-  - "Wikipédia em inglês, artigo \"Sheep Letter\""
+  - "Obras de referência em inglês, artigo \"Sheep Letter\""
 tags: [carta das ovelhas, seyðabrævið, ilhas faroé, 1298, haakon v, kirkjubøur, direito medieval]
 ---
 

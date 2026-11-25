@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/trundholm-o-carro-do-sol-de-bronze-achado-na-din
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en dansk torvmyr ved daggry, med lav tåke, med en liten bronsehest med hevet hode på fire hjul med tynne eiker i midten, som drar en stor rund skive hvis forgylte side reflekterer lyset fra den stigende sola."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Trundholm sun chariot»"
+  - "Engelsk Oppslagsverk om artikkelen «Trundholm sun chariot»"
   - "Danmarks Nationalmuseum, bronsealdersamlingen"
 tags: [solvogna fra trundholm, bronsealder, danmark, nasjonalmuseet, solskive, skinfaxi, odsherred]
 ---

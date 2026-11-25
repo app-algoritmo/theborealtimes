@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en tynn, mørk stav, mellom sverd og tryllestav, som ligger på en jernkiste med ni hengelåser i en kjeller av stein under en kappekledd kvinnefigur som vokter den, og i bakgrunnen et vindu med en gylden hane på en gren."
 fontes:
   - "Den poetiske Edda, Fjölsvinnsmál, strofe 25 til 27 (Bugges utgave)"
-  - "Engelsk Wikipedia, artikkelen «Lævateinn», med henvisninger til Bugge (1860), Árni Magnússon (1787), Hollander (2011) og Gardeła (2009)"
+  - "Engelsk Oppslagsverk om artikkelen «Lævateinn», med henvisninger til Bugge (1860), Árni Magnússon (1787), Hollander (2011) og Gardeła (2009)"
 tags: [lævateinn, fjölsvinnsmál, loke, viðófnir, sinmara, mímameiðr, den poetiske edda]
 ---
 

@@ -12,7 +12,7 @@ fontes:
   - "Poetic Edda, Fáfnismál, stanzas 16 and 17 (Bellows's translation)"
   - "Poetic Edda, the prose that precedes stanza 15 of the Reginsmál"
   - "Völsunga saga, passage where Sigurd takes the helm from the hoard (Byock's translation, 1999)"
-  - "English Wikipedia, article \"Helm of Awe\", with reference to Bauer and Pesch (2023)"
+  - "Reference work in English, article \"Helm of Awe\", with reference to Bauer and Pesch (2023)"
 tags: [ægishjálmr, fáfnir, sigurd, fáfnismál, reginsmál, völsunga saga, helmet]
 ---
 

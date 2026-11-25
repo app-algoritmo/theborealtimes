@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en liten elv i en grønn dal, med en høy lyshåret
 fontes:
   - "*Anglosaksisk krønike*, innføringene for årene 878 og 890"
   - "*Annals of St Neots*, om Guthrums gravlegging i Hadleigh (Suffolk)"
-  - "Wikipedia (engelsk), «Guthrum», med kildene det viser til"
+  - "oppslagsverk (engelsk), «Guthrum», med kildene det viser til"
 tags: [guthrum, alfred, wedmore, 878, danelagen]
 ---
 

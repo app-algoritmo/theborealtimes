@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um velho de barba comprida e manto escuro sentado diante de um rei num salão de madeira, segurando uma vela curta e acesa, enquanto sombras de guerreiros e de uma espada se projetam na parede ao fundo."
 fontes:
   - "Norna-Gests þáttr, parte da \"Maior saga de Olavo Tryggvason\" no manuscrito Flateyjarbók (final do século XIV)"
-  - "Wikipédia em inglês, artigo \"Norna-Gests þáttr\", consultado para conferir enredo, manuscritos e datação"
+  - "Obras de referência em inglês, artigo \"Norna-Gests þáttr\", consultado para conferir enredo, manuscritos e datação"
 tags: [norna-gest, nornas, vela da vida, flateyjarbók, óláfr tryggvason, sigurd, þáttr]
 ---
 

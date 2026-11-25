@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um porão de fazenda norueguesa à luz de lampiões, com um violinista de rabeca de ornamentos sentado num barril de cerveja; sob a mesa, um casco fendido no lugar do pé, e no alto da escada um homem de bandeja deixando cair a tigela."
 fontes:
   - "Norsk Kornølfestival, \"Fanitullen\" (artigo de 18 de junho de 2019)"
-  - "Wikipedia, \"Hardanger fiddle\""
+  - "Obras de referência sobre \"Hardanger fiddle\""
 tags: [fanitullen, hardingfele, hol, hallingdal, diabo, rabeca, folclore norueguês]
 ---
 

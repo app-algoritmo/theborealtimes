@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/olof-skotkonung-rei-de-sigtuna.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konge med enkel krone og rød kappe som står på en ås i Uppsala, med en forsamling menn rundt, og en stor sølvmynt med byste i forgrunnen."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Olof Skötkonung», som oppsummerer Adam av Bremen, Snorres Heimskringla og andre kilder"
+  - "Engelsk Oppslagsverk om artikkelen «Olof Skötkonung», som oppsummerer Adam av Bremen, Snorres Heimskringla og andre kilder"
   - "Adam av Bremen, Gesta Hammaburgensis ecclesiae pontificum (omkring 1075)"
   - "Snorre Sturlason, Heimskringla (omkring 1230)"
 tags: [olof skötkonung, sigtuna, mynter, dåp, thorgny, uppsala, vikingtidens sverige]

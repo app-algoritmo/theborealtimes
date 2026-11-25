@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/batalha-de-nesjar-fiorde.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norsk fjord med grått vann en marsmorgen, med dusinvis av langskip med utskårne stavner fortøyd side om side, folk i kapper og skjold langs rekkene, snø i liene og en tømmerkirke i det fjerne; i forgrunnen en skald i kappe som noterer vers på et brett."
 fontes:
-  - "Wikipedia, «Battle of Nesjar» (dato, styrker, sted, dikt, følger, monument)"
-  - "Wikipedia, «Sweyn Haakonsson» (medregent, Olavs ankomst, avreisen til Sverige)"
+  - "Oppslagsverk om «Battle of Nesjar» (dato, styrker, sted, dikt, følger, monument)"
+  - "Oppslagsverk om «Sweyn Haakonsson» (medregent, Olavs ankomst, avreisen til Sverige)"
 tags: [nesjar, olav haraldsson, sveinn hákonarson, 1016, sigvatr þórðarson, heimskringla, norge]
 ---
 

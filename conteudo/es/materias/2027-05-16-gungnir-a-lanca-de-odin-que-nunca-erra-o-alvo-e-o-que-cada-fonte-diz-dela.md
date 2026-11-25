@@ -11,7 +11,7 @@ imagem_alt: "Ilustración de una lanza de asta oscura y punta de metal pulida cl
 fontes:
   - "Snorri Sturluson, Edda en prosa, Skáldskaparmál (hacia 1220), sobre los tesoros hechos por los enanos"
   - "Edda poética, Völuspá y Sigrdrífumál (manuscritos del siglo XIII)"
-  - "Wikipedia en inglés, artículo «Gungnir», con las referencias a Andy Orchard (1997) y Lars Silén (1983)"
+  - "Obras de referencia en inglés, artículo «Gungnir», con las referencias a Andy Orchard (1997) y Lars Silén (1983)"
 tags: [gungnir, odin, lanza, skáldskaparmál, völuspá, sigrdrífumál, hijos de ivaldi]
 ---
 

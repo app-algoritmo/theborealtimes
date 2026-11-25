@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma mesa de pedra num salão de colunas em Constant
 fontes:
   - "Crônica Primária (Povest vremennykh let), texto do tratado sob o ano de 911"
   - "Serhii Plokhy, \"The Origins of the Slavic Nations\" (2006), citado para a avaliação da confiabilidade do texto"
-  - "Wikipédia em inglês, artigo \"Rus'–Byzantine Treaty (911)\", consultado para conferir a lista de enviados e as cláusulas"
+  - "Obras de referência em inglês, artigo \"Rus'–Byzantine Treaty (911)\", consultado para conferir a lista de enviados e as cláusulas"
 tags: [tratado de 911, rus, bizâncio, crônica primária, olegue, varegues, nomes nórdicos]
 ---
 

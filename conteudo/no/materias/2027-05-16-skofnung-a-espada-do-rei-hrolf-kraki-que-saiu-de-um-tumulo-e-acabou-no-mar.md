@@ -12,7 +12,7 @@ fontes:
   - "Laksdøla saga (1200-tallet), kapitler om Eiðr, Þorkell Eyjólfsson og Gellir"
   - "Kormáks saga, kapittel 9 og 10, om duellen med Bersi"
   - "Hrólfs saga kraka (1300-tallet), som kaller Skofnung det beste av sverdene i Norden"
-  - "Engelsk Wikipedia, artikkelen «Skofnung», med henvisninger til Oakeshott (1991) og Whetter og McDonald (2006)"
+  - "Engelsk Oppslagsverk om artikkelen «Skofnung», med henvisninger til Oakeshott (1991) og Whetter og McDonald (2006)"
 tags: [skofnung, hrólf kraki, laxdæla saga, kormáks saga, sverd, eiðr, þorkell eyjólfsson, gellir]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/eiriksmal-erico-no-valhalla.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av innsiden av en stor tømmerhall med skjold på veggene og en åpen dør; Odin, i blå kappe, står foran, ved siden av to krigere som reiser seg fra benkene sine for å ta imot en konge i rød kappe som kommer til døren med fem andre konger bak seg."
 fontes:
-  - "Wikipedia, \"Eiríksmál\" (datering, Gunnhild, samtale mellom Odin, Bragi og Sigmund, bragelaget fornyrðislag, forhold til Hákonarmál, Roger av Wendover)"
+  - "Oppslagsverk om \"Eiríksmál\" (datering, Gunnhild, samtale mellom Odin, Bragi og Sigmund, bragelaget fornyrðislag, forhold til Hákonarmál, Roger av Wendover)"
 tags: [eiríksmál, eirik blodøks, valhall, odin, skaldediktning, gunnhild]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um grande anel de ouro pousado numa bancada de forj
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning e Skáldskaparmál)"
   - "Edda poética, Skírnismál"
-  - "Wikipedia, \"Draupnir\""
+  - "Obras de referência sobre \"Draupnir\""
 tags: [draupnir, odin, anel, anões, loki, baldr, edda em prosa, mitologia nórdica]
 ---
 

@@ -12,7 +12,7 @@ fontes:
   - "Edda poética, Fáfnismál, estrofas 16 y 17 (traducción de Bellows)"
   - "Edda poética, la prosa que precede a la estrofa 15 del Reginsmál"
   - "Saga de los Volsungos, pasaje en que Sigurd toma el yelmo del tesoro (traducción de Byock, 1999)"
-  - "Wikipedia en inglés, artículo «Helm of Awe», con referencia a Bauer y Pesch (2023)"
+  - "Obras de referencia en inglés, artículo «Helm of Awe», con referencia a Bauer y Pesch (2023)"
 tags: [ægishjálmr, fáfnir, sigurd, fáfnismál, reginsmál, völsunga saga, yelmo]
 ---
 

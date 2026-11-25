@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio longo de proa alta e vela listrada navegando num mar cinzento perto de uma costa de rochedos, com mulheres de elmo simples e escudos redondos ao longo da amurada, e uma delas, de frente, tirando o elmo e deixando o cabelo comprido cair, enquanto um segundo navio se aproxima."
 fontes:
   - "Saxo Grammaticus, Gesta Danorum, livro VII, passagem sobre Alfhild e Alf"
-  - "Wikipédia em inglês, artigo \"Alf and Alfhild\", com as informações sobre as fontes e as versões posteriores"
+  - "Obras de referência em inglês, artigo \"Alf and Alfhild\", com as informações sobre as fontes e as versões posteriores"
 tags: [alfhild, alvilda, saxo grammaticus, gesta danorum, escudeiras, piratas, alf, sigar, mulheres guerreiras]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a cloaked man walking alone along a snowy road at d
 fontes:
   - "Hurstwic, \"Supernatural Beings\" (fylgjur as guardian spirits)"
   - "Norse-mythology.org, \"The Parts of the Self\" (fylgja and hamingja)"
-  - "Wikipedia (2016 mirror), \"Fylgja\" (forms, saga examples, scholars' hypotheses)"
+  - "reference works (2016 mirror), \"Fylgja\" (forms, saga examples, scholars' hypotheses)"
 tags: [fylgja, fylgjur, hamingja, attendant spirit, sagas]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/viglundar-saga-os-amantes-e-a-emboscada-no-palhe
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um palheiro grande no campo, ao entardecer, com homens armados escondidos atrás dele e, ao longe, um rapaz e uma moça de mãos dadas na trilha, sem perceber, sob o céu laranja de um verão islandês."
 fontes:
-  - "Wikipédia em inglês, artigo \"Víglundar saga\""
+  - "Obras de referência em inglês, artigo \"Víglundar saga\""
   - "Manuscrito AM 551 A 4to, do século XV"
 tags: [víglundar saga, víglundr, ketilríðr, sagas islandesas, amor, palheiro, am 551 a 4to]
 ---

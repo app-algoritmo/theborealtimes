@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um cinto largo de couro escuro com fivela de metal 
 fontes:
   - "Snorri Sturluson, Edda em prosa, Gylfaginning (cerca de 1220), sobre o cinto e as luvas"
   - "Eilífr Goðrúnarson, Þórsdrápa (século X), estrofe 7"
-  - "Wikipédia em inglês, artigo \"Megingjörð\", com a referência a Andy Orchard (1997)"
+  - "Obras de referência em inglês, artigo \"Megingjörð\", com a referência a Andy Orchard (1997)"
 tags: [megingjörð, járngreipr, thor, mjölnir, gylfaginning, þórsdrápa, eilífr goðrúnarson]
 ---
 

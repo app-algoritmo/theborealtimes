@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av to ruinerte steintårn ved bredden av en rolig elve
 fontes:
   - "Concello de Catoira, \"Historia\" (catoira.gal)"
   - "Turismo de Galicia, \"Torres de Oeste\""
-  - "Wikipedia (hispanopedia), \"Romería vikinga de Catoira\""
+  - "oppslagsverk (hispanopedia), \"Romería vikinga de Catoira\""
 tags: [catoira, torres de oeste, vikingpilegrimsferd, galicia, arousa, vikinger på den iberiske halvøya]
 ---
 

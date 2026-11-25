@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a great wooden hall with fires along the floor and 
 fontes:
   - "Völsunga saga, chapter 3 (English translation by William Morris and Eiríkr Magnússon, 1870)"
   - "Jesse Byock, The Saga of the Volsungs (1990), on the name Barnstokkr"
-  - "Wikipedia, \"Barnstokkr\""
+  - "Reference works on \"Barnstokkr\""
 tags: [sigmund, barnstokkr, odin, volsunga saga, siggeir, signy]
 ---
 

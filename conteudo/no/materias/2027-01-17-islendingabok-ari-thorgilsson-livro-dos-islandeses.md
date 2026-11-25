@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/islendingabok-ari-livro-islandeses.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en prest i enkel drakt som skriver ved lysskjær ved et trebord, på pergament, med et hornblekkhus og fjærpenner ved siden av; bak ham viser et smalt vindu en lavaslette og blålige fjell, og på en hylle ligger pergamentruller og en liten utskåret trebåt."
 fontes:
-  - "Wikipedia, «Íslendingabók» (forfatterskap, datering, versjoner, innhold, håndskriftene AM 113 a og b fol., Jón Erlendsson)"
+  - "Oppslagsverk om «Íslendingabók» (forfatterskap, datering, versjoner, innhold, håndskriftene AM 113 a og b fol., Jón Erlendsson)"
 tags: [íslendingabók, ari þorgilsson, island, alltinget, kristningen]
 ---
 

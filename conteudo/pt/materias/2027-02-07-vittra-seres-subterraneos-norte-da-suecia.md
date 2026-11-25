@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vittra-gado-subterraneo-suecia.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma campina do norte, com pedras grandes e musgo sob um céu de fim de tarde; entre as pedras, uma abertura escura de onde sai uma luz fraca, e um pequeno rebanho de vacas de pelagem clara pastando perto, vigiado de longe por uma figura de vestes cinzentas."
 fontes:
-  - "Wikipedia, \"Vittra\" (ser feminino do norte da Suécia, relação com o gado, comparação com a hulder e o skogsrå)"
+  - "Obras de referência sobre \"Vittra\" (ser feminino do norte da Suécia, relação com o gado, comparação com a hulder e o skogsrå)"
   - "Visit Sweden, texto sobre o folclore sueco (vittra e vätte, seres subterrâneos e gado)"
   - "Encyclopedia.pub / HandWiki, \"Vittra\" (cuidados de convivência, empréstimo de gado)"
 tags: [vittra, vättar, folclore sueco, norte da suécia, gado, seres subterrâneos]

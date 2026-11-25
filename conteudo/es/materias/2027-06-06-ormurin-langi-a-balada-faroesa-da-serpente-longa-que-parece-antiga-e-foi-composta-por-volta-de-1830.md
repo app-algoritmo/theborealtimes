@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/ormurin-langi-a-balada-faroesa-do-navio-de-olaf.
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una noche de invierno en una casa de piedra y turba de las islas Feroe, donde un grupo de personas con ropa de lana se dan la mano en círculo y cantan alrededor de un hogar, mientras en la pared hay una pintura de un gran barco vikingo con cabeza de serpiente."
 fontes:
-  - "Wikipedia en inglés, artículo «Ormurin Langi»"
-  - "Wikipedia en inglés, artículo «Battle of Svolder»"
+  - "Obras de referencia en inglés, artículo «Ormurin Langi»"
+  - "Obras de referencia en inglés, artículo «Battle of Svolder»"
   - "V. U. Hammershaimb, «Færøsk Anthologi» (1891)"
 tags: [ormurin langi, balada feroesa, kvæði, jens christian djurhuus, hammershaimb, olaf tryggvason, svolder, islas feroe]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hlidskjalf-trono-de-odin.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um trono de madeira escura e muito alto, num salão com telhado de prata, onde um deus de barba grisalha e capa azul olha por uma abertura para uma paisagem imensa de montanhas, mares e nuvens; dois corvos pousam nos braços do trono."
 fontes:
-  - "Verbete \"Hlidskjalf\", Wikipédia (Grímnismál, Skírnismál, Gylfaginning)"
+  - "Verbete \"Hlidskjalf\", obras de referência (Grímnismál, Skírnismál, Gylfaginning)"
   - "Snorri Sturluson, Edda em Prosa (Gylfaginning)"
   - "Edda Poética (Grímnismál e Skírnismál)"
 tags: [hliðskjálf, odin, freyr, gerd, valaskjálf, mitologia nórdica]

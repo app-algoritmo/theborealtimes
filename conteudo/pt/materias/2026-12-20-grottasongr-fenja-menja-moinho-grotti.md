@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/grotti-moinho-fenja.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de duas gigantas de braços fortes girando uma enorme mó de pedra numa sala fria à noite, com ouro e luz saindo da pedra e fumaça de um incêndio distante pela janela; no fundo, um rei dormindo no trono, e à direita um navio afundando num redemoinho de água branca."
 fontes:
-  - "Wikipedia, \"Grottasöngr\" (resumo da *Edda em prosa* e do poema, com bibliografia de Larrington, Orchard e Tolley)"
+  - "Obras de referência sobre \"Grottasöngr\" (resumo da *Edda em prosa* e do poema, com bibliografia de Larrington, Orchard e Tolley)"
   - "Voluspa.org, \"Grottasöngr\" (texto do poema)"
   - "Vikingr.org, \"Grottasöngr – The Lay of Grótti\" (texto do poema)"
 tags: [grottasöngr, fenja, menja, moinho grotti, fróði]

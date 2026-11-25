@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/a-pedra-de-karlevi.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una piedra rúnica de granito de poco más de un metro en una pradera costera con el estrecho de Kalmar al fondo, con bandas de runas rectas, y una figura de mujer con velo que lee las inscripciones con la mano."
 fontes:
-  - "Wikipedia en inglés, artículo «Karlevi Runestone» (Öl 1), con la inscripción, la traducción y las referencias"
-  - "Rundata (Base de datos rúnica nórdica), entrada Öl 1, citada en Wikipedia"
-  - "Judith Jesch, Ships and Men in the Late Viking Age (2001), y Peter Foote y David M. Wilson, The Viking Achievement (1989), citados en Wikipedia"
+  - "Obras de referencia en inglés, artículo «Karlevi Runestone» (Öl 1), con la inscripción, la traducción y las referencias"
+  - "Rundata (Base de datos rúnica nórdica), entrada Öl 1, citada en obras de referencia"
+  - "Judith Jesch, Ships and Men in the Late Viking Age (2001), y Peter Foote y David M. Wilson, The Viking Achievement (1989), citados en obras de referencia"
 tags: [piedra de karlevi, öland, runas, dróttkvætt, poesía escáldica, thor, odín, kenning]
 ---
 

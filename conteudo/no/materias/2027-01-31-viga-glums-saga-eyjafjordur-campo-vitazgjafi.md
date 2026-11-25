@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/viga-glums-saga-eyjafjordur.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy islandsk høvding i blå kappe med spyd i hånden, som står foran en grønn mark med et steingjerde, i en dal ved foten av en fjord i skumringen; ved siden av et tretempel og en okse kranset med blomster, og i det fjerne en torvgård med røyk som stiger opp."
 fontes:
-  - "Wikipedia, «Víga-Glúms saga» (Glúmr Eyjólfsson, Eyjafjörður, Þverá, Vigfúss, Vitazgjafi, Frøy-kulten, blindhet og dåp, Möðruvallabók, skrivetid, interpolasjoner, DuBois, Turville-Petre)"
+  - "Oppslagsverk om «Víga-Glúms saga» (Glúmr Eyjólfsson, Eyjafjörður, Þverá, Vigfúss, Vitazgjafi, Frøy-kulten, blindhet og dåp, Möðruvallabók, skrivetid, interpolasjoner, DuBois, Turville-Petre)"
 tags: [víga-glúms saga, glúmr eyjólfsson, eyjafjörður, þverá, frøy, vitazgjafi]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tordenskjold-o-almirante-de-trondheim-que-venceu
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to fregatter og mindre treskip som seiler inn i en trang, steinete fjord, med kanoner som skyter mot lasteskip med lyse seil som ligger for anker ved kysten, røyk i luften og en ung offiser i blå frakk på baugen som peker framover."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Peter Wessel Tordenskjold»"
+  - "Engelsk Oppslagsverk om artikkelen «Peter Wessel Tordenskjold»"
 tags: [tordenskjold, peter wessel, dynekilen, den store nordiske krig, karl xii, fredriksten, admiral]
 ---
 

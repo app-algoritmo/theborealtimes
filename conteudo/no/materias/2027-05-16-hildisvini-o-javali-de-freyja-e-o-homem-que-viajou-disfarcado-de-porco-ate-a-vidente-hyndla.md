@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en langhåret gudinne i rød kappe som rir på et s
 fontes:
   - "Hyndluljóð, dikt bevart i Flateyjarbók (1300-tallet) og tatt med i utgaver av den poetiske Edda"
   - "Snorre Sturluson, Snorres Edda, Skáldskaparmál (omkring 1220), om hjelmen Hildisvín"
-  - "Engelsk Wikipedia, artikkelen «Hildisvíni», med henvisninger til Davidson (1998), Simek (2007) og Orchard (1997)"
+  - "Engelsk Oppslagsverk om artikkelen «Hildisvíni», med henvisninger til Davidson (1998), Simek (2007) og Orchard (1997)"
 tags: [hildisvíni, freya, óttar, hyndla, hyndluljóð, villsvin, skáldskaparmál]
 ---
 

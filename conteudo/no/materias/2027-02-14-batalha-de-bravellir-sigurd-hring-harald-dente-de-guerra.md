@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/batalha-de-bravellir-exercitos.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vid slette under en stormfull himmel, der to store hærer med spyd og runde skjold møtes, en gammel konge i en vogn med et sverd i hver hånd og, i bakgrunnen, en bukt med et stort antall langskip; en skikkelse med bredbremmet hatt ser på fra en høyde."
 fontes:
-  - "Wikipedia, «Battle of Brávellir» (beretningene til Saxo, Sögubrot og Hervarar saga, tall, sted, historisitet)"
-  - "Wikipedia, «Sigurd Ring» (familie, regjeringstid, forhold til Ragnar Lodbrok, usikkerheter)"
+  - "Oppslagsverk om «Battle of Brávellir» (beretningene til Saxo, Sögubrot og Hervarar saga, tall, sted, historisitet)"
+  - "Oppslagsverk om «Sigurd Ring» (familie, regjeringstid, forhold til Ragnar Lodbrok, usikkerheter)"
 tags: [brávellir, sigurd ring, harald hildetann, saxo, ragnar lodbrok, legendarisk slag]
 ---
 

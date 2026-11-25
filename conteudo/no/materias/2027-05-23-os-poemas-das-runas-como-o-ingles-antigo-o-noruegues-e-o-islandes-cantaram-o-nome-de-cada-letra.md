@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/poemas-das-runas-fe-ur-e-thurs.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et gammelt pergament som ligger åpent på et trebord, med tre store runer malt med mørkt blekk øverst, hver med en tegning ved siden av, en haug med mynter, en regnsky og en steinjotun, i lysskjær."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Rune poem»"
+  - "Engelsk Oppslagsverk om artikkelen «Rune poem»"
   - "Håndskriften Cotton Otho B.x (900-tallet), kopi av George Hickes (1705)"
   - "Árnamagnæanske håndskrifter AM 687 d 4° (omkring 1500) og AM 461 12° (omkring 1550)"
 tags: [runedikt, futhark, fé, úr, þurs, gammelengelsk, islandsk, gammelnorsk]

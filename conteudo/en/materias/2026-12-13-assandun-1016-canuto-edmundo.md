@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a green hill under a grey sky, with two lines of wa
 fontes:
   - "*Encomium Emmae Reginae* (c. 1040), account of Cnut's attack on England"
   - "*Knýtlinga saga* (13th century), which quotes a verse by the poet Óttarr svarti on Assandun"
-  - "Wikipedia (English), \"Battle of Assandun\""
+  - "reference works (English), \"Battle of Assandun\""
 tags: [assandun, ashingdon, cnut, edmund ironside, 1016]
 ---
 

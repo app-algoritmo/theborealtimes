@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/fyrkat-forte-circular.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Vista aérea de um forte circular de terra e madeira cercado de campos verdes, com duas estradas de tábuas em cruz dividindo o círculo em quatro partes, cada uma com quatro casas compridas dispostas em quadrado; ao fundo, um fiorde calmo ao entardecer."
 fontes:
-  - "Verbete \"Fyrkat\", Wikipédia"
-  - "Verbete \"Ring castle\", Wikipédia"
+  - "Verbete \"Fyrkat\", obra de referência"
+  - "Verbete \"Ring castle\", obra de referência"
   - "UNESCO, inscrição \"Viking-Age Ring Fortresses\" (2023), conforme citada no verbete"
 tags: [fyrkat, hobro, forte circular, harald dente azul, dinamarca, arqueologia]
 ---

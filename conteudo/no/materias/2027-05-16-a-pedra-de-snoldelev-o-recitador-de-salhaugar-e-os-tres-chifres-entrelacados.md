@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/pedra-de-snoldelev-os-tres-chifres.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en grå runestein, høyere enn et menneske, som står på en grønn åker i Danmark, med rekker av runer og, nær toppen, tre drikkehorn flettet i en trekant, under en klar himmel sent på ettermiddagen."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Snoldelev Stone» (funn, innskrift, oversettelse, hornsymbolet)"
+  - "Engelsk Oppslagsverk om artikkelen «Snoldelev Stone» (funn, innskrift, oversettelse, hornsymbolet)"
   - "Rundata, innskrift DR 248"
-  - "Referanser sitert av Wikipedia: Nielsen (1974), Birkmann (1995), Simek (2007), Peterson (2002), Sundqvist (2009)"
+  - "Referanser sitert av oppslagsverk: Nielsen (1974), Birkmann (1995), Simek (2007), Peterson (2002), Sundqvist (2009)"
 tags: [snoldelev-steinen, dr 248, þulr, runer, danmark, drikkehorn, yngre futhark]
 ---
 

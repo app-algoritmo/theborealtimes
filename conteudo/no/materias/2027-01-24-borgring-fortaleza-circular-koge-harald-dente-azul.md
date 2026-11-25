@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/borgring-fortaleza-circular-koge.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon sett ovenfra av en stor rund vikingborg på en grønn slette på Sjælland, med en jordvoll på omtrent ti meters bredde kronet av en palisade av spisse staver; to porter åpner seg på motsatte sider, den ene med brente rester og tynn røyk; en bekk renner mot vest og en liten innsjø glitrer mot nord, under blå sommerhimmel."
 fontes:
-  - "Wikipedia, «Borgring» (beliggenhet, oppdagelse, utgravingene 1971–72 og 2014, mål, porter, borger av trelleborg-typen, Harald Blåtann, Unesco 2023; bygger på forskning av Søren Sindbæk og Danish Castle Centre)"
+  - "Oppslagsverk om «Borgring» (beliggenhet, oppdagelse, utgravingene 1971–72 og 2014, mål, porter, borger av trelleborg-typen, Harald Blåtann, Unesco 2023; bygger på forskning av Søren Sindbæk og Danish Castle Centre)"
 tags: [borgring, køge, ringborger, harald blåtand, trelleborg]
 ---
 

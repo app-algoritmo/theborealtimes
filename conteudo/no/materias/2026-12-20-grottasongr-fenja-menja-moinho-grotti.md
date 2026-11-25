@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/grotti-moinho-fenja.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to jotunkvinner med sterke armer som vrir en enorm kvernstein i et kaldt rom om natten, med gull og lys som kommer ut av steinen og røyk fra en fjern brann i vinduet; i bakgrunnen en konge som sover på tronen, og til høyre et skip som synker i en malstrøm av hvitt vann."
 fontes:
-  - "Wikipedia, «Grottasöngr» (sammendrag av *Snorres Edda* og diktet, med litteratur av Larrington, Orchard og Tolley)"
+  - "Oppslagsverk om «Grottasöngr» (sammendrag av *Snorres Edda* og diktet, med litteratur av Larrington, Orchard og Tolley)"
   - "Voluspa.org, «Grottasöngr» (diktets tekst)"
   - "Vikingr.org, «Grottasöngr – The Lay of Grótti» (diktets tekst)"
 tags: [grottasöngr, fenja, menja, kvernen grotti, fróði]

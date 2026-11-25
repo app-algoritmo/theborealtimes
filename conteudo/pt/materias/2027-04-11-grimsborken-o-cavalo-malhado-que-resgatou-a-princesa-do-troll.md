@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um cavalo cinzento malhado, enorme e luminoso, com 
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, Norske Folkeeventyr, \"Grimsborken\""
   - "George Webbe Dasent, Popular Tales from the Norse, \"Dapplegrim\" (tradução inglesa)"
-  - "Wikipédia em inglês, artigo \"Dapplegrim\", para o resumo do enredo e a classificação ATU 531"
+  - "Obras de referência em inglês, artigo \"Dapplegrim\", para o resumo do enredo e a classificação ATU 531"
 tags: [grimsborken, dapplegrim, asbjørnsen, moe, dasent, contos noruegueses, atu 531]
 ---
 

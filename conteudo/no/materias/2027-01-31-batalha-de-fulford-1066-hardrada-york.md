@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/batalha-de-fulford-1066.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et slag ved daggry ved en elv og en myr: på den ene siden går norske krigere med runde skjold og økser fram i rekker; på den andre trekker engelskmenn i ringbrynje seg tilbake mellom siv og gjørme; i bakgrunnen en silhuett av en bymur og en flåte av langskip ankret i en elv."
 fontes:
-  - "Wikipedia, «Battle of Fulford» (dato, Harald Hardråde, Tostig, Edwin og Morcar, elven Ouse, Fordland-myra, Riccall, York, Stamford Bridge, Hastings, tall, Orderic Vitalis)"
+  - "Oppslagsverk om «Battle of Fulford» (dato, Harald Hardråde, Tostig, Edwin og Morcar, elven Ouse, Fordland-myra, Riccall, York, Stamford Bridge, Hastings, tall, Orderic Vitalis)"
 tags: [slaget ved fulford, 1066, harald hardråde, tostig, york, edwin og morcar]
 ---
 

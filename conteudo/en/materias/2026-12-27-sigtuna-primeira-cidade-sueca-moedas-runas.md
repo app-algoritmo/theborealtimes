@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a wide beaten-earth street in a wooden town by a la
 fontes:
   - "medieval.eu, \"Sigtuna – a powerful political and cultural centre in Sweden c. 980–1200\" (foundation, coins, plots, runes, churches, population)"
   - "Ancient Origins, \"First Swedish City was Metropolis of Viking-Era Immigrants\" (DNA and isotope study of about 38 individuals)"
-  - "Wikipedia, \"Sigtuna\" (location, church ruins, decline, 1187)"
+  - "Reference works on \"Sigtuna\" (location, church ruins, decline, 1187)"
 tags: [sigtuna, olof skötkonung, coins, runestones, mälaren]
 ---
 

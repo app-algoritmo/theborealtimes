@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/fastelavn-a-festa-nordica-do-barril-com-o-gato-p
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de crianças fantasiadas de gato, de bruxa e de cavaleiro num pátio dinamarquês de inverno, batendo com um bastão num barril de madeira pintado com um gato, do qual caem doces e laranjas, com pães doces numa mesa e um ramo enfeitado de penas."
 fontes:
-  - "Wikipédia em inglês, artigo \"Fastelavn\""
+  - "Obras de referência em inglês, artigo \"Fastelavn\""
 tags: [fastelavn, slå katten af tønden, barril do gato, fastelavnsbolle, dinamarca, noruega, tradições nórdicas]
 ---
 

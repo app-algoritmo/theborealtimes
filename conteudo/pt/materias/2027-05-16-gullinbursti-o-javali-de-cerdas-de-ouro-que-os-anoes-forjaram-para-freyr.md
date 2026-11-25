@@ -12,7 +12,7 @@ fontes:
   - "Snorri Sturluson, Edda em prosa, Skáldskaparmál, capítulo 44 (cerca de 1220)"
   - "Húsdrápa, poema escáldico citado por Snorri, sobre o funeral de Baldr"
   - "Snorri Sturluson, Gylfaginning, sobre o carro de Freyr"
-  - "Wikipédia em inglês, artigo \"Gullinbursti\""
+  - "Obras de referência em inglês, artigo \"Gullinbursti\""
 tags: [gullinbursti, freyr, brokkr, sindri, skáldskaparmál, javali de ouro, húsdrápa]
 ---
 

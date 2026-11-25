@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en ung gjeterjente på en li med lav vegetasjon som
 fontes:
   - "Elias Lönnrot, Kalevala (utgaven fra 1849), runo 50 (i John Martin Crawfords engelske oversettelse)"
   - "Kalevalaseura (Kalevala-selskapet), sammendraget «What happens in the Kalevala»"
-  - "Engelsk Wikipedia, «Kalevala (synopses)», for å kontrollere rekkefølgen på hendelsene"
+  - "Engelsk Oppslagsverk om «Kalevala (synopses)», for å kontrollere rekkefølgen på hendelsene"
 tags: [marjatta, kalevala, väinämöinen, lönnrot, karelen, finsk folklore]
 ---
 

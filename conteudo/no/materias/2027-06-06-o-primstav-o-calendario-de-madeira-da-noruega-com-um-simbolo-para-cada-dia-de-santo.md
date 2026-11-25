@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av det indre av en norsk tregård, med en bonde i linskjorte som sitter nær ildstedet og studerer en lang trestav med innrisset hakk og små symboler i lyset fra bålet, mens det på bordet ligger en kniv og en bolle med grøt."
 fontes:
   - "Store norske leksikon, artikkelen «primstav»"
-  - "Engelsk Wikipedia, artikkelen «Primstav»"
+  - "Engelsk Oppslagsverk om artikkelen «Primstav»"
   - "Danmarks Nationalmuseum, primstav fra 1457"
 tags: [primstav, kalender, norge, sankt olav, sankt hallvard, runestav, juliansk kalender, bondefolklore]
 ---

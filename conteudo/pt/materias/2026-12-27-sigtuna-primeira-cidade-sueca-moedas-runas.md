@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma rua larga de terra batida numa cidade de madeir
 fontes:
   - "medieval.eu, \"Sigtuna – a powerful political and cultural centre in Sweden c. 980–1200\" (fundação, moedas, plantas, runas, igrejas, população)"
   - "Ancient Origins, \"First Swedish City was Metropolis of Viking-Era Immigrants\" (estudo de DNA e isótopos de cerca de 38 indivíduos)"
-  - "Wikipedia, \"Sigtuna\" (localização, ruínas de igrejas, declínio, 1187)"
+  - "Obras de referência sobre \"Sigtuna\" (localização, ruínas de igrejas, declínio, 1187)"
 tags: [sigtuna, olof skötkonung, moedas, pedras rúnicas, mälaren]
 ---
 

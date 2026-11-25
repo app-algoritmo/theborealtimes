@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma colina verde sob céu cinzento, com duas linhas
 fontes:
   - "*Encomium Emmae Reginae* (c. 1040), relato do ataque de Canuto à Inglaterra"
   - "*Knýtlinga saga* (século XIII), que cita um verso do poeta Óttarr svarti sobre Assandun"
-  - "Wikipédia (inglês), \"Battle of Assandun\""
+  - "obras de referência (inglês), \"Battle of Assandun\""
 tags: [assandun, ashingdon, canuto, edmundo, 1016]
 ---
 

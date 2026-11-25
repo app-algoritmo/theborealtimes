@@ -12,7 +12,7 @@ fontes:
   - "Edda poética, Fáfnismál, estrofes 16 e 17 (tradução de Bellows)"
   - "Edda poética, prosa que antecede a estrofe 15 do Reginsmál"
   - "Saga dos Völsungos, passagem em que Sigurd toma o elmo do tesouro (tradução de Byock, 1999)"
-  - "Wikipédia em inglês, artigo \"Helm of Awe\", com referência a Bauer e Pesch (2023)"
+  - "Obras de referência em inglês, artigo \"Helm of Awe\", com referência a Bauer e Pesch (2023)"
 tags: [ægishjálmr, fáfnir, sigurd, fáfnismál, reginsmál, völsunga saga, elmo]
 ---
 

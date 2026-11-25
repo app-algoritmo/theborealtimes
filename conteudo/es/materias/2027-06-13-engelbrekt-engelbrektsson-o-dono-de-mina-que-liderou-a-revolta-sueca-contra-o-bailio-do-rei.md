@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/engelbrekt-o-dono-de-mina-que-liderou-a-revolta-
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un hombre con capa de lana y barba corta al frente de mineros y campesinos armados con hoces y hachas, en un camino nevado junto a un castillo de piedra en llamas al fondo, bajo un cielo gris."
 fontes:
-  - "Wikipedia en inglés, artículo «Engelbrekt Engelbrektsson»"
+  - "Obras de referencia en inglés, artículo «Engelbrekt Engelbrektsson»"
 tags: [engelbrekt, bergslagen, dalarna, erik de pomerania, revuelta, arboga, riksdag, suecia]
 ---
 

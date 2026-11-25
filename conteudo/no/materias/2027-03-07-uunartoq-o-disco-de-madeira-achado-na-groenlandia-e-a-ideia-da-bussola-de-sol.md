@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/uunartoq-disco-de-sol.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en skive av lyst tre med trekantede hakk rundt kanten og et hull i midten, utstyrt med en loddrett pinne som kaster en tynn skygge over inngraverte linjer; i bakgrunnen dekket på et treskip på et kaldt hav og en lav, gyllen sol."
 fontes:
-  - "Wikipedia-artikkelen «Uunartoq Disc»"
+  - "Oppslagsverk om «Uunartoq Disc»"
   - "Carl V. Sølver, studie om skiven, slik den er sitert i artikkelen"
   - "Studier fra Eötvös-universitetet (2013 og 2018), slik de er sitert i artikkelen"
 tags: [uunartoq, skive, solkompass, grønland, vikingenes navigasjon, arkeologi]

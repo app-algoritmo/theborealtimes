@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/nils-holgersson-o-menino-encolhido-que-atravesso
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um menino minúsculo de roupas camponesas e gorro branco montado num grande ganso branco em voo sobre uma colcha de campos, lagos e florestas da Suécia, com um bando de gansos selvagens à frente."
 fontes:
-  - "Wikipédia em inglês, artigo \"The Wonderful Adventures of Nils\""
-  - "Wikipédia em inglês, artigo \"Selma Lagerlöf\""
+  - "Obras de referência em inglês, artigo \"The Wonderful Adventures of Nils\""
+  - "Obras de referência em inglês, artigo \"Selma Lagerlöf\""
 tags: [nils holgersson, selma lagerlöf, a viagem maravilhosa, tomte, gansos, suécia, literatura infantil]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/recitador-da-lei-rocha.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann med grått skjegg og rød kappe, som står på en hevet stein på et åpent jorde og taler med åpne armer til en forsamling av mennesker som sitter i gresset i en halvsirkel, under en klar himmel med fjell i bakgrunnen."
 fontes:
-  - "Wikipedia, \"Lawspeaker\" (embete, Island, Sverige, Norge, Finland, lister, siterte kilder, historikernes tvil)"
+  - "Oppslagsverk om \"Lawspeaker\" (embete, Island, Sverige, Norge, Finland, lister, siterte kilder, historikernes tvil)"
 tags: [lagmann, lovsigemann, island, sverige, norge, ting]
 ---
 

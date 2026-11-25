@@ -12,7 +12,7 @@ fontes:
   - "Den eldre Edda, Lokasenna, Hymiskvida og Grímnismál"
   - "Snorre Sturlason, Snorres Edda (Skáldskaparmál)"
   - "Egill Skallagrimsson, Sonatorrek"
-  - "Wikipedia, «Ægir»"
+  - "Oppslagsverk om «Ægir»"
 tags: [ægir, rán, lokasenna, hymiskvida, kjele, havet, norrøn mytologi]
 ---
 

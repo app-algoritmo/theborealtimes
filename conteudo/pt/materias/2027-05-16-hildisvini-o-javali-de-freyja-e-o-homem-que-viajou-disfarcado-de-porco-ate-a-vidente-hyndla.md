@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma deusa de cabelos longos e capa vermelha cavalga
 fontes:
   - "Hyndluljóð, poema conservado na Flateyjarbók (século XIV) e incluído em edições da Edda poética"
   - "Snorri Sturluson, Edda em prosa, Skáldskaparmál (cerca de 1220), sobre o elmo Hildisvín"
-  - "Wikipédia em inglês, artigo \"Hildisvíni\", com referências a Davidson (1998), Simek (2007) e Orchard (1997)"
+  - "Obras de referência em inglês, artigo \"Hildisvíni\", com referências a Davidson (1998), Simek (2007) e Orchard (1997)"
 tags: [hildisvíni, freyja, óttar, hyndla, hyndluljóð, javali, skáldskaparmál]
 ---
 

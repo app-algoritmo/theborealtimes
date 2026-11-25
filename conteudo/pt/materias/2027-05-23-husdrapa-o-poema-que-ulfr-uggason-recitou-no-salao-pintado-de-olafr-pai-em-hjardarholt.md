@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/husdrapa-o-salao-de-hjardarholt.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do interior de um grande salão de madeira iluminado por fogo, com painéis pintados nas paredes e no teto mostrando um barco em chamas, um deus numa pequena embarcação com uma serpente e dois vultos disputando um colar, enquanto um poeta de pé recita diante dos convidados."
 fontes:
-  - "Wikipédia em inglês, artigos \"Húsdrápa\" e \"Úlfr Uggason\""
+  - "Obras de referência em inglês, artigos \"Húsdrápa\" e \"Úlfr Uggason\""
   - "Laxdæla saga, que menciona o poema e o salão de Óláfr pái"
   - "Snorri Sturluson, Edda em prosa (cerca de 1220), que conserva as estrofes"
 tags: [húsdrápa, úlfr uggason, óláfr pái, hjarðarholt, laxdæla saga, baldr, poesia escáldica]

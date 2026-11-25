@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/folkvangr-o-campo-de-freyja.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ampla campina verde ao entardecer, com um grande salão de madeira em forma de navio no centro, onde uma deusa loura de manto de penas recebe guerreiros que chegam a pé pela relva."
 fontes:
-  - "Wikipédia em inglês, artigo \"Fólkvangr\", com as passagens do Grímnismál, da Gylfaginning (cap. 24) e da Saga de Egil"
-  - "Wikipédia em inglês, artigo \"Sessrúmnir\", citada para o salão de Freyja"
-  - "John Lindow, Britt-Mari Näsström, Rudolf Simek, Hilda Ellis Davidson, Hopkins e Haukur Þorgeirsson, citados na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Fólkvangr\", com as passagens do Grímnismál, da Gylfaginning (cap. 24) e da Saga de Egil"
+  - "Obras de referência em inglês, artigo \"Sessrúmnir\", citada para o salão de Freyja"
+  - "John Lindow, Britt-Mari Näsström, Rudolf Simek, Hilda Ellis Davidson, Hopkins e Haukur Þorgeirsson, citados em obras de referência"
 tags: [fólkvangr, freyja, sessrúmnir, valhalla, grímnismál, gylfaginning, egils saga, einherjar]
 ---
 

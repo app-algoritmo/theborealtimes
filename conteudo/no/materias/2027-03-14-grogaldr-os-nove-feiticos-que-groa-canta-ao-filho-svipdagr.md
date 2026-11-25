@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung mann foran en snødekt gravhaug i skumringen; fra haugen stiger den bleke skikkelsen av en syngende kvinne, med ni små lyssymboler som svever rundt henne, og i bakgrunnen går en sti opp et fjell."
 fontes:
   - "Grógaldr, strofe 6 til 14, Den eldre Edda (oversettelse av Lee M. Hollander, 1962)"
-  - "Wikipedia, \"Grógaldr\""
+  - "Oppslagsverk om \"Grógaldr\""
   - "John McKinnell, Meeting the Other in Old Norse Myth and Legend (2005)"
 tags: [grógaldr, svipdagsmál, gro, svipdag, den eldre edda, norrøn mytologi]
 ---

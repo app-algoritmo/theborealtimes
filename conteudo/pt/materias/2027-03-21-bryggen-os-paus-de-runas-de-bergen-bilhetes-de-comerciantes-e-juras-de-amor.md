@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um cais de madeira medieval em Bergen com fileiras 
 fontes:
   - "Bryggens Museum, Bergen (inscrições rúnicas de Bryggen)"
   - "Medievalists.net, \"The Runes of Bergen: Voices from the Middle Ages\""
-  - "Wikipedia, \"Bryggen inscriptions\""
+  - "Obras de referência sobre \"Bryggen inscriptions\""
 tags: [bryggen, bergen, runas, paus de runas, comerciantes, hansa, idade média]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/trundholm-o-carro-do-sol-de-bronze-achado-na-din
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una turbera danesa al amanecer, con niebla baja, en cuyo centro hay un pequeño caballo de bronce con la cabeza erguida sobre cuatro ruedas de radios finos, tirando de un gran disco redondo cuya cara dorada refleja la luz del sol naciente."
 fontes:
-  - "Wikipedia en inglés, artículo «Trundholm sun chariot»"
+  - "Obras de referencia en inglés, artículo «Trundholm sun chariot»"
   - "Museo Nacional de Dinamarca, colección de la Edad del Bronce"
 tags: [carro solar de trundholm, edad del bronce, dinamarca, museo nacional, disco solar, skinfaxi, odsherred]
 ---

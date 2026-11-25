@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/olof-skotkonung-rei-de-sigtuna.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un rey con corona sencilla y capa roja de pie en una colina de Uppsala, con una asamblea de hombres alrededor, y una gran moneda de plata con un busto en primer plano."
 fontes:
-  - "Wikipedia en inglés, artículo «Olof Skötkonung», que resume a Adán de Bremen, la Heimskringla de Snorri y otras fuentes"
+  - "Obras de referencia en inglés, artículo «Olof Skötkonung», que resume a Adán de Bremen, la Heimskringla de Snorri y otras fuentes"
   - "Adán de Bremen, Gesta Hammaburgensis ecclesiae pontificum (hacia 1075)"
   - "Snorri Sturluson, Heimskringla (hacia 1230)"
 tags: [olof skötkonung, sigtuna, monedas, bautismo, thorgny, uppsala, suecia vikinga]

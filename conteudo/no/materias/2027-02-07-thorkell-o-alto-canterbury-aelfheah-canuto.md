@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorkell-o-alto-guerreiro.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en svært høy kriger i ringbrynje og mørk kappe som står i baugen på et langskip fortøyd på en steinstrand, med en gruppe væpnede menn bak seg; i bakgrunnen murene og tårnet til en katedral i en engelsk by, under en tung himmel."
 fontes:
-  - "Wikipedia, «Thorkell the Tall» (liv, Canterbury i 1009 og 1011, Ælfheah, Æthelred, Knut, jarledømmet Øst-Anglia, eksil og 1023)"
+  - "Oppslagsverk om «Thorkell the Tall» (liv, Canterbury i 1009 og 1011, Ælfheah, Æthelred, Knut, jarledømmet Øst-Anglia, eksil og 1023)"
   - "Encyclopaedia Britannica, «Thorkell the Tall» (tidlig liv, invasjonene av England 1009 til 1011, tjeneste under Æthelred og Knut)"
 tags: [thorkell den høye, canterbury, ælfheah, knut, æthelred, øst-anglia]
 ---

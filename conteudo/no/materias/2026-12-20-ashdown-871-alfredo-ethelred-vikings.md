@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ashdown-871-colina.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en snødekt åsside i Berkshire ved daggry, med en rekke vikingkrigere med runde skjold på toppen, ved siden av et lite, skjevt tornetre, og saksiske krigere som klatrer oppover skråningen med skjold og spyd; en ung mann i rød kappe foran, som roper, og en annen gruppe i det fjerne, med en mann som går inn i et telt."
 fontes:
-  - "Wikipedia, «Battle of Ashdown» (dato, ledere, oppstilling, usikkerheter og litteratur)"
-  - "*Den angelsaksiske krøniken* og Asser, *Kong Alfreds liv* (kilder sitert på Wikipedia)"
-  - "Richard Abels, om Æthelreds rolle (sitert på Wikipedia)"
+  - "Oppslagsverk om «Battle of Ashdown» (dato, ledere, oppstilling, usikkerheter og litteratur)"
+  - "*Den angelsaksiske krøniken* og Asser, *Kong Alfreds liv* (kilder sitert på oppslagsverk)"
+  - "Richard Abels, om Æthelreds rolle (sitert på oppslagsverk)"
 tags: [ashdown, 871, alfred, æthelred, vikinger]
 ---
 

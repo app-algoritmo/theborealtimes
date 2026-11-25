@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hodr-deus-cego-balder-visco.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus cego, de olhos cobertos por uma faixa, com um arco baixo nas mãos, num salão de pedra iluminado por tochas; ao fundo, outros deuses atiram pedras e dardos contra uma figura radiante que não se fere, e uma silhueta de Loki sussurra ao ouvido do deus cego, com um raminho de visco em destaque no primeiro plano."
 fontes:
-  - "Wikipedia, \"Höðr\" (Edda em prosa, Edda poética, Gesta Danorum de Saxo, Váli, Ragnarök, etimologia, Hversu Noregr byggðist)"
+  - "Obras de referência sobre \"Höðr\" (Edda em prosa, Edda poética, Gesta Danorum de Saxo, Váli, Ragnarök, etimologia, Hversu Noregr byggðist)"
 tags: [höðr, baldr, loki, váli, visco, edda]
 ---
 

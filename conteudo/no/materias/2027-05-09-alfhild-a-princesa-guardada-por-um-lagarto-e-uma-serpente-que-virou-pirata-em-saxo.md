@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et høystavnet langskip med stripete seil som seiler på et grått hav nær en klippekyst, med kvinner i enkle hjelmer og runde skjold langs rekka, og en av dem, vendt framover, som tar av seg hjelmen og lar langt hår falle ned, mens et annet skip nærmer seg."
 fontes:
   - "Saxo Grammaticus, Gesta Danorum, bok VII, passasjen om Alfhild og Alf"
-  - "Engelskspråklig Wikipedia, artikkelen «Alf and Alfhild», med opplysningene om kildene og de senere versjonene"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Alf and Alfhild», med opplysningene om kildene og de senere versjonene"
 tags: [alfhild, alvilda, saxo grammaticus, gesta danorum, skjoldmøer, pirater, alf, sigar, kvinnelige krigere]
 ---
 

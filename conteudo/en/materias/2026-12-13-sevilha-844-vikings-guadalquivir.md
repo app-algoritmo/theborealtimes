@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a wide, calm river at dusk, with Viking ships with 
 fontes:
   - "Ibn al-Qūṭiyya (d. 977), *Ta'rīkh iftitāḥ al-Andalus* (account of the 844 attack)"
   - "Ibn Idhari (c. 1299), *al-Bayān al-Mughrib*, which copies 10th-century material"
-  - "Wikipedia (English), \"Viking raid on Seville\", and Ann Christys, *Vikings in the South* (Bloomsbury, 2015)"
+  - "reference works (English), \"Viking raid on Seville\", and Ann Christys, *Vikings in the South* (Bloomsbury, 2015)"
 tags: [seville, 844, al-andalus, guadalquivir, viking raid]
 ---
 

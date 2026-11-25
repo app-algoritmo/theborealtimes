@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/reykdaela-saga-askell-e-o-barranco-de-leyningsba
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un viejo jefe islandés de barba gris y manto verde, apoyado en un bastón, de pie en un banco de grava a la orilla de un río de aguas claras, mirando el paisaje verde del valle, con una granja de turba a lo lejos y montañas azuladas al fondo."
 fontes:
-  - "Wikipedia en inglés, artículo «Reykdæla saga ok Víga-Skútu»"
+  - "Obras de referencia en inglés, artículo «Reykdæla saga ok Víga-Skútu»"
   - "Icelandic Roots, «A brief look inside Reykdæla saga»"
   - "Waage (2012), «Norsk Geografisk Tidsskrift», sobre «land» y «landsleg»"
 tags: [reykdæla saga, áskell goði, víga-skúta, hvammr, laxá, leyningsbakki, sagas islandesas]

@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/caldeirao-de-gundestrup-prata-na-turfeira.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor sølvkjel med relieffplater med hornede figurer og hjul, demontert og med platene stablet inne i bunnen, i en mørk torvmyr ved daggry, med to treskuffer lent i nærheten og lav tåke, uten mennesker."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Gundestrup cauldron» (funn, datering, motiver, debatt om opphav)"
-  - "Referanser sitert av Wikipedia: Nielsen, Bergquist og Taylor, Olmsted, Hutton"
+  - "Engelsk Oppslagsverk om artikkelen «Gundestrup cauldron» (funn, datering, motiver, debatt om opphav)"
+  - "Referanser sitert av oppslagsverk: Nielsen, Bergquist og Taylor, Olmsted, Hutton"
 tags: [gundestrup-kjelen, rævemose, himmerland, jernalder, kelterne, danmark, torvmyr]
 ---
 

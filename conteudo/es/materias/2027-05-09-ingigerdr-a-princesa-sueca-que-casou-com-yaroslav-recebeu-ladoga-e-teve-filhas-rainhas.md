@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ingigerdr-a-princesa-de-ladoga.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una mujer con capa azul y velo blanco, de pie en la proa de una amplia barca de madera en un río tranquilo, mirando una ciudad de murallas de madera y cúpulas en la orilla, con un hombre de barba clara y corona saludando desde el muelle y una barca de carga detrás de ella."
 fontes:
-  - "Wikipedia en inglés, artículo «Ingegerd Olofsdotter», con la información de Norsk biografisk leksikon, la Crónica Primaria Rusa (traducida por Cross y Sherbowitz-Wetzor) y los estudios de Nazarenko, Korogodina y Sirenov"
+  - "Obras de referencia en inglés, artículo «Ingegerd Olofsdotter», con la información de Norsk biografisk leksikon, la Crónica Primaria Rusa (traducida por Cross y Sherbowitz-Wetzor) y los estudios de Nazarenko, Korogodina y Sirenov"
 tags: [ingigerðr, ingegerd, yaroslav el sabio, ladoga, kiev, olof skötkonung, ragnvald ulfsson, rus de kiev]
 ---
 

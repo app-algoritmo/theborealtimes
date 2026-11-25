@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/floamanna-saga-groenlandia.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mørkskjegget mann i ullkappe som står på en snødekt strand ved siden av en grunnstøtt båt, med en baby innsvøpt i pelsverk i armene; i bakgrunnen isblokker, hvite fjell og en himmel med lave skyer, og et lite bål tent til venstre."
 fontes:
-  - "Wikipedia-artikkelen «Flóamanna saga»"
+  - "Oppslagsverk om «Flóamanna saga»"
   - "Richard Perkins, studier om dateringen av sagaen, slik de er sitert i artikkelen"
   - "Landnámabók, i versjonen til Sturla Þórðarson, slik den er sitert i artikkelen"
 tags: [flóamanna saga, torgils, grønland, eirik raude, islendingesagaene, island]

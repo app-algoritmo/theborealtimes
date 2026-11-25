@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thordar-saga-hredu-skofnung-e-o-duelo-de-sorli.w
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un duelo al aire libre en una pradera de Islandia, en el que dos hombres se enfrentan con escudos redondos y una espada larga de hoja clara, mientras un círculo de hombres con capas observa en silencio alrededor, bajo un cielo pálido."
 fontes:
-  - "Wikipedia en inglés, artículo «Þórðar saga hreðu»"
+  - "Obras de referencia en inglés, artículo «Þórðar saga hreðu»"
   - "Edición de Jon Hagland (2004)"
 tags: [þórðar saga hreðu, skofnung, skeggi, sagas islandesas, duelo, sǫrli, hagland]
 ---

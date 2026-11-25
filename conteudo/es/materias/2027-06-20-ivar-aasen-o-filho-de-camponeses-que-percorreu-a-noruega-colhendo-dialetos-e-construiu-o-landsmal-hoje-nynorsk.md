@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ivar-aasen-o-filho-de-camponeses-que-percorreu-a
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un hombre con abrigo oscuro y sombrero, con una bolsa al hombro, sentado en una piedra ante un valle noruego con fiordo y granjas, escribiendo en un cuaderno, con otros cuadernos y un ramo de flores del campo a su lado."
 fontes:
-  - "Wikipedia en inglés, artículo «Ivar Aasen»"
+  - "Obras de referencia en inglés, artículo «Ivar Aasen»"
 tags: [ivar aasen, landsmål, nynorsk, dialectos, sunnmøre, filología, lengua noruega]
 ---
 

@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gutt i ulltrøye som sitter på en ås og spiller på en trepipe, omringet av dusinvis av harer som samler seg rundt ham; i det fjerne kongens slott og en prinsesse som ser fra et tårn."
 fontes:
   - "Peter Christen Asbjørnsen, Tales from the Fjeld, oversatt av George Webbe Dasent, eventyret «Osborn's Pipe» (Project Gutenberg, ebok 36385)"
-  - "Wikipedia, «Norwegian Folktales»"
+  - "Oppslagsverk om «Norwegian Folktales»"
 tags: [osborn, pipe, harer, asbjørnsen, dasent, folkeeventyr, norge]
 ---
 

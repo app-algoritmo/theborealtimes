@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/bjorn-ironside-e-hastein-a-expedicao-viking-ao-m
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en flåte langskip med stripete seil som seiler inn i en turkis middelhavshavn, med lyse steinmurer ved kysten, hevede årer og en høvding i rød kappe som står i baugen på et skip under en blå sommerhimmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Björn Ironside»"
+  - "Engelsk Oppslagsverk om artikkelen «Björn Ironside»"
 tags: [björn jernside, hastein, luni, middelhavet, seinen, vikinger, ragnar lodbrok]
 ---
 

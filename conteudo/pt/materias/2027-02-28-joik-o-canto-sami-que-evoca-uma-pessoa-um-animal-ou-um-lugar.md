@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/joik-cantor-sami-tundra.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma planície nevada ao crepúsculo, com renas ao longe, e, em primeiro plano, uma pessoa de traje sámi azul e vermelho, de olhos fechados e boca aberta, cantando de frente para a paisagem; linhas finas de luz saem de sua boca e desenham uma montanha."
 fontes:
-  - "Wikipedia, \"Joik\" (nomes, características, história, retomada, artistas)"
+  - "Obras de referência sobre \"Joik\" (nomes, características, história, retomada, artistas)"
   - "Nordics.info, \"Yoiking, a Sami musical expression\" (texto de John Weinstock: o que é, funções, missionários, retomada)"
 tags: [joik, sámi, luohti, vuelie, noaidi, música]
 ---

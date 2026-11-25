@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-fragmento-de-finnsburg-hnaef-e-os-sessenta-gue
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de guerreiros anglo-saxões com escudos redondos defendendo a porta dupla de um grande salão de madeira de noite, com tochas dos atacantes avançando na neve e um chefe de capa vermelha, de pé na entrada, erguendo a lança."
 fontes:
-  - "Wikipédia em inglês, artigo \"Fight at Finnsburg\""
+  - "Obras de referência em inglês, artigo \"Fight at Finnsburg\""
 tags: [finnsburg, hnæf, hengest, beowulf, poesia anglo-saxônica, fragmento, hickes]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/garmr-cao-hel-gnipahellir.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um enorme cão negro de peito e focinho manchados de vermelho, preso por uma corrente grossa diante da boca de uma caverna de pedra, num penhasco batido pelo vento, com a cabeça erguida e a boca aberta num uivo; ao fundo, um céu de nuvens baixas e um brilho avermelhado no horizonte."
 fontes:
-  - "Wikipedia, \"Garmr\" (Grímnismál, Völuspá, Baldrs draumar, Gylfaginning; Fenrir; Cérbero; etimologia)"
+  - "Obras de referência sobre \"Garmr\" (Grímnismál, Völuspá, Baldrs draumar, Gylfaginning; Fenrir; Cérbero; etimologia)"
 tags: [garmr, hel, gnipahellir, völuspá, ragnarök]
 ---
 

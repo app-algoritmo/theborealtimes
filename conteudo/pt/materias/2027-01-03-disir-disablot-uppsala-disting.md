@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/disir-disablot-uppsala.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um salão de madeira de teto alto em Uppsala, numa noite fria de fim de inverno, com mulheres de manto escuro e outras de manto branco em volta de uma pedra de sacrifício manchada de vermelho, uma fogueira e vigas pintadas; do lado de fora, um mercado coberto de neve, tendas e carroças, e um cavalo escuro tropeçando perto do salão."
 fontes:
-  - "Wikipedia, \"Dís\" (significado, atestações no Edda poético, Encantamento de Merseburgo, sagas, relação com valquírias, nornas e fylgjur)"
-  - "Wikipedia, \"Dísablót\" (Uppsala, Heimskringla, Ynglinga saga, Hervarar saga, Disting)"
-  - "Wikipedia, \"Disting\" (feira de Uppsala)"
+  - "Obras de referência sobre \"Dís\" (significado, atestações no Edda poético, Encantamento de Merseburgo, sagas, relação com valquírias, nornas e fylgjur)"
+  - "Obras de referência sobre \"Dísablót\" (Uppsala, Heimskringla, Ynglinga saga, Hervarar saga, Disting)"
+  - "Obras de referência sobre \"Disting\" (feira de Uppsala)"
 tags: [dísir, dísablót, uppsala, disting, valquírias]
 ---
 

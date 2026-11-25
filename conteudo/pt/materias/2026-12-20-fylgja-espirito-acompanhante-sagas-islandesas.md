@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um homem de capa andando sozinho por uma estrada de
 fontes:
   - "Hurstwic, \"Supernatural Beings\" (fylgjur como espíritos guardiões)"
   - "Norse-mythology.org, \"The Parts of the Self\" (fylgja e hamingja)"
-  - "Wikipedia (espelho de 2016), \"Fylgja\" (formas, exemplos de sagas, hipóteses de estudiosos)"
+  - "Obras de referência sobre \"Fylgja\" (formas, exemplos de sagas, hipóteses de estudiosos)"
 tags: [fylgja, fylgjur, hamingja, espírito acompanhante, sagas]
 ---
 

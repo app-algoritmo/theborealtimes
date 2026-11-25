@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/njordr-deus-mar-nootun.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enseada nórdica ao amanhecer, com um deus de barba clara e capa azul de pé na proa de um barco de pesca, estendendo a mão para o vento que enche a vela; ao fundo, uma casa de madeira à beira da água com gaivotas ao redor e, no alto de uma montanha nevada distante, a silhueta de uma mulher de esquis e arco."
 fontes:
-  - "Wikipedia, \"Njörðr\" (atestações na Edda Poética, na Edda em Prosa e na Heimskringla; casamento com Skaði; etimologia; debate acadêmico)"
-  - "*Gylfaginning* (cap. 23) e *Skáldskaparmál*, de Snorri Sturluson, segundo a Wikipedia"
-  - "*Ynglinga saga* (caps. 4 e 8), na *Heimskringla*, segundo a Wikipedia"
+  - "Obras de referência sobre \"Njörðr\" (atestações na Edda Poética, na Edda em Prosa e na Heimskringla; casamento com Skaði; etimologia; debate acadêmico)"
+  - "*Gylfaginning* (cap. 23) e *Skáldskaparmál*, de Snorri Sturluson, segundo as fontes"
+  - "*Ynglinga saga* (caps. 4 e 8), na *Heimskringla*, segundo as fontes"
 tags: [njörðr, vanir, skaði, nóatún, mitologia nórdica]
 ---
 

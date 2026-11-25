@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/a-pedra-de-froso.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en runestein ved en ferjekai i et rolig sund, med en tømmerbro under bygging i bakgrunnen og tre menn som arbeider, en av dem risser runer i steinen."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Frösö Runestone» (J RS1928;66)"
+  - "Engelsk Oppslagsverk om artikkelen «Frösö Runestone» (J RS1928;66)"
 tags: [frösö-steinen, jämtland, runer, kristning, austmaðr, östersund, bro, vikingtid]
 ---
 

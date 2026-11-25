@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/ormurin-langi-a-balada-faroesa-do-navio-de-olaf.
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma noite de inverno numa casa de pedra e turfa das Ilhas Faroé, onde um grupo de pessoas de roupas de lã se dá as mãos em círculo e canta, ao redor de uma lareira, enquanto na parede há uma pintura de um grande navio viking com cabeça de serpente."
 fontes:
-  - "Wikipédia em inglês, artigo \"Ormurin Langi\""
-  - "Wikipédia em inglês, artigo \"Battle of Svolder\""
+  - "Obras de referência em inglês, artigo \"Ormurin Langi\""
+  - "Obras de referência em inglês, artigo \"Battle of Svolder\""
   - "V. U. Hammershaimb, \"Færøsk Anthologi\" (1891)"
 tags: [ormurin langi, balada faroesa, kvæði, jens christian djurhuus, hammershaimb, olavo tryggvason, svolder, ilhas faroé]
 ---

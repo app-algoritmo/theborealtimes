@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/anoes-dvergar-forja-ymir.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma forja subterrânea numa caverna de rocha escura, com dois anões de barba comprida, um segurando tenazes e o outro soprando o fole, diante de um martelo curto de cabo curto ainda incandescente sobre a bigorna; ao lado, um javali de pelos dourados e um anel de ouro, e na entrada da caverna, os primeiros raios de sol tocando uma estátua de pedra."
 fontes:
-  - "Wikipedia, \"Dwarf (folklore)\" (etimologia, origem, Dvergatal, Andvari, Alvíssmál, Sindri e Brokkr, filhos de Ívaldi, Gleipnir, sol e pedra, literatura alemã, doenças e encantamentos)"
+  - "Obras de referência sobre \"Dwarf (folklore)\" (etimologia, origem, Dvergatal, Andvari, Alvíssmál, Sindri e Brokkr, filhos de Ívaldi, Gleipnir, sol e pedra, literatura alemã, doenças e encantamentos)"
   - "Edda em prosa, Völuspá, Alvíssmál e Ynglinga saga, citados no artigo"
 tags: [anões, dvergar, ymir, sindri, andvari]
 ---

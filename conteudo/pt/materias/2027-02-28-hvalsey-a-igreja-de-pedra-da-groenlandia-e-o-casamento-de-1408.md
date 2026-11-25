@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hvalsey-igreja-de-pedra.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração das ruínas de uma igreja de pedra cinzenta, de paredes grossas sem teto, num prado verde à beira de um fiorde com montanhas e gelo ao fundo; ao lado, uma jovem de vestido longo e um homem de capa, de mãos dadas, diante de um padre, em cena de casamento."
 fontes:
-  - "Wikipedia, \"Hvalsey Church\" (local, construção, materiais, medidas, casamento de 1408, lenda inuíte, dúvidas)"
+  - "Obras de referência sobre \"Hvalsey Church\" (local, construção, materiais, medidas, casamento de 1408, lenda inuíte, dúvidas)"
   - "Nunatsiaq News, \"A wedding at Hvalsey Church\" (casamento de 1408, proclamas, certificado de 1409)"
 tags: [hvalsey, groenlândia, igreja, casamento de 1408, nórdicos, qaqortoq]
 ---

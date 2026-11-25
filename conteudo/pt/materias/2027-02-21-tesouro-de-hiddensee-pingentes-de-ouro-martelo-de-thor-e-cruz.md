@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tesouro-de-hiddensee-joias.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia de ilha báltica ao amanhecer, com um homem agachado na areia úmida descobrindo um pequeno feixe de joias de ouro, entre elas pendentes de forma de cruz com pontas arredondadas, sob um céu limpo depois da tempestade."
 fontes:
-  - "Wikipedia, \"Hiddensee treasure\" (achado, composição, peso, datação, museus)"
+  - "Obras de referência sobre \"Hiddensee treasure\" (achado, composição, peso, datação, museus)"
   - "The Local (thelocal.de), texto sobre o tesouro de Hiddensee e o achado de Rügen, de 2018 (moedas, Michael Schirren)"
 tags: [hiddensee, tesouro, ouro, harald dente azul, martelo de thor, cruz, stralsund]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tyr-deus-mao-fenrir.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um deus nórdico de barba curta e olhar firme, com o braço direito terminando num coto enfaixado, ao lado de um enorme lobo cinzento preso por uma corrente fina como fita, numa ilha de rocha escura sob um céu de tempestade; ao fundo, outros deuses observando em silêncio, e uma espada com uma runa de seta gravada na lâmina."
 fontes:
-  - "Wikipedia, \"Týr\" (etimologia, Tácito, altar de Housesteads, Hymiskviða, Sigrdrífumál, Lokasenna, Gylfaginning, Skáldskaparmál, runas, arqueologia, debate acadêmico)"
+  - "Obras de referência sobre \"Týr\" (etimologia, Tácito, altar de Housesteads, Hymiskviða, Sigrdrífumál, Lokasenna, Gylfaginning, Skáldskaparmál, runas, arqueologia, debate acadêmico)"
   - "Snorri Sturluson, Edda em prosa, e Edda poética, citados no artigo"
 tags: [týr, fenrir, gleipnir, terça-feira, ragnarök]
 ---

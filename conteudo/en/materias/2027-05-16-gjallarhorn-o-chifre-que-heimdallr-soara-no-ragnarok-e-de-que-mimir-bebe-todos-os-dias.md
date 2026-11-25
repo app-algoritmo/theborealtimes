@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a large curved horn of dark metal with gold bands l
 fontes:
   - "Snorri Sturluson, Prose Edda, Gylfaginning, chapters 15, 27 and 51 (around 1220)"
   - "Poetic Edda, Völuspá (13th-century manuscripts)"
-  - "English Wikipedia, articles \"Gjallarhorn\" and \"Mímisbrunnr\", with the citations of Rudolf Simek and John Lindow"
+  - "Reference work in English, articles \"Gjallarhorn\" and \"Mímisbrunnr\", with the citations of Rudolf Simek and John Lindow"
 tags: [gjallarhorn, heimdallr, mímir, ragnarök, gylfaginning, völuspá, yggdrasil]
 ---
 

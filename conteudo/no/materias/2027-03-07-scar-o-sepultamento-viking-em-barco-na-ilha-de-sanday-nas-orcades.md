@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/scar-barco-orkney.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en strand med sanddyner og gress under stormfull himmel, med formen av en lang båt markert av steiner og jernnagler i den åpne bakken; inni den tre liggende silhuetter og, ved siden av, en beinplate med risset drage og sverd, i det kalde morgenlyset."
 fontes:
-  - "Wikipedia-artikkelen «Scar boat burial»"
+  - "Oppslagsverk om «Scar boat burial»"
   - "Julie Gibson, fylkesarkeolog for Orknøyene, slik hun er sitert i artikkelen"
   - "Historic Scotland, utgravingen i 1991, slik den er sitert i artikkelen"
 tags: [scar, sanday, orknøyene, båtgrav, viking, arkeologi]

@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en middelaldersk trebrygge i Bergen med rekker av f
 fontes:
   - "Bryggens Museum, Bergen (runeinnskrifter fra Bryggen)"
   - "Medievalists.net, «The Runes of Bergen: Voices from the Middle Ages»"
-  - "Wikipedia, «Bryggen inscriptions»"
+  - "Oppslagsverk om «Bryggen inscriptions»"
 tags: [bryggen, bergen, runer, runepinner, kjøpmenn, hansa, middelalder]
 ---
 

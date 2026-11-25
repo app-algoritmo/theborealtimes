@@ -11,7 +11,7 @@ imagem_alt: "Illustration of an enormous high-walled city beside a strait, with 
 fontes:
   - "Photios of Constantinople, *Homilies* on the Rus' attack (August 860)"
   - "*Primary Chronicle* (12th century), for the late version of the episode"
-  - "Wikipedia (English), \"Siege of Constantinople (860)\", with the study by Constantine Zuckerman cited"
+  - "reference works (English), \"Siege of Constantinople (860)\", with the study by Constantine Zuckerman cited"
 tags: [constantinople, 860, rus, photios, byzantium]
 ---
 

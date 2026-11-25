@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ginnungagap-o-vazio-primordial.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et veldig mørkt svelg mellom to land: på den ene siden isvegger og blålig tåke, på den andre røde gnister og glør som flyr gjennom lufta, og i midten dråper som samler seg til en sovende jotun."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Ginnungagap», med passasjene fra Völuspá og Gylfaginning, etymologien og de sene geografiske identifiseringene"
+  - "Engelsk Oppslagsverk om artikkelen «Ginnungagap», med passasjene fra Völuspá og Gylfaginning, etymologien og de sene geografiske identifiseringene"
   - "Snorre Sturluson, Gylfaginning (kapittel IV til VI i Brodeurs oversettelse fra 1916)"
-  - "Ursula Dronke, The Poetic Edda, bd. II (1997); De Vries, Altnordisches etymologisches Wörterbuch (1977); Seaver, Maps, Myths and Men (2004), sitert i Wikipedia"
+  - "Ursula Dronke, The Poetic Edda, bd. II (1997); De Vries, Altnordisches etymologisches Wörterbuch (1977); Seaver, Maps, Myths and Men (2004), sitert i oppslagsverk"
 tags: [ginnungagap, ymir, niflheim, muspell, audhumla, völuspá, gylfaginning, kosmogoni]
 ---
 

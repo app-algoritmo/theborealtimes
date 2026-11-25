@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/skidbladnir-navio-que-dobra.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio de madeira clara com vela branca bem armada, flutuando sobre nuvens ao entardecer, com guerreiros e deuses a bordo; ao lado, em primeiro plano, o mesmo navio dobrado como um pano e guardado na mão de uma figura de capa verde."
 fontes:
-  - "Wikipedia, \"Skíðblaðnir\" (nome, Grímnismál, Gylfaginning, Skáldskaparmál, Ynglinga saga, donos e fabricantes)"
+  - "Obras de referência sobre \"Skíðblaðnir\" (nome, Grímnismál, Gylfaginning, Skáldskaparmál, Ynglinga saga, donos e fabricantes)"
 tags: [skíðblaðnir, freyr, navio, ivaldi, edda, anões]
 ---
 

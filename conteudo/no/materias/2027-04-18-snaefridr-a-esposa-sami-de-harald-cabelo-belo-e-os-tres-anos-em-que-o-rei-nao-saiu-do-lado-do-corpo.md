@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/snaefridr-e-o-rei-harald.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konge med langt lyst hår som sitter ved siden av en seng av skinn der en ung kvinne med rolig ansikt ligger, i en trehytte ved lysskjær, mens en gammel mann med hvitt skjegg kaller på ham fra døra."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Snæfríthr Svásadottir»"
-  - "Snorre Sturluson, Heimskringla, Haralds saga hins hárfagra, kapittel 25 og 26, sitert i Wikipedia"
-  - "Ágrip af Nóregskonungasögum, Orkneyinga saga, Málshattakvæði og Flateyjarbók (Haralds þáttr hárfagra), sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Snæfríthr Svásadottir»"
+  - "Snorre Sturluson, Heimskringla, Haralds saga hins hárfagra, kapittel 25 og 26, sitert i oppslagsverk"
+  - "Ágrip af Nóregskonungasögum, Orkneyinga saga, Málshattakvæði og Flateyjarbók (Haralds þáttr hárfagra), sitert i oppslagsverk"
 tags: [snæfríðr, harald hårfagre, svási, samer, heimskringla, flateyjarbók, trolldom, saga]
 ---
 

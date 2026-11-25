@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/finfolk-barco-orcades.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um mar cinzento de nevoeiro perto das ilhas Órcades, com um barco de pesca sendo seguido por um barco estreito de proa escura e remos longos, remado por um homem alto e magro; sobre a água, o contorno de uma ilha encoberta pela neblina e, na popa do barco de pesca, uma cruz de giz desenhada na madeira."
 fontes:
-  - "Wikipedia, \"Finfolk\" (descrição, Finfolkaheem, Hildaland, fontes citadas)"
+  - "Obras de referência sobre \"Finfolk\" (descrição, Finfolkaheem, Hildaland, fontes citadas)"
   - "Archaeology Orkney, texto de blog sobre os Finfolk (descrição geral dos Finfolk)"
   - "Francesca Meneghetti, ensaio de estudante (janeiro de 2021) sobre os Finfolk, não revisado por pares e com inconsistências de citação (Wallace 1684, Brand 1701, Westaway 2020, Grydehøj 2013)"
 tags: [finfolk, orcadas, finfolkaheem, hildaland, finman, folclore, moedas de prata]

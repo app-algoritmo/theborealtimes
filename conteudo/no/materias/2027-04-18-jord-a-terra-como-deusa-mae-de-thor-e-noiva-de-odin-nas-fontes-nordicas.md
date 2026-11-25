@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/jord-a-terra-mae-de-thor.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en enorm, rolig kvinne som ligger som et landskap dekket av gress og blomster, med fjell ved skuldrene, og en ung rødskjegget kriger med hammer ved siden av henne som ser på henne."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Jörð», med stedene i Gylfaginning, Skáldskaparmál, Völuspá, Lokasenna og Hárbarðsljóð"
+  - "Engelsk Oppslagsverk om artikkelen «Jörð», med stedene i Gylfaginning, Skáldskaparmál, Völuspá, Lokasenna og Hárbarðsljóð"
   - "Snorres Edda, Gylfaginning (avsnitt 10 og 25) og Skáldskaparmál (avsnitt 4, 19 og 90)"
   - "Den eldre Edda, Völuspá og Lokasenna (strofe 58)"
 tags: [jörð, thor, odin, jorden, fjörgyn, hlóðyn, gylfaginning, skáldskaparmál]

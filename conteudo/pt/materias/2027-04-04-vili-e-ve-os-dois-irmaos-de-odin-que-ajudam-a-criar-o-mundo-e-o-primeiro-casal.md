@@ -12,7 +12,7 @@ fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, sobre a criação do mundo e de Ask e Embla)"
   - "Edda poética: Völuspá e Lokasenna"
   - "Snorri Sturluson, Heimskringla (Ynglinga saga, capítulo 3)"
-  - "Wikipédia em inglês, artigo \"Vili and Vé\", consultado para conferir as fontes e as hipóteses"
+  - "Obras de referência em inglês, artigo \"Vili and Vé\", consultado para conferir as fontes e as hipóteses"
 tags: [vili, vé, odin, borr, ask e embla, gylfaginning, völuspá, frigg]
 ---
 

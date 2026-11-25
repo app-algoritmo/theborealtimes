@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/valemon-urso-branco.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma jovem de capa azul e luvas de ferro subindo uma encosta de gelo e neve ao anoitecer, rumo a um castelo de torres altas e janelas acesas no cume; ao lado dela, a pegada fresca de um grande urso branco e, ao fundo, uma floresta de pinheiros cobertos de neve."
 fontes:
-  - "Verbete \"White-Bear-King-Valemon\", Wikipédia"
+  - "Verbete \"White-Bear-King-Valemon\", obra de referência"
   - "Asbjørnsen e Moe, Norske Folke-Eventyr, Ny Samling, n.º 90 (1871)"
   - "George Webbe Dasent, Tales from the Fjeld, conforme citado no verbete"
 tags: [valemon, urso branco, asbjørnsen e moe, conto norueguês, setesdal, conto de fadas]

@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a medieval wooden wharf in Bergen with rows of colo
 fontes:
   - "Bryggens Museum, Bergen (runic inscriptions from Bryggen)"
   - "Medievalists.net, \"The Runes of Bergen: Voices from the Middle Ages\""
-  - "Wikipedia, \"Bryggen inscriptions\""
+  - "Reference works on \"Bryggen inscriptions\""
 tags: [bryggen, bergen, runes, rune sticks, merchants, hanseatic, middle ages]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/kari-trestakk-boi-pardo.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en jente i en kappe av sammensnorte trebord som står ved siden av en stor gråbrun okse i en skog der bladene er av kobber, med et slott i bakgrunnen; oksen har en duk spredd utover gresset, full av mat; lenger bort titter et grått troll mellom stammene, og strålebunter av oransje lys krysser skogen."
 fontes:
-  - "Wikipedia, «Katie Woodencloak» (Kari Trestakk; samling av Asbjørnsen og Moe, Norske Folkeeventyr; Andrew Langs Red Fairy Book; type ATU 510A; varianter fra Valdres og Telemark; omtale av Olcott, 1928)"
+  - "Oppslagsverk om «Katie Woodencloak» (Kari Trestakk; samling av Asbjørnsen og Moe, Norske Folkeeventyr; Andrew Langs Red Fairy Book; type ATU 510A; varianter fra Valdres og Telemark; omtale av Olcott, 1928)"
 tags: [kari trestakk, asbjørnsen og moe, askepott, okse, folkeeventyr]
 ---
 

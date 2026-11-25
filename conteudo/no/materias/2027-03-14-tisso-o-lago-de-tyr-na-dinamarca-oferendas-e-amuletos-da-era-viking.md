@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en rolig sjø i morgengry, med en lang tømmerhall 
 fontes:
   - "Nasjonalmuseet i Danmark (Nationalmuseet), \"Sacrifices to the Norse god Tyr\""
   - "Medievalhistories, \"Tissø: a cultural, commercial and elite centre from the Viking Age\""
-  - "Wikipedia, \"Tissø\""
+  - "Oppslagsverk om \"Tissø\""
 tags: [tissø, tyr, ofringer, amuletter, tors hammere, valkyrier, danmark]
 ---
 

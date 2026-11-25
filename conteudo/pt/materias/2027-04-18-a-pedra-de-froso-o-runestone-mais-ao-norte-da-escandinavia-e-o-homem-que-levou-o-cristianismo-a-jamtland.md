@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/a-pedra-de-froso.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma pedra rúnica ao lado de um embarcadouro de balsa num estreito de águas calmas, com uma ponte de madeira em construção ao fundo e três homens trabalhando, um deles gravando runas na pedra."
 fontes:
-  - "Wikipédia em inglês, artigo \"Frösö Runestone\" (J RS1928;66)"
+  - "Obras de referência em inglês, artigo \"Frösö Runestone\" (J RS1928;66)"
 tags: [pedra de frösö, jämtland, runas, cristianização, austmaðr, östersund, ponte, viking]
 ---
 

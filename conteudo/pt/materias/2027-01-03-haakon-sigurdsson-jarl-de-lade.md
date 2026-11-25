@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/haakon-jarl-lade-kark.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma fazenda nórdica no fim do outono, com uma grande casa de madeira de teto de turfa e um jarl de capa escura e barba grisalha sentado numa cadeira alta, rodeado de guerreiros; ao fundo, um chiqueiro de madeira sob a chuva e um homem de faca na mão espiando pela porta, e pelo fiorde, navios com velas listradas."
 fontes:
-  - "Wikipedia, \"Haakon Sigurdsson\" (origem, Lade, Harald Dente Azul, Hjörungavágr, Olavo Tryggvason, morte em Rimul, memória)"
-  - "Wikipedia, \"Olaf Tryggvason\" (sucessão de Haakon)"
+  - "Obras de referência sobre \"Haakon Sigurdsson\" (origem, Lade, Harald Dente Azul, Hjörungavágr, Olavo Tryggvason, morte em Rimul, memória)"
+  - "Obras de referência sobre \"Olaf Tryggvason\" (sucessão de Haakon)"
 tags: [haakon sigurdsson, jarl de lade, trøndelag, kark, harald dente azul]
 ---
 

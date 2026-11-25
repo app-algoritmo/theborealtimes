@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/aggersborg-a-fortaleza-circular.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração aérea de um grande círculo de aterro e vala numa planície junto a um fiorde, dividido em quatro quadrantes por duas ruas em cruz, com casas longas de madeira alinhadas dentro de cada quarto e barcos no fiorde ao fundo."
 fontes:
-  - "Wikipédia em inglês, artigo \"Aggersborg\""
-  - "Museu Nacional da Dinamarca, escavações de 1945 a 1954, citadas na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Aggersborg\""
+  - "Museu Nacional da Dinamarca, escavações de 1945 a 1954, citadas em obras de referência"
 tags: [aggersborg, fortaleza circular, limfjord, dinamarca, harald dente azul, svend barba bifurcada, dendrocronologia]
 ---
 

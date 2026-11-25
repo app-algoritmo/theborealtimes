@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/saga-sokkvabekkr-taca-de-ouro.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i lys kappe og en mann med blå hette som sitter side om side på en benk ved kanten av kaldt, mørkt vann, hver med et gullbeger i hånden, under en himmel sent på ettermiddagen med bølger som slår mot steinene rundt dem."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Sága and Sökkvabekkr», med passasjene fra Grímnismál, Gylfaginning og Skáldskaparmál og studiene til Simek, Lindow, Grundy, Näsström og Grimm"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Sága and Sökkvabekkr», med passasjene fra Grímnismál, Gylfaginning og Skáldskaparmál og studiene til Simek, Lindow, Grundy, Näsström og Grimm"
 tags: [sága, sökkvabekkr, grímnismál, frigg, odin, snorres edda, ásynjur, norrøn mytologi]
 ---
 

@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do interior de uma casa de fazenda norueguesa de madeira, com um agricultor de camisa de linho sentado perto da lareira, estudando à luz do fogo uma longa vara de madeira entalhada com traços e pequenos símbolos, enquanto sobre a mesa há uma faca e uma tigela de mingau."
 fontes:
   - "Store norske leksikon, artigo \"primstav\""
-  - "Wikipédia em inglês, artigo \"Primstav\""
+  - "Obras de referência em inglês, artigo \"Primstav\""
   - "Museu Nacional da Dinamarca, primstav de 1457"
 tags: [primstav, calendário, noruega, santo olavo, santo hallvard, runestav, calendário juliano, folclore agrícola]
 ---

@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/halldor-snorrason-e-o-rei-harald.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran salón noruego de noche, donde un islandés con capa sencilla apunta una espada al cuello de un rey en la cama, mientras una reina, con un anillo en la mano, lo observa de pie a su lado."
 fontes:
-  - "Wikipedia en inglés, artículo «The Tale of Halldor Snorrason II» (Halldórs þáttr Snorrasonar inn síðari), conservado en la Morkinskinna"
-  - "Theodore M. Andersson, The Growth of the Medieval Icelandic Sagas (1180-1280), citado en Wikipedia"
-  - "Snorri Sturluson, Saga del rey Harald (Heimskringla), citado en Wikipedia"
+  - "Obras de referencia en inglés, artículo «The Tale of Halldor Snorrason II» (Halldórs þáttr Snorrasonar inn síðari), conservado en la Morkinskinna"
+  - "Theodore M. Andersson, The Growth of the Medieval Icelandic Sagas (1180-1280), citado en obras de referencia"
+  - "Snorri Sturluson, Saga del rey Harald (Heimskringla), citado en obras de referencia"
 tags: [halldór snorrason, harald hardrada, morkinskinna, þáttr, guardia varega, islandeses, saga]
 ---
 

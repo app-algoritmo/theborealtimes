@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en enkel fjellhytte på julekvelden, med et dekket 
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, Norske Folkeeventyr (1852), engelsk oversettelse av George Webbe Dasent, Popular Tales from the Norse (1859)"
   - "Aarne–Thompson–Uther, type 1161, \"The Bear Trainer and His Cat\""
-  - "Wikipedia, \"The Cat on the Dovrefjell\""
+  - "Oppslagsverk om \"The Cat on the Dovrefjell\""
 tags: [dovrefjell, troll, hvitbjørn, jul, asbjørnsen og moe, norsk folkeeventyr]
 ---
 

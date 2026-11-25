@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/selkie-foca-rochas.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma costa de rochas negras ao entardecer, com uma foca-cinzenta deitada numa pedra à beira da água e, ao lado, uma pele de foca largada sobre a rocha; ao fundo, uma jovem de cabelos molhados olhando o mar."
 fontes:
-  - "Wikipedia, \"Selkie\" (nome, variantes, Orkney, Unst, Islândia, ilhas Faroé, Sule Skerry, teorias)"
+  - "Obras de referência sobre \"Selkie\" (nome, variantes, Orkney, Unst, Islândia, ilhas Faroé, Sule Skerry, teorias)"
   - "My Voyage Scotland (myvoyagescotland.com), texto sobre os selkies (descrição geral e o conto da pele roubada)"
 tags: [selkie, foca, órcades, shetland, selch, kópakonan, sule skerry]
 ---

@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/solarljod-o-pai-que-fala-do-alem.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un hombre de barba gris y manto claro, de pie en una colina al amanecer con la mano alzada, ante un gran sol bajo cuyos rayos caen en líneas doradas sobre un valle, mientras un joven escucha sentado en una piedra."
 fontes:
-  - "Wikipedia en inglés, artículo «Sólarljóð»"
-  - "Gro Steinsland, división del poema citada por Wikipedia"
-  - "Fredrik Paasche y Peter Hallberg, estudiosos citados por Wikipedia"
+  - "Obras de referencia en inglés, artículo «Sólarljóð»"
+  - "Gro Steinsland, división del poema citada por obras de referencia"
+  - "Fredrik Paasche y Peter Hallberg, estudiosos citados por obras de referencia"
 tags: [sólarljóð, canto del sol, poesía islandesa, ljóðaháttr, visión del más allá, hávamál]
 ---
 

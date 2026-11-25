@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorrablot-o-banquete-de-meio-de-inverno-na-isla
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor islandsk hall opplyst av lykter en vinternatt, med lange bord full av trebrett med spekemat og mørkt brød, og folk i ullklær som står og synger med hevede begre, mens snøen sees gjennom vinduet."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Þorrablót»"
+  - "Engelsk Oppslagsverk om artikkelen «Þorrablót»"
   - "Orkneyinga saga og Flateyjarbók (Hversu Noregr byggðist)"
   - "Artikkel om Þorrablót, Professor Iceland (Substack)"
 tags: [þorrablót, þorri, island, vinterfest, orkneyinga saga, flateyjarbók, þorramatur, tradisjon]

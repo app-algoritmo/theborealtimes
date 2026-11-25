@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/gullveig-queimada-tres-vezes.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor mørk trehall opplyst av et bål, med spyd rettet mot en gullhåret kvinne i midten, omgitt av tause krigerskikkelser, og i bakgrunnen en åpen dør mot en stjerneklar natt."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Gullveig», med passasjene fra Völuspá og forskernes hypoteser"
-  - "Oversettelser av Völuspá av Bellows, Orchard og Lindow, sammenlignet i Wikipedia"
-  - "Rudolf Simek, John Lindow, Turville-Petre og Andy Orchard, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Gullveig», med passasjene fra Völuspá og forskernes hypoteser"
+  - "Oversettelser av Völuspá av Bellows, Orchard og Lindow, sammenlignet i oppslagsverk"
+  - "Rudolf Simek, John Lindow, Turville-Petre og Andy Orchard, sitert i oppslagsverk"
 tags: [gullveig, heiðr, völuspá, æsir, vaner, seid, freyja, gull]
 ---
 

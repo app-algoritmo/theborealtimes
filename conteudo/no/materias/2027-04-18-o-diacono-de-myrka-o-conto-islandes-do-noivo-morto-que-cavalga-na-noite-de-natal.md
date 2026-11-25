@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/o-diacono-de-myrka.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en fullmånenatt over en mørk elv, med en rytter med hatt og skjerf som skjuler ansiktet og som har en ung kvinne bak seg, og i bakgrunnen en liten kirke med en klokke og en åpen grav."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Djákninn á Myrká», med sammendrag av eventyret, utgivelseshistorien og ATU 365-klassifiseringen"
-  - "Konrad Maurer, Isländische Volkssagen der Gegenwart (1860), første utgivelse, ifølge Wikipedia"
-  - "Jón Árnason og Magnús Grímsson, Íslenzkar þjóðsögur og æfintýri (1862), første utgivelse på islandsk, ifølge Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Djákninn á Myrká», med sammendrag av eventyret, utgivelseshistorien og ATU 365-klassifiseringen"
+  - "Konrad Maurer, Isländische Volkssagen der Gegenwart (1860), første utgivelse, ifølge kildene"
+  - "Jón Árnason og Magnús Grímsson, Íslenzkar þjóðsögur og æfintýri (1862), første utgivelse på islandsk, ifølge kildene"
 tags: [diakonen på myrká, djákninn á myrká, islandsk folketro, spøkelse, jul, ATU 365, død brudgom]
 ---
 

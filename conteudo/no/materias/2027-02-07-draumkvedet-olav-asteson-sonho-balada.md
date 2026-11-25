@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/draumkvedet-olav-asteson.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann som sover på en halmseng i et trehus i Telemark, med vintersnø i vinduene; over ham, som tåke, vises en tornehei, en svært høy bro og en svart ild, i lys fra et stearinlys."
 fontes:
-  - "Wikipedia, «Draumkvedet» (identifikasjon, senmiddelaldersk versjon, innsamling i Lårdal og Kviteseid, handling, komposisjoner)"
+  - "Oppslagsverk om «Draumkvedet» (identifikasjon, senmiddelaldersk versjon, innsamling i Lårdal og Kviteseid, handling, komposisjoner)"
   - "Store norske leksikon (snl.no), «Draumkvedet» (omkved, personer, innsamlinger på 1840-tallet, opptak, påvirkning, mottakelse)"
 tags: [draumkvedet, olav åsteson, norsk ballade, telemark, visjon, middelalder]
 ---

@@ -11,7 +11,7 @@ imagem_alt: "Ilustración de un joven rey de pie en un páramo ventoso entre tre
 fontes:
   - "Peter Christen Asbjørnsen y Jørgen Moe, Norske Folkeeventyr"
   - "George Webbe Dasent, Popular Tales from the Norse, «The Three Princesses of Whiteland» (traducción inglesa)"
-  - "Wikipedia en inglés, artículo «The Three Princesses of Whiteland», para la clasificación del tipo de cuento"
+  - "Obras de referencia en inglés, artículo «The Three Princesses of Whiteland», para la clasificación del tipo de cuento"
 tags: [las tres princesas de whiteland, asbjørnsen, moe, dasent, cuentos noruegos, atu 400]
 ---
 

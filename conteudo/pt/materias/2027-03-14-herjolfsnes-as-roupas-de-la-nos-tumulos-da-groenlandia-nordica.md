@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um cemitério à beira de um fiorde de pedra e gelo
 fontes:
   - "Poul Nørlund, Buried Norsemen at Herjolfsnes (1924)"
   - "Else Østergård, Woven into the Earth: Textiles from Norse Greenland (2004)"
-  - "Wikipedia, \"Herjolfsnes\""
+  - "Obras de referência sobre \"Herjolfsnes\""
 tags: [herjólfsnes, groenlândia, poul nørlund, roupas de lã, capuzes, nórdicos da groenlândia]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gustavo-vasa-nos-esquis-e-a-origem-da-corrida-va
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i kappe og ullue som glir på ski gjennom en snødekt svensk skog, fulgt av to raske skiløpere i det fjerne, under en blek vinterhimmel, uten blod og uten våpen i syne."
 fontes:
-  - "Engelskspråklig Wikipedia, artiklene om Gustav Vasa og Vasaloppet"
+  - "Engelskspråklig Oppslagsverk om artiklene om Gustav Vasa og Vasaloppet"
 tags: [gustav vasa, vasaloppet, ski, mora, sälen, sverige, 1520, sagn]
 ---
 

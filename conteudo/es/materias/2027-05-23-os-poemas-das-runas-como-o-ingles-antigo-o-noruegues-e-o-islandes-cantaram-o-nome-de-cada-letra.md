@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/poemas-das-runas-fe-ur-e-thurs.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un pergamino antiguo abierto sobre una mesa de madera, con tres grandes runas pintadas con tinta oscura arriba, cada una con un dibujo al lado, un montón de monedas, una nube de lluvia y un gigante de piedra, a la luz de una vela."
 fontes:
-  - "Wikipedia en inglés, artículo «Rune poem»"
+  - "Obras de referencia en inglés, artículo «Rune poem»"
   - "Manuscrito Cotton Otho B.x (siglo X), copia de George Hickes (1705)"
   - "Manuscritos arnamagnéanos AM 687 d 4° (hacia 1500) y AM 461 12° (hacia 1550)"
 tags: [poemas de las runas, futhark, fé, úr, þurs, inglés antiguo, islandés, noruego antiguo]

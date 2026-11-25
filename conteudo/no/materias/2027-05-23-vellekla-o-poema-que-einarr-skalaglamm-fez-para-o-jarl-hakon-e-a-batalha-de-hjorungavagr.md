@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vellekla-o-poema-para-o-jarl-hakon.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en flåte av høystavnede skip med stripete seil i trange farvann mellom skjærgårdsøyer på norskekysten, under en tung himmel, med en skald i kappe som sitter i baugen på et skip og holder et gullbeger."
 fontes:
-  - "Engelsk Wikipedia, artiklene «Vellekla» og «Battle of Hjörungavágr»"
+  - "Engelsk Oppslagsverk om artiklene «Vellekla» og «Battle of Hjörungavágr»"
   - "Fagrskinna, Heimskringla, Óláfs saga Tryggvasonar en mesta og Flateyjarbók, som siterer vers fra diktet"
   - "Finnur Jónsson, utgave (1912 til 1915)"
 tags: [vellekla, einarr skálaglamm, håkon sigurdsson, hjørungavåg, jomsvikinger, skaldedikt, sunnmøre]

@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/torslunda-as-quatro-matrizes-de-bronze.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av fire firkantede bronseplater lagt utover et mørkt klede: på en går to krigere med villsvinhjelmer med spyd, på en annen danser en mann med horn ved siden av en mann kledd i ulveskinn, på en tredje holder en mann et dyr i et tau, og på den siste står en mann mellom to bjørner."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Torslunda plates», med beskrivelsen av de fire stemplene, dateringen og tolkningene"
-  - "Statens Historiska Museum i Sverige, der stemplene oppbevares, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Torslunda plates», med beskrivelsen av de fire stemplene, dateringen og tolkningene"
+  - "Statens Historiska Museum i Sverige, der stemplene oppbevares, sitert i oppslagsverk"
 tags: [torslunda, torslundaplatene, öland, vendel, pressblech, hjelm, odin, úlfhéðnar]
 ---
 

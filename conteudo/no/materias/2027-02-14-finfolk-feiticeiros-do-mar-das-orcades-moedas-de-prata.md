@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/finfolk-barco-orcades.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et grått hav med tåke ved Orknøyene, med en fiskebåt som følges av en smal båt med mørk stavn og lange årer, rodd av en høy, tynn mann; over vannet omrisset av en øy skjult i tåke og, på akterenden av fiskebåten, et kritt-kors tegnet på treverket."
 fontes:
-  - "Wikipedia, «Finfolk» (beskrivelse, Finfolkaheem, Hildaland, siterte kilder)"
+  - "Oppslagsverk om «Finfolk» (beskrivelse, Finfolkaheem, Hildaland, siterte kilder)"
   - "Archaeology Orkney, bloggtekst om Finfolk (generell beskrivelse av Finfolk)"
   - "Francesca Meneghetti, studentessay (januar 2021) om Finfolk, ikke fagfellevurdert og med inkonsekvenser i henvisningene (Wallace 1684, Brand 1701, Westaway 2020, Grydehøj 2013)"
 tags: [finfolk, orknøyene, finfolkaheem, hildaland, finman, folklore, sølvmynter]

@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma lança de haste escura e ponta de metal polida 
 fontes:
   - "Snorri Sturluson, Edda em prosa, Skáldskaparmál (cerca de 1220), sobre os tesouros feitos pelos anões"
   - "Edda poética, Völuspá e Sigrdrífumál (manuscritos do século XIII)"
-  - "Wikipédia em inglês, artigo \"Gungnir\", com as referências a Andy Orchard (1997) e Lars Silén (1983)"
+  - "Obras de referência em inglês, artigo \"Gungnir\", com as referências a Andy Orchard (1997) e Lars Silén (1983)"
 tags: [gungnir, odin, lança, skáldskaparmál, völuspá, sigrdrífumál, filhos de ivaldi]
 ---
 

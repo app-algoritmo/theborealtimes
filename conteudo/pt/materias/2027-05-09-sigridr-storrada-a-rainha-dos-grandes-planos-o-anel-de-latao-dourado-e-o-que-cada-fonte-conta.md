@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/sigridr-o-anel-dourado-falso.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto longo e coroa simples, sentada à mesa de madeira de um salão, examinando de perto um grande anel dourado que um ourives de avental ergue à luz de uma vela, enquanto um homem alto de capa azul observa de pé, ao fundo, com os braços cruzados."
 fontes:
-  - "Wikipédia em inglês, artigo \"Sigrid the Haughty\", com as passagens de Heimskringla (Haralds saga gráfeldar, Óláfs saga Tryggvasonar, Separate Saga of St. Olaf, Magnúss saga ins góða), Yngvars saga víðförla, Hervarar saga, Saxo Grammaticus, Thietmar de Merseburg e Adão de Bremen"
+  - "Obras de referência em inglês, artigo \"Sigrid the Haughty\", com as passagens de Heimskringla (Haralds saga gráfeldar, Óláfs saga Tryggvasonar, Separate Saga of St. Olaf, Magnúss saga ins góða), Yngvars saga víðförla, Hervarar saga, Saxo Grammaticus, Thietmar de Merseburg e Adão de Bremen"
 tags: [sigríðr stórráða, sigrid a altiva, olavo tryggvason, heimskringla, harald grenske, snorri sturluson, rainhas nórdicas, suécia]
 ---
 

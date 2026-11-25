@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ahkka-deusas-sami-parto.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en samisk torvgamme, goahti, en vinternatt med et bål i midten, en kvinne i fødsel liggende på reinskinn og en jordmor ved siden av; tre gjennomsiktige kvinnelige skikkelser svever rundt, én ved bålet, en annen med en liten bue og den tredje ved døra, og utenfor rein og snø under nordlys."
 fontes:
-  - "Wikipedia, «Máttaráhkká» (navn, døtre, Ganander 1789, jomfru Maria, Krohn)"
-  - "Wikipedia, «Sáráhkká» (fødsel, ofringer, laugo, ild, organisasjonen The Sarahkka)"
-  - "Wikipedia, «Juoksáhkká» og «Uksáhkká» (bue, dør)"
+  - "Oppslagsverk om «Máttaráhkká» (navn, døtre, Ganander 1789, jomfru Maria, Krohn)"
+  - "Oppslagsverk om «Sáráhkká» (fødsel, ofringer, laugo, ild, organisasjonen The Sarahkka)"
+  - "Oppslagsverk om «Juoksáhkká» og «Uksáhkká» (bue, dør)"
 tags: [áhkká, samisk, sáráhkká, máttaráhkká, gudinner]
 ---
 

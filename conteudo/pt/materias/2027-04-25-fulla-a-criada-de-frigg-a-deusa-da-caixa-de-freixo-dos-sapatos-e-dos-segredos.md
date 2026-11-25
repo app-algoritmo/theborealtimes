@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/fulla-a-criada-de-frigg.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma jovem deusa de cabelo solto e faixa dourada na testa, ao lado de uma rainha sentada, segurando uma pequena caixa de madeira de freixo, com um par de sapatos aos pés, num salão nórdico iluminado por fogo."
 fontes:
-  - "Wikipédia em inglês, artigo \"Fulla\", com as passagens do Grímnismál, da Gylfaginning (cap. 35 e 49), do Skáldskaparmál e do feitiço de Merseburg"
-  - "Rudolf Simek, John Lindow, Andy Orchard, Hilda Ellis Davidson e John Knight Bostock, citados na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Fulla\", com as passagens do Grímnismál, da Gylfaginning (cap. 35 e 49), do Skáldskaparmál e do feitiço de Merseburg"
+  - "Rudolf Simek, John Lindow, Andy Orchard, Hilda Ellis Davidson e John Knight Bostock, citados em obras de referência"
 tags: [fulla, volla, frigg, ásynjur, grímnismál, gylfaginning, feitiço de merseburg, baldr]
 ---
 

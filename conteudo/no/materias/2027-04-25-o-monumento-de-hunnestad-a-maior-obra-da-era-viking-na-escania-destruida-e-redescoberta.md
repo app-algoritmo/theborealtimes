@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-monumento-de-hunnestad.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gressvoll i Sør-Sverige med flere høye runesteiner og bildesteiner i en ring, en som viser en kvinne på en kjempeulv med to slanger i hendene, en annen en mann i lang kappe og spiss hjelm med en øks på skulderen, ved daggry."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Hunnestad Monument», med avsnittene om Ole Worm, ødeleggelsen, steinene DR 282–286 og gjenfunnet i 2020"
+  - "Engelsk Oppslagsverk om artikkelen «Hunnestad Monument», med avsnittene om Ole Worm, ødeleggelsen, steinene DR 282–286 og gjenfunnet i 2020"
 tags: [hunnestad-monumentet, runesteiner, skåne, ole worm, hyrrokkin, bildestein, vikingtid]
 ---
 

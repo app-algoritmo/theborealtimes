@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gripisspa-o-tio-que-prediz-o-destino-de-sigurd.w
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do interior de um salão de madeira, onde um velho de barba branca e manto cinzento, sentado num banco alto, fala com um jovem guerreiro louro de pé diante dele, enquanto uma lareira baixa ilumina uma espada à cintura do rapaz e, na parede, um tecido bordado mostra um dragão."
 fontes:
-  - "Wikipédia em inglês, artigo \"Grípisspá\""
+  - "Obras de referência em inglês, artigo \"Grípisspá\""
   - "The Poetic Edda, tradução de Henry Adams Bellows (1936), \"Grípisspá\""
   - "Codex Regius, manuscrito da Edda poética"
 tags: [grípisspá, sigurd, grípir, edda poética, codex regius, völsunga saga, brynhildr, fornyrðislag]

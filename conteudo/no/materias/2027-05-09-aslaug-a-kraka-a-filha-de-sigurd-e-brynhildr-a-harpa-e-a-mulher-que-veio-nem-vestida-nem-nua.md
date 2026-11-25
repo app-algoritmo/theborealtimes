@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/aslaug-kraka-a-cebola-e-a-rede.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinne med langt hår som er pakket inn i et fiskenett som dekker skuldre og armer, med en løk mellom tennene og en hund ved siden av seg, som står foran en mann i rød kappe og enkel krone ved kanten av en fjord, med det lave torvhuset på en gård i bakgrunnen."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Aslaug», med opplysningene fra Snorres Edda, Vølsunga saga og sagaen om Ragnar Lodbrok og analysen til Marilyn Jurich (1998)"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Aslaug», med opplysningene fra Snorres Edda, Vølsunga saga og sagaen om Ragnar Lodbrok og analysen til Marilyn Jurich (1998)"
 tags: [áslaug, kráka, ragnar lodbrok, sigurd, brynhildr, vølsunga saga, heimir, eventyr om den kloke jenta]
 ---
 

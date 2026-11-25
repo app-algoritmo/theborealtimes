@@ -12,7 +12,7 @@ fontes:
   - "Snorri Sturluson, Prose Edda, Skáldskaparmál, chapter 44 (around 1220)"
   - "Húsdrápa, skaldic poem cited by Snorri, on the funeral of Baldr"
   - "Snorri Sturluson, Gylfaginning, on Freyr's chariot"
-  - "English Wikipedia, article \"Gullinbursti\""
+  - "Reference work in English, article \"Gullinbursti\""
 tags: [gullinbursti, freyr, brokkr, sindri, skáldskaparmál, golden boar, húsdrápa]
 ---
 

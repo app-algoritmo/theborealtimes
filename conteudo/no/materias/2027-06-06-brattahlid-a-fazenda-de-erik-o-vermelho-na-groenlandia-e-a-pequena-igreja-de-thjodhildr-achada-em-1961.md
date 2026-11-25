@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/brattahlid-a-igreja-de-thjodhild-na-groenlandia.
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en grønn skråning ved en fjord på Grønland, med en liten kirke med torvvegger og trekledd tak, en kirkegård rundt og, lenger bak, et langhus og beitende sauer, under en klar sommerhimmel og snødekte fjell i det fjerne."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Brattahlíð»"
+  - "Engelsk Oppslagsverk om artikkelen «Brattahlíð»"
   - "Jørgen Meldgaard, rapport om utgravingen av Brattahlíð (1982)"
   - "Eiríks saga rauða og Grænlendinga saga"
 tags: [brattahlíð, qassiarsuk, erik den røde, þjóðhildr, norrøn grønland, kujataa, eiríksfjörður, kirke]

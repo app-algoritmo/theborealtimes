@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/margarida-i-a-rainha-que-uniu-tres-reinos-nordic
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelalderdronning i blå kappe og gullkrone foran et pergamentkart over Danmark, Norge og Sverige, med tre små kroner på bordet, et steinslott ute av vinduet og en ung mann med krone ved siden av henne."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Margaret I of Denmark»"
+  - "Engelsk Oppslagsverk om artikkelen «Margaret I of Denmark»"
 tags: [margrete i, kalmarunionen, erik av pommern, håkon vi, danmark, norge, sverige]
 ---
 

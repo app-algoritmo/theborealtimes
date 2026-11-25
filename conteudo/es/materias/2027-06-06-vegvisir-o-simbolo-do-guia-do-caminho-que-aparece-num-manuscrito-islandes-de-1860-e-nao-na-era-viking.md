@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/vegvisir-o-simbolo-do-manuscrito-huld-de-1860.we
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una hoja de pergamino antiguo, manchada y amarillenta, sobre una mesa de madera, con un gran símbolo de ocho varas talladas dispuestas en círculo, dibujado con tinta oscura, junto a una pluma, un tintero y una pequeña brújula de latón."
 fontes:
-  - "Wikipedia en inglés, artículo «Vegvísir»"
-  - "Wikipedia en inglés, artículo «Icelandic magical staves»"
+  - "Obras de referencia en inglés, artículo «Vegvísir»"
+  - "Obras de referencia en inglés, artículo «Icelandic magical staves»"
   - "Manuscrito Huld (ÍB 383 4to), Biblioteca Nacional de Islandia"
 tags: [vegvísir, galdrastafir, manuscrito huld, geir vigfússon, magia islandesa, ægishjálmur, galdrabók, brújula vikinga]
 ---

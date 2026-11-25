@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/audun-urso-polar-cais.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i en enkel kappe som går langs en snødekt kai og leder en stor isbjørn i en kjetting; i bakgrunnen et skip med høy stavn og omrisset av hvite fjell under en blek himmel."
 fontes:
-  - "Wikipedia, «The Tale of Auðun of the West Fjords» (sammendrag, håndskrifter, årstall, forskere som siteres)"
+  - "Oppslagsverk om «The Tale of Auðun of the West Fjords» (sammendrag, håndskrifter, årstall, forskere som siteres)"
   - "WE Vikings, tekst om Auðunar þáttr vestfirzka (sammendrag av handlingen)"
 tags: [auðun, auðunar þáttr, isbjørn, sveinn, haraldr, morkinskinna, flateyjarbók]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/dannebrog-a-bandeira-que-caiu-do-ceu-em-lyndanis
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una colina frente a un campamento medieval al atardecer, donde un obispo de manto claro, de pie, levanta los dos brazos al cielo, mientras guerreros al fondo alzan las espadas y, sobre ellos, una bandera roja con una cruz blanca desciende lentamente entre las nubes."
 fontes:
-  - "Wikipedia en inglés, artículo «Flag of Denmark»"
+  - "Obras de referencia en inglés, artículo «Flag of Denmark»"
   - "Petrus Olai, «Danmarks Tolv Herligheder» (siglo XVI)"
   - "Christiern Pedersen, «Danske Krønike» (1520-1523)"
 tags: [dannebrog, bandera de dinamarca, valdemar ii, anders sunesen, lyndanisse, estonia, leyenda, petrus olai]

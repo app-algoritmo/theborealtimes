@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en enorm, lysende grå skimmel med gullsal og gullb
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, Norske Folkeeventyr, «Grimsborken»"
   - "George Webbe Dasent, Popular Tales from the Norse, «Dapplegrim» (engelsk oversettelse)"
-  - "Engelsk Wikipedia, artikkelen «Dapplegrim», for sammendraget av handlingen og klassifiseringen ATU 531"
+  - "Engelsk Oppslagsverk om artikkelen «Dapplegrim», for sammendraget av handlingen og klassifiseringen ATU 531"
 tags: [grimsborken, dapplegrim, asbjørnsen, moe, dasent, norske eventyr, atu 531]
 ---
 

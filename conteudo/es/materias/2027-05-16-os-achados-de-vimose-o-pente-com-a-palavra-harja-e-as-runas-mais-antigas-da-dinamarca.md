@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/pente-de-vimose-harja-runas-mais-antigas.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un peine de hueso de dientes finos con runas grabadas en el lomo, junto a una hebilla de bronce, una pieza de contera de vaina y una punta de lanza, dispuestos sobre un paño oscuro en la mesa de un arqueólogo, con una lupa al lado."
 fontes:
-  - "Wikipedia en inglés, artículo «Vimose inscriptions» (lista de objetos, fechas y lecturas)"
-  - "Elmar Seebold, ensayo de 1994 sobre la interpretación lingüística de las inscripciones arcaicas (citado por Wikipedia)"
+  - "Obras de referencia en inglés, artículo «Vimose inscriptions» (lista de objetos, fechas y lecturas)"
+  - "Elmar Seebold, ensayo de 1994 sobre la interpretación lingüística de las inscripciones arcaicas (citado por obras de referencia)"
 tags: [vimose, harja, runas, futhark antiguo, dinamarca, fionia, peine]
 ---
 

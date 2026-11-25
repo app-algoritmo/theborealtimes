@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/nerthus-deusa-carroca-tacito.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um bosque sagrado numa ilha do norte, em luz de fim de tarde, onde bois brancos puxam devagar uma carroça coberta por tecido claro entre carvalhos altos; um sacerdote caminha ao lado sem tocar o pano, pessoas observam em silêncio à distância, e ao fundo se vê um lago calmo cercado por juncos."
 fontes:
-  - "Wikipedia, \"Nerthus\" (Tácito, Germânia, cap. 40; Proto-germânico *Nerþuz e Njörðr; incertezas de local, gênero e leitura do manuscrito)"
+  - "Obras de referência sobre \"Nerthus\" (Tácito, Germânia, cap. 40; Proto-germânico *Nerþuz e Njörðr; incertezas de local, gênero e leitura do manuscrito)"
 tags: [nerthus, tácito, germânia, njörðr, carroça]
 ---
 

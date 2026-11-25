@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/torf-einarr-o-conde-das-orcades.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un conde vikingo de barba entrecana, tuerto, de pie sobre una colina verde de las islas Órcadas, con una pala de turba en la mano, un montón de turbas cortadas a su lado y un barco largo anclado en una bahía al fondo, bajo un cielo ventoso."
 fontes:
-  - "Wikipedia en inglés, artículo «Torf-Einarr», con los pasajes sobre su origen, la saga de las Órcadas, los versos de la Landnámabók y la multa de sesenta marcos de oro"
+  - "Obras de referencia en inglés, artículo «Torf-Einarr», con los pasajes sobre su origen, la saga de las Órcadas, los versos de la Landnámabók y la multa de sesenta marcos de oro"
 tags: [torf-einarr, einarr rognvaldarson, órcadas, jarl, orkneyinga saga, landnámabók, saga vikinga]
 ---
 

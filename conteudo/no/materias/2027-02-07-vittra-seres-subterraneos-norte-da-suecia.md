@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vittra-gado-subterraneo-suecia.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en nordlig eng med store steiner og mose under en ettermiddagshimmel; mellom steinene en mørk åpning med et svakt lys, og en liten flokk lyse kyr som beiter i nærheten, fulgt på avstand av en skikkelse i grå klær."
 fontes:
-  - "Wikipedia, «Vittra» (kvinnelig vesen i Nord-Sverige, forhold til fe, sammenligning med hulderen og skogsråen)"
+  - "Oppslagsverk om «Vittra» (kvinnelig vesen i Nord-Sverige, forhold til fe, sammenligning med hulderen og skogsråen)"
   - "Visit Sweden, tekst om svensk folklore (vittra og vätte, underjordiske vesener og fe)"
   - "Encyclopedia.pub / HandWiki, «Vittra» (regler for samvær, utlån av fe)"
 tags: [vittra, vetter, svensk folklore, nord-sverige, fe, underjordiske vesener]

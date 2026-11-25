@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en norrøn kongssal med en islandsk skald i en slit
 fontes:
   - "Sneglu-Halla þáttr, i Morkinskinna og Flateyjarbók"
   - "Heimskringla, Haralds saga Sigurðarsonar (bakgrunn for regjeringstiden)"
-  - "Wikipedia, «The Tale of Sarcastic Halli»"
+  - "Oppslagsverk om «The Tale of Sarcastic Halli»"
 tags: [sneglu-halli, harald hardråde, morkinskinna, flateyjarbok, tått, skald, middelalderhumor]
 ---
 

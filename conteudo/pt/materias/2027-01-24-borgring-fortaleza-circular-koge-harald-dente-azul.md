@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/borgring-fortaleza-circular-koge.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração aérea de um grande forte circular viking numa planície verde da Zelândia, com um muro de terra de cerca de dez metros de largura coroado por uma paliçada de estacas pontiagudas; dois portões se abrem em lados opostos, um deles com restos queimados e fumaça fina; um riacho corre a oeste e um pequeno lago brilha ao norte, sob céu azul de verão."
 fontes:
-  - "Wikipedia, \"Borgring\" (localização, descoberta, escavações de 1971–72 e 2014, dimensões, portões, fortalezas do tipo trelleborg, Harald Dente Azul, Unesco 2023; apoia-se na pesquisa de Søren Sindbæk e do Danish Castle Centre)"
+  - "Obras de referência sobre \"Borgring\" (localização, descoberta, escavações de 1971–72 e 2014, dimensões, portões, fortalezas do tipo trelleborg, Harald Dente Azul, Unesco 2023; apoia-se na pesquisa de Søren Sindbæk e do Danish Castle Centre)"
 tags: [borgring, køge, fortalezas circulares, harald dente azul, trelleborg]
 ---
 

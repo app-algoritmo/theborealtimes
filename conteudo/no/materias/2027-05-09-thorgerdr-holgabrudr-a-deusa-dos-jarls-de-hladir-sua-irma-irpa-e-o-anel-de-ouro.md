@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorgerdr-holgabrudr-a-deusa-dos-jarls.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et mørkt tempel av tre der man i bakgrunnen ser et utskåret bilde av en sittende kvinne med en stor gullring på armen, og foran henne en mann i kappe som bøyer seg med hevede hender, mens lyset fra et lite bål dirrer på tømmerveggene."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Þorgerðr Hölgabrúðr and Irpa», med passasjene fra Skáldskaparmál, Jómsvíkinga saga, Njáls saga, Færeyinga saga, Harðar saga og Þorleifs þáttr jarlsskálds"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Þorgerðr Hölgabrúðr and Irpa», med passasjene fra Skáldskaparmál, Jómsvíkinga saga, Njáls saga, Færeyinga saga, Harðar saga og Þorleifs þáttr jarlsskálds"
   - "Studier sitert i artikkelen: Hilda Ellis Davidson (1998), John McKinnell (2002, 2005), Nora Chadwick (1950) og Margaret Motz (1993)"
 tags: [þorgerðr hölgabrúðr, irpa, håkon sigurdsson, jómsvíkinga saga, njåls saga, skáldskaparmál, lade, norrøn religion]
 ---

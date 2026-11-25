@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a churchyard beside a fjord of stone and ice, with 
 fontes:
   - "Poul Nørlund, Buried Norsemen at Herjolfsnes (1924)"
   - "Else Østergård, Woven into the Earth: Textiles from Norse Greenland (2004)"
-  - "Wikipedia, \"Herjolfsnes\""
+  - "Reference works on \"Herjolfsnes\""
 tags: [herjólfsnes, greenland, poul nørlund, wool clothing, hoods, greenland norse]
 ---
 

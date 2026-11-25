@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/engelbrekt-o-dono-de-mina-que-liderou-a-revolta-
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i ullkappe og kort skjegg som leder gruvearbeidere og bønder bevæpnet med ljåer og økser langs en snødekt vei, med et brennende steinslott i bakgrunnen under grå himmel."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Engelbrekt Engelbrektsson»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Engelbrekt Engelbrektsson»"
 tags: [engelbrekt, bergslagen, dalarna, erik av pommern, opprør, arboga, riksdag, sverige]
 ---
 

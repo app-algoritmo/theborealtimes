@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/nils-holgersson-o-menino-encolhido-que-atravesso
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bitteliten gutt i bondeklær og hvit lue som rir på en stor hvit gås i flukt over et lappeteppe av svenske jorder, innsjøer og skoger, med en flokk villgjess foran."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «The Wonderful Adventures of Nils»"
-  - "Engelsk Wikipedia, artikkelen «Selma Lagerlöf»"
+  - "Engelsk Oppslagsverk om artikkelen «The Wonderful Adventures of Nils»"
+  - "Engelsk Oppslagsverk om artikkelen «Selma Lagerlöf»"
 tags: [nils holgersson, selma lagerlöf, den underbare reisen, tomte, gjess, sverige, barnelitteratur]
 ---
 

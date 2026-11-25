@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a wide dark leather belt with a metal buckle and a 
 fontes:
   - "Snorri Sturluson, Prose Edda, Gylfaginning (around 1220), on the belt and the gloves"
   - "Eilífr Goðrúnarson, Þórsdrápa (10th century), stanza 7"
-  - "English Wikipedia, article \"Megingjörð\", with the reference to Andy Orchard (1997)"
+  - "Reference work in English, article \"Megingjörð\", with the reference to Andy Orchard (1997)"
 tags: [megingjörð, járngreipr, thor, mjölnir, gylfaginning, þórsdrápa, eilífr goðrúnarson]
 ---
 

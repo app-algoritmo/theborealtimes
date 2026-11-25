@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/pedra-de-kensington-minnesota.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor grå steinhelle dekket av runer, lent mot en prærie i Minnesota ved solnedgang, midt ute på marka; en bonde med bredbremmet hatt og en spade ved siden av ser på steinen, mens en forsker med briller undersøker runene med et forstørrelsesglass i bakgrunnen."
 fontes:
-  - "Wikipedia, «Kensington Runestone» (funnet i 1898, Olof Ohman, innskriften, undersøkelsene i 1899 og 1910, Holand, Smithsonian i 1948, Moltke, Wahlgren, Blegen, Wolter, konsensus, museet i Alexandria)"
+  - "Oppslagsverk om «Kensington Runestone» (funnet i 1898, Olof Ohman, innskriften, undersøkelsene i 1899 og 1910, Holand, Smithsonian i 1948, Moltke, Wahlgren, Blegen, Wolter, konsensus, museet i Alexandria)"
   - "Minnesota Historical Society, MNopedia, «Kensington Runestone» (steinens og debattens historie)"
 tags: [kensington-runesteinen, minnesota, olof ohman, runer, 1362, forfalskning]
 ---

@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a stone hall by torchlight with nine glowing plough
 fontes:
   - "Snorri Sturluson, Heimskringla (sagas of Magnus Barefoot and Harald Gille)"
   - "Encyclopaedia Britannica, \"Harald IV\""
-  - "Wikipedia, \"Harald Gille\""
+  - "Reference works on \"Harald Gille\""
 tags: [harald gille, haraldr gilli, ordeal by iron, heimskringla, sigurd jorsalfar, magnus barefoot, civil wars]
 ---
 

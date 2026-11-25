@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gunnlod-a-guardia-do-hidromel.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy kvinne i mørk kjole og flettet hår som sitter på en gullstol inne i en steinhule opplyst av fakler, med tre store leirkar på rad foran seg, mens en mann i kappe og bredbremmet hatt står og hever et lite beger i hånden."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Gunnlöð», med passasjene fra Hávamál (strofe 105 og 108, Orchards oversettelse, 1997) og Skáldskaparmál (kap. 57–58, Faulkes' oversettelse, 1987)"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Gunnlöð», med passasjene fra Hávamál (strofe 105 og 108, Orchards oversettelse, 1997) og Skáldskaparmál (kap. 57–58, Faulkes' oversettelse, 1987)"
   - "Studier sitert: Orchard (1997), Lindow (2002) og de Vries (1962)"
 tags: [gunnlöð, odin, suttungr, diktermjød, hávamál, skáldskaparmál, óðrerir, hnitbjörg]
 ---

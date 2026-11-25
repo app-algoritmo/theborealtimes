@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et islandsk vindu om vinteren med en sko på vindus
 fontes:
   - "Jóhannes úr Kötlum, Jólin koma (1932)"
   - "Smithsonian Magazine, «Meet the Thirteen Yule Lads, Iceland's Own Mischievous Santa Clauses»"
-  - "Wikipedia, «Yule Lads»"
+  - "Oppslagsverk om «Yule Lads»"
 tags: [jólasveinar, julesvenner, island, jul, grýla, islandsk folketro, jóhannes úr kötlum]
 ---
 

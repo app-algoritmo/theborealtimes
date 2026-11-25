@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/backahast-cavalo-riacho.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um riacho de floresta sueca coberto de neblina ao amanhecer, com um cavalo branco majestoso parado na margem, a crina molhada e os olhos claros; ao lado, uma criança de blusa vermelha estende a mão para ele, e na água, atrás, refletem-se ramos e uma silhueta escura que parece um homem com um violino."
 fontes:
-  - "Wikipedia (espelho), \"Neck (water spirit)\" (nomes, bäckahäst, Noruega e Ilhas Faroé, crenças cristãs, incertezas)"
+  - "Obras de referência sobre \"Neck (water spirit)\" (nomes, bäckahäst, Noruega e Ilhas Faroé, crenças cristãs, incertezas)"
   - "Theodor Kittelsen, *Gutt på hvit hest* (desenho), mencionado no artigo"
   - "Stagnelius (poema do século XIX), mencionado no artigo"
 tags: [bäckahäst, cavalo do riacho, näcken, nøkken, folclore sueco]

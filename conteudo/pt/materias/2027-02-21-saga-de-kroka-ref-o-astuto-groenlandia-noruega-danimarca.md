@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/kroka-ref-fortaleza-navio.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de capa curta diante de uma fortaleza de pedras e toras numa colina junto ao mar, com um navio de proa alta ancorado na baía e uma bandeira ao vento no alto do muro, sob um céu de nuvens baixas."
 fontes:
-  - "Wikipedia, \"Króka-Refs saga\" (enredo, datação, manuscritos, rímur)"
+  - "Obras de referência sobre \"Króka-Refs saga\" (enredo, datação, manuscritos, rímur)"
   - "Dark Company, ensaio sobre a Króka-Refs saga (enredo e leitura do próprio autor do ensaio)"
 tags: [króka-refs saga, króka-ref, groenlândia, haraldr harðráði, sveinn, rímur, hallgrímur pétursson]
 ---

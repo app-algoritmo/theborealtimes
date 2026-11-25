@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/gullveig-queimada-tres-vezes.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande salão de madeira escura iluminado por uma fogueira, com lanças apontadas para uma mulher de cabelo dourado no centro, cercada por figuras de guerreiros em silêncio, e ao fundo uma porta aberta para uma noite estrelada."
 fontes:
-  - "Wikipédia em inglês, artigo \"Gullveig\", com as passagens da Völuspá e as hipóteses dos estudiosos"
-  - "Traduções da Völuspá de Bellows, Orchard e Lindow, comparadas na Wikipédia"
-  - "Rudolf Simek, John Lindow, Turville-Petre e Andy Orchard, citados na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Gullveig\", com as passagens da Völuspá e as hipóteses dos estudiosos"
+  - "Traduções da Völuspá de Bellows, Orchard e Lindow, comparadas na obras de referência"
+  - "Rudolf Simek, John Lindow, Turville-Petre e Andy Orchard, citados em obras de referência"
 tags: [gullveig, heiðr, völuspá, æsir, vanir, seiðr, freyja, ouro]
 ---
 

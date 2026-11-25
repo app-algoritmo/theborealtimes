@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/viglundar-saga-os-amantes-e-a-emboscada-no-palhe
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran pajar en el campo, al atardecer, con hombres armados escondidos detrás y, a lo lejos, un joven y una joven de la mano por el sendero, sin darse cuenta, bajo el cielo anaranjado de un verano islandés."
 fontes:
-  - "Wikipedia en inglés, artículo «Víglundar saga»"
+  - "Obras de referencia en inglés, artículo «Víglundar saga»"
   - "Manuscrito AM 551 A 4to, del siglo XV"
 tags: [víglundar saga, víglundr, ketilríðr, sagas islandesas, amor, pajar, am 551 a 4to]
 ---

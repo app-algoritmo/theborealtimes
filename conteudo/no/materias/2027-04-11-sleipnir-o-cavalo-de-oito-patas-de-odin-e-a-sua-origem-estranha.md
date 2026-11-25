@@ -12,7 +12,7 @@ fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 15, 41, 42 og 49)"
   - "Den eldre Edda: Grímnismál, Baldrs draumar og Hyndluljóð"
   - "Tjängvide-steinen (G 110), Gotland, i Statens historiska museum i Stockholm"
-  - "Engelsk Wikipedia, artikkelen «Sleipnir», brukt til å kontrollere stedene og forskernes teorier"
+  - "Engelsk Oppslagsverk om artikkelen «Sleipnir», brukt til å kontrollere stedene og forskernes teorier"
 tags: [sleipnir, odin, loke, svaðilfari, gylfaginning, tjängvide-steinen]
 ---
 

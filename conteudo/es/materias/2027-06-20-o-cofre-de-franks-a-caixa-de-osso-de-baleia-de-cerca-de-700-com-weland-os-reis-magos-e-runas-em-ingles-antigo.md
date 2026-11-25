@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-cofre-de-franks-o-cofre-de-osso-de-baleia-com-
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un pequeño cofre de hueso claro de ballena sobre una mesa de madera, con los lados tallados con escenas de un herrero cautivo, tres reyes con regalos y dos gemelos amamantados por una loba, y bandas de runas grabadas alrededor."
 fontes:
-  - "Wikipedia en inglés, artículo «Franks Casket»"
+  - "Obras de referencia en inglés, artículo «Franks Casket»"
 tags: [cofre de franks, auzon, weland, runas, inglés antiguo, northumbria, british museum]
 ---
 

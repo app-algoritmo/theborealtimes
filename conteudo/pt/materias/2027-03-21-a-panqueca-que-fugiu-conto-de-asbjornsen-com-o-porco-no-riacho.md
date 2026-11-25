@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande panqueca dourada rolando como uma roda por um caminho de colina, perseguida por uma mulher, um homem e crianças; adiante esperam uma galinha, um galo, um ganso e um porco gordo perto de um riacho."
 fontes:
   - "Peter Christen Asbjørnsen, Tales from the Fjeld, tradução de George Webbe Dasent (Projeto Gutenberg, ebook 36385)"
-  - "Wikipedia, \"Norwegian Folktales\""
+  - "Obras de referência sobre \"Norwegian Folktales\""
 tags: [panqueca, asbjørnsen, moe, dasent, conto popular, noruega, tales from the fjeld]
 ---
 

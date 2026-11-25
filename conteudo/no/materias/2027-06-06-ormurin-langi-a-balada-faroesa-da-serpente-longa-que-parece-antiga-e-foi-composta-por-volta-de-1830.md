@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/ormurin-langi-a-balada-faroesa-do-navio-de-olaf.
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vinternatt i et hus av stein og torv på Færøyene, der en gruppe mennesker i ullklær holder hverandre i hendene i en ring og synger rundt et ildsted, mens det på veggen henger et maleri av et stort vikingskip med slangehode."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Ormurin Langi»"
-  - "Engelsk Wikipedia, artikkelen «Battle of Svolder»"
+  - "Engelsk Oppslagsverk om artikkelen «Ormurin Langi»"
+  - "Engelsk Oppslagsverk om artikkelen «Battle of Svolder»"
   - "V. U. Hammershaimb, «Færøsk Anthologi» (1891)"
 tags: [ormurin langi, færøysk ballade, kvæði, jens christian djurhuus, hammershaimb, olav tryggvason, svolder, færøyene]
 ---

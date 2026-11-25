@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/avaldsnes-a-sede-de-harald-cabelo-belo-no-estrei
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um estreito estreito de mar azul-acinzentado visto de uma colina, com uma pequena igreja de pedra medieval e uma agulha de pedra alta e inclinada ao lado, enquanto um navio comprido de vela quadrada passa pelo canal e, no primeiro plano, um grande monte de terra coberto de grama."
 fontes:
-  - "Wikipédia em inglês, artigo \"Avaldsnes\""
+  - "Obras de referência em inglês, artigo \"Avaldsnes\""
   - "Nordvegen History Centre, Avaldsnes"
 tags: [avaldsnes, karmøy, karmsundet, harald cabelo belo, igreja de são olavo, storhaug, nordvegen, sepultura de navio]
 ---

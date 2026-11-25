@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/landnamabok-assentamentos-islandia.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en middelalderlig islandsk skriver med brun hette, sittende ved et trebord opplyst av en tranlampe, skrivende på et stort pergamentark med et skissert kart over en øy med en kystlinje full av navn; i bakgrunnen ser et vindu ut mot et landskap av fjell, fjorder og en torvgård."
 fontes:
-  - "Wikipedia, «Landnámabók» (oppbygning, datering, versjoner, pålitelighet)"
-  - "Gunnar Karlsson og Helgi Þorláksson, sitert i Wikipedia (om Hrafna-Flóki-fortellingen og Ingólfrs bosetting)"
-  - "Sveinbjörn Rafnsson, sitert i Wikipedia (om kristendommens vekt i versjonene)"
+  - "Oppslagsverk om «Landnámabók» (oppbygning, datering, versjoner, pålitelighet)"
+  - "Gunnar Karlsson og Helgi Þorláksson, sitert i oppslagsverk (om Hrafna-Flóki-fortellingen og Ingólfrs bosetting)"
+  - "Sveinbjörn Rafnsson, sitert i oppslagsverk (om kristendommens vekt i versjonene)"
 tags: [landnámabók, island, landnåm, sturlubók, ari þorgilsson]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/joik-cantor-sami-tundra.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en snødekt slette i skumringen, med reinsdyr i det fjerne, og, i forgrunnen, en person i blå og rød samisk drakt, med lukkede øyne og åpen munn, som synger vendt mot landskapet; fine lysstreker kommer ut av munnen og tegner et fjell."
 fontes:
-  - "Wikipedia, \"Joik\" (navn, kjennetegn, historie, gjenoppliving, artister)"
+  - "Oppslagsverk om \"Joik\" (navn, kjennetegn, historie, gjenoppliving, artister)"
   - "Nordics.info, \"Yoiking, a Sami musical expression\" (tekst av John Weinstock: hva det er, funksjoner, misjonærer, gjenoppliving)"
 tags: [joik, samisk, luohti, vuelie, noaide, musikk]
 ---

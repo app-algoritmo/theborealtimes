@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/magnus-bom-lyrskov.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma charneca aberta ao amanhecer, com uma linha de guerreiros nórdicos de escudos redondos à frente de um jovem rei de camisa vermelha de seda e machado erguido, e no céu, em névoa dourada, a silhueta de um rei santo de coroa; ao longe, uma multidão de guerreiros avança."
 fontes:
-  - "Verbete \"Battle of Lyrskov Heath\", Wikipédia"
-  - "Verbete \"Magnus the Good\", Wikipédia"
+  - "Verbete \"Battle of Lyrskov Heath\", obra de referência"
+  - "Verbete \"Magnus the Good\", obra de referência"
   - "Snorri Sturluson, Heimskringla, conforme citada nos verbetes"
 tags: [magnus o bom, lyrskov hede, 1043, wendos, santo olavo, hedeby]
 ---

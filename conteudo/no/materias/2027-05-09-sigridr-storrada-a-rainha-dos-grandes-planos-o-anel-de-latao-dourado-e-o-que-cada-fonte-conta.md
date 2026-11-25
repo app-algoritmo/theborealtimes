@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/sigridr-o-anel-dourado-falso.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i lang kappe og enkel krone som sitter ved trebordet i en hall og studerer en stor gullring på nært hold, som en gullsmed i forkle holder opp mot lyset fra et stearinlys, mens en høy mann i blå kappe ser på fra bakgrunnen med armene i kors."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Sigrid the Haughty», med passasjene fra Heimskringla (Haralds saga gráfeldar, Óláfs saga Tryggvasonar, Separate Saga of St. Olaf, Magnúss saga ins góða), Yngvars saga víðförla, Hervarar saga, Saxo Grammaticus, Thietmar av Merseburg og Adam av Bremen"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Sigrid the Haughty», med passasjene fra Heimskringla (Haralds saga gráfeldar, Óláfs saga Tryggvasonar, Separate Saga of St. Olaf, Magnúss saga ins góða), Yngvars saga víðförla, Hervarar saga, Saxo Grammaticus, Thietmar av Merseburg og Adam av Bremen"
 tags: [sigríðr stórráða, sigrid den stolte, olav tryggvason, heimskringla, harald grenske, snorre sturlason, norrøne dronninger, sverige]
 ---
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Sonatorrek, det uopprettelige tapet av sønner: sorgdiktet Egill laget for ikke å sulte seg i hjel"
-resumo: "I Egils saga mister skalden to sønner, vil la seg dø og blir overtalt av datteren til å lage et dikt. Se hva Wikipedia sier om oppbygningen av Sonatorrek, meteret, henvisningene til Odin, Ægir og Rán, hvordan det har nådd oss og hva forskerne sier."
+resumo: "I Egils saga mister skalden to sønner, vil la seg dø og blir overtalt av datteren til å lage et dikt. Se hva kildene sier om oppbygningen av Sonatorrek, meteret, henvisningene til Odin, Ægir og Rán, hvordan det har nådd oss og hva forskerne sier."
 secao: "Sagaer og konger"
 natureza: "Saga eller middelalderkilde"
 autor: "Paulo Fernando de Barros"
@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/sonatorrek-o-poema-do-pai-em-luto.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en sterk gammel mann med grått skjegg som sitter på kanten av en trebenk med bøyd hode, med en ung kvinne med flettet hår ved siden av seg som rekker ham en trestav med innskårne runer, i et hus av stein og torv lyst opp av en liten lampe."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Sonatorrek», med oppbygningen i sju deler, meteret, overleveringen i håndskriftene og forskernes syn"
-  - "Egils saga Skalla-Grímssonar, skrevet ca. 1220 til 1240, sitert i Wikipedia"
-  - "Margaret Clunies Ross, Peter Hallberg og Carolyne Larrington, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Sonatorrek», med oppbygningen i sju deler, meteret, overleveringen i håndskriftene og forskernes syn"
+  - "Egils saga Skalla-Grímssonar, skrevet ca. 1220 til 1240, sitert i oppslagsverk"
+  - "Margaret Clunies Ross, Peter Hallberg og Carolyne Larrington, sitert i oppslagsverk"
 tags: [sonatorrek, egill skallagrímsson, egils saga, skaldediktning, kviðuháttr, böðvarr, óðinn, rán]
 ---
 

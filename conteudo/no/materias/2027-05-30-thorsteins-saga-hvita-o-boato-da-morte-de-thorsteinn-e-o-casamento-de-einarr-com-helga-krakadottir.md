@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorsteins-saga-hvita-o-boato-da-morte.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung, mager mann i hvit kappe som står foran døren til en islandsk torvgård i skumringen, mens en ung kvinne med hvit slør og en mann i rød tunika inne i huset snur seg mot ham i overraskelse, med lyset fra en lampe i ansiktene."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Þorsteins saga hvíta»"
+  - "Engelsk Oppslagsverk om artikkelen «Þorsteins saga hvíta»"
   - "Christopher Crocker (2020), «Narrating Blindness and Seeing Ocularcentrism in Þorsteins saga hvíta», Gripla 31"
   - "Jesse Byock (1993), «Feud in the Icelandic Saga»"
 tags: [þorsteins saga hvíta, einarr þórisson, helga krákadóttir, vopnafjörður, rykte, hevn, islendingesagaer]

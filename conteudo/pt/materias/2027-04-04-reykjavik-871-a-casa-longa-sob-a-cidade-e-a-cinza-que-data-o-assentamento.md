@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/reykjavik-871-salao-de-turfa.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração em corte de um porão moderno de vidro e concreto com um grande salão de turfa da era viking preservado no chão, lareira de pedras no meio, bancadas de madeira e uma faixa escura de cinza no solo, com visitantes olhando de cima de passarelas."
 fontes:
-  - "Wikipédia em inglês, artigo \"The Settlement Exhibition\", sobre a escavação de Aðalstræti 16 e a exposição (Museu da Cidade de Reykjavík)"
+  - "Obras de referência em inglês, artigo \"The Settlement Exhibition\", sobre a escavação de Aðalstræti 16 e a exposição (Museu da Cidade de Reykjavík)"
   - "Landnámabók, o livro dos colonos, na passagem sobre Ingólfr Arnarson"
 tags: [reykjavík 871±2, aðalstræti, casa longa, tefra, landnámabók, ingólfr arnarson, arqueologia]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tyr-deus-mao-fenrir.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn gud med kort skjegg og fast blikk, høyre arm som ender i en bandasjert stump, ved siden av en enorm grå ulv holdt av en lenke tynn som et bånd, på en øy av mørkt fjell under en stormfull himmel; i bakgrunnen andre guder som ser på i stillhet, og et sverd med en pilrune risset i bladet."
 fontes:
-  - "Wikipedia, «Týr» (etymologi, Tacitus, Housesteads-alteret, Hymiskvida, Sigrdrifumål, Lokasenna, Gylfaginning, Skáldskaparmál, runer, arkeologi, faglig debatt)"
+  - "Oppslagsverk om «Týr» (etymologi, Tacitus, Housesteads-alteret, Hymiskvida, Sigrdrifumål, Lokasenna, Gylfaginning, Skáldskaparmál, runer, arkeologi, faglig debatt)"
   - "Snorri Sturluson, Snorres Edda, og Den eldre Edda, sitert i artikkelen"
 tags: [týr, fenrir, gleipnir, tirsdag, ragnarok]
 ---

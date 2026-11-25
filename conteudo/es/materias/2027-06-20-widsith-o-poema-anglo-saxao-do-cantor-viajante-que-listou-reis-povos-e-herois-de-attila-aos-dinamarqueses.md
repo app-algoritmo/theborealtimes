@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/widsith-o-poema-do-cantor-viajante-do-exeter-boo
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un cantor anglosajón con capa verde y un arpa, ante un rey sentado en un gran salón de madera, con un anillo de oro en el brazo extendido y un mapa antiguo dibujado a tinta en la pared del fondo."
 fontes:
-  - "Wikipedia en inglés, artículo «Widsith»"
+  - "Obras de referencia en inglés, artículo «Widsith»"
 tags: [widsith, libro de exeter, poesía anglosajona, eormanric, atila, hrothgar, wicinga cynn]
 ---
 

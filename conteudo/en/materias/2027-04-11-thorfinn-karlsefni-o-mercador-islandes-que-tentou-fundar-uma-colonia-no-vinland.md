@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a Norse longship beached on a pebble shore under a 
 fontes:
   - "Eiríks saga rauða (Saga of Erik the Red)"
   - "Grænlendinga saga (Saga of the Greenlanders)"
-  - "English Wikipedia, article \"Thorfinn Karlsefni\", to compare the two sagas"
+  - "Reference work in English, article \"Thorfinn Karlsefni\", to compare the two sagas"
 tags: [thorfinn karlsefni, vinland, eiríks saga rauða, grænlendinga saga, gudrid, freydís, skrælings]
 ---
 

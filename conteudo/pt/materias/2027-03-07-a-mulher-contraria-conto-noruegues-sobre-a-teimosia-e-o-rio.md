@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/mulher-contraria-rio.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo de trigo dourado à beira de um rio de águas claras, onde um camponês de camisa branca procura de joelhos na margem, olhando rio acima, enquanto, ao longe, perto de uma pequena cachoeira, algo claro flutua contra a corrente; vizinhos com varas de arrastar descem a margem ao fundo."
 fontes:
-  - "Verbete \"The Contrary-Minded Woman\", Wikipédia"
+  - "Verbete \"The Contrary-Minded Woman\", obra de referência"
   - "Asbjørnsen e Moe, Norske Folkeeventyr, Ny Samling (1852), conforme citado no verbete"
   - "Traduções de Dasent (\"Goody 'Gainst-the-stream\"), Braekstad e Iverson, conforme citadas no verbete"
 tags: [mulher contrária, kjerringa mot strømmen, conto norueguês, asbjørnsen e moe, teimosia, folclore]

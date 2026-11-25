@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/o-diacono-de-myrka.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una noche de luna llena sobre un río oscuro, con un jinete de sombrero y bufanda que oculta el rostro, llevando a una joven a la grupa, y al fondo una pequeña iglesia con una campana y una tumba abierta."
 fontes:
-  - "Wikipedia en inglés, artículo «Djákninn á Myrká», con el resumen del cuento, su historia de publicación y la clasificación ATU 365"
-  - "Konrad Maurer, Isländische Volkssagen der Gegenwart (1860), primera publicación, según Wikipedia"
-  - "Jón Árnason y Magnús Grímsson, Íslenzkar þjóðsögur og æfintýri (1862), primera publicación en islandés, según Wikipedia"
+  - "Obras de referencia en inglés, artículo «Djákninn á Myrká», con el resumen del cuento, su historia de publicación y la clasificación ATU 365"
+  - "Konrad Maurer, Isländische Volkssagen der Gegenwart (1860), primera publicación, según las fuentes"
+  - "Jón Árnason y Magnús Grímsson, Íslenzkar þjóðsögur og æfintýri (1862), primera publicación en islandés, según las fuentes"
 tags: [diácono de myrká, djákninn á myrká, folclore islandés, fantasma, navidad, ATU 365, novio muerto]
 ---
 

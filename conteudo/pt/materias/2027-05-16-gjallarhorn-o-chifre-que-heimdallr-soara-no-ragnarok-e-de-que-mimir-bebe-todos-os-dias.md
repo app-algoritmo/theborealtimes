@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um grande chifre curvo de metal escuro com bandas d
 fontes:
   - "Snorri Sturluson, Edda em prosa, Gylfaginning, capítulos 15, 27 e 51 (cerca de 1220)"
   - "Edda poética, Völuspá (manuscritos do século XIII)"
-  - "Wikipédia em inglês, artigos \"Gjallarhorn\" e \"Mímisbrunnr\", com as citações de Rudolf Simek e John Lindow"
+  - "Obras de referência em inglês, artigos \"Gjallarhorn\" e \"Mímisbrunnr\", com as citações de Rudolf Simek e John Lindow"
 tags: [gjallarhorn, heimdallr, mímir, ragnarök, gylfaginning, völuspá, yggdrasil]
 ---
 

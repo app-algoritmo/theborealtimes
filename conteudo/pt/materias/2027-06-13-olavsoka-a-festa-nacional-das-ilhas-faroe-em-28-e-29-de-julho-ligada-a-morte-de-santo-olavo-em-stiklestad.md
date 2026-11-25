@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/olavsoka-a-festa-nacional-faroesa-da-vigilia-de-
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma regata em Tórshavn, com barcos de madeira estreitos e coloridos cheios de remadores, casas de telhado de turfa no cais, multidão de roupas tradicionais azuis e vermelhas e bandeiras faroesas ao sol de verão."
 fontes:
-  - "Wikipédia em inglês, artigo \"Ólavsøka\""
+  - "Obras de referência em inglês, artigo \"Ólavsøka\""
 tags: [ólavsøka, ilhas faroé, tórshavn, santo olavo, stiklestad, dança em corrente, regata, løgting]
 ---
 

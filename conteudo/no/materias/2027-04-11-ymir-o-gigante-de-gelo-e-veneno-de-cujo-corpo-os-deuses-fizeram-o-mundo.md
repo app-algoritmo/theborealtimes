@@ -12,7 +12,7 @@ fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 5 til 8)"
   - "Den eldre Edda: Vafþrúðnismál, Grímnismál og Vøluspå"
   - "Snorre Sturlason, Snorres Edda (Skáldskaparmál, for kenningene om himmel og jord)"
-  - "Engelsk Wikipedia, artikkelen «Ymir», brukt til å kontrollere stedene og forskernes sammenligninger"
+  - "Engelsk Oppslagsverk om artikkelen «Ymir», brukt til å kontrollere stedene og forskernes sammenligninger"
 tags: [ymir, aurgelmir, bergelmir, gylfaginning, vafþrúðnismál, grímnismál, verdens skapelse]
 ---
 

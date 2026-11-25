@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/skald-helga-saga-o-poeta-rumo-a-groenlandia.webp
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trebåt med høy stavn som går inn i en snødekt fjord på Grønland, med en torvgård i det fjerne og, i stavnen, en mann i kappe og hette som står med en pergamentrull i hånden, under en blek vinterhimmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Skáld-Helga saga»"
+  - "Engelsk Oppslagsverk om artikkelen «Skáld-Helga saga»"
   - "Sigfús Eymundsson (utg.), «Skáld-Helga saga: Sagan af Skáld-Helga» (1897)"
   - "Alan Boucher, oversettelse i «The Saga of Gunnlaug Snake-Tongue together with The Tale of Scald-Helgi» (1983)"
 tags: [skáld-helga saga, helgi þórðarson, grønland, brattahlíð, rímur, islendingesagaer]

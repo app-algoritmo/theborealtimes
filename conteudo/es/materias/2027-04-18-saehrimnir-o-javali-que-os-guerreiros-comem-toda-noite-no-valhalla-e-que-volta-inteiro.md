@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/saehrimnir-o-javali-do-valhalla.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran salón de madera con escudos en las paredes, donde unos guerreros comen en largas mesas ante un enorme caldero humeante, y un cocinero remueve la carne de un jabalí sobre el fuego."
 fontes:
-  - "Wikipedia en inglés, artículo «Sæhrímnir», con los pasajes del Grímnismál (estrofa 18), la Gylfaginning (cap. 38) y el Skáldskaparmál"
+  - "Obras de referencia en inglés, artículo «Sæhrímnir», con los pasajes del Grímnismál (estrofa 18), la Gylfaginning (cap. 38) y el Skáldskaparmál"
   - "Edda poética, Grímnismál, traducción de Bellows: «la mejor de las comidas, pero pocos lo saben»"
   - "Edda prosaica, Gylfaginning, cap. 38, sobre cómo Odín alimenta a los muertos en el Valhalla"
 tags: [sæhrímnir, andhrímnir, eldhrímnir, valhalla, einherjar, grímnismál, gylfaginning, edda]

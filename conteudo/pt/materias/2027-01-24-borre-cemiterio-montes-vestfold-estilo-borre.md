@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/borre-cemiterio-montes-vestfold.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma fileira de grandes montes cobertos de grama sob céu de fim de tarde, em Vestfold, com o fiorde de Oslo brilhando ao fundo; em primeiro plano, um arreio de cavalo de bronze enfeitado com animais entrelaçados e nós, apoiado numa pedra; um arqueólogo com uma sonda de radar caminha entre os montes, e uma silhueta de navio longo se desenha sob o solo."
 fontes:
-  - "Wikipedia, \"Borre mound cemetery\" (localização, montes, escavações de 1851–52, 1925 e 1989–91, estilo Borre, radar de penetração no solo de 2007, 2013 e 2019, porto, Midgard Viking Center)"
+  - "Obras de referência sobre \"Borre mound cemetery\" (localização, montes, escavações de 1851–52, 1925 e 1989–91, estilo Borre, radar de penetração no solo de 2007, 2013 e 2019, porto, Midgard Viking Center)"
 tags: [borre, vestfold, montes funerários, estilo borre, navio viking]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hauksbok-haukr-manuscrito.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de madeira em uma fazenda islandesa, com um grande códice aberto sobre um suporte inclinado, as páginas cobertas de letras e de tabelas de números; um homem de meia-idade com túnica de lã e capuz, de expressão atenta, escreve com uma pena, e ao fundo uma lareira baixa acesa e prateleiras com outros livros."
 fontes:
-  - "Wikipedia, \"Hauksbók\" (compilador, data segundo Stefán Karlsson, conteúdo, partes AM 371 4to, AM 544 4to e AM 675 4to)"
+  - "Obras de referência sobre \"Hauksbók\" (compilador, data segundo Stefán Karlsson, conteúdo, partes AM 371 4to, AM 544 4to e AM 675 4to)"
 tags: [hauksbók, haukr erlendsson, manuscrito, landnámabók, eiríks saga rauða]
 ---
 

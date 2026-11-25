@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gunnars-saga-keldugnupsfifls-o-tolo-que-foi-a-no
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy, keitete ung mann med pjusket hår og enkel tunika, stående på dekket til et tilskip ved siden av broren, med blikket mot en norsk kyst med furuskogkledde fjorder, mens sjømenn rundt ham ser på med moro."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Gunnars saga Keldugnúpsfífls»"
+  - "Engelsk Oppslagsverk om artikkelen «Gunnars saga Keldugnúpsfífls»"
   - "Oversettelse av Anderson (1997)"
 tags: [gunnars saga keldugnúpsfífls, gunnar, helgi, jarl håkon, norge, islendingesagaer, anderson]
 ---

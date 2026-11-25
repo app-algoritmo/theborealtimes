@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/rognvald-kirkwall-catedral.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en katedral i rød og gul sandstein som reises i en liten havneby på Orknøyene, med stillaser av tre, steinhoggere og steinkjerrer; i forgrunnen en adelsmann i mørk kappe og lyst hår som følger arbeidet med et pergament i hånden, og i bakgrunnen det grå havet med seilbåter."
 fontes:
-  - "Wikipedia, «Rögnvald Kali Kolsson» (liv, Orknøyene, katedral, pilegrimsreise og død)"
-  - "Wikipedia, «St Magnus Cathedral» (katedralen i Kirkwall)"
-  - "*Orknøyingenes saga* (*Orkneyinga saga*), hovedkilden om jarlen, ifølge Wikipedia"
+  - "Oppslagsverk om «Rögnvald Kali Kolsson» (liv, Orknøyene, katedral, pilegrimsreise og død)"
+  - "Oppslagsverk om «St Magnus Cathedral» (katedralen i Kirkwall)"
+  - "*Orknøyingenes saga* (*Orkneyinga saga*), hovedkilden om jarlen, ifølge kildene"
 tags: [rögnvald kali, st. magnus, kirkwall, orknøyene, orkneyinga saga]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/haensa-thoris-saga-feno.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk gård om vinteren, med en stor haug av høy dekket av snø ved siden av en torvfjøs; en streng mann sperrer veien med armene i kors, mens tre naboer i kapper og hetter krangler med ham under en grå himmel."
 fontes:
-  - "Wikipedia, «Hænsa-Þóris saga» (handling, Ari Þorgilsson i Íslendingabók, Magnus VI, innsigelse på Alltinget i 1281, håndskriftet AM 162 G fol)"
+  - "Oppslagsverk om «Hænsa-Þóris saga» (handling, Ari Þorgilsson i Íslendingabók, Magnus VI, innsigelse på Alltinget i 1281, håndskriftet AM 162 G fol)"
 tags: [hœnsa-þóris saga, høy, naboer, lov, island]
 ---
 

@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/hrafnsmal-a-valquiria-e-o-corvo.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una mujer con manto oscuro y casco sentada en una roca en lo alto de una colina al amanecer, hablando con un gran cuervo negro posado en su brazo, con un fiordo y barcos de proa alta a lo lejos."
 fontes:
-  - "Wikipedia en inglés, artículos «Hrafnsmál» y «Haustlöng»"
-  - "R. D. Fulk, edición del poema (2012), citada por Wikipedia"
+  - "Obras de referencia en inglés, artículos «Hrafnsmál» y «Haustlöng»"
+  - "R. D. Fulk, edición del poema (2012), citada por obras de referencia"
 tags: [hrafnsmál, haraldskvæði, þorbjörn hornklofi, harald cabello hermoso, valquiria, cuervo, poesía escáldica]
 ---
 

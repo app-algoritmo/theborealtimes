@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en digert mørk ørn med utstrakte vinger, sittende
 fontes:
   - "Den eldre Edda, Vafþrúðnismál (strofe 37)"
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, avsnittet om vinden)"
-  - "Wikipedia på engelsk, artikkelen «Hræsvelgr», brukt for å kontrollere kildehenvisningene og navnet (Orchard 1997, Lindow 2002)"
+  - "oppslagsverk på engelsk, artikkelen «Hræsvelgr», brukt for å kontrollere kildehenvisningene og navnet (Orchard 1997, Lindow 2002)"
 tags: [hræsvelgr, vind, ørn, vafþrúðnismál, gylfaginning, jotun, odin]
 ---
 

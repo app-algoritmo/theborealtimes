@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ashdown-871-colina.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma encosta nevada de Berkshire ao amanhecer, com uma linha de guerreiros vikings de escudos redondos no alto, ao lado de uma pequena árvore de espinheiro torta, e guerreiros saxões subindo a encosta com escudos e lanças; um jovem de capa vermelha à frente, gritando, e um segundo grupo ao longe, com um homem entrando numa tenda."
 fontes:
-  - "Wikipedia, \"Battle of Ashdown\" (data, comandantes, formação, incertezas e bibliografia)"
-  - "*Crônica Anglo-Saxônica* e Asser, *Vida do Rei Alfredo* (fontes citadas na Wikipedia)"
-  - "Richard Abels, sobre o papel de Æthelred (citado na Wikipedia)"
+  - "Obras de referência sobre \"Battle of Ashdown\" (data, comandantes, formação, incertezas e bibliografia)"
+  - "*Crônica Anglo-Saxônica* e Asser, *Vida do Rei Alfredo* (fontes citadas em obras de referência)"
+  - "Richard Abels, sobre o papel de Æthelred (citado em obras de referência)"
 tags: [ashdown, 871, alfredo, æthelred, vikings]
 ---
 

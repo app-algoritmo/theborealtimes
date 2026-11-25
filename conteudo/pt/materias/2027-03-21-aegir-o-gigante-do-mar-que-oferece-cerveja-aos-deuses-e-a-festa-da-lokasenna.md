@@ -12,7 +12,7 @@ fontes:
   - "Edda poética, Lokasenna, Hymiskviða e Grímnismál"
   - "Snorri Sturluson, Edda em prosa (Skáldskaparmál)"
   - "Egill Skallagrímsson, Sonatorrek"
-  - "Wikipedia, \"Ægir\""
+  - "Obras de referência sobre \"Ægir\""
 tags: [ægir, rán, lokasenna, hymiskviða, caldeirão, mar, mitologia nórdica]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/papar-monges-costa.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk kyst av svart basalt og grønn mose, med en liten øy utenfor land, ruinen av en lav steinhytte og tre skikkelser i mørke kapper med et trekors ved siden av en skinnbåt; på himmelen lave skyer og et lysbånd."
 fontes:
-  - "Wikipedia, «Papar» (Íslendingabók, Landnámabók, stedsnavn, andre kilder)"
+  - "Oppslagsverk om «Papar» (Íslendingabók, Landnámabók, stedsnavn, andre kilder)"
   - "Hurstwic, «Settlement of Iceland» (tidfesting av landnåmet, spor tilskrevet papar, arkeologiens stilling)"
 tags: [papar, irske munker, island, landnámabók, íslendingabók, landnåm, ingólfur]
 ---

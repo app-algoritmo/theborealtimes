@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/flateyjarbok-livro-flatey-manuscrito.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et islandsk skrivekammer av torv og tre, i lampelys, der to prester i mørke drakter arbeider foroverbøyd over store pergamentblad: den ene skriver med fjærpenn, den andre tegner en farget forsiringsbokstav; bunker av blad som tørker, blekkhorn og, gjennom det smale vinduet, det grå havet rundt en øy."
 fontes:
-  - "Wikipedia, «Flateyjarbók» (bestilling, skrivere, datering, innhold, veien til København og tilbakeføring i 1971)"
+  - "Oppslagsverk om «Flateyjarbók» (bestilling, skrivere, datering, innhold, veien til København og tilbakeføring i 1971)"
 tags: [flateyjarbók, håndskrift, island, sagaer, magnús þórhallsson]
 ---
 

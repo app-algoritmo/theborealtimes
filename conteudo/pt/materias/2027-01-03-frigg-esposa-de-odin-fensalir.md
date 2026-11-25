@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/frigg-esposa-odin-fensalir.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma deusa nórdica madura, de manto azul e touca branca, sentada num salão de madeira à luz de uma lareira, com uma roca ao lado e uma caixa de freixo no colo de uma criada ajoelhada; ao fundo, pela janela, um ramo de visco sobre a neve e, num banco alto, uma figura de um olho só observando o mundo."
 fontes:
-  - "Wikipedia, \"Frigg\" (nomes, sexta-feira, Origo Gentis Langobardorum, Paulo Diácono, Merseburg, Edda poética, Edda em prosa, Ynglinga saga, Völsunga saga, criadas, Frigg e Freyja)"
+  - "Obras de referência sobre \"Frigg\" (nomes, sexta-feira, Origo Gentis Langobardorum, Paulo Diácono, Merseburg, Edda poética, Edda em prosa, Ynglinga saga, Völsunga saga, criadas, Frigg e Freyja)"
   - "Snorri Sturluson, Edda em prosa (Gylfaginning e Skáldskaparmál), citado no artigo"
 tags: [frigg, odin, baldr, fensalir, sexta-feira]
 ---

@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/eir-a-medica-dos-deuses.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una joven con manto verde y el pelo recogido, sentada en una colina cubierta de hierbas, con una pequeña cesta de raíces y hojas a su lado, mientras otras muchachas de manto claro la observan de lejos bajo un cielo de atardecer."
 fontes:
-  - "Wikipedia en inglés, artículo «Eir», con los pasajes del Fjölsvinnsmál, la Gylfaginning (cap. 35), el Skáldskaparmál (cap. 75) y la poesía escáldica"
-  - "Inscripción rúnica de Bryggen, Bergen (hacia 1300), citada en Wikipedia"
-  - "Andy Orchard, John Lindow, Rudolf Simek, Hilda Ellis Davidson y Henry Adams Bellows, citados en Wikipedia"
+  - "Obras de referencia en inglés, artículo «Eir», con los pasajes del Fjölsvinnsmál, la Gylfaginning (cap. 35), el Skáldskaparmál (cap. 75) y la poesía escáldica"
+  - "Inscripción rúnica de Bryggen, Bergen (hacia 1300), citada en obras de referencia"
+  - "Andy Orchard, John Lindow, Rudolf Simek, Hilda Ellis Davidson y Henry Adams Bellows, citados en obras de referencia"
 tags: [eir, ásynjur, valquirias, menglöð, lyfjaberg, fjölsvinnsmál, gylfaginning, curación]
 ---
 

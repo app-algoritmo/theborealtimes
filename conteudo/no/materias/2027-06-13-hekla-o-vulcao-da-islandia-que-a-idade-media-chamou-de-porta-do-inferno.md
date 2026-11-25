@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hekla-o-vulcao-islandes-que-a-idade-media-chamou
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk vulkan med langstrakt, snødekt topp, som sender ut mørk røyk og et rødlig skjær i en sprekk, over en slette av mørk lava og mose, med sauer i det fjerne og en tung grå himmel."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Hekla»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Hekla»"
 tags: [hekla, vulkan, island, porten til helvete, utbruddet i 1104, folketro, middelalder]
 ---
 

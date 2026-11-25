@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/sao-bricio-oxford.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Nøktern illustrasjon av en steinkirke fra år 1000, med døren mørknet av røyk, sett utenfra i skumringen, med et åpent pergament i forgrunnen på et tre bord, med en urkunde med voksseglsett og linjer med skrift på gammelt latin, ved siden av et slukket lys."
 fontes:
-  - "Wikipedia, \"St Brice's Day massacre\" (dato, ordren, Det anglosaksiske krønike, brevet fra 1004, funn i Oxford og Dorset, debatt)"
+  - "Oppslagsverk om \"St Brice's Day massacre\" (dato, ordren, Det anglosaksiske krønike, brevet fra 1004, funn i Oxford og Dorset, debatt)"
   - "History Today, \"The St Brice's Day Massacre\" (bakgrunn, ordren, Oxford, tolkninger)"
 tags: [1002, æthelred, sankt brices dag, oxford, dansker, arkeologi]
 ---

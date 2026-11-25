@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/ragnarsdrapa-o-escudo-de-bragi.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un escudo redondo de madera dividido en cuatro partes, cada una con una escena pintada, junto a un poeta de barba gris de pie ante un jefe sentado en un asiento alto, en un salón de madera de luz amarillenta."
 fontes:
-  - "Wikipedia en inglés, artículo «Ragnarsdrápa»"
+  - "Obras de referencia en inglés, artículo «Ragnarsdrápa»"
   - "Snorri Sturluson, Edda en prosa (hacia 1220), que cita las estrofas"
-  - "Vésteinn Ólason, estudioso citado por Wikipedia"
+  - "Vésteinn Ólason, estudioso citado por obras de referencia"
 tags: [ragnarsdrápa, bragi boddason, escudo, hamðir, hjaðningavíg, poesía escáldica, edda en prosa]
 ---
 

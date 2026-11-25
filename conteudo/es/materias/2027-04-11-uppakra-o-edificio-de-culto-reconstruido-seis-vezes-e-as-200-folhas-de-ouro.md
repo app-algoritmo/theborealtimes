@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/uppakra-o-edificio-do-culto.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran salón de madera de postes de roble en un campo de Escania al amanecer, con cuatro columnas interiores visibles por una puerta abierta y diminutas láminas de oro brillando en la tierra en primer plano."
 fontes:
-  - "Wikipedia en inglés, artículos «Uppåkra» y «Uppåkra temple», para los datos de la excavación"
+  - "Obras de referencia en inglés, artículos «Uppåkra» y «Uppåkra temple», para los datos de la excavación"
   - "Lars Larsson (2007), estudio del edificio ritual de Uppåkra, citado en esos artículos"
 tags: [uppåkra, escania, lund, guldgubbar, edad del hierro, edificio de culto, hof]
 ---

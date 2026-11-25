@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um largo rio calmo ao entardecer, com navios viking
 fontes:
   - "Ibn al-Qūṭiyya (m. 977), *Ta'rīkh iftitāḥ al-Andalus* (relato do ataque de 844)"
   - "Ibn Idhari (c. 1299), *al-Bayān al-Mughrib*, que copia material do século X"
-  - "Wikipédia (inglês), \"Viking raid on Seville\", e Ann Christys, *Vikings in the South* (Bloomsbury, 2015)"
+  - "obras de referência (inglês), \"Viking raid on Seville\", e Ann Christys, *Vikings in the South* (Bloomsbury, 2015)"
 tags: [sevilha, 844, al-andalus, guadalquivir, ataque viking]
 ---
 

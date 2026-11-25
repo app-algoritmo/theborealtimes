@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-volsi-e-o-rei-olavo.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de tres viajeros con capas grises de distinta altura ante la puerta de una granja de madera en un cabo noruego al anochecer, con la luz del hogar saliendo por la puerta y un caballo en el prado al lado."
 fontes:
-  - "Wikipedia en inglés, artículo «Völsa þáttr», con el resumen del relato de la Flateyjarbók y la nota sobre el culto"
+  - "Obras de referencia en inglés, artículo «Völsa þáttr», con el resumen del relato de la Flateyjarbók y la nota sobre el culto"
 tags: [völsa þáttr, völsi, flateyjarbók, olaf, finnr árnason, þormóðr kolbrúnarskáld, ritual pagano, saga vikinga]
 ---
 

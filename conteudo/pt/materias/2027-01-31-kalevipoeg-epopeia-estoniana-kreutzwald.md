@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/kalevipoeg-epopeia-estoniana.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um herói gigante de ombros largos, em pé numa floresta de abetos na Estônia, arremessando uma pedra enorme sobre um lago ao entardecer; ao lado, uma espada de lâmina escura cravada no chão, e ao fundo uma mulher de lenço claro olhando a cena, enquanto uma pilha de pedras de cantos arredondados aparece em primeiro plano."
 fontes:
-  - "Wikipedia, \"Kalevipoeg\" (Faehlmann em 1839, Kreutzwald, versões de 1853, 1857–61 e 1862, vinte cantos, versos populares, Declaração de Independência, traduções, menções antigas, Widsith)"
+  - "Obras de referência sobre \"Kalevipoeg\" (Faehlmann em 1839, Kreutzwald, versões de 1853, 1857–61 e 1862, vinte cantos, versos populares, Declaração de Independência, traduções, menções antigas, Widsith)"
 tags: [kalevipoeg, kreutzwald, epopeia estoniana, estônia, faehlmann, folclore]
 ---
 

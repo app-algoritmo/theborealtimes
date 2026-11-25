@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hreidars-thattr-heimska-o-islandes-na-corte-de-m
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un salón de madera de un rey, con mesas largas y copas de hidromiel, donde un joven de mirada soñadora y ropa sencilla sonríe sentado junto a un rey con corona dorada, mientras, del otro lado, un segundo rey de mirada dura y cortesanos con capas oscuras los observan."
 fontes:
-  - "Wikipedia en inglés, artículo «Hreiðars þáttr»"
+  - "Obras de referencia en inglés, artículo «Hreiðars þáttr»"
   - "Anthony Faulkes (ed.), Hreiðars þáttr heimska (1978; 2.ª edición, 2011)"
   - "Robert Kellogg, traducción «Hreidar's Tale», en The Complete Sagas of Icelanders (1997)"
 tags: [hreiðars þáttr heimska, hreiðarr, magnús góði, haraldr harðráði, morkinskinna, sagas islandesas]

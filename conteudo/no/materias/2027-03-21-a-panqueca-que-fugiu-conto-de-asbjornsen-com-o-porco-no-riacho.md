@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor gyllen pannekake som ruller som et hjul nedover en bakkesti, forfulgt av en kone, en mann og barn; foran venter en høne, en hane, en gås og en feit gris ved en bekk."
 fontes:
   - "Peter Christen Asbjørnsen, Tales from the Fjeld, oversatt av George Webbe Dasent (Project Gutenberg, ebok 36385)"
-  - "Wikipedia, «Norwegian Folktales»"
+  - "Oppslagsverk om «Norwegian Folktales»"
 tags: [pannekake, asbjørnsen, moe, dasent, folkeeventyr, norge, tales from the fjeld]
 ---
 

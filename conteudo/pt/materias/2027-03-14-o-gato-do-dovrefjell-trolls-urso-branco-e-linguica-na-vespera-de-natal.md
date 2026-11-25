@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma cabana rústica na montanha na noite de Natal, 
 fontes:
   - "Peter Christen Asbjørnsen e Jørgen Moe, Norske Folkeeventyr (1852), tradução inglesa de George Webbe Dasent, Popular Tales from the Norse (1859)"
   - "Aarne–Thompson–Uther, tipo 1161, \"O treinador de urso e seu gato\""
-  - "Wikipedia, \"The Cat on the Dovrefjell\""
+  - "Obras de referência sobre \"The Cat on the Dovrefjell\""
 tags: [dovrefjell, trolls, urso branco, natal, asbjørnsen e moe, conto popular norueguês]
 ---
 

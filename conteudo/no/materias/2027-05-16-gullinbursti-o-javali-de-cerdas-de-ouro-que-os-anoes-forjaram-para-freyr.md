@@ -12,7 +12,7 @@ fontes:
   - "Snorre Sturluson, Snorres Edda, Skáldskaparmál, kapittel 44 (omkring 1220)"
   - "Húsdrápa, skaldedikt sitert av Snorre, om Balders begravelse"
   - "Snorre Sturluson, Gylfaginning, om Frøys vogn"
-  - "Engelsk Wikipedia, artikkelen «Gullinbursti»"
+  - "Engelsk Oppslagsverk om artikkelen «Gullinbursti»"
 tags: [gullinbursti, frøy, brokk, sindre, skáldskaparmál, gyllent villsvin, húsdrápa]
 ---
 

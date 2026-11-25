@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/viglundar-saga-os-amantes-e-a-emboscada-no-palhe
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor høystakk på landet i skumringen, med væpnede menn skjult bak den og, i det fjerne, en ung mann og en ung kvinne som holder hverandre i hånden på stien uten å merke noe, under den oransje himmelen en islandsk sommer."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Víglundar saga»"
+  - "Engelsk Oppslagsverk om artikkelen «Víglundar saga»"
   - "Håndskrift AM 551 A 4to, fra 1400-tallet"
 tags: [víglundar saga, víglundr, ketilríðr, islendingesagaer, kjærlighet, høystakk, am 551 a 4to]
 ---

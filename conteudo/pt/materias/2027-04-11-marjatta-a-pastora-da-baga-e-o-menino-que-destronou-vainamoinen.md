@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma jovem pastora num morro de vegetação baixa, c
 fontes:
   - "Elias Lönnrot, Kalevala (edição de 1849), canto 50 (na tradução inglesa de John Martin Crawford)"
   - "Kalevalaseura (Sociedade do Kalevala), resumo \"What happens in the Kalevala\""
-  - "Wikipédia em inglês, \"Kalevala (synopses)\", para conferir a ordem dos fatos"
+  - "Obras de referência em inglês, \"Kalevala (synopses)\", para conferir a ordem dos fatos"
 tags: [marjatta, kalevala, väinämöinen, lönnrot, carélia, folclore finlandês]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en bred, rolig elv i skumringen, med vikingskip med
 fontes:
   - "Ibn al-Qūṭiyya (d. 977), *Ta'rīkh iftitāḥ al-Andalus* (beretning om angrepet i 844)"
   - "Ibn Idhari (ca. 1299), *al-Bayān al-Mughrib*, som kopierer stoff fra 900-tallet"
-  - "Wikipedia (engelsk), «Viking raid on Seville», og Ann Christys, *Vikings in the South* (Bloomsbury, 2015)"
+  - "oppslagsverk (engelsk), «Viking raid on Seville», og Ann Christys, *Vikings in the South* (Bloomsbury, 2015)"
 tags: [sevilla, 844, al-andalus, guadalquivir, vikingangrep]
 ---
 

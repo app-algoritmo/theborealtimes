@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hattatal-snorri-e-as-formas-do-verso.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un hombre de mediana edad con túnica verde oscuro sentado a una mesa de madera en un salón islandés, escribiendo con pluma sobre un pergamino lleno de líneas cortas, con rollos de pergamino y una lámpara de aceite a su lado, y una ventana estrecha con luz fría."
 fontes:
-  - "Wikipedia en inglés, artículo «Háttatal»"
+  - "Obras de referencia en inglés, artículo «Háttatal»"
   - "Edda en prosa, de Snorri Sturluson"
   - "Primer tratado gramatical, para comparar"
 tags: [háttatal, snorri sturluson, edda en prosa, dróttkvætt, poesía escáldica, métrica, primer tratado gramatical]

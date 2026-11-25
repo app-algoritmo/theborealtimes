@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en grønn høyde under grå himmel, med to rekker a
 fontes:
   - "*Encomium Emmae Reginae* (ca. 1040), beretning om Knuts angrep på England"
   - "*Knýtlinga saga* (1200-tallet), som siterer et vers av skalden Óttarr svarti om Assandun"
-  - "Wikipedia (engelsk), «Battle of Assandun»"
+  - "oppslagsverk (engelsk), «Battle of Assandun»"
 tags: [assandun, ashingdon, knut, edmund jernside, 1016]
 ---
 

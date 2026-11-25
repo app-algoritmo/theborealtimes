@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a rustic mountain cottage on Christmas night, with 
 fontes:
   - "Peter Christen Asbjørnsen and Jørgen Moe, Norske Folkeeventyr (1852), English translation by George Webbe Dasent, Popular Tales from the Norse (1859)"
   - "Aarne–Thompson–Uther, type 1161, \"The Bear Trainer and His Cat\""
-  - "Wikipedia, \"The Cat on the Dovrefjell\""
+  - "Reference works on \"The Cat on the Dovrefjell\""
 tags: [dovrefjell, trolls, white bear, christmas, asbjørnsen and moe, norwegian folktale]
 ---
 

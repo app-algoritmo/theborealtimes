@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gunnlod-a-guardia-do-hidromel.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher alta de vestido escuro e cabelo trançado sentada num banco de ouro dentro de uma caverna de pedra iluminada por tochas, com três grandes vasos de barro enfileirados à sua frente, enquanto um homem de capa e chapéu de abas largas, de pé, ergue uma pequena taça na mão."
 fontes:
-  - "Wikipédia em inglês, artigo \"Gunnlöð\", com as passagens de Hávamál (estrofes 105 e 108, tradução de Orchard, 1997) e de Skáldskaparmál (caps. 57-58, tradução de Faulkes, 1987)"
+  - "Obras de referência em inglês, artigo \"Gunnlöð\", com as passagens de Hávamál (estrofes 105 e 108, tradução de Orchard, 1997) e de Skáldskaparmál (caps. 57-58, tradução de Faulkes, 1987)"
   - "Estudos citados: Orchard (1997), Lindow (2002) e de Vries (1962)"
 tags: [gunnlöð, odin, suttungr, hidromel da poesia, hávamál, skáldskaparmál, óðrerir, hnitbjörg]
 ---

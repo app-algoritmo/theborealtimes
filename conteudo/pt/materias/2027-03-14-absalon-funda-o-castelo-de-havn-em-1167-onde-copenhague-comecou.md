@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pequeno castelo de pedra calcária numa ilha baixa junto a um estreito cinzento, com um navio de madeira descarregando grandes blocos no cais e um bispo de capa escura apontando para a muralha em construção; barcos de pesca ao fundo."
 fontes:
   - "Saxo Gramático, Gesta Danorum (por volta de 1200)"
-  - "Wikipedia, \"Absalon's Castle\""
+  - "Obras de referência sobre \"Absalon's Castle\""
   - "Escavações de 1907 e 1917 em Slotsholmen, sob o palácio de Christiansborg, conforme resumidas na fonte acima"
 tags: [absalon, havn, copenhague, saxo, slotsholmen, dinamarca medieval]
 ---

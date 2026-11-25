@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/fljotsdaela-saga-fljotsdalur.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale largo no leste da Islândia, com uma fazenda de turfa e um rio ao fundo; em primeiro plano, uma mulher de rosto severo fala com dois rapazes de capa, e, ao lado, uma segunda mulher, de vestido mais fino, olha para eles com os braços cruzados."
 fontes:
-  - "Wikipedia, \"Fljótsdæla saga\" (datação provável nos séculos XVI ou XVII, personagens, enredo, relação com a Droplaugarsona saga, temas)"
+  - "Obras de referência sobre \"Fljótsdæla saga\" (datação provável nos séculos XVI ou XVII, personagens, enredo, relação com a Droplaugarsona saga, temas)"
 tags: [fljótsdœla saga, droplaug, þórdís, islândia, saga tardia]
 ---
 

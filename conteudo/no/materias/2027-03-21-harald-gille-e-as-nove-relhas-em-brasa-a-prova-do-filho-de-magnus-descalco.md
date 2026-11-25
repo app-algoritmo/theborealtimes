@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en steinsal i fakkelskinn med ni glødende plogjern
 fontes:
   - "Snorre Sturlason, Heimskringla (sagaene om Magnus Berrføtt og Harald Gille)"
   - "Encyclopaedia Britannica, «Harald IV»"
-  - "Wikipedia, «Harald Gille»"
+  - "Oppslagsverk om «Harald Gille»"
 tags: [harald gille, haraldr gilli, jernbyrd, heimskringla, sigurd jorsalfar, magnus berrfått, borgerkrig]
 ---
 

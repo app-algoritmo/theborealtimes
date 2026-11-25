@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/bandamanna-oddr-ofeigr.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale islandês com um grande acampamento de tendas de pedra e turfa durante a assembleia, e um velho de capa escura e cajado conversando em voz baixa com dois homens ao pé de uma rocha; ao fundo, um jovem de ar contrariado vindo de uma fazenda e a luz clara de um dia de verão sobre o lago e as montanhas."
 fontes:
-  - "Wikipedia, \"Bandamanna saga\" (resumo, manuscritos, datação e bibliografia)"
+  - "Obras de referência sobre \"Bandamanna saga\" (resumo, manuscritos, datação e bibliografia)"
   - "Sagadb.org, \"The Story of the Banded Men\" (tradução inglesa da saga)"
-  - "Manuscritos: Möðruvallabók (AM 132) e GKS 2845 4to, segundo a Wikipedia"
+  - "Manuscritos: Möðruvallabók (AM 132) e GKS 2845 4to, segundo as fontes"
 tags: [bandamanna saga, oddr ófeigsson, ófeigr, suborno, thingvellir]
 ---
 

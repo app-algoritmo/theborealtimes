@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/mestermoy-donzela-mestra-conto.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et enormt, skittent trefjøs i et norsk eventyrmiljø, med en ung kvinne med hodeskaut og rød skjørt som holder en kvistkost ved siden av en prins i blå kåpe som ser på gjødselhaugen; gjennom døra i bakgrunnen faller skyggen av en stor kjempe med mørkt skjegg over en granskog."
 fontes:
-  - "Wikipedia, «The Master Maid» (Norske Folkeeventyr, Anne Godlid, type ATU 313, handling, varianter, oversettelser av Dasent og Lang)"
+  - "Oppslagsverk om «The Master Maid» (Norske Folkeeventyr, Anne Godlid, type ATU 313, handling, varianter, oversettelser av Dasent og Lang)"
 tags: [mestermøy, asbjørnsen og moe, folkeeventyr, den magiske flukt, norge]
 ---
 

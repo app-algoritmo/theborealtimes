@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/kalevipoeg-epopeia-estoniana.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en bredskuldret kjempehelt som står i en granskog i Estland og kaster en enorm stein ut over en innsjø i skumringen; ved siden av et sverd med mørkt blad stukket ned i bakken, og i bakgrunnen en kvinne med lyst skaut som ser på, mens en haug av avrundede steiner ligger i forgrunnen."
 fontes:
-  - "Wikipedia, «Kalevipoeg» (Faehlmann i 1839, Kreutzwald, versjonene fra 1853, 1857–61 og 1862, tjue sanger, folkeviser, Uavhengighetserklæringen, oversettelser, eldre omtaler, Widsith)"
+  - "Oppslagsverk om «Kalevipoeg» (Faehlmann i 1839, Kreutzwald, versjonene fra 1853, 1857–61 og 1862, tjue sanger, folkeviser, Uavhengighetserklæringen, oversettelser, eldre omtaler, Widsith)"
 tags: [kalevipoeg, kreutzwald, estisk epos, estland, faehlmann, folklore]
 ---
 

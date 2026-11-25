@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorrablot-o-banquete-de-meio-de-inverno-na-isla
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran salón islandés iluminado por faroles en una noche de invierno, con largas mesas llenas de bandejas de madera con carnes curadas y panes oscuros, y personas con ropa de lana de pie, cantando con vasos en alto, mientras por la ventana se ve la nieve."
 fontes:
-  - "Wikipedia en inglés, artículo «Þorrablót»"
+  - "Obras de referencia en inglés, artículo «Þorrablót»"
   - "Orkneyinga saga y Flateyjarbók (Hversu Noregr byggðist)"
   - "Artículo sobre el Þorrablót, Professor Iceland (Substack)"
 tags: [þorrablót, þorri, islandia, fiesta de invierno, orkneyinga saga, flateyjarbók, þorramatur, tradición]

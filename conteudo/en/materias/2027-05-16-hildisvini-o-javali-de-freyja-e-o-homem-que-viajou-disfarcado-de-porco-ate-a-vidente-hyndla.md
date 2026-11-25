@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a long-haired goddess in a red cloak riding a large
 fontes:
   - "Hyndluljóð, poem preserved in the Flateyjarbók (14th century) and included in editions of the Poetic Edda"
   - "Snorri Sturluson, Prose Edda, Skáldskaparmál (around 1220), on the helmet Hildisvín"
-  - "English Wikipedia, article \"Hildisvíni\", with references to Davidson (1998), Simek (2007) and Orchard (1997)"
+  - "Reference work in English, article \"Hildisvíni\", with references to Davidson (1998), Simek (2007) and Orchard (1997)"
 tags: [hildisvíni, freyja, óttar, hyndla, hyndluljóð, boar, skáldskaparmál]
 ---
 

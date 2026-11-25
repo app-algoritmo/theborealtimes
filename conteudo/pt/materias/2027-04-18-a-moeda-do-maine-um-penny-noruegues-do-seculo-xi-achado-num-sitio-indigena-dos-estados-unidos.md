@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/a-moeda-norueguesa-do-maine.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma moeda de prata furada com um busto de rei e inscrições, pousada numa palma de mão sobre uma camada de terra escura, com a baía e pinheiros de Maine ao fundo, e uma lupa ao lado."
 fontes:
-  - "Wikipédia em inglês, artigo \"Maine penny\" (descoberta, identificação, datação do sítio e as opiniões em disputa)"
-  - "Svein Gullbekk, artigo no Journal of the North Atlantic (novembro de 2017), citado na Wikipédia, que defende que a moeda é um achado genuíno"
-  - "Kolbjørn Skaare (Universidade de Oslo), identificação da moeda, citado na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Maine penny\" (descoberta, identificação, datação do sítio e as opiniões em disputa)"
+  - "Svein Gullbekk, artigo no Journal of the North Atlantic (novembro de 2017), citado na Obras de referência sobre que defende que a moeda é um achado genuíno"
+  - "Kolbjørn Skaare (Universidade de Oslo), identificação da moeda, citado em obras de referência"
 tags: [moeda de maine, goddard site, olaf kyrre, penny norueguês, penobscot, vinland, numismática]
 ---
 

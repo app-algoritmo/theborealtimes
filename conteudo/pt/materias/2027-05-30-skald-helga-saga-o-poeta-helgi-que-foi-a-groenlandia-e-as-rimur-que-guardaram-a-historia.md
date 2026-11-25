@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/skald-helga-saga-o-poeta-rumo-a-groenlandia.webp
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um barco de madeira de proa alta entrando num fiorde da Groenlândia coberto de neve, com uma fazenda de turfa ao longe e, na proa, um homem de capa e capuz de pé, com um rolo de pergaminho na mão, sob um céu pálido de inverno."
 fontes:
-  - "Wikipédia em inglês, artigo \"Skáld-Helga saga\""
+  - "Obras de referência em inglês, artigo \"Skáld-Helga saga\""
   - "Sigfús Eymundsson (ed.), \"Skáld-Helga saga: Sagan af Skáld-Helga\" (1897)"
   - "Alan Boucher, tradução em \"The Saga of Gunnlaug Snake-Tongue together with The Tale of Scald-Helgi\" (1983)"
 tags: [skáld-helga saga, helgi þórðarson, groenlândia, brattahlíð, rímur, sagas islandesas]

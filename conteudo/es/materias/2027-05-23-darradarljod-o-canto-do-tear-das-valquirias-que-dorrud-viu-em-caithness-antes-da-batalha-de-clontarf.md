@@ -10,8 +10,8 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una cabaña de piedra de noche, vista desde fuera, donde doce mujeres con mantos oscuros tejen ante un gran telar vertical, con hilos largos y pesos redondos de piedra colgando, mientras un hombre con capa, en la oscuridad exterior, las observa."
 fontes:
   - "Njáls saga, capítulo 157, que conserva el poema Darraðarljóð (saga islandesa del siglo XIII)"
-  - "Wikipedia en inglés, artículo «Darraðarljóð»"
-  - "Wikipedia en inglés, artículo «Warp-weighted loom»"
+  - "Obras de referencia en inglés, artículo «Darraðarljóð»"
+  - "Obras de referencia en inglés, artículo «Warp-weighted loom»"
 tags: [darraðarljóð, valquirias, njáls saga, clontarf, telar, caithness, poesía escáldica]
 ---
 

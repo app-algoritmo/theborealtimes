@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/helreid-brynhildar-a-carruagem-de-brynhildr.webp
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rikt dekorert trevogn omgitt av lave flammer, som bærer en kvinne med langt lyst hår og rød kappe langs en steinvei mot et steinhus i en li, der en gyger i mørk kappe venter ved døren, under en grå himmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Helreið Brynhildar»"
+  - "Engelsk Oppslagsverk om artikkelen «Helreið Brynhildar»"
   - "Den eldre Edda, diktet Helreið Brynhildar"
   - "Norna-Gests þáttr, som siterer nesten hele diktet"
 tags: [helreið brynhildar, brynhild, sigurd, den eldre edda, valkyrje, gyger, norna-gests þáttr]

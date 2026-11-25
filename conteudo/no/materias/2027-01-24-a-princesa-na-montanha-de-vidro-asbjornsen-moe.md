@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/princesa-montanha-de-vidro.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et skinnende, kjegleformet glassberg under en mørk sommerhimmel; øverst holder en prinsesse i hvit kjole tre gulleple; ved foten av skråningen begynner en rytter i gullrustning, på en hest med gullseletøy, å klatre og etterlater et spor av gnister; til siden ser en flokk riddere i messing- og sølvrustning på."
 fontes:
-  - "Wikipedia, «The Princess on the Glass Hill» (Norske Folkeeventyr; handling; type ATU 530; varianter i Norge, Tyskland, Skandinavia, Baltikum, Irland og andre steder; opprinnelseshypoteser av von Sydow, Boberg, Honti, Krohn og Dzagurov; delvis lesing av artikkelen)"
+  - "Oppslagsverk om «The Princess on the Glass Hill» (Norske Folkeeventyr; handling; type ATU 530; varianter i Norge, Tyskland, Skandinavia, Baltikum, Irland og andre steder; opprinnelseshypoteser av von Sydow, Boberg, Honti, Krohn og Dzagurov; delvis lesing av artikkelen)"
 tags: [jomfruen på glassberget, glassberget, asbjørnsen og moe, atu 530, folkeeventyr]
 ---
 

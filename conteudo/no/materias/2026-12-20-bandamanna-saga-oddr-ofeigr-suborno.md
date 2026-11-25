@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/bandamanna-oddr-ofeigr.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en islandsk dal med en stor leir av bu av stein og torv under tinget, og en gammel mann i mørk kappe med stav som snakker lavmælt med to menn ved foten av en klippe; i bakgrunnen en ung mann med irritert uttrykk på vei fra en gård, og det klare lyset fra en sommerdag over sjøen og fjellene."
 fontes:
-  - "Wikipedia, «Bandamanna saga» (sammendrag, håndskrifter, datering og litteratur)"
+  - "Oppslagsverk om «Bandamanna saga» (sammendrag, håndskrifter, datering og litteratur)"
   - "Sagadb.org, «The Story of the Banded Men» (engelsk oversettelse av sagaen)"
-  - "Håndskrifter: Möðruvallabók (AM 132) og GKS 2845 4to, ifølge Wikipedia"
+  - "Håndskrifter: Möðruvallabók (AM 132) og GKS 2845 4to, ifølge kildene"
 tags: [bandamanna saga, oddr ófeigsson, ófeigr, bestikkelse, thingvellir]
 ---
 

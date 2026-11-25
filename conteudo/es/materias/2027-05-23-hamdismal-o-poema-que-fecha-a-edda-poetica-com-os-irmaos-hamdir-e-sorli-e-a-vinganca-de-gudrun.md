@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/hamdismal-os-irmaos-de-gudrun.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de dos guerreros con cota de malla que cabalgan uno junto al otro por una montaña cubierta de niebla, bajo un cielo gris, con la silueta de un gran salón de madera a lo lejos y una mujer de manto oscuro que observa desde una roca."
 fontes:
-  - "Wikipedia en inglés, artículos «Hamðismál» y «Ermanaric»"
-  - "Jordanes, Getica (551), citado por Wikipedia"
-  - "Annales Quedlinburgenses (finales del siglo X), citados por Wikipedia"
+  - "Obras de referencia en inglés, artículos «Hamðismál» y «Ermanaric»"
+  - "Jordanes, Getica (551), citado por obras de referencia"
+  - "Annales Quedlinburgenses (finales del siglo X), citados por obras de referencia"
 tags: [hamðismál, hamðir, sörli, guðrún, jörmunrekkr, ermanarico, edda poética]
 ---
 

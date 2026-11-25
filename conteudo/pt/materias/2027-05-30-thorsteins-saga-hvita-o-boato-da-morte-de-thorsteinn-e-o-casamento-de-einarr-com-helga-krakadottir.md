@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorsteins-saga-hvita-o-boato-da-morte.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de capa branca, jovem e magro, parado diante da porta de uma fazenda islandesa de turfa, ao entardecer, enquanto dentro da casa uma moça de véu branco e um homem de túnica vermelha se viram para ele, surpresos, com a luz de uma lamparina no rosto."
 fontes:
-  - "Wikipédia em inglês, artigo \"Þorsteins saga hvíta\""
+  - "Obras de referência em inglês, artigo \"Þorsteins saga hvíta\""
   - "Christopher Crocker (2020), \"Narrating Blindness and Seeing Ocularcentrism in Þorsteins saga hvíta\", Gripla 31"
   - "Jesse Byock (1993), \"Feud in the Icelandic Saga\""
 tags: [þorsteins saga hvíta, einarr þórisson, helga krákadóttir, vopnafjörður, boato, vingança, sagas islandesas]

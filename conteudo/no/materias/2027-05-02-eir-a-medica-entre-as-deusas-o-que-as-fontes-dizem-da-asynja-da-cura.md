@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/eir-a-medica-dos-deuses.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinne i grønn kappe med oppsatt hår som sitter på en høyde dekket av urter, med en liten kurv med røtter og blader ved siden av seg, mens andre unge kvinner i lyse kapper ser på på avstand under en kveldshimmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Eir», med passasjene fra Fjölsvinnsmál, Gylfaginning (kap. 35), Skáldskaparmál (kap. 75) og skaldediktningen"
-  - "Runeinnskriften fra Bryggen i Bergen (ca. 1300), sitert i Wikipedia"
-  - "Andy Orchard, John Lindow, Rudolf Simek, Hilda Ellis Davidson og Henry Adams Bellows, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Eir», med passasjene fra Fjölsvinnsmál, Gylfaginning (kap. 35), Skáldskaparmál (kap. 75) og skaldediktningen"
+  - "Runeinnskriften fra Bryggen i Bergen (ca. 1300), sitert i oppslagsverk"
+  - "Andy Orchard, John Lindow, Rudolf Simek, Hilda Ellis Davidson og Henry Adams Bellows, sitert i oppslagsverk"
 tags: [eir, åsynjer, valkyrjer, menglöd, lyfjaberg, fjölsvinnsmál, gylfaginning, helbredelse]
 ---
 

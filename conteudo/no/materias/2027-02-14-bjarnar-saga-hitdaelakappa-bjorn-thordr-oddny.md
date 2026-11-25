@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/bjarnar-saga-poetas-rivais.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to menn i kappe på hver sin side av en steinete strand på Snæfellsnes, med isbreen bak, og en kvinne med slør mellom dem som ser på fra et torvhus; på bakken et trebrett med risset tegn, under en vinterhimmel."
 fontes:
-  - "Wikipedia, «Bjarnar saga Hítdœlakappa» (handling, personer, håndskrifter)"
+  - "Oppslagsverk om «Bjarnar saga Hítdœlakappa» (handling, personer, håndskrifter)"
   - "Daniel Sävborg, artikkel om erotikk, kjærlighet og følelser i Bjarnar saga Hítdœlakappa (core.ac.uk), med datering, håndskrifter og tolkninger av sagaen"
 tags: [bjarnar saga, björn, þórðr kolbeinsson, oddný, skald, snæfellsnes]
 ---

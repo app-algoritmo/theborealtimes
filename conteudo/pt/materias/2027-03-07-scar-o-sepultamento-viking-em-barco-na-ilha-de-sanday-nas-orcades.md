@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/scar-barco-orkney.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma praia de dunas e capim sob céu de tempestade, com a forma de um barco comprido delimitada por pedras e rebites de ferro no chão aberto; dentro dela, três silhuetas deitadas e, ao lado, uma placa de osso com o desenho de um dragão e uma espada, sob a luz fria da manhã."
 fontes:
-  - "Verbete \"Scar boat burial\", Wikipédia"
+  - "Verbete \"Scar boat burial\", obra de referência"
   - "Julie Gibson, arqueóloga do condado das Órcades, conforme citada no verbete"
   - "Historic Scotland, escavação de 1991, conforme citada no verbete"
 tags: [scar, sanday, orcades, barco funerário, viking, arqueologia]

@@ -11,7 +11,7 @@ imagem_alt: "Illustration of an enormous dark eagle with spread wings, perched o
 fontes:
   - "Poetic Edda, Vafþrúðnismál (stanza 37)"
   - "Snorri Sturluson, Prose Edda (Gylfaginning, the passage on the wind)"
-  - "English Wikipedia, article \"Hræsvelgr\", consulted to check the references and the name (Orchard 1997, Lindow 2002)"
+  - "Reference work in English, article \"Hræsvelgr\", consulted to check the references and the name (Orchard 1997, Lindow 2002)"
 tags: [hræsvelgr, wind, eagle, vafþrúðnismál, gylfaginning, giant, odin]
 ---
 

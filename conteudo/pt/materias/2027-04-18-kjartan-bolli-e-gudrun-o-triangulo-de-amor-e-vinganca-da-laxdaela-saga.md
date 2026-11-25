@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/kjartan-bolli-e-gudrun.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de três figuras numa fazenda islandesa de turfa ao entardecer: um homem alto e orgulhoso, outro que o olha de lado, e uma mulher de véu escuro entre eles, com um toucado bordado nas mãos."
 fontes:
-  - "Wikipédia em inglês, artigo \"Laxdæla saga\", com o enredo, a datação e os manuscritos"
-  - "Laxdæla saga, texto islandês do século XIII, conservado na Möðruvallabók (meados do século XIV), segundo a Wikipédia"
+  - "Obras de referência em inglês, artigo \"Laxdæla saga\", com o enredo, a datação e os manuscritos"
+  - "Laxdæla saga, texto islandês do século XIII, conservado na Möðruvallabók (meados do século XIV), segundo as fontes"
 tags: [laxdæla saga, kjartan, bolli, guðrún, olaf pavão, olaf tryggvason, saga islandesa]
 ---
 

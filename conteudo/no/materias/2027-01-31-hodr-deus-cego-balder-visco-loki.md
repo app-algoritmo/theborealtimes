@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hodr-deus-cego-balder-visco.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en blind gud med bind for øynene og en lav bue i hendene, i en steinhall opplyst av fakler; i bakgrunnen kaster andre guder steiner og piler mot en strålende skikkelse som ikke skades, og silhuetten av Loke hvisker i øret til den blinde guden, med en liten misteltein i forgrunnen."
 fontes:
-  - "Wikipedia, «Höðr» (Snorres Edda, Den eldre Edda, Saxos Gesta Danorum, Váli, Ragnarok, etymologi, Hversu Noregr byggðist)"
+  - "Oppslagsverk om «Höðr» (Snorres Edda, Den eldre Edda, Saxos Gesta Danorum, Váli, Ragnarok, etymologi, Hversu Noregr byggðist)"
 tags: [höðr, baldr, loke, váli, misteltein, edda]
 ---
 

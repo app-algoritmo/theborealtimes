@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um salão de rei nórdico com um poeta islandês de
 fontes:
   - "Sneglu-Halla þáttr, em Morkinskinna e Flateyjarbók"
   - "Heimskringla, Haralds saga Sigurðarsonar (contexto do reinado)"
-  - "Wikipedia, \"The Tale of Sarcastic Halli\""
+  - "Obras de referência sobre \"The Tale of Sarcastic Halli\""
 tags: [sneglu-halli, harald hardrada, morkinskinna, flateyjarbók, þáttr, escaldo, humor medieval]
 ---
 

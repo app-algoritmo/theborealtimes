@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de manto azul-escuro montada num cavalo cinzento, galopando numa estrada de neve rumo a um grande salão de madeira com luz nas janelas ao longe, sob um céu de fim de tarde, com pegadas de cavalo na neve atrás dela."
 fontes:
   - "Oddrúnargrátr, na Edda poética (Codex Regius), na tradução inglesa de Henry Adams Bellows, com a nota introdutória do tradutor"
-  - "Wikipédia em inglês, artigo \"Oddrúnargrátr\""
+  - "Obras de referência em inglês, artigo \"Oddrúnargrátr\""
 tags: [oddrún, oddrúnargrátr, edda poética, atli, gunnarr, borgný, codex regius, ciclo völsunga]
 ---
 

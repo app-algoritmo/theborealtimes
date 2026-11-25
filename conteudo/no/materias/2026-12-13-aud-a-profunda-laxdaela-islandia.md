@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en islandsk fjord ved daggry, med et bredskrogget h
 fontes:
   - "*Landnámabók* (Sturlubók- og Hauksbók-versjonene), kapitlene om Breiðafjörður"
   - "*Laxdæla saga*, åpningskapitlene"
-  - "Wikipedia (engelsk), oppslaget «Aud the Deep-minded», med kildene det viser til: *Landnámabók*, *Laxdæla saga*, *Eyrbyggja saga*, *Njáls saga*, *Eiríks saga rauða* og *Grettis saga*"
+  - "oppslagsverk (engelsk), oppslaget «Aud the Deep-minded», med kildene det viser til: *Landnámabók*, *Laxdæla saga*, *Eyrbyggja saga*, *Njáls saga*, *Eiríks saga rauða* og *Grettis saga*"
 tags: [auðr djúpúðga, laxdæla saga, landnámabók, island, landnåm]
 ---
 

@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/aurvandil-dedo-estrela.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en rødskjegget kjempe med hammer i beltet som vader gjennom en bred, islagt elv under mørk himmel, med en flettet kurv på ryggen; en bar fot stikker ut av kurven, og høyt oppe lyser en hvit stjerne mellom drivende isblokker."
 fontes:
-  - "Snorre Sturlason, Den yngre Edda (Skáldskaparmál), slik den er gjengitt i Wikipedia-artikkelen «Aurvandill»"
-  - "Wikipedia-artikkelen «Gróa»"
+  - "Snorre Sturlason, Den yngre Edda (Skáldskaparmál), slik den er gjengitt i Oppslagsverk om «Aurvandill»"
+  - "Oppslagsverk om «Gróa»"
   - "Saxo Grammaticus, Gesta Danorum, slik den er sitert i de samme artiklene"
 tags: [aurvandil, tor, gro, stjerne, snorres edda, norrøn mytologi]
 ---

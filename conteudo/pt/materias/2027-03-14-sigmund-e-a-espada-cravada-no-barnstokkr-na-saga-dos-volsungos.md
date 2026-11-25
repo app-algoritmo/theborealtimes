@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um grande salão de madeira com fogueiras ao longo 
 fontes:
   - "Saga dos Volsungos, capítulo 3 (tradução inglesa de William Morris e Eiríkr Magnússon, 1870)"
   - "Jesse Byock, The Saga of the Volsungs (1990), sobre o nome Barnstokkr"
-  - "Wikipedia, \"Barnstokkr\""
+  - "Obras de referência sobre \"Barnstokkr\""
 tags: [sigmund, barnstokkr, odin, saga dos volsungos, siggeir, signy]
 ---
 

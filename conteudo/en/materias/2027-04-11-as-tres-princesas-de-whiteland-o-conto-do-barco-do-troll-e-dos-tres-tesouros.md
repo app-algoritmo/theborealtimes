@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a young king standing on a windy moor between three
 fontes:
   - "Peter Christen Asbjørnsen and Jørgen Moe, Norske Folkeeventyr"
   - "George Webbe Dasent, Popular Tales from the Norse, \"The Three Princesses of Whiteland\" (English translation)"
-  - "English Wikipedia, article \"The Three Princesses of Whiteland\", for the tale-type classification"
+  - "Reference work in English, article \"The Three Princesses of Whiteland\", for the tale-type classification"
 tags: [the three princesses of whiteland, asbjørnsen, moe, dasent, norwegian folktales, atu 400]
 ---
 

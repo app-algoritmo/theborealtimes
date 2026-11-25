@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-nibelungenlied-siegfried-kriemhild-e-o-tesouro
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un héroe con capa corta junto a un ancho río al atardecer, con una reina de vestido rojo llorando a su lado, un guerrero de yelmo oscuro que observa tras un árbol y un cofre de oro medio hundido en la orilla."
 fontes:
-  - "Wikipedia en inglés, artículo «Nibelungenlied»"
+  - "Obras de referencia en inglés, artículo «Nibelungenlied»"
 tags: [cantar de los nibelungos, sigfrido, kriemhild, hagen, saga de los völsungos, poesía medieval alemana, tesoro de los nibelungos]
 ---
 

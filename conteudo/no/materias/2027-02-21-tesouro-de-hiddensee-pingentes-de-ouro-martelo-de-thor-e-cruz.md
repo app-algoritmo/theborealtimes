@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tesouro-de-hiddensee-joias.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en strand på en øy i Østersjøen ved daggry, med en mann som sitter på huk i den fuktige sanden og avdekker en liten bunt gullsmykker, blant dem korsformede anheng med avrundede spisser, under en klar himmel etter stormen."
 fontes:
-  - "Wikipedia, «Hiddensee treasure» (funn, sammensetning, vekt, datering, museer)"
+  - "Oppslagsverk om «Hiddensee treasure» (funn, sammensetning, vekt, datering, museer)"
   - "The Local (thelocal.de), tekst om Hiddensee-skatten og Rügen-funnet fra 2018 (mynter, Michael Schirren)"
 tags: [hiddensee, skatt, gull, harald blåtann, tors hammer, kors, stralsund]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/austrfararvisur-sigvatr-e-as-portas-fechadas.web
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un hombre con capa azul y bastón de viaje ante una puerta de madera cerrada en una granja nórdica de tejado de turba, en una fría tarde de otoño, con un bosque de abetos al fondo y una mujer en una ventana estrecha que le hace señas para que se vaya."
 fontes:
-  - "Wikipedia en inglés, artículo «Austrfararvísur»"
+  - "Obras de referencia en inglés, artículo «Austrfararvísur»"
   - "R. D. Fulk, edición (2012)"
   - "Carl L. Thunberg, «Att tolka Svitjod» (2012)"
 tags: [austrfarar, austrfararvísur, sigvatr þórðarson, olaf ii, suecia, escaldo, álfablót, västergötland]

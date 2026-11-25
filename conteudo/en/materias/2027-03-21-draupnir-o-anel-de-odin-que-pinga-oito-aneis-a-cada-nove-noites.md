@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a large gold ring resting on a dwarf forge bench; f
 fontes:
   - "Snorri Sturluson, Prose Edda (Gylfaginning and Skáldskaparmál)"
   - "Poetic Edda, Skírnismál"
-  - "Wikipedia, \"Draupnir\""
+  - "Reference works on \"Draupnir\""
 tags: [draupnir, odin, ring, dwarves, loki, baldr, prose edda, norse mythology]
 ---
 

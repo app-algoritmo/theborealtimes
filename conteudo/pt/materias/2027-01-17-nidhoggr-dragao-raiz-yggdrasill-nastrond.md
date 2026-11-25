@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/nidhoggr-dragao-raiz-yggdrasill.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma caverna funda sob as raízes de uma árvore imensa, com uma serpente alada de escamas escuras e olhos pálidos enroscada numa raiz grossa que ela morde; ao fundo, uma névoa gelada e um salão de ossos e espinhas, e, subindo pelo tronco, um pequeno esquilo de pelo avermelhado."
 fontes:
-  - "Wikipedia, \"Nidhogg\" (Gylfaginning, Grímnismál, Völuspá; Náströnd; Ratatoskr; etimologia)"
+  - "Obras de referência sobre \"Nidhogg\" (Gylfaginning, Grímnismál, Völuspá; Náströnd; Ratatoskr; etimologia)"
 tags: [níðhöggr, yggdrasill, völuspá, náströnd, dragão]
 ---
 

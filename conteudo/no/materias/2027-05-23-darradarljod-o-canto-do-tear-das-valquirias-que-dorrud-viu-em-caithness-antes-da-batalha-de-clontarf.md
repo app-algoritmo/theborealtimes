@@ -10,8 +10,8 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en steinhytte om natten, sett utenfra, der tolv kvinner i mørke kapper veiver ved en stor stående vev, med lange tråder og runde steinvekter som henger, mens en mann i kappe, ute i mørket, ser på dem."
 fontes:
   - "Njáls saga, kapittel 157, som bevarer diktet Darraðarljóð (islandsk saga fra 1200-tallet)"
-  - "Engelsk Wikipedia, artikkelen «Darraðarljóð»"
-  - "Engelsk Wikipedia, artikkelen «Warp-weighted loom»"
+  - "Engelsk Oppslagsverk om artikkelen «Darraðarljóð»"
+  - "Engelsk Oppslagsverk om artikkelen «Warp-weighted loom»"
 tags: [darraðarljóð, valkyrjer, njáls saga, clontarf, vev, caithness, skaldedikt]
 ---
 

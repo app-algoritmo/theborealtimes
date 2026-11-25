@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thyri-danebod-a-muralha-de-jelling.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i lang kappe og slør som står på en grønn ås ved siden av en stor stein med innskårne furer og ser mot en lang voll av jord og trepæler som skjærer over en slette helt til horisonten, med arbeidere som stabler torvblokker i det fjerne under åpen himmel."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Thyra Danebod», med passasjene fra Saxo Grammaticus, Sven Aggesen, Historia Norwegiæ, Jómsvíkinga saga og innskriften på Jelling 1"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Thyra Danebod», med passasjene fra Saxo Grammaticus, Sven Aggesen, Historia Norwegiæ, Jómsvíkinga saga og innskriften på Jelling 1"
   - "Studier sitert i artikkelen: Imer, Åhfeldt og Zedig (2023), Randsborg (2008), Hollander (1928), Lund (2020) og Bregnsbo og Jensen (2022)"
 tags: [þyri, thyra, danebod, gorm den gamle, jelling, danevirke, saxo grammaticus, sven aggesen, runer]
 ---

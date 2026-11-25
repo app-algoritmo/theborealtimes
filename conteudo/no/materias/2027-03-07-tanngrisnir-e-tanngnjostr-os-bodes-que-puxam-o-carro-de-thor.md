@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tanngrisnir-bodes-de-thor.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en trevogn trukket av to kraftige bukker med store horn opp en bratt fjellside under stormskyer; en rødskjegget gud holder tømmene med en hammer i beltet, og hjulene slår gnister mot steinene."
 fontes:
-  - "Wikipedia-artikkelen «Tanngrisnir and Tanngnjóstr»"
+  - "Oppslagsverk om «Tanngrisnir and Tanngnjóstr»"
   - "Snorre Sturlason, Den yngre Edda (Gylfaginning og Skáldskaparmál)"
   - "Den eldre Edda (Hymiskviða og Þrymskviða)"
 tags: [tanngrisnir, tanngnjóstr, tor, bukker, tjalve, norrøn mytologi]

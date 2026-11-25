@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/kjartan-bolli-e-gudrun.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de tres figuras en una granja islandesa de turba al atardecer: un hombre alto y orgulloso, otro que lo mira de reojo, y una mujer de velo oscuro entre ellos, con un tocado bordado en las manos."
 fontes:
-  - "Wikipedia en inglés, artículo «Laxdæla saga», con la trama, la datación y los manuscritos"
-  - "Laxdæla saga, texto islandés del siglo XIII, conservado en la Möðruvallabók (mediados del siglo XIV), según Wikipedia"
+  - "Obras de referencia en inglés, artículo «Laxdæla saga», con la trama, la datación y los manuscritos"
+  - "Laxdæla saga, texto islandés del siglo XIII, conservado en la Möðruvallabók (mediados del siglo XIV), según las fuentes"
 tags: [laxdæla saga, kjartan, bolli, guðrún, olaf el pavo real, olaf tryggvason, saga islandesa]
 ---
 

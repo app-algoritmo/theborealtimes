@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma ponte luminosa de três faixas de cor, uma verm
 fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, capítulos 13, 15, 17, 27 e 51; Skáldskaparmál, capítulo 16)"
   - "Edda poética, Grímnismál e Fáfnismál"
-  - "Wikipedia, \"Bifröst\""
+  - "Obras de referência sobre \"Bifröst\""
 tags: [bifröst, bilröst, heimdall, edda em prosa, grímnismál, ragnarök, mitologia nórdica]
 ---
 

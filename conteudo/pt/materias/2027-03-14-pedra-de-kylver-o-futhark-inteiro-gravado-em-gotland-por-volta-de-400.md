@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma laje achatada de calcário claro, vista de cima
 fontes:
   - "Terje Spurkland, Norwegian Runes and Runic Inscriptions (2005)"
   - "Klaus Düwel e Wilhelm Heizmann, \"Das ältere Fuþark\" (2006)"
-  - "Wikipedia, \"Kylver Stone\""
+  - "Obras de referência sobre \"Kylver Stone\""
 tags: [pedra de kylver, futhark, runas, gotland, futhark antigo, escrita rúnica]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorgerdr-holgabrudr-a-deusa-dos-jarls.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um templo de madeira escura onde se vê, ao fundo, a imagem entalhada de uma mulher sentada com um grande anel de ouro no braço, e à frente dela um homem de capa curvado, de mãos erguidas, enquanto a luz de uma pequena fogueira treme nas paredes de troncos."
 fontes:
-  - "Wikipédia em inglês, artigo \"Þorgerðr Hölgabrúðr and Irpa\", com as passagens de Skáldskaparmál, Jómsvíkinga saga, Njáls saga, Færeyinga saga, Harðar saga e Þorleifs þáttr jarlsskálds"
+  - "Obras de referência em inglês, artigo \"Þorgerðr Hölgabrúðr and Irpa\", com as passagens de Skáldskaparmál, Jómsvíkinga saga, Njáls saga, Færeyinga saga, Harðar saga e Þorleifs þáttr jarlsskálds"
   - "Estudos citados no artigo: Hilda Ellis Davidson (1998), John McKinnell (2002, 2005), Nora Chadwick (1950) e Margaret Motz (1993)"
 tags: [þorgerðr hölgabrúðr, irpa, hákon sigurðarson, jómsvíkinga saga, njáls saga, skáldskaparmál, hlaðir, religião nórdica]
 ---

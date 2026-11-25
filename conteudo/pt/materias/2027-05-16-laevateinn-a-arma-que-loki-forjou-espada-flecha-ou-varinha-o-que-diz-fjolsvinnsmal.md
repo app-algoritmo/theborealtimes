@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma haste fina e escura, entre espada e varinha, deitada sobre um baú de ferro com nove cadeados, num porão de pedra sob uma figura feminina de capa que a vigia, e ao fundo uma janela com um galo dourado num galho."
 fontes:
   - "Edda poética, Fjölsvinnsmál, estrofes 25 a 27 (edição de Bugge)"
-  - "Wikipédia em inglês, artigo \"Lævateinn\", com as referências a Bugge (1860), Árni Magnússon (1787), Hollander (2011) e Gardeła (2009)"
+  - "Obras de referência em inglês, artigo \"Lævateinn\", com as referências a Bugge (1860), Árni Magnússon (1787), Hollander (2011) e Gardeła (2009)"
 tags: [lævateinn, fjölsvinnsmál, loki, viðófnir, sinmara, mímameiðr, edda poética]
 ---
 

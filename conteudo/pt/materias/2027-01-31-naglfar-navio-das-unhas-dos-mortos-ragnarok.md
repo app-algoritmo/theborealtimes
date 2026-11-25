@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/naglfar-navio-das-unhas.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio gigantesco e pálido, de casco rugoso feito de lascas curvas como unhas, deslizando num mar escuro sob um céu rachado; no convés, uma multidão de vultos monstruosos e um gigante ao leme, enquanto na margem se vê uma mão humana com as unhas bem aparadas, em primeiro plano."
 fontes:
-  - "Wikipedia, \"Naglfar\" (Völuspá, Gylfaginning caps. 43 e 51, Skáldskaparmál, etimologia, paralelos indo-europeus, pedra rúnica de Tullstorp, referências modernas)"
+  - "Obras de referência sobre \"Naglfar\" (Völuspá, Gylfaginning caps. 43 e 51, Skáldskaparmál, etimologia, paralelos indo-europeus, pedra rúnica de Tullstorp, referências modernas)"
 tags: [naglfar, ragnarök, hrymr, navio, unhas, muspell]
 ---
 

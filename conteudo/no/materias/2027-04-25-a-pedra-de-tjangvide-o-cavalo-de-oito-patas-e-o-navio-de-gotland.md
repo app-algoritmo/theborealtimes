@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/a-pedra-de-tjangvide.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor, risset kalksteinshelle med en hest med åtte bein og en liten rytter som en kvinne rekker et drikkehorn, en mann med bue bak henne og nederst et langskip med bredt seil, med runer risset langs kantene, i en eng på Gotland."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Tjängvide image stone», med beskrivelsen av steinen, innskriften og tolkningene"
+  - "Engelsk Oppslagsverk om artikkelen «Tjängvide image stone», med beskrivelsen av steinen, innskriften og tolkningene"
 tags: [tjängvide-steinen, g 110, gotland, sleipnir, odin, bildestein, vikingtid]
 ---
 

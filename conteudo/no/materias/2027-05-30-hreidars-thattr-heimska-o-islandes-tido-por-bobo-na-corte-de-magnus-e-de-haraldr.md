@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hreidars-thattr-heimska-o-islandes-na-corte-de-m
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konges trehall, med lange bord og medkopper, der en ung mann med drømmende blikk og enkle klær sitter og smiler ved siden av en konge med gullkrone, mens en annen konge med hardt blikk og hoffmenn i mørke kapper ser på dem fra den andre siden."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Hreiðars þáttr»"
+  - "Engelsk Oppslagsverk om artikkelen «Hreiðars þáttr»"
   - "Anthony Faulkes (utg.), Hreiðars þáttr heimska (1978; 2. utgave, 2011)"
   - "Robert Kellogg, oversettelsen «Hreidar's Tale», i The Complete Sagas of Icelanders (1997)"
 tags: [hreiðars þáttr heimska, hreiðarr, magnús góði, haraldr harðráði, morkinskinna, islendingesagaer]

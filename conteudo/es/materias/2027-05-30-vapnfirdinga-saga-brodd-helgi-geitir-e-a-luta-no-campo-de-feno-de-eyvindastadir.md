@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/vapnfirdinga-saga-a-luta-no-campo-de-feno.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un campo de heno junto a una granja islandesa, donde dos grupos de hombres se enfrentan con lanzas y escudos entre los montones de heno cortado, mientras una mujer con pañuelo blanco, a lo lejos, observa con las manos en el pecho, bajo un cielo nublado."
 fontes:
-  - "Wikipedia en inglés, artículo «Vápnfirðinga saga»"
+  - "Obras de referencia en inglés, artículo «Vápnfirðinga saga»"
   - "Traducción de John Tucker (1997)"
   - "Estudios de William Miller y Lönnroth"
 tags: [vápnfirðinga saga, brodd-helgi, geitir, vopnafjörður, sagas islandesas, eyvindastaðir, tucker]

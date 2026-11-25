@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/aggersborg-a-fortaleza-circular.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Flyfoto-illustrasjon av en stor sirkel av voll og grøft på en slette ved en fjord, delt i fire kvadranter av to kryssende gater, med langhus av tre på rekke inne i hver fjerdedel og båter på fjorden i bakgrunnen."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Aggersborg»"
-  - "Danmarks Nationalmuseum, utgravningene 1945 til 1954, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Aggersborg»"
+  - "Danmarks Nationalmuseum, utgravningene 1945 til 1954, sitert i oppslagsverk"
 tags: [aggersborg, ringborg, limfjorden, danmark, harald blåtann, svend tveskjegg, dendrokronologi]
 ---
 

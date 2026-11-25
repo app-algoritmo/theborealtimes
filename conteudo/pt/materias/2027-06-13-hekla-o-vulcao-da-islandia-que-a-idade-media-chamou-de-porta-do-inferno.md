@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hekla-o-vulcao-islandes-que-a-idade-media-chamou
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vulcão islandês de topo alongado coberto de neve, soltando fumaça escura e um brilho avermelhado numa fenda, sobre uma planície de lava escura e musgo, com ovelhas ao longe e um céu cinzento carregado."
 fontes:
-  - "Wikipédia em inglês, artigo \"Hekla\""
+  - "Obras de referência em inglês, artigo \"Hekla\""
 tags: [hekla, vulcão, islândia, porta do inferno, erupção de 1104, folclore, idade média]
 ---
 

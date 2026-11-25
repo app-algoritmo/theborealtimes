@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en glødende bro av tre fargebånd, ett rødt som g
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, kapittel 13, 15, 17, 27 og 51; Skáldskaparmál, kapittel 16)"
   - "Den eldre Edda, Grímnismál og Fáfnismál"
-  - "Wikipedia, «Bifröst»"
+  - "Oppslagsverk om «Bifröst»"
 tags: [bifröst, bilröst, heimdall, snorres edda, grímnismål, ragnarok, norrøn mytologi]
 ---
 

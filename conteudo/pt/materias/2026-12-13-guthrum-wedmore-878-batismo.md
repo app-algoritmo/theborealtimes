@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um pequeno rio num vale verde, com um homem alto de
 fontes:
   - "*Crônica Anglo-Saxônica*, entradas dos anos 878 e 890"
   - "*Annals of St Neots*, para o sepultamento de Guthrum em Hadleigh (Suffolk)"
-  - "Wikipédia (inglês), \"Guthrum\", com as fontes citadas"
+  - "obras de referência (inglês), \"Guthrum\", com as fontes citadas"
 tags: [guthrum, alfredo, wedmore, 878, danelaw]
 ---
 

@@ -10,7 +10,7 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración del interior de una casa de campo noruega de madera, con un campesino de camisa de lino sentado cerca del hogar, estudiando a la luz del fuego una larga vara de madera tallada con muescas y pequeños símbolos, mientras sobre la mesa hay un cuchillo y un cuenco de papilla."
 fontes:
   - "Store norske leksikon, artículo «primstav»"
-  - "Wikipedia en inglés, artículo «Primstav»"
+  - "Obras de referencia en inglés, artículo «Primstav»"
   - "Museo Nacional de Dinamarca, primstav de 1457"
 tags: [primstav, calendario, noruega, san olaf, san hallvard, runestav, calendario juliano, folclore agrícola]
 ---

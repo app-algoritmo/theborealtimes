@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/freydis-eiriksdottir-vinlandia.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher nórdica de cabelos escuros ao vento, de manto azul e machado na mão, de pé numa praia de seixos da Vinlândia ao amanhecer, ao lado de um barco de casco largo encalhado; ao fundo, casas baixas de turfa e uma mata densa; o céu em tons de cinza e laranja, e uma névoa fina sobre a água."
 fontes:
-  - "Wikipedia, \"Freydís Eiríksdóttir\" (Saga dos Groenlandeses, capítulo 8; Saga de Érico, o Vermelho; expedição de Karlsefni; Helgi e Finnbogi; ataque dos skrælingar; apoia-se em Sephton, Kunz, Jesch, Karlsson, Magnusson e Pálsson)"
+  - "Obras de referência sobre \"Freydís Eiríksdóttir\" (Saga dos Groenlandeses, capítulo 8; Saga de Érico, o Vermelho; expedição de Karlsefni; Helgi e Finnbogi; ataque dos skrælingar; apoia-se em Sephton, Kunz, Jesch, Karlsson, Magnusson e Pálsson)"
 tags: [freydís eiríksdóttir, vinlândia, saga dos groenlandeses, saga de érico, o vermelho, skrælingar]
 ---
 

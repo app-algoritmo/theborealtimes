@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/uniao-de-kalmar-a-coroa-de-tres-reinos-em-1397.w
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma cerimônia de coroação numa igreja de pedra, com um jovem de manto vermelho ajoelhado diante de um altar e, ao lado, uma rainha de véu e coroa dourada, rodeados de nobres de três reinos com estandartes de cores diferentes."
 fontes:
-  - "Wikipédia em inglês, artigo \"Kalmar Union\""
+  - "Obras de referência em inglês, artigo \"Kalmar Union\""
 tags: [união de kalmar, margarida, erik da pomerânia, dinamarca, suécia, noruega, gustav vasa, banho de sangue de estocolmo]
 ---
 

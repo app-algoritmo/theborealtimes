@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a Norse king's hall with an Icelandic poet in a wor
 fontes:
   - "Sneglu-Halla þáttr, in Morkinskinna and Flateyjarbók"
   - "Heimskringla, Haralds saga Sigurðarsonar (background to the reign)"
-  - "Wikipedia, \"The Tale of Sarcastic Halli\""
+  - "Reference works on \"The Tale of Sarcastic Halli\""
 tags: [sneglu-halli, harald hardrada, morkinskinna, flateyjarbók, þáttr, skald, medieval humour]
 ---
 

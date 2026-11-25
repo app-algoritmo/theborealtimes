@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/kjalnesinga-saga-bui-esja-e-o-templo-em-chamas.w
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rapaz alto de pele clara, com um estilingue de couro na mão, parado diante de um templo de madeira em chamas à noite, com uma grande mulher-troll de cabelos longos e escuros atrás dele na encosta do monte, sob um céu cheio de faíscas."
 fontes:
-  - "Wikipédia em inglês, artigo \"Kjalnesinga saga\", e comentário em blog sobre a saga"
+  - "Obras de referência em inglês, artigo \"Kjalnesinga saga\", e comentário em blog sobre a saga"
   - "Manuscrito AM 471 4to"
   - "Tradução de Waggoner (2010)"
 tags: [kjalnesinga saga, búi andríðsson, esja, jökull, harald cabelo-belo, sagas islandesas, templo, am 471 4to]

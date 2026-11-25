@@ -12,7 +12,7 @@ fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, om skapelsen av verden og av Ask og Embla)"
   - "Den eldre Edda: Völuspá og Lokasenna"
   - "Snorre Sturlason, Heimskringla (Ynglinga saga, kapittel 3)"
-  - "Wikipedia på engelsk, artikkelen «Vili and Vé», brukt for å kontrollere kildene og hypotesene"
+  - "oppslagsverk på engelsk, artikkelen «Vili and Vé», brukt for å kontrollere kildene og hypotesene"
 tags: [vili, vé, odin, borr, ask og embla, gylfaginning, völuspá, frigg]
 ---
 

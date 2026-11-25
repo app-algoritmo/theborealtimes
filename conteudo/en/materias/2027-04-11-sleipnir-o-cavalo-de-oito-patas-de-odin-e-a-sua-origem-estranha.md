@@ -12,7 +12,7 @@ fontes:
   - "Snorri Sturluson, Prose Edda (Gylfaginning, chapters 15, 41, 42 and 49)"
   - "Poetic Edda: Grímnismál, Baldrs draumar and Hyndluljóð"
   - "Tjängvide image stone (G 110), Gotland, in the Swedish Museum of National Antiquities"
-  - "English Wikipedia, article \"Sleipnir\", consulted to check the passages and the scholars' theories"
+  - "Reference work in English, article \"Sleipnir\", consulted to check the passages and the scholars' theories"
 tags: [sleipnir, odin, loki, svaðilfari, gylfaginning, tjängvide stone]
 ---
 

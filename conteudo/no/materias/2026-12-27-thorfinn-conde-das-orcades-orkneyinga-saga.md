@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/thorfinn-orcades-conde.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en øy med grønne enger og klipper over Nordsjøen, med en norrøn jarl i blå kappe og mørkt hår stående i baugen på et skip og se mot en strand hvor en annen flåte ligger for anker; i bakgrunnen ruinene av en liten steinkirke på en holme som henger sammen med land ved en sandstripe."
 fontes:
-  - "Wikipedia, «Thorfinn the Mighty» (foreldre, styre, Karl Hundason, Rögnvald, Roma, død, tabellen «tradisjon mot bekreftelse»)"
-  - "*Orkneyinga saga* og *Heimskringla* (Olav den helliges saga), etter Wikipedia"
-  - "Thomson (2008), Woolf (2007), Muir (2005) og Crawford (1987), sitert i Wikipedia"
+  - "Oppslagsverk om «Thorfinn the Mighty» (foreldre, styre, Karl Hundason, Rögnvald, Roma, død, tabellen «tradisjon mot bekreftelse»)"
+  - "*Orkneyinga saga* og *Heimskringla* (Olav den helliges saga), etter oppslagsverk"
+  - "Thomson (2008), Woolf (2007), Muir (2005) og Crawford (1987), sitert i oppslagsverk"
 tags: [torfinn sigurdsson, orknøyene, orkneyinga saga, karl hundason, birsay]
 ---
 

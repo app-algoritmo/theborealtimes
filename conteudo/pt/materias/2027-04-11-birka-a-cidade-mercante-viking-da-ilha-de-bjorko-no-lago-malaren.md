@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/birka-a-cidade-mercante.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma enseada com cais de madeira, barcos de comércio e casas de postes numa ilha de bétulas, com pessoas descarregando fardos de tecido e sacos de moedas de prata, e uma colina com túmulos ao fundo."
 fontes:
-  - "Wikipédia em inglês, artigo \"Birka\""
+  - "Obras de referência em inglês, artigo \"Birka\""
   - "Rimbert, Vita Ansgarii (Vida de Ansgar, por volta de 865), primeira descrição conhecida de Birka"
   - "UNESCO, \"Birka and Hovgården\", Patrimônio Mundial (1993, referência 555)"
 tags: [birka, björkö, mälaren, adelsö, hovgården, ansgar, rimbert, comércio viking]

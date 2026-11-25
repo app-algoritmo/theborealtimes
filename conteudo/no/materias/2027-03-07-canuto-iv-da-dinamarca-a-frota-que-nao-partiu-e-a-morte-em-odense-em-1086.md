@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/canuto-iv-odense.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vik med mange trebåter med drakehoder oppankret i rekker under grå himmel, og på land en trekirke med alter lyst opp av stearinlys, der en konge i rød kappe knesetter seg foran væpnede menn som kommer inn døren."
 fontes:
-  - "Wikipedia-artikkelen «Canute IV of Denmark»"
+  - "Oppslagsverk om «Canute IV of Denmark»"
   - "Ælnoth av Canterbury, biografi om Knut, slik den er sitert i artikkelen"
   - "Chronicon Roskildense, slik den er sitert i artikkelen"
 tags: [knut den hellige, danmark, odense, 1086, england, sankt knud]

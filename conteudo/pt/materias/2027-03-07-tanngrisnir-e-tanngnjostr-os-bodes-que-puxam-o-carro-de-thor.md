@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tanngrisnir-bodes-de-thor.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um carro de madeira puxado por dois bodes robustos de chifres grandes por uma encosta de rocha sob nuvens de tempestade; um deus de barba ruiva segura as rédeas, com um martelo à cintura, e as rodas soltam faíscas ao bater nas pedras."
 fontes:
-  - "Verbete \"Tanngrisnir and Tanngnjóstr\", Wikipédia"
+  - "Verbete \"Tanngrisnir and Tanngnjóstr\", obra de referência"
   - "Snorri Sturluson, Edda em Prosa (Gylfaginning e Skáldskaparmál)"
   - "Edda Poética (Hymiskviða e Þrymskviða)"
 tags: [tanngrisnir, tanngnjóstr, thor, bodes, þjálfi, mitologia nórdica]

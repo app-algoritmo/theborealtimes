@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/njordr-deus-mar-nootun.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norrøn vik ved daggry, med en lyshåret gud i blå kappe stående i baugen på en fiskebåt, med en hånd rakt mot vinden som fyller seilet; i bakgrunnen et trehus ved vannkanten med måker rundt, og på et fjernt, snødekt fjell silhuetten av en kvinne med ski og bue."
 fontes:
-  - "Wikipedia, «Njörðr» (belegg i Den poetiske Edda, Snorres Edda og Heimskringla; ekteskapet med Skaði; etymologi; forskningsdebatt)"
-  - "*Gylfaginning* (kap. 23) og *Skáldskaparmál* av Snorre Sturlason, etter Wikipedia"
-  - "*Ynglinga saga* (kap. 4 og 8) i *Heimskringla*, etter Wikipedia"
+  - "Oppslagsverk om «Njörðr» (belegg i Den poetiske Edda, Snorres Edda og Heimskringla; ekteskapet med Skaði; etymologi; forskningsdebatt)"
+  - "*Gylfaginning* (kap. 23) og *Skáldskaparmál* av Snorre Sturlason, etter oppslagsverk"
+  - "*Ynglinga saga* (kap. 4 og 8) i *Heimskringla*, etter oppslagsverk"
 tags: [njörðr, vaner, skaði, nóatún, norrøn mytologi]
 ---
 

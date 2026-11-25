@@ -11,7 +11,7 @@ imagem_alt: "Illustration of an enormous, luminous dapple-grey horse with golden
 fontes:
   - "Peter Christen Asbjørnsen and Jørgen Moe, Norske Folkeeventyr, \"Grimsborken\""
   - "George Webbe Dasent, Popular Tales from the Norse, \"Dapplegrim\" (English translation)"
-  - "English Wikipedia, article \"Dapplegrim\", for the plot summary and the ATU 531 classification"
+  - "Reference work in English, article \"Dapplegrim\", for the plot summary and the ATU 531 classification"
 tags: [dapplegrim, grimsborken, asbjørnsen, moe, dasent, norwegian folktales, atu 531]
 ---
 

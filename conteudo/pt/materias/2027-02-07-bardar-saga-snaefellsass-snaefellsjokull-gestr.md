@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/bardar-saga-snaefellsjokull.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma geleira de topo arredondado sobre uma península costeira da Islândia, com uma figura alta de capuz cinza e um bastão comprido de gancho caminhando na neve; abaixo, na costa, uma casa de turfa e um pequeno bloco de gelo à deriva no mar, e ao longe o contorno de um cavalo."
 fontes:
-  - "Wikipedia, \"Bárðar saga Snæfellsáss\" (enredo, Gestr, Raknarr, datação, manuscritos, edições)"
+  - "Obras de referência sobre \"Bárðar saga Snæfellsáss\" (enredo, Gestr, Raknarr, datação, manuscritos, edições)"
 tags: [bárðar saga, snæfellsjökull, gestr, raknarr, olavo tryggvason, islândia]
 ---
 

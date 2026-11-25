@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/saehrimnir-o-javali-do-valhalla.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerhall med skjold på veggene, der krigere spiser ved lange bord foran en enorm dampende gryte, og en kokk rører i kjøttet fra et villsvin over bålet."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Sæhrímnir», med stedene i Grímnismál (strofe 18), Gylfaginning (kap. 38) og Skáldskaparmál"
+  - "Engelsk Oppslagsverk om artikkelen «Sæhrímnir», med stedene i Grímnismál (strofe 18), Gylfaginning (kap. 38) og Skáldskaparmál"
   - "Den eldre Edda, Grímnismál, Bellows' oversettelse: «den beste maten, men få vet det»"
   - "Snorres Edda, Gylfaginning, kap. 38, om hvordan Odin mater de døde i Valhall"
 tags: [sæhrímnir, andhrímnir, eldhrímnir, valhall, einherjar, grímnismál, gylfaginning, edda]

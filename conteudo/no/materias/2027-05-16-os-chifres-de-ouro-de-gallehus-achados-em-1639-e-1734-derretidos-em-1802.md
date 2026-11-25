@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/chifres-de-ouro-de-gallehus.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to store, buede gullhorn dekket av horisontale bånd med dyr, slanger og menneskefigurer i relieff, utstilt på en mørk pute i et gammelt museumsrom, med et forstørrelsesglass og en skissebok ved siden av."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Golden Horns of Gallehus» (funn, mål, innskrift DR 12, tyveriet i 1802)"
+  - "Engelsk Oppslagsverk om artikkelen «Golden Horns of Gallehus» (funn, mål, innskrift DR 12, tyveriet i 1802)"
   - "Ole Worm, De aureo cornu (1641), den første bevarte tegningen"
   - "Adam Oehlenschläger, diktet «Guldhornene», om hornene"
 tags: [gallehus, gullhorn, runer, eldre futhark, danmark, hlewagastiz, germansk jernalder]

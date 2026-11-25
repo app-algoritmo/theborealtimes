@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/stortebeker-o-pirata-do-baltico-e-do-mar-do-nort
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un buque de guerra de madera, con velas anchas y castillo de popa, abordando otro barco en un mar gris del Norte, con hombres de jubón y espadas de hoja corta en cubierta, sin sangre, bajo nubes pesadas al amanecer."
 fontes:
-  - "Wikipedia en inglés, artículo «Klaus Störtebeker»"
+  - "Obras de referencia en inglés, artículo «Klaus Störtebeker»"
 tags: [störtebeker, hermanos de las vituallas, piratería, liga hanseática, hamburgo, visby, 1401]
 ---
 

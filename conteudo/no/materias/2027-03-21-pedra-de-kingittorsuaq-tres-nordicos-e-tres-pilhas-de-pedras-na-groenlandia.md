@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en bar, steinete arktisk øy, med tre steinvarder s
 fontes:
   - "Runeinnskriften fra Kingittorsuaq (Danmarks Nationalmuseum)"
   - "Finn Gad, The History of Greenland (bakgrunn om nordboerne)"
-  - "Wikipedia, «Kingittorsuaq Runestone»"
+  - "Oppslagsverk om «Kingittorsuaq Runestone»"
 tags: [kingittorsuaq, runestein, grønland, upernavik, runer, grønlandsnordboer, varder]
 ---
 

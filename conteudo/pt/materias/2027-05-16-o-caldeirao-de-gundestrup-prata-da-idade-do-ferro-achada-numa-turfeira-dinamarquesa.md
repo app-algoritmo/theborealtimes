@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/caldeirao-de-gundestrup-prata-na-turfeira.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande caldeirão de prata com placas em relevo de figuras com chifres e rodas, desmontado e com as placas empilhadas dentro da base, numa turfeira escura ao amanhecer, com duas pás de madeira encostadas e nevoeiro baixo, sem pessoas."
 fontes:
-  - "Wikipédia em inglês, artigo \"Gundestrup cauldron\" (descoberta, datação, motivos, debate sobre origem)"
-  - "Referências citadas na Wikipédia: Nielsen, Bergquist e Taylor, Olmsted, Hutton"
+  - "Obras de referência em inglês, artigo \"Gundestrup cauldron\" (descoberta, datação, motivos, debate sobre origem)"
+  - "Referências citadas em obras de referência: Nielsen, Bergquist e Taylor, Olmsted, Hutton"
 tags: [caldeirão de gundestrup, rævemose, himmerland, idade do ferro, celtas, dinamarca, turfeira]
 ---
 

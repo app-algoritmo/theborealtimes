@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/olavsoka-a-festa-nacional-faroesa-da-vigilia-de-
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kapproing i Tórshavn, med smale fargerike trebåter fulle av roere, torvtakshus på kaia, en folkemengde i tradisjonelle blå og røde klær og færøyske flagg i sommersolen."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Ólavsøka»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Ólavsøka»"
 tags: [ólavsøka, færøyene, tórshavn, sankt olav, stiklestad, kjededans, kappror, løgting]
 ---
 

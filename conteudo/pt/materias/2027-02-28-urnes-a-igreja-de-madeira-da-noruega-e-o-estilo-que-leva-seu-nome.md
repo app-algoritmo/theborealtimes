@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/urnes-portal-norte-entalhado.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma igreja de madeira escura, de vários telhados sobrepostos de tábuas, à beira de um fiorde sob céu claro, com, em primeiro plano, uma prancha de madeira entalhada em linhas finas, com animais e serpentes entrelaçados num desenho de curvas elegantes."
 fontes:
-  - "Wikipedia, \"Urnes Stave Church\" (local, datas, igrejas anteriores, trechos reaproveitados, estilo Urnes, leituras do portal, UNESCO)"
+  - "Obras de referência sobre \"Urnes Stave Church\" (local, datas, igrejas anteriores, trechos reaproveitados, estilo Urnes, leituras do portal, UNESCO)"
   - "UNESCO, Centro do Patrimônio Mundial, \"Urnes Stave Church\" (descrição, critérios, integridade, autenticidade)"
 tags: [urnes, igreja de madeira, estilo urnes, luster, sognefjord, unesco]
 ---

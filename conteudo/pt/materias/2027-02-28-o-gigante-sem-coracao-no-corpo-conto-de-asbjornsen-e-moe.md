@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gigante-sem-coracao-pedra.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um lago de águas escuras com uma pequena ilha, uma igreja de madeira sobre ela e, diante do espectador, um jovem príncipe de capa azul segurando um ovo na mão, com um lobo cinzento ao lado, um corvo pousado no ombro dele e um salmão saltando na água; ao fundo, a silhueta de um castelo com seis estátuas de pedra no pátio."
 fontes:
-  - "Wikipedia, \"The Giant Who Had No Heart in His Body\" (enredo, Asbjørnsen e Moe, tipo ATU 302, variantes, alma externa)"
+  - "Obras de referência sobre \"The Giant Who Had No Heart in His Body\" (enredo, Asbjørnsen e Moe, tipo ATU 302, variantes, alma externa)"
 tags: [conto popular, asbjørnsen e moe, gigante, coração no ovo, tipo 302, noruega]
 ---
 

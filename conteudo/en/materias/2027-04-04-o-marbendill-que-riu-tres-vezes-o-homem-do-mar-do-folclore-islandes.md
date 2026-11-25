@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a small greenish creature with a beard of seaweed, 
 fontes:
   - "Jón Árnason, \"Þá hló marbendill\", in Íslenzkar þjóðsögur og æfintýri (19th century)"
   - "Hálfs saga ok Hálfsrekka, chapter 7 (\"Frá spám marmennils\")"
-  - "English Wikipedia, article \"Marmennill\", consulted to check the sources (Landnámabók, Jón Árnason, Sävborg 2016)"
+  - "Reference work in English, article \"Marmennill\", consulted to check the sources (Landnámabók, Jón Árnason, Sävborg 2016)"
 tags: [marbendill, marmennill, merman, icelandic folklore, jón árnason, hálfs saga, landnámabók]
 ---
 

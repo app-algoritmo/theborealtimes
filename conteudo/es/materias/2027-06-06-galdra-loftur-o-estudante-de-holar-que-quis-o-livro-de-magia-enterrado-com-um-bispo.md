@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/galdra-loftur-o-estudante-de-holar-e-o-livro-ver
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración nocturna del interior de una iglesia de turba y madera en Islandia, donde un joven estudiante de capa oscura, a la luz de una sola vela, se inclina sobre una tumba abierta en el suelo y saca un libro de tapas rojas, mientras una larga sombra se proyecta en la pared."
 fontes:
-  - "Wikipedia en inglés, artículo «Loftur Þorsteinsson»"
-  - "Wikipedia en inglés, artículo «Rauðskinna»"
+  - "Obras de referencia en inglés, artículo «Loftur Þorsteinsson»"
+  - "Obras de referencia en inglés, artículo «Rauðskinna»"
   - "Kevin J. Hayes, «Folklore and Book Culture» (2016)"
 tags: [galdra-loftur, loftur þorsteinsson, rauðskinna, gottskálk grimmi, hólar, galdr, jóhann sigurjónsson]
 ---

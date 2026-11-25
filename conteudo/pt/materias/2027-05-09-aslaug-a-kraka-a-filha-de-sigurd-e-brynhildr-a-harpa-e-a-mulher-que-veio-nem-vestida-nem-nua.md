@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/aslaug-kraka-a-cebola-e-a-rede.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma jovem de cabelo comprido envolta numa rede de pesca, que cobre os ombros e os braços, mordendo uma cebola e acompanhada por um cão, de pé diante de um homem de capa vermelha e coroa simples, à margem de um fiorde, com a casa baixa de turfa de uma fazenda ao fundo."
 fontes:
-  - "Wikipédia em inglês, artigo \"Aslaug\", com as informações da Edda de Snorri, da saga dos Völsungar e da saga de Ragnar Lodbrok e a análise de Marilyn Jurich (1998)"
+  - "Obras de referência em inglês, artigo \"Aslaug\", com as informações da Edda de Snorri, da saga dos Völsungar e da saga de Ragnar Lodbrok e a análise de Marilyn Jurich (1998)"
 tags: [áslaug, kráka, ragnar lodbrok, sigurd, brynhildr, völsunga saga, heimir, conto da moça esperta]
 ---
 

@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/kjartan-bolli-e-gudrun.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av tre skikkelser på en islandsk torvgård i skumringen: en høy og stolt mann, en annen som ser sidelengs på ham, og en kvinne i mørk slør mellom dem, med et brodert hodeplagg i hendene."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Laxdæla saga», med handlingen, dateringen og håndskriftene"
-  - "Laxdæla saga, islandsk tekst fra 1200-tallet, bevart i Möðruvallabók (midten av 1300-tallet), ifølge Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Laxdæla saga», med handlingen, dateringen og håndskriftene"
+  - "Laxdæla saga, islandsk tekst fra 1200-tallet, bevart i Möðruvallabók (midten av 1300-tallet), ifølge kildene"
 tags: [laxdæla saga, kjartan, bolli, guðrún, olav påfugl, olav tryggvason, islandsk saga]
 ---
 

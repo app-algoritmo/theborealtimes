@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/eiriksmal-erico-no-valhalla.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do interior de um grande salão de madeira com escudos nas paredes e uma porta aberta; Odin, de capa azul, de pé à frente, ao lado de dois guerreiros que se levantam de seus bancos para receber um rei de capa vermelha que chega à porta com cinco outros reis atrás."
 fontes:
-  - "Wikipedia, \"Eiríksmál\" (data, Gunnhild, diálogo entre Odin, Bragi e Sigmund, métrica fornyrðislag, relação com Hákonarmál, Roger de Wendover)"
+  - "Obras de referência sobre \"Eiríksmál\" (data, Gunnhild, diálogo entre Odin, Bragi e Sigmund, métrica fornyrðislag, relação com Hákonarmál, Roger de Wendover)"
 tags: [eiríksmál, érico, valhalla, odin, poesia escáldica, gunnhild]
 ---
 

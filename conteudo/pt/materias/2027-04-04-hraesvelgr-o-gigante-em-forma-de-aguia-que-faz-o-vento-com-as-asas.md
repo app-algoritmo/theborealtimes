@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma enorme águia escura de asas abertas, empoleira
 fontes:
   - "Edda poética, Vafþrúðnismál (estrofe 37)"
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, passagem sobre o vento)"
-  - "Wikipédia em inglês, artigo \"Hræsvelgr\", consultado para conferir as referências e o nome (Orchard 1997, Lindow 2002)"
+  - "Obras de referência em inglês, artigo \"Hræsvelgr\", consultado para conferir as referências e o nome (Orchard 1997, Lindow 2002)"
 tags: [hræsvelgr, vento, águia, vafþrúðnismál, gylfaginning, gigante, odin]
 ---
 

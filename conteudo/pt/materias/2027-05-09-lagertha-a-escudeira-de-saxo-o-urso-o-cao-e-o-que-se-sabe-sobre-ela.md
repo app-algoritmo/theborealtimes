@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de cabelo solto e escudo redondo à frente de uma fileira de guerreiros em ordem de batalha numa praia nublada, com uma linha de navios de proa alta ao fundo e, ao lado dela, um urso e um cão grande deitados e calmos sobre a areia."
 fontes:
   - "Saxo Grammaticus, Gesta Danorum, livro IX (tradução inglesa de Oliver Elton, 1894), passagem sobre Ladgerda"
-  - "Wikipédia em inglês, artigo \"Lagertha\", com as citações de Judith Jesch (2001) e Hilda Ellis Davidson (1979)"
+  - "Obras de referência em inglês, artigo \"Lagertha\", com as citações de Judith Jesch (2001) e Hilda Ellis Davidson (1979)"
 tags: [lagertha, ladgerda, saxo grammaticus, gesta danorum, ragnar lodbrok, mulheres guerreiras, escudeiras, þorgerðr]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a bearded man in a dark cloak on a fjord slope at t
 fontes:
   - "Landnámabók (Book of Settlements), as reported by the Environment Agency of Iceland (Umhverfisstofnun) on Vatnsfjörður"
   - "Umhverfisstofnun, \"Hrafna-Flóki and Flókatóftir\""
-  - "Wikipedia, \"Settlement of Iceland\""
+  - "Reference works on \"Settlement of Iceland\""
 tags: [hrafna-flóki, iceland, landnámabók, vatnsfjörður, hay, settlement of iceland]
 ---
 

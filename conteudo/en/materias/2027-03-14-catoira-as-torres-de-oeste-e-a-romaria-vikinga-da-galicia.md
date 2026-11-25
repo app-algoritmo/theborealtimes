@@ -11,7 +11,7 @@ imagem_alt: "Illustration of two ruined stone towers on the shore of a calm estu
 fontes:
   - "Concello de Catoira, \"Historia\" (catoira.gal)"
   - "Turismo de Galicia, \"Torres de Oeste\""
-  - "Wikipedia (hispanopedia), \"Romería vikinga de Catoira\""
+  - "reference works (hispanopedia), \"Romería vikinga de Catoira\""
 tags: [catoira, torres de oeste, viking pilgrimage, galicia, arousa, vikings in iberia]
 ---
 

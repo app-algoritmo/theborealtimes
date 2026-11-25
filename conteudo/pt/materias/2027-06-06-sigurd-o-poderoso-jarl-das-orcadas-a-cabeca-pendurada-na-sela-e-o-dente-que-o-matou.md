@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/sigurd-o-poderoso-a-cabeca-na-sela-e-o-dente-do-
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo aberto nas Highlands escocesas, onde um guerreiro de cabelo louro e capa vermelha cavalga um cavalo escuro, com uma cabeça cortada amarrada à sela por uma corda, enquanto ao longe se veem os corpos de soldados caídos entre montes de turfa e colinas cobertas de névoa."
 fontes:
-  - "Wikipédia em inglês, artigo \"Sigurd Eysteinsson\""
+  - "Obras de referência em inglês, artigo \"Sigurd Eysteinsson\""
   - "Orkneyinga saga"
   - "Heimskringla, de Snorri Sturluson"
 tags: [sigurd eysteinsson, sigurd o poderoso, jarl das órcadas, máel brigte, orkneyinga saga, heimskringla, cyderhall, dornoch]

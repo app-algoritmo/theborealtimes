@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en mann i kappe som går alene langs en snødekt ve
 fontes:
   - "Hurstwic, «Supernatural Beings» (fylgjur som vokterånder)"
   - "Norse-mythology.org, «The Parts of the Self» (fylgja og hamingja)"
-  - "Wikipedia (speil fra 2016), «Fylgja» (former, sagaeksempler, forskeres hypoteser)"
+  - "oppslagsverk (speil fra 2016), «Fylgja» (former, sagaeksempler, forskeres hypoteser)"
 tags: [fylgja, fylgjur, hamingja, følgeånd, sagaer]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-volsi-e-o-rei-olavo.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av tre reisende i grå kapper av ulik høyde som står foran døra til en tømmergård på et norsk nes i skumringen, med lys fra ildstedet som kommer ut gjennom døra og en hest på beitet ved siden av."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Völsa þáttr», med sammendraget av fortellingen i Flateyjarbók og merknaden om kulten"
+  - "Engelsk Oppslagsverk om artikkelen «Völsa þáttr», med sammendraget av fortellingen i Flateyjarbók og merknaden om kulten"
 tags: [völsa þáttr, völsi, flateyjarbók, olav, finnr árnason, þormóðr kolbrúnarskáld, hedensk ritual, vikingsaga]
 ---
 

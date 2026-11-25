@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/avaldsnes-a-sede-de-harald-cabelo-belo-no-estrei
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un estrecho de mar gris azulado visto desde una colina, con una pequeña iglesia medieval de piedra y una aguja de piedra alta e inclinada junto a ella, mientras un barco largo de vela cuadrada pasa por el canal y, en primer plano, un gran montículo de tierra cubierto de hierba."
 fontes:
-  - "Wikipedia en inglés, artículo «Avaldsnes»"
+  - "Obras de referencia en inglés, artículo «Avaldsnes»"
   - "Nordvegen History Centre, Avaldsnes"
 tags: [avaldsnes, karmøy, karmsundet, harald cabello hermoso, iglesia de san olaf, storhaug, nordvegen, sepultura de barco]
 ---

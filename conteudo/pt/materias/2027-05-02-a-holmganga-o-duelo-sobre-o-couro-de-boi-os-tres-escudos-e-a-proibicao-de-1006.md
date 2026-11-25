@@ -1,6 +1,6 @@
 ---
 titulo: "A hólmganga: o duelo sobre o couro de boi, os três escudos e a proibição de 1006"
-resumo: "A hólmganga era o duelo regulado das sagas nórdicas: um couro de boi no chão, três linhas ao redor, três escudos para cada um e luta até o primeiro sangue. Veja as regras segundo a Wikipédia e a Saga de Kormák, o que o vencedor ganhava e por que a Islândia proibiu o duelo em 1006."
+resumo: "A hólmganga era o duelo regulado das sagas nórdicas: um couro de boi no chão, três linhas ao redor, três escudos para cada um e luta até o primeiro sangue. Veja as regras segundo as fontes e a Saga de Kormák, o que o vencedor ganhava e por que a Islândia proibiu o duelo em 1006."
 secao: "Era Viking"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/holmganga-o-duelo-sobre-o-couro.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois homens de escudo e espada frente a frente num couro de boi esticado no chão de uma planície, com estacas de aveleira nos cantos e linhas riscadas ao redor, enquanto uma pequena multidão observa em silêncio de um morro."
 fontes:
-  - "Wikipédia em inglês, artigo \"Holmgang\", com as regras da Saga de Kormák, a Saga de Egill, o fragmento da lei da Västergötland e a proibição"
-  - "Wikipédia em inglês, artigo \"Gunnlaugr ormstunga\", citado para o duelo com Hrafn Önundarson"
+  - "Obras de referência em inglês, artigo \"Holmgang\", com as regras da Saga de Kormák, a Saga de Egill, o fragmento da lei da Västergötland e a proibição"
+  - "Obras de referência em inglês, artigo \"Gunnlaugr ormstunga\", citado para o duelo com Hrafn Önundarson"
 tags: [hólmganga, holmgang, duelo, saga de kormák, saga de egill, gunnlaugr ormstunga, lei nórdica, sagas islandesas]
 ---
 

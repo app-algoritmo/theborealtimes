@@ -12,7 +12,7 @@ fontes:
   - "Den poetiske Edda, Fáfnismál, strofe 16 og 17 (Bellows' oversettelse)"
   - "Den poetiske Edda, prosaen foran strofe 15 i Reginsmál"
   - "Völsunga saga, passasjen der Sigurd tar hjelmen fra skatten (Byocks oversettelse, 1999)"
-  - "Engelsk Wikipedia, artikkelen «Helm of Awe», med henvisning til Bauer og Pesch (2023)"
+  - "Engelsk Oppslagsverk om artikkelen «Helm of Awe», med henvisning til Bauer og Pesch (2023)"
 tags: [ægishjálmr, fåvne, sigurd, fáfnismál, reginsmál, völsunga saga, hjelm]
 ---
 

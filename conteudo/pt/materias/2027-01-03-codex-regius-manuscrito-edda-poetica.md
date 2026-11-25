@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um grande livro medieval aberto sobre uma mesa de madeira numa sala de pedra com janela estreita, páginas de pergaminho escuro com linhas de escrita apertada e iniciais coloridas; ao lado, uma pena, um tinteiro de chifre e uma vela, e ao fundo uma estante com outros códices e uma bandeira islandesa antiga."
 fontes:
   - "Britannica, \"Codex Regius\" e \"Poetic Edda\" (data, número de poemas, páginas, história do manuscrito)"
-  - "Wikipedia, \"Codex Regius\" (Brynjólfur Sveinsson, envio à Dinamarca, devolução em 1971, lacuna)"
+  - "Obras de referência sobre \"Codex Regius\" (Brynjólfur Sveinsson, envio à Dinamarca, devolução em 1971, lacuna)"
 tags: [codex regius, edda poética, manuscrito, islândia, brynjólfur]
 ---
 

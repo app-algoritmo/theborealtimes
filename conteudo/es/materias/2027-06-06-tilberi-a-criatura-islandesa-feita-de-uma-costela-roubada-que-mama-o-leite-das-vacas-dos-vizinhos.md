@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tilberi-a-criatura-que-rouba-leite-na-islandia.w
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración nocturna de un establo de turba en Islandia, donde una criatura pálida y larga, hecha de lana gris y con un hueso dentro, estira el cuerpo para alcanzar la ubre de una vaca, mientras una ventana de lechería brilla al fondo, con una mujer con pañuelo observando."
 fontes:
-  - "Wikipedia en inglés, artículo «Tilberi»"
+  - "Obras de referencia en inglés, artículo «Tilberi»"
   - "Jacqueline Simpson, «Icelandic Folktales and Legends» (1972)"
   - "Jón Árnason, «Íslenzkar þjóðsögur og æfintýri» (1862-1864)"
   - "Kvideland y Sehmsdorf, «Scandinavian Folk Belief and Legend» (1988)"

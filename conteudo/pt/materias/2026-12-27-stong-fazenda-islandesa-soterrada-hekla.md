@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/stong-fazenda-hekla-cinza.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um vale islandês coberto de cinza e musgo com um vulcão de topo branco ao fundo, onde uma fazenda medieval de turfa, comprida e baixa, tem o telhado verde e uma fileira de pedras nas fundações; no pátio, uma mulher de véu e um homem de capa trazem lenha, e uma pequena igreja de turfa aparece mais além."
 fontes:
-  - "Wikipedia, \"Þjóðveldisbærinn Stöng\" (localização, soterramento em 1104, reconstrução de 1974–1977, igreja de 2000)"
+  - "Obras de referência sobre \"Þjóðveldisbærinn Stöng\" (localização, soterramento em 1104, reconstrução de 1974–1977, igreja de 2000)"
   - "EXARC, \"Þjóðveldisbærinn – Viking farm Stöng\" (escavações dos anos 1930, cerca de 40 fazendas)"
   - "Guide to Iceland, \"Stöng – Ruins of a Real Viking Settlement Manor and the Reconstructed Saga-Age Farm in Iceland\" (escavação de 1939, cômodos, Gaukur Trandilsson, réplica)"
 tags: [stöng, þjórsárdalur, hekla, fazenda viking, gaukur trandilsson]

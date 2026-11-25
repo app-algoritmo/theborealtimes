@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gustavo-vasa-nos-esquis-e-a-origem-da-corrida-va
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un hombre con capa y gorro de lana deslizándose en esquís por un bosque nevado de Suecia, seguido de dos esquiadores veloces a lo lejos, bajo un cielo de invierno pálido, sin sangre y sin armas a la vista."
 fontes:
-  - "Wikipedia en inglés, artículos sobre Gustavo Vasa y la Vasaloppet"
+  - "Obras de referencia en inglés, artículos sobre Gustavo Vasa y la Vasaloppet"
 tags: [gustavo vasa, vasaloppet, esquís, mora, sälen, suecia, 1520, leyenda]
 ---
 

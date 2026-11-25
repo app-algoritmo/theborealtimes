@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en konge i kappe og krone som lener seg mot en stor stein, omgitt av krigere med skjold og spyd på en slagmark, under en himmel der solen er nesten helt dekket og lyset er rødlig"
 fontes:
   - "Snorre Sturlason, *Heimskringla*, sagaen om Olav den hellige (ca. 1230)"
-  - "Oppslaget «Battle of Stiklestad», Wikipedia, med henvisning til NASAs formørkelseskatalog"
+  - "Oppslaget «Battle of Stiklestad», Oppslagsverk om med henvisning til NASAs formørkelseskatalog"
 tags: [stiklestad, olav-haraldsson, snorre, heimskringla, norge, knut, olav-den-hellige]
 ---
 

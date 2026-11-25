@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/valla-ljots-saga-o-vale-de-svarfadardalur.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un valle estrecho del norte de Islandia, con campos verdes entre montañas oscuras, una granja de turba en el centro y, ante ella, un jefe con capa gris y cabello canoso, de pie, frente a otro hombre poderoso con manto azul, a caballo, con una cruz de madera al fondo."
 fontes:
-  - "Wikipedia en inglés, artículo «Valla-Ljóts saga»"
+  - "Obras de referencia en inglés, artículo «Valla-Ljóts saga»"
   - "Peter A. Jorgensen (ed.), «Valla-Ljóts Saga», edición bilingüe del manuscrito AM 161 fol. (1991)"
   - "Marlene Ciklamini (1963), «The Old Icelandic Duel»"
 tags: [valla-ljóts saga, ljót ljótólfsson, guðmundr inn ríki, svarfaðardalur, sagas islandesas, conversión, am 161 fol.]

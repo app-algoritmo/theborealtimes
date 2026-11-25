@@ -13,7 +13,7 @@ fontes:
   - "Snorri Sturluson, Prose Edda (Gylfaginning, passages on Sigyn and on Loki's binding)"
   - "Snorri Sturluson, Prose Edda (Skáldskaparmál, kennings for Loki)"
   - "Gosforth Cross, Cumbria, England (10th century), as a possible image of the scene"
-  - "English Wikipedia, article \"Sigyn\", consulted to check the passages"
+  - "Reference work in English, article \"Sigyn\", consulted to check the passages"
 tags: [sigyn, loki, narfi, váli, völuspá, lokasenna, gosforth cross]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a small river in a green valley, with a tall fair-b
 fontes:
   - "*Anglo-Saxon Chronicle*, entries for the years 878 and 890"
   - "*Annals of St Neots*, for Guthrum's burial at Hadleigh (Suffolk)"
-  - "Wikipedia (English), \"Guthrum\", with the sources it cites"
+  - "reference works (English), \"Guthrum\", with the sources it cites"
 tags: [guthrum, alfred, wedmore, 878, danelaw]
 ---
 

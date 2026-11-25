@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/sigurd-o-poderoso-a-cabeca-na-sela-e-o-dente-do-
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et åpent landskap i de skotske høylandene, der en lyshåret kriger i rød kappe rir på en mørk hest, med et avhogd hode bundet til salen med en snor, mens man i det fjerne ser falne soldater mellom torvhauger og tåkelagte åser."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Sigurd Eysteinsson»"
+  - "Engelsk Oppslagsverk om artikkelen «Sigurd Eysteinsson»"
   - "Orkneyinga saga"
   - "Heimskringla, av Snorre Sturlason"
 tags: [sigurd eysteinsson, sigurd den mektige, jarl av orknøyene, máel brigte, orkneyinga saga, heimskringla, cyderhall, dornoch]

@@ -11,7 +11,7 @@ imagem_alt: "Illustration split in two: above, a bright clearing with slender go
 fontes:
   - "Snorri Sturluson, Prose Edda (Gylfaginning)"
   - "Grímnismál, stanza 5, Poetic Edda (translation by Carolyne Larrington, 1996)"
-  - "Wikipedia, \"Álfheimr\""
+  - "Reference works on \"Álfheimr\""
 tags: [álfheimr, elves, freyr, snorri, grímnismál, norse mythology]
 ---
 

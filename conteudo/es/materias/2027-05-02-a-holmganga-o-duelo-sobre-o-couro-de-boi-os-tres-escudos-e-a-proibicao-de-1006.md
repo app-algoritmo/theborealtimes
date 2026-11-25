@@ -1,6 +1,6 @@
 ---
 titulo: "La hólmganga: el duelo sobre el cuero de buey, los tres escudos y la prohibición de 1006"
-resumo: "La hólmganga era el duelo reglado de las sagas nórdicas: un cuero de buey en el suelo, tres bordes alrededor, tres escudos cada uno y lucha hasta la primera sangre. Mira las reglas según Wikipedia y la Saga de Kormák, qué ganaba el vencedor y por qué Islandia prohibió el duelo en 1006."
+resumo: "La hólmganga era el duelo reglado de las sagas nórdicas: un cuero de buey en el suelo, tres bordes alrededor, tres escudos cada uno y lucha hasta la primera sangre. Mira las reglas según las fuentes y la Saga de Kormák, qué ganaba el vencedor y por qué Islandia prohibió el duelo en 1006."
 secao: "Era vikinga"
 natureza: "Saga o fuente medieval"
 autor: "Paulo Fernando de Barros"
@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/holmganga-o-duelo-sobre-o-couro.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de dos hombres con escudo y espada frente a frente sobre un cuero de buey extendido en el suelo de una llanura, con estacas de avellano en las esquinas y líneas marcadas alrededor, mientras un pequeño grupo de gente observa en silencio desde una loma."
 fontes:
-  - "Wikipedia en inglés, artículo «Holmgang», con las reglas de la Saga de Kormák, la Saga de Egill, el fragmento del Västgötalagen y la prohibición"
-  - "Wikipedia en inglés, artículo «Gunnlaugr ormstunga», citado para el duelo con Hrafn Önundarson"
+  - "Obras de referencia en inglés, artículo «Holmgang», con las reglas de la Saga de Kormák, la Saga de Egill, el fragmento del Västgötalagen y la prohibición"
+  - "Obras de referencia en inglés, artículo «Gunnlaugr ormstunga», citado para el duelo con Hrafn Önundarson"
 tags: [hólmganga, holmgang, duelo, saga de kormák, saga de egill, gunnlaugr ormstunga, ley nórdica, sagas islandesas]
 ---
 

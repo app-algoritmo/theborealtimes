@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/rindr-mae-de-vali.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mulher de pé diante de uma árvore de casca clara, com uma lasca de madeira marcada por sinais riscados caída aos seus pés; ao fundo, um vulto de capuz e chapéu de abas largas aguarda entre troncos de bétulas, num inverno de céu cinzento."
 fontes:
-  - "Wikipedia, \"Rindr\" (Gylfaginning, Sigurðardrápa de Kormákr Ögmundarson, Baldrs draumar, Grógaldr, Gesta Danorum de Saxo, etimologia)"
+  - "Obras de referência sobre \"Rindr\" (Gylfaginning, Sigurðardrápa de Kormákr Ögmundarson, Baldrs draumar, Grógaldr, Gesta Danorum de Saxo, etimologia)"
 tags: [rindr, váli, odin, saxo, rinda, baldr]
 ---
 

@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en jente i lys kjole og lyse fletter som gråter, sittende på en stein ved kanten av en nordisk innsjø i skumringen, med bjerketrær i bakgrunnen; i vannet hopper en liten sølvfarget fisk nær en gammel grånet mann som sitter i en båt med en fiskestang i hånden."
 fontes:
   - "Elias Lönnrot, *Kalevala* (1835, gammel utgave; 1849, endelig utgave), Runo 4"
-  - "Wikipedia (engelsk), «Aino (mythology)», med henvisninger til maleriet av Akseli Gallen-Kallela"
+  - "oppslagsverk (engelsk), «Aino (mythology)», med henvisninger til maleriet av Akseli Gallen-Kallela"
   - "Akseli Gallen-Kallela, *Aino-triptyykki* (1891)"
 tags: [aino, kalevala, väinämöinen, joukahainen, gallen-kallela]
 ---

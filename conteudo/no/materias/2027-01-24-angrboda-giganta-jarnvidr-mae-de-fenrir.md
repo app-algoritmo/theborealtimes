@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/angrboda-giganta-jarnvidr.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en jotunkvinne i mørk kappe og med langt hår som sitter i hjertet av en skog med trær med metallgrå stammer og blader som ligner blad av kniver; ved føttene hennes en ung ulv, en sammenrullet slange og en jente med ansikt halvt lyst, halvt skyggefullt; kaldt måneskinn mellom stammene og rimdekte røtter."
 fontes:
-  - "Wikipedia, «Angrboda» (Völuspá hin skamma, Gylfaginning, Völuspá strofe 40 og 42, Járnviðr, barn, navnets betydning, hypoteser av Salus og Taylor)"
+  - "Oppslagsverk om «Angrboda» (Völuspá hin skamma, Gylfaginning, Völuspá strofe 40 og 42, Járnviðr, barn, navnets betydning, hypoteser av Salus og Taylor)"
 tags: [angrboða, járnviðr, fenrir, loke, völuspá]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et langskip med mørkt skrog som ligger for anker v
 fontes:
   - "Orknøyingenes saga (skrevet omkring 1200 av en ukjent islandsk skriver)"
   - "Caithness.org, artikkel om Swein Asleifsson, med sitater fra sagaen"
-  - "Engelsk Wikipedia, artikkelen «Sweyn Asleifsson», for årstall og episoder"
+  - "Engelsk Oppslagsverk om artikkelen «Sweyn Asleifsson», for årstall og episoder"
 tags: [svein asleifarson, sweyn asleifsson, orknøyingenes saga, orknøyene, gairsay, dublin, viking]
 ---
 

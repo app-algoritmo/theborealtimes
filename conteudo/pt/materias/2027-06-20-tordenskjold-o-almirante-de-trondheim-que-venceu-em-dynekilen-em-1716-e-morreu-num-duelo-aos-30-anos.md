@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tordenskjold-o-almirante-de-trondheim-que-venceu
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de duas fragatas e navios menores de madeira entrando num estreito fiorde rochoso, com canhões disparando contra navios de carga de velas claras ancorados junto à costa, fumaça no ar e, no convés de proa, um jovem oficial de casaca azul apontando para a frente."
 fontes:
-  - "Wikipédia em inglês, artigo \"Peter Wessel Tordenskjold\""
+  - "Obras de referência em inglês, artigo \"Peter Wessel Tordenskjold\""
 tags: [tordenskjold, peter wessel, dynekilen, grande guerra do norte, carlos xii, fredriksten, almirante]
 ---
 

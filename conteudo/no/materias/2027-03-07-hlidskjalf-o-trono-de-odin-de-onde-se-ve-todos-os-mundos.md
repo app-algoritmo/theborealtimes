@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hlidskjalf-trono-de-odin.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et svært høyt sete i mørkt tre i en hall med sølvtak, der en gråskjegget gud i blå kappe ser gjennom en åpning ut over et enormt landskap av fjell, hav og skyer; to ravner sitter på armlenene."
 fontes:
-  - "Wikipedia-artikkelen «Hlidskjalf» (Grímnismál, Skírnismál, Gylfaginning)"
+  - "Oppslagsverk om «Hlidskjalf» (Grímnismál, Skírnismál, Gylfaginning)"
   - "Snorre Sturlason, Den yngre Edda (Gylfaginning)"
   - "Den eldre Edda (Grímnismál og Skírnismál)"
 tags: [hliðskjálf, odin, frøy, gerd, valaskjalv, norrøn mytologi]

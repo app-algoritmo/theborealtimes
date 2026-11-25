@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a flat slab of pale limestone seen from above, with
 fontes:
   - "Terje Spurkland, Norwegian Runes and Runic Inscriptions (2005)"
   - "Klaus Düwel and Wilhelm Heizmann, \"Das ältere Fuþark\" (2006)"
-  - "Wikipedia, \"Kylver Stone\""
+  - "Reference works on \"Kylver Stone\""
 tags: [kylver stone, futhark, runes, gotland, elder futhark, runic writing]
 ---
 

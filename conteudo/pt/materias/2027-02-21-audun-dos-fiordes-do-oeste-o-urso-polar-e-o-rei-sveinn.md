@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/audun-urso-polar-cais.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem de capa simples caminhando por um cais coberto de neve, puxando com uma corrente um grande urso-polar; ao fundo, um navio de proa alta e o contorno de montanhas brancas sob um céu pálido."
 fontes:
-  - "Wikipedia, \"The Tale of Auðun of the West Fjords\" (resumo, manuscritos, datas, estudiosos citados)"
+  - "Obras de referência sobre \"The Tale of Auðun of the West Fjords\" (resumo, manuscritos, datas, estudiosos citados)"
   - "WE Vikings, texto sobre o Auðunar þáttr vestfirzka (resumo do enredo)"
 tags: [auðun, auðunar þáttr, urso-polar, sveinn, haraldr, morkinskinna, flateyjarbók]
 ---

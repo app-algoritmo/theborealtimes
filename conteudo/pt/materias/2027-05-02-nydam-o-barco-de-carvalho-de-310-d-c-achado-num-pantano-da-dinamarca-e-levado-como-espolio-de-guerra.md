@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/nydam-o-barco-do-pantano.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um pântano escuro ao amanhecer, com um longo barco de carvalho de casco em tábuas sobrepostas emergindo da lama, cercado por homens de chapéu e casaco do século XIX com pás, e ao fundo uma casa branca pequena e um céu cinzento."
 fontes:
-  - "Wikipédia em inglês, artigo \"Nydam Mose\", com as escavações de 1859 a 1863 e de 1989 em diante, a datação e a localização atual do barco"
-  - "Museu Nacional da Dinamarca e Sociedade Nydam, citados na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Nydam Mose\", com as escavações de 1859 a 1863 e de 1989 em diante, a datação e a localização atual do barco"
+  - "Museu Nacional da Dinamarca e Sociedade Nydam, citados em obras de referência"
 tags: [nydam, barco de nydam, nydam mose, conrad engelhardt, sønderborg, gottorf, idade do ferro, sacrifício]
 ---
 

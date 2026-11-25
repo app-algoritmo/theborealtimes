@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/holger-danske-kronborg.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um guerreiro de barba e cabelos brancos, de cota de malha e elmo, sentado dormindo sobre uma mesa de pedra numa cripta sob um castelo renascentista à beira-mar, com a barba atravessando a mesa e a espada apoiada no joelho; ao fundo, uma escada de pedra e uma luz de tocha, e uma pequena bandeira dinamarquesa em um canto."
 fontes:
-  - "Wikipedia, \"Holger Danske\" (Chanson de Roland, La Chevalerie Ogier de Danemarche, Karlamagnús saga, Christiern Pedersen em 1534, lenda de Kronborg, Keightley, Thiele, Andersen, estátua de 1907, ópera de Kunzen, Ingemann, resistência dinamarquesa, possíveis modelos históricos)"
+  - "Obras de referência sobre \"Holger Danske\" (Chanson de Roland, La Chevalerie Ogier de Danemarche, Karlamagnús saga, Christiern Pedersen em 1534, lenda de Kronborg, Keightley, Thiele, Andersen, estátua de 1907, ópera de Kunzen, Ingemann, resistência dinamarquesa, possíveis modelos históricos)"
 tags: [holger danske, ogier o dinamarquês, kronborg, chanson de roland, carlos magno, dinamarca]
 ---
 

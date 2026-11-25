@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um navio nórdico de vela quadrada no meio de um mar cinzento envolto em névoa; na proa, um capitão aponta para uma costa verde e baixa, e a tripulação o olha pedindo que desembarque, mas ele segura o leme firme."
 fontes:
   - "Grænlendinga saga (Saga dos Groenlandeses)"
-  - "Wikipedia, \"Bjarni Herjólfsson\""
+  - "Obras de referência sobre \"Bjarni Herjólfsson\""
   - "Dictionary of Canadian Biography, \"Bjarni Herjólfsson\""
 tags: [bjarni herjólfsson, saga dos groenlandeses, groenlândia, américa do norte, navegação, herjólfsnes, leif eriksson]
 ---

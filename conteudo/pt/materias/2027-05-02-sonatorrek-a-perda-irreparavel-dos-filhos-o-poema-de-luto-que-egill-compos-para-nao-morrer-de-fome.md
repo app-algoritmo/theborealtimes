@@ -1,6 +1,6 @@
 ---
 titulo: "Sonatorrek, a perda irreparável dos filhos: o poema de luto que Egill compôs para não morrer de fome"
-resumo: "Na Saga de Egill, o poeta perde dois filhos, quer se deixar morrer e é convencido pela filha a compor um poema. Veja o que a Wikipédia diz da estrutura do Sonatorrek, da métrica, das referências a Odin, Ægir e Rán, de como ele chegou até nós e do que os estudiosos dizem dele."
+resumo: "Na Saga de Egill, o poeta perde dois filhos, quer se deixar morrer e é convencido pela filha a compor um poema. Veja o que as fontes dizem da estrutura do Sonatorrek, da métrica, das referências a Odin, Ægir e Rán, de como ele chegou até nós e do que os estudiosos dizem dele."
 secao: "Sagas e Reis"
 natureza: "Saga ou fonte medieval"
 autor: "Paulo Fernando de Barros"
@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/sonatorrek-o-poema-do-pai-em-luto.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um homem velho e forte de barba grisalha sentado à beira de uma cama de madeira, de cabeça baixa, com uma jovem de cabelo trançado ao lado oferecendo-lhe um bastão de madeira com runas entalhadas, numa casa de pedra e turfa iluminada por uma pequena lamparina."
 fontes:
-  - "Wikipédia em inglês, artigo \"Sonatorrek\", com a estrutura em sete partes, a métrica, a transmissão dos manuscritos e as opiniões dos estudiosos"
-  - "Saga de Egill (Egils saga Skalla-Grímssonar), composta por volta de 1220 a 1240, citada na Wikipédia"
-  - "Margaret Clunies Ross, Peter Hallberg e Carolyne Larrington, citados na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Sonatorrek\", com a estrutura em sete partes, a métrica, a transmissão dos manuscritos e as opiniões dos estudiosos"
+  - "Saga de Egill (Egils saga Skalla-Grímssonar), composta por volta de 1220 a 1240, citada em obras de referência"
+  - "Margaret Clunies Ross, Peter Hallberg e Carolyne Larrington, citados em obras de referência"
 tags: [sonatorrek, egill skallagrímsson, egils saga, poesia escáldica, kviðuháttr, böðvarr, óðinn, rán]
 ---
 

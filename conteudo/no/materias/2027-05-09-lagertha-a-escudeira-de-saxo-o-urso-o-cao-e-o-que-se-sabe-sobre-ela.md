@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne med utslått hår og et rundt skjold foran en rekke krigere i slagorden på en overskyet strand, med en rekke høystavnede skip i bakgrunnen og, ved siden av henne, en bjørn og en stor hund som ligger rolige i sanden."
 fontes:
   - "Saxo Grammaticus, Gesta Danorum, bok IX (engelsk oversettelse av Oliver Elton, 1894), passasjen om Ladgerda"
-  - "Engelskspråklig Wikipedia, artikkelen «Lagertha», med sitatene fra Judith Jesch (2001) og Hilda Ellis Davidson (1979)"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Lagertha», med sitatene fra Judith Jesch (2001) og Hilda Ellis Davidson (1979)"
 tags: [lagertha, ladgerda, saxo grammaticus, gesta danorum, ragnar lodbrok, kvinnelige krigere, skjoldmøer, þorgerðr]
 ---
 

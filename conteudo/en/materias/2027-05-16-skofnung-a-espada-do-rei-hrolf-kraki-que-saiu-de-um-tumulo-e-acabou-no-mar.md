@@ -12,7 +12,7 @@ fontes:
   - "Laxdœla saga (13th century), chapters on Eiðr, Þorkell Eyjólfsson and Gellir"
   - "Kormáks saga, chapters 9 and 10, on the duel with Bersi"
   - "Hrólfs saga kraka (14th century), which calls Skofnung the best of the swords of the North"
-  - "English Wikipedia, article \"Skofnung\", with the references to Oakeshott (1991) and Whetter and McDonald (2006)"
+  - "Reference work in English, article \"Skofnung\", with the references to Oakeshott (1991) and Whetter and McDonald (2006)"
 tags: [skofnung, hrólf kraki, laxdæla saga, kormáks saga, swords, eiðr, þorkell eyjólfsson, gellir]
 ---
 

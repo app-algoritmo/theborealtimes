@@ -1,6 +1,6 @@
 ---
 titulo: "Sonatorrek, la pérdida irreparable de los hijos: el poema de duelo que Egill compuso para no morir de hambre"
-resumo: "En la Saga de Egill, el poeta pierde a dos hijos, quiere dejarse morir y su hija lo convence de componer un poema. Mira qué dice Wikipedia de la estructura del Sonatorrek, su métrica, sus referencias a Odín, Ægir y Rán, cómo llegó hasta nosotros y qué dicen los estudiosos."
+resumo: "En la Saga de Egill, el poeta pierde a dos hijos, quiere dejarse morir y su hija lo convence de componer un poema. Mira qué dicen las fuentes de la estructura del Sonatorrek, su métrica, sus referencias a Odín, Ægir y Rán, cómo llegó hasta nosotros y qué dicen los estudiosos."
 secao: "Sagas y reyes"
 natureza: "Saga o fuente medieval"
 autor: "Paulo Fernando de Barros"
@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/sonatorrek-o-poema-do-pai-em-luto.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un hombre mayor y fuerte de barba gris sentado al borde de una cama de madera con la cabeza gacha, con una joven de pelo trenzado a su lado que le ofrece un bastón de madera con runas talladas, en una casa de piedra y turba iluminada por una pequeña lámpara."
 fontes:
-  - "Wikipedia en inglés, artículo «Sonatorrek», con la estructura en siete partes, la métrica, la transmisión de los manuscritos y las opiniones de los estudiosos"
-  - "Saga de Egill (Egils saga Skalla-Grímssonar), compuesta hacia 1220 a 1240, citada en Wikipedia"
-  - "Margaret Clunies Ross, Peter Hallberg y Carolyne Larrington, citados en Wikipedia"
+  - "Obras de referencia en inglés, artículo «Sonatorrek», con la estructura en siete partes, la métrica, la transmisión de los manuscritos y las opiniones de los estudiosos"
+  - "Saga de Egill (Egils saga Skalla-Grímssonar), compuesta hacia 1220 a 1240, citada en obras de referencia"
+  - "Margaret Clunies Ross, Peter Hallberg y Carolyne Larrington, citados en obras de referencia"
 tags: [sonatorrek, egill skallagrímsson, egils saga, poesía escáldica, kviðuháttr, böðvarr, óðinn, rán]
 ---
 

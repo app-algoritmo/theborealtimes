@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en norsk gårdskjeller i lyktelys, med en felespiller med utsmykket fele som sitter på en ølsylinder; under bordet en kløvd hov der foten skulle vært, og øverst i trappa en mann med brett som mister bollen."
 fontes:
   - "Norsk Kornølfestival, «Fanitullen» (artikkel 18. juni 2019)"
-  - "Wikipedia, «Hardanger fiddle»"
+  - "Oppslagsverk om «Hardanger fiddle»"
 tags: [fanitullen, hardingfele, hol, hallingdal, fanden, fele, norsk folketro]
 ---
 

@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/lif-bosque-de-hoddmimir.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um bosque coberto de neve ao amanhecer, com duas figuras, um homem e uma mulher, abrigadas entre as raízes grossas de uma grande árvore e bebendo o orvalho de folhas ao primeiro sol, enquanto ao longe o céu se tinge de vermelho."
 fontes:
-  - "Wikipedia, \"Líf and Lífþrasir\" (passagens da Vafþrúðnismál e da Gylfaginning, nomes, interpretações de Larrington e Simek)"
-  - "Wikipedia, \"Hoddmímis holt\" (o bosque de Hoddmímir, relação com Yggdrasil, lendas de origem em árvores)"
+  - "Obras de referência sobre \"Líf and Lífþrasir\" (passagens da Vafþrúðnismál e da Gylfaginning, nomes, interpretações de Larrington e Simek)"
+  - "Obras de referência sobre \"Hoddmímis holt\" (o bosque de Hoddmímir, relação com Yggdrasil, lendas de origem em árvores)"
 tags: [líf, lífþrasir, hoddmímis holt, fimbulvetr, vafþrúðnismál, gylfaginning, yggdrasil]
 ---
 

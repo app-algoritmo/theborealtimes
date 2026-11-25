@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/helgo-buda-de-bronze.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et utgravingsbord under en presenning, ved bredden av en rolig innsjø med mørkt vann, med en bronsestatuett av Buddha sittende på en lotusblomst i forgrunnen, ved siden av en arkeologs graveskje og en metallholk; i bakgrunnen en bjørkeskog og en trebåt."
 fontes:
-  - "Wikipedia-artikkelen «Helgö»"
-  - "Wikipedia-artikkelen «Helgö Buddha»"
+  - "Oppslagsverk om «Helgö»"
+  - "Oppslagsverk om «Helgö Buddha»"
   - "Statens historiska museum, Stockholm, der gjenstanden er utstilt, slik det er sitert i artiklene"
 tags: [helgö, buddha, mälaren, sverige, handel, arkeologi]
 ---

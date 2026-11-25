@@ -11,7 +11,7 @@ imagem_alt: "Ilustração dividida em dois: no alto, uma clareira clara com figu
 fontes:
   - "Snorri Sturluson, Edda em Prosa (Gylfaginning)"
   - "Grímnismál, estrofe 5, Edda Poética (tradução de Carolyne Larrington, 1996)"
-  - "Wikipedia, \"Álfheimr\""
+  - "Obras de referência sobre \"Álfheimr\""
 tags: [álfheimr, elfos, freyr, snorri, grímnismál, mitologia nórdica]
 ---
 

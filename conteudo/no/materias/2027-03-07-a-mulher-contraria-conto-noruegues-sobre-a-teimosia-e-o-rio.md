@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/mulher-contraria-rio.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gyllen kornåker ved en elv med klart vann, der en bonde i hvit skjorte knær på bredden og ser oppover elva, mens noe lyst langt borte, nær en liten foss, flyter mot strømmen; naboer med stenger går nedover bredden i bakgrunnen."
 fontes:
-  - "Wikipedia-artikkelen «The Contrary-Minded Woman»"
+  - "Oppslagsverk om «The Contrary-Minded Woman»"
   - "Asbjørnsen og Moe, Norske Folkeeventyr, Ny Samling (1852), slik det er sitert i artikkelen"
   - "Oversettelser av Dasent («Goody 'Gainst-the-stream»), Braekstad og Iverson, slik de er sitert i artikkelen"
 tags: [kjerringa mot strømmen, norsk eventyr, asbjørnsen og moe, sta, folketro, humor]

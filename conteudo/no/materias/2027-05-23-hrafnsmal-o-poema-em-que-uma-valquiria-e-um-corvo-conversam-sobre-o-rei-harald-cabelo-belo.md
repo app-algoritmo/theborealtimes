@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/hrafnsmal-a-valquiria-e-o-corvo.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i mørk kappe og hjelm som sitter på en stein på en høyde ved daggry og snakker med en stor svart ravn på armen hennes, med en fjord og høystavnede skip i det fjerne."
 fontes:
-  - "Engelsk Wikipedia, artiklene «Hrafnsmál» og «Haustlöng»"
-  - "R. D. Fulk, utgave av diktet (2012), som Wikipedia viser til"
+  - "Engelsk Oppslagsverk om artiklene «Hrafnsmál» og «Haustlöng»"
+  - "R. D. Fulk, utgave av diktet (2012), som oppslagsverk viser til"
 tags: [hrafnsmál, haraldskvæði, þorbjörn hornklofi, harald hårfagre, valkyrje, ravn, skaldedikt]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/kjalnesinga-saga-bui-esja-e-o-templo-em-chamas.w
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un joven alto y pálido, con una honda de cuero en la mano, de pie ante un templo de madera en llamas por la noche, con una gran mujer troll de pelo largo y oscuro detrás de él en la ladera del monte, bajo un cielo lleno de chispas."
 fontes:
-  - "Wikipedia en inglés, artículo «Kjalnesinga saga», y un comentario en un blog sobre la saga"
+  - "Obras de referencia en inglés, artículo «Kjalnesinga saga», y un comentario en un blog sobre la saga"
   - "Manuscrito AM 471 4to"
   - "Traducción de Waggoner (2010)"
 tags: [kjalnesinga saga, búi andríðsson, esja, jökull, harald cabellera hermosa, sagas islandesas, templo, am 471 4to]

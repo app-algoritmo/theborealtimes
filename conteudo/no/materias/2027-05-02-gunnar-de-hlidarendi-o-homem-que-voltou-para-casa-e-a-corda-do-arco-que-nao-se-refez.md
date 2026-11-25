@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høy mann i blå kappe som står på en grusvei og ser tilbake mot en grønn li og en gård med torvtak i det fjerne, mens en hest ved siden av ham løfter hodet og en annen mann går videre mot et skip."
 fontes:
   - "Njåls saga (Brennu-Njáls saga), engelsk oversettelse av George Webbe Dasent, The Story of Burnt Njal, Project Gutenberg, kap. 48, 55 og 72 til 78"
-  - "Engelsk Wikipedia, artikkelen «Gunnar Hámundarson»"
+  - "Engelsk Oppslagsverk om artikkelen «Gunnar Hámundarson»"
   - "Hurstwic, siden «Gunnar Hámundarson», for ekteskapet, døden og motstandernes avsluttende ord"
 tags: [gunnar hámundarson, njåls saga, hlíðarendi, lithend, hallgerðr, njål, kolskeggr, islendingesagaer]
 ---

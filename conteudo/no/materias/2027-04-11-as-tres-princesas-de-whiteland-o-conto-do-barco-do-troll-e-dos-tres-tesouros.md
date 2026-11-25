@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en ung konge som står på en vindfull hei mellom t
 fontes:
   - "Peter Christen Asbjørnsen og Jørgen Moe, Norske Folkeeventyr"
   - "George Webbe Dasent, Popular Tales from the Norse, «The Three Princesses of Whiteland» (engelsk oversettelse)"
-  - "Engelsk Wikipedia, artikkelen «The Three Princesses of Whiteland», for klassifiseringen av eventyrtypen"
+  - "Engelsk Oppslagsverk om artikkelen «The Three Princesses of Whiteland», for klassifiseringen av eventyrtypen"
 tags: [de tre prinsessene i whiteland, asbjørnsen, moe, dasent, norske eventyr, atu 400]
 ---
 

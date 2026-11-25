@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/jon-arason-o-ultimo-bispo-catolico-da-islandia-d
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un obispo de barba canosa, con mitra y capa morada, de pie ante una iglesia de turba y madera en el invierno islandés, con dos jóvenes a su lado y soldados con lanzas detrás, bajo un cielo pesado."
 fontes:
-  - "Wikipedia en inglés, artículo «Jón Arason»"
+  - "Obras de referencia en inglés, artículo «Jón Arason»"
 tags: [jón arason, hólar, reforma luterana, islandia, cristián iii, sauðafell, skálholt, obispo]
 ---
 

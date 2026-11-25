@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lav mann i ullhette foran en delvis svidd bjerkeskog, med røyk som stiger og seks høvdinger i fargede kapper på en stein i bakgrunnen, under en vårhimmel på Island."
 fontes:
   - "Ölkofra þáttr (Möðruvallabók, 1300-tallet), i en engelsk oversettelse jeg leste på siden «The Saga of Ale-Hood» (wevikings.com)"
-  - "Wikipedia på engelsk, artikkelen «Ölkofra þáttr», brukt for å kontrollere håndskrifter, tradisjoner og studier"
+  - "oppslagsverk på engelsk, artikkelen «Ölkofra þáttr», brukt for å kontrollere håndskrifter, tradisjoner og studier"
 tags: [ölkofra þáttr, ale-hood, alltinget, godaskógr, skafti, snorre, juridisk satire]
 ---
 

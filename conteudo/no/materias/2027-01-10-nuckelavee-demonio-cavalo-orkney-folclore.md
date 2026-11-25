@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/nuckelavee-cavalo-orkney.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kysthei på Orknøyene i skumringen, med grått hav bak og et enormt hesteaktig vesen, uten hud og med blottlagte muskler, med ett rødt øye og en menneskekropp på ryggen, som går fram mellom steiner; i forgrunnen løper en bonde med lykt mot en bekk som skjærer over marka."
 fontes:
-  - "Wikipedia, «Nuckelavee» (opphav, opptegnelser av Walter Traill Dennison, utseende, svakhet, Mither o' the Sea)"
+  - "Oppslagsverk om «Nuckelavee» (opphav, opptegnelser av Walter Traill Dennison, utseende, svakhet, Mither o' the Sea)"
 tags: [nuckelavee, orknøyene, folketro, ferskvann, mither o' the sea]
 ---
 

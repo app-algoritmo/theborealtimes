@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um homem barbudo de capa escura numa encosta de fio
 fontes:
   - "Landnámabók (Livro dos Povoamentos), conforme relatada pela Agência Ambiental da Islândia (Umhverfisstofnun) sobre Vatnsfjörður"
   - "Umhverfisstofnun, \"Hrafna-Flóki and Flókatóftir\""
-  - "Wikipedia, \"Settlement of Iceland\""
+  - "Obras de referência sobre \"Settlement of Iceland\""
 tags: [hrafna-flóki, islândia, landnámabók, vatnsfjörður, feno, povoamento da islândia]
 ---
 

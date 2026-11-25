@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/selkie-foca-rochas.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kyst med svarte skjær i skumringen, med en gråsel som ligger på en stein ved vannkanten og ved siden av et selskinn som er lagt igjen på berget; i bakgrunnen en ung kvinne med vått hår som ser utover havet."
 fontes:
-  - "Wikipedia, «Selkie» (navn, varianter, Orknøyene, Unst, Island, Færøyene, Sule Skerry, teorier)"
+  - "Oppslagsverk om «Selkie» (navn, varianter, Orknøyene, Unst, Island, Færøyene, Sule Skerry, teorier)"
   - "My Voyage Scotland (myvoyagescotland.com), tekst om selkier (generell beskrivelse og fortellingen om det stjålne skinnet)"
 tags: [selkie, sel, orknøyene, shetland, selch, kópakonan, sule skerry]
 ---

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ingigerdr-a-princesa-de-ladoga.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kvinne i blå kappe og hvitt slør som står i baugen på en bred tredbåt på en rolig elv og ser mot en by med trevegger og kupler på bredden, med en lysskjegget mann med krone som vinker fra kaia og en lastebåt bak henne."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Ingegerd Olofsdotter», med opplysningene fra Norsk biografisk leksikon, den russiske krøniken (oversatt av Cross og Sherbowitz-Wetzor) og studiene til Nazarenko, Korogodina og Sirenov"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Ingegerd Olofsdotter», med opplysningene fra Norsk biografisk leksikon, den russiske krøniken (oversatt av Cross og Sherbowitz-Wetzor) og studiene til Nazarenko, Korogodina og Sirenov"
 tags: [ingigerðr, ingegerd, jaroslav den vise, ladoga, kiev, olof skötkonung, ragnvald ulfsson, kievriket]
 ---
 

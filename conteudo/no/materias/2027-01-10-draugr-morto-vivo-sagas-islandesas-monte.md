@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/draugr-morto-vivo-monte.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gresskledd gravhaug en vinternatt på Island, med et blekt blåaktig skjær som kommer ut av jorda og, foran, en høy oppsvulmet skikkelse, skiferfarget i huden og med revne klær, som kryper ut av en åpning i steinene; langt borte en torvgård med ett opplyst vindu og snødekte fjell under stjernehimmel."
 fontes:
-  - "Wikipedia, «Draugr» (Grettis saga, Laxdæla saga, Eyrbyggja saga, Hrómundar saga Gripssonar, Harðar saga; trekk, Glámr, måter å uskadeliggjøre, gravhauger)"
+  - "Oppslagsverk om «Draugr» (Grettis saga, Laxdæla saga, Eyrbyggja saga, Hrómundar saga Gripssonar, Harðar saga; trekk, Glámr, måter å uskadeliggjøre, gravhauger)"
 tags: [draug, levende døde, islandske sagaer, grettis saga, gravhaug]
 ---
 

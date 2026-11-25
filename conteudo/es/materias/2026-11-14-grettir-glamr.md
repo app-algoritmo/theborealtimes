@@ -10,7 +10,7 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un guerrero fuerte, en medio de un salón de madera con el techo derrumbándose, ante una figura pálida y alta caída de espaldas, cuyos ojos brillan bajo la luz de la luna que surge entre las nubes"
 fontes:
   - "Grettis saga Ásmundarsonar, capítulos 32 a 35 (siglo XIV), en traducción de William Morris y Eiríkr Magnússon, 1869"
-  - "Artículo «Grettis saga», Wikipedia, para la datación y la historia de los manuscritos"
+  - "Artículo «Grettis saga», Obras de referencia sobre para la datación y la historia de los manuscritos"
 tags: [grettir, glamr, grettis-saga, draugr, sagas-islandesas, islandia]
 ---
 

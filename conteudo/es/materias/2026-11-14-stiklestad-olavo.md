@@ -10,7 +10,7 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un rey con manto y corona, apoyado en una gran piedra y rodeado de guerreros con escudos y lanzas en un campo de batalla, bajo un cielo en el que el sol está casi totalmente cubierto y la luz es rojiza"
 fontes:
   - "Snorri Sturluson, *Heimskringla*, la saga del rey Olaf el Santo (hacia 1230)"
-  - "Artículo «Battle of Stiklestad», Wikipedia, con referencia al catálogo de eclipses de la NASA"
+  - "Artículo «Battle of Stiklestad», Obras de referencia sobre con referencia al catálogo de eclipses de la NASA"
 tags: [stiklestad, olavo-haraldsson, snorri, heimskringla, noruega, canuto, santo-olavo]
 ---
 

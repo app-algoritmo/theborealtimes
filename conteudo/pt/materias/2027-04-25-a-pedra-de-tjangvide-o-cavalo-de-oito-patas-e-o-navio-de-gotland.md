@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/a-pedra-de-tjangvide.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma grande laje de calcário gravada, com um cavalo de oito patas e um pequeno cavaleiro a quem uma mulher oferece um chifre de beber, um homem com arco atrás dela, e embaixo um navio longo de vela larga, com runas gravadas nas bordas, num prado de Gotland."
 fontes:
-  - "Wikipédia em inglês, artigo \"Tjängvide image stone\", com a descrição da pedra, da inscrição e das interpretações"
+  - "Obras de referência em inglês, artigo \"Tjängvide image stone\", com a descrição da pedra, da inscrição e das interpretações"
 tags: [pedra de tjängvide, g 110, gotland, sleipnir, odin, pedra de imagem, era viking]
 ---
 

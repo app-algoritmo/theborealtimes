@@ -12,7 +12,7 @@ fontes:
   - "Poetic Edda, Lokasenna, Hymiskviða and Grímnismál"
   - "Snorri Sturluson, Prose Edda (Skáldskaparmál)"
   - "Egill Skallagrímsson, Sonatorrek"
-  - "Wikipedia, \"Ægir\""
+  - "Reference works on \"Ægir\""
 tags: [ægir, rán, lokasenna, hymiskviða, cauldron, sea, norse mythology]
 ---
 

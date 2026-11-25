@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a spear with a dark shaft and a polished metal poin
 fontes:
   - "Snorri Sturluson, Prose Edda, Skáldskaparmál (around 1220), on the treasures made by the dwarves"
   - "Poetic Edda, Völuspá and Sigrdrífumál (13th-century manuscripts)"
-  - "English Wikipedia, article \"Gungnir\", with references to Andy Orchard (1997) and Lars Silén (1983)"
+  - "Reference work in English, article \"Gungnir\", with references to Andy Orchard (1997) and Lars Silén (1983)"
 tags: [gungnir, odin, spear, skáldskaparmál, völuspá, sigrdrífumál, sons of ivaldi]
 ---
 

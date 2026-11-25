@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/batalha-de-tettenhall-910.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en engelsk slette med grønne marker og elver, der to hærer av krigere med runde skjold og ringbrynjer omringer en gruppe vikingraidere ved en haug med bytte og tønner; i bakgrunnen flagg fra Wessex og Mercia under en himmel med lave skyer."
 fontes:
-  - "Wikipedia, «Battle of Tettenhall» (dato fra Æthelweard, felttoget i 910, drepte vikingkonger, følger)"
+  - "Oppslagsverk om «Battle of Tettenhall» (dato fra Æthelweard, felttoget i 910, drepte vikingkonger, følger)"
   - "«Tettenhall, battle of», The Oxford Companion to British History, gjengitt på Encyclopedia.com"
   - "bukowo.com, «The Battle of Tettenhall» (2020), en populær framstilling med bakgrunnen fra 909 og 910"
 tags: [tettenhall, 910, edvard den eldre, æthelflæd, mercia, danelaw]

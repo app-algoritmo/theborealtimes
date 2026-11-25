@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/nils-holgersson-o-menino-encolhido-que-atravesso
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un niño diminuto con ropa campesina y gorro blanco montado en un gran ganso blanco en vuelo sobre una colcha de campos, lagos y bosques de Suecia, con una bandada de gansos salvajes delante."
 fontes:
-  - "Wikipedia en inglés, artículo «The Wonderful Adventures of Nils»"
-  - "Wikipedia en inglés, artículo «Selma Lagerlöf»"
+  - "Obras de referencia en inglés, artículo «The Wonderful Adventures of Nils»"
+  - "Obras de referencia en inglés, artículo «Selma Lagerlöf»"
 tags: [nils holgersson, selma lagerlöf, el maravilloso viaje, tomte, gansos, suecia, literatura infantil]
 ---
 

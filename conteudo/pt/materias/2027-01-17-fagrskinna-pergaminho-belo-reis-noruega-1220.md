@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/fagrskinna-pergaminho-belo-reis.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de escriba com um pergaminho largo desenrolado, de bordas cuidadas, coberto de linhas de texto e de versos copiados em fileiras curtas; ao lado, um tinteiro, uma pena e uma pequena pilha de outros pergaminhos, e ao fundo uma janela de pedra deixando entrar luz fria sobre um fiorde de águas escuras."
 fontes:
-  - "Wikipedia, \"Fagrskinna\" (data, autoria, abrangência, fontes, relação com Morkinskinna, Heimskringla e Ágrip, manuscritos, sentido do nome)"
+  - "Obras de referência sobre \"Fagrskinna\" (data, autoria, abrangência, fontes, relação com Morkinskinna, Heimskringla e Ágrip, manuscritos, sentido do nome)"
 tags: [fagrskinna, sagas de reis, noruega, skalds, morkinskinna]
 ---
 

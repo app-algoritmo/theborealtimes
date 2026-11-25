@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/askold-e-dir-os-primeiros-de-kiev.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kai ved en bred elv i det tidlige Rus, med trebåter full av krigere skjult under skinn og en mann som står og bærer et barn, mens to høvdinger kommer ned fra høyden for å hilse de antatte kjøpmennene, i skumringen."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Askold and Dir», med sammendraget av Nestorkrøniken, Novgorods første krønike og al-Mas'udi"
+  - "Engelsk Oppslagsverk om artikkelen «Askold and Dir», med sammendraget av Nestorkrøniken, Novgorods første krønike og al-Mas'udi"
 tags: [askold, dir, kiev, oleg, nestorkrøniken, rus, varjager]
 ---
 

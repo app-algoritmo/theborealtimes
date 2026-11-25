@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/harald-klak-batismo.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en steinkirke fra 800-tallet, med en keiser i blå kappe og krone som står ved siden av en nordisk mann med lyst skjegg som får vann over hodet av en biskop, foran en folkemengde av menn og kvinner i enkle kapper; i bakgrunnen en båt med mørkt skrog på elva."
 fontes:
-  - "Wikipedia, \"Harald Klak\" (hvem han var, striden i 812, eksil, dåpen i 826, Rüstringen, de siste årene, familie, kilder)"
+  - "Oppslagsverk om \"Harald Klak\" (hvem han var, striden i 812, eksil, dåpen i 826, Rüstringen, de siste årene, familie, kilder)"
 tags: [harald klak, danmark, dåp, ludvig den fromme, rüstringen, ansgar]
 ---
 

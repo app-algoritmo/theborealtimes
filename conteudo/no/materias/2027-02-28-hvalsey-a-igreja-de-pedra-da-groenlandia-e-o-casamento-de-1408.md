@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hvalsey-igreja-de-pedra.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av ruinene av en grå steinkirke med tykke vegger uten tak, på en grønn eng ved en fjord med fjell og is i bakgrunnen; ved siden av en ung kvinne i lang kjole og en mann i kappe, hånd i hånd, foran en prest, i en bryllupsscene."
 fontes:
-  - "Wikipedia, \"Hvalsey Church\" (sted, bygging, materialer, mål, bryllupet i 1408, inuittisk sagn, tvil)"
+  - "Oppslagsverk om \"Hvalsey Church\" (sted, bygging, materialer, mål, bryllupet i 1408, inuittisk sagn, tvil)"
   - "Nunatsiaq News, \"A wedding at Hvalsey Church\" (bryllupet i 1408, lysing, bekreftelse fra 1409)"
 tags: [hvalsey, grønland, kirke, bryllupet i 1408, nordbo, qaqortoq]
 ---

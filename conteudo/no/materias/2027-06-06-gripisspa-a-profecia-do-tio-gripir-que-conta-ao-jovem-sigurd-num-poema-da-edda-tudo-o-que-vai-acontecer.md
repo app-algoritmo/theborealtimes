@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gripisspa-o-tio-que-prediz-o-destino-de-sigurd.w
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av det indre av en tømmerhall, der en gammel mann med hvitt skjegg og grå kappe, sittende på en høy benk, snakker med en lyshåret ung kriger som står foran ham, mens et lavt ildsted lyser opp et sverd ved gutten belte og, på veggen, et brodert tøy viser en drage."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Grípisspá»"
+  - "Engelsk Oppslagsverk om artikkelen «Grípisspá»"
   - "The Poetic Edda, oversettelse av Henry Adams Bellows (1936), «Grípisspá»"
   - "Codex Regius, håndskriftet til den poetiske Edda"
 tags: [grípisspá, sigurd, grípir, poetisk edda, codex regius, völsunga saga, brynhildr, fornyrðislag]

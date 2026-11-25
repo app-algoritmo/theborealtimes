@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/nydam-o-barco-do-pantano.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una turbera oscura al amanecer, con un largo barco de roble de casco de tablas solapadas emergiendo del barro, rodeado de hombres con sombreros y abrigos del siglo XIX con palas, y al fondo una casita blanca y un cielo gris."
 fontes:
-  - "Wikipedia en inglés, artículo «Nydam Mose», con las excavaciones de 1859 a 1863 y desde 1989, la datación y la ubicación actual del barco"
-  - "Museo Nacional de Dinamarca y Sociedad Nydam, citados en Wikipedia"
+  - "Obras de referencia en inglés, artículo «Nydam Mose», con las excavaciones de 1859 a 1863 y desde 1989, la datación y la ubicación actual del barco"
+  - "Museo Nacional de Dinamarca y Sociedad Nydam, citados en obras de referencia"
 tags: [nydam, barco de nydam, nydam mose, conrad engelhardt, sønderborg, gottorf, edad del hierro, sacrificio]
 ---
 

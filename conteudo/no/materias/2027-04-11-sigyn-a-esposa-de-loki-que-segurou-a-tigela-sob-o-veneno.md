@@ -13,7 +13,7 @@ fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning, avsnitt om Sigyn og om bindingen av Loke)"
   - "Snorre Sturlason, Snorres Edda (Skáldskaparmál, kenninger for Loke)"
   - "Gosforth-korset, Cumbria, England (900-tallet), som mulig bilde av scenen"
-  - "Engelsk Wikipedia, artikkelen «Sigyn», brukt til å kontrollere stedene"
+  - "Engelsk Oppslagsverk om artikkelen «Sigyn», brukt til å kontrollere stedene"
 tags: [sigyn, loke, narfi, váli, vøluspå, lokasenna, gosforth-korset]
 ---
 

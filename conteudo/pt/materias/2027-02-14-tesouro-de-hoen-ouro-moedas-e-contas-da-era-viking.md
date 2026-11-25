@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tesouro-de-hoen-joias.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de museu com um colar de pequenas contas de vidro coloridas, moedas de prata de aspecto árabe, uma fivela de ouro de três lóbulos e um medalhão bizantino, sob luz suave; ao fundo, uma janela mostra um vale norueguês com um rio e uma fazenda."
 fontes:
-  - "Wikipedia, \"Hoen treasure\" (achado, esconderijo na guerra, contagem, museu)"
+  - "Obras de referência sobre \"Hoen treasure\" (achado, esconderijo na guerra, contagem, museu)"
   - "Store norske leksikon (snl.no), \"Hoenskatten\" (composição, origens, data de depósito, hipóteses)"
 tags: [tesouro de hoen, hoen, buskerud, era viking, moedas cúficas, joias, 1834]
 ---

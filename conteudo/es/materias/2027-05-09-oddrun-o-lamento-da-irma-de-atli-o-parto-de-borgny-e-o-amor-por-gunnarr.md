@@ -10,7 +10,7 @@ imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una mujer con capa azul oscuro sobre un caballo gris, galopando por un camino nevado hacia un gran salón de madera con luz en las ventanas a lo lejos, bajo un cielo de atardecer, con huellas de cascos en la nieve a su espalda."
 fontes:
   - "Oddrúnargrátr, en la Edda poética (Codex Regius), en la traducción inglesa de Henry Adams Bellows, con la nota introductoria del traductor"
-  - "Wikipedia en inglés, artículo «Oddrúnargrátr»"
+  - "Obras de referencia en inglés, artículo «Oddrúnargrátr»"
 tags: [oddrún, oddrúnargrátr, edda poética, atli, gunnarr, borgný, codex regius, ciclo völsungo]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hlodskvida-godos-hunos.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois exércitos em planície, um de guerreiros de cota de malha e escudos redondos, outro de cavaleiros de arco e gorros de pele, frente a frente à beira de uma floresta; no centro, um chefe de capa vermelha levanta o braço e, atrás dele, uma jovem guerreira de elmo observa a cena."
 fontes:
-  - "Wikipedia, \"Hlöðskviða\" (enredo, Hervarar saga, manuscritos H e R, Christopher Tolkien, identificações históricas, tradições paralelas)"
+  - "Obras de referência sobre \"Hlöðskviða\" (enredo, Hervarar saga, manuscritos H e R, Christopher Tolkien, identificações históricas, tradições paralelas)"
 tags: [hlöðskviða, hervarar saga, angantýr, hlöðr, godos, hunos]
 ---
 

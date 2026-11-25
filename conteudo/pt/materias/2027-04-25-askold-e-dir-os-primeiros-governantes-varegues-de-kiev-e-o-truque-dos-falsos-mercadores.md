@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/askold-e-dir-os-primeiros-de-kiev.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração do cais de um rio largo na Rus' antiga, com barcos de madeira cheios de guerreiros escondidos sob peles e um homem de pé carregando uma criança, enquanto dois chefes vêm da colina saudar os supostos mercadores, ao entardecer."
 fontes:
-  - "Wikipédia em inglês, artigo \"Askold and Dir\", com o resumo da Crônica Primária, da Primeira Crônica de Novgorod e de al-Mas'udi"
+  - "Obras de referência em inglês, artigo \"Askold and Dir\", com o resumo da Crônica Primária, da Primeira Crônica de Novgorod e de al-Mas'udi"
 tags: [askold, dir, kiev, oleg, crônica primária, rus', varegues]
 ---
 

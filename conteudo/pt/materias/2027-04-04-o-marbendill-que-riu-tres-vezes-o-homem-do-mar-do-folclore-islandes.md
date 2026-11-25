@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um pequeno ser de pele esverdeada e barba de algas,
 fontes:
   - "Jón Árnason, \"Þá hló marbendill\", em Íslenzkar þjóðsögur og æfintýri (século XIX)"
   - "Hálfs saga ok Hálfsrekka, capítulo 7 (\"Frá spám marmennils\")"
-  - "Wikipédia em inglês, artigo \"Marmennill\", consultado para conferir as fontes (Landnámabók, Jón Árnason, Sävborg 2016)"
+  - "Obras de referência em inglês, artigo \"Marmennill\", consultado para conferir as fontes (Landnámabók, Jón Árnason, Sävborg 2016)"
 tags: [marbendill, marmennill, homem do mar, folclore islandês, jón árnason, hálfs saga, landnámabók]
 ---
 

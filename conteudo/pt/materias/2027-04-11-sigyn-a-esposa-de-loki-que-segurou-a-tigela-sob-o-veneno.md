@@ -13,7 +13,7 @@ fontes:
   - "Snorri Sturluson, Edda em prosa (Gylfaginning, passagens sobre Sigyn e sobre a prisão de Loki)"
   - "Snorri Sturluson, Edda em prosa (Skáldskaparmál, kenningar para Loki)"
   - "Cruz de Gosforth, Cumbria, Inglaterra (século X), como possível imagem da cena"
-  - "Wikipédia em inglês, artigo \"Sigyn\", consultado para conferir as passagens"
+  - "Obras de referência em inglês, artigo \"Sigyn\", consultado para conferir as passagens"
 tags: [sigyn, loki, narfi, váli, völuspá, lokasenna, cruz de gosforth]
 ---
 

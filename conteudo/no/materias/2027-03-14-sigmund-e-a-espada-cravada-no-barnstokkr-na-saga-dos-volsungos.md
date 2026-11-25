@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en stor tømmerhall med bål langs gulvet og et eno
 fontes:
   - "Volsungesaga, kapittel 3 (engelsk oversettelse av William Morris og Eiríkr Magnússon, 1870)"
   - "Jesse Byock, The Saga of the Volsungs (1990), om navnet Barnstokkr"
-  - "Wikipedia, \"Barnstokkr\""
+  - "Oppslagsverk om \"Barnstokkr\""
 tags: [sigmund, barnstokkr, odin, volsungesaga, siggeir, signy]
 ---
 

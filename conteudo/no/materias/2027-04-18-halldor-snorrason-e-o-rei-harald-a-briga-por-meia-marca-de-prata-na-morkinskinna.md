@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/halldor-snorrason-e-o-rei-harald.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor norsk hall om natten, der en islending i enkel kappe holder et sverd mot halsen på en konge i sengen, mens en dronning med en ring i hånden ser på stående ved siden av."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «The Tale of Halldor Snorrason II» (Halldórs þáttr Snorrasonar inn síðari), bevart i Morkinskinna"
-  - "Theodore M. Andersson, The Growth of the Medieval Icelandic Sagas (1180-1280), sitert i Wikipedia"
-  - "Snorre Sturluson, Harald Hardrådes saga (Heimskringla), sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «The Tale of Halldor Snorrason II» (Halldórs þáttr Snorrasonar inn síðari), bevart i Morkinskinna"
+  - "Theodore M. Andersson, The Growth of the Medieval Icelandic Sagas (1180-1280), sitert i oppslagsverk"
+  - "Snorre Sturluson, Harald Hardrådes saga (Heimskringla), sitert i oppslagsverk"
 tags: [halldór snorrason, harald hardråde, morkinskinna, þáttr, væringgarden, islendinger, saga]
 ---
 

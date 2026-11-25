@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et norrønt langskip trukket opp på en strand med 
 fontes:
   - "Eiríks saga rauða (Eirik Raudes saga)"
   - "Grænlendinga saga (Grønlendingesagaen)"
-  - "Engelsk Wikipedia, artikkelen «Thorfinn Karlsefni», for å sammenligne de to sagaene"
+  - "Engelsk Oppslagsverk om artikkelen «Thorfinn Karlsefni», for å sammenligne de to sagaene"
 tags: [thorfinn karlsefni, vinland, eiríks saga rauða, grænlendinga saga, gudrid, freydis, skrælinger]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/valemon-urso-branco.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en ung kvinne i blå kappe og jernhansker som klatrer opp en skråning av is og snø i skumringen mot et slott med høye tårn og opplyste vinduer på toppen; ved siden av henne det ferske sporet etter en stor hvit bjørn og, bak, en skog av snødekte furuer."
 fontes:
-  - "Wikipedia-artikkelen «White-Bear-King-Valemon»"
+  - "Oppslagsverk om «White-Bear-King-Valemon»"
   - "Asbjørnsen og Moe, Norske Folke-Eventyr, Ny Samling, nr. 90 (1871)"
   - "George Webbe Dasent, Tales from the Fjeld, slik det er sitert i artikkelen"
 tags: [valemon, kvitebjørn, asbjørnsen og moe, folkeeventyr, setesdal, eventyr]

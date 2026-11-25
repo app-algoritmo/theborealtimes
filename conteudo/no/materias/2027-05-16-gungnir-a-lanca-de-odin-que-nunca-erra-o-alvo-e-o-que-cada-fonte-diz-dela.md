@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av et spyd med mørkt skaft og blank metallspiss som s
 fontes:
   - "Snorre Sturluson, Snorres Edda, Skáldskaparmál (omkring 1220), om skattene dvergene laget"
   - "Den poetiske Edda, Völuspá og Sigrdrífumál (manuskripter fra 1200-tallet)"
-  - "Engelsk Wikipedia, artikkelen «Gungnir», med henvisninger til Andy Orchard (1997) og Lars Silén (1983)"
+  - "Engelsk Oppslagsverk om artikkelen «Gungnir», med henvisninger til Andy Orchard (1997) og Lars Silén (1983)"
 tags: [gungnir, odin, spyd, skáldskaparmál, völuspá, sigrdrífumál, ivaldes sønner]
 ---
 

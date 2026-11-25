@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/a-carta-das-ovelhas-de-1298-o-documento-mais-ant
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et åpent pergament på et trebord i et torvhus på Færøyene, med sauer med merkede ører utenfor vinduet, en fjærpenn og en vekt, i lyset fra en oljelampe."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Sheep Letter»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Sheep Letter»"
 tags: [sauebrevet, seyðabrævið, færøyene, 1298, håkon v, kirkjubøur, middelalderrett]
 ---
 

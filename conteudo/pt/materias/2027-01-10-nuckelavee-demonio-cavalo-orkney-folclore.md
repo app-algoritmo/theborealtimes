@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/nuckelavee-cavalo-orkney.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma charneca costeira em Orkney ao entardecer, com mar cinzento ao fundo e uma criatura enorme semelhante a um cavalo, de pele ausente e músculos expostos, com um único olho vermelho e um tronco humano sobre o dorso, avançando entre pedras; em primeiro plano, um camponês com lampião corre em direção a um riacho que corta o campo."
 fontes:
-  - "Wikipedia, \"Nuckelavee\" (origem, registro de Walter Traill Dennison, aparência, fraqueza, Mither o' the Sea)"
+  - "Obras de referência sobre \"Nuckelavee\" (origem, registro de Walter Traill Dennison, aparência, fraqueza, Mither o' the Sea)"
 tags: [nuckelavee, orkney, folclore, água doce, mither o' the sea]
 ---
 

@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en flat hellestein av lys kalkstein sett ovenfra, m
 fontes:
   - "Terje Spurkland, Norwegian Runes and Runic Inscriptions (2005)"
   - "Klaus Düwel og Wilhelm Heizmann, \"Das ältere Fuþark\" (2006)"
-  - "Wikipedia, \"Kylver Stone\""
+  - "Oppslagsverk om \"Kylver Stone\""
 tags: [kylverstenen, futhark, runer, gotland, eldre futhark, runeskrift]
 ---
 

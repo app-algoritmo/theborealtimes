@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/saga-sokkvabekkr-taca-de-ouro.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una mujer con capa clara y un hombre con capucha azul, sentados uno al lado del otro en un banco a la orilla de aguas frías y oscuras, cada uno con una copa de oro en la mano, bajo un cielo de atardecer con olas que rompen en las rocas a su alrededor."
 fontes:
-  - "Wikipedia en inglés, artículo «Sága and Sökkvabekkr», con los pasajes de Grímnismál, Gylfaginning y Skáldskaparmál y los estudios de Simek, Lindow, Grundy, Näsström y Grimm"
+  - "Obras de referencia en inglés, artículo «Sága and Sökkvabekkr», con los pasajes de Grímnismál, Gylfaginning y Skáldskaparmál y los estudios de Simek, Lindow, Grundy, Näsström y Grimm"
 tags: [sága, sökkvabekkr, grímnismál, frigg, odín, edda en prosa, ásynjur, mitología nórdica]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/droplaugarsona-saga-irmaos.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av to unge brødre i kapper og med spyd som står ved kanten av en lang, smal innsjø på Øst-Island, med lave fjell bak seg; ved siden av dem ser en eldre kvinne med skaut mot horisonten fra en torvgård."
 fontes:
-  - "Wikipedia, «Droplaugarsona saga» (handling, datering, forholdet til Fljótsdæla saga)"
+  - "Oppslagsverk om «Droplaugarsona saga» (handling, datering, forholdet til Fljótsdæla saga)"
   - "Store norske leksikon, «Droplaugsønnenes saga» (handling, Eyvindardal, datering til 1200-tallet)"
 tags: [droplaugarsona saga, grímr, helgi, droplaug, lagarfljót, island]
 ---

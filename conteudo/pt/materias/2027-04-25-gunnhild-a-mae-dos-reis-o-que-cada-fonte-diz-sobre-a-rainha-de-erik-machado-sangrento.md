@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/gunnhild-a-mae-dos-reis.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma rainha viking de cabelo escuro e capa de pele, em pé diante de um salão de madeira à beira de um fiorde, com três jovens guerreiros atrás dela e uma cabeça de cavalo num poste ao lado, sob nuvens baixas."
 fontes:
-  - "Wikipédia em inglês, artigo \"Gunnhild, Mother of Kings\", com as passagens sobre a Heimskringla, a saga de Egill, a Historia Norwegiae, a saga dos Laxdalenses, a Jómsvíkinga saga e a mulher de Haraldskær"
+  - "Obras de referência em inglês, artigo \"Gunnhild, Mother of Kings\", com as passagens sobre a Heimskringla, a saga de Egill, a Historia Norwegiae, a saga dos Laxdalenses, a Jómsvíkinga saga e a mulher de Haraldskær"
 tags: [gunnhild, mãe dos reis, erik machado sangrento, heimskringla, saga de egill, saga viking, rainha viking]
 ---
 

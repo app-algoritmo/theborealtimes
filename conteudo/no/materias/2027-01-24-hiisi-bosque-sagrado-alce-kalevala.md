@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/hiisi-bosque-sagrado-alce.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en lund med mørke graner på en høyde, med en glenne lyst opp av blåaktig lys; i midten en underlig elg med hode av råtten ved, gevir av pil og bein av kvister og siv, med tomme øyne; en jeger i ulveskinnskappe rygger tilbake mellom stammene med bue i hånden, under en blek måne."
 fontes:
-  - "Wikipedia, «Hiisi» (etymologi, estisk hellig lund, gravfelthypotesen, trylleviser, Agricola, Kalevala runo VI til XXVI, den kristne djevelen; bygger på Abercromby, Lönnrot, Tallgren, Koski og Wessman)"
+  - "Oppslagsverk om «Hiisi» (etymologi, estisk hellig lund, gravfelthypotesen, trylleviser, Agricola, Kalevala runo VI til XXVI, den kristne djevelen; bygger på Abercromby, Lönnrot, Tallgren, Koski og Wessman)"
 tags: [hiisi, kalevala, hellig lund, lemminkäinen, finsk mytologi]
 ---
 

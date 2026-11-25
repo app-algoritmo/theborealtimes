@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/widsith-o-poema-do-cantor-viajante-do-exeter-boo
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en angelsaksisk sanger i grønn kappe med en harpe foran en konge som sitter i en stor tømmerhall, med en gullring på den utstrakte armen og et gammelt kart tegnet med blekk på veggen bak."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Widsith»"
+  - "Engelsk Oppslagsverk om artikkelen «Widsith»"
 tags: [widsith, exeter book, angelsaksisk poesi, eormanric, attila, hrothgar, wicinga cynn]
 ---
 

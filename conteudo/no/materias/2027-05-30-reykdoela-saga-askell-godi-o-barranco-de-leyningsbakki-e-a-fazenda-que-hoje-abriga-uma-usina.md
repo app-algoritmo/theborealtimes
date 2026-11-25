@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/reykdaela-saga-askell-e-o-barranco-de-leyningsba
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gammel islandsk høvding med grått skjegg og grønn kappe, støttet til en stokk, stående på en grusbakke ved kanten av en elv med klart vann og med blikket mot den grønne dalen, med en torvgård i det fjerne og blålige fjell bak."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Reykdæla saga ok Víga-Skútu»"
+  - "Engelsk Oppslagsverk om artikkelen «Reykdæla saga ok Víga-Skútu»"
   - "Icelandic Roots, «A brief look inside Reykdæla saga»"
   - "Waage (2012), «Norsk Geografisk Tidsskrift», om «land» og «landsleg»"
 tags: [reykdæla saga, áskell goði, víga-skúta, hvammr, laxá, leyningsbakki, islendingesagaer]

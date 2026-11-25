@@ -10,7 +10,7 @@ imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de manto e coroa, apoiado numa grande pedra e rodeado de guerreiros com escudos e lanças num campo de batalha, sob um céu em que o sol está quase totalmente coberto e a luz é avermelhada"
 fontes:
   - "Snorri Sturluson, *Heimskringla*, a saga do rei Olavo, o Santo (cerca de 1230)"
-  - "Verbete \"Battle of Stiklestad\", Wikipédia, com referência ao catálogo de eclipses da NASA"
+  - "Verbete \"Battle of Stiklestad\", Obras de referência sobre com referência ao catálogo de eclipses da NASA"
 tags: [stiklestad, olavo-haraldsson, snorri, heimskringla, noruega, canuto, santo-olavo]
 ---
 

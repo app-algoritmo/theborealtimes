@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um homem muito velho, de barba comprida e manto azu
 fontes:
   - "Mikael Agricola, prefácio de Dauidin Psaltari (1551)"
   - "Elias Lönnrot, Kalevala (edição de 1849)"
-  - "Wikipedia, \"Ukko\""
+  - "Obras de referência sobre \"Ukko\""
 tags: [ukko, finlândia, trovão, ukon vakat, agricola, mitologia finlandesa]
 ---
 

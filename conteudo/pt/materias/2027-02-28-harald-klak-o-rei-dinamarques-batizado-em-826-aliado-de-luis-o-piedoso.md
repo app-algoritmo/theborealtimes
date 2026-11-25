@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/harald-klak-batismo.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma igreja de pedra do século IX, com um imperador de manto azul e coroa de pé ao lado de um homem nórdico de barba loira que recebe água sobre a cabeça de um bispo, diante de uma multidão de homens e mulheres de capas simples; ao fundo, um barco de casco escuro no rio."
 fontes:
-  - "Wikipedia, \"Harald Klak\" (quem foi, disputa de 812, exílio, batismo de 826, Rüstringen, últimos anos, família, fontes)"
+  - "Obras de referência sobre \"Harald Klak\" (quem foi, disputa de 812, exílio, batismo de 826, Rüstringen, últimos anos, família, fontes)"
 tags: [harald klak, dinamarca, batismo, luís o piedoso, rüstringen, ansgar]
 ---
 

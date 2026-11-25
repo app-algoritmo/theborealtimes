@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a large marble lion seated before a stone gateway i
 fontes:
   - "\"Vikings tagged the great lion in Venice with runes\", Science Norway (sciencenorway.no), on the study by Thorgunn Snædal"
   - "Thorgunn Snædal, study of the runes of the Piraeus Lion (2014), published by Riksantikvarieämbetet"
-  - "English Wikipedia, article \"Piraeus Lion\", consulted to check the references"
+  - "Reference work in English, article \"Piraeus Lion\", consulted to check the references"
 tags: [piraeus lion, runes, venice, arsenal, thorgunn snædal, åkerblad, sweden]
 ---
 

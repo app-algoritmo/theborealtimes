@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en høybaugt båt av grå stein som glir over et ro
 fontes:
   - "Jón Árnason, \"Skessan á steinnökkvanum\", i Íslenzkar Þjóðsögur og Æfintýri, bind 2 (1864)"
   - "Andrew Lang, \"The Witch in the Stone Boat\", The Yellow Fairy Book (1894)"
-  - "Wikipedia, \"The Witch in the Stone Boat\""
+  - "Oppslagsverk om \"The Witch in the Stone Boat\""
 tags: [steinbåt, steinnökkvi, islandsk folkeeventyr, jón árnason, kong sigurd, troll]
 ---
 

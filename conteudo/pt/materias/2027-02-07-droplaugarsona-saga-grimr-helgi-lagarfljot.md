@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/droplaugarsona-saga-irmaos.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de dois irmãos jovens, de capa e lança, parados à beira de um lago longo e estreito no leste da Islândia, com montanhas baixas ao fundo; ao lado deles, uma mulher mais velha, de lenço na cabeça, observa o horizonte de uma casa de turfa."
 fontes:
-  - "Wikipedia, \"Droplaugarsona saga\" (enredo, datação, relação com a Fljótsdæla saga)"
+  - "Obras de referência sobre \"Droplaugarsona saga\" (enredo, datação, relação com a Fljótsdæla saga)"
   - "Store norske leksikon, \"Droplaugsønnenes saga\" (enredo, Eyvindardal, datação no século XIII)"
 tags: [droplaugarsona saga, grímr, helgi, droplaug, lagarfljót, islândia]
 ---

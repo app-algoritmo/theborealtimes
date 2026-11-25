@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/landnamabok-assentamentos-islandia.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um escriba islandês medieval, de capuz marrom, sentado num escritório de madeira iluminado por uma lamparina de gordura, escrevendo numa grande folha de pergaminho que traz um mapa esboçado de uma ilha com o litoral cheio de nomes; ao fundo, uma janela dá para uma paisagem de montanhas, fiordes e uma fazenda de turfa."
 fontes:
-  - "Wikipedia, \"Landnámabók\" (estrutura, datação, versões, confiabilidade)"
-  - "Gunnar Karlsson e Helgi Þorláksson, citados na Wikipedia (sobre o relato de Hrafna-Flóki e a fundação de Ingólfr)"
-  - "Sveinbjörn Rafnsson, citado na Wikipedia (sobre o peso do cristianismo nas versões)"
+  - "Obras de referência sobre \"Landnámabók\" (estrutura, datação, versões, confiabilidade)"
+  - "Gunnar Karlsson e Helgi Þorláksson, citados em obras de referência (sobre o relato de Hrafna-Flóki e a fundação de Ingólfr)"
+  - "Sveinbjörn Rafnsson, citado em obras de referência (sobre o peso do cristianismo nas versões)"
 tags: [landnámabók, islândia, assentamento, sturlubók, ari þorgilsson]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/o-monumento-de-hunnestad.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um campo gramado no sul da Suécia com várias pedras altas de runas e de imagens em círculo, uma mostrando uma mulher montada num lobo gigante com duas serpentes nas mãos, outra um homem de casaco longo e capacete pontudo com um machado no ombro, ao amanhecer."
 fontes:
-  - "Wikipédia em inglês, artigo \"Hunnestad Monument\", com os trechos sobre Ole Worm, a destruição, as pedras DR 282–286 e a redescoberta de 2020"
+  - "Obras de referência em inglês, artigo \"Hunnestad Monument\", com os trechos sobre Ole Worm, a destruição, as pedras DR 282–286 e a redescoberta de 2020"
 tags: [monumento de hunnestad, pedras rúnicas, escânia, ole worm, hyrrokkin, pedra de imagem, era viking]
 ---
 

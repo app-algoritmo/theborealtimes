@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/austrfararvisur-sigvatr-e-as-portas-fechadas.web
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en mann i blå kappe og med en reisestav foran en låst tredør på en norrøn gård med torvtak, en kald høstettermiddag, med granskog bak og en kvinne i et smalt vindu som vinker ham bort."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Austrfararvísur»"
+  - "Engelsk Oppslagsverk om artikkelen «Austrfararvísur»"
   - "R. D. Fulk, utgave (2012)"
   - "Carl L. Thunberg, «Att tolka Svitjod» (2012)"
 tags: [austrfarar, austrfararvísur, sigvat tordsson, olav ii, sverige, skald, álfablót, västergötland]

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/tatterhood-lurvehette-princesa-feia.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma garota de cabelos desgrenhados e capuz em farrapos, montada numa cabra de pelagem escura, com uma colher de pau na mão, ao lado de um barco numa praia de pedras; na ilha ao fundo, três trolls recuam diante dela, e uma jovem de vestido claro espera no barco, com um pano em torno do pescoço; céu de nuvens baixas e luz fria de inverno."
 fontes:
-  - "Wikipedia, \"Tatterhood\" (Lurvehette; coleção de Asbjørnsen e Moe, Norske Folkeeventyr; tradução de Dasent; tipo ATU 711; variantes norueguesas, islandesas, suecas, dinamarquesas, irlandesas e americanas; Stith Thompson, Hodne, Liungman, El-Shamy e Sehmsdorf)"
+  - "Obras de referência sobre \"Tatterhood\" (Lurvehette; coleção de Asbjørnsen e Moe, Norske Folkeeventyr; tradução de Dasent; tipo ATU 711; variantes norueguesas, islandesas, suecas, dinamarquesas, irlandesas e americanas; Stith Thompson, Hodne, Liungman, El-Shamy e Sehmsdorf)"
 tags: [tatterhood, lurvehette, asbjørnsen e moe, atu 711, conto norueguês]
 ---
 

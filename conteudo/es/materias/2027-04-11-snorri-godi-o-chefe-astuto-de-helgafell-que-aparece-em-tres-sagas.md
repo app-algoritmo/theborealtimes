@@ -12,7 +12,7 @@ fontes:
   - "Eyrbyggja saga (capítulos 14, 15, 49 y 56)"
   - "Laxdæla saga (capítulo 71)"
   - "Njáls saga (capítulos 114 y 145)"
-  - "Wikipedia en inglés, artículo «Snorri Goði», para las fechas y la localización de los pasajes"
+  - "Obras de referencia en inglés, artículo «Snorri Goði», para las fechas y la localización de los pasajes"
 tags: [snorri goði, helgafell, eyrbyggja saga, laxdæla saga, njáls saga, islandia]
 ---
 

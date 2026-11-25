@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/haustlong-o-escudo-de-thjodolfr.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et stort rundt treskjold som lener seg mot en hallvegg, med to malte scener, en kjempeørn som bærer bort en kvinne med epler og en rødskjegget gud som løfter en hammer foran en steinjotun, i fakkelskjær."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Haustlöng»"
+  - "Engelsk Oppslagsverk om artikkelen «Haustlöng»"
   - "Snorre Sturluson, Snorres Edda (omkring 1220), som siterer diktet"
-  - "Andy Orchard (1997) og John Lindow (2001), studier som Wikipedia viser til"
+  - "Andy Orchard (1997) og John Lindow (2001), studier som oppslagsverk viser til"
 tags: [haustlöng, þjóðólfr fra hvin, tor, hrungnir, idun, tjatse, skaldedikt, snorres edda]
 ---
 

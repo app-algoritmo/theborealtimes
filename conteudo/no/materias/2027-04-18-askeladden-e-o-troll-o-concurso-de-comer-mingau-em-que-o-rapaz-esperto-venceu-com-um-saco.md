@@ -10,7 +10,7 @@ imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gutt i enkle klær som sitter foran et enormt troll i en skogshytte, med dampende grøtboller, og en tøysekk skjult under guttens skjorte."
 fontes:
   - "George Webbe Dasent, Popular Tales from the Norse (Project Gutenberg, nr. 8933), eventyr V, «Boots who ate a match with the Troll», oversettelse av eventyr fra Asbjørnsen og Moe"
-  - "Engelsk Wikipedia, artikkelen «Asbjørnsen and Moe», om samlingen Norske Folkeeventyr"
+  - "Engelsk Oppslagsverk om artikkelen «Asbjørnsen and Moe», om samlingen Norske Folkeeventyr"
 tags: [askeladden, boots, troll, asbjørnsen og moe, dasent, norske folkeeventyr, konkurranse]
 ---
 

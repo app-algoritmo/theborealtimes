@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/uppakra-o-edificio-do-culto.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor tømmerhall med eikestolper på en skånsk åker ved daggry, med fire indre søyler synlige gjennom en åpen dør og bittesmå gullblad som glinser i jorden i forgrunnen."
 fontes:
-  - "Engelsk Wikipedia, artiklene «Uppåkra» og «Uppåkra temple», for utgravingsdataene"
+  - "Engelsk Oppslagsverk om artiklene «Uppåkra» og «Uppåkra temple», for utgravingsdataene"
   - "Lars Larsson (2007), studie av den rituelle bygningen i Uppåkra, sitert i disse artiklene"
 tags: [uppåkra, skåne, lund, guldgubbar, jernalder, kultbygning, hov]
 ---

@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de um barco de proa alta feito de pedra cinza deslizan
 fontes:
   - "Jón Árnason, \"Skessan á steinnökkvanum\", em Íslenzkar Þjóðsögur og Æfintýri, volume 2 (1864)"
   - "Andrew Lang, \"The Witch in the Stone Boat\", The Yellow Fairy Book (1894)"
-  - "Wikipedia, \"The Witch in the Stone Boat\""
+  - "Obras de referência sobre \"The Witch in the Stone Boat\""
 tags: [barco de pedra, steinnökkvi, conto islandês, jón árnason, rei sigurd, troll]
 ---
 

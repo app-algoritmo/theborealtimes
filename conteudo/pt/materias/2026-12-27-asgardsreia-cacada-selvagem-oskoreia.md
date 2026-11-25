@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/asgardsreia-cacada-selvagem.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma noite de inverno sobre um vale norueguês com uma tempestade de neve, onde uma horda de cavaleiros de capas esvoaçantes cruza o céu em cavalos pálidos, com cães enormes correndo à frente e uma mulher de longos cabelos à frente do bando; em baixo, uma fazenda com as janelas acesas e um camponês de pé na porta, olhando para o alto."
 fontes:
-  - "Wikipedia, \"Wild Hunt\" (formas escandinavas, primeiras atestações, tese de Grimm, debate acadêmico)"
-  - "Orderic Vital (1091) e *Crônica de Peterborough* (1127), citados na Wikipedia"
-  - "Jacob Grimm, *Deutsche Mythologie* (1835), Ronald Hutton, Lotte Motz (1984) e Hans Peter Duerr (1985), citados na Wikipedia"
+  - "Obras de referência sobre \"Wild Hunt\" (formas escandinavas, primeiras atestações, tese de Grimm, debate acadêmico)"
+  - "Orderic Vital (1091) e *Crônica de Peterborough* (1127), citados em obras de referência"
+  - "Jacob Grimm, *Deutsche Mythologie* (1835), Ronald Hutton, Lotte Motz (1984) e Hans Peter Duerr (1985), citados em obras de referência"
 tags: [åsgårdsreia, oskoreia, caçada selvagem, odin, folclore]
 ---
 

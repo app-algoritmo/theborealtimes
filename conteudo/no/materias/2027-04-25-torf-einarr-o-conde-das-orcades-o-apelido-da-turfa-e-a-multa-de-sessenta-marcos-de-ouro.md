@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/torf-einarr-o-conde-das-orcades.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en vikingjarl med gråsprengt skjegg, blind på det ene øyet, stående på en grønn ås på Orknøyene med et torvspade i hånden, en haug med skårne torver ved siden av og et langskip ankret i en bukt bak ham, under en vindfull himmel."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Torf-Einarr», med avsnittene om opprinnelsen hans, Orknøyingenes saga, versene i Landnámabók og boten på seksti gullmark"
+  - "Engelsk Oppslagsverk om artikkelen «Torf-Einarr», med avsnittene om opprinnelsen hans, Orknøyingenes saga, versene i Landnámabók og boten på seksti gullmark"
 tags: [torf-einarr, einarr rognvaldarson, orknøyene, jarl, orknøyingenes saga, landnámabók, vikingsaga]
 ---
 

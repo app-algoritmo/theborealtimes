@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en svært gammel mann med langt skjegg og mørkebl�
 fontes:
   - "Mikael Agricola, forord til Dauidin Psaltari (1551)"
   - "Elias Lönnrot, Kalevala (utgaven fra 1849)"
-  - "Wikipedia, \"Ukko\""
+  - "Oppslagsverk om \"Ukko\""
 tags: [ukko, finland, torden, ukon vakat, agricola, finsk mytologi]
 ---
 

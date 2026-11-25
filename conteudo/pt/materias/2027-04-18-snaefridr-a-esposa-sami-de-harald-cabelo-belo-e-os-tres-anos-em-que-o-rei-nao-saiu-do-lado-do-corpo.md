@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/snaefridr-e-o-rei-harald.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de longos cabelos louros sentado ao lado de uma cama de peles onde repousa uma jovem de rosto sereno, numa cabana de madeira à luz de velas, enquanto um velho de barba branca o chama pela porta."
 fontes:
-  - "Wikipédia em inglês, artigo \"Snæfríthr Svásadottir\""
-  - "Snorri Sturluson, Heimskringla, Haralds saga hins hárfagra, capítulos 25 e 26, citado na Wikipédia"
-  - "Ágrip af Nóregskonungasögum, Orkneyinga saga, Málshattakvæði e Flateyjarbók (Haralds þáttr hárfagra), citados na Wikipédia"
+  - "Obras de referência em inglês, artigo \"Snæfríthr Svásadottir\""
+  - "Snorri Sturluson, Heimskringla, Haralds saga hins hárfagra, capítulos 25 e 26, citado em obras de referência"
+  - "Ágrip af Nóregskonungasögum, Orkneyinga saga, Málshattakvæði e Flateyjarbók (Haralds þáttr hárfagra), citados em obras de referência"
 tags: [snæfríðr, harald cabelo belo, svási, sami, heimskringla, flateyjarbók, bruxaria, saga]
 ---
 

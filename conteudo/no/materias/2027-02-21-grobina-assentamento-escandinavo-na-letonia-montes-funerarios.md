@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/grobina-montes-funerarios.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et flatt landskap ved Østersjøen, med dusinvis av små gresskledde hauger på rekke i åpent landskap, en høyde med rester av en borg i bakgrunnen og en bildestein med inngravert mønster mellom haugene."
 fontes:
-  - "Wikipedia, «Grobin» (beliggenhet, Nermans utgravinger, gravfelt, bildestein, Rimbert)"
+  - "Oppslagsverk om «Grobin» (beliggenhet, Nermans utgravinger, gravfelt, bildestein, Rimbert)"
   - "UNESCO, Tentative List, Grobiņa (nr. 6258) (beskrivelse av stedet, gravfelt, argumenter i nominasjonen)"
 tags: [grobiņa, latvia, liepāja, gotland, priediens, seeburg, rimbert]
 ---

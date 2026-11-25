@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/uniao-de-kalmar-a-coroa-de-tres-reinos-em-1397.w
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en kroningsseremoni i en steinkirke, med en ung mann i rød kappe som knelende foran et alter og, ved siden av ham, en dronning med slør og gullkrone, omgitt av adelsmenn fra tre riker med bannere i ulike farger."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Kalmar Union»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Kalmar Union»"
 tags: [kalmarunionen, margrete, erik av pommern, danmark, sverige, norge, gustav vasa, stockholms blodbad]
 ---
 

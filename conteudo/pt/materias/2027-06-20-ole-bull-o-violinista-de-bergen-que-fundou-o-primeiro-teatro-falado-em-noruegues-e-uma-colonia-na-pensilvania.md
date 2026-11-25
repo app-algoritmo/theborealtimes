@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ole-bull-o-violinista-de-bergen-que-fundou-um-te
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um violinista de cabelos longos e casaca escura tocando num palco de madeira, com um violino claro sob o queixo, diante de uma plateia à luz de velas, e ao fundo, numa janela, uma cidade portuária norueguesa com casas de madeira em um fiorde."
 fontes:
-  - "Wikipédia em inglês, artigo \"Ole Bull\""
+  - "Obras de referência em inglês, artigo \"Ole Bull\""
 tags: [ole bull, violino, bergen, det norske theater, oleana, grieg, séc. xix]
 ---
 

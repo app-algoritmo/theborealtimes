@@ -11,7 +11,7 @@ imagem_alt: "Illustrasjon av en stor gullring som hviler på en dvergesmies benk
 fontes:
   - "Snorre Sturlason, Snorres Edda (Gylfaginning og Skáldskaparmál)"
   - "Den eldre Edda, Skírnismál"
-  - "Wikipedia, «Draupnir»"
+  - "Oppslagsverk om «Draupnir»"
 tags: [draupnir, odin, ring, dverger, loke, balder, snorres edda, norrøn mytologi]
 ---
 

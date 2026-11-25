@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/dannebrog-a-bandeira-que-caiu-do-ceu-em-lyndanis
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en høyde foran en middelalderleir i skumringen, der en biskop i lys kappe står og løfter begge armene mot himmelen, mens krigere i bakgrunnen løfter sverdene og over dem et rødt flagg med hvitt kors sakte siger ned mellom skyene."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Flag of Denmark»"
+  - "Engelsk Oppslagsverk om artikkelen «Flag of Denmark»"
   - "Petrus Olai, «Danmarks Tolv Herligheder» (1500-tallet)"
   - "Christiern Pedersen, «Danske Krønike» (1520-1523)"
 tags: [dannebrog, danmarks flagg, valdemar ii, anders sunesen, lyndanisse, estland, legende, petrus olai]

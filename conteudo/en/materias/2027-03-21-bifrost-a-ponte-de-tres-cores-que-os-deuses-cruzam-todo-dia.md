@@ -11,7 +11,7 @@ imagem_alt: "Illustration of a glowing bridge of three bands of colour, one red 
 fontes:
   - "Snorri Sturluson, Prose Edda (Gylfaginning, chapters 13, 15, 17, 27 and 51; Skáldskaparmál, chapter 16)"
   - "Poetic Edda, Grímnismál and Fáfnismál"
-  - "Wikipedia, \"Bifröst\""
+  - "Reference works on \"Bifröst\""
 tags: [bifröst, bilröst, heimdall, prose edda, grímnismál, ragnarök, norse mythology]
 ---
 

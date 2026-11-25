@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/spillings-tesouro-gotland.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma ilha báltica de campos planos e muros de pedra baixos ao amanhecer, onde dois arqueólogos de casacos escuros e luvas ajoelham sobre um piso de tábuas arrancado, expondo dois baldes cheios de moedas prateadas e braceletes de prata enrolados; ao lado, um cavalete com balança e uma lanterna, e ao fundo uma fazenda de pedra e madeira."
 fontes:
-  - "Wikipedia, \"Spillings Hoard\" (descoberta, peso, moedas, braceletes, datação, contexto da fazenda)"
+  - "Obras de referência sobre \"Spillings Hoard\" (descoberta, peso, moedas, braceletes, datação, contexto da fazenda)"
 tags: [spillings, gotland, tesouro de prata, dirhams, era viking]
 ---
 

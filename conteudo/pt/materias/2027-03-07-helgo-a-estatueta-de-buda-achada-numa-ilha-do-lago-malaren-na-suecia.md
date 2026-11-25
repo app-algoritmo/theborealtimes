@@ -9,8 +9,8 @@ imagem: "/estatico/img/materias/helgo-buda-de-bronze.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa de escavação sob uma lona, na margem de um lago calmo de águas escuras, com uma estatueta de bronze do Buda sentado numa flor de lótus em primeiro plano, junto a uma pá de arqueólogo e a uma concha de metal; ao fundo, bosque de bétulas e um barco de madeira."
 fontes:
-  - "Verbete \"Helgö\", Wikipédia"
-  - "Verbete \"Helgö Buddha\", Wikipédia"
+  - "Verbete \"Helgö\", obra de referência"
+  - "Verbete \"Helgö Buddha\", obra de referência"
   - "Museu de História da Suécia, Estocolmo, onde a peça está exposta, conforme citado nos verbetes"
 tags: [helgö, buda, mälaren, suécia, comércio, arqueologia]
 ---

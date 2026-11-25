@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/haustlong-o-escudo-de-thjodolfr.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de un gran escudo redondo de madera apoyado en la pared de un salón, con dos escenas pintadas, un águila gigante que se lleva a una mujer con manzanas y un dios de barba pelirroja que alza un martillo ante un gigante de piedra, a la luz de una antorcha."
 fontes:
-  - "Wikipedia en inglés, artículo «Haustlöng»"
+  - "Obras de referencia en inglés, artículo «Haustlöng»"
   - "Snorri Sturluson, Edda en prosa (hacia 1220), que cita el poema"
-  - "Andy Orchard (1997) y John Lindow (2001), estudios citados por Wikipedia"
+  - "Andy Orchard (1997) y John Lindow (2001), estudios citados por obras de referencia"
 tags: [haustlöng, þjóðólfr de hvinir, thor, hrungnir, iðunn, þjazi, poesía escáldica, edda en prosa]
 ---
 

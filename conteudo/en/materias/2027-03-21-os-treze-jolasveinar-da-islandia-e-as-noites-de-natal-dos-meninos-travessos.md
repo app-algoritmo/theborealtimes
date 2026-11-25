@@ -11,7 +11,7 @@ imagem_alt: "Illustration of an Icelandic winter window with a shoe on the sill;
 fontes:
   - "Jóhannes úr Kötlum, Jólin koma (1932)"
   - "Smithsonian Magazine, \"Meet the Thirteen Yule Lads, Iceland's Own Mischievous Santa Clauses\""
-  - "Wikipedia, \"Yule Lads\""
+  - "Reference works on \"Yule Lads\""
 tags: [jólasveinar, yule lads, iceland, christmas, grýla, icelandic folklore, jóhannes úr kötlum]
 ---
 

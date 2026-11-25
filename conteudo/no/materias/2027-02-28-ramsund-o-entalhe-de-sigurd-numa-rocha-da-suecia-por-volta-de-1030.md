@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/ramsund-entalhe-de-sigurd.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en stor, glatt grå berghåll i en bjørkeskog, med en slangeramme risset i en kurve og, inni den, innrissede scener: en mann ved et bål med fingeren i munnen, fugler over ham, en lastet hest og en falt kropp ved siden av et hode og smedverktøy."
 fontes:
-  - "Wikipedia, \"Sigurd stones\" (oversikt, Ramsundsristningen, Gökstenen, Drävlestenen, andre steiner og bilder)"
+  - "Oppslagsverk om \"Sigurd stones\" (oversikt, Ramsundsristningen, Gökstenen, Drävlestenen, andre steiner og bilder)"
 tags: [ramsund, sigurd, fåvne, sigurdsristningene, södermanland, runer]
 ---
 

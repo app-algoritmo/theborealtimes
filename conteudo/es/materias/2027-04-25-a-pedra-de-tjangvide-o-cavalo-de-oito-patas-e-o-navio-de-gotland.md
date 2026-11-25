@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/a-pedra-de-tjangvide.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una gran losa de caliza grabada, con un caballo de ocho patas y un pequeño jinete al que una mujer ofrece un cuerno para beber, un hombre con arco detrás de ella y, abajo, un barco largo de vela ancha, con runas talladas en los bordes, en un prado de Gotland."
 fontes:
-  - "Wikipedia en inglés, artículo «Tjängvide image stone», con la descripción de la piedra, la inscripción y las interpretaciones"
+  - "Obras de referencia en inglés, artículo «Tjängvide image stone», con la descripción de la piedra, la inscripción y las interpretaciones"
 tags: [piedra de tjängvide, g 110, gotland, sleipnir, odín, piedra de imágenes, era vikinga]
 ---
 

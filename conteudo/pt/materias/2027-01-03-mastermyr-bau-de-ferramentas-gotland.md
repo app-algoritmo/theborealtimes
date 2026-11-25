@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/mastermyr-bau-ferramentas-gotland.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um baú de carvalho aberto no fundo de um campo úmido de Gotland em outubro de 1936, com uma corrente de elos em forma de oito em volta dele, marteladas, tenazes, uma bigorna pequena, serras, formões, limas, cadeados e uma balança de ferro à mostra; ao lado, um agricultor de boné segura o arado, e ao fundo uma casa de pedra caiada e um céu cinzento."
 fontes:
-  - "Wikipedia, \"Mästermyr chest\" (descoberta em 1936, baú, correntes, caldeirões, ferramentas, datação, dono provável, hipóteses de depósito)"
+  - "Obras de referência sobre \"Mästermyr chest\" (descoberta em 1936, baú, correntes, caldeirões, ferramentas, datação, dono provável, hipóteses de depósito)"
 tags: [mästermyr, gotland, ferramentas, ferreiro, baú]
 ---
 

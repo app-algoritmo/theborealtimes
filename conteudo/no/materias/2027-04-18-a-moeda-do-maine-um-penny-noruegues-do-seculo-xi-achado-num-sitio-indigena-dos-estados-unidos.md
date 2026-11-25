@@ -9,9 +9,9 @@ imagem: "/estatico/img/materias/a-moeda-norueguesa-do-maine.webp"
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av en gjennomhullet sølvmynt med et kongebryst og innskrifter, som hviler i en håndflate over et lag med mørk jord, med bukten og furuene i Maine i bakgrunnen, og et forstørrelsesglass ved siden av."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Maine penny» (funnet, identifiseringen, dateringen av stedet og de motstridende synene)"
-  - "Svein Gullbekk, artikkel i Journal of the North Atlantic (november 2017), sitert i Wikipedia, som argumenterer for at mynten er et ekte funn"
-  - "Kolbjørn Skaare (Universitetet i Oslo), identifiseringen av mynten, sitert i Wikipedia"
+  - "Engelsk Oppslagsverk om artikkelen «Maine penny» (funnet, identifiseringen, dateringen av stedet og de motstridende synene)"
+  - "Svein Gullbekk, artikkel i Journal of the North Atlantic (november 2017), sitert i Oppslagsverk om som argumenterer for at mynten er et ekte funn"
+  - "Kolbjørn Skaare (Universitetet i Oslo), identifiseringen av mynten, sitert i oppslagsverk"
 tags: [maine-myntet, goddard-stedet, olav kyrre, norsk penning, penobscot, vinland, numismatikk]
 ---
 

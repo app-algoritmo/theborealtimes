@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/knytlinga-saga-reis-dinamarca.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de um rei de coroa dourada sentado num trono de madeira num salão dinamarquês, com um escriba islandês de manto escuro registrando os feitos num pergaminho ao lado; ao fundo, por uma janela, um navio longo chega a uma costa com ídolos de madeira de várias cabeças, e uma cruz é erguida na praia."
 fontes:
-  - "Wikipedia, \"Knýtlinga saga\" (data, autoria, reis da Dinamarca, Valdemar II, Heimskringla, vendos e deuses eslavos, Svantevit em Arkona, Gartz, conversões, tradução de Hermann Pálsson e Paul Edwards, 1986)"
+  - "Obras de referência sobre \"Knýtlinga saga\" (data, autoria, reis da Dinamarca, Valdemar II, Heimskringla, vendos e deuses eslavos, Svantevit em Arkona, Gartz, conversões, tradução de Hermann Pálsson e Paul Edwards, 1986)"
 tags: [knýtlinga saga, dinamarca, harald dente azul, valdemar, óláfr þórðarson, vendos]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/chifres-de-ouro-de-gallehus.webp"
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de dos grandes cuernos dorados curvos, cubiertos de bandas horizontales con figuras de animales, serpientes y hombres en relieve, expuestos sobre un cojín oscuro en una sala de museo antigua, con una lupa y un cuaderno de dibujo al lado."
 fontes:
-  - "Wikipedia en inglés, artículo «Golden Horns of Gallehus» (hallazgo, dimensiones, inscripción DR 12, robo de 1802)"
+  - "Obras de referencia en inglés, artículo «Golden Horns of Gallehus» (hallazgo, dimensiones, inscripción DR 12, robo de 1802)"
   - "Ole Worm, De aureo cornu (1641), primer dibujo conservado"
   - "Adam Oehlenschläger, poema «Guldhornene», sobre los cuernos"
 tags: [gallehus, cuernos de oro, runas, futhark antiguo, dinamarca, hlewagastiz, edad del hierro germánica]

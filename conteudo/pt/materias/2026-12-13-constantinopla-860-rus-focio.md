@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma enorme cidade de muralhas altas à beira de um 
 fontes:
   - "Focio de Constantinopla, *Homilias* sobre o ataque dos rus (agosto de 860)"
   - "*Crônica Primária Russa* (século XII), para a versão tardia do episódio"
-  - "Wikipédia (inglês), \"Siege of Constantinople (860)\", com o estudo de Constantine Zuckerman citado"
+  - "obras de referência (inglês), \"Siege of Constantinople (860)\", com o estudo de Constantine Zuckerman citado"
 tags: [constantinopla, 860, rus, focio, bizâncio]
 ---
 

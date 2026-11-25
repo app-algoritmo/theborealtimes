@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/avaldsnes-a-sede-de-harald-cabelo-belo-no-estrei
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et trangt sund med gråblått hav sett fra en høyde, med en liten middelalderkirke av stein og en høy, skrå steinnål ved siden av, mens et langt skip med firkantet seil passerer gjennom sundet og, i forgrunnen, en stor gresskledd gravhaug."
 fontes:
-  - "Engelsk Wikipedia, artikkelen «Avaldsnes»"
+  - "Engelsk Oppslagsverk om artikkelen «Avaldsnes»"
   - "Nordvegen historiesenter, Avaldsnes"
 tags: [avaldsnes, karmøy, karmsundet, harald hårfagre, sankt olavs kirke, storhaug, nordvegen, skipsgrav]
 ---

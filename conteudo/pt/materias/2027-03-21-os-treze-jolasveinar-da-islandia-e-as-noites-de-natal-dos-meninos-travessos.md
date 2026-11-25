@@ -11,7 +11,7 @@ imagem_alt: "Ilustração de uma janela islandesa de inverno com um sapato no pa
 fontes:
   - "Jóhannes úr Kötlum, Jólin koma (1932)"
   - "Smithsonian Magazine, \"Meet the Thirteen Yule Lads, Iceland's Own Mischievous Santa Clauses\""
-  - "Wikipedia, \"Yule Lads\""
+  - "Obras de referência sobre \"Yule Lads\""
 tags: [jólasveinar, yule lads, islândia, natal, grýla, folclore islandês, jóhannes úr kötlum]
 ---
 

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/borgund-a-igreja-de-madeira-de-cerca-de-1200-com
 imagem_credito: "Ilustración generada por IA"
 imagem_alt: "Ilustración de una iglesia de madera oscura de varios tejados superpuestos, con cabezas de dragón en las cumbreras, junto a un campanario separado, en un valle verde de Noruega rodeado de montañas, bajo nubes bajas."
 fontes:
-  - "Wikipedia en inglés, artículo «Borgund Stave Church»"
+  - "Obras de referencia en inglés, artículo «Borgund Stave Church»"
 tags: [borgund, iglesia de madera, stavkirke, lærdal, noruega, cabezas de dragón, runas]
 ---
 

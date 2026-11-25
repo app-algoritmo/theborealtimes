@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorlaksmessa-o-bispo-santo-da-islandia-e-a-vesp
 imagem_credito: "Illustrasjon generert av KI"
 imagem_alt: "Illustrasjon av et islandsk vinterbord med kokt skate, poteter, rugbrød med smør og et glass akevitt, ved siden av et vindu med snø og et tent lys, i et trekjøkken lyst opp av varme lamper."
 fontes:
-  - "Engelskspråklig Wikipedia, artikkelen «Thorlak Thorhallsson»"
+  - "Engelskspråklig Oppslagsverk om artikkelen «Thorlak Thorhallsson»"
   - "Iceland Monitor, 2018, om 23. desember"
   - "Atlas Obscura, om gjæret skate"
 tags: [þorláksmessa, sankt þorlákur, island, gjæret skate, skata, jul, skálholt]

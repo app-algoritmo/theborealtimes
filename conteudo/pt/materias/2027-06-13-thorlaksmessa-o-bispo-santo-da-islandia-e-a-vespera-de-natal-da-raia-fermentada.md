@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/thorlaksmessa-o-bispo-santo-da-islandia-e-a-vesp
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma mesa islandesa de inverno com raia cozida, batatas, pão de centeio com manteiga e um copo de aguardente, ao lado de uma janela com neve e uma vela acesa, numa cozinha de madeira iluminada por lâmpadas quentes."
 fontes:
-  - "Wikipédia em inglês, artigo \"Thorlak Thorhallsson\""
+  - "Obras de referência em inglês, artigo \"Thorlak Thorhallsson\""
   - "Iceland Monitor, 2018, sobre o 23 de dezembro"
   - "Atlas Obscura, sobre a raia fermentada"
 tags: [þorláksmessa, são þorlákur, islândia, raia fermentada, skata, natal, skálholt]

@@ -9,7 +9,7 @@ imagem: "/estatico/img/materias/jotnar-gigantes-parentes-deuses.webp"
 imagem_credito: "Ilustração gerada por IA"
 imagem_alt: "Ilustração de uma paisagem montanhosa de gelo e rocha sob céu cinzento, onde duas figuras enormes de pedra e neve conversam diante de uma mesa de pedra, enquanto, bem menores, três figuras de capas vermelhas e douradas as observam de uma encosta; neblina sobe do vale e há runas riscadas numa rocha em primeiro plano."
 fontes:
-  - "Wikipedia, \"List of jötnar in Norse mythology\" (definição, parentescos e fontes: Hávamál, Gylfaginning, Skáldskaparmál, Skírnismál, Lokasenna, Þrymskviða)"
+  - "Obras de referência sobre \"List of jötnar in Norse mythology\" (definição, parentescos e fontes: Hávamál, Gylfaginning, Skáldskaparmál, Skírnismál, Lokasenna, Þrymskviða)"
 tags: [jötnar, gigantes, mitologia nórdica, Odin, Loki]
 ---
 
