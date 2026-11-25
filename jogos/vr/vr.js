@@ -3,7 +3,6 @@
    Funciona em tela comum (arrastar), com giroscópio e em óculos de celular (modo estéreo,
    com correção de lente). A escolha é feita só com o olhar: mire o ponto no centro e espere. */
 import * as THREE from 'three';
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
 var $ = function (id) { return document.getElementById(id); };
 var qs = new URLSearchParams(location.search);
@@ -13,29 +12,29 @@ if (['pt', 'en', 'no', 'es'].indexOf(L) < 0) L = 'en';
 document.documentElement.lang = L;
 
 var TXT = {
-  pt: { titulo: 'Salão Boreal', intro: 'Um salão viking em 3D com as figurinhas do Boreal Saga Play. Escolha com o olhar: mire o ponto no centro e espere.',
+  pt: { titulo: 'Salão Boreal', intro: 'Assista às histórias do Boreal Saga Play numa tela gigante, com narração. Escolha com o olhar: mire o ponto no centro e espere.',
     vr: 'Modo óculos (VR)', mono: 'Explorar na tela (arraste)', aviso: 'No modo óculos: gire o celular para horizontal, encaixe no óculos e olhe para a frente. Para sair, tire o celular e toque na tela.',
     ajuste: 'Ajuste das lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Olhos (cm)', fov: 'Campo de visão', padrao: 'Valores padrão', sair: 'Sair',
     reinos: ['Mitos e Deuses', 'Sagas e Reis', 'Era Viking', 'Contos e Folclore'], rar: ['Comum', 'Rara', 'Épica', 'Lendária'],
-    fig: 'Figurinha', voltar: 'Voltar', salao: 'Salão', mais: 'Mais ▶', antes: '◀ Antes', prox: 'Próxima ▶', ant: '◀ Anterior', pag: 'Página', hist: 'histórias',
+    pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'pt-BR', fig: 'Figurinha', voltar: 'Voltar', salao: 'Salão', mais: 'Mais ▶', antes: '◀ Antes', prox: 'Próxima ▶', ant: '◀ Anterior', pag: 'Página', hist: 'histórias',
     olhe: 'Olhe para a frente. O salão se ajusta em', gir: 'Sem giroscópio neste aparelho.', ler: 'Ler a história no site' },
-  en: { titulo: 'Boreal Hall', intro: 'A 3D Viking hall with the Boreal Saga Play stickers. Choose with your gaze: aim the dot at the centre and wait.',
+  en: { titulo: 'Boreal Hall', intro: 'Watch the Boreal Saga Play stories on a giant screen, with narration. Choose with your gaze: aim the dot at the centre and wait.',
     vr: 'Headset mode (VR)', mono: 'Explore on screen (drag)', aviso: 'In headset mode: turn the phone to landscape, slot it into the headset and look straight ahead. To exit, take the phone out and tap the screen.',
     ajuste: 'Lens settings', k1: 'Lens k1', k2: 'Lens k2', ipd: 'Eyes (cm)', fov: 'Field of view', padrao: 'Default values', sair: 'Exit',
     reinos: ['Myths & Gods', 'Sagas & Kings', 'Viking Age', 'Tales & Folklore'], rar: ['Common', 'Rare', 'Epic', 'Legendary'],
-    fig: 'Sticker', voltar: 'Back', salao: 'Hall', mais: 'More ▶', antes: '◀ Previous', prox: 'Next ▶', ant: '◀ Previous', pag: 'Page', hist: 'stories',
+    pausar: 'Pause', cont: 'Resume', menu: 'Realms', vozl: 'en-GB', fig: 'Sticker', voltar: 'Back', salao: 'Hall', mais: 'More ▶', antes: '◀ Previous', prox: 'Next ▶', ant: '◀ Previous', pag: 'Page', hist: 'stories',
     olhe: 'Look straight ahead. The hall adjusts in', gir: 'No gyroscope on this device.', ler: 'Read the story on the site' },
-  no: { titulo: 'Boreal-salen', intro: 'En viking-sal i 3D med klistremerkene fra Boreal Saga Play. Velg med blikket: sikt prikken mot midten og vent.',
+  no: { titulo: 'Boreal-salen', intro: 'Se historiene fra Boreal Saga Play på en gigantisk skjerm, med fortelling. Velg med blikket: sikt prikken mot midten og vent.',
     vr: 'Brillemodus (VR)', mono: 'Utforsk på skjermen (dra)', aviso: 'I brillemodus: vri telefonen til liggende, sett den i brillen og se rett frem. For å avslutte tar du ut telefonen og trykker på skjermen.',
     ajuste: 'Linseinnstillinger', k1: 'Linse k1', k2: 'Linse k2', ipd: 'Øyne (cm)', fov: 'Synsfelt', padrao: 'Standardverdier', sair: 'Avslutt',
     reinos: ['Myter og guder', 'Sagaer og konger', 'Vikingtid', 'Eventyr og folketro'], rar: ['Vanlig', 'Sjelden', 'Episk', 'Legendarisk'],
-    fig: 'Klistremerke', voltar: 'Tilbake', salao: 'Salen', mais: 'Flere ▶', antes: '◀ Forrige', prox: 'Neste ▶', ant: '◀ Forrige', pag: 'Side', hist: 'historier',
+    pausar: 'Pause', cont: 'Fortsett', menu: 'Riker', vozl: 'nb-NO', fig: 'Klistremerke', voltar: 'Tilbake', salao: 'Salen', mais: 'Flere ▶', antes: '◀ Forrige', prox: 'Neste ▶', ant: '◀ Forrige', pag: 'Side', hist: 'historier',
     olhe: 'Se rett frem. Salen justeres om', gir: 'Ingen gyroskop på denne enheten.', ler: 'Les historien på nettstedet' },
-  es: { titulo: 'Salón Boreal', intro: 'Un salón vikingo en 3D con los cromos de Boreal Saga Play. Elige con la mirada: apunta el punto al centro y espera.',
+  es: { titulo: 'Salón Boreal', intro: 'Mira las historias de Boreal Saga Play en una pantalla gigante, con narración. Elige con la mirada: apunta el punto al centro y espera.',
     vr: 'Modo gafas (VR)', mono: 'Explorar en pantalla (arrastra)', aviso: 'En modo gafas: gira el móvil a horizontal, colócalo en las gafas y mira al frente. Para salir, saca el móvil y toca la pantalla.',
     ajuste: 'Ajuste de las lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Ojos (cm)', fov: 'Campo de visión', padrao: 'Valores por defecto', sair: 'Salir',
     reinos: ['Mitos y Dioses', 'Sagas y Reyes', 'Era Vikinga', 'Cuentos y Folclore'], rar: ['Común', 'Rara', 'Épica', 'Legendaria'],
-    fig: 'Cromo', voltar: 'Volver', salao: 'Salón', mais: 'Más ▶', antes: '◀ Antes', prox: 'Siguiente ▶', ant: '◀ Anterior', pag: 'Página', hist: 'historias',
+    pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'es-ES', fig: 'Cromo', voltar: 'Volver', salao: 'Salón', mais: 'Más ▶', antes: '◀ Antes', prox: 'Siguiente ▶', ant: '◀ Anterior', pag: 'Página', hist: 'historias',
     olhe: 'Mira al frente. El salón se ajusta en', gir: 'Este dispositivo no tiene giroscopio.', ler: 'Leer la historia en el sitio' }
 };
 var TX = TXT[L];
@@ -45,10 +44,10 @@ $('l3').textContent = TX.ipd; $('l4').textContent = TX.fov; $('breset').textCont
 document.title = TX.titulo + ' VR · Boreal Saga Play';
 
 /* ---------- ajustes das lentes (guardados no aparelho) ---------- */
-var DEF = { k1: 0.34, k2: 0.55, ipd: 6.4, fov: 90 }, CFG = Object.assign({}, DEF);
-try { Object.assign(CFG, JSON.parse(localStorage.getItem('btvr') || '{}')); } catch (e) {}
+var DEF = { k1: 0.22, k2: 0.24, ipd: 6.4, fov: 90 }, CFG = Object.assign({}, DEF);
+try { Object.assign(CFG, JSON.parse(localStorage.getItem('btvr2') || '{}')); } catch (e) {}
 ['k1', 'k2'].forEach(function (k) { if (qs.has(k)) CFG[k] = parseFloat(qs.get(k)); });
-function salvarCfg() { try { localStorage.setItem('btvr', JSON.stringify(CFG)); } catch (e) {} }
+function salvarCfg() { try { localStorage.setItem('btvr2', JSON.stringify(CFG)); } catch (e) {} }
 function sliders() { ['k1', 'k2', 'ipd', 'fov'].forEach(function (k, i) { $(k).value = CFG[k]; $('o' + (i + 1)).textContent = CFG[k]; }); }
 ['k1', 'k2', 'ipd', 'fov'].forEach(function (k) {
   $(k).addEventListener('input', function () { CFG[k] = parseFloat($(k).value); sliders(); salvarCfg(); aplicarCfg(); });
@@ -66,7 +65,7 @@ renderer.setPixelRatio(DPR);
 var scene = new THREE.Scene();
 (function fundo() {
   var c = document.createElement('canvas'); c.width = 8; c.height = 256; var g = c.getContext('2d');
-  var gr = g.createLinearGradient(0, 0, 0, 256); gr.addColorStop(0, '#05030d'); gr.addColorStop(0.55, '#1b0f38'); gr.addColorStop(0.8, '#3b1f63'); gr.addColorStop(1, '#0b0618');
+  var gr = g.createLinearGradient(0, 0, 0, 256); gr.addColorStop(0, '#030208'); gr.addColorStop(0.55, '#0c0720'); gr.addColorStop(0.8, '#1a0f33'); gr.addColorStop(1, '#05030d');
   g.fillStyle = gr; g.fillRect(0, 0, 8, 256);
   var t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; scene.background = t;
 })();
@@ -197,11 +196,12 @@ function colocar(o, az, y, R) {
   var a = az * Math.PI / 180; o.position.set(Math.sin(a) * R, y, -Math.cos(a) * R); o.lookAt(0, y, 0); return o;
 }
 
-/* ---------- navegação ---------- */
+/* ---------- cinema: tela curva gigante, narração e lista de reprodução ---------- */
 var CAT = null, dyn = new THREE.Group(); scene.add(dyn);
-var alvos = [], estado = 'salao', ctx = {}, loader = new GLTFLoader();
+var alvos = [], estado = 'menu', lista = [], pos = 0, telaMesh = null, kb = 0, fade = 1, mudo = false;
+var RTELA = 2.2, ATELA = 100 * Math.PI / 180, HTELA = RTELA * ATELA * 9 / 16, loadTex = new THREE.TextureLoader();
 function limpar() {
-  alvos = [];
+  alvos = []; telaMesh = null;
   dyn.traverse(function (o) {
     if (o.geometry) o.geometry.dispose();
     if (o.material) { var ms = Array.isArray(o.material) ? o.material : [o.material]; ms.forEach(function (m) { if (m.map) m.map.dispose(); m.dispose(); }); }
@@ -209,78 +209,110 @@ function limpar() {
   while (dyn.children.length) dyn.remove(dyn.children[0]);
 }
 function acao(o, f) { o.userData.act = f; alvos.push(o); return o; }
-function tituloTopo(txt) { var t = legenda(txt, 3.4, 0.6, 62); dyn.add(colocar(t, 0, 3.55, 3.6)); }
-
-function salao() {
-  estado = 'salao'; limpar(); fechaLer();
-  tituloTopo(TX.titulo);
-  var azs = [-66, -22, 22, 66];
+/* trecho de cilindro visto por dentro, centrado à frente (-z) */
+function remendo(az, larg, alt, y, tex) {
+  var a = larg * Math.PI / 180, c = az * Math.PI / 180;
+  var g = new THREE.CylinderGeometry(RTELA, RTELA, alt, 48, 1, true, Math.PI - c - a / 2, a);
+  var m = new THREE.MeshBasicMaterial({ map: tex, side: THREE.BackSide, fog: false });
+  var o = new THREE.Mesh(g, m); o.position.y = y; return o;
+}
+function espelho(t) { t.wrapS = THREE.RepeatWrapping; t.repeat.x = -1; t.offset.x = 1; t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 4; return t; }
+function cartaoReino(s) {
+  var c = document.createElement('canvas'); c.width = 1024; c.height = 576; var g = c.getContext('2d');
+  g.fillStyle = '#1a1033'; g.fillRect(0, 0, 1024, 576);
+  var tex = new THREE.CanvasTexture(c); espelho(tex);
+  function rotulo() {
+    var gr = g.createLinearGradient(0, 380, 0, 576); gr.addColorStop(0, 'rgba(8,4,20,0)'); gr.addColorStop(1, 'rgba(8,4,20,.92)');
+    g.fillStyle = gr; g.fillRect(0, 380, 1024, 196);
+    g.fillStyle = '#fff'; g.font = 'bold 74px Georgia,serif'; g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillText(TX.reinos[s], 512, 510);
+    g.lineWidth = 14; g.strokeStyle = '#f0c15a'; g.strokeRect(7, 7, 1010, 562); tex.needsUpdate = true;
+  }
+  rotulo();
+  var u = (CAT.fundos && CAT.fundos[s]) || '';
+  if (u) { var im = new Image(); im.onload = function () {
+    var r = Math.max(1024 / im.width, 576 / im.height), w = im.width * r, h = im.height * r; g.drawImage(im, (1024 - w) / 2, (576 - h) / 2, w, h); rotulo(); }; im.src = u; }
+  return tex;
+}
+function menu() {
+  estado = 'menu'; pararVoz(); limpar();
+  var larg = 47, alt = RTELA * larg * Math.PI / 180 * 9 / 16, pos2 = [[-25, 0], [25, 0], [-25, 1], [25, 1]];
   for (var s = 0; s < 4; s++) (function (s) {
-    var g = new THREE.Group(), W = 2.3, H = W * 9 / 16;
-    var moldura = new THREE.Mesh(new THREE.PlaneGeometry(W + 0.16, H + 0.16), new THREE.MeshBasicMaterial({ color: 0xf0c15a }));
-    moldura.position.z = -0.004; g.add(moldura);
-    var arte = new THREE.Mesh(new THREE.PlaneGeometry(W, H), new THREE.MeshBasicMaterial({ color: 0x2a1a50 }));
-    g.add(arte);
-    var u = (CAT.fundos && CAT.fundos[s]) || '';
-    if (u) new THREE.TextureLoader().load(u, function (t) { t.colorSpace = THREE.SRGBColorSpace; arte.material.map = t; arte.material.color.set(0xffffff); arte.material.needsUpdate = true; });
-    var n = CAT.itens.filter(function (x) { return x.s === s && x.ar; }).length;
-    var rot = legenda(TX.reinos[s] + ' · ' + n, W + 0.1, 0.34, 54); rot.position.set(0, -H / 2 - 0.3, 0.01); g.add(rot);
-    colocar(g, azs[s], 1.75, 4.2); acao(arte, function () { reino(s, 0); }); arte.userData.grupo = g;
-    dyn.add(g);
+    var p = pos2[s], tile = remendo(p[0], larg, alt, EYE + (p[1] ? -(alt / 2 + 0.05) : (alt / 2 + 0.05)), cartaoReino(s));
+    tile.material.color.setScalar(0.78); tile.userData.hl = function (on) { tile.material.color.setScalar(on ? 1 : 0.78); };
+    acao(tile, function () { reinoCinema(s); }); dyn.add(tile);
   })(s);
 }
-
+function reinoCinema(s) {
+  lista = CAT.itens.filter(function (x) { return x.s === s && x.m; }).sort(function (a, b) { return a.n - b.n; });
+  if (!lista.length) return; pos = 0; cinema();
+}
+function cinema() {
+  estado = 'cinema'; limpar(); var x = lista[pos]; kb = 0; fade = 0; mudo = false;
+  var tex = espelho(loadTex.load(x.m)); tex.repeat.x = -1; tex.offset.x = 1;
+  telaMesh = remendo(0, 100, HTELA, EYE, tex); telaMesh.material.color.setScalar(0); dyn.add(telaMesh);
+  telaMesh.userData.tex = tex;
+  var seta = function (txt, az, f) { var b = botao(txt, 0.5, 0.5); dyn.add(colocar(b, az, EYE, RTELA - 0.05)); acao(b, f); };
+  seta('‹', -60, function () { pos = (pos - 1 + lista.length) % lista.length; cinema(); });
+  seta('›', 60, function () { pos = (pos + 1) % lista.length; cinema(); });
+  var bp = botao(TX.pausar, 0.9, 0.3); dyn.add(colocar(bp, 14, 0.3, 1.8));
+  acao(bp, function () { mudo = !mudo; if (mudo) pausarVoz(); else tocarVoz(); atualizaPausa(bp); });
+  var bm = botao(TX.menu, 0.9, 0.3); dyn.add(colocar(bm, -14, 0.3, 1.8)); acao(bm, menu);
+  falar(x);
+}
+function atualizaPausa(b) {
+  var n = botao(mudo ? TX.cont : TX.pausar, 0.9, 0.3); b.material.map.dispose(); b.material.map = n.material.map; b.material.needsUpdate = true;
+}
 function fechaLer() {}
-function reino(s, pag) {
-  estado = 'reino'; limpar();
-  var lista = CAT.itens.filter(function (x) { return x.s === s && x.ar; }), POR = 24, npag = Math.max(1, Math.ceil(lista.length / POR));
-  pag = Math.max(0, Math.min(npag - 1, pag)); ctx = { s: s, pag: pag, lista: lista, POR: POR };
-  tituloTopo(TX.reinos[s] + ' · ' + TX.pag + ' ' + (pag + 1) + '/' + npag);
-  var b = botao(TX.salao, 1.1, 0.32); dyn.add(colocar(b, 0, 0.32, 2.6)); acao(b, salao);
-  if (pag > 0) { var a = botao(TX.antes, 1.1, 0.32); dyn.add(colocar(a, -30, 0.32, 2.6)); acao(a, function () { reino(s, pag - 1); }); }
-  if (pag < npag - 1) { var p = botao(TX.mais, 1.1, 0.32); dyn.add(colocar(p, 30, 0.32, 2.6)); acao(p, function () { reino(s, pag + 1); }); }
-  var fatia = lista.slice(pag * POR, pag * POR + POR), COL = 8;
-  fatia.forEach(function (x, i) {
-    var col = i % COL, lin = Math.floor(i / COL), az = -98 + col * (196 / (COL - 1)), y = 2.45 - lin * 0.82;
-    loader.load('/g/ar/' + x.i + '.glb', function (gl) {
-      if (estado !== 'reino' || ctx.s !== s || ctx.pag !== pag) return;
-      var m = gl.scene; m.traverse(function (o) { if (o.isMesh && o.material && o.material.name === 'pedra') o.visible = false; });
-      m.position.y = -0.1; m.scale.setScalar(2.3);
-      var h = new THREE.Group(); h.add(m); colocar(h, az, y, 3.4); h.userData.idx = pag * POR + i;
-      dyn.add(h); acao(h, function () { carta(h.userData.idx); });
-    }, undefined, function () {});
-  });
-}
 
-function carta(idx) {
-  estado = 'carta'; limpar(); var x = ctx.lista[idx]; ctx.idx = idx;
-  loader.load('/g/ar/' + x.i + '.glb', function (gl) {
-    if (estado !== 'carta' || ctx.idx !== idx) return;
-    var m = gl.scene; m.traverse(function (o) { if (o.isMesh && o.material && o.material.name === 'pedra') o.visible = false; });
-    m.position.y = -0.1; m.scale.setScalar(3.2);
-    var h = new THREE.Group(); h.add(m); h.position.set(-1.05, EYE + 0.15, -2.0); dyn.add(h);
-    h.userData.gira = true; ctx.holder = h;
-  });
-  var info = painel(1.5, 1.23, 1000, 820, function (g, w, h) {
-    fundoArr(g, w, h, 30);
-    g.fillStyle = '#f0c15a'; g.font = '600 38px system-ui,sans-serif'; g.textBaseline = 'alphabetic'; g.textAlign = 'left';
-    g.fillText(TX.fig + ' ' + String(x.n).padStart(3, '0') + ' / ' + CAT.total + ' · ' + TX.rar[x.q], 40, 66);
-    g.fillStyle = '#b9a8ff'; g.font = '34px system-ui,sans-serif'; g.fillText(TX.reinos[x.s], 40, 112);
-    g.fillStyle = '#fff'; g.font = 'bold 50px Georgia,serif'; var n = quebra(g, x.t, 40, 176, w - 80, 58, 3);
-    g.fillStyle = '#e6defa'; g.font = '40px system-ui,sans-serif'; quebra(g, x.r, 40, 176 + n * 58 + 30, w - 80, 52, 8);
-  });
-  info.position.set(0.85, EYE + 0.05, -2.0); dyn.add(info);
-  var vb = botao(TX.voltar, 0.9, 0.28); dyn.add(colocar(vb, 0, 0.62, 2.1)); acao(vb, function () { reino(ctx.s, ctx.pag); });
-  var ab = botao(TX.ant, 0.9, 0.28); dyn.add(colocar(ab, -26, 0.62, 2.1)); acao(ab, function () { carta((idx - 1 + ctx.lista.length) % ctx.lista.length); });
-  var pb = botao(TX.prox, 0.9, 0.28); dyn.add(colocar(pb, 26, 0.62, 2.1)); acao(pb, function () { carta((idx + 1) % ctx.lista.length); });
-  mostrarLer(x.u);
+/* ---------- narração (a voz do próprio aparelho, como o botão "Ouvir" do site) ---------- */
+var S = window.speechSynthesis, vozEsc = null, chunks = [], ci = 0, ficha = 0, relogio = null, falando = false;
+function escolherVoz() {
+  if (!S) return; var v = S.getVoices() || [], lang = TX.vozl, pref = lang.slice(0, 2).toLowerCase(), melhor = null;
+  for (var k = 0; k < v.length; k++) {
+    var vl = (v[k].lang || '').replace('_', '-').toLowerCase();
+    if (vl.indexOf(pref) !== 0 && !(pref === 'nb' && vl.indexOf('no') === 0)) continue;
+    if (vl === lang.toLowerCase()) { if (!melhor || v[k].localService === false || /natural|online|premium|enhanced/i.test(v[k].name)) melhor = v[k]; }
+    else if (!melhor) melhor = v[k];
+  }
+  vozEsc = melhor;
 }
-var lerEl = null;
-function mostrarLer(u) {
-  if (!lerEl) { lerEl = document.createElement('a'); lerEl.style.cssText = 'position:fixed;left:50%;transform:translateX(-50%);bottom:40px;z-index:4;padding:.6rem 1rem;border-radius:12px;background:linear-gradient(135deg,#f0c15a,#e0883a);color:#1b1230;font-weight:600;text-decoration:none;font-size:.95rem'; document.body.appendChild(lerEl); }
-  lerEl.textContent = TX.ler; lerEl.href = u; lerEl.style.display = estereo ? 'none' : 'block';
+function destravarVoz() { try { if (S) { var u = new SpeechSynthesisUtterance(' '); u.volume = 0; S.speak(u); } } catch (e) {} }
+function dividir(partes) {
+  var res = [];
+  partes.forEach(function (p) {
+    var frases = p.match(/[^.!?]+[.!?]+["”»)]*\s*|[^.!?]+$/g) || [p], atual = '';
+    frases.forEach(function (f) { if ((atual + f).length > 220 && atual) { res.push(atual.trim()); atual = ''; } atual += f; });
+    if (atual.trim()) res.push(atual.trim());
+  });
+  return res;
 }
-fechaLer = function () { if (lerEl) lerEl.style.display = 'none'; };
+function pararVoz() { ficha++; clearInterval(relogio); falando = false; if (S) S.cancel(); }
+function pausarVoz() { ficha++; clearInterval(relogio); if (S) S.cancel(); }
+function proxFala(n, f) {
+  if (f !== ficha) return;
+  if (n >= chunks.length) { falando = false; if (estado === 'cinema') { pos = (pos + 1) % lista.length; cinema(); } return; }
+  ci = n; var u = new SpeechSynthesisUtterance(chunks[n]), feito = false;
+  u.lang = TX.vozl; if (vozEsc) u.voice = vozEsc; u.rate = 0.95;
+  function avancar() { if (feito) return; feito = true; clearInterval(relogio); if (f === ficha) proxFala(n + 1, f); }
+  u.onend = avancar; u.onerror = function (e) { if (e && (e.error === 'canceled' || e.error === 'interrupted')) return; avancar(); };
+  S.speak(u);
+  var ini = Date.now(), previsto = 4000 + chunks[n].length * 110; clearInterval(relogio);
+  relogio = setInterval(function () { if (feito || f !== ficha) { clearInterval(relogio); return; } var tt = Date.now() - ini; if ((tt > 1500 && !S.speaking && !S.pending) || tt > previsto * 3) avancar(); }, 400);
+}
+function tocarVoz() { ficha++; var f = ficha; if (S) S.cancel(); falando = true; setTimeout(function () { proxFala(ci, f); }, 150); }
+function falar(x) {
+  pararVoz(); chunks = []; ci = 0; var f0 = ficha;
+  if (!S || typeof SpeechSynthesisUtterance === 'undefined') { var f1 = ficha; setTimeout(function () { if (f1 === ficha && estado === 'cinema') { pos = (pos + 1) % lista.length; cinema(); } }, 30000); return; }
+  escolherVoz();
+  fetch(x.u).then(function (r) { return r.text(); }).then(function (h) {
+    if (f0 !== ficha) return;
+    var d = new DOMParser().parseFromString(h, 'text/html'), out = [], h1 = d.querySelector('.cabeca-materia h1'), lf = d.querySelector('.linha-fina');
+    if (h1) out.push(h1.textContent.trim() + '.'); if (lf) out.push(lf.textContent.trim());
+    var tx = d.querySelector('.texto'); if (tx) tx.querySelectorAll('h2,p').forEach(function (n) { var s = n.textContent.replace(/\s+/g, ' ').trim(); if (s) out.push(s); });
+    if (!out.length) out.push(x.t + '. ' + x.r);
+    chunks = dividir(out); ci = 0; if (!mudo) tocarVoz();
+  }).catch(function () { chunks = dividir([x.t + '. ' + x.r]); ci = 0; if (!mudo) tocarVoz(); });
+}
 
 /* ---------- olhar (gaze) e toque ---------- */
 var ray = new THREE.Raycaster(), alvoAtual = null, dwell = 0, espera = 0, DWELL = 1.3;
@@ -303,7 +335,7 @@ function mexer(dt) {
   } else dwell = 0;
   var p = Math.max(0.05, Math.min(1, dwell / DWELL));
   miras.forEach(function (m) { m.userData.pr.scale.setScalar(p); m.userData.pr.material.opacity = alvoAtual ? 0.95 : 0; });
-  alvos.forEach(function (a) { var g = a.userData.grupo || a; var alvo = (a === alvoAtual) ? 1.06 : 1; g.scale.lerp(new THREE.Vector3(alvo, alvo, alvo), 0.2); });
+  alvos.forEach(function (a) { if (a.userData.hl) { a.userData.hl(a === alvoAtual); return; } var alvo = (a === alvoAtual) ? 1.08 : 1; a.scale.lerp(new THREE.Vector3(alvo, alvo, alvo), 0.2); });
 }
 
 /* ---------- entrada: arrastar e tocar (modo tela) ---------- */
@@ -324,9 +356,9 @@ canvas.addEventListener('pointerup', function (e) {
 
 /* ---------- modos ---------- */
 function esconderOv(s) { $('ov').style.display = s ? 'none' : 'flex'; }
-$('bmono').onclick = function () { esconderOv(true); ativarGiro().catch(function () {}); };
+$('bmono').onclick = function () { destravarVoz(); esconderOv(true); ativarGiro().catch(function () {}); };
 $('bvr').onclick = async function () {
-  var ok = false; try { ok = await ativarGiro(); } catch (e) {}
+  destravarVoz(); var ok = false; try { ok = await ativarGiro(); } catch (e) {}
   if (!ok) { $('msg').textContent = TX.gir; }
   estereo = true; esconderOv(true); document.body.classList.add('est'); recentrar(6); tVida = 0; fechaLer();
   var el = document.documentElement; if (el.requestFullscreen) el.requestFullscreen().catch(function () {});
@@ -335,7 +367,6 @@ $('bvr').onclick = async function () {
 function sairEstereo() {
   estereo = false; document.body.classList.remove('est'); esconderOv(false);
   if (document.fullscreenElement && document.exitFullscreen) document.exitFullscreen().catch(function () {});
-  if (estado === 'carta' && ctx.lista) mostrarLer(ctx.lista[ctx.idx].u);
   tamanho();
 }
 $('sair').onclick = sairEstereo;
@@ -351,7 +382,11 @@ function laco() {
   atualizarCabeca(dt);
   mm.visible = !estereo;
   if (CAT) mexer(dt);
-  if (ctx.holder && estado === 'carta') ctx.holder.rotation.y = Math.sin(tVida * 0.8) * 0.35;
+  if (telaMesh && estado === 'cinema') {
+    fade = Math.min(1, fade + dt / 1.2); telaMesh.material.color.setScalar(fade);
+    kb = Math.min(1, kb + dt / 120); var sc = 1 - 0.1 * kb, tx = telaMesh.userData.tex;
+    tx.repeat.x = -sc; tx.offset.x = 0.5 + sc / 2; tx.repeat.y = sc; tx.offset.y = (1 - sc) / 2;
+  }
   if (estereo) {
     renderer.autoClear = false; renderer.setRenderTarget(null); renderer.clear();
     var w = window.innerWidth, h = window.innerHeight;
@@ -370,6 +405,8 @@ function carregarCat() {
     var s = document.createElement('script'); s.src = '/g/catalogo-' + L + '.js'; s.onload = function () { ok(window.BT_CAT); }; s.onerror = erro; document.head.appendChild(s);
   });
 }
-carregarCat().then(function (c) { CAT = c; salao(); }).catch(function () { $('msg').textContent = 'catálogo?'; });
-window.__vr = { look: function (y, p) { yaw = y * Math.PI / 180; pitch = p * Math.PI / 180; }, estado: function () { return estado; }, reino: reino, carta: carta, salao: salao, estereo: function (v) { estereo = !!v; tamanho(); }, cfg: CFG };
+carregarCat().then(function (c) { CAT = c; menu(); }).catch(function () { $('msg').textContent = 'catálogo?'; });
+window.__vr = { look: function (y, p) { yaw = y * Math.PI / 180; pitch = p * Math.PI / 180; }, estado: function () { return estado; }, reino: reinoCinema, menu: menu, estereo: function (v) { estereo = !!v; tamanho(); }, cfg: CFG };
 requestAnimationFrame(laco);
+
+window.addEventListener('pagehide', function () { pararVoz(); });
