@@ -14,25 +14,25 @@ document.documentElement.lang = L;
 var TXT = {
   pt: { titulo: 'Salão Boreal', intro: 'Assista às histórias do Boreal Saga Play numa tela gigante, com narração. Escolha com o olhar: mire o ponto no centro e espere.',
     vr: 'Modo óculos (VR)', mono: 'Explorar na tela (arraste)', aviso: 'No modo óculos: gire o celular para horizontal, encaixe no óculos e olhe para a frente. Para sair, tire o celular e toque na tela.',
-    ajuste: 'Ajuste das lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Olhos (cm)', fov: 'Campo de visão', padrao: 'Valores padrão', sair: 'Sair',
+    ajuste: 'Ajuste das lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Olhos (cm)', fov: 'Campo de visão', prof: 'Profundidade 3D', padrao: 'Valores padrão', sair: 'Sair',
     reinos: ['Mitos e Deuses', 'Sagas e Reis', 'Era Viking', 'Contos e Folclore'], rar: ['Comum', 'Rara', 'Épica', 'Lendária'],
     pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'pt-BR', fig: 'Figurinha', voltar: 'Voltar', salao: 'Salão', mais: 'Mais ▶', antes: '◀ Antes', prox: 'Próxima ▶', ant: '◀ Anterior', pag: 'Página', hist: 'histórias',
     olhe: 'Olhe para a frente. O salão se ajusta em', gir: 'Sem giroscópio neste aparelho.', ler: 'Ler a história no site' },
   en: { titulo: 'Boreal Hall', intro: 'Watch the Boreal Saga Play stories on a giant screen, with narration. Choose with your gaze: aim the dot at the centre and wait.',
     vr: 'Headset mode (VR)', mono: 'Explore on screen (drag)', aviso: 'In headset mode: turn the phone to landscape, slot it into the headset and look straight ahead. To exit, take the phone out and tap the screen.',
-    ajuste: 'Lens settings', k1: 'Lens k1', k2: 'Lens k2', ipd: 'Eyes (cm)', fov: 'Field of view', padrao: 'Default values', sair: 'Exit',
+    ajuste: 'Lens settings', k1: 'Lens k1', k2: 'Lens k2', ipd: 'Eyes (cm)', fov: 'Field of view', prof: '3D depth', padrao: 'Default values', sair: 'Exit',
     reinos: ['Myths & Gods', 'Sagas & Kings', 'Viking Age', 'Tales & Folklore'], rar: ['Common', 'Rare', 'Epic', 'Legendary'],
     pausar: 'Pause', cont: 'Resume', menu: 'Realms', vozl: 'en-GB', fig: 'Sticker', voltar: 'Back', salao: 'Hall', mais: 'More ▶', antes: '◀ Previous', prox: 'Next ▶', ant: '◀ Previous', pag: 'Page', hist: 'stories',
     olhe: 'Look straight ahead. The hall adjusts in', gir: 'No gyroscope on this device.', ler: 'Read the story on the site' },
   no: { titulo: 'Boreal-salen', intro: 'Se historiene fra Boreal Saga Play på en gigantisk skjerm, med fortelling. Velg med blikket: sikt prikken mot midten og vent.',
     vr: 'Brillemodus (VR)', mono: 'Utforsk på skjermen (dra)', aviso: 'I brillemodus: vri telefonen til liggende, sett den i brillen og se rett frem. For å avslutte tar du ut telefonen og trykker på skjermen.',
-    ajuste: 'Linseinnstillinger', k1: 'Linse k1', k2: 'Linse k2', ipd: 'Øyne (cm)', fov: 'Synsfelt', padrao: 'Standardverdier', sair: 'Avslutt',
+    ajuste: 'Linseinnstillinger', k1: 'Linse k1', k2: 'Linse k2', ipd: 'Øyne (cm)', fov: 'Synsfelt', prof: '3D-dybde', padrao: 'Standardverdier', sair: 'Avslutt',
     reinos: ['Myter og guder', 'Sagaer og konger', 'Vikingtid', 'Eventyr og folketro'], rar: ['Vanlig', 'Sjelden', 'Episk', 'Legendarisk'],
     pausar: 'Pause', cont: 'Fortsett', menu: 'Riker', vozl: 'nb-NO', fig: 'Klistremerke', voltar: 'Tilbake', salao: 'Salen', mais: 'Flere ▶', antes: '◀ Forrige', prox: 'Neste ▶', ant: '◀ Forrige', pag: 'Side', hist: 'historier',
     olhe: 'Se rett frem. Salen justeres om', gir: 'Ingen gyroskop på denne enheten.', ler: 'Les historien på nettstedet' },
   es: { titulo: 'Salón Boreal', intro: 'Mira las historias de Boreal Saga Play en una pantalla gigante, con narración. Elige con la mirada: apunta el punto al centro y espera.',
     vr: 'Modo gafas (VR)', mono: 'Explorar en pantalla (arrastra)', aviso: 'En modo gafas: gira el móvil a horizontal, colócalo en las gafas y mira al frente. Para salir, saca el móvil y toca la pantalla.',
-    ajuste: 'Ajuste de las lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Ojos (cm)', fov: 'Campo de visión', padrao: 'Valores por defecto', sair: 'Salir',
+    ajuste: 'Ajuste de las lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Ojos (cm)', fov: 'Campo de visión', prof: 'Profundidad 3D', padrao: 'Valores por defecto', sair: 'Salir',
     reinos: ['Mitos y Dioses', 'Sagas y Reyes', 'Era Vikinga', 'Cuentos y Folclore'], rar: ['Común', 'Rara', 'Épica', 'Legendaria'],
     pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'es-ES', fig: 'Cromo', voltar: 'Volver', salao: 'Salón', mais: 'Más ▶', antes: '◀ Antes', prox: 'Siguiente ▶', ant: '◀ Anterior', pag: 'Página', hist: 'historias',
     olhe: 'Mira al frente. El salón se ajusta en', gir: 'Este dispositivo no tiene giroscopio.', ler: 'Leer la historia en el sitio' }
@@ -40,16 +40,16 @@ var TXT = {
 var TX = TXT[L];
 $('t1').textContent = TX.titulo; $('t2').textContent = TX.intro; $('bvr').textContent = TX.vr; $('bmono').textContent = TX.mono;
 $('t3').textContent = TX.aviso; $('tadj').textContent = TX.ajuste; $('l1').textContent = TX.k1; $('l2').textContent = TX.k2;
-$('l3').textContent = TX.ipd; $('l4').textContent = TX.fov; $('breset').textContent = TX.padrao; $('sair').textContent = TX.sair;
+$('l3').textContent = TX.ipd; $('l4').textContent = TX.fov; $('l5').textContent = TX.prof; $('breset').textContent = TX.padrao; $('sair').textContent = TX.sair;
 document.title = TX.titulo + ' VR · Boreal Saga Play';
 
 /* ---------- ajustes das lentes (guardados no aparelho) ---------- */
-var DEF = { k1: 0.22, k2: 0.24, ipd: 6.4, fov: 90 }, CFG = Object.assign({}, DEF);
-try { Object.assign(CFG, JSON.parse(localStorage.getItem('btvr2') || '{}')); } catch (e) {}
+var DEF = { k1: 0.22, k2: 0.24, ipd: 6.4, fov: 90, prof: 0.45 }, CFG = Object.assign({}, DEF);
+try { Object.assign(CFG, JSON.parse(localStorage.getItem('btvr3') || '{}')); } catch (e) {}
 ['k1', 'k2'].forEach(function (k) { if (qs.has(k)) CFG[k] = parseFloat(qs.get(k)); });
-function salvarCfg() { try { localStorage.setItem('btvr2', JSON.stringify(CFG)); } catch (e) {} }
-function sliders() { ['k1', 'k2', 'ipd', 'fov'].forEach(function (k, i) { $(k).value = CFG[k]; $('o' + (i + 1)).textContent = CFG[k]; }); }
-['k1', 'k2', 'ipd', 'fov'].forEach(function (k) {
+function salvarCfg() { try { localStorage.setItem('btvr3', JSON.stringify(CFG)); } catch (e) {} }
+function sliders() { ['k1', 'k2', 'ipd', 'fov', 'prof'].forEach(function (k, i) { $(k).value = CFG[k]; $('o' + (i + 1)).textContent = CFG[k]; }); }
+['k1', 'k2', 'ipd', 'fov', 'prof'].forEach(function (k) {
   $(k).addEventListener('input', function () { CFG[k] = parseFloat($(k).value); sliders(); salvarCfg(); aplicarCfg(); });
 });
 $('breset').onclick = function () { CFG = Object.assign({}, DEF); sliders(); salvarCfg(); aplicarCfg(); };
@@ -216,6 +216,17 @@ function remendo(az, larg, alt, y, tex) {
   var m = new THREE.MeshBasicMaterial({ map: tex, side: THREE.BackSide, fog: false });
   var o = new THREE.Mesh(g, m); o.position.y = y; return o;
 }
+var vazio = new THREE.DataTexture(new Uint8Array([0, 0, 0, 255]), 1, 1); vazio.needsUpdate = true;
+function telaProf(cor, prof) {
+  var g = new THREE.CylinderGeometry(RTELA, RTELA, HTELA, 160, 90, true, Math.PI - ATELA / 2, ATELA);
+  var m = new THREE.ShaderMaterial({
+    uniforms: { cor: { value: cor }, dep: { value: prof }, k: { value: CFG.prof }, sc: { value: 1 }, fade: { value: 0 } },
+    side: THREE.BackSide, depthWrite: true,
+    vertexShader: 'uniform sampler2D dep; uniform float k, sc; varying vec2 vU; void main(){ vec2 u=(vec2(1.0-uv.x, uv.y)-0.5)*sc+0.5; vU=u; float d=texture2D(dep,u).r; vec3 p=position*(1.0-k*d); gl_Position=projectionMatrix*modelViewMatrix*vec4(p,1.0); }',
+    fragmentShader: 'uniform sampler2D cor; uniform float fade; varying vec2 vU; void main(){ vec4 c=texture2D(cor,vU); c.rgb*=fade; gl_FragColor=linearToOutputTexel(c); }'
+  });
+  var o = new THREE.Mesh(g, m); o.position.y = EYE; o.frustumCulled = false; return o;
+}
 function espelho(t) { t.wrapS = THREE.RepeatWrapping; t.repeat.x = -1; t.offset.x = 1; t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 4; return t; }
 function cartaoReino(s) {
   var c = document.createElement('canvas'); c.width = 1024; c.height = 576; var g = c.getContext('2d');
@@ -248,9 +259,10 @@ function reinoCinema(s) {
 }
 function cinema() {
   estado = 'cinema'; limpar(); var x = lista[pos]; kb = 0; fade = 0; mudo = false;
-  var tex = espelho(loadTex.load(x.m)); tex.repeat.x = -1; tex.offset.x = 1;
-  telaMesh = remendo(0, 100, HTELA, EYE, tex); telaMesh.material.color.setScalar(0); dyn.add(telaMesh);
-  telaMesh.userData.tex = tex;
+  var cor = loadTex.load(x.m); cor.colorSpace = THREE.SRGBColorSpace; cor.anisotropy = 4;
+  var stem = x.m.split('/').pop().replace(/\.[a-z0-9]+$/i, ''), prof = vazio;
+  telaMesh = telaProf(cor, vazio); dyn.add(telaMesh);
+  loadTex.load('/g/vr/prof/' + stem + '.jpg', function (d) { d.colorSpace = THREE.NoColorSpace; if (telaMesh && telaMesh.material.uniforms.cor.value === cor) telaMesh.material.uniforms.dep.value = d; });
   var seta = function (txt, az, f) { var b = botao(txt, 0.5, 0.5); dyn.add(colocar(b, az, EYE, RTELA - 0.05)); acao(b, f); };
   seta('‹', -60, function () { pos = (pos - 1 + lista.length) % lista.length; cinema(); });
   seta('›', 60, function () { pos = (pos + 1) % lista.length; cinema(); });
@@ -383,9 +395,9 @@ function laco() {
   mm.visible = !estereo;
   if (CAT) mexer(dt);
   if (telaMesh && estado === 'cinema') {
-    fade = Math.min(1, fade + dt / 1.2); telaMesh.material.color.setScalar(fade);
-    kb = Math.min(1, kb + dt / 120); var sc = 1 - 0.1 * kb, tx = telaMesh.userData.tex;
-    tx.repeat.x = -sc; tx.offset.x = 0.5 + sc / 2; tx.repeat.y = sc; tx.offset.y = (1 - sc) / 2;
+    var U = telaMesh.material.uniforms;
+    fade = Math.min(1, fade + dt / 1.2); U.fade.value = fade; U.k.value = CFG.prof;
+    kb = Math.min(1, kb + dt / 120); U.sc.value = 1 - 0.1 * kb;
   }
   if (estereo) {
     renderer.autoClear = false; renderer.setRenderTarget(null); renderer.clear();
