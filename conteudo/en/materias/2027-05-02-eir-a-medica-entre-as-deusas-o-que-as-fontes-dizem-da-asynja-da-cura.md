@@ -19,17 +19,17 @@ Among the Norse goddesses, few have as few lines as Eir. And yet her name became
 
 ## The name
 
-In Old Norse, *eir* means "protection", "help", "mercy". Wikipedia describes Eir as a goddess or valkyrie associated with medical skill and compares her with the Greek goddess Hygieia.
+In Old Norse, *eir* means "protection", "help", "mercy". The source describes Eir as a goddess or valkyrie associated with medical skill and compares her with the Greek goddess Hygieia.
 
 ## What the sources say
 
-In **Fjölsvinnsmál**, in the Poetic Edda, the watchman Fjölsviðr lists the maidens who serve Menglöð. Among them is Eir. They sit on the hill Lyfjaberg, "hill of healing". Fjölsviðr says that offerings made to these maidens bring help and protection from pestilence and peril. Wikipedia does not point to a specific role for Eir there beyond her presence in the list.
+In **Fjölsvinnsmál**, in the Poetic Edda, the watchman Fjölsviðr lists the maidens who serve Menglöð. Among them is Eir. They sit on the hill Lyfjaberg, "hill of healing". Fjölsviðr says that offerings made to these maidens bring help and protection from pestilence and peril. The source does not point to a specific role for Eir there beyond her presence in the list.
 
 In **Gylfaginning**, in ch. 35, High names Eir third among the sixteen ásynjur and says she is "an extremely good physician". Nothing more is said about her.
 
 In **Skáldskaparmál**, in ch. 75, Eir appears in a list of valkyrie names, but not in the list of ásynjur in the same chapter.
 
-In **skaldic poetry**, Eir serves as a kenning for a woman. Wikipedia gives examples such as "Eir of riches" in Gísla saga, and uses by the tenth-century poets Kormákr Ögmundarson and Hallfreðr vandræðaskáld. The name kept being used in woman-kennings in the rímur.
+In **skaldic poetry**, Eir serves as a kenning for a woman. The source gives examples such as "Eir of riches" in Gísla saga, and uses by the tenth-century poets Kormákr Ögmundarson and Hallfreðr vandræðaskáld. The name kept being used in woman-kennings in the rímur.
 
 ## A rune stick from Bergen
 
@@ -47,7 +47,7 @@ Scholars do not agree.
 
 ## What the sources do not give
 
-There is no myth of Eir healing anyone. Wikipedia records no episode in which she treats a wounded god. What exists is three things: a sentence by Snorri, a list in Fjölsvinnsmál and the use of the name in verse.
+There is no myth of Eir healing anyone. The source records no episode in which she treats a wounded god. What exists is three things: a sentence by Snorri, a list in Fjölsvinnsmál and the use of the name in verse.
 
 ## In short
 

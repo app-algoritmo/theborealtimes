@@ -31,7 +31,7 @@ Segundo a Orkneyinga saga, Sigurd desafiou Máel Brigte, o "Dentuço", para uma 
 
 ## A morte
 
-Sigurd amarrou a cabeça à sela, como troféu. Um dos dentes salientes arranhou sua perna, a ferida infeccionou e ele morreu. A Wikipédia nota que o detalhe do dente varia entre as versões, e que a mais específica vem da saga.
+Sigurd amarrou a cabeça à sela, como troféu. Um dos dentes salientes arranhou sua perna, a ferida infeccionou e ele morreu. A fonte nota que o detalhe do dente varia entre as versões, e que a mais específica vem da saga.
 
 ## A sepultura e os herdeiros
 

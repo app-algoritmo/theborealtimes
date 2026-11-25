@@ -18,7 +18,7 @@ Alfhild, or Alvilda, is another warrior woman of Saxo. Her story, in Book VII of
 
 ## What Saxo tells
 
-According to Wikipedia, Alfhild is a Geatish princess, daughter of King Siward. Her chamber was guarded by a lizard and a snake, which drove off unworthy suitors. The Danish prince Alf overcame the two guards, but Alfhild, advised by her mother, fled dressed as a man and became a shieldmaiden.
+According to the sources, Alfhild is a Geatish princess, daughter of King Siward. Her chamber was guarded by a lizard and a snake, which drove off unworthy suitors. The Danish prince Alf overcame the two guards, but Alfhild, advised by her mother, fled dressed as a man and became a shieldmaiden.
 
 She commanded a fleet of longships crewed by young women pirates, who raided the Baltic coast. Alf and his Scanian companion Borgar found the fleet off southern Finland. After a deadly battle, Alfhild's helmet fell off and she was recognised. Alf embraced her, she gave up her warrior clothes, and they married in Denmark.
 
@@ -28,7 +28,7 @@ The story goes on with war. Alf, his brothers and his father, King Sigar, die fi
 
 ## Origin of the story
 
-Wikipedia says that Saxo's version is the oldest and was based on "one of the old folktales or songs" he gathered. Saxo's details place the events in the fifth century, but that claim carries a citation-needed tag in the article. There is little interpretation beyond that.
+The source says that Saxo's version is the oldest and was based on "one of the old folktales or songs" he gathered. Saxo's details place the events in the fifth century, but that claim carries a citation-needed tag in the article. There is little interpretation beyond that.
 
 ## Later readings
 

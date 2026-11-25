@@ -23,4 +23,4 @@ I sagaen blir Ragnars menn så slått av å se Áslaug at de lar brødet brenne.
 
 ## Historien bak
 
-Ifølge Wikipedia så Ragnars menn henne bade og ble så slått at de lot brødet brenne. Da Ragnar spurte hvorfor, fortalte de ham om henne. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Áslaug, «Kráka»: datteren til Sigurd og Brynhildr, harpen og kvinnen som kom verken kledd eller naken](/no/aslaug-kraka-datteren-til-sigurd-og-brynhildr-harpen/).
+Ifølge kildene så Ragnars menn henne bade og ble så slått at de lot brødet brenne. Da Ragnar spurte hvorfor, fortalte de ham om henne. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Áslaug, «Kráka»: datteren til Sigurd og Brynhildr, harpen og kvinnen som kom verken kledd eller naken](/no/aslaug-kraka-datteren-til-sigurd-og-brynhildr-harpen/).

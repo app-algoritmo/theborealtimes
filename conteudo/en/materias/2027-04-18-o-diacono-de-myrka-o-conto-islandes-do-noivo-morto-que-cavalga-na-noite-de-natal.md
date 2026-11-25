@@ -35,11 +35,11 @@ The ghost still haunts the night and disturbs others on the farm. An exorcist is
 
 ## The ghost who gets her name wrong
 
-Wikipedia notes that ghosts in Icelandic folklore often speak in verse, repeating the last word of each line. Two of the deacon's lines are quoted: "The moon fades, death rides" and "Wait here Garún, Garún". The explanation for the second "Garún" is that he cannot say "Guð", the first part of her name, because *Guð* means God, and ghosts in Icelandic legend cannot say words such as God or angel.
+The source notes that ghosts in Icelandic folklore often speak in verse, repeating the last word of each line. Two of the deacon's lines are quoted: "The moon fades, death rides" and "Wait here Garún, Garún". The explanation for the second "Garún" is that he cannot say "Guð", the first part of her name, because *Guð* means God, and ghosts in Icelandic legend cannot say words such as God or angel.
 
 ## Where it comes from
 
-The tale was first printed by Konrad Maurer in 1860, and in Icelandic by Jón Árnason and Magnús Grímsson in 1862. It is classified as ATU 365, "The Dead Bridegroom Carries Off His Bride", a type in which the dead lover returns on a moonlit ride to take his beloved to the grave. Wikipedia lists *Lenore* and *Sweet William's Ghost* as related works. The origin and author of the tale are unknown, and variants of the type were collected in both eastern and western Europe.
+The tale was first printed by Konrad Maurer in 1860, and in Icelandic by Jón Árnason and Magnús Grímsson in 1862. It is classified as ATU 365, "The Dead Bridegroom Carries Off His Bride", a type in which the dead lover returns on a moonlit ride to take his beloved to the grave. The source lists *Lenore* and *Sweet William's Ghost* as related works. The origin and author of the tale are unknown, and variants of the type were collected in both eastern and western Europe.
 
 ## In short
 

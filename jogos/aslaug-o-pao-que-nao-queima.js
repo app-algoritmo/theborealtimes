@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Na saga, os homens de Ragnar ficam tão impressionados ao ver Áslaug que deixam o pão queimar. Arraste o dedo ou o mouse, ou use as setas, para mover a pá do forno e pegar os pães dourados. Evite os pães queimados, pretos: cada um que cair ali é um erro. O que cair no chão não pune você. Pegue 12 antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "O pão queimou",
     "v1": "O pão está salvo!",
-    "v2": "Segundo a Wikipédia, os homens de Ragnar a viram se banhando e ficaram tão impressionados que deixaram o pão queimar. Quando Ragnar perguntou o motivo, contaram-lhe sobre ela. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, os homens de Ragnar a viram se banhando e ficaram tão impressionados que deixaram o pão queimar. Quando Ragnar perguntou o motivo, contaram-lhe sobre ela. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Pegos",
     "dica": "Arraste para mover a cesta"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "In the saga, Ragnar's men are so struck on seeing Áslaug that they let the bread burn. Drag your finger or mouse, or use the arrow keys, to move the baker's peel and catch the golden loaves. Avoid the burnt loaves, black: each one that lands there is a mistake. Whatever hits the ground costs you nothing. Catch 12 before time runs out. Three mistakes end the game.",
     "perdeu": "The bread burned",
     "v1": "The bread is saved!",
-    "v2": "According to Wikipedia, Ragnar's men saw her bathing and were so struck that they let the bread burn. When Ragnar asked why, they told him about her. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, Ragnar's men saw her bathing and were so struck that they let the bread burn. When Ragnar asked why, they told him about her. The game itself, with its objects and rules, is invention.",
     "h1": "Caught",
     "dica": "Drag to move the basket"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "I sagaen blir Ragnars menn så slått av å se Áslaug at de lar brødet brenne. Dra med fingeren eller musen, eller bruk piltastene, for å flytte ovnsspaden og fange de gyldne brødene. Unngå de brente brødene, svarte: hver en som lander der, er en feil. Det som treffer bakken, koster ingenting. Fang 12 før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Brødet brant",
     "v1": "Brødet er reddet!",
-    "v2": "Ifølge Wikipedia så Ragnars menn henne bade og ble så slått at de lot brødet brenne. Da Ragnar spurte hvorfor, fortalte de ham om henne. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene så Ragnars menn henne bade og ble så slått at de lot brødet brenne. Da Ragnar spurte hvorfor, fortalte de ham om henne. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Fanget",
     "dica": "Dra for å flytte kurven"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "En la saga, los hombres de Ragnar quedan tan impresionados al ver a Áslaug que dejan quemarse el pan. Arrastra el dedo o el ratón, o usa las flechas, para mover la pala del horno y atrapar los panes dorados. Evita los panes quemados, negros: cada uno que caiga allí es un error. Lo que caiga al suelo no te castiga. Atrapa 12 antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "El pan se quemó",
     "v1": "¡El pan se salvó!",
-    "v2": "Según la Wikipedia, los hombres de Ragnar la vieron bañarse y quedaron tan impresionados que dejaron quemarse el pan. Cuando Ragnar preguntó por qué, le hablaron de ella. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, los hombres de Ragnar la vieron bañarse y quedaron tan impresionados que dejaron quemarse el pan. Cuando Ragnar preguntó por qué, le hablaron de ella. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Atrapados",
     "dica": "Arrastra para mover la cesta"
   }

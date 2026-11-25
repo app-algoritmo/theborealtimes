@@ -23,4 +23,4 @@ The Pechenegs attacked Kiev in Vladimir's time. Here you block with the shield e
 
 ## The story behind it
 
-According to Wikipedia, the Pechenegs killed Vladimir's father, Sviatoslav, in 972, and their attacks on Kiev cut short the campaign of 992. The blows in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Vladimir the Great: the prince of Kiev who came back from exile with an army of Varangians and chose the faith of Byzantium](/vladimir-the-great-the-prince-of-kiev-who-came-back/).
+According to the sources, the Pechenegs killed Vladimir's father, Sviatoslav, in 972, and their attacks on Kiev cut short the campaign of 992. The blows in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Vladimir the Great: the prince of Kiev who came back from exile with an army of Varangians and chose the faith of Byzantium](/vladimir-the-great-the-prince-of-kiev-who-came-back/).

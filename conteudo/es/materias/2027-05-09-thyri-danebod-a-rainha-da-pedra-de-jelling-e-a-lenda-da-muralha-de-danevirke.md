@@ -18,7 +18,7 @@ En Jelling, en Jutlandia, la piedra de Jelling 1 dice que Gorm el Viejo mandó h
 
 ## Lo que dice la piedra
 
-Según la Wikipedia, Gorm mandó hacer la piedra en memoria de Þyri tras su muerte. La inscripción la llama «Danmarkar bót». La expresión se traduce de varias formas: «adorno de Dinamarca», «fortaleza», «salvación» o «remedio» (Imer, Åhfeldt y Zedig, 2023; Randsborg, 2008). El nombre «Danebod» viene de esa expresión, citada también en la Jómsvíkinga saga.
+Según las fuentes, Gorm mandó hacer la piedra en memoria de Þyri tras su muerte. La inscripción la llama «Danmarkar bót». La expresión se traduce de varias formas: «adorno de Dinamarca», «fortaleza», «salvación» o «remedio» (Imer, Åhfeldt y Zedig, 2023; Randsborg, 2008). El nombre «Danebod» viene de esa expresión, citada también en la Jómsvíkinga saga.
 
 ## Los cronistas
 
@@ -30,7 +30,7 @@ La primera fase del Danevirke es anterior al reinado de Þyri: los árboles usad
 
 ## Lo que debaten los estudiosos
 
-Imer et al. (2023) y Hollander (1928) argumentan que «Danmarkar bót» puede referirse a Gorm y no a Þyri, y que la importancia de ella creció después, en las obras de los cronistas medievales. La Wikipedia dice que esa no es la opinión mayoritaria. También se discute si siete piedras rúnicas que la mencionan se refieren a la misma mujer, y si el túmulo norte de Jelling es su tumba: la datación por anillos de árbol de objetos de madera da 959-960 d. C., pero no se ha hallado ningún cuerpo (Whitbread, 1967; Randsborg, 2008).
+Imer et al. (2023) y Hollander (1928) argumentan que «Danmarkar bót» puede referirse a Gorm y no a Þyri, y que la importancia de ella creció después, en las obras de los cronistas medievales. La fuente dice que esa no es la opinión mayoritaria. También se discute si siete piedras rúnicas que la mencionan se refieren a la misma mujer, y si el túmulo norte de Jelling es su tumba: la datación por anillos de árbol de objetos de madera da 959-960 d. C., pero no se ha hallado ningún cuerpo (Whitbread, 1967; Randsborg, 2008).
 
 ## En resumen
 

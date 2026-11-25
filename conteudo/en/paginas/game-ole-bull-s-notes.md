@@ -23,4 +23,4 @@ Ole Bull was a violinist whom Schumann compared to Paganini. Here you tap the go
 
 ## The story behind it
 
-According to Wikipedia, Robert Schumann wrote that Ole Bull was on a level with Paganini for speed and clarity. The notes and the strings in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Ole Bull: the violinist from Bergen who founded the first theatre spoken in Norwegian and a colony in Pennsylvania](/ole-bull-the-violinist-from-bergen-who-founded-the-first/).
+According to the sources, Robert Schumann wrote that Ole Bull was on a level with Paganini for speed and clarity. The notes and the strings in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Ole Bull: the violinist from Bergen who founded the first theatre spoken in Norwegian and a colony in Pennsylvania](/ole-bull-the-violinist-from-bergen-who-founded-the-first/).

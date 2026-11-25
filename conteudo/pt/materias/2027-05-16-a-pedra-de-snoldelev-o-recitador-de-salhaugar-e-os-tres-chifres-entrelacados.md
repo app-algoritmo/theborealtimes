@@ -27,7 +27,7 @@ A palavra se liga ao nórdico antigo þula, "ladainha", e significa algo como "r
 
 ## Os três chifres
 
-A pedra traz riscados três chifres, possivelmente de beber, entrelaçados em triângulo. A Wikipédia compara a figura a anéis borromeanos incompletos. Um desenho parecido aparece na pedra de Lillbjärs, em Gotlândia, ao lado do valknut, mas a relação entre os dois símbolos é desconhecida. A pedra de Snoldelev traz ainda uma suástica, símbolo antigo anterior ao uso moderno.
+A pedra traz riscados três chifres, possivelmente de beber, entrelaçados em triângulo. A fonte compara a figura a anéis borromeanos incompletos. Um desenho parecido aparece na pedra de Lillbjärs, em Gotlândia, ao lado do valknut, mas a relação entre os dois símbolos é desconhecida. A pedra de Snoldelev traz ainda uma suástica, símbolo antigo anterior ao uso moderno.
 
 ## Uma data só aproximada
 

@@ -13,7 +13,7 @@ fontes:
 tags: [störtebeker, victual brothers, piracy, hanseatic league, hamburg, visby, 1401]
 ---
 
-Klaus Störtebeker was born around 1360 and, according to Wikipedia, died supposedly on 20 October 1401 in Hamburg. The article writes "supposedly": records of 1400 about graves for 30 Victual Brothers suggest the date may be 1400.
+Klaus Störtebeker was born around 1360 and, according to the sources, died supposedly on 20 October 1401 in Hamburg. The article writes "supposedly": records of 1400 about graves for 30 Victual Brothers suggest the date may be 1400.
 
 ## The Victual Brothers
 

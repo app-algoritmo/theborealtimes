@@ -23,4 +23,4 @@ A pedra de Karlevi, em Öland, tem uma parte em prosa, uma estrofe e uma inscri�
 
 ## A história por trás
 
-Segundo a Wikipédia, a pedra de Karlevi (Öl 1), do fim do século X, tem uma parte em prosa que nomeia Sibba, filho de Fuldar, uma estrofe em dróttkvætt e, no reverso, uma inscrição possivelmente cristã, uma cruz e um martelo de Thor. A fila de frases, as três caixas e o ritmo do jogo são invenção. Leia a história em [A pedra de Karlevi, em Öland: o único poema escáldico completo gravado numa pedra rúnica](/pt/a-pedra-de-karlevi-em-oland-o-unico-poema-escaldico-completo-gravado-numa-pedra-runica/).
+Segundo as fontes, a pedra de Karlevi (Öl 1), do fim do século X, tem uma parte em prosa que nomeia Sibba, filho de Fuldar, uma estrofe em dróttkvætt e, no reverso, uma inscrição possivelmente cristã, uma cruz e um martelo de Thor. A fila de frases, as três caixas e o ritmo do jogo são invenção. Leia a história em [A pedra de Karlevi, em Öland: o único poema escáldico completo gravado numa pedra rúnica](/pt/a-pedra-de-karlevi-em-oland-o-unico-poema-escaldico-completo-gravado-numa-pedra-runica/).

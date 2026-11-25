@@ -23,4 +23,4 @@ According to the Primary Chronicle, Oleg hid warriors in boats and posed as a me
 
 ## The story behind it
 
-According to the Primary Chronicle, in 882 Oleg hid his warriors in boats and sent word to Askold and Dir that he was a merchant on his way to Greece. When they came out, the soldiers leaped from the boats. Wikipedia reminds us that the story is semi-legendary. The advancing warriors and the pace of the game are invention. Read the story in [Askold and Dir: the first Varangian rulers of Kiev and the trick of the false merchants](/askold-and-dir-the-first-varangian-rulers-of-kiev/).
+According to the Primary Chronicle, in 882 Oleg hid his warriors in boats and sent word to Askold and Dir that he was a merchant on his way to Greece. When they came out, the soldiers leaped from the boats. The source reminds us that the story is semi-legendary. The advancing warriors and the pace of the game are invention. Read the story in [Askold and Dir: the first Varangian rulers of Kiev and the trick of the false merchants](/askold-and-dir-the-first-varangian-rulers-of-kiev/).

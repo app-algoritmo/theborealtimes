@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "A pedra de Karlevi, em Öland, tem uma parte em prosa, uma estrofe e uma inscrição no reverso. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.",
     "perdeu": "A pedra ficou muda",
     "v1": "Cada frase na sua parte!",
-    "v2": "Segundo a Wikipédia, a pedra de Karlevi (Öl 1), do fim do século X, tem uma parte em prosa que nomeia Sibba, filho de Fuldar, uma estrofe em dróttkvætt e, no reverso, uma inscrição possivelmente cristã, uma cruz e um martelo de Thor. A fila de frases, as três caixas e o ritmo do jogo são invenção.",
+    "v2": "Segundo as fontes, a pedra de Karlevi (Öl 1), do fim do século X, tem uma parte em prosa que nomeia Sibba, filho de Fuldar, uma estrofe em dróttkvætt e, no reverso, uma inscrição possivelmente cristã, uma cruz e um martelo de Thor. A fila de frases, as três caixas e o ritmo do jogo são invenção.",
     "h1": "Frases",
     "bins": [
       "Prosa",
@@ -45,7 +45,7 @@ BTJogo.registrar({
     "sub": "The Karlevi stone, on Öland, has a prose part, a stanza and an inscription on the back. Each phrase falls from above. Guide it to the right box: tap the box, or use the arrow keys and keys 1, 2 and 3 (Space drops it faster). The wrong box is a mistake. Get 10 right before time runs out. 3 mistakes end the game.",
     "perdeu": "The stone fell silent",
     "v1": "Every phrase in its part!",
-    "v2": "According to Wikipedia, the Karlevi stone (Öl 1), from the late tenth century, has a prose part that names Sibba, son of Fuldar, a stanza in dróttkvætt and, on the back, a possibly Christian inscription, a cross and a hammer of Thor. The row of phrases, the three boxes and the rhythm of the game are invention.",
+    "v2": "According to the sources, the Karlevi stone (Öl 1), from the late tenth century, has a prose part that names Sibba, son of Fuldar, a stanza in dróttkvætt and, on the back, a possibly Christian inscription, a cross and a hammer of Thor. The row of phrases, the three boxes and the rhythm of the game are invention.",
     "h1": "Phrases",
     "bins": [
       "Prose",
@@ -76,7 +76,7 @@ BTJogo.registrar({
     "sub": "Karlevi-steinen på Öland har en prosadel, en strofe og en innskrift på baksiden. Hver frase faller ovenfra. Led den til riktig boks: trykk på boksen, eller bruk piltastene og tastene 1, 2 og 3 (mellomrom får den til å falle raskere). Feil boks er en feil. Få 10 riktige før tiden er ute. 3 feil avslutter spillet.",
     "perdeu": "Steinen ble stum",
     "v1": "Hver frase i sin del!",
-    "v2": "Ifølge Wikipedia har Karlevi-steinen (Öl 1), fra slutten av 900-tallet, en prosadel som nevner Sibba, sønn av Fuldar, en strofe i dróttkvætt og, på baksiden, en muligens kristen innskrift, et kors og en Thors hammer. Rekken av fraser, de tre boksene og rytmen i spillet er oppfinnelse.",
+    "v2": "Ifølge kildene har Karlevi-steinen (Öl 1), fra slutten av 900-tallet, en prosadel som nevner Sibba, sønn av Fuldar, en strofe i dróttkvætt og, på baksiden, en muligens kristen innskrift, et kors og en Thors hammer. Rekken av fraser, de tre boksene og rytmen i spillet er oppfinnelse.",
     "h1": "Fraser",
     "bins": [
       "Prosa",
@@ -107,7 +107,7 @@ BTJogo.registrar({
     "sub": "La piedra de Karlevi, en Öland, tiene una parte en prosa, una estrofa y una inscripción en el reverso. Cada frase cae desde arriba. Guíala hasta la caja correcta: toca la caja, o usa las flechas y las teclas 1, 2 y 3 (Espacio la hace caer más rápido). La caja equivocada es un error. Acierta 10 antes de que se acabe el tiempo. 3 errores terminan el juego.",
     "perdeu": "La piedra enmudeció",
     "v1": "¡Cada frase en su parte!",
-    "v2": "Según Wikipedia, la piedra de Karlevi (Öl 1), de finales del siglo X, tiene una parte en prosa que nombra a Sibba, hijo de Fuldar, una estrofa en dróttkvætt y, en el reverso, una inscripción posiblemente cristiana, una cruz y un martillo de Thor. La fila de frases, las tres cajas y el ritmo del juego son invención.",
+    "v2": "Según las fuentes, la piedra de Karlevi (Öl 1), de finales del siglo X, tiene una parte en prosa que nombra a Sibba, hijo de Fuldar, una estrofa en dróttkvætt y, en el reverso, una inscripción posiblemente cristiana, una cruz y un martillo de Thor. La fila de frases, las tres cajas y el ritmo del juego son invención.",
     "h1": "Frases",
     "bins": [
       "Prosa",

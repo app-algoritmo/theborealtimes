@@ -19,7 +19,7 @@ Among the stories that Morkinskinna keeps about King Harald Hardrada, there is o
 
 ## Who Halldór is
 
-Halldór Snorrason is the son of Snorri the chieftain (*goði*) and an ancestor of Snorri Sturluson. He had been a friend of Harald since before Harald was king, when both served in the Varangian Guard in Constantinople. He entered Harald's service after Harald became king. The text insists on treating him as a man of low birth, despite his powerful family in Iceland. Wikipedia says Harald distrusted him because of his strength of character, especially when Halldór commanded other men.
+Halldór Snorrason is the son of Snorri the chieftain (*goði*) and an ancestor of Snorri Sturluson. He had been a friend of Harald since before Harald was king, when both served in the Varangian Guard in Constantinople. He entered Harald's service after Harald became king. The text insists on treating him as a man of low birth, despite his powerful family in Iceland. The source says Harald distrusted him because of his strength of character, especially when Halldór commanded other men.
 
 ## The ship and the lie about war
 
@@ -31,7 +31,7 @@ At court, Harald mocked Halldór's drinking and loyalty, apparently to hide the 
 
 ## The king's ship
 
-After Yule, Harald ordered Halldór onto the king's ship, which crashed while Harald was trying to override Halldór's orders. Halldór threatened to leave, but Bard, a companion who acts as a voice of reason, persuaded him to stay, with the promise of payment in pure silver and a ship of his own. Svein, a ship's owner, disapproved of the king's orders and took the ship back, and Halldór regained control of it. To end the dispute, Harald bought the ship and returned it to Svein. Wikipedia itself says the wording here is unclear.
+After Yule, Harald ordered Halldór onto the king's ship, which crashed while Harald was trying to override Halldór's orders. Halldór threatened to leave, but Bard, a companion who acts as a voice of reason, persuaded him to stay, with the promise of payment in pure silver and a ship of his own. Svein, a ship's owner, disapproved of the king's orders and took the ship back, and Halldór regained control of it. To end the dispute, Harald bought the ship and returned it to Svein. The source itself says the wording here is unclear.
 
 ## The half mark
 
@@ -45,10 +45,10 @@ The following season, Halldór received a message inviting him back to court, sa
 
 ## What scholars see
 
-Wikipedia says scholars have used the tale to argue for links between Icelandic and Norwegian identity, to suggest that Norwegians viewed Icelanders as low-status, and to characterize Harald's erratic attitude toward money. It has also been proposed that Halldór's close ties to Harald passed family traditions down the generations, and perhaps supplied Snorri Sturluson with material for King Harald's Saga in Heimskringla.
+The source says scholars have used the tale to argue for links between Icelandic and Norwegian identity, to suggest that Norwegians viewed Icelanders as low-status, and to characterize Harald's erratic attitude toward money. It has also been proposed that Halldór's close ties to Harald passed family traditions down the generations, and perhaps supplied Snorri Sturluson with material for King Harald's Saga in Heimskringla.
 
 ## In short
 
-It is a story of a proud Icelander and a miserly king: a ship without a crew, an invented war, a humiliation at Yule and a sword at the royal bed over half a mark. The end is an invitation that Halldór reads as a threat and refuses. Wikipedia gives no date for the tale or for Morkinskinna.
+It is a story of a proud Icelander and a miserly king: a ship without a crew, an invented war, a humiliation at Yule and a sword at the royal bed over half a mark. The end is an invitation that Halldór reads as a threat and refuses. The source gives no date for the tale or for Morkinskinna.
 
 To tell who did what at court, play [Who did what at court](/game-who-did-what-at-court/).

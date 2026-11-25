@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Na revolta de Engelbrekt, os rebeldes destruíram os castelos dos bailios. Aqui você estoura as torres dos castelos e poupa as casas dos mineiros. Toque em as torres dos castelos dos bailios assim que aparecer, ou use as teclas 1 a 6. Não toque em as casas dos mineiros: isso é erro. O que sumir sozinho não pune você. Pegue 12 antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "Você acertou as casas dos mineiros",
     "v1": "Os castelos caíram!",
-    "v2": "Engelbrekt Engelbrektsson, dono de uma mina em Bergslagen, liderou a revolta sueca de 1434 contra o rei Erik da Pomerânia, e a Wikipédia diz que os rebeldes destruíram castelos de bailios. Ele morreu em 4 de maio de 1436. As torres e as casas do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Engelbrekt Engelbrektsson, dono de uma mina em Bergslagen, liderou a revolta sueca de 1434 contra o rei Erik da Pomerânia, e a fonte diz que os rebeldes destruíram castelos de bailios. Ele morreu em 4 de maio de 1436. As torres e as casas do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Acertos",
     "dica": "Toque no que aparecer, menos no que não serve"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "In Engelbrekt's revolt, the rebels destroyed the bailiffs' castles. Here you pop the castle towers and spare the miners' houses. Tap the towers of the bailiffs' castles as soon as it appears, or use keys 1 to 6. Do not tap the miners' houses: that is a mistake. Whatever disappears by itself costs you nothing. Get 12 before time runs out. Three mistakes end the game.",
     "perdeu": "You hit the miners' houses",
     "v1": "The castles have fallen!",
-    "v2": "Engelbrekt Engelbrektsson, owner of a mine in Bergslagen, led the Swedish revolt of 1434 against King Erik of Pomerania, and Wikipedia says the rebels destroyed bailiffs' castles. He died on 4 May 1436. The towers and houses in the game are invented. The game itself, with its objects and rules, is invention.",
+    "v2": "Engelbrekt Engelbrektsson, owner of a mine in Bergslagen, led the Swedish revolt of 1434 against King Erik of Pomerania, and the source says the rebels destroyed bailiffs' castles. He died on 4 May 1436. The towers and houses in the game are invented. The game itself, with its objects and rules, is invention.",
     "h1": "Hits",
     "dica": "Tap what appears, except the wrong ones"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "I Engelbrekts opprør ødela opprørerne fogdenes slott. Her sprenger du slottstårnene og skåner gruvearbeidernes hus. Trykk på tårnene på fogdenes slott så snart det dukker opp, eller bruk tastene 1 til 6. Ikke trykk på gruvearbeidernes hus: det er en feil. Det som forsvinner av seg selv, koster ingenting. Ta 12 før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Du traff gruvearbeidernes hus",
     "v1": "Slottene falt!",
-    "v2": "Engelbrekt Engelbrektsson, eier av en gruve i Bergslagen, ledet det svenske opprøret i 1434 mot kong Erik av Pommern, og Wikipedia sier at opprørerne ødela fogdenes slott. Han døde 4. mai 1436. Tårnene og husene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Engelbrekt Engelbrektsson, eier av en gruve i Bergslagen, ledet det svenske opprøret i 1434 mot kong Erik av Pommern, og kilden sier at opprørerne ødela fogdenes slott. Han døde 4. mai 1436. Tårnene og husene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Treff",
     "dica": "Trykk på det som dukker opp, unntatt de gale"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "En la revuelta de Engelbrekt, los rebeldes destruyeron los castillos de los bailíos. Aquí revientas las torres de los castillos y respetas las casas de los mineros. Toca las torres de los castillos de los bailíos en cuanto aparezca, o usa las teclas 1 a 6. No toques las casas de los mineros: eso es un error. Lo que desaparezca solo no te castiga. Consigue 12 antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "Has dado a las casas de los mineros",
     "v1": "¡Los castillos han caído!",
-    "v2": "Engelbrekt Engelbrektsson, dueño de una mina en Bergslagen, lideró la revuelta sueca de 1434 contra el rey Erik de Pomerania, y Wikipedia dice que los rebeldes destruyeron castillos de bailíos. Murió el 4 de mayo de 1436. Las torres y las casas del juego son invención. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Engelbrekt Engelbrektsson, dueño de una mina en Bergslagen, lideró la revuelta sueca de 1434 contra el rey Erik de Pomerania, y la fuente dice que los rebeldes destruyeron castillos de bailíos. Murió el 4 de mayo de 1436. Las torres y las casas del juego son invención. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Aciertos",
     "dica": "Toca lo que aparezca, menos lo que no sirve"
   }

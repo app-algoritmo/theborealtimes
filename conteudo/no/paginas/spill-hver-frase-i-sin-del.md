@@ -23,4 +23,4 @@ Karlevi-steinen på Öland har en prosadel, en strofe og en innskrift på baksid
 
 ## Historien bak
 
-Ifølge Wikipedia har Karlevi-steinen (Öl 1), fra slutten av 900-tallet, en prosadel som nevner Sibba, sønn av Fuldar, en strofe i dróttkvætt og, på baksiden, en muligens kristen innskrift, et kors og en Thors hammer. Rekken av fraser, de tre boksene og rytmen i spillet er oppfinnelse. Les historien i [Karlevi-steinen på Öland: det eneste komplette skaldediktet risset inn på en runestein](/no/karlevi-steinen-pa-oland-det-eneste-komplette-skaldediktet/).
+Ifølge kildene har Karlevi-steinen (Öl 1), fra slutten av 900-tallet, en prosadel som nevner Sibba, sønn av Fuldar, en strofe i dróttkvætt og, på baksiden, en muligens kristen innskrift, et kors og en Thors hammer. Rekken av fraser, de tre boksene og rytmen i spillet er oppfinnelse. Les historien i [Karlevi-steinen på Öland: det eneste komplette skaldediktet risset inn på en runestein](/no/karlevi-steinen-pa-oland-det-eneste-komplette-skaldediktet/).

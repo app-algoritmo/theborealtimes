@@ -18,7 +18,7 @@ Fulla dukker opp i bare noen få linjer, men på overraskende steder: i prosainn
 
 ## Tjenestepiken som advarer kongen
 
-Ifølge Wikipedia sender Frigg i prosainnledningen til Grímnismál tjenestepiken Fulla for å advare kong Geirröd om at en trollmann, i virkeligheten Odin i forkledning, vil besøke ham. Fulla gir også kongen en måte å kjenne ham igjen på: Ingen hund vil angripe ham.
+Ifølge kildene sender Frigg i prosainnledningen til Grímnismál tjenestepiken Fulla for å advare kong Geirröd om at en trollmann, i virkeligheten Odin i forkledning, vil besøke ham. Fulla gir også kongen en måte å kjenne ham igjen på: Ingen hund vil angripe ham.
 
 ## Hva Snorre sier
 
@@ -28,7 +28,7 @@ I kapittel 49, etter at Balder og Nanna er døde, sender Balder gaver fra Hels r
 
 ## Gull i versene
 
-I Skáldskaparmál er Fulla en av de åtte åsynjene ved Ægirs gjestebud. Et poetisk uttrykk kaller Frigg «Fullas dronning», og en kenning for gull er «Fullas hårbånd». Et vers av Eyvindr skáldaspillir nevner også hennes gylne hodepynt. Hun står også i en liste med 27 navn på åsynjer, og Wikipedia sier, med henvisning til Simek, at hun var kjent i skaldediktningen allerede på 900-tallet.
+I Skáldskaparmál er Fulla en av de åtte åsynjene ved Ægirs gjestebud. Et poetisk uttrykk kaller Frigg «Fullas dronning», og en kenning for gull er «Fullas hårbånd». Et vers av Eyvindr skáldaspillir nevner også hennes gylne hodepynt. Hun står også i en liste med 27 navn på åsynjer, og kilden sier, med henvisning til Simek, at hun var kjent i skaldediktningen allerede på 900-tallet.
 
 ## Volla i den tyske formelen
 

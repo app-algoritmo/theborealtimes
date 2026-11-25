@@ -13,7 +13,7 @@ fontes:
 tags: [finnsburg, hnæf, hengest, beowulf, poesia anglo-saxônica, fragmento, hickes]
 ---
 
-O Fragmento de Finnsburg (também escrito Finnsburh) é um trecho curto de um poema heroico em inglês antigo, em verso aliterado. Segundo a Wikipédia, trata de uma luta em que Hnæf e seus sessenta guerreiros são cercados na "fortaleza de Finn" e tentam resistir aos atacantes.
+O Fragmento de Finnsburg (também escrito Finnsburh) é um trecho curto de um poema heroico em inglês antigo, em verso aliterado. Segundo as fontes, trata de uma luta em que Hnæf e seus sessenta guerreiros são cercados na "fortaleza de Finn" e tentam resistir aos atacantes.
 
 ## Uma cópia de uma folha perdida
 

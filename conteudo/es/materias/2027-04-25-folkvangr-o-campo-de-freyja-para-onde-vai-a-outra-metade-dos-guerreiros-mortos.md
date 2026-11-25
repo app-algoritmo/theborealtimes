@@ -27,11 +27,11 @@ En el **Grímnismál**, de la Edda poética, es Odín, disfrazado de Grímnir, q
 
 En la **Gylfaginning**, cap. 24, Hár dice a Gangleri que Freyja es la más gloriosa de las ásynjur. Su morada se llama Fólkvangr, y cuando cabalga a la batalla, se lleva a la mitad de los caídos. A continuación, Hár cita la estrofa del Grímnismál y describe su salón, **Sessrúmnir**. Rudolf Simek señala que la estrofa no dice eso del salón: es un añadido de la Gylfaginning.
 
-En la **Saga de Egil**, después de que Egill rechace la comida, su hija Þorgerðr jura que no quiere vivir cuando su padre y su hermano hayan muerto, y espera encontrarse con Freyja. Wikipedia cita sus palabras: «No quiero vivir cuando mi padre y mi hermano hayan muerto».
+En la **Saga de Egil**, después de que Egill rechace la comida, su hija Þorgerðr jura que no quiere vivir cuando su padre y su hermano hayan muerto, y espera encontrarse con Freyja. La fuente cita sus palabras: «No quiero vivir cuando mi padre y mi hermano hayan muerto».
 
 ## Quién va allí
 
-Wikipedia dice que a Fólkvangr va la mitad de los guerreros muertos en combate. Britt-Mari Näsström añade que también pueden ir mujeres que mueren de forma noble, como sugiere el juramento de Þorgerðr.
+La fuente dice que a Fólkvangr va la mitad de los guerreros muertos en combate. Britt-Mari Näsström añade que también pueden ir mujeres que mueren de forma noble, como sugiere el juramento de Þorgerðr.
 
 ## Lo que debaten los estudiosos
 

@@ -18,7 +18,7 @@ O Oddrúnargrátr, "lamento de Oddrún", é um dos poemas curtos da Edda poétic
 
 ## O poema no manuscrito
 
-Segundo a Wikipédia, o poema é anônimo, está em fornyrðislag e é considerado de composição relativamente tardia, talvez do século XI. No Codex Regius, vem depois de Guðrúnarkviða III e antes de Atlakviða. Bellows observa, na introdução, que a base é a lenda germânica de Sigurd e Atli, mas Oddrún e as figuras menores, Borgný e Vilmundr, são acréscimos do Norte.
+Segundo as fontes, o poema é anônimo, está em fornyrðislag e é considerado de composição relativamente tardia, talvez do século XI. No Codex Regius, vem depois de Guðrúnarkviða III e antes de Atlakviða. Bellows observa, na introdução, que a base é a lenda germânica de Sigurd e Atli, mas Oddrún e as figuras menores, Borgný e Vilmundr, são acréscimos do Norte.
 
 ## Borgný não consegue parir
 

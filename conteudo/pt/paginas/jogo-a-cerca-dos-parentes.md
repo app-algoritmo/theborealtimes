@@ -23,4 +23,4 @@ No Sonatorrek, o mar abre uma brecha na “cerca dos parentes”. Aqui, a cerca 
 
 ## A história por trás
 
-Segundo a Wikipédia, nas estrofes 5 a 12 do Sonatorrek o mar abre uma brecha na “cerca dos parentes”, imagem da dor de Egill por Böðvarr. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Sonatorrek, a perda irreparável dos filhos: o poema de luto que Egill compôs para não morrer de fome](/pt/sonatorrek-a-perda-irreparavel-dos-filhos-o-poema-de-luto-que-egill-compos-para-nao-morrer-de-fome/).
+Segundo as fontes, nas estrofes 5 a 12 do Sonatorrek o mar abre uma brecha na “cerca dos parentes”, imagem da dor de Egill por Böðvarr. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Sonatorrek, a perda irreparável dos filhos: o poema de luto que Egill compôs para não morrer de fome](/pt/sonatorrek-a-perda-irreparavel-dos-filhos-o-poema-de-luto-que-egill-compos-para-nao-morrer-de-fome/).

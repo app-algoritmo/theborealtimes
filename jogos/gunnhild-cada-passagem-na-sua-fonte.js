@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Gunnhild, a mãe dos reis, aparece em fontes que se contradizem. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.",
     "perdeu": "As fontes se misturaram",
     "v1": "Cada passagem na sua fonte!",
-    "v2": "Segundo a Wikipédia, a Heimskringla faz de Gunnhild filha de Ozur Toti e a liga a dois feiticeiros finlandeses. Na saga de Egill, os irmãos dela tentam matar o poeta, que ergue uma cabeça de cavalo num poste. A Historia Norwegiae, a saga dos Laxdalenses e a dos Jomsvikings trazem origem, amor e fim diferentes. A fila de passagens, as três caixas e o ritmo do jogo são invenção.",
+    "v2": "Segundo as fontes, a Heimskringla faz de Gunnhild filha de Ozur Toti e a liga a dois feiticeiros finlandeses. Na saga de Egill, os irmãos dela tentam matar o poeta, que ergue uma cabeça de cavalo num poste. A Historia Norwegiae, a saga dos Laxdalenses e a dos Jomsvikings trazem origem, amor e fim diferentes. A fila de passagens, as três caixas e o ritmo do jogo são invenção.",
     "h1": "Passagens",
     "bins": [
       "Heimskringla",
@@ -45,7 +45,7 @@ BTJogo.registrar({
     "sub": "Gunnhild, the Mother of Kings, appears in sources that contradict each other. Each phrase falls from above. Guide it to the right box: tap the box, or use the arrow keys and keys 1, 2 and 3 (Space drops it faster). The wrong box is a mistake. Get 10 right before time runs out. 3 mistakes end the game.",
     "perdeu": "The sources got mixed up",
     "v1": "Each passage in its source!",
-    "v2": "According to Wikipedia, Heimskringla makes Gunnhild a daughter of Ozur Toti and ties her to two Finnish wizards. In Egil's saga, her brothers try to kill the poet, who raises a horse's head on a pole. Historia Norwegiae, Laxdæla saga and Jómsvíkinga saga bring different origin, love and end. The queue of passages, the three boxes and the pace of the game are invention.",
+    "v2": "According to the sources, Heimskringla makes Gunnhild a daughter of Ozur Toti and ties her to two Finnish wizards. In Egil's saga, her brothers try to kill the poet, who raises a horse's head on a pole. Historia Norwegiae, Laxdæla saga and Jómsvíkinga saga bring different origin, love and end. The queue of passages, the three boxes and the pace of the game are invention.",
     "h1": "Passages",
     "bins": [
       "Heimskringla",
@@ -76,7 +76,7 @@ BTJogo.registrar({
     "sub": "Gunnhild, kongemor, dukker opp i kilder som motsier hverandre. Hver frase faller ovenfra. Led den til riktig boks: trykk på boksen, eller bruk piltastene og tastene 1, 2 og 3 (mellomrom får den til å falle raskere). Feil boks er en feil. Få 10 riktige før tiden er ute. 3 feil avslutter spillet.",
     "perdeu": "Kildene ble blandet",
     "v1": "Hver passasje i sin kilde!",
-    "v2": "Ifølge Wikipedia gjør Heimskringla Gunnhild til datter av Ozur Toti og knytter henne til to finske trollmenn. I Egils saga prøver brødrene hennes å drepe skalden, som reiser et hestehode på en stolpe. Historia Norwegiae, Laksdøla saga og Jómsvikingesaga gir ulik opprinnelse, kjærlighet og slutt. Rekken av passasjer, de tre boksene og tempoet i spillet er oppfinnelse.",
+    "v2": "Ifølge kildene gjør Heimskringla Gunnhild til datter av Ozur Toti og knytter henne til to finske trollmenn. I Egils saga prøver brødrene hennes å drepe skalden, som reiser et hestehode på en stolpe. Historia Norwegiae, Laksdøla saga og Jómsvikingesaga gir ulik opprinnelse, kjærlighet og slutt. Rekken av passasjer, de tre boksene og tempoet i spillet er oppfinnelse.",
     "h1": "Passasjer",
     "bins": [
       "Heimskringla",
@@ -107,7 +107,7 @@ BTJogo.registrar({
     "sub": "Gunnhild, la madre de reyes, aparece en fuentes que se contradicen. Cada frase cae desde arriba. Guíala hasta la caja correcta: toca la caja, o usa las flechas y las teclas 1, 2 y 3 (Espacio la hace caer más rápido). La caja equivocada es un error. Acierta 10 antes de que se acabe el tiempo. 3 errores terminan el juego.",
     "perdeu": "Las fuentes se mezclaron",
     "v1": "¡Cada pasaje en su fuente!",
-    "v2": "Según Wikipedia, la Heimskringla hace de Gunnhild hija de Ozur Toti y la vincula con dos hechiceros finlandeses. En la saga de Egil, sus hermanos intentan matar al poeta, que levanta una cabeza de caballo en un poste. La Historia Norwegiae, la saga Laxdæla y la de los jomsvikingos traen origen, amor y final distintos. La fila de pasajes, las tres cajas y el ritmo del juego son invención.",
+    "v2": "Según las fuentes, la Heimskringla hace de Gunnhild hija de Ozur Toti y la vincula con dos hechiceros finlandeses. En la saga de Egil, sus hermanos intentan matar al poeta, que levanta una cabeza de caballo en un poste. La Historia Norwegiae, la saga Laxdæla y la de los jomsvikingos traen origen, amor y final distintos. La fila de pasajes, las tres cajas y el ritmo del juego son invención.",
     "h1": "Pasajes",
     "bins": [
       "Heimskringla",

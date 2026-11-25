@@ -19,7 +19,7 @@ tags: [þorrablót, þorri, iceland, winter feast, orkneyinga saga, flateyjarbó
 
 ## King Þorri in the old sources
 
-In the Orkneyinga saga, Þorri appears as an early king, described as a Finn, son of Snær, "snow". It is the literary background of the name. In the text Hversu Noregr byggðist, in the Flateyjarbók, the Kvens, a people of the north, made an annual sacrifice to Þorri in midwinter. But Wikipedia does not say that this sacrifice was a continuous practice down to modern times.
+In the Orkneyinga saga, Þorri appears as an early king, described as a Finn, son of Snær, "snow". It is the literary background of the name. In the text Hversu Noregr byggðist, in the Flateyjarbók, the Kvens, a people of the north, made an annual sacrifice to Þorri in midwinter. But the source does not say that this sacrifice was a continuous practice down to modern times.
 
 ## The modern feast
 

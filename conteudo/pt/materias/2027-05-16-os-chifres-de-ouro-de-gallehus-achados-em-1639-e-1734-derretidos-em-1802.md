@@ -19,7 +19,7 @@ Em 1639 e 1734, perto de Møgeltønder, na Jutlândia do Sul, foram encontrados 
 
 ## Os dois achados
 
-O chifre maior foi achado em 20 de julho de 1639 por uma camponesa, Kirsten Svendsdatter, que viu algo saindo da terra. Ela avisou o rei Cristiano IV, e o chifre passou ao príncipe, que o fez adaptar como chifre de beber, com um botão de ouro na ponta estreita (a Wikipédia marca essa informação como contestada). O chifre menor foi achado em 21 de abril de 1734, por Erich Lassen, a uns 15 a 20 metros do primeiro. Ambos foram guardados na Câmara Real de Arte, em Christiansborg.
+O chifre maior foi achado em 20 de julho de 1639 por uma camponesa, Kirsten Svendsdatter, que viu algo saindo da terra. Ela avisou o rei Cristiano IV, e o chifre passou ao príncipe, que o fez adaptar como chifre de beber, com um botão de ouro na ponta estreita (a fonte marca essa informação como contestada). O chifre menor foi achado em 21 de abril de 1734, por Erich Lassen, a uns 15 a 20 metros do primeiro. Ambos foram guardados na Câmara Real de Arte, em Christiansborg.
 
 ## Como eram
 

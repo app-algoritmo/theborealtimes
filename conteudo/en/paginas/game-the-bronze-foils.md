@@ -23,4 +23,4 @@ The Torslunda dies were pressed against thin metal sheets, producing identical f
 
 ## The story behind it
 
-According to Wikipedia, the four bronze dies of Torslunda were made for mass production: pressing thin metal foils against them produced identical foils that decorated helmets. The game itself, with its objects and rules, is invention. Read the story in [The Torslunda plates: four bronze dies from Öland and the dancing warrior in the horned headdress](/the-torslunda-plates-four-bronze-dies-from-oland/).
+According to the sources, the four bronze dies of Torslunda were made for mass production: pressing thin metal foils against them produced identical foils that decorated helmets. The game itself, with its objects and rules, is invention. Read the story in [The Torslunda plates: four bronze dies from Öland and the dancing warrior in the horned headdress](/the-torslunda-plates-four-bronze-dies-from-oland/).

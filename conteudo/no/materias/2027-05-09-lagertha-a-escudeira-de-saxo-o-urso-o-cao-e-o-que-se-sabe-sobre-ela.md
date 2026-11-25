@@ -32,7 +32,7 @@ Saxo avslutter med et støt: tilbake i Norge kranglet de to, og hun drepte ham m
 
 ## Hva forskerne sier
 
-Judith Jesch beskriver fortellingene i de ni første bøkene av Gesta som «stort sett regnet som fiktive». Engelskspråklig Wikipedia påpeker at Saxo bygde på klassiske myter om amasoner og på norrøne, særlig islandske, kilder som ikke er tydelig identifisert. Fremstillingen hans av kvinnelige krigere er preget av hans kristne syn: skjoldmøer som avviste den forventede rollen ble tegn på uorden i den førkristne verden.
+Judith Jesch beskriver fortellingene i de ni første bøkene av Gesta som «stort sett regnet som fiktive». Engelskspråklig kilden påpeker at Saxo bygde på klassiske myter om amasoner og på norrøne, særlig islandske, kilder som ikke er tydelig identifisert. Fremstillingen hans av kvinnelige krigere er preget av hans kristne syn: skjoldmøer som avviste den forventede rollen ble tegn på uorden i den førkristne verden.
 
 Det finnes også en hypotese om hvem Lagertha kan være. Hilda Ellis Davidson mener det er mulig, og Nora Chadwick mente det var svært sannsynlig, at hun er gudinnen Þorgerðr Hölgabrúðr, som Håkon Sigurdsson dyrket på Lade. Det norrøne navnet Hlaðgerðr kan komme fra denne koblingen, og Gauldalen, der Saxo plasserer henne, var et senter for kulten. Jesch leser Saxos uttrykk om at Lagertha «fløy» rundt til fiendens rygg som et tegn på slektskap med valkyriene.
 

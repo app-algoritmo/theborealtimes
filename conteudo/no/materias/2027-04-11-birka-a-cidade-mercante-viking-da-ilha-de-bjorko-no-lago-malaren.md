@@ -19,7 +19,7 @@ Birka lå på Björkö, «Bjørkeøya», i Mälaren, omkring 30 kilometer vest f
 
 ## En by som varte i to århundrer
 
-Befolkningen var ifølge Wikipedia mellom 500 og 1000 mennesker, med omkring 700 på det meste. Det er over 3000 graver på øya. Byen ble forlatt omkring 975 ifølge én passasje, eller ser ut til å ha dødd ut omkring 960 ifølge en annen, basert på myntene, og de to årstallene er ikke forsonet. Sigtuna ble det viktigste handelssenteret i Mälaren omtrent samtidig. Årsakene til nedgangen er omstridt.
+Befolkningen var ifølge kildene mellom 500 og 1000 mennesker, med omkring 700 på det meste. Det er over 3000 graver på øya. Byen ble forlatt omkring 975 ifølge én passasje, eller ser ut til å ha dødd ut omkring 960 ifølge en annen, basert på myntene, og de to årstallene er ikke forsonet. Sigtuna ble det viktigste handelssenteret i Mälaren omtrent samtidig. Årsakene til nedgangen er omstridt.
 
 ## Utgraveren
 
@@ -27,7 +27,7 @@ Entomologen Hjalmar Stolpe gravde ut øya i omkring to tiår fra 1871 (en passas
 
 ## Ansgar og Rimbert
 
-I 829, ifølge Wikipedia, ba svenske sendebud om kristne forkynnere, og Ansgar kom til Birka. En kristen menighet skal ha blitt grunnlagt i 831. *Vita Ansgarii* av Rimbert, omkring 865, er den første kjente beskrivelsen av Birka, og Wikipedia selv påpeker at Rimberts beskrivelser i beste fall er omtrentlige. Ansgars første forsøk på misjon lyktes ikke.
+I 829, ifølge kildene, ba svenske sendebud om kristne forkynnere, og Ansgar kom til Birka. En kristen menighet skal ha blitt grunnlagt i 831. *Vita Ansgarii* av Rimbert, omkring 865, er den første kjente beskrivelsen av Birka, og kilden selv påpeker at Rimberts beskrivelser i beste fall er omtrentlige. Ansgars første forsøk på misjon lyktes ikke.
 
 ## Gjenstandene
 

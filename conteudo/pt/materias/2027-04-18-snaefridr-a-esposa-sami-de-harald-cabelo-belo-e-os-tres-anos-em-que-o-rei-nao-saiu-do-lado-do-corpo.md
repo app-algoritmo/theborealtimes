@@ -19,7 +19,7 @@ Nas sagas dos reis da Noruega, Harald Cabelo Belo é o rei que unifica o país. 
 
 ## Quem era ela
 
-Segundo a tradição medieval, Snæfríðr Svásadóttir (também Snjófríðr) foi uma das esposas de Harald Cabelo Belo. É descrita como uma mulher sami, e as sagas a fazem antepassada de Harald Hardrada. A Wikipédia nota que, além de Ragnhild, a Poderosa, ela é a única esposa de Harald a ser nomeada fora do Heimskringla.
+Segundo a tradição medieval, Snæfríðr Svásadóttir (também Snjófríðr) foi uma das esposas de Harald Cabelo Belo. É descrita como uma mulher sami, e as sagas a fazem antepassada de Harald Hardrada. A fonte nota que, além de Ragnhild, a Poderosa, ela é a única esposa de Harald a ser nomeada fora do Heimskringla.
 
 ## O banquete
 
@@ -39,11 +39,11 @@ Um velho chamado Þorleifr, o Sábio, convenceu o rei a deixar a câmara. Argume
 
 ## Depois
 
-A Wikipédia conta que Harald concluiu que ela tinha sido uma bruxa, ficou furioso e baniu todos os filhos que tivera com ela. Daí em diante foi hostil aos feiticeiros. Quando Rǫgnvaldr seguiu o caminho da mãe, Harald mandou o filho leal Eiríkr Machado Sangrento matá-lo. A página não descreve a recuperação de Harald além desse ponto.
+A fonte conta que Harald concluiu que ela tinha sido uma bruxa, ficou furioso e baniu todos os filhos que tivera com ela. Daí em diante foi hostil aos feiticeiros. Quando Rǫgnvaldr seguiu o caminho da mãe, Harald mandou o filho leal Eiríkr Machado Sangrento matá-lo. A página não descreve a recuperação de Harald além desse ponto.
 
 ## As fontes
 
-A história principal está no Heimskringla, em Haralds saga hins hárfagra, capítulos 25 e 26. A lenda também aparece no Ágrip. A Orkneyinga saga a menciona de passagem, e o poema Málshattakvæði a evoca. Na Flateyjarbók, o primeiro capítulo de Haralds þáttr hárfagra gira em torno dela e atribui a Harald o Snæfríðardrápa, um poema escáldico sobre ela. A Wikipédia cita Gro Steinsland, *Fornnordisk religion* (2007), sobre o fato de ela ser uma esposa de Harald fora do Heimskringla. A página não traz discussão acadêmica sobre a identidade sami dela, além da descrição.
+A história principal está no Heimskringla, em Haralds saga hins hárfagra, capítulos 25 e 26. A lenda também aparece no Ágrip. A Orkneyinga saga a menciona de passagem, e o poema Málshattakvæði a evoca. Na Flateyjarbók, o primeiro capítulo de Haralds þáttr hárfagra gira em torno dela e atribui a Harald o Snæfríðardrápa, um poema escáldico sobre ela. A fonte cita Gro Steinsland, *Fornnordisk religion* (2007), sobre o fato de ela ser uma esposa de Harald fora do Heimskringla. A página não traz discussão acadêmica sobre a identidade sami dela, além da descrição.
 
 ## Em resumo
 

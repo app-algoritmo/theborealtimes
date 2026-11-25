@@ -13,7 +13,7 @@ fontes:
 tags: [kalmarunionen, margrete, erik av pommern, danmark, sverige, norge, gustav vasa, stockholms blodbad]
 ---
 
-Kalmarunionen samlet Danmark, Sverige (som den gang omfattet mye av dagens Finland) og Norge under én monark. Ifølge Wikipedia var den utformet av dronning Margrete av Danmark, og hvert rike forble juridisk adskilt.
+Kalmarunionen samlet Danmark, Sverige (som den gang omfattet mye av dagens Finland) og Norge under én monark. Ifølge kildene var den utformet av dronning Margrete av Danmark, og hvert rike forble juridisk adskilt.
 
 ## Kroningen i 1397
 

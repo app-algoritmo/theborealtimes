@@ -19,7 +19,7 @@ Blant fortellingene Morkinskinna har om kong Harald Hardråde finnes en der kong
 
 ## Hvem Halldór er
 
-Halldór Snorrason er sønn av høvdingen (*goden*) Snorre og stamfar til Snorre Sturluson. Han hadde vært venn med Harald siden før Harald ble konge, da begge tjenestegjorde i væringgarden i Konstantinopel. Han gikk i Haralds tjeneste etter at Harald ble konge. Teksten insisterer på å behandle ham som en mann av lav byrd, til tross for den mektige slekten på Island. Wikipedia sier at Harald mistrodde ham på grunn av hans sterke karakter, særlig når Halldór ledet andre menn.
+Halldór Snorrason er sønn av høvdingen (*goden*) Snorre og stamfar til Snorre Sturluson. Han hadde vært venn med Harald siden før Harald ble konge, da begge tjenestegjorde i væringgarden i Konstantinopel. Han gikk i Haralds tjeneste etter at Harald ble konge. Teksten insisterer på å behandle ham som en mann av lav byrd, til tross for den mektige slekten på Island. Kilden sier at Harald mistrodde ham på grunn av hans sterke karakter, særlig når Halldór ledet andre menn.
 
 ## Skipet og løgnen om krig
 
@@ -31,7 +31,7 @@ Ved hoffet hånet Harald Halldórs drikking og lojalitet, tilsynelatende for å 
 
 ## Kongens skip
 
-Etter jul beordret Harald Halldór om bord på kongens skip, som kolliderte mens Harald prøvde å overstyre Halldórs ordrer. Halldór truet med å dra, men Bard, en følgesvenn som taler fornuftens sak, fikk ham til å bli, med løfte om betaling i rent sølv og et skip for seg selv. Svein, en skipseier, mislikte kongens ordrer og tok skipet tilbake, og Halldór fikk kommandoen igjen. For å avslutte striden kjøpte Harald skipet og ga det tilbake til Svein. Wikipedia sier selv at formuleringen her er uklar.
+Etter jul beordret Harald Halldór om bord på kongens skip, som kolliderte mens Harald prøvde å overstyre Halldórs ordrer. Halldór truet med å dra, men Bard, en følgesvenn som taler fornuftens sak, fikk ham til å bli, med løfte om betaling i rent sølv og et skip for seg selv. Svein, en skipseier, mislikte kongens ordrer og tok skipet tilbake, og Halldór fikk kommandoen igjen. For å avslutte striden kjøpte Harald skipet og ga det tilbake til Svein. Kilden sier selv at formuleringen her er uklar.
 
 ## Den halve marken
 
@@ -45,10 +45,10 @@ Den neste sesongen fikk Halldór en melding som innbød ham tilbake til hoffet, 
 
 ## Hva forskerne ser
 
-Wikipedia sier at forskere har brukt fortellingen til å argumentere for bånd mellom islandsk og norsk identitet, til å antyde at nordmenn så på islendinger som lavt rangerte, og til å karakterisere Haralds ustadige holdning til penger. Det er også foreslått at Halldórs nære bånd til Harald førte slektstradisjoner videre gjennom generasjonene, og kanskje ga Snorre Sturluson stoff til Harald Hardrådes saga i Heimskringla.
+Kilden sier at forskere har brukt fortellingen til å argumentere for bånd mellom islandsk og norsk identitet, til å antyde at nordmenn så på islendinger som lavt rangerte, og til å karakterisere Haralds ustadige holdning til penger. Det er også foreslått at Halldórs nære bånd til Harald førte slektstradisjoner videre gjennom generasjonene, og kanskje ga Snorre Sturluson stoff til Harald Hardrådes saga i Heimskringla.
 
 ## Kort sagt
 
-Det er en historie om en stolt islending og en gjerrig konge: et skip uten mannskap, en oppdiktet krig, en ydmykelse til jul og et sverd ved kongssengen for en halv mark. Slutten er en invitasjon Halldór leser som en trussel og avslår. Wikipedia oppgir ingen datering for fortellingen eller for Morkinskinna.
+Det er en historie om en stolt islending og en gjerrig konge: et skip uten mannskap, en oppdiktet krig, en ydmykelse til jul og et sverd ved kongssengen for en halv mark. Slutten er en invitasjon Halldór leser som en trussel og avslår. Kilden oppgir ingen datering for fortellingen eller for Morkinskinna.
 
 Vil du vite hvem som gjorde hva ved hoffet, spill [Hvem gjorde hva ved hoffet](/no/spill-hvem-gjorde-hva-ved-hoffet/).

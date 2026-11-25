@@ -20,7 +20,7 @@ Skofnung is the sword of the legendary Danish king Hrólf Kraki. The Hrólfs sag
 
 ## From the grave to the saga
 
-According to Wikipedia, Skeggi of Miðfjörðr was chosen by lot to break into a burial mound and recovered Skofnung. In the Laxdœla saga the sword belongs to his son Eiðr of Áss, and the saga says it had been taken from Hrólf Kraki's mound. Scholars compare the episode to others in which a hero enters a grave and leaves with a weapon, such as Grettir in another saga.
+According to the sources, Skeggi of Miðfjörðr was chosen by lot to break into a burial mound and recovered Skofnung. In the Laxdœla saga the sword belongs to his son Eiðr of Áss, and the saga says it had been taken from Hrólf Kraki's mound. Scholars compare the episode to others in which a hero enters a grave and leaves with a weapon, such as Grettir in another saga.
 
 ## The sword's rules
 

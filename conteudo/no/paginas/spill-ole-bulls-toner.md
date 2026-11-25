@@ -23,4 +23,4 @@ Ole Bull var en fiolinist som Schumann sammenlignet med Paganini. Her trykker du
 
 ## Historien bak
 
-Ifølge Wikipedia skrev Robert Schumann at Ole Bull sto på høyde med Paganini i fart og klarhet. Notene og strengene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Ole Bull: fiolinisten fra Bergen som grunnla det første teatret på norsk og en koloni i Pennsylvania](/no/ole-bull-fiolinisten-fra-bergen-som-grunnla-det-forste/).
+Ifølge kildene skrev Robert Schumann at Ole Bull sto på høyde med Paganini i fart og klarhet. Notene og strengene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Ole Bull: fiolinisten fra Bergen som grunnla det første teatret på norsk og en koloni i Pennsylvania](/no/ole-bull-fiolinisten-fra-bergen-som-grunnla-det-forste/).

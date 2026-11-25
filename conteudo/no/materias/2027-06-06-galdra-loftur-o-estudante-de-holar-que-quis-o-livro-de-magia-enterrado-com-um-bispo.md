@@ -19,7 +19,7 @@ Galdra-Loftur betyr «Loftur trollmannen». Mannen bak tilnavnet er Loftur Þors
 
 ## Hva som er dokumentert
 
-Ifølge Wikipedia ble Loftur født omkring 1702, nær Hvammsfjörður, i Nordvest-Island. Faren, Þorsteinn Jónsson, var falkonér på Vörðufell, og moren het Ásta Loftsdóttir. I 1716 begynte han på skolen på Hólar, der han skal ha utviklet en interesse for galdr, norrøn magi. Han forlot den i 1722, og kildene er uenige om han tok eksamen eller ble utvist. Det som kom etterpå er usikkert.
+Ifølge kildene ble Loftur født omkring 1702, nær Hvammsfjörður, i Nordvest-Island. Faren, Þorsteinn Jónsson, var falkonér på Vörðufell, og moren het Ásta Loftsdóttir. I 1716 begynte han på skolen på Hólar, der han skal ha utviklet en interesse for galdr, norrøn magi. Han forlot den i 1722, og kildene er uenige om han tok eksamen eller ble utvist. Det som kom etterpå er usikkert.
 
 ## Boken Rauðskinna
 
@@ -27,7 +27,7 @@ Legenden stiller Loftur foran en bok, Rauðskinna, «rødskinn», beskrevet som 
 
 ## Legendens slutt
 
-I én versjon gjorde fiaskoen ham gal. Han ble satt under en prests omsorg på Staðarstaður, dro ut på havet i en gammel båt og forsvant, antakelig druknet. Det er bare én versjon blant flere, støttet av ett enkelt islandsk nettsted, og Wikipedia har ingen uavhengig bekreftelse.
+I én versjon gjorde fiaskoen ham gal. Han ble satt under en prests omsorg på Staðarstaður, dro ut på havet i en gammel båt og forsvant, antakelig druknet. Det er bare én versjon blant flere, støttet av ett enkelt islandsk nettsted, og kilden har ingen uavhengig bekreftelse.
 
 ## Skuespillet
 

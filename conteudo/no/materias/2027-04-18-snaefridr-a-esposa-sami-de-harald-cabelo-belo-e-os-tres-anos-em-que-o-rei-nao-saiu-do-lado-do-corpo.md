@@ -19,7 +19,7 @@ I sagaene om Norges konger er Harald Hårfagre kongen som samler landet. Men en 
 
 ## Hvem hun var
 
-Ifølge middelalderens tradisjon var Snæfríðr Svásadóttir (også Snjófríðr) en av Harald Hårfagres koner. Hun beskrives som en samisk kvinne, og sagaene gjør henne til stamfar for Harald Hardråde. Wikipedia påpeker at hun, ved siden av Ragnhild den mektige, er den eneste av Haralds koner som er nevnt utenfor Heimskringla.
+Ifølge middelalderens tradisjon var Snæfríðr Svásadóttir (også Snjófríðr) en av Harald Hårfagres koner. Hun beskrives som en samisk kvinne, og sagaene gjør henne til stamfar for Harald Hardråde. Kilden påpeker at hun, ved siden av Ragnhild den mektige, er den eneste av Haralds koner som er nevnt utenfor Heimskringla.
 
 ## Gjestebudet
 
@@ -39,11 +39,11 @@ En gammel mann som het Þorleifr den kloke, overtalte kongen til å forlate kamm
 
 ## Etterpå
 
-Wikipedia forteller at Harald konkluderte med at hun hadde vært en heks, ble rasende og forviste alle sønnene han hadde fått med henne. Fra da av var han fiendtlig mot trollmenn. Da Rǫgnvaldr fulgte morens vei, sendte Harald sin lojale sønn Eirik Blodøks for å drepe ham. Siden beskriver ikke Haralds bedring utover dette punktet.
+Kilden forteller at Harald konkluderte med at hun hadde vært en heks, ble rasende og forviste alle sønnene han hadde fått med henne. Fra da av var han fiendtlig mot trollmenn. Da Rǫgnvaldr fulgte morens vei, sendte Harald sin lojale sønn Eirik Blodøks for å drepe ham. Siden beskriver ikke Haralds bedring utover dette punktet.
 
 ## Kildene
 
-Hovedhistorien står i Heimskringla, i Haralds saga hins hárfagra, kapittel 25 og 26. Legenden finnes også i Ágrip. Orkneyinga saga nevner henne kort, og diktet Málshattakvæði spiller på henne. I Flateyjarbók handler første kapittel av Haralds þáttr hárfagra om henne og tilskriver Harald Snæfríðardrápa, et skaldedikt om henne. Wikipedia viser til Gro Steinsland, *Fornnordisk religion* (2007), om at hun er en av Haralds koner utenfor Heimskringla. Siden har ingen vitenskapelig drøfting av den samiske identiteten hennes, utover beskrivelsen.
+Hovedhistorien står i Heimskringla, i Haralds saga hins hárfagra, kapittel 25 og 26. Legenden finnes også i Ágrip. Orkneyinga saga nevner henne kort, og diktet Málshattakvæði spiller på henne. I Flateyjarbók handler første kapittel av Haralds þáttr hárfagra om henne og tilskriver Harald Snæfríðardrápa, et skaldedikt om henne. Kilden viser til Gro Steinsland, *Fornnordisk religion* (2007), om at hun er en av Haralds koner utenfor Heimskringla. Siden har ingen vitenskapelig drøfting av den samiske identiteten hennes, utover beskrivelsen.
 
 ## Kort sagt
 

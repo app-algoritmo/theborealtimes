@@ -23,4 +23,4 @@ La vida de Ingigerðr pasa por Suecia, por Ladoga y por la Rus de Kiev. Cada fra
 
 ## La historia detrás
 
-Según la Wikipedia, Ingigerðr nació en Suecia, recibió Ladoga como regalo de boda y vivió en la Rus de Kiev como esposa de Yaroslav el Sabio. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Ingigerðr: la princesa sueca que se casó con Yaroslav, recibió Ladoga y tuvo hijas reinas](/es/ingigerdr-la-princesa-sueca-que-se-caso-con-yaroslav/).
+Según las fuentes, Ingigerðr nació en Suecia, recibió Ladoga como regalo de boda y vivió en la Rus de Kiev como esposa de Yaroslav el Sabio. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Ingigerðr: la princesa sueca que se casó con Yaroslav, recibió Ladoga y tuvo hijas reinas](/es/ingigerdr-la-princesa-sueca-que-se-caso-con-yaroslav/).

@@ -19,7 +19,7 @@ Nordboerne nådde Nord-Amerika rundt år 1000, og det eneste bekreftede stedet e
 
 ## Funnet
 
-Ifølge Wikipedia sa amatøren Guy Mellgren at han fant mynten 18. august 1957 på Goddard-stedet, en gammel indiansk boplass ved Naskeag Point i Penobscot Bay, i Brooklin, Maine. Mynten ble gitt til Maine State Museum i 1974, sammen med omkring 30 000 gjenstander fra stedet.
+Ifølge kildene sa amatøren Guy Mellgren at han fant mynten 18. august 1957 på Goddard-stedet, en gammel indiansk boplass ved Naskeag Point i Penobscot Bay, i Brooklin, Maine. Mynten ble gitt til Maine State Museum i 1974, sammen med omkring 30 000 gjenstander fra stedet.
 
 ## Hva mynten er
 
@@ -43,7 +43,7 @@ Robert Hoge ved American Numismatic Society sa i 2006 at mynten «trolig bør re
 
 ## Hva som er sikkert
 
-Mynten er en norsk sølvpenning fra Olav Kyrres tid, slik Skaare identifiserte den. Mellgren sa han fant den på Goddard-stedet i 1957, og den ble gitt til museet i 1974. Stedet er fra 1180–1235. Myntens opphav er omstridt, og den arkeologiske betydningen er uklar. Wikipedia sier at kildene som er brukt, ikke avgjør om det er et ekte funn, et bedrag eller en handelsgjenstand.
+Mynten er en norsk sølvpenning fra Olav Kyrres tid, slik Skaare identifiserte den. Mellgren sa han fant den på Goddard-stedet i 1957, og den ble gitt til museet i 1974. Stedet er fra 1180–1235. Myntens opphav er omstridt, og den arkeologiske betydningen er uklar. Kilden sier at kildene som er brukt, ikke avgjør om det er et ekte funn, et bedrag eller en handelsgjenstand.
 
 ## Kort sagt
 

@@ -14,7 +14,7 @@ fontes:
 tags: [nils holgersson, selma lagerlöf, den underbare reisen, tomte, gjess, sverige, barnelitteratur]
 ---
 
-*Nils Holgerssons underbara resa genom Sverige*, «Nils Holgerssons underbare reise gjennom Sverige», er en roman av den svenske forfatteren Selma Lagerlöf. Ifølge Wikipedia kom den ut i to bøker, i 1906 og 1907, og var en av de første som brukte den nye svenske rettskrivingen, bestemt av et regjeringsvedtak 7. april 1906.
+*Nils Holgerssons underbara resa genom Sverige*, «Nils Holgerssons underbare reise gjennom Sverige», er en roman av den svenske forfatteren Selma Lagerlöf. Ifølge kildene kom den ut i to bøker, i 1906 og 1907, og var en av de første som brukte den nye svenske rettskrivingen, bestemt av et regjeringsvedtak 7. april 1906.
 
 ## En geografilesebok
 
@@ -30,7 +30,7 @@ Boka har skikkelser som Karr og Grayskin, ørnen Gorgo, Thumbietot, gåsejenta O
 
 ## Kapitler, kutt og kritikk
 
-Originalutgaven fra 1906 hadde 21 kapitler, og utgaven fra 1907 hadde 34, nummerert fra 22 til 55. Howards engelske oversettelse, fra 1907 og 1911, kuttet noen kapitler helt og forkortet andre, og derfor er ikke Dalarna, som besøkes i fire kapitler i originalen, med der. Boka ble også kritisert fordi gåsa og gutten flyr over Halland i kapittel 53 uten å lande, og noen oversettelser la til et kapittel om landskapet. Nils tegnes ofte med rød lue, noe Wikipedia kaller en feil, siden originalen beskriver en hvit.
+Originalutgaven fra 1906 hadde 21 kapitler, og utgaven fra 1907 hadde 34, nummerert fra 22 til 55. Howards engelske oversettelse, fra 1907 og 1911, kuttet noen kapitler helt og forkortet andre, og derfor er ikke Dalarna, som besøkes i fire kapitler i originalen, med der. Boka ble også kritisert fordi gåsa og gutten flyr over Halland i kapittel 53 uten å lande, og noen oversettelser la til et kapittel om landskapet. Nils tegnes ofte med rød lue, noe kilden kaller en feil, siden originalen beskriver en hvit.
 
 ## En svensk klassiker
 

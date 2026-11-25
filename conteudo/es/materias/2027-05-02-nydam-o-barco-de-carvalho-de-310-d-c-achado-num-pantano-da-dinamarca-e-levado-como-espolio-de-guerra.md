@@ -22,7 +22,7 @@ Nydam Mose está en Øster Sottrup, en Sundeved, a unos 8 km de Sønderborg, en 
 
 ## Una turbera sagrada
 
-En la Edad del Hierro la turbera era un «lugar sagrado», según Wikipedia. Armas y barcos capturados se ofrecían a los dioses en agradecimiento por la victoria. Muchos objetos fueron doblados, rotos o hechos pedazos en actos rituales, datados entre 200 y 400 d. C. El lugar probablemente se usó en distintas ocasiones entre 200 y 450 d. C.
+En la Edad del Hierro la turbera era un «lugar sagrado», según las fuentes. Armas y barcos capturados se ofrecían a los dioses en agradecimiento por la victoria. Muchos objetos fueron doblados, rotos o hechos pedazos en actos rituales, datados entre 200 y 400 d. C. El lugar probablemente se usó en distintas ocasiones entre 200 y 450 d. C.
 
 ## Los primeros hallazgos
 
@@ -44,7 +44,7 @@ Es el primero y el mayor de los tres barcos hallados, y el único que se conserv
 
 ## La guerra de 1864
 
-El trabajo de Engelhardt se detuvo cuando estalló la Segunda Guerra de Schleswig, a comienzos de 1864. Algunos hallazgos se perdieron. El barco menor, de pino, quizá de 19 metros, fue despedazado y usado como leña por las tropas, y Wikipedia dice que quedó destruido por completo durante la guerra. Dinamarca perdió la guerra y parte de su territorio, y se vio obligada a transferir el barco de Nydam a Prusia.
+El trabajo de Engelhardt se detuvo cuando estalló la Segunda Guerra de Schleswig, a comienzos de 1864. Algunos hallazgos se perdieron. El barco menor, de pino, quizá de 19 metros, fue despedazado y usado como leña por las tropas, y la fuente dice que quedó destruido por completo durante la guerra. Dinamarca perdió la guerra y parte de su territorio, y se vio obligada a transferir el barco de Nydam a Prusia.
 
 ## Dónde está hoy
 

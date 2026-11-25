@@ -33,7 +33,7 @@ De tre navnene danner et sett. Andhrímnir er kokken. Eldhrímnir er gryten, med
 
 ## Hvor forskerne er uenige
 
-Navnet er et problem. Wikipedia sier at det vanligste moderne forslaget er «sotete sjødyr», kanskje knyttet til norrønt *seyðir*, «kokegrop». Det strider mot ideen om et villsvin. Forskeren Rudolf Simek peker på at et dyr som gjenfødes også finnes i myten om Thors bukker, Tanngrisnir og Tanngnjóstr, og at det kan peke mot offerpraksis. Han forklarer forskjellen mellom Grímnismál og Gylfaginning som en utsmykning fra Snorre, påvirket av middelalderens bilde av paradis. Jacob Grimm foreslo for sin del en forbindelse til heltedyrkelse, fordi heltene fikk kjøtt og blod fra ofrene, mens gudene bare fikk innvoller og fett. Begge er fortsatt hypoteser.
+Navnet er et problem. Kilden sier at det vanligste moderne forslaget er «sotete sjødyr», kanskje knyttet til norrønt *seyðir*, «kokegrop». Det strider mot ideen om et villsvin. Forskeren Rudolf Simek peker på at et dyr som gjenfødes også finnes i myten om Thors bukker, Tanngrisnir og Tanngnjóstr, og at det kan peke mot offerpraksis. Han forklarer forskjellen mellom Grímnismál og Gylfaginning som en utsmykning fra Snorre, påvirket av middelalderens bilde av paradis. Jacob Grimm foreslo for sin del en forbindelse til heltedyrkelse, fordi heltene fikk kjøtt og blod fra ofrene, mens gudene bare fikk innvoller og fett. Begge er fortsatt hypoteser.
 
 ## Kort sagt
 

@@ -19,7 +19,7 @@ Få navn i islendingesagaene vekker så mange meninger som Hallgerðr langbrók.
 
 ## Hvem hun var
 
-Wikipedia sier at Hallgerðr var datter av Höskuldr Dala-Kollsson, som bodde på Höskuldsstaðir i Laxárdalr. Moren hennes dukker nesten ikke opp i fortellingen. Landnámabók nevner Þorleikr, Olaf Påfugl, Helgi, Þúriðr og Þorgerðr som brødre eller halvbrødre og søstre av henne.
+Kilden sier at Hallgerðr var datter av Höskuldr Dala-Kollsson, som bodde på Höskuldsstaðir i Laxárdalr. Moren hennes dukker nesten ikke opp i fortellingen. Landnámabók nevner Þorleikr, Olaf Påfugl, Helgi, Þúriðr og Þorgerðr som brødre eller halvbrødre og søstre av henne.
 
 Som voksen hadde hun hår «så langt at det kunne dekke hele kroppen». Hun var høy, noe som ga henne kallenavnet **langbrók**, «lange bukser». Landnámabók gir et annet, **snúinbrók**, «tvinnede bukser». Hun beskrives som impulsiv og egenrådig. Fosterfaren Þjóstólfr, voldelig og ubøyelig, skal ha påvirket henne til det verre.
 
@@ -31,7 +31,7 @@ Som voksen hadde hun hår «så langt at det kunne dekke hele kroppen». Hun var
 
 ## Striden med Bergþóra
 
-Wikipedia sier at Hallgerðr var en av hovedpådriverne bak striden mellom Gunnar og Njáll Þorgeirsson. Hun og Njåls kone, Bergþóra Skarphéðinsdóttir, svarte med stadig større gjengjeldelser og sendte folk for å drepe medlemmer av hverandres husstander.
+Kilden sier at Hallgerðr var en av hovedpådriverne bak striden mellom Gunnar og Njáll Þorgeirsson. Hun og Njåls kone, Bergþóra Skarphéðinsdóttir, svarte med stadig større gjengjeldelser og sendte folk for å drepe medlemmer av hverandres husstander.
 
 ## Håret
 
@@ -51,7 +51,7 @@ Etter Gunnars død slår hun seg ned på Grjotá med sønnen Grani. I sagaen sky
 
 ## Hva teksten ikke avgjør
 
-Wikipedia viser at leserne er uenige. Sagaen forteller handlingene, men den som leser dem, kan se dem som ondskap, som reaksjon eller som begge deler på én gang.
+Kilden viser at leserne er uenige. Sagaen forteller handlingene, men den som leser dem, kan se dem som ondskap, som reaksjon eller som begge deler på én gang.
 
 ## Kort sagt
 

@@ -33,7 +33,7 @@ The three names form a set. Andhrímnir is the cook. Eldhrímnir is the cauldron
 
 ## Where scholars disagree
 
-The name is a problem. Wikipedia says the most common modern proposal is "sooty sea-beast", perhaps tied to Old Norse *seyðir*, "cooking pit". That contradicts the idea of a boar. The scholar Rudolf Simek points out that an animal that is reborn also appears in the myth of Thor's goats, Tanngrisnir and Tanngnjóstr, and that this may point to sacrificial practices. He attributes the difference between Grímnismál and Gylfaginning to an embellishment by Snorri, influenced by the medieval image of paradise. Jacob Grimm, for his part, proposed a link with hero worship, because heroes received the flesh and blood of sacrifices while the gods received only the entrails and fat. Both remain hypotheses.
+The name is a problem. The source says the most common modern proposal is "sooty sea-beast", perhaps tied to Old Norse *seyðir*, "cooking pit". That contradicts the idea of a boar. The scholar Rudolf Simek points out that an animal that is reborn also appears in the myth of Thor's goats, Tanngrisnir and Tanngnjóstr, and that this may point to sacrificial practices. He attributes the difference between Grímnismál and Gylfaginning to an embellishment by Snorri, influenced by the medieval image of paradise. Jacob Grimm, for his part, proposed a link with hero worship, because heroes received the flesh and blood of sacrifices while the gods received only the entrails and fat. Both remain hypotheses.
 
 ## In short
 

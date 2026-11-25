@@ -23,4 +23,4 @@ In the hólmganga, each fighter generally used three shields, and the opponent's
 
 ## The story behind it
 
-According to Wikipedia, in the hólmganga each fighter could use a fixed number of shields, generally three, the challenged man struck first, and the fight normally ended at first blood. The game itself, with its objects and rules, is invention. Read the story in [The hólmganga: the duel on the ox hide, the three shields and the ban of 1006](/the-holmganga-the-duel-on-the-ox-hide-the-three-shields/).
+According to the sources, in the hólmganga each fighter could use a fixed number of shields, generally three, the challenged man struck first, and the fight normally ended at first blood. The game itself, with its objects and rules, is invention. Read the story in [The hólmganga: the duel on the ox hide, the three shields and the ban of 1006](/the-holmganga-the-duel-on-the-ox-hide-the-three-shields/).

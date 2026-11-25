@@ -23,4 +23,4 @@ Torslunda-matrisene ble presset mot tynne metallplater, og ut kom like folier ti
 
 ## Historien bak
 
-Ifølge Wikipedia var de fire bronsematrisene fra Torslunda laget for masseproduksjon: ved å presse tynne metallfolier mot dem fikk man like folier som pyntet hjelmer. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Torslunda-platene: fire bronsestempler fra Öland og den dansende krigeren med hornhjelm](/no/torslunda-platene-fire-bronsestempler-fra-oland/).
+Ifølge kildene var de fire bronsematrisene fra Torslunda laget for masseproduksjon: ved å presse tynne metallfolier mot dem fikk man like folier som pyntet hjelmer. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Torslunda-platene: fire bronsestempler fra Öland og den dansende krigeren med hornhjelm](/no/torslunda-platene-fire-bronsestempler-fra-oland/).

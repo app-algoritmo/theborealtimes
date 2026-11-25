@@ -13,7 +13,7 @@ fontes:
 tags: [birger jarl, estocolmo, casa de bjälbo, magnus ladulås, suecia medieval, folkungar, mälaren]
 ---
 
-Birger Jarl, también llamado Birger Magnusson, fue un estadista, regente y *jarl* sueco de la casa de Bjälbo. Según Wikipedia, nació hacia 1210, probablemente en Östergötland, y murió el 21 de octubre de 1266 en Jälbolung, en Västergötland. La fecha de nacimiento es incierta: los restos examinados en 2002 sugieren unos 50 años al morir, lo que apunta a 1216.
+Birger Jarl, también llamado Birger Magnusson, fue un estadista, regente y *jarl* sueco de la casa de Bjälbo. Según las fuentes, nació hacia 1210, probablemente en Östergötland, y murió el 21 de octubre de 1266 en Jälbolung, en Västergötland. La fecha de nacimiento es incierta: los restos examinados en 2002 sugieren unos 50 años al morir, lo que apunta a 1216.
 
 ## La familia y el poder
 
@@ -29,7 +29,7 @@ Birger dirigió la Segunda Cruzada Sueca a Finlandia. La *Crónica de Erik* dice
 
 ## Estocolmo
 
-Por tradición se atribuye a Birger la fundación de Estocolmo, hacia 1250. Lo que existe son dos cartas de 1252, cuidadosamente fechadas, la primera mención conocida de la ciudad. No describen el lugar. Entre los motivos sugeridos están limitar a los magnates locales controlando el acceso al lago Mälaren, defender las tierras de alrededor y crear una base comercial para mercaderes alemanes. Wikipedia califica su papel directo de especulativo.
+Por tradición se atribuye a Birger la fundación de Estocolmo, hacia 1250. Lo que existe son dos cartas de 1252, cuidadosamente fechadas, la primera mención conocida de la ciudad. No describen el lugar. Entre los motivos sugeridos están limitar a los magnates locales controlando el acceso al lago Mälaren, defender las tierras de alrededor y crear una base comercial para mercaderes alemanes. La fuente califica su papel directo de especulativo.
 
 ## Después
 

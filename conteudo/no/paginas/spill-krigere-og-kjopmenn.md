@@ -23,4 +23,4 @@ Ifølge Nestorkrøniken skjulte Oleg krigere i båtene og utga seg for å være 
 
 ## Historien bak
 
-Ifølge Nestorkrøniken skjulte Oleg i 882 krigerne sine i båtene og lot Askold og Dir få vite at han var en kjøpmann på vei til Hellas. Da de kom ut, hoppet soldatene ut av båtene. Wikipedia minner om at historien er halvt legendarisk. Krigerne som rykker fram, og tempoet i spillet er oppfinnelse. Les historien i [Askold og Dir: de første varjagiske herskerne i Kiev og trikset med de falske kjøpmennene](/no/askold-og-dir-de-forste-varjagiske-herskerne-i-kiev/).
+Ifølge Nestorkrøniken skjulte Oleg i 882 krigerne sine i båtene og lot Askold og Dir få vite at han var en kjøpmann på vei til Hellas. Da de kom ut, hoppet soldatene ut av båtene. Kilden minner om at historien er halvt legendarisk. Krigerne som rykker fram, og tempoet i spillet er oppfinnelse. Les historien i [Askold og Dir: de første varjagiske herskerne i Kiev og trikset med de falske kjøpmennene](/no/askold-og-dir-de-forste-varjagiske-herskerne-i-kiev/).

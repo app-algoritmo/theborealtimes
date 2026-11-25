@@ -13,7 +13,7 @@ fontes:
 tags: [tordenskjold, peter wessel, dynekilen, great northern war, charles xii, fredriksten, admiral]
 ---
 
-Peter Jansen Wessel was born on 28 October 1690 in Trondheim, Norway, then part of Denmark-Norway. According to Wikipedia, he was the tenth child of the alderman Jan Wessel, and his brother Caspar von Wessel became a rear-admiral. He served in the Dano-Norwegian navy in the Great Northern War against Sweden and rose from second lieutenant to vice-admiral.
+Peter Jansen Wessel was born on 28 October 1690 in Trondheim, Norway, then part of Denmark-Norway. According to the sources, he was the tenth child of the alderman Jan Wessel, and his brother Caspar von Wessel became a rear-admiral. He served in the Dano-Norwegian navy in the Great Northern War against Sweden and rose from second lieutenant to vice-admiral.
 
 ## A rebellious boy
 
@@ -35,11 +35,11 @@ On 8 July 1716, in the Dynekil fjord, he attacked the Swedish transport fleet, w
 
 In 1717 he was tasked with destroying the Swedish Gothenburg squadron, but succeeded only in part, because some officers were disloyal. In December 1718 he brought Frederick IV the news of Charles XII's death and was made rear-admiral. In 1719 he captured the Swedish fortress of Carlsten at Marstrand. On 26 September 1719 he destroyed part of the Gothenburg squadron and captured the rest, and was promoted to vice-admiral.
 
-A popular story says that, at Marstrand, he walked the enemy commander past his men, who moved from block to block to look more numerous. Wikipedia says this is a myth, not documented fact. From it comes the idiom "Tordenskjold's soldiers", used for someone who fills several roles.
+A popular story says that, at Marstrand, he walked the enemy commander past his men, who moved from block to block to look more numerous. The source says this is a myth, not documented fact. From it comes the idiom "Tordenskjold's soldiers", used for someone who fills several roles.
 
 ## The death
 
-On 12 November 1720, aged 30, he died in a duel with the Livonian colonel Jakob Axel Staël von Holstein, on the Sehlwiese at Gleidingen, near Hildesheim. The quarrel began after he accused him of cheating at gambling. Wikipedia notes that the details of the duel are not well known. His body was taken to Holmen Church in Copenhagen and placed in a sarcophagus in 1819.
+On 12 November 1720, aged 30, he died in a duel with the Livonian colonel Jakob Axel Staël von Holstein, on the Sehlwiese at Gleidingen, near Hildesheim. The quarrel began after he accused him of cheating at gambling. The source notes that the details of the duel are not well known. His body was taken to Holmen Church in Copenhagen and placed in a sarcophagus in 1819.
 
 ## The memory
 

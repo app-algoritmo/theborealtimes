@@ -19,7 +19,7 @@ Galdra-Loftur quer dizer "Loftur, o feiticeiro". O homem por trás do apelido é
 
 ## O que se documenta
 
-Segundo a Wikipédia, Loftur nasceu por volta de 1702, perto do Hvammsfjörður, no noroeste da Islândia. O pai, Þorsteinn Jónsson, era falcoeiro em Vörðufell, e a mãe se chamava Ásta Loftsdóttir. Em 1716 entrou na escola de Hólar, onde teria desenvolvido o interesse por galdr, a magia nórdica. Saiu em 1722, e as fontes discordam se se formou ou foi expulso. O que veio depois é incerto.
+Segundo as fontes, Loftur nasceu por volta de 1702, perto do Hvammsfjörður, no noroeste da Islândia. O pai, Þorsteinn Jónsson, era falcoeiro em Vörðufell, e a mãe se chamava Ásta Loftsdóttir. Em 1716 entrou na escola de Hólar, onde teria desenvolvido o interesse por galdr, a magia nórdica. Saiu em 1722, e as fontes discordam se se formou ou foi expulso. O que veio depois é incerto.
 
 ## O livro Rauðskinna
 
@@ -27,7 +27,7 @@ A lenda coloca Loftur diante de um livro, o Rauðskinna, "pele vermelha", descri
 
 ## O fim da lenda
 
-Numa das versões, o fracasso o enlouqueceu. Ele foi posto sob os cuidados de um padre em Staðarstaður, saiu ao mar num barco velho e sumiu, presumivelmente afogado. É só uma versão entre várias, apoiada por um único site islandês, e a Wikipédia não traz verificação independente.
+Numa das versões, o fracasso o enlouqueceu. Ele foi posto sob os cuidados de um padre em Staðarstaður, saiu ao mar num barco velho e sumiu, presumivelmente afogado. É só uma versão entre várias, apoiada por um único site islandês, e a fonte não traz verificação independente.
 
 ## A peça
 

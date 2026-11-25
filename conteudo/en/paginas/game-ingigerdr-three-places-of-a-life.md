@@ -23,4 +23,4 @@ Ingigerðr's life runs through Sweden, Ladoga and Kievan Rus. Each phrase falls 
 
 ## The story behind it
 
-According to Wikipedia, Ingigerðr was born in Sweden, received Ladoga as a wedding gift and lived in Kievan Rus as the wife of Yaroslav the Wise. The game itself, with its objects and rules, is invention. Read the story in [Ingigerðr: the Swedish princess who married Yaroslav, received Ladoga and had queens for daughters](/ingigerdr-the-swedish-princess-who-married-yaroslav/).
+According to the sources, Ingigerðr was born in Sweden, received Ladoga as a wedding gift and lived in Kievan Rus as the wife of Yaroslav the Wise. The game itself, with its objects and rules, is invention. Read the story in [Ingigerðr: the Swedish princess who married Yaroslav, received Ladoga and had queens for daughters](/ingigerdr-the-swedish-princess-who-married-yaroslav/).

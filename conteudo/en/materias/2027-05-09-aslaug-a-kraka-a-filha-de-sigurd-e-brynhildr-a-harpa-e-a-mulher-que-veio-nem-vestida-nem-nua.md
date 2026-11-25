@@ -27,11 +27,11 @@ Ragnar's men see her bathing. They are so struck that they let the bread burn. W
 
 ## The test
 
-Ragnar sends word that she must come to him neither dressed nor undressed, neither fasting nor fed, neither alone nor accompanied. She arrives wrapped in a net, biting an onion and accompanied by a dog. Wikipedia says "onion", not leek. Impressed by her wit, Ragnar asks for her hand.
+Ragnar sends word that she must come to him neither dressed nor undressed, neither fasting nor fed, neither alone nor accompanied. She arrives wrapped in a net, biting an onion and accompanied by a dog. The source says "onion", not leek. Impressed by her wit, Ragnar asks for her hand.
 
 ## The boneless son
 
-Wikipedia tells that, had Ragnar followed Áslaug's advice, their son Ívarr would not have been born weak and "boneless". But Ragnar took her to bed right after the wedding. The article names only Ívarr among the sons.
+The source tells that, had Ragnar followed Áslaug's advice, their son Ívarr would not have been born weak and "boneless". But Ragnar took her to bed right after the wedding. The article names only Ívarr among the sons.
 
 ## The parallel with folktales
 

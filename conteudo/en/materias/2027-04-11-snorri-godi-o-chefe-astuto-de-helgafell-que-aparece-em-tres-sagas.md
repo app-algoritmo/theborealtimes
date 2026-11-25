@@ -16,7 +16,7 @@ fontes:
 tags: [snorri goði, helgafell, eyrbyggja saga, laxdæla saga, njáls saga, iceland]
 ---
 
-Snorri goði, born in 963 and died in 1031 according to Wikipedia, was an Icelandic chieftain. *Goði* was the title of someone who held local power and presided at the Althing. He is the main character of the *Eyrbyggja saga* and appears in two other sagas. The portrait changes from one to the next.
+Snorri goði, born in 963 and died in 1031 according to the sources, was an Icelandic chieftain. *Goði* was the title of someone who held local power and presided at the Althing. He is the main character of the *Eyrbyggja saga* and appears in two other sagas. The portrait changes from one to the next.
 
 ## In the Eyrbyggja saga
 

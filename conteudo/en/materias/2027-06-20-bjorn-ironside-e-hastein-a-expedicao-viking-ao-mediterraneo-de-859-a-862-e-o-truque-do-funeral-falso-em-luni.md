@@ -13,7 +13,7 @@ fontes:
 tags: [björn ironside, hastein, luni, mediterranean, seine, vikings, ragnar lodbrok]
 ---
 
-Björn Ironside (Swedish *Björn Järnsida*) is known from two kinds of source. According to Wikipedia, contemporary Frankish annals, such as those of Saint-Bertin, name a Viking leader called Björn in West Francia in 855 and 858. Later accounts supply almost all of the family story: William of Jumièges (c. 1070) is the oldest text to describe his origins, and Saxo Grammaticus (c. 1200) makes him a king of Sweden.
+Björn Ironside (Swedish *Björn Järnsida*) is known from two kinds of source. According to the sources, contemporary Frankish annals, such as those of Saint-Bertin, name a Viking leader called Björn in West Francia in 855 and 858. Later accounts supply almost all of the family story: William of Jumièges (c. 1070) is the oldest text to describe his origins, and Saxo Grammaticus (c. 1200) makes him a king of Sweden.
 
 ## The sons of Ragnar
 

@@ -13,7 +13,7 @@ fontes:
 tags: [cofre de franks, auzon, weland, runas, inglés antiguo, northumbria, british museum]
 ---
 
-El cofre de Franks, o cofre de Auzon, es una pequeña caja de hueso de ballena de principios del siglo VIII, hoy en el Museo Británico. Según Wikipedia, los estudiosos suelen situar su origen en Northumbria. Mide 22,9 cm de largo, 19 de ancho y 10,9 de alto, y sus superficies están cubiertas de escenas talladas a cuchillo, junto con inscripciones en runas.
+El cofre de Franks, o cofre de Auzon, es una pequeña caja de hueso de ballena de principios del siglo VIII, hoy en el Museo Británico. Según las fuentes, los estudiosos suelen situar su origen en Northumbria. Mide 22,9 cm de largo, 19 de ancho y 10,9 de alto, y sus superficies están cubiertas de escenas talladas a cuchillo, junto con inscripciones en runas.
 
 ## De Brioude a Londres
 

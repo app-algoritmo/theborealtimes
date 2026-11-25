@@ -23,4 +23,4 @@ Jón Arason was beheaded in 1550. Take each phrase to the right box: before 1550
 
 ## The story behind it
 
-Jón Arason, Catholic bishop of Hólar, was captured at Sauðafell and beheaded in 1550 with his sons Ari and Björn; Wikipedia gives the death on 7 November. The boxes in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Jón Arason, the last Catholic bishop of Iceland, beheaded in 1550 with two of his sons](/jon-arason-the-last-catholic-bishop-of-iceland-beheaded/).
+Jón Arason, Catholic bishop of Hólar, was captured at Sauðafell and beheaded in 1550 with his sons Ari and Björn; the source gives the death on 7 November. The boxes in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Jón Arason, the last Catholic bishop of Iceland, beheaded in 1550 with two of his sons](/jon-arason-the-last-catholic-bishop-of-iceland-beheaded/).

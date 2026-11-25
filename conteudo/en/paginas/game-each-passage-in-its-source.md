@@ -23,4 +23,4 @@ Gunnhild, the Mother of Kings, appears in sources that contradict each other. A 
 
 ## The story behind it
 
-According to Wikipedia, Heimskringla makes Gunnhild a daughter of Ozur Toti and ties her to two Finnish wizards. In Egil's saga, her brothers try to kill the poet, who raises a horse's head on a pole. Historia Norwegiae, Laxdæla saga and Jómsvíkinga saga bring different origin, love and end. The queue of passages, the three boxes and the pace of the game are invention. Read the story in [Gunnhild, Mother of Kings: what each source says about Eric Bloodaxe's queen](/gunnhild-mother-of-kings-what-each-source-says-about-eric/).
+According to the sources, Heimskringla makes Gunnhild a daughter of Ozur Toti and ties her to two Finnish wizards. In Egil's saga, her brothers try to kill the poet, who raises a horse's head on a pole. Historia Norwegiae, Laxdæla saga and Jómsvíkinga saga bring different origin, love and end. The queue of passages, the three boxes and the pace of the game are invention. Read the story in [Gunnhild, Mother of Kings: what each source says about Eric Bloodaxe's queen](/gunnhild-mother-of-kings-what-each-source-says-about-eric/).

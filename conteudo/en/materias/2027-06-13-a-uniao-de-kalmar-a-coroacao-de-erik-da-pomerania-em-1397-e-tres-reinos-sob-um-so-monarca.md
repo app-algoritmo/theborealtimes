@@ -13,7 +13,7 @@ fontes:
 tags: [kalmar union, margaret, erik of pomerania, denmark, sweden, norway, gustav vasa, stockholm bloodbath]
 ---
 
-The Kalmar Union joined Denmark, Sweden (which then included much of present-day Finland) and Norway under one monarch. According to Wikipedia, it was designed by Queen Margaret of Denmark, and each kingdom remained legally separate.
+The Kalmar Union joined Denmark, Sweden (which then included much of present-day Finland) and Norway under one monarch. According to the sources, it was designed by Queen Margaret of Denmark, and each kingdom remained legally separate.
 
 ## The coronation of 1397
 

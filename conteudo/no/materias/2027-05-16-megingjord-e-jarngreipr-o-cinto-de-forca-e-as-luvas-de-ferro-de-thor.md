@@ -19,9 +19,9 @@ Når man snakker om Tors skatter, kommer hammeren Mjølner først. Snorres Edda 
 
 ## Kraftbeltet
 
-Navnet Megingjörð betyr «kraftbelte»: megin er styrke, gjörð er belte. Ifølge Snorre Sturluson vokser den guddommelige styrken til Tor når han spenner det, og Wikipedia oppsummerer virkningen som en fordobling av styrken han allerede har. I Gylfaginning, like etter Prologen, «spente Tor på seg kraftbeltet, og den guddommelige styrken hans vokste».
+Navnet Megingjörð betyr «kraftbelte»: megin er styrke, gjörð er belte. Ifølge Snorre Sturluson vokser den guddommelige styrken til Tor når han spenner det, og kilden oppsummerer virkningen som en fordobling av styrken han allerede har. I Gylfaginning, like etter Prologen, «spente Tor på seg kraftbeltet, og den guddommelige styrken hans vokste».
 
-Beltet står også i eldre poesi. I Þórsdrápa, et dikt fra 900-tallet av Eilífr Goðrúnarson, laget i tjeneste for jarl Håkon Sigurdsson, viser strofe 7 til beltet. Wikipedia oversetter uttrykket skalden bruker om Tor, som «han som drar nytte av det mektige beltet».
+Beltet står også i eldre poesi. I Þórsdrápa, et dikt fra 900-tallet av Eilífr Goðrúnarson, laget i tjeneste for jarl Håkon Sigurdsson, viser strofe 7 til beltet. Kilden oversetter uttrykket skalden bruker om Tor, som «han som drar nytte av det mektige beltet».
 
 ## Jernhanskene
 

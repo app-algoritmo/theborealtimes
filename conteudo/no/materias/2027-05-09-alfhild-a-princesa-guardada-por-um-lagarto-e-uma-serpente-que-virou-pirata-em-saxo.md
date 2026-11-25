@@ -18,7 +18,7 @@ Alfhild, eller Alvilda, er en annen kvinnelig kriger hos Saxo. Historien hennes,
 
 ## Det Saxo forteller
 
-Ifølge Wikipedia er Alfhild en gautisk prinsesse, datter av kong Siward. Kammeret hennes ble voktet av en øgle og en slange, som jaget vekk uverdige frierfolk. Den danske prinsen Alf overvant de to vokterne, men Alfhild, rådet av moren, flyktet kledd som mann og ble en skjoldmø.
+Ifølge kildene er Alfhild en gautisk prinsesse, datter av kong Siward. Kammeret hennes ble voktet av en øgle og en slange, som jaget vekk uverdige frierfolk. Den danske prinsen Alf overvant de to vokterne, men Alfhild, rådet av moren, flyktet kledd som mann og ble en skjoldmø.
 
 Hun ledet en flåte av langskip bemannet av unge kvinnelige pirater, som herjet langs Østersjøkysten. Alf og følgesvennen hans fra Skåne, Borgar, fant flåten utenfor Sør-Finland. Etter et dødelig slag falt hjelmen av Alfhild, og hun ble gjenkjent. Alf omfavnet henne, hun la fra seg krigerklærne, og de giftet seg i Danmark.
 
@@ -28,7 +28,7 @@ Historien fortsetter med krig. Alf, brødrene hans og faren, kong Sigar, dør i 
 
 ## Historiens opprinnelse
 
-Wikipedia sier at Saxos versjon er den eldste og bygger på «et av de gamle eventyrene eller sangene» han samlet. Saxos detaljer plasserer hendelsene på 400-tallet, men denne påstanden har en kildemangel-merknad i artikkelen. Det er lite tolkning utover dette.
+Kilden sier at Saxos versjon er den eldste og bygger på «et av de gamle eventyrene eller sangene» han samlet. Saxos detaljer plasserer hendelsene på 400-tallet, men denne påstanden har en kildemangel-merknad i artikkelen. Det er lite tolkning utover dette.
 
 ## Senere lesninger
 

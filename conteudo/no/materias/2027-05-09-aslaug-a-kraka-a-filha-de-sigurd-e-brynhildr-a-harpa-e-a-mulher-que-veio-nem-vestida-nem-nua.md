@@ -27,11 +27,11 @@ Ragnars menn ser henne bade. De blir så slått at de lar brødet brenne. Da Rag
 
 ## Prøven
 
-Ragnar sender bud om at hun skal komme til ham verken kledd eller ukledd, verken fastende eller mett, verken alene eller i følge. Hun kommer svøpt i et nett, med en løk mellom tennene og en hund ved siden av seg. Wikipedia sier «løk», ikke purre. Imponert over klokskapen hennes fridde Ragnar til henne.
+Ragnar sender bud om at hun skal komme til ham verken kledd eller ukledd, verken fastende eller mett, verken alene eller i følge. Hun kommer svøpt i et nett, med en løk mellom tennene og en hund ved siden av seg. Kilden sier «løk», ikke purre. Imponert over klokskapen hennes fridde Ragnar til henne.
 
 ## Sønnen uten ben
 
-Wikipedia forteller at hvis Ragnar hadde fulgt Áslaugs råd, ville sønnen Ívarr ikke blitt født svak og «beinløs». Men Ragnar tok henne med til sengs rett etter bryllupet. Artikkelen nevner bare Ívarr blant sønnene.
+Kilden forteller at hvis Ragnar hadde fulgt Áslaugs råd, ville sønnen Ívarr ikke blitt født svak og «beinløs». Men Ragnar tok henne med til sengs rett etter bryllupet. Artikkelen nevner bare Ívarr blant sønnene.
 
 ## Parallellen til eventyrene
 

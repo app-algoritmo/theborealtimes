@@ -13,7 +13,7 @@ fontes:
 tags: [ivar aasen, landsmål, nynorsk, dialetos, sunnmøre, filologia, língua norueguesa]
 ---
 
-Ivar Aasen nasceu em 5 de agosto de 1813 em Åsen, na paróquia de Ørsten (hoje Ørsta), na região de Sunnmøre, no oeste da Noruega, numa família de camponeses. Segundo a Wikipédia, o pai, pequeno agricultor, morreu em 1826, e Aasen trabalhou na terra ainda criança.
+Ivar Aasen nasceu em 5 de agosto de 1813 em Åsen, na paróquia de Ørsten (hoje Ørsta), na região de Sunnmøre, no oeste da Noruega, numa família de camponeses. Segundo as fontes, o pai, pequeno agricultor, morreu em 1826, e Aasen trabalhou na terra ainda criança.
 
 ## Um autodidata
 

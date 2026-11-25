@@ -18,7 +18,7 @@ I Jelling på Jylland sier Jelling 1-steinen at Gorm den gamle lot lage monument
 
 ## Hva steinen sier
 
-Ifølge Wikipedia lot Gorm lage steinen til minne om Þyri etter at hun var død. Innskriften kaller henne «Danmarkar bót». Uttrykket oversettes på flere måter: «Danmarks pryd», «styrke», «frelse» eller «lege» (Imer, Åhfeldt og Zedig, 2023; Randsborg, 2008). Navnet «Danebod» kommer fra dette uttrykket, som også står i Jómsvíkinga saga.
+Ifølge kildene lot Gorm lage steinen til minne om Þyri etter at hun var død. Innskriften kaller henne «Danmarkar bót». Uttrykket oversettes på flere måter: «Danmarks pryd», «styrke», «frelse» eller «lege» (Imer, Åhfeldt og Zedig, 2023; Randsborg, 2008). Navnet «Danebod» kommer fra dette uttrykket, som også står i Jómsvíkinga saga.
 
 ## Krønikeskriverne
 
@@ -30,7 +30,7 @@ Den første fasen av Danevirke er eldre enn Þyris tid: trærne som ble brukt, b
 
 ## Hva forskerne diskuterer
 
-Imer m.fl. (2023) og Hollander (1928) hevder at «Danmarkar bót» kan gjelde Gorm og ikke Þyri, og at hennes betydning vokste senere, i verkene til middelalderens krønikeskrivere. Wikipedia sier at dette ikke er flertallets syn. Det diskuteres også om sju runesteiner som nevner henne gjelder den samme kvinnen, og om den nordre haugen i Jelling er graven hennes: årringdatering av gjenstander i tre gir 959–960 e.Kr., men ingen kropp er funnet (Whitbread, 1967; Randsborg, 2008).
+Imer m.fl. (2023) og Hollander (1928) hevder at «Danmarkar bót» kan gjelde Gorm og ikke Þyri, og at hennes betydning vokste senere, i verkene til middelalderens krønikeskrivere. Kilden sier at dette ikke er flertallets syn. Det diskuteres også om sju runesteiner som nevner henne gjelder den samme kvinnen, og om den nordre haugen i Jelling er graven hennes: årringdatering av gjenstander i tre gir 959–960 e.Kr., men ingen kropp er funnet (Whitbread, 1967; Randsborg, 2008).
 
 ## Kort sagt
 

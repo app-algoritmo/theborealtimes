@@ -22,7 +22,7 @@ Gundestrup-kjelen er ikke en norrøn gjenstand, og derfor fortjener den å bli f
 
 ## Hva den er
 
-Den måler 69 cm i diameter og 42 cm i høyde, og veier nesten 9 kg. Wikipedia kaller den det største kjente sølvarbeidet fra europeisk jernalder. Den er ufullstendig: en bunnplate, fem innvendige plater, sju utvendige og to kantfragmenter er bevart. Den har drevet relieff, forgylling, glassøyne i figurene og tinnlodding.
+Den måler 69 cm i diameter og 42 cm i høyde, og veier nesten 9 kg. Kilden kaller den det største kjente sølvarbeidet fra europeisk jernalder. Den er ufullstendig: en bunnplate, fem innvendige plater, sju utvendige og to kantfragmenter er bevart. Den har drevet relieff, forgylling, glassøyne i figurene og tinnlodding.
 
 ## Bildene
 
@@ -34,4 +34,4 @@ Dateringen går fra 200 f.Kr. til 300 e.Kr., eller snevrere fra 150 til 1 f.Kr. 
 
 ## Kort sagt
 
-Wikipedia nevner ingen norrøn forbindelse. Kjelen står på Nasjonalmuseet i København, med kopier i Irland og Frankrike. For å samle platene før torven dekker dem, spill [Gundestrup-platene](/no/spill-gundestrup-platene/).
+Kilden nevner ingen norrøn forbindelse. Kjelen står på Nasjonalmuseet i København, med kopier i Irland og Frankrike. For å samle platene før torven dekker dem, spill [Gundestrup-platene](/no/spill-gundestrup-platene/).

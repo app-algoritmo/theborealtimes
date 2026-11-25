@@ -27,11 +27,11 @@ I **Grímnismál** i den eldre Edda er det Odin, forkledd som Grímnir, som tale
 
 I **Gylfaginning**, kap. 24, sier Høy til Gangleri at Freyja er den mest strålende av åsynjene. Boligen hennes heter Fólkvangr, og når hun rir til kamp, tar hun halvparten av de falne. Deretter siterer Høy strofen fra Grímnismál og beskriver hallen hennes, **Sessrúmnir**. Rudolf Simek peker på at strofen ikke sier dette om hallen: Det er et tillegg i Gylfaginning.
 
-I **Egils saga**, etter at Egill nekter å spise, sverger datteren Þorgerðr at hun ikke vil leve etter at faren og broren er døde, og hun regner med å møte Freyja. Wikipedia siterer ordene hennes: «Jeg vil ikke leve etter at faren og broren min er døde.»
+I **Egils saga**, etter at Egill nekter å spise, sverger datteren Þorgerðr at hun ikke vil leve etter at faren og broren er døde, og hun regner med å møte Freyja. Kilden siterer ordene hennes: «Jeg vil ikke leve etter at faren og broren min er døde.»
 
 ## Hvem som drar dit
 
-Wikipedia sier at halvparten av krigerne som faller i kamp, drar til Fólkvangr. Britt-Mari Näsström legger til at kvinner som dør en edel død, også kan dra dit, slik Þorgerðrs ed antyder.
+Kilden sier at halvparten av krigerne som faller i kamp, drar til Fólkvangr. Britt-Mari Näsström legger til at kvinner som dør en edel død, også kan dra dit, slik Þorgerðrs ed antyder.
 
 ## Hva forskerne diskuterer
 

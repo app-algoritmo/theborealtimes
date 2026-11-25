@@ -13,7 +13,7 @@ fontes:
 tags: [vladimir den store, kiev, væringer, kievriket, perun, anna porfyrogenneta, nestorkrøniken]
 ---
 
-Vladimir Svjatoslavitsj (ca. 958 – 15. juli 1015) var fyrste av Novgorod fra 970 og storfyrste av Kiev til han døde. Ifølge Wikipedia kanoniserte både den katolske og den ortodokse kirken ham som Sankt Vladimir. Han var den yngste, uekte sønnen til Svjatoslav I av Rurikide-ætten og Malusja, farens husholderske. Morbroren Dobrynja var læremesteren og den betrodde rådgiveren hans.
+Vladimir Svjatoslavitsj (ca. 958 – 15. juli 1015) var fyrste av Novgorod fra 970 og storfyrste av Kiev til han døde. Ifølge kildene kanoniserte både den katolske og den ortodokse kirken ham som Sankt Vladimir. Han var den yngste, uekte sønnen til Svjatoslav I av Rurikide-ætten og Malusja, farens husholderske. Morbroren Dobrynja var læremesteren og den betrodde rådgiveren hans.
 
 ## Krigen mellom brødrene
 

@@ -35,7 +35,7 @@ According to the *Heimskringla*, in 1018 Ragnvald Ulfsson and Norwegian envoys w
 
 ## The children and the death
 
-With Edla, Olof had Emund the Old, Astrid and Holmfrid. With Estrid of the Obotrites he had Anund Jacob, who succeeded him, and Ingegerd. Snorri's chronology puts a natural death in the winter of 1021 to 1022. Adam of Bremen places it near 1035, which Wikipedia itself calls certainly too late.
+With Edla, Olof had Emund the Old, Astrid and Holmfrid. With Estrid of the Obotrites he had Anund Jacob, who succeeded him, and Ingegerd. Snorri's chronology puts a natural death in the winter of 1021 to 1022. Adam of Bremen places it near 1035, which the source itself calls certainly too late.
 
 ## In short
 

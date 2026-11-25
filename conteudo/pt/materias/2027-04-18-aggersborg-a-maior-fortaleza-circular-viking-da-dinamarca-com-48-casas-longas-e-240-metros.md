@@ -34,15 +34,15 @@ O Museu Nacional da Dinamarca escavou o sítio de 1945 a 1954, e fossos adiciona
 
 ## A madeira
 
-A Wikipédia diz que uma casa exigia cerca de 66 carvalhos grandes, e que a estrutura toda precisou de uns 5 mil carvalhos grandes. É um número que dá uma ideia do que o rei era capaz de mobilizar.
+A fonte diz que uma casa exigia cerca de 66 carvalhos grandes, e que a estrutura toda precisou de uns 5 mil carvalhos grandes. É um número que dá uma ideia do que o rei era capaz de mobilizar.
 
 ## Para que servia
 
-Houve a teoria de que era quartel ou campo de treino dos exércitos de Svend Barba Bifurcada antes da conquista da Inglaterra, no começo dos anos 1000. A dendrocronologia derrubou essa teoria. A Wikipédia diz que é mais provável que fosse uma fortaleza defensiva em rotas comerciais estratégicas e/ou um posto administrativo do Estado nascente. A mesma página estima que o forte poderia abrigar uns 5 mil soldados, mas afirma que o uso exato continua incerto.
+Houve a teoria de que era quartel ou campo de treino dos exércitos de Svend Barba Bifurcada antes da conquista da Inglaterra, no começo dos anos 1000. A dendrocronologia derrubou essa teoria. A fonte diz que é mais provável que fosse uma fortaleza defensiva em rotas comerciais estratégicas e/ou um posto administrativo do Estado nascente. A mesma página estima que o forte poderia abrigar uns 5 mil soldados, mas afirma que o uso exato continua incerto.
 
 ## Os números
 
-Vale juntar os números num lugar só: 240 metros de diâmetro interno, vala a 8 metros do aterro, muro de cerca de 4 metros, 48 casas de cerca de 32,5 por 8,5 metros, 4 ruas principais, 30 mil objetos achados em 13 mil metros quadrados escavados. A Wikipédia fala em "cerca de" para vários deles, e os valores devem ser lidos como estimativas de arqueólogos, não como medidas exatas.
+Vale juntar os números num lugar só: 240 metros de diâmetro interno, vala a 8 metros do aterro, muro de cerca de 4 metros, 48 casas de cerca de 32,5 por 8,5 metros, 4 ruas principais, 30 mil objetos achados em 13 mil metros quadrados escavados. A fonte fala em "cerca de" para vários deles, e os valores devem ser lidos como estimativas de arqueólogos, não como medidas exatas.
 
 ## Em resumo
 

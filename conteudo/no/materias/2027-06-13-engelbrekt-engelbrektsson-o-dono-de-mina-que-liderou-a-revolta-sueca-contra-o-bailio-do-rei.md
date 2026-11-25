@@ -13,7 +13,7 @@ fontes:
 tags: [engelbrekt, bergslagen, dalarna, erik av pommern, opprør, arboga, riksdag, sverige]
 ---
 
-Engelbrekt Engelbrektsson (1390-årene – 4. mai 1436) var en svensk adelsmann og militærleder av tysk herkomst. Ifølge Wikipedia eide han en gruve og et jernverk i Bergslagen og kom fra Norbergs sogn i Västmanland. Familien hadde kommet til Sverige på 1360-tallet.
+Engelbrekt Engelbrektsson (1390-årene – 4. mai 1436) var en svensk adelsmann og militærleder av tysk herkomst. Ifølge kildene eide han en gruve og et jernverk i Bergslagen og kom fra Norbergs sogn i Västmanland. Familien hadde kommet til Sverige på 1360-tallet.
 
 ## Gruvearbeidernes klager
 

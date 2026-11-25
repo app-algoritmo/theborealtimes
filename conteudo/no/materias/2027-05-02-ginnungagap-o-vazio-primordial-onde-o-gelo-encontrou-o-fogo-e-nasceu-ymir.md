@@ -19,7 +19,7 @@ Før himmel, jord og hav, hva fantes da? I norrøn mytologi har svaret et navn: 
 
 ## Navnet
 
-På norrønt blir Ginnungagap vanligvis oversatt «gapende svelg» eller «gjesp av tomrom». Første ledd, *ginnunga-*, knyttes vanligvis til et verb som betyr «å gape» eller «å gjespe». Men Wikipedia påpeker at dette verbet ikke finnes på norrønt, bortsett fra i Völuspá, vers 3, «gap var ginnunga», som kanskje er et ordspill med begrepet.
+På norrønt blir Ginnungagap vanligvis oversatt «gapende svelg» eller «gjesp av tomrom». Første ledd, *ginnunga-*, knyttes vanligvis til et verb som betyr «å gape» eller «å gjespe». Men kilden påpeker at dette verbet ikke finnes på norrønt, bortsett fra i Völuspá, vers 3, «gap var ginnunga», som kanskje er et ordspill med begrepet.
 
 Forskerne er ikke enige om opphavet. Ursula Dronke foreslo at ordet er lånt fra gammelhøytysk *ginunga*, og peker på at Múspell også ser ut til å være lånt derfra. En annen forklaring knytter prefikset *ginn-* til hellige ord, som *ginn-heilagr* og *ginn-regin*, brukt om gudene, og *ginn-runa*, om runene. Da ville Ginnungagap være et «magisk rom fullt av skaperkraft».
 
@@ -39,7 +39,7 @@ Så kommer Auðumbla, kua formet av rimet, som matet Ymir med fire strømmer av 
 
 ## Et navn brukt i andre dikt
 
-Wikipedia oppgir også at Þjóðólfr fra Hvinir leker med begrepet i *Haustlöng*, med uttrykket «ginnunga vé». Dronke peker på dette.
+Kilden oppgir også at Þjóðólfr fra Hvinir leker med begrepet i *Haustlöng*, med uttrykket «ginnunga vé». Dronke peker på dette.
 
 ## Fra myte til kart
 
@@ -47,7 +47,7 @@ Wikipedia oppgir også at Þjóðólfr fra Hvinir leker med begrepet i *Haustlö
 
 ## Hva kildene ikke sier
 
-Wikipedia nevner ikke, og derfor hevder heller ikke denne teksten, hva tomrommet inneholdt før isen og ilden. Snorre beskriver møtet mellom de to ytterpunktene, men forklarer ikke hvor tomrommet kom fra.
+Kilden nevner ikke, og derfor hevder heller ikke denne teksten, hva tomrommet inneholdt før isen og ilden. Snorre beskriver møtet mellom de to ytterpunktene, men forklarer ikke hvor tomrommet kom fra.
 
 ## Kort sagt
 

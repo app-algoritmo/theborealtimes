@@ -32,7 +32,7 @@ Grønvik lê um naufrágio com mau tempo, uma pergunta sobre quem levou o morto 
 
 ## Galdr
 
-Alguns estudiosos propõem que o segundo painel seja uma estrofe em galdralag, o metro dos encantamentos. A Wikipédia lembra a semelhança com os Encantamentos de Merseburg, e diz que as duas fontes podem ser raros exemplares de galdr pré-cristão.
+Alguns estudiosos propõem que o segundo painel seja uma estrofe em galdralag, o metro dos encantamentos. A fonte lembra a semelhança com os Encantamentos de Merseburg, e diz que as duas fontes podem ser raros exemplares de galdr pré-cristão.
 
 ## Em resumo
 

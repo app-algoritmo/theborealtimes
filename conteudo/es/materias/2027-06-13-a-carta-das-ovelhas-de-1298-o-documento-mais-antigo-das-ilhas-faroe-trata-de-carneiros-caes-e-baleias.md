@@ -13,7 +13,7 @@ fontes:
 tags: [carta de las ovejas, seyðabrævið, islas feroe, 1298, haakon v, kirkjubøur, derecho medieval]
 ---
 
-El Seyðabrævið («Carta de las Ovejas», en nórdico antiguo *sauðabréfit*) es el documento más antiguo que se conserva de las Islas Feroe. Según Wikipedia, es un decreto real del 28 de junio de 1298. Trata sobre todo de la cría de ovejas, pero tiene otros asuntos y funcionó como una especie de constitución.
+El Seyðabrævið («Carta de las Ovejas», en nórdico antiguo *sauðabréfit*) es el documento más antiguo que se conserva de las Islas Feroe. Según las fuentes, es un decreto real del 28 de junio de 1298. Trata sobre todo de la cría de ovejas, pero tiene otros asuntos y funcionó como una especie de constitución.
 
 ## Quién lo emitió
 

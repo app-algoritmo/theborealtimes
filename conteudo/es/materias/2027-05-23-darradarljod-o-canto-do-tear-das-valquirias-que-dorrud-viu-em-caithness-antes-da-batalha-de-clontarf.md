@@ -27,7 +27,7 @@ El telar del poema está hecho de partes de guerreros: las entrañas hacen de ur
 
 ## Las valquirias
 
-El artículo de Wikipedia en inglés nombra a seis de las doce mujeres: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr y Göndul. Son nombres de valquirias, las que eligen a los caídos.
+El artículo de la fuente en inglés nombra a seis de las doce mujeres: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr y Göndul. Son nombres de valquirias, las que eligen a los caídos.
 
 ## Celta y nórdico
 

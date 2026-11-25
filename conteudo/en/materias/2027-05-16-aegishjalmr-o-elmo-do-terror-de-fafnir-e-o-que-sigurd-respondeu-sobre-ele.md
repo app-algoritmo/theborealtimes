@@ -32,7 +32,7 @@ In the Völsunga saga, Sigurd kills Fáfnir and takes the helm from the hoard, t
 
 ## The modern sign
 
-The name was later applied to an Icelandic magical sign, an eight-armed design that is today sold as "Helm of Awe" in jewellery and tattoos. That symbol is a sign from magical manuscripts, much later than the poems, and Wikipedia only says the name was given to it afterwards. There is no drawing of a helm in the medieval sources.
+The name was later applied to an Icelandic magical sign, an eight-armed design that is today sold as "Helm of Awe" in jewellery and tattoos. That symbol is a sign from magical manuscripts, much later than the poems, and the source only says the name was given to it afterwards. There is no drawing of a helm in the medieval sources.
 
 ## In short
 

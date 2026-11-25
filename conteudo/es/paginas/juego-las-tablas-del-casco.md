@@ -23,4 +23,4 @@ El barco de Nydam mide 23 metros y tiene casco de roble con tablas superpuestas.
 
 ## La historia detrás
 
-Según Wikipedia, el barco de Nydam mide 23 metros, tiene casco de roble de tablas solapadas y 14 pares de remos, y fue datado entre 310 y 320 d.C. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Nydam: el barco de roble del año 310 hallado en una turbera danesa y llevado como botín de guerra](/es/nydam-el-barco-de-roble-del-ano-310-hallado-en-una-turbera/).
+Según las fuentes, el barco de Nydam mide 23 metros, tiene casco de roble de tablas solapadas y 14 pares de remos, y fue datado entre 310 y 320 d.C. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Nydam: el barco de roble del año 310 hallado en una turbera danesa y llevado como botín de guerra](/es/nydam-el-barco-de-roble-del-ano-310-hallado-en-una-turbera/).

@@ -23,4 +23,4 @@ Nydam-båten er 23 meter lang, med eikeskrog av overlappende planker. Her stiger
 
 ## Historien bak
 
-Ifølge Wikipedia er Nydam-båten 23 meter lang, med eikeskrog i klinkbygg og 14 par årer, og ble datert til 310 til 320 e.Kr. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Nydam: eikebåten fra år 310 funnet i en dansk myr og tatt som krigsbytte](/no/nydam-eikebaten-fra-ar-310-funnet-i-en-dansk-myr-og-tatt/).
+Ifølge kildene er Nydam-båten 23 meter lang, med eikeskrog i klinkbygg og 14 par årer, og ble datert til 310 til 320 e.Kr. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Nydam: eikebåten fra år 310 funnet i en dansk myr og tatt som krigsbytte](/no/nydam-eikebaten-fra-ar-310-funnet-i-en-dansk-myr-og-tatt/).

@@ -23,4 +23,4 @@ Gullveig's name has to do with gold, and the Völuspá puts her under the spears
 
 ## The story behind it
 
-According to Wikipedia, in the Völuspá Gullveig is pierced by spears and burned three times in Hárr's hall, and is reborn, coming to be called Heiðr. The game itself, with its objects and rules, is invention. Read the story in [Gullveig, the one burned three times: the riddle in Völuspá before the war among the gods](/gullveig-the-one-burned-three-times-the-riddle-in-voluspa/).
+According to the sources, in the Völuspá Gullveig is pierced by spears and burned three times in Hárr's hall, and is reborn, coming to be called Heiðr. The game itself, with its objects and rules, is invention. Read the story in [Gullveig, the one burned three times: the riddle in Völuspá before the war among the gods](/gullveig-the-one-burned-three-times-the-riddle-in-voluspa/).

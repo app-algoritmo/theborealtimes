@@ -19,7 +19,7 @@ In Old Norse, *jörð* means "earth", and it is also the name of a goddess. She 
 
 ## Her parents, according to Gylfaginning
 
-In Gylfaginning, section 10, the Prose Edda tells that a giant named Narfi has a daughter, Nótt, Night. She marries Naglfari and then Annar, and their daughter is Jörð, "Earth". Wikipedia notes that this passage varies by manuscript. In the oldest manuscript, U, Jörð is the wife of Dellingr and mother of Dagr, Day. In manuscripts R, W and T, it is Nótt who fills that role.
+In Gylfaginning, section 10, the Prose Edda tells that a giant named Narfi has a daughter, Nótt, Night. She marries Naglfari and then Annar, and their daughter is Jörð, "Earth". The source notes that this passage varies by manuscript. In the oldest manuscript, U, Jörð is the wife of Dellingr and mother of Dagr, Day. In manuscripts R, W and T, it is Nótt who fills that role.
 
 ## The mother of Thor
 
@@ -33,7 +33,7 @@ In Völuspá, Thor is called *mögr Hlóðyniar* and *Fjörgyniar burr*. Scholar
 
 ## "Bride of Odin"
 
-In Skáldskaparmál, section 90, there is a long list of kennings for the earth. Among them, Jörð is "bride of Odin", "daughter of Önar" and "mother of Thor", as well as "floor and base of the winds' hall". In section 19, a kenning for Frigg calls her "rival of Iord and Rind". This shows that the poets thought of Odin as having had a link with Jörð, but the sources do not tell how it came about. The scholar John Lindow, cited on Wikipedia, argues that the relationship was probably not a marriage.
+In Skáldskaparmál, section 90, there is a long list of kennings for the earth. Among them, Jörð is "bride of Odin", "daughter of Önar" and "mother of Thor", as well as "floor and base of the winds' hall". In section 19, a kenning for Frigg calls her "rival of Iord and Rind". This shows that the poets thought of Odin as having had a link with Jörð, but the sources do not tell how it came about. The scholar John Lindow, cited on the source, argues that the relationship was probably not a marriage.
 
 ## A goddess who is the ground
 

@@ -19,7 +19,7 @@ Antes do céu, da terra e do mar, o que havia? Na mitologia nórdica, a resposta
 
 ## O nome
 
-Em nórdico antigo, Ginnungagap costuma ser traduzido como "abismo escancarado" ou "vazio que bocejava". A primeira parte, *ginnunga-*, em geral se liga a um verbo que significa "abrir a boca", "bocejar". Mas a Wikipédia observa que esse verbo não existe em nórdico antigo, a não ser no verso 3 da Völuspá, "gap var ginnunga", que talvez seja um jogo de palavras com o termo.
+Em nórdico antigo, Ginnungagap costuma ser traduzido como "abismo escancarado" ou "vazio que bocejava". A primeira parte, *ginnunga-*, em geral se liga a um verbo que significa "abrir a boca", "bocejar". Mas a fonte observa que esse verbo não existe em nórdico antigo, a não ser no verso 3 da Völuspá, "gap var ginnunga", que talvez seja um jogo de palavras com o termo.
 
 Os estudiosos não concordam sobre a origem. Ursula Dronke propôs que a palavra veio do alto-alemão antigo *ginunga*, e lembra que Múspell também parece ter sido emprestado dessa língua. Outra explicação liga o prefixo *ginn-* a palavras sagradas, como *ginn-heilagr* e *ginn-regin*, usadas para os deuses, e *ginn-runa*, para as runas. Nesse caso, Ginnungagap seria um "espaço mágico, cheio de poder criador".
 
@@ -39,7 +39,7 @@ Em seguida vem Auðumbla, a vaca formada da geada, que alimentou Ymir com quatro
 
 ## Um nome usado em outros poemas
 
-A Wikipédia também registra que Þjóðólfr de Hvinir brinca com o termo na *Haustlöng*, com a expressão "ginnunga vé". Dronke observa isso.
+A fonte também registra que Þjóðólfr de Hvinir brinca com o termo na *Haustlöng*, com a expressão "ginnunga vé". Dronke observa isso.
 
 ## Do mito ao mapa
 
@@ -47,7 +47,7 @@ Séculos depois, o nome saiu dos poemas e foi parar nos mapas. No início do sé
 
 ## O que as fontes não dizem
 
-A Wikipédia não menciona, e por isso este texto também não afirma, o que o vazio continha antes do gelo e do fogo. Snorri descreve o encontro dos dois extremos, mas não explica de onde veio o Vazio.
+A fonte não menciona, e por isso este texto também não afirma, o que o vazio continha antes do gelo e do fogo. Snorri descreve o encontro dos dois extremos, mas não explica de onde veio o Vazio.
 
 ## Em resumo
 

@@ -25,9 +25,9 @@ Em paráfrase: Austmaðr, filho de Guðfastr, mandou erguer esta pedra e constru
 
 ## O homem e os nomes
 
-Austmaðr quer dizer "homem do leste". A Wikipédia o descreve como um falante do nórdico ocidental antigo, vindo da Escandinávia continental, e diz o nome do pai, Guðfastr. Mais do que isso, a página não diz sobre a vida dele.
+Austmaðr quer dizer "homem do leste". A fonte o descreve como um falante do nórdico ocidental antigo, vindo da Escandinávia continental, e diz o nome do pai, Guðfastr. Mais do que isso, a página não diz sobre a vida dele.
 
-Os nomes têm sentidos. Guðfastr é "fiel a Deus". Ásbjörn é "urso dos deuses". E Trjónn, que a Wikipédia glosa como "focinho", é um nome específico de Jämtland. Os outros dois nomes, Trjónn e Steinn, são dos mestres de runas.
+Os nomes têm sentidos. Guðfastr é "fiel a Deus". Ásbjörn é "urso dos deuses". E Trjónn, que a fonte glosa como "focinho", é um nome específico de Jämtland. Os outros dois nomes, Trjónn e Steinn, são dos mestres de runas.
 
 ## A ponte e a balsa
 
@@ -35,7 +35,7 @@ A inscrição diz que Ásbjörn construiu a ponte, e a pedra ficava no ponto da 
 
 ## Por que importa
 
-A Wikipédia diz que a pedra comemora a cristianização de Jämtland por Austmaðr, em vez de ser um cenotáfio, uma lembrança de alguém enterrado em outro lugar. A página a descreve como única nesse sentido, embora não cite fonte para isso. Também diz que, em todo o mundo, a pedra rúnica mais ao norte é a de Kingittorsuaq, na Groenlândia. A de Frösö é a mais ao norte da Escandinávia.
+A fonte diz que a pedra comemora a cristianização de Jämtland por Austmaðr, em vez de ser um cenotáfio, uma lembrança de alguém enterrado em outro lugar. A página a descreve como única nesse sentido, embora não cite fonte para isso. Também diz que, em todo o mundo, a pedra rúnica mais ao norte é a de Kingittorsuaq, na Groenlândia. A de Frösö é a mais ao norte da Escandinávia.
 
 ## O que a pedra não diz
 

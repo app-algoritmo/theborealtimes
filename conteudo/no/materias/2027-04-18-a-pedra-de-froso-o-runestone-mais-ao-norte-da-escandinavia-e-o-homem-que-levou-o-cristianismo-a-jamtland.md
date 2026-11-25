@@ -25,9 +25,9 @@ Parafrasert: Austmaðr, Guðfastrs sønn, lot reise denne steinen og bygge en br
 
 ## Mannen og navnene
 
-Austmaðr betyr «mann fra øst». Wikipedia beskriver ham som en vestnordisk-talende fra det skandinaviske fastlandet, og oppgir farens navn, Guðfastr. Utover det sier siden ingenting om livet hans.
+Austmaðr betyr «mann fra øst». Kilden beskriver ham som en vestnordisk-talende fra det skandinaviske fastlandet, og oppgir farens navn, Guðfastr. Utover det sier siden ingenting om livet hans.
 
-Navnene har betydninger. Guðfastr er «trofast mot Gud». Ásbjörn er «gudebjørn». Og Trjónn, som Wikipedia gjengir som «snute», er et navn som er spesifikt for Jämtland. De to andre navnene, Trjónn og Steinn, er runemestrene.
+Navnene har betydninger. Guðfastr er «trofast mot Gud». Ásbjörn er «gudebjørn». Og Trjónn, som kilden gjengir som «snute», er et navn som er spesifikt for Jämtland. De to andre navnene, Trjónn og Steinn, er runemestrene.
 
 ## Broen og ferja
 
@@ -35,7 +35,7 @@ Innskriften sier at Ásbjörn bygde broen, og steinen sto ved overfartsstedet. S
 
 ## Hvorfor det betyr noe
 
-Wikipedia sier at steinen minnes Austmaðrs kristning av Jämtland, i stedet for å være en kenotaf, et minnesmerke over noen som er gravlagt et annet sted. Siden beskriver dette som unikt, selv om den ikke oppgir noen kilde for påstanden. Den sier også at den nordligste runesteinen i hele verden er Kingittorsuaq-steinen på Grønland. Frösö-steinen er den nordligste i Skandinavia.
+Kilden sier at steinen minnes Austmaðrs kristning av Jämtland, i stedet for å være en kenotaf, et minnesmerke over noen som er gravlagt et annet sted. Siden beskriver dette som unikt, selv om den ikke oppgir noen kilde for påstanden. Den sier også at den nordligste runesteinen i hele verden er Kingittorsuaq-steinen på Grønland. Frösö-steinen er den nordligste i Skandinavia.
 
 ## Hva steinen ikke sier
 

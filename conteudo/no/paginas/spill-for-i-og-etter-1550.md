@@ -23,4 +23,4 @@ Jón Arason ble halshogd i 1550. Ta hver setning til riktig boks: før 1550, i 1
 
 ## Historien bak
 
-Jón Arason, katolsk biskop av Hólar, ble tatt til fange på Sauðafell og halshogd i 1550 sammen med sønnene Ari og Björn; Wikipedia oppgir dødsdagen som 7. november. Boksene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Jón Arason, Islands siste katolske biskop, halshugget i 1550 sammen med to av sønnene](/no/jon-arason-islands-siste-katolske-biskop-halshugget-i-1550/).
+Jón Arason, katolsk biskop av Hólar, ble tatt til fange på Sauðafell og halshogd i 1550 sammen med sønnene Ari og Björn; kilden oppgir dødsdagen som 7. november. Boksene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Jón Arason, Islands siste katolske biskop, halshugget i 1550 sammen med to av sønnene](/no/jon-arason-islands-siste-katolske-biskop-halshugget-i-1550/).

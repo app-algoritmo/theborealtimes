@@ -27,7 +27,7 @@ Ordet er knyttet til norrønt þula, «litani», og betyr omtrent «resitator».
 
 ## De tre hornene
 
-Steinen har tre horn risset inn, muligens drikkehorn, flettet i en trekant. Wikipedia sammenligner figuren med ufullstendige borromeiske ringer. En lignende tegning står på Lillbjärs-steinen på Gotland, ved siden av valknuten, men forholdet mellom de to symbolene er ukjent. Snoldelev-steinen har også et hakekors, et gammelt symbol som er eldre enn dets moderne bruk.
+Steinen har tre horn risset inn, muligens drikkehorn, flettet i en trekant. Kilden sammenligner figuren med ufullstendige borromeiske ringer. En lignende tegning står på Lillbjärs-steinen på Gotland, ved siden av valknuten, men forholdet mellom de to symbolene er ukjent. Snoldelev-steinen har også et hakekors, et gammelt symbol som er eldre enn dets moderne bruk.
 
 ## En omtrentlig dato
 

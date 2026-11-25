@@ -19,7 +19,7 @@ Os nórdicos chegaram à América do Norte por volta do ano 1000, e o único sí
 
 ## O achado
 
-Segundo a Wikipédia, o amador Guy Mellgren disse ter achado a moeda em 18 de agosto de 1957, no sítio Goddard, um antigo assentamento indígena em Naskeag Point, na baía de Penobscot, em Brooklin, Maine. A moeda foi doada ao Museu Estadual do Maine em 1974, junto com cerca de 30 mil objetos do sítio.
+Segundo as fontes, o amador Guy Mellgren disse ter achado a moeda em 18 de agosto de 1957, no sítio Goddard, um antigo assentamento indígena em Naskeag Point, na baía de Penobscot, em Brooklin, Maine. A moeda foi doada ao Museu Estadual do Maine em 1974, junto com cerca de 30 mil objetos do sítio.
 
 ## O que é a moeda
 
@@ -43,7 +43,7 @@ Robert Hoge, da American Numismatic Society, disse em 2006 que a moeda "provavel
 
 ## O que está firmado
 
-A moeda é um penny norueguês de prata do tempo de Olaf Kyrre, como identificado por Skaare. Mellgren disse tê-la achado no sítio Goddard em 1957, e ela foi doada ao museu em 1974. O sítio é de 1180 a 1235. A origem da moeda é disputada e o significado arqueológico dela não está claro. A Wikipédia diz que as fontes consultadas não resolvem se é um achado genuíno, uma fraude ou um objeto de troca.
+A moeda é um penny norueguês de prata do tempo de Olaf Kyrre, como identificado por Skaare. Mellgren disse tê-la achado no sítio Goddard em 1957, e ela foi doada ao museu em 1974. O sítio é de 1180 a 1235. A origem da moeda é disputada e o significado arqueológico dela não está claro. A fonte diz que as fontes consultadas não resolvem se é um achado genuíno, uma fraude ou um objeto de troca.
 
 ## Em resumo
 

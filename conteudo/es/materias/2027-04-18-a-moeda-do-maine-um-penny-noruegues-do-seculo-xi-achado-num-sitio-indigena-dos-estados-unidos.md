@@ -19,7 +19,7 @@ Los nórdicos llegaron a Norteamérica hacia el año 1000, y el único sitio com
 
 ## El hallazgo
 
-Según Wikipedia, el aficionado Guy Mellgren dijo haber hallado la moneda el 18 de agosto de 1957 en el sitio Goddard, un antiguo asentamiento indígena en Naskeag Point, en la bahía de Penobscot, en Brooklin, Maine. La moneda fue donada al Museo Estatal de Maine en 1974, junto con unos 30.000 objetos del sitio.
+Según las fuentes, el aficionado Guy Mellgren dijo haber hallado la moneda el 18 de agosto de 1957 en el sitio Goddard, un antiguo asentamiento indígena en Naskeag Point, en la bahía de Penobscot, en Brooklin, Maine. La moneda fue donada al Museo Estatal de Maine en 1974, junto con unos 30.000 objetos del sitio.
 
 ## Qué es la moneda
 
@@ -43,7 +43,7 @@ Robert Hoge, de la American Numismatic Society, dijo en 2006 que la moneda «pro
 
 ## Lo que está firmemente establecido
 
-La moneda es un penique noruego de plata de la época de Olaf Kyrre, como lo identificó Skaare. Mellgren dijo haberla hallado en el sitio Goddard en 1957, y fue donada al museo en 1974. El sitio es de 1180–1235. La procedencia de la moneda es disputada y su significado arqueológico no está claro. Wikipedia dice que las fuentes consultadas no resuelven si es un hallazgo genuino, un fraude o un objeto de intercambio.
+La moneda es un penique noruego de plata de la época de Olaf Kyrre, como lo identificó Skaare. Mellgren dijo haberla hallado en el sitio Goddard en 1957, y fue donada al museo en 1974. El sitio es de 1180–1235. La procedencia de la moneda es disputada y su significado arqueológico no está claro. La fuente dice que las fuentes consultadas no resuelven si es un hallazgo genuino, un fraude o un objeto de intercambio.
 
 ## En resumen
 

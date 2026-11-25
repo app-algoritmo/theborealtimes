@@ -13,7 +13,7 @@ fontes:
 tags: [tordenskjold, peter wessel, dynekilen, grande guerra do norte, carlos xii, fredriksten, almirante]
 ---
 
-Peter Jansen Wessel nasceu em 28 de outubro de 1690 em Trondheim, na Noruega, então parte da Dinamarca-Noruega. Segundo a Wikipédia, foi o décimo filho do vereador Jan Wessel, e seu irmão Caspar von Wessel chegou a contra-almirante. Serviu na marinha dano-norueguesa na Grande Guerra do Norte contra a Suécia e subiu de segundo-tenente a vice-almirante.
+Peter Jansen Wessel nasceu em 28 de outubro de 1690 em Trondheim, na Noruega, então parte da Dinamarca-Noruega. Segundo as fontes, foi o décimo filho do vereador Jan Wessel, e seu irmão Caspar von Wessel chegou a contra-almirante. Serviu na marinha dano-norueguesa na Grande Guerra do Norte contra a Suécia e subiu de segundo-tenente a vice-almirante.
 
 ## Um menino rebelde
 
@@ -35,11 +35,11 @@ Em 8 de julho de 1716, no fiorde de Dynekil, ele atacou com duas fragatas e cinc
 
 Em 1717 recebeu a tarefa de destruir o esquadrão sueco de Gotemburgo, mas só o conseguiu em parte, porque alguns oficiais foram desleais. Em dezembro de 1718 levou a Frederico IV a notícia da morte de Carlos XII e foi feito contra-almirante. Em 1719 tomou a fortaleza sueca de Carlsten, em Marstrand. Em 26 de setembro de 1719 destruiu uma parte do esquadrão de Gotemburgo e capturou outra, e foi promovido a vice-almirante.
 
-Uma história popular diz que, em Marstrand, ele passou o comandante inimigo diante de seus homens, que iam de bloco em bloco para parecer mais numerosos. A Wikipédia diz que é um mito, não um fato documentado. Dele vem a expressão "os soldados de Tordenskjold", usada para quem cumpre vários papéis.
+Uma história popular diz que, em Marstrand, ele passou o comandante inimigo diante de seus homens, que iam de bloco em bloco para parecer mais numerosos. A fonte diz que é um mito, não um fato documentado. Dele vem a expressão "os soldados de Tordenskjold", usada para quem cumpre vários papéis.
 
 ## A morte
 
-Em 12 de novembro de 1720, aos 30 anos, morreu num duelo com o coronel livoniano Jakob Axel Staël von Holstein, em Sehlwiese, em Gleidingen, perto de Hildesheim. A briga começou depois que ele o acusou de trapacear no jogo. A Wikipédia observa que os detalhes do duelo não são bem conhecidos. O corpo foi levado para a Igreja de Holmen, em Copenhague, e colocado num sarcófago em 1819.
+Em 12 de novembro de 1720, aos 30 anos, morreu num duelo com o coronel livoniano Jakob Axel Staël von Holstein, em Sehlwiese, em Gleidingen, perto de Hildesheim. A briga começou depois que ele o acusou de trapacear no jogo. A fonte observa que os detalhes do duelo não são bem conhecidos. O corpo foi levado para a Igreja de Holmen, em Copenhague, e colocado num sarcófago em 1819.
 
 ## A memória
 

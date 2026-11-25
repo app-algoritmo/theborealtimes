@@ -13,7 +13,7 @@ fontes:
 tags: [sauebrevet, seyðabrævið, færøyene, 1298, håkon v, kirkjubøur, middelalderrett]
 ---
 
-Seyðabrævið («Sauebrevet», på norrønt *sauðabréfit*) er det eldste bevarte dokumentet fra Færøyene. Ifølge Wikipedia er det et kongelig dekret fra 28. juni 1298. Det handler hovedsakelig om saueavl, men har andre emner og fungerte som en slags grunnlov.
+Seyðabrævið («Sauebrevet», på norrønt *sauðabréfit*) er det eldste bevarte dokumentet fra Færøyene. Ifølge kildene er det et kongelig dekret fra 28. juni 1298. Det handler hovedsakelig om saueavl, men har andre emner og fungerte som en slags grunnlov.
 
 ## Hvem som utstedte det
 

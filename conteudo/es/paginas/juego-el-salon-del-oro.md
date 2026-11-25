@@ -23,4 +23,4 @@ El nombre de Gullveig tiene que ver con el oro, y la Völuspá la pone bajo las 
 
 ## La historia detrás
 
-Según Wikipedia, en la Völuspá Gullveig es atravesada por lanzas y quemada tres veces en el salón de Hárr, y renace, pasando a llamarse Heiðr. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Gullveig, la que fue quemada tres veces: el enigma de la Völuspá antes de la guerra entre los dioses](/es/gullveig-la-que-fue-quemada-tres-veces-el-enigma-de-la/).
+Según las fuentes, en la Völuspá Gullveig es atravesada por lanzas y quemada tres veces en el salón de Hárr, y renace, pasando a llamarse Heiðr. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Gullveig, la que fue quemada tres veces: el enigma de la Völuspá antes de la guerra entre los dioses](/es/gullveig-la-que-fue-quemada-tres-veces-el-enigma-de-la/).

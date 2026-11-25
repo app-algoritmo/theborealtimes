@@ -13,7 +13,7 @@ fontes:
 tags: [störtebeker, vitaliebrødrene, sjørøveri, hansaen, hamburg, visby, 1401]
 ---
 
-Klaus Störtebeker ble født omkring 1360 og døde, ifølge Wikipedia, angivelig 20. oktober 1401 i Hamburg. Artikkelen skriver «angivelig»: opptegnelser fra 1400 om graver for 30 Vitaliebrødre antyder at datoen kan være 1400.
+Klaus Störtebeker ble født omkring 1360 og døde, ifølge kildene, angivelig 20. oktober 1401 i Hamburg. Artikkelen skriver «angivelig»: opptegnelser fra 1400 om graver for 30 Vitaliebrødre antyder at datoen kan være 1400.
 
 ## Vitaliebrødrene
 

@@ -23,4 +23,4 @@ Na revolta de Engelbrekt, os rebeldes destruíram os castelos dos bailios. Aqui 
 
 ## A história por trás
 
-Engelbrekt Engelbrektsson, dono de uma mina em Bergslagen, liderou a revolta sueca de 1434 contra o rei Erik da Pomerânia, e a Wikipédia diz que os rebeldes destruíram castelos de bailios. Ele morreu em 4 de maio de 1436. As torres e as casas do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Engelbrekt Engelbrektsson: o dono de mina que liderou a revolta sueca contra o bailio do rei](/pt/engelbrekt-engelbrektsson-o-dono-de-mina-que-liderou-a-revolta-sueca-contra-o-bailio-do-rei/).
+Engelbrekt Engelbrektsson, dono de uma mina em Bergslagen, liderou a revolta sueca de 1434 contra o rei Erik da Pomerânia, e a fonte diz que os rebeldes destruíram castelos de bailios. Ele morreu em 4 de maio de 1436. As torres e as casas do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Engelbrekt Engelbrektsson: o dono de mina que liderou a revolta sueca contra o bailio do rei](/pt/engelbrekt-engelbrektsson-o-dono-de-mina-que-liderou-a-revolta-sueca-contra-o-bailio-do-rei/).

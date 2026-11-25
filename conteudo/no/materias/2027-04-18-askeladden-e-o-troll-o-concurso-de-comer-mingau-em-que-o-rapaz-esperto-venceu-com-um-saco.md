@@ -40,7 +40,7 @@ Gutten tar sølvet og gullet han finner i lia og går hjem. Pengene hjelper godt
 
 Troll i eventyrene til Asbjørnsen og Moe er som regel sterke og dumme, og taper for gutten som lurer dem med ord og knep. Her er det tre prøver: den klemte osten, kilden han tilbyr seg å bære og spisekonkurransen. I alle vinner Askeladden uten styrke, med en falsk trussel, et altfor stort løfte og en sekk. Trollet er redd for det det ikke forstår, og tror alltid på gutten.
 
-Wikipedia minner om at samlingen til Asbjørnsen og Moe heter *Norske Folkeeventyr*, og at et eventyr om Askeladden var blant de første som åpnet den. Her kommer eventyret fra Dasents oversettelse, som ble svært kjent på engelsk.
+Kilden minner om at samlingen til Asbjørnsen og Moe heter *Norske Folkeeventyr*, og at et eventyr om Askeladden var blant de første som åpnet den. Her kommer eventyret fra Dasents oversettelse, som ble svært kjent på engelsk.
 
 ## Kort sagt
 

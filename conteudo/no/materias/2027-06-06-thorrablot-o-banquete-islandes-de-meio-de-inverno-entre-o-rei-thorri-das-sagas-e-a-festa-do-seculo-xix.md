@@ -19,7 +19,7 @@ tags: [þorrablót, þorri, island, vinterfest, orkneyinga saga, flateyjarbók, 
 
 ## Kong Þorri i de gamle kildene
 
-I Orkneyinga saga opptrer Þorri som en tidlig konge, beskrevet som en finne, sønn av Snær, «snø». Det er den litterære bakgrunnen for navnet. I teksten Hversu Noregr byggðist, i Flateyjarbók, bragte kvenene, et folk i nord, et årlig offer til Þorri midtvinters. Men Wikipedia sier ikke at dette offeret var en sammenhengende praksis helt til moderne tid.
+I Orkneyinga saga opptrer Þorri som en tidlig konge, beskrevet som en finne, sønn av Snær, «snø». Det er den litterære bakgrunnen for navnet. I teksten Hversu Noregr byggðist, i Flateyjarbók, bragte kvenene, et folk i nord, et årlig offer til Þorri midtvinters. Men kilden sier ikke at dette offeret var en sammenhengende praksis helt til moderne tid.
 
 ## Den moderne festen
 

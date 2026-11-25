@@ -31,7 +31,7 @@ Según la Orkneyinga saga, Sigurd desafió a Máel Brigte, el «Dientudo», a un
 
 ## La muerte
 
-Sigurd ató la cabeza a la silla como trofeo. Uno de los dientes salientes le arañó la pierna, la herida se infectó y murió. Wikipedia anota que el detalle del diente varía entre versiones, y que la más concreta viene de la saga.
+Sigurd ató la cabeza a la silla como trofeo. Uno de los dientes salientes le arañó la pierna, la herida se infectó y murió. La fuente anota que el detalle del diente varía entre versiones, y que la más concreta viene de la saga.
 
 ## La tumba y los herederos
 

@@ -13,7 +13,7 @@ fontes:
 tags: [cantar de los nibelungos, sigfrido, kriemhild, hagen, saga de los völsungos, poesía medieval alemana, tesoro de los nibelungos]
 ---
 
-El *Cantar de los nibelungos* (*Nibelungenlied*) es un poema épico en alto alemán medio, compuesto hacia 1200, probablemente en la región de Passau. El autor es anónimo. Según Wikipedia, recoge una tradición oral más antigua, con raíces en hechos y figuras de los siglos V y VI, conocida en casi toda la Europa de lengua germánica. El obispo Wolfger von Erla, que gobernó de 1191 a 1204, se considera un probable patrono.
+El *Cantar de los nibelungos* (*Nibelungenlied*) es un poema épico en alto alemán medio, compuesto hacia 1200, probablemente en la región de Passau. El autor es anónimo. Según las fuentes, recoge una tradición oral más antigua, con raíces en hechos y figuras de los siglos V y VI, conocida en casi toda la Europa de lengua germánica. El obispo Wolfger von Erla, que gobernó de 1191 a 1204, se considera un probable patrono.
 
 ## Los manuscritos
 

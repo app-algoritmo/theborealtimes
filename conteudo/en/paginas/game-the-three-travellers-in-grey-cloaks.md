@@ -23,4 +23,4 @@ King Olaf travels with Finnr Árnason and Þormóðr Kolbrúnarskáld, all three
 
 ## The story behind it
 
-According to Wikipedia, in Völsa þáttr King Olaf II travels with only Finnr Árnason and Þormóðr Kolbrúnarskáld, all three in grey cloaks to hide who they are, and all three say their name is Grímr, "hooded". The heights, the order you repeat and the swaps of place are invention. Read the story in [Völsa þáttr: King Olaf and the household ritual of the völsi in the Flateyjarbók](/volsa-thattr-king-olaf-and-the-household-ritual/).
+According to the sources, in Völsa þáttr King Olaf II travels with only Finnr Árnason and Þormóðr Kolbrúnarskáld, all three in grey cloaks to hide who they are, and all three say their name is Grímr, "hooded". The heights, the order you repeat and the swaps of place are invention. Read the story in [Völsa þáttr: King Olaf and the household ritual of the völsi in the Flateyjarbók](/volsa-thattr-king-olaf-and-the-household-ritual/).

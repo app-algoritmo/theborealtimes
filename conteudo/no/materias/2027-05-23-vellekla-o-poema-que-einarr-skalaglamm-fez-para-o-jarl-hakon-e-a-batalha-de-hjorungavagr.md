@@ -27,7 +27,7 @@ Slaget ved Hjørungavåg er et halvlegendarisk sjøslag fra slutten av 900-talle
 
 ## Anførerne
 
-På norsk side var Håkon Sigurdsson, Eirik Håkonsson, Svein Håkonsson, Skjegge Asbjørnsson og Ragnvald Lodinsson. På dansk og jomsviksk side Sigvalde Strut-Haraldsson, Vagn Åkesson og Búi digri. Wikipedia oppgir norsk seier.
+På norsk side var Håkon Sigurdsson, Eirik Håkonsson, Svein Håkonsson, Skjegge Asbjørnsson og Ragnvald Lodinsson. På dansk og jomsviksk side Sigvalde Strut-Haraldsson, Vagn Åkesson og Búi digri. Kilden oppgir norsk seier.
 
 ## Kilder som er uenige
 

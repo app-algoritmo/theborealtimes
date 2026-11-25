@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "O barco de Nydam tem 23 metros e casco de carvalho em tábuas sobrepostas. Aqui, o casco sobe tábua por tábua. Um bloco vai de um lado a outro. Toque na tela, ou aperte Espaço, para soltá-lo sobre o casco. O que sobrar para fora cai, e a pilha fica mais estreita, mas nunca menos que um mínimo. Errar o alvo por completo é erro. Empilhe 10 antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "O casco ruiu",
     "v1": "O casco está pronto!",
-    "v2": "Segundo a Wikipédia, o barco de Nydam tem 23 metros, casco de carvalho em tábuas sobrepostas e 14 pares de remos, e foi datado de 310 a 320 d.C. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, o barco de Nydam tem 23 metros, casco de carvalho em tábuas sobrepostas e 14 pares de remos, e foi datado de 310 a 320 d.C. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Níveis",
     "dica": "Toque para soltar o bloco"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "The Nydam boat is 23 metres long, with an oak hull of overlapping planks. Here, the hull rises plank by plank. A block slides from side to side. Tap the screen, or press Space, to drop it onto the hull. Whatever overhangs falls off and the stack gets narrower, but never below a minimum. Missing the stack completely is a mistake. Stack 10 before time runs out. Three mistakes end the game.",
     "perdeu": "The hull collapsed",
     "v1": "The hull is ready!",
-    "v2": "According to Wikipedia, the Nydam boat is 23 metres long, with an oak clinker hull and 14 pairs of oars, and was dated to 310 to 320 CE. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, the Nydam boat is 23 metres long, with an oak clinker hull and 14 pairs of oars, and was dated to 310 to 320 CE. The game itself, with its objects and rules, is invention.",
     "h1": "Levels",
     "dica": "Tap to drop the block"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "Nydam-båten er 23 meter lang, med eikeskrog av overlappende planker. Her stiger skroget planke for planke. En blokk glir fra side til side. Trykk på skjermen, eller trykk Mellomrom, for å slippe den på skroget. Det som henger utenfor, faller av, og stabelen blir smalere, men aldri under et minimum. Å bomme helt er en feil. Stable 10 før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Skroget raste sammen",
     "v1": "Skroget er ferdig!",
-    "v2": "Ifølge Wikipedia er Nydam-båten 23 meter lang, med eikeskrog i klinkbygg og 14 par årer, og ble datert til 310 til 320 e.Kr. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene er Nydam-båten 23 meter lang, med eikeskrog i klinkbygg og 14 par årer, og ble datert til 310 til 320 e.Kr. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Nivåer",
     "dica": "Trykk for å slippe blokken"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "El barco de Nydam mide 23 metros y tiene casco de roble con tablas superpuestas. Aquí el casco sube tabla a tabla. Un bloque se desliza de un lado a otro. Toca la pantalla, o pulsa Espacio, para soltarlo sobre el casco. Lo que sobresalga cae, y la pila se estrecha, pero nunca por debajo de un mínimo. Fallar del todo es un error. Apila 10 antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "El casco se derrumbó",
     "v1": "¡El casco está listo!",
-    "v2": "Según Wikipedia, el barco de Nydam mide 23 metros, tiene casco de roble de tablas solapadas y 14 pares de remos, y fue datado entre 310 y 320 d.C. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, el barco de Nydam mide 23 metros, tiene casco de roble de tablas solapadas y 14 pares de remos, y fue datado entre 310 y 320 d.C. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Niveles",
     "dica": "Toca para soltar el bloque"
   }

@@ -23,9 +23,9 @@ Völuspá is the speech of a seeress, a *völva*. At one point she recalls the f
 
 She was burned three times and reborn three times. And, says the seeress, she still lives.
 
-After the burning she came to be called **Heiðr**, a völva of great knowledge who performed great feats. According to Wikipedia, the translations vary. Bellows, Orchard and Lindow use different words, and Heiðr appears as a "wide-seeing witch" in Bellows and as a seeress skilled in prophecy in Lindow.
+After the burning she came to be called **Heiðr**, a völva of great knowledge who performed great feats. According to the sources, the translations vary. Bellows, Orchard and Lindow use different words, and Heiðr appears as a "wide-seeing witch" in Bellows and as a seeress skilled in prophecy in Lindow.
 
-Wikipedia does not give the stanza number, but says Gullveig's treatment comes in the stanza immediately before the narration of the war between the Æsir and the Vanir.
+The source does not give the stanza number, but says Gullveig's treatment comes in the stanza immediately before the narration of the war between the Æsir and the Vanir.
 
 ## The name
 
@@ -35,7 +35,7 @@ Heiðr, in adjectival form, means "bright, clear". Simek says the underlying mea
 
 ## What scholars propose
 
-Wikipedia lists a few hypotheses and warns that they are proposals, not firm conclusions.
+The source lists a few hypotheses and warns that they are proposals, not firm conclusions.
 
 - **She caused the war.** Because her treatment comes right before the account of the war, some scholars think it may have led to it. Lindow suggests that her bringing of *seiðr*, Norse magic, to the Æsir was either a wartime strategy or what started it. He treats this as possible, not certain.
 - **She is Freyja.** Turville-Petre, Simek and Lindow have theorized that Gullveig and Heiðr are Freyja. Orchard notes that Freyja is also associated with gold and *seiðr*.
@@ -43,7 +43,7 @@ Wikipedia lists a few hypotheses and warns that they are proposals, not firm con
 
 ## What is not known
 
-Wikipedia says outright that the etymology remains uncertain and that both the identification with Freyja and the idea that she caused the war are proposals. The passages Wikipedia summarises do not say why she was attacked or why she kept coming back to life.
+The source says outright that the etymology remains uncertain and that both the identification with Freyja and the idea that she caused the war are proposals. The passages the source summarises do not say why she was attacked or why she kept coming back to life.
 
 ## In short
 

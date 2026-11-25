@@ -13,7 +13,7 @@ fontes:
 tags: [störtebeker, hermanos de las vituallas, piratería, liga hanseática, hamburgo, visby, 1401]
 ---
 
-Klaus Störtebeker nació hacia 1360 y murió, según Wikipedia, supuestamente el 20 de octubre de 1401 en Hamburgo. El artículo escribe «supuestamente»: registros de 1400 sobre tumbas de 30 Hermanos de las Vituallas sugieren que la fecha puede ser 1400.
+Klaus Störtebeker nació hacia 1360 y murió, según las fuentes, supuestamente el 20 de octubre de 1401 en Hamburgo. El artículo escribe «supuestamente»: registros de 1400 sobre tumbas de 30 Hermanos de las Vituallas sugieren que la fecha puede ser 1400.
 
 ## Los Hermanos de las Vituallas
 

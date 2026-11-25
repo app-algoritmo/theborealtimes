@@ -16,7 +16,7 @@ fontes:
 tags: [snorri goði, helgafell, eyrbyggja saga, laxdæla saga, njáls saga, islandia]
 ---
 
-Snorri goði, nacido en 963 y muerto en 1031 según Wikipedia, fue un jefe islandés. *Goði* era el título de quien tenía poder local y presidía el Althing. Es el personaje principal de la *Eyrbyggja saga* y aparece en otras dos sagas. El retrato cambia de una a otra.
+Snorri goði, nacido en 963 y muerto en 1031 según las fuentes, fue un jefe islandés. *Goði* era el título de quien tenía poder local y presidía el Althing. Es el personaje principal de la *Eyrbyggja saga* y aparece en otras dos sagas. El retrato cambia de una a otra.
 
 ## En la Eyrbyggja saga
 

@@ -34,15 +34,15 @@ The National Museum of Denmark excavated the site from 1945 to 1954, and additio
 
 ## The timber
 
-Wikipedia says one house required about 66 large oaks, and that the whole structure needed about 5,000 large oaks. It is a number that gives an idea of what the king could mobilize.
+The source says one house required about 66 large oaks, and that the whole structure needed about 5,000 large oaks. It is a number that gives an idea of what the king could mobilize.
 
 ## What it was for
 
-There was a theory that it was a barracks or training ground for Sweyn Forkbeard's armies before the conquest of England in the early 1000s. Dendrochronology disproved that theory. Wikipedia says it was more likely a defensive stronghold on strategic trade routes and/or an administrative outpost of the emerging state. The same page estimates that the fort could hold about 5,000 troops, but states that the exact use remains uncertain.
+There was a theory that it was a barracks or training ground for Sweyn Forkbeard's armies before the conquest of England in the early 1000s. Dendrochronology disproved that theory. The source says it was more likely a defensive stronghold on strategic trade routes and/or an administrative outpost of the emerging state. The same page estimates that the fort could hold about 5,000 troops, but states that the exact use remains uncertain.
 
 ## The numbers
 
-It is worth gathering the numbers in one place: 240 metres of inner diameter, a ditch 8 metres from the rampart, a wall of about 4 metres, 48 houses of about 32.5 by 8.5 metres, 4 main roads, 30,000 objects found in 13,000 square metres excavated. Wikipedia says "about" for several of them, and the values should be read as archaeologists' estimates, not exact measurements.
+It is worth gathering the numbers in one place: 240 metres of inner diameter, a ditch 8 metres from the rampart, a wall of about 4 metres, 48 houses of about 32.5 by 8.5 metres, 4 main roads, 30,000 objects found in 13,000 square metres excavated. The source says "about" for several of them, and the values should be read as archaeologists' estimates, not exact measurements.
 
 ## In short
 

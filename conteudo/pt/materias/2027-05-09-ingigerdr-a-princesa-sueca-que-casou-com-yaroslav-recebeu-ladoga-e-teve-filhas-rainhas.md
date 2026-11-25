@@ -17,7 +17,7 @@ Ingigerðr, ou Ingegerd, nasceu por volta do ano 1001, filha do rei sueco Olof S
 
 ## A promessa que o pai quebrou
 
-Segundo a Wikipédia, em 1015 o rei Olavo II da Noruega propôs uma aliança real. Em 1016, nobres dos dois países tentaram arranjar o casamento dele com Ingigerðr. Olof Skötkonung concordou no começo, depois voltou atrás e prometeu a Olavo a outra filha, Astrid.
+Segundo as fontes, em 1015 o rei Olavo II da Noruega propôs uma aliança real. Em 1016, nobres dos dois países tentaram arranjar o casamento dele com Ingigerðr. Olof Skötkonung concordou no começo, depois voltou atrás e prometeu a Olavo a outra filha, Astrid.
 
 ## O casamento com Yaroslav
 

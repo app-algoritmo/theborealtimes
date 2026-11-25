@@ -15,7 +15,7 @@ fontes:
 tags: [piedra de karlevi, öland, runas, dróttkvætt, poesía escáldica, thor, odín, kenning]
 ---
 
-Muchas piedras rúnicas dicen solo quién las mandó levantar y en memoria de quién. La de Karlevi, en Öland, dice más: lleva una estrofa de poesía. Wikipedia afirma que es una estrofa completa, la única conservada en una piedra rúnica, y el registro más antiguo de una estrofa escáldica.
+Muchas piedras rúnicas dicen solo quién las mandó levantar y en memoria de quién. La de Karlevi, en Öland, dice más: lleva una estrofa de poesía. La fuente afirma que es una estrofa completa, la única conservada en una piedra rúnica, y el registro más antiguo de una estrofa escáldica.
 
 ## La piedra
 
@@ -27,7 +27,7 @@ La parte en prosa nombra a Sibba, llamado «Goða», hijo de Fuldar. Se piensa q
 
 ## La estrofa
 
-La parte en verso está en dróttkvætt, la «métrica de los señores», la forma más famosa de la poesía escáldica. Wikipedia da una traducción literal, que aquí resumo con mis palabras: el hombre que yace en este túmulo fue seguido por grandes hazañas, como la mayoría sabía. Se lo describe como un «árbol de las batallas de Þrúðr», es decir, un guerrero. La estrofa dice luego que un Viðurr (nombre de Odín) del ancho mar, más recto y fuerte en la lucha, un guerrero del mar, no gobernará tierra en Dinamarca. El sentido de esta referencia a Dinamarca no está claro.
+La parte en verso está en dróttkvætt, la «métrica de los señores», la forma más famosa de la poesía escáldica. La fuente da una traducción literal, que aquí resumo con mis palabras: el hombre que yace en este túmulo fue seguido por grandes hazañas, como la mayoría sabía. Se lo describe como un «árbol de las batallas de Þrúðr», es decir, un guerrero. La estrofa dice luego que un Viðurr (nombre de Odín) del ancho mar, más recto y fuerte en la lucha, un guerrero del mar, no gobernará tierra en Dinamarca. El sentido de esta referencia a Dinamarca no está claro.
 
 ## Los kenningar
 
@@ -39,7 +39,7 @@ En el otro lado hay una inscripción que no es rúnica, quizá «In nomin[e] Ie[
 
 ## Lo que sigue abierto
 
-Wikipedia enumera las obras sobre la piedra, desde Söderberg en 1900–1906 hasta Thunberg en 2012 y Zilmer en 2005. Entre los puntos sin respuesta están qué significa la mención de Dinamarca, quién era exactamente el hombre del túmulo y si la piedra fue de verdad levantada por hombres que lucharon en Fýrisvellir.
+La fuente enumera las obras sobre la piedra, desde Söderberg en 1900–1906 hasta Thunberg en 2012 y Zilmer en 2005. Entre los puntos sin respuesta están qué significa la mención de Dinamarca, quién era exactamente el hombre del túmulo y si la piedra fue de verdad levantada por hombres que lucharon en Fýrisvellir.
 
 ## En resumen
 

@@ -19,7 +19,7 @@ En 1639 y 1734, cerca de Møgeltønder, en Jutlandia del Sur, se hallaron dos cu
 
 ## Los dos hallazgos
 
-El cuerno mayor lo encontró el 20 de julio de 1639 una campesina, Kirsten Svendsdatter, que vio algo que sobresalía de la tierra. Avisó al rey Cristián IV, y el cuerno pasó al príncipe, que lo hizo adaptar como cuerno para beber, con un remate de oro en el extremo estrecho (Wikipedia marca ese dato como discutido). El cuerno menor lo encontró el 21 de abril de 1734 Erich Lassen, a unos 15 o 20 metros del primero. Ambos se guardaron en la Cámara Real de Arte, en Christiansborg.
+El cuerno mayor lo encontró el 20 de julio de 1639 una campesina, Kirsten Svendsdatter, que vio algo que sobresalía de la tierra. Avisó al rey Cristián IV, y el cuerno pasó al príncipe, que lo hizo adaptar como cuerno para beber, con un remate de oro en el extremo estrecho (la fuente marca ese dato como discutido). El cuerno menor lo encontró el 21 de abril de 1734 Erich Lassen, a unos 15 o 20 metros del primero. Ambos se guardaron en la Cámara Real de Arte, en Christiansborg.
 
 ## Cómo eran
 

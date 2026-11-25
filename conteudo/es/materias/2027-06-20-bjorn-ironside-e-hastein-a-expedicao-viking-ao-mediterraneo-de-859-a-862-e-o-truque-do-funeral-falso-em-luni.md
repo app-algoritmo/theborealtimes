@@ -13,7 +13,7 @@ fontes:
 tags: [björn costado de hierro, hastein, luni, mediterráneo, sena, vikingos, ragnar lodbrok]
 ---
 
-Björn Costado de Hierro (en sueco *Björn Järnsida*) se conoce por dos tipos de fuente. Según Wikipedia, los anales francos contemporáneos, como los de Saint-Bertin, nombran a un jefe vikingo llamado Björn en la Francia Occidental en 855 y 858. Los relatos posteriores aportan casi toda la historia familiar: Guillermo de Jumièges (h. 1070) es el texto más antiguo que describe sus orígenes, y Saxo Gramático (h. 1200) lo convierte en rey de Suecia.
+Björn Costado de Hierro (en sueco *Björn Järnsida*) se conoce por dos tipos de fuente. Según las fuentes, los anales francos contemporáneos, como los de Saint-Bertin, nombran a un jefe vikingo llamado Björn en la Francia Occidental en 855 y 858. Los relatos posteriores aportan casi toda la historia familiar: Guillermo de Jumièges (h. 1070) es el texto más antiguo que describe sus orígenes, y Saxo Gramático (h. 1200) lo convierte en rey de Suecia.
 
 ## Los hijos de Ragnar
 

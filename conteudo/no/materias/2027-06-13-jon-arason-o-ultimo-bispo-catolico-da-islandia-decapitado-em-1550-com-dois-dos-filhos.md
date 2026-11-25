@@ -13,7 +13,7 @@ fontes:
 tags: [jón arason, hólar, luthersk reformasjon, island, christian iii, sauðafell, skálholt, biskop]
 ---
 
-Jón Arason (1484–1550) var katolsk biskop av Hólar i Nord-Island og dikter. Ifølge Wikipedia ble han henrettet i kampen mot reformasjonen i landet.
+Jón Arason (1484–1550) var katolsk biskop av Hólar i Nord-Island og dikter. Ifølge kildene ble han henrettet i kampen mot reformasjonen i landet.
 
 ## Karrieren
 
@@ -29,7 +29,7 @@ Jón nektet å fremme lutherdommen, og det førte til en strid med kong Christia
 
 ## Pågripelsen og døden
 
-I slaget ved Sauðafell ble Jón og sønnene Ari og Björn tatt til fange av Daði Guðmundsson og overlevert til kongens fogd. I 1550 ble de tre halshugget, og Wikipedia oppgir Jóns død 7. november, i Skálholt. Fogden Christian Skriver avsa dommen. Skriver ble senere drept av fiskere, etter sigende etter oppfordring fra Jóns datter, Þórunn, og artikkelen ser i dette personlig hevn, og ikke bare religiøs konflikt.
+I slaget ved Sauðafell ble Jón og sønnene Ari og Björn tatt til fange av Daði Guðmundsson og overlevert til kongens fogd. I 1550 ble de tre halshugget, og kilden oppgir Jóns død 7. november, i Skálholt. Fogden Christian Skriver avsa dommen. Skriver ble senere drept av fiskere, etter sigende etter oppfordring fra Jóns datter, Þórunn, og artikkelen ser i dette personlig hevn, og ikke bare religiøs konflikt.
 
 ## Legenden og minnet
 

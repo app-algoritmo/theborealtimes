@@ -27,11 +27,11 @@ In **Grímnismál**, in the Poetic Edda, it is Odin, disguised as Grímnir, who 
 
 In **Gylfaginning**, in ch. 24, High tells Gangleri that Freyja is the most glorious of the ásynjur. Her dwelling is called Fólkvangr, and when she rides to battle she takes half of the slain. High then quotes the Grímnismál stanza and describes her hall, **Sessrúmnir**. Rudolf Simek notes that the stanza does not say this of the hall: it is an addition in Gylfaginning.
 
-In **Egils saga**, after Egill refuses food, his daughter Þorgerðr vows that she does not want to live after her father and brother are dead, and she expects to meet Freyja. Wikipedia quotes her words: "I do not want to live after my father and brother are dead."
+In **Egils saga**, after Egill refuses food, his daughter Þorgerðr vows that she does not want to live after her father and brother are dead, and she expects to meet Freyja. The source quotes her words: "I do not want to live after my father and brother are dead."
 
 ## Who goes there
 
-Wikipedia says that half of the warriors slain in combat go to Fólkvangr. Britt-Mari Näsström adds that women who die a noble death may also go, as Þorgerðr's vow suggests.
+The source says that half of the warriors slain in combat go to Fólkvangr. Britt-Mari Näsström adds that women who die a noble death may also go, as Þorgerðr's vow suggests.
 
 ## What scholars debate
 

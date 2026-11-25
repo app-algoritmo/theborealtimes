@@ -19,7 +19,7 @@ Entre las historias que la Morkinskinna guarda sobre el rey Harald Hardrada, hay
 
 ## Quién es Halldór
 
-Halldór Snorrason es hijo del caudillo (*goði*) Snorri y antepasado de Snorri Sturluson. Era amigo de Harald desde antes de que este fuera rey, cuando ambos sirvieron en la Guardia Varega de Constantinopla. Entró al servicio de Harald después de que este se hiciera rey. El texto insiste en tratarlo como un hombre de origen humilde, pese a su poderosa familia en Islandia. Wikipedia dice que Harald desconfiaba de él por la firmeza de su carácter, sobre todo cuando Halldór mandaba a otros hombres.
+Halldór Snorrason es hijo del caudillo (*goði*) Snorri y antepasado de Snorri Sturluson. Era amigo de Harald desde antes de que este fuera rey, cuando ambos sirvieron en la Guardia Varega de Constantinopla. Entró al servicio de Harald después de que este se hiciera rey. El texto insiste en tratarlo como un hombre de origen humilde, pese a su poderosa familia en Islandia. La fuente dice que Harald desconfiaba de él por la firmeza de su carácter, sobre todo cuando Halldór mandaba a otros hombres.
 
 ## El barco y la mentira de la guerra
 
@@ -31,7 +31,7 @@ En la corte, Harald se burló de la bebida y la lealtad de Halldór, al parecer 
 
 ## El barco del rey
 
-Pasada la Navidad, Harald ordenó a Halldór subir al barco del rey, que chocó mientras Harald intentaba anular las órdenes de Halldór. Halldór amenazó con irse, pero Bard, un compañero que habla con sensatez, lo convenció de quedarse, con la promesa de pago en plata pura y un barco propio. Svein, dueño de un barco, desaprobó las órdenes del rey y se lo llevó de vuelta, y Halldór recuperó el mando. Para zanjar la disputa, Harald compró el barco y se lo devolvió a Svein. La propia Wikipedia dice que la redacción de este pasaje no es clara.
+Pasada la Navidad, Harald ordenó a Halldór subir al barco del rey, que chocó mientras Harald intentaba anular las órdenes de Halldór. Halldór amenazó con irse, pero Bard, un compañero que habla con sensatez, lo convenció de quedarse, con la promesa de pago en plata pura y un barco propio. Svein, dueño de un barco, desaprobó las órdenes del rey y se lo llevó de vuelta, y Halldór recuperó el mando. Para zanjar la disputa, Harald compró el barco y se lo devolvió a Svein. La propia la fuente dice que la redacción de este pasaje no es clara.
 
 ## La media marca
 
@@ -45,10 +45,10 @@ La temporada siguiente, Halldór recibió un mensaje que lo invitaba a volver a 
 
 ## Lo que ven los estudiosos
 
-Wikipedia dice que los estudiosos han usado el relato para argumentar que hay lazos entre la identidad islandesa y la noruega, para sugerir que los noruegos veían a los islandeses como de bajo estatus y para caracterizar la actitud errática de Harald con el dinero. También se ha propuesto que los estrechos lazos de Halldór con Harald transmitieron tradiciones familiares a través de las generaciones, y quizá dieron material a Snorri Sturluson para la Saga del rey Harald, en el Heimskringla.
+La fuente dice que los estudiosos han usado el relato para argumentar que hay lazos entre la identidad islandesa y la noruega, para sugerir que los noruegos veían a los islandeses como de bajo estatus y para caracterizar la actitud errática de Harald con el dinero. También se ha propuesto que los estrechos lazos de Halldór con Harald transmitieron tradiciones familiares a través de las generaciones, y quizá dieron material a Snorri Sturluson para la Saga del rey Harald, en el Heimskringla.
 
 ## En resumen
 
-Es una historia de un islandés orgulloso y un rey tacaño: un barco sin tripulación, una guerra inventada, una humillación en Navidad y una espada junto a la cama real por media marca. El final es una invitación que Halldór lee como amenaza y rechaza. Wikipedia no da fecha para el relato ni para la Morkinskinna.
+Es una historia de un islandés orgulloso y un rey tacaño: un barco sin tripulación, una guerra inventada, una humillación en Navidad y una espada junto a la cama real por media marca. El final es una invitación que Halldór lee como amenaza y rechaza. La fuente no da fecha para el relato ni para la Morkinskinna.
 
 Para saber quién hizo qué en la corte, juega a [Quién hizo qué en la corte](/es/juego-quien-hizo-que-en-la-corte/).

@@ -23,4 +23,4 @@ The sagas say Einarr earned the name Turf by teaching Orkney to burn peat. Nine 
 
 ## The story behind it
 
-The sagas say Einarr earned the name "Torf", "peat", by introducing the burning of peat because wood was scarce. Wikipedia says this is incorrect, since the use of peat predates the Norse, and that the origin of the nickname is unknown. The nine mounds, the glows and the pace of the game are invention. Read the story in [Torf-Einarr: the earl of Orkney, the peat nickname and the fine of sixty gold marks](/torf-einarr-the-earl-of-orkney-the-peat-nickname/).
+The sagas say Einarr earned the name "Torf", "peat", by introducing the burning of peat because wood was scarce. The source says this is incorrect, since the use of peat predates the Norse, and that the origin of the nickname is unknown. The nine mounds, the glows and the pace of the game are invention. Read the story in [Torf-Einarr: the earl of Orkney, the peat nickname and the fine of sixty gold marks](/torf-einarr-the-earl-of-orkney-the-peat-nickname/).

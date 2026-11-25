@@ -13,7 +13,7 @@ fontes:
 tags: [finnsburg, hnæf, hengest, beowulf, anglo-saxon poetry, fragment, hickes]
 ---
 
-The Finnsburg Fragment (also spelled Finnsburh) is a short surviving part of an Old English heroic poem in alliterative verse. According to Wikipedia, it concerns a fight in which Hnæf and his sixty retainers are besieged in "Finn's fort" and try to hold off their attackers.
+The Finnsburg Fragment (also spelled Finnsburh) is a short surviving part of an Old English heroic poem in alliterative verse. According to the sources, it concerns a fight in which Hnæf and his sixty retainers are besieged in "Finn's fort" and try to hold off their attackers.
 
 ## A copy of a lost leaf
 

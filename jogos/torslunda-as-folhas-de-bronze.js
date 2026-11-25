@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Os moldes de Torslunda eram pressionados contra folhas finas de metal, e saíam folhas idênticas para decorar capacetes. Toque em as folhas de bronze assim que aparecer, ou use as teclas 1 a 6. Não toque em as lascas quebradas: isso é erro. O que sumir sozinho não pune você. Pegue 12 antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "Os moldes racharam",
     "v1": "Os capacetes estão decorados!",
-    "v2": "Segundo a Wikipédia, os quatro moldes de bronze de Torslunda eram feitos para produção em massa: pressionando folhas finas de metal contra eles, saíam folhas idênticas que decoravam capacetes. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, os quatro moldes de bronze de Torslunda eram feitos para produção em massa: pressionando folhas finas de metal contra eles, saíam folhas idênticas que decoravam capacetes. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Colhidos",
     "dica": "Toque no que aparecer, menos no que não serve"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "The Torslunda dies were pressed against thin metal sheets, producing identical foils to decorate helmets. Tap the bronze foils as soon as it appears, or use keys 1 to 6. Do not tap the broken chips: that is a mistake. Whatever disappears by itself costs you nothing. Get 12 before time runs out. Three mistakes end the game.",
     "perdeu": "The dies cracked",
     "v1": "The helmets are decorated!",
-    "v2": "According to Wikipedia, the four bronze dies of Torslunda were made for mass production: pressing thin metal foils against them produced identical foils that decorated helmets. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, the four bronze dies of Torslunda were made for mass production: pressing thin metal foils against them produced identical foils that decorated helmets. The game itself, with its objects and rules, is invention.",
     "h1": "Picked",
     "dica": "Tap what appears, except the wrong ones"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "Torslunda-matrisene ble presset mot tynne metallplater, og ut kom like folier til å pryde hjelmer. Trykk på bronsefoliene så snart det dukker opp, eller bruk tastene 1 til 6. Ikke trykk på de ødelagte flisene: det er en feil. Det som forsvinner av seg selv, koster ingenting. Ta 12 før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Matrisene sprakk",
     "v1": "Hjelmene er pyntet!",
-    "v2": "Ifølge Wikipedia var de fire bronsematrisene fra Torslunda laget for masseproduksjon: ved å presse tynne metallfolier mot dem fikk man like folier som pyntet hjelmer. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene var de fire bronsematrisene fra Torslunda laget for masseproduksjon: ved å presse tynne metallfolier mot dem fikk man like folier som pyntet hjelmer. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Tatt",
     "dica": "Trykk på det som dukker opp, unntatt de gale"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "Las matrices de Torslunda se presionaban contra láminas finas de metal, y salían láminas idénticas para decorar cascos. Toca las láminas de bronce en cuanto aparezca, o usa las teclas 1 a 6. No toques las astillas rotas: eso es un error. Lo que desaparezca solo no te castiga. Consigue 12 antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "Las matrices se agrietaron",
     "v1": "¡Los cascos están decorados!",
-    "v2": "Según Wikipedia, las cuatro matrices de bronce de Torslunda estaban hechas para la producción en serie: al presionar láminas finas de metal contra ellas salían láminas idénticas que decoraban cascos. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, las cuatro matrices de bronce de Torslunda estaban hechas para la producción en serie: al presionar láminas finas de metal contra ellas salían láminas idénticas que decoraban cascos. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Cogidos",
     "dica": "Toca lo que aparezca, menos lo que no sirve"
   }

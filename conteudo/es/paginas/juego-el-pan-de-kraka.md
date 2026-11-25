@@ -23,4 +23,4 @@ En la saga, los hombres de Ragnar quedan tan impresionados al ver a Áslaug que 
 
 ## La historia detrás
 
-Según la Wikipedia, los hombres de Ragnar la vieron bañarse y quedaron tan impresionados que dejaron quemarse el pan. Cuando Ragnar preguntó por qué, le hablaron de ella. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Áslaug, «Kráka»: la hija de Sigurd y Brynhildr, el arpa y la mujer que llegó ni vestida ni desnuda](/es/aslaug-kraka-la-hija-de-sigurd-y-brynhildr-el-arpa-y-la/).
+Según las fuentes, los hombres de Ragnar la vieron bañarse y quedaron tan impresionados que dejaron quemarse el pan. Cuando Ragnar preguntó por qué, le hablaron de ella. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Áslaug, «Kráka»: la hija de Sigurd y Brynhildr, el arpa y la mujer que llegó ni vestida ni desnuda](/es/aslaug-kraka-la-hija-de-sigurd-y-brynhildr-el-arpa-y-la/).

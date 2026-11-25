@@ -18,7 +18,7 @@ When two Norsemen disagreed and no settlement could be reached, they could resol
 
 ## The field
 
-According to Wikipedia, the hólmganga was fought on an ox hide or a cloak about 3 metres (9.8 ft) per side, staked to the ground with stakes used only for this purpose. Around the hide three borders were drawn, each about a foot (0.30 m) from the next. Hazel staves marked the outer corners. Kormáks saga hints that a bull might be sacrificed beforehand, with its hide stretched over the fighting ground. Wikipedia says it is unknown how the stakes were placed.
+According to the sources, the hólmganga was fought on an ox hide or a cloak about 3 metres (9.8 ft) per side, staked to the ground with stakes used only for this purpose. Around the hide three borders were drawn, each about a foot (0.30 m) from the next. Hazel staves marked the outer corners. Kormáks saga hints that a bull might be sacrificed beforehand, with its hide stretched over the fighting ground. The source says it is unknown how the stakes were placed.
 
 ## The rules
 
@@ -32,11 +32,11 @@ According to Wikipedia, the hólmganga was fought on an ox hide or a cloak about
 
 ## The older duels
 
-In early duels, the fight ended with the death or incapacitation of one of the fighters. Killing the opponent was not murder and carried no outlawry or weregild. In Norway, according to Egils saga, cited in Wikipedia, the winner could claim everything the loser owned.
+In early duels, the fight ended with the death or incapacitation of one of the fighters. Killing the opponent was not murder and carried no outlawry or weregild. In Norway, according to Egils saga, cited in the source, the winner could claim everything the loser owned.
 
 ## The texts
 
-Wikipedia cites Kormáks saga, which describes the hide, the stakes, the borders and the hazel staves, and Egils saga, which gives the rules of the challenge and the winner's rights. It also mentions the Västgötalagen, a thirteenth-century fragment of the law of Västergötland, with provisions on the hólmganga or *einvígi*, trial by combat.
+The source cites Kormáks saga, which describes the hide, the stakes, the borders and the hazel staves, and Egils saga, which gives the rules of the challenge and the winner's rights. It also mentions the Västgötalagen, a thirteenth-century fragment of the law of Västergötland, with provisions on the hólmganga or *einvígi*, trial by combat.
 
 ## The end of the hólmganga
 

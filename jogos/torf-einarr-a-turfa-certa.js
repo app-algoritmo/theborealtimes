@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "As sagas dizem que Einarr ganhou o nome de Turfa ao ensinar as Órcadas a queimar turfa. Nove montes de terra estão diante de você numa colina. Um brilho aparece num monte de cada vez, marcando a turfa a cortar. Toque no monte que brilha antes que o brilho se apague, ou use as teclas de 1 a 9. Tocar num monte sem brilho, ou deixar um brilho apagar, é erro. Corte 12 turfas antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "A turfa ficou na terra",
     "v1": "A lareira está abastecida!",
-    "v2": "As sagas dizem que Einarr ganhou o nome “Torf”, “turfa”, ao introduzir a queima de turfa por falta de lenha. A Wikipédia diz que isso é incorreto, pois o uso da turfa é anterior aos nórdicos, e que a origem do apelido é desconhecida. Os nove montes, os brilhos e o ritmo do jogo são invenção.",
+    "v2": "As sagas dizem que Einarr ganhou o nome “Torf”, “turfa”, ao introduzir a queima de turfa por falta de lenha. A fonte diz que isso é incorreto, pois o uso da turfa é anterior aos nórdicos, e que a origem do apelido é desconhecida. Os nove montes, os brilhos e o ritmo do jogo são invenção.",
     "h1": "Turfas"
   },
   "en": {
@@ -29,7 +29,7 @@ BTJogo.registrar({
     "sub": "The sagas say Einarr earned the name Turf by teaching Orkney to burn peat. Nine mounds of earth stand before you on a hillside. A glow appears on one mound at a time, marking the turf to cut. Tap the mound that glows before the glow fades, or use keys 1 to 9. Tapping a mound with no glow, or letting a glow fade, is a mistake. Cut 12 turfs before time runs out. Three mistakes end the game.",
     "perdeu": "The peat stayed in the ground",
     "v1": "The hearth is stocked!",
-    "v2": "The sagas say Einarr earned the name \"Torf\", \"peat\", by introducing the burning of peat because wood was scarce. Wikipedia says this is incorrect, since the use of peat predates the Norse, and that the origin of the nickname is unknown. The nine mounds, the glows and the pace of the game are invention.",
+    "v2": "The sagas say Einarr earned the name \"Torf\", \"peat\", by introducing the burning of peat because wood was scarce. The source says this is incorrect, since the use of peat predates the Norse, and that the origin of the nickname is unknown. The nine mounds, the glows and the pace of the game are invention.",
     "h1": "Turfs"
   },
   "no": {
@@ -44,7 +44,7 @@ BTJogo.registrar({
     "sub": "Sagaene sier at Einar fikk navnet Torv ved å lære Orknøyene å brenne torv. Ni jordhauger ligger foran deg på en ås. Et skjær dukker opp på én haug om gangen og viser torven som skal skjæres. Trykk på haugen som lyser før skjæret slukner, eller bruk tastene 1 til 9. Å trykke på en haug uten skjær, eller å la et skjær slukne, er en feil. Skjær 12 torver før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Torven ble liggende i jorda",
     "v1": "Peisen er fylt!",
-    "v2": "Sagaene sier at Einar fikk navnet «Torf», «torv», ved å innføre torvbrenning på grunn av mangel på ved. Wikipedia sier at dette er feil, siden bruk av torv er eldre enn nordboerne, og at opprinnelsen til tilnavnet er ukjent. De ni haugene, skjærene og tempoet i spillet er oppfinnelse.",
+    "v2": "Sagaene sier at Einar fikk navnet «Torf», «torv», ved å innføre torvbrenning på grunn av mangel på ved. Kilden sier at dette er feil, siden bruk av torv er eldre enn nordboerne, og at opprinnelsen til tilnavnet er ukjent. De ni haugene, skjærene og tempoet i spillet er oppfinnelse.",
     "h1": "Torver"
   },
   "es": {
@@ -59,7 +59,7 @@ BTJogo.registrar({
     "sub": "Las sagas dicen que Einarr ganó el nombre de Turba al enseñar a las Órcadas a quemar turba. Nueve montículos de tierra están ante ti en una colina. Un brillo aparece en un montículo cada vez, marcando la turba que hay que cortar. Toca el montículo que brilla antes de que el brillo se apague, o usa las teclas del 1 al 9. Tocar un montículo sin brillo, o dejar que un brillo se apague, es un error. Corta 12 turbas antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "La turba se quedó en la tierra",
     "v1": "¡El hogar está abastecido!",
-    "v2": "Las sagas dicen que Einarr ganó el nombre «Torf», «turba», al introducir la quema de turba por escasez de leña. Wikipedia dice que eso es incorrecto, pues el uso de la turba es anterior a los nórdicos, y que el origen del apodo se desconoce. Los nueve montículos, los brillos y el ritmo del juego son invención.",
+    "v2": "Las sagas dicen que Einarr ganó el nombre «Torf», «turba», al introducir la quema de turba por escasez de leña. La fuente dice que eso es incorrecto, pues el uso de la turba es anterior a los nórdicos, y que el origen del apodo se desconoce. Los nueve montículos, los brillos y el ritmo del juego son invención.",
     "h1": "Turbas"
   }
 },

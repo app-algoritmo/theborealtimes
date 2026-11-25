@@ -13,7 +13,7 @@ fontes:
 tags: [fastelavn, slå katten av tønna, kattetønne, fastelavnsbolle, danmark, norge, nordiske tradisjoner]
 ---
 
-Fastelavn er en nordisk fest i uka før fasten. Ifølge Wikipedia faller den alltid på en søndag mellom 1. februar og 7. mars, sju uker før første påskedag, og når toppen på fettirsdag, dagen før askeonsdag.
+Fastelavn er en nordisk fest i uka før fasten. Ifølge kildene faller den alltid på en søndag mellom 1. februar og 7. mars, sju uker før første påskedag, og når toppen på fettirsdag, dagen før askeonsdag.
 
 ## Navnet
 

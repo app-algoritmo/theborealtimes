@@ -35,7 +35,7 @@ Ifølge *Heimskringla* dro Ragnvald Ulfsson og norske sendebud i 1018 til tinget
 
 ## Barna og døden
 
-Med Edla fikk Olof Emund den gamle, Astrid og Holmfrid. Med Estrid av abodritterne fikk han Anund Jakob, som etterfulgte ham, og Ingegerd. Snorres kronologi legger en naturlig død til vinteren 1021 til 1022. Adam av Bremen legger den nær 1035, noe Wikipedia selv kaller helt sikkert for sent.
+Med Edla fikk Olof Emund den gamle, Astrid og Holmfrid. Med Estrid av abodritterne fikk han Anund Jakob, som etterfulgte ham, og Ingegerd. Snorres kronologi legger en naturlig død til vinteren 1021 til 1022. Adam av Bremen legger den nær 1035, noe kilden selv kaller helt sikkert for sent.
 
 ## Kort sagt
 

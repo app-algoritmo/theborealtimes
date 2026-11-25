@@ -27,11 +27,11 @@ Arket oppgir symbolets navn og sier at den som bærer det ikke vil gå seg vill 
 
 ## Galdrastafir
 
-Galdrastafir er tegn med antatte magiske virkninger, bevart i islandske grimoirer som Galdrabók, fra 1600-tallet og utover. Andre manuskripter som Wikipedia nevner er Huld selv, en grimoire fra 1600-tallet i Stockholm og manuskripter i Nasjonalbiblioteket i Reykjavík. Der finnes også Ægishjálmur, «skrekkhjelmen», knyttet til å skape frykt og beskytte krigeren, og Vegvísir, knyttet til uvær.
+Galdrastafir er tegn med antatte magiske virkninger, bevart i islandske grimoirer som Galdrabók, fra 1600-tallet og utover. Andre manuskripter som kilden nevner er Huld selv, en grimoire fra 1600-tallet i Stockholm og manuskripter i Nasjonalbiblioteket i Reykjavík. Der finnes også Ægishjálmur, «skrekkhjelmen», knyttet til å skape frykt og beskytte krigeren, og Vegvísir, knyttet til uvær.
 
 ## Hva som er sikkert og hva som er moderne
 
-Det som er sikkert er manuskriptet fra 1860, bildeteksten og bruken av magiske tegn i islandske grimoirer. Det som ikke er sikkert, og som Wikipedia ikke støtter, er at dette ble brukt i vikingtiden eller i navigasjon. Virkningene som tilskrives tegnene er alltid antatte, aldri verifiserte.
+Det som er sikkert er manuskriptet fra 1860, bildeteksten og bruken av magiske tegn i islandske grimoirer. Det som ikke er sikkert, og som kilden ikke støtter, er at dette ble brukt i vikingtiden eller i navigasjon. Virkningene som tilskrives tegnene er alltid antatte, aldri verifiserte.
 
 ## Kort sagt
 

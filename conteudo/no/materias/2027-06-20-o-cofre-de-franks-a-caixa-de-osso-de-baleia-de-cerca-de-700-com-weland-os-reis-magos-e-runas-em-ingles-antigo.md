@@ -13,7 +13,7 @@ fontes:
 tags: [franks casket, auzon, weland, runer, gammelengelsk, northumbria, british museum]
 ---
 
-Franks Casket, eller Auzon-skrinet, er et lite skrin av hvalbein fra tidlig på 700-tallet, i dag i British Museum. Ifølge Wikipedia plasserer forskerne det vanligvis i Northumbria. Det er 22,9 cm langt, 19 cm bredt og 10,9 cm høyt, og flatene er dekket av scener skåret med kniv, sammen med runeinnskrifter.
+Franks Casket, eller Auzon-skrinet, er et lite skrin av hvalbein fra tidlig på 700-tallet, i dag i British Museum. Ifølge kildene plasserer forskerne det vanligvis i Northumbria. Det er 22,9 cm langt, 19 cm bredt og 10,9 cm høyt, og flatene er dekket av scener skåret med kniv, sammen med runeinnskrifter.
 
 ## Fra Brioude til London
 

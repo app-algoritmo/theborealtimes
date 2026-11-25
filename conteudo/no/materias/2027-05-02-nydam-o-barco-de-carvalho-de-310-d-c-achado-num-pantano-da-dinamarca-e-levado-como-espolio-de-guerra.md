@@ -22,7 +22,7 @@ Nydam Mose ligger i Øster Sottrup, i Sundeved, omtrent 8 km fra Sønderborg i D
 
 ## En hellig myr
 
-I jernalderen var myra et «hellig sted», ifølge Wikipedia. Erobrede våpen og båter ble ofret til gudene som takk for seier. Mange gjenstander ble bøyd, knekt eller hugget i stykker i rituelle handlinger, datert til 200 til 400 e.Kr. Stedet ble trolig brukt ved ulike anledninger mellom 200 og 450 e.Kr.
+I jernalderen var myra et «hellig sted», ifølge kildene. Erobrede våpen og båter ble ofret til gudene som takk for seier. Mange gjenstander ble bøyd, knekt eller hugget i stykker i rituelle handlinger, datert til 200 til 400 e.Kr. Stedet ble trolig brukt ved ulike anledninger mellom 200 og 450 e.Kr.
 
 ## De første funnene
 
@@ -44,7 +44,7 @@ Det er den første og den største av de tre båtene som ble funnet, og den enes
 
 ## Krigen i 1864
 
-Engelhardts arbeid stoppet da den andre slesvigske krig brøt ut tidlig i 1864. Noen funn gikk tapt. Den mindre furubåten, kanskje 19 meter lang, ble hugget opp og brukt som ved av troppene, og Wikipedia sier at den ble fullstendig ødelagt under krigen. Danmark tapte krigen og en del av territoriet, og ble tvunget til å overføre Nydambåten til Preussen.
+Engelhardts arbeid stoppet da den andre slesvigske krig brøt ut tidlig i 1864. Noen funn gikk tapt. Den mindre furubåten, kanskje 19 meter lang, ble hugget opp og brukt som ved av troppene, og kilden sier at den ble fullstendig ødelagt under krigen. Danmark tapte krigen og en del av territoriet, og ble tvunget til å overføre Nydambåten til Preussen.
 
 ## Hvor den er i dag
 

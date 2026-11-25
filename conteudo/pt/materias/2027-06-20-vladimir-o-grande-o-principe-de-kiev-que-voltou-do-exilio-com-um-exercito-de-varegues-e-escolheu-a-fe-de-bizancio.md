@@ -13,7 +13,7 @@ fontes:
 tags: [vladimir o grande, kiev, varegues, rus' de kiev, perun, anna porfirogênita, crônica primária]
 ---
 
-Vladimir Sviatoslavich (c. 958 – 15 de julho de 1015) foi príncipe de Novgorod a partir de 970 e grão-príncipe de Kiev até morrer. Segundo a Wikipédia, as Igrejas Católica e Ortodoxa o canonizaram como São Vladimir. Era o filho mais novo e ilegítimo de Sviatoslav I, da dinastia Rurik, e de Malusha, governanta do pai. O tio materno, Dobrynya, foi seu tutor e conselheiro de confiança.
+Vladimir Sviatoslavich (c. 958 – 15 de julho de 1015) foi príncipe de Novgorod a partir de 970 e grão-príncipe de Kiev até morrer. Segundo as fontes, as Igrejas Católica e Ortodoxa o canonizaram como São Vladimir. Era o filho mais novo e ilegítimo de Sviatoslav I, da dinastia Rurik, e de Malusha, governanta do pai. O tio materno, Dobrynya, foi seu tutor e conselheiro de confiança.
 
 ## A guerra entre irmãos
 

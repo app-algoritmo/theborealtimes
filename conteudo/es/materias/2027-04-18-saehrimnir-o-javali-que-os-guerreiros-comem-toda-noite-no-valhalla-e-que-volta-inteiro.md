@@ -33,7 +33,7 @@ Los tres nombres forman un conjunto. Andhrímnir es el cocinero. Eldhrímnir es 
 
 ## Donde discrepan los estudiosos
 
-El nombre es un problema. Wikipedia dice que la propuesta moderna más común es «bestia marina tiznada», quizá ligada al nórdico antiguo *seyðir*, «fosa de cocción». Eso contradice la idea de un jabalí. El estudioso Rudolf Simek señala que un animal que renace también aparece en el mito de los machos cabríos de Thor, Tanngrisnir y Tanngnjóstr, y que esto puede apuntar a prácticas de sacrificio. Atribuye la diferencia entre el Grímnismál y la Gylfaginning a un adorno de Snorri, influido por la imagen medieval del paraíso. Jacob Grimm, por su parte, propuso un vínculo con el culto a los héroes, porque los héroes recibían la carne y la sangre de los sacrificios, mientras que los dioses recibían solo las vísceras y la grasa. Ambas siguen siendo hipótesis.
+El nombre es un problema. La fuente dice que la propuesta moderna más común es «bestia marina tiznada», quizá ligada al nórdico antiguo *seyðir*, «fosa de cocción». Eso contradice la idea de un jabalí. El estudioso Rudolf Simek señala que un animal que renace también aparece en el mito de los machos cabríos de Thor, Tanngrisnir y Tanngnjóstr, y que esto puede apuntar a prácticas de sacrificio. Atribuye la diferencia entre el Grímnismál y la Gylfaginning a un adorno de Snorri, influido por la imagen medieval del paraíso. Jacob Grimm, por su parte, propuso un vínculo con el culto a los héroes, porque los héroes recibían la carne y la sangre de los sacrificios, mientras que los dioses recibían solo las vísceras y la grasa. Ambas siguen siendo hipótesis.
 
 ## En resumen
 

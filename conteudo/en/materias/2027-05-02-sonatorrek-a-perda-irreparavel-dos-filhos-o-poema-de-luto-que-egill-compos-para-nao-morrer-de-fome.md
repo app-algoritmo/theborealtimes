@@ -33,7 +33,7 @@ The poem uses *kviðuháttr*, a variant of *fornyrðislag*. Odd lines have three
 
 ## Seven parts
 
-Wikipedia describes the structure like this:
+The source describes the structure like this:
 
 - **Stanzas 1 to 4:** Egill struggles to find words for grief and laments the end of his family line. Stanza 4 introduces the wood and tree imagery that runs through the poem.
 - **Stanza 5:** he recalls the deaths of his parents.
@@ -45,7 +45,7 @@ Wikipedia describes the structure like this:
 
 ## The gods in the poem
 
-The poem has about twenty allusions to Norse gods and myths, some of which cannot be fully understood. In stanza 25 death is personified as the goddess Hel, waiting on a headland, an image Wikipedia singles out as especially striking. Some scholars have suggested Egill modelled the poem and his grief on the myth of Odin mourning his son Baldr.
+The poem has about twenty allusions to Norse gods and myths, some of which cannot be fully understood. In stanza 25 death is personified as the goddess Hel, waiting on a headland, an image the source singles out as especially striking. Some scholars have suggested Egill modelled the poem and his grief on the myth of Odin mourning his son Baldr.
 
 ## What scholars say
 

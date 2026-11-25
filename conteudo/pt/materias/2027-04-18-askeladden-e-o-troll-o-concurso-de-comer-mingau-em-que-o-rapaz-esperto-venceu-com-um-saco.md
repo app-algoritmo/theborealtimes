@@ -40,7 +40,7 @@ O rapaz leva a prata e o ouro que acha na encosta e volta para casa. O dinheiro 
 
 Os trolls, nos contos de Asbjørnsen e Moe, costumam ser fortes e tolos, e perdem para o menino que os engana com palavras e truques. Aqui há três provas: o aperto do queijo, a fonte que ele se oferece para carregar e o concurso de comer. Em todas, Askeladden vence sem força, usando uma ameaça falsa, uma promessa grande demais e um saco. O troll tem medo do que não entende, e sempre acredita no rapaz.
 
-A Wikipédia lembra que a coletânea de Asbjørnsen e Moe se chama *Norske Folkeeventyr* e que o conto de Askeladden foi um dos primeiros a abri-la. Aqui, o conto vem da tradução de Dasent, que ficou muito conhecida em inglês.
+A fonte lembra que a coletânea de Asbjørnsen e Moe se chama *Norske Folkeeventyr* e que o conto de Askeladden foi um dos primeiros a abri-la. Aqui, o conto vem da tradução de Dasent, que ficou muito conhecida em inglês.
 
 ## Em resumo
 

@@ -18,7 +18,7 @@ Mange bilder vi forbinder med vikingene, har eldre opphav. Fire bronsestykker fu
 
 ## Funnet
 
-Tidlig i 1870 ble det funnet fire støpte bronsestempler i en gravrøys i Torslunda sogn på Öland i Sverige. Wikipedia daterer stykkene til vendeltida, på 500- og 600-tallet. Infoboksen oppgir 500- til 700-tallet.
+Tidlig i 1870 ble det funnet fire støpte bronsestempler i en gravrøys i Torslunda sogn på Öland i Sverige. Kilden daterer stykkene til vendeltida, på 500- og 600-tallet. Infoboksen oppgir 500- til 700-tallet.
 
 ## Hva de ble brukt til
 
@@ -26,7 +26,7 @@ Stemplene var ikke til utstilling. De ble laget for masseproduksjon. Når en tyn
 
 ## Hva hvert stempel viser
 
-Navnene er tradisjonelle betegnelser, ifølge Wikipedia.
+Navnene er tradisjonelle betegnelser, ifølge kildene.
 
 1. **Gående krigere med spyd**, med germanske villsvinhjelmer.
 2. **En dansende mann med hornhodeplagg** og **en mann med spyd i ulveskinn**.
@@ -40,15 +40,15 @@ Scenene antas å være tradisjonell germansk mytologi. To punkter skiller seg ut
 - **Øyet som mangler.** Figuren til venstre på stempelet med den dansende mannen mangler høyre øye. En laserskanning antyder at øyet ble slått ut med vilje i originalen som ble brukt til å lage formen. Det minner om Odin, og derfor foreslås det at figuren er ham.
 - **Ulvemannen.** Mannen ved siden av, i ulveskinn, tolkes som en berserk, nærmere bestemt en úlfhéðinn, en «ulvekriger», kanskje som representerer ulvekrigere ledet av raseriets gud.
 
-Wikipedia presenterer dette som tolkninger, ikke fakta.
+Kilden presenterer dette som tolkninger, ikke fakta.
 
 ## Mange folier, ett stempel
 
-Fordi hvert stempel kunne presses mot tynt metall så mange ganger man ville, kunne den samme scenen gjentas på mange hjelmer. Det er derfor Wikipedia snakker om masseproduksjon og ikke utstilling.
+Fordi hvert stempel kunne presses mot tynt metall så mange ganger man ville, kunne den samme scenen gjentas på mange hjelmer. Det er derfor kilden snakker om masseproduksjon og ikke utstilling.
 
 ## Dateringen
 
-Wikipedia gir to dateringer: Teksten snakker om vendeltida, på 500- og 600-tallet, og infoboksen om 500- til 700-tallet. Derfor er det tryggest å si «mellom 500- og 700-tallet», altså sjette til åttende århundre, uten å være mer presis.
+Kilden gir to dateringer: Teksten snakker om vendeltida, på 500- og 600-tallet, og infoboksen om 500- til 700-tallet. Derfor er det tryggest å si «mellom 500- og 700-tallet», altså sjette til åttende århundre, uten å være mer presis.
 
 ## Hvor de er
 

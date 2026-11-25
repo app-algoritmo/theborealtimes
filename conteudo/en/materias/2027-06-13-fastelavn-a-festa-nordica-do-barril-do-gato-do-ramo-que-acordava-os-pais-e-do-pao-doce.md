@@ -13,7 +13,7 @@ fontes:
 tags: [fastelavn, slå katten af tønden, cat barrel, fastelavnsbolle, denmark, norway, nordic traditions]
 ---
 
-Fastelavn is a Nordic festival of the week before Lent. According to Wikipedia, it always falls on a Sunday between 1 February and 7 March, seven weeks before Easter Sunday, and climaxes on Shrove Tuesday, the day before Ash Wednesday.
+Fastelavn is a Nordic festival of the week before Lent. According to the sources, it always falls on a Sunday between 1 February and 7 March, seven weeks before Easter Sunday, and climaxes on Shrove Tuesday, the day before Ash Wednesday.
 
 ## The name
 

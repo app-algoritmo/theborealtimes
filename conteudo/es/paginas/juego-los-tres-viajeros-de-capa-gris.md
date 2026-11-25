@@ -23,4 +23,4 @@ El rey Olaf viaja con Finnr Árnason y Þormóðr Kolbrúnarskáld, los tres con
 
 ## La historia detrás
 
-Según Wikipedia, en la Völsa þáttr el rey Olaf II viaja solo con Finnr Árnason y Þormóðr Kolbrúnarskáld, los tres con capa gris para ocultar quiénes son, y los tres dicen llamarse Grímr, «encapuchado». Las alturas, el orden que repites y los cambios de lugar son invención. Lee la historia en [Völsa þáttr: el rey Olaf y el ritual doméstico del völsi en la Flateyjarbók](/es/volsa-thattr-el-rey-olaf-y-el-ritual-domestico-del-volsi/).
+Según las fuentes, en la Völsa þáttr el rey Olaf II viaja solo con Finnr Árnason y Þormóðr Kolbrúnarskáld, los tres con capa gris para ocultar quiénes son, y los tres dicen llamarse Grímr, «encapuchado». Las alturas, el orden que repites y los cambios de lugar son invención. Lee la historia en [Völsa þáttr: el rey Olaf y el ritual doméstico del völsi en la Flateyjarbók](/es/volsa-thattr-el-rey-olaf-y-el-ritual-domestico-del-volsi/).

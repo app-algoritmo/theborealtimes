@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "A vida de Ingigerðr passa pela Suécia, por Ladoga e pela Rus de Kiev. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.",
     "perdeu": "As cartas se perderam",
     "v1": "Cada fato no seu lugar!",
-    "v2": "Segundo a Wikipédia, Ingigerðr nasceu na Suécia, recebeu Ladoga como presente de casamento e viveu na Rus de Kiev como esposa de Yaroslav, o Sábio. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, Ingigerðr nasceu na Suécia, recebeu Ladoga como presente de casamento e viveu na Rus de Kiev como esposa de Yaroslav, o Sábio. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Frases",
     "dica": "Toque numa caixa ou use ← → e 1-2-3",
     "bins": [
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "Ingigerðr's life runs through Sweden, Ladoga and Kievan Rus. Each phrase falls from above. Guide it to the right box: tap the box, or use the arrow keys and keys 1, 2 and 3 (Space drops it faster). The wrong box is a mistake. Get 10 right before time runs out. 3 mistakes end the game.",
     "perdeu": "The cards were lost",
     "v1": "Each fact in its place!",
-    "v2": "According to Wikipedia, Ingigerðr was born in Sweden, received Ladoga as a wedding gift and lived in Kievan Rus as the wife of Yaroslav the Wise. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, Ingigerðr was born in Sweden, received Ladoga as a wedding gift and lived in Kievan Rus as the wife of Yaroslav the Wise. The game itself, with its objects and rules, is invention.",
     "h1": "Phrases",
     "dica": "Tap a box or use ← → and 1-2-3",
     "bins": [
@@ -78,7 +78,7 @@ BTJogo.registrar({
     "sub": "Ingigerðrs liv går gjennom Sverige, Ladoga og Kievriket. Hver frase faller ovenfra. Led den til riktig boks: trykk på boksen, eller bruk piltastene og tastene 1, 2 og 3 (mellomrom får den til å falle raskere). Feil boks er en feil. Få 10 riktige før tiden er ute. 3 feil avslutter spillet.",
     "perdeu": "Kortene gikk tapt",
     "v1": "Hvert faktum på sin plass!",
-    "v2": "Ifølge Wikipedia ble Ingigerðr født i Sverige, fikk Ladoga i bryllupsgave og levde i Kievriket som kone til Jaroslav den vise. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene ble Ingigerðr født i Sverige, fikk Ladoga i bryllupsgave og levde i Kievriket som kone til Jaroslav den vise. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Setninger",
     "dica": "Trykk på en boks eller bruk ← → og 1-2-3",
     "bins": [
@@ -110,7 +110,7 @@ BTJogo.registrar({
     "sub": "La vida de Ingigerðr pasa por Suecia, por Ladoga y por la Rus de Kiev. Cada frase cae desde arriba. Guíala hasta la caja correcta: toca la caja, o usa las flechas y las teclas 1, 2 y 3 (Espacio la hace caer más rápido). La caja equivocada es un error. Acierta 10 antes de que se acabe el tiempo. 3 errores terminan el juego.",
     "perdeu": "Se perdieron las cartas",
     "v1": "¡Cada dato en su sitio!",
-    "v2": "Según la Wikipedia, Ingigerðr nació en Suecia, recibió Ladoga como regalo de boda y vivió en la Rus de Kiev como esposa de Yaroslav el Sabio. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, Ingigerðr nació en Suecia, recibió Ladoga como regalo de boda y vivió en la Rus de Kiev como esposa de Yaroslav el Sabio. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Frases",
     "dica": "Toca una caja o usa ← → y 1-2-3",
     "bins": [

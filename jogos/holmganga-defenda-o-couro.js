@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Na hólmganga, cada lutador usava em geral três escudos, e os golpes do oponente podiam quebrar um escudo. Golpes vêm da esquerda, do centro ou da direita. Toque no terço da tela de onde o golpe vem, ou use as setas ou as teclas 1, 2 e 3, para defender. Defender para o lado errado, ou tarde demais, é erro. Defenda 12 golpes antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "O escudo se quebrou",
     "v1": "O duelo foi cumprido!",
-    "v2": "Segundo a Wikipédia, na hólmganga cada lutador podia usar um número fixo de escudos, em geral três, quem foi desafiado golpeava primeiro, e a luta normalmente acabava no primeiro sangue. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, na hólmganga cada lutador podia usar um número fixo de escudos, em geral três, quem foi desafiado golpeava primeiro, e a luta normalmente acabava no primeiro sangue. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Defesas",
     "dica": "Toque no lado de onde vem o golpe"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "In the hólmganga, each fighter generally used three shields, and the opponent's blows could break a shield. Blows come from the left, the centre or the right. Tap the third of the screen the blow comes from, or use the arrow keys or keys 1, 2 and 3, to block. Blocking the wrong side, or too late, is a mistake. Block 12 blows before time runs out. Three mistakes end the game.",
     "perdeu": "The shield broke",
     "v1": "The duel is fulfilled!",
-    "v2": "According to Wikipedia, in the hólmganga each fighter could use a fixed number of shields, generally three, the challenged man struck first, and the fight normally ended at first blood. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, in the hólmganga each fighter could use a fixed number of shields, generally three, the challenged man struck first, and the fight normally ended at first blood. The game itself, with its objects and rules, is invention.",
     "h1": "Blocks",
     "dica": "Tap the side the blow comes from"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "I hólmgang brukte hver kriger vanligvis tre skjold, og motstanderens slag kunne knuse et skjold. Slag kommer fra venstre, midten eller høyre. Trykk på den tredjedelen av skjermen slaget kommer fra, eller bruk piltastene eller tastene 1, 2 og 3, for å parere. Å parere feil side, eller for sent, er en feil. Parer 12 slag før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Skjoldet knustes",
     "v1": "Duellen er oppfylt!",
-    "v2": "Ifølge Wikipedia kunne hver kriger i hólmgang bruke et fast antall skjold, vanligvis tre, den utfordrede slo først, og kampen endte normalt ved første blod. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene kunne hver kriger i hólmgang bruke et fast antall skjold, vanligvis tre, den utfordrede slo først, og kampen endte normalt ved første blod. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Parader",
     "dica": "Trykk på siden slaget kommer fra"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "En la hólmganga, cada luchador usaba en general tres escudos, y los golpes del oponente podían romper un escudo. Los golpes vienen de la izquierda, del centro o de la derecha. Toca el tercio de la pantalla de donde viene el golpe, o usa las flechas o las teclas 1, 2 y 3, para parar. Parar el lado equivocado, o tarde, es un error. Para 12 golpes antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "El escudo se rompió",
     "v1": "¡El duelo se cumplió!",
-    "v2": "Según Wikipedia, en la hólmganga cada luchador podía usar un número fijo de escudos, en general tres, quien fue desafiado golpeaba primero, y la lucha normalmente terminaba a la primera sangre. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, en la hólmganga cada luchador podía usar un número fijo de escudos, en general tres, quien fue desafiado golpeaba primero, y la lucha normalmente terminaba a la primera sangre. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Paradas",
     "dica": "Toca el lado de donde viene el golpe"
   }

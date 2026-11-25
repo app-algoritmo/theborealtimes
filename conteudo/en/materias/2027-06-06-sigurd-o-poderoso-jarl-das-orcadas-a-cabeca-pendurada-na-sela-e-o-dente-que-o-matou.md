@@ -31,7 +31,7 @@ According to the Orkneyinga saga, Sigurd challenged Máel Brigte, "the Buck-Toot
 
 ## The death
 
-Sigurd tied the head to his saddle as a trophy. One of the protruding teeth scratched his leg, the wound became infected and he died. Wikipedia notes that the detail of the tooth varies between versions, and that the most specific one comes from the saga.
+Sigurd tied the head to his saddle as a trophy. One of the protruding teeth scratched his leg, the wound became infected and he died. The source notes that the detail of the tooth varies between versions, and that the most specific one comes from the saga.
 
 ## The grave and the heirs
 

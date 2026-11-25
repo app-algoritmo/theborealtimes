@@ -22,7 +22,7 @@ On 28 May 1891, peat cutters found it in the small bog of Rævemose, near the la
 
 ## What it is
 
-It measures 69 cm in diameter and 42 cm in height, and weighs almost 9 kg. Wikipedia calls it the largest known European Iron Age silver work. It is incomplete: a base plate, five inner plates, seven outer plates and two rim fragments survive. There is repoussé relief, gilding, glass eyes in the figures and tin solder.
+It measures 69 cm in diameter and 42 cm in height, and weighs almost 9 kg. The source calls it the largest known European Iron Age silver work. It is incomplete: a base plate, five inner plates, seven outer plates and two rim fragments survive. There is repoussé relief, gilding, glass eyes in the figures and tin solder.
 
 ## The images
 
@@ -34,4 +34,4 @@ The dating runs from 200 BC to 300 AD, or, more narrowly, from 150 to 1 BC. Who 
 
 ## In short
 
-Wikipedia mentions no Norse connection. The cauldron is in the National Museum of Denmark in Copenhagen, with replicas in Ireland and France. To collect the plates before the peat covers them, play [The Gundestrup plates](/game-the-gundestrup-plates/).
+The source mentions no Norse connection. The cauldron is in the National Museum of Denmark in Copenhagen, with replicas in Ireland and France. To collect the plates before the peat covers them, play [The Gundestrup plates](/game-the-gundestrup-plates/).

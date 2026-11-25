@@ -18,7 +18,7 @@ At Jelling, in Jutland, the Jelling 1 stone says that Gorm the Old had the monum
 
 ## What the stone says
 
-According to Wikipedia, Gorm had the stone made in memory of Þyri after her death. The inscription calls her "Danmarkar bót". The expression is translated in several ways: "Denmark's adornment", "strength", "salvation" or "remedy" (Imer, Åhfeldt and Zedig, 2023; Randsborg, 2008). The name "Danebod" comes from this expression, also cited in the Jómsvíkinga saga.
+According to the sources, Gorm had the stone made in memory of Þyri after her death. The inscription calls her "Danmarkar bót". The expression is translated in several ways: "Denmark's adornment", "strength", "salvation" or "remedy" (Imer, Åhfeldt and Zedig, 2023; Randsborg, 2008). The name "Danebod" comes from this expression, also cited in the Jómsvíkinga saga.
 
 ## The chroniclers
 
@@ -30,7 +30,7 @@ The first phase of the Danevirke predates Þyri's reign: the trees used in it we
 
 ## What scholars debate
 
-Imer et al. (2023) and Hollander (1928) argue that "Danmarkar bót" may refer to Gorm, not to Þyri, and that her prominence grew later, in the works of medieval chroniclers. Wikipedia says this is not the majority view. It is also debated whether seven runestones that mention her refer to the same woman, and whether the northern mound at Jelling is her grave: tree-ring dating of wooden objects gives 959–960 AD, but no body has been found (Whitbread, 1967; Randsborg, 2008).
+Imer et al. (2023) and Hollander (1928) argue that "Danmarkar bót" may refer to Gorm, not to Þyri, and that her prominence grew later, in the works of medieval chroniclers. The source says this is not the majority view. It is also debated whether seven runestones that mention her refer to the same woman, and whether the northern mound at Jelling is her grave: tree-ring dating of wooden objects gives 959–960 AD, but no body has been found (Whitbread, 1967; Randsborg, 2008).
 
 ## In short
 

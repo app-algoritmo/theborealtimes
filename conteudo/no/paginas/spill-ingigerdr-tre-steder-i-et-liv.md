@@ -23,4 +23,4 @@ Ingigerðrs liv går gjennom Sverige, Ladoga og Kievriket. Hver frase faller ove
 
 ## Historien bak
 
-Ifølge Wikipedia ble Ingigerðr født i Sverige, fikk Ladoga i bryllupsgave og levde i Kievriket som kone til Jaroslav den vise. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Ingigerðr: den svenske prinsessen som giftet seg med Jaroslav, fikk Ladoga og ble mor til dronninger](/no/ingigerdr-den-svenske-prinsessen-som-giftet-seg/).
+Ifølge kildene ble Ingigerðr født i Sverige, fikk Ladoga i bryllupsgave og levde i Kievriket som kone til Jaroslav den vise. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Ingigerðr: den svenske prinsessen som giftet seg med Jaroslav, fikk Ladoga og ble mor til dronninger](/no/ingigerdr-den-svenske-prinsessen-som-giftet-seg/).

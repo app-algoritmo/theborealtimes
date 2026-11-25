@@ -23,4 +23,4 @@ En la hólmganga, cada luchador usaba en general tres escudos, y los golpes del 
 
 ## La historia detrás
 
-Según Wikipedia, en la hólmganga cada luchador podía usar un número fijo de escudos, en general tres, quien fue desafiado golpeaba primero, y la lucha normalmente terminaba a la primera sangre. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [La hólmganga: el duelo sobre el cuero de buey, los tres escudos y la prohibición de 1006](/es/la-holmganga-el-duelo-sobre-el-cuero-de-buey-los-tres/).
+Según las fuentes, en la hólmganga cada luchador podía usar un número fijo de escudos, en general tres, quien fue desafiado golpeaba primero, y la lucha normalmente terminaba a la primera sangre. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [La hólmganga: el duelo sobre el cuero de buey, los tres escudos y la prohibición de 1006](/es/la-holmganga-el-duelo-sobre-el-cuero-de-buey-los-tres/).

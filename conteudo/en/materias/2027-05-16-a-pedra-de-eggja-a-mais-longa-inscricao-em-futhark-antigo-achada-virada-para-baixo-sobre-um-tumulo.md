@@ -32,7 +32,7 @@ Grønvik reads a shipwreck in bad weather, a question about who carried the dead
 
 ## Galdr
 
-Some scholars propose that the second panel is a stanza in galdralag, the metre of incantations. Wikipedia notes the similarity with the Merseburg Incantations, and says the two sources may be rare examples of pre-Christian galdr.
+Some scholars propose that the second panel is a stanza in galdralag, the metre of incantations. The source notes the similarity with the Merseburg Incantations, and says the two sources may be rare examples of pre-Christian galdr.
 
 ## In short
 

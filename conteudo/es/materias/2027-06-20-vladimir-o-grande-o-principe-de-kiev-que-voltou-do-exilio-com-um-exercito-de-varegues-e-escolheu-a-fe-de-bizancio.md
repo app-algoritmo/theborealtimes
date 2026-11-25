@@ -13,7 +13,7 @@ fontes:
 tags: [vladimiro el grande, kiev, varegos, rus de kiev, perún, ana porfirogéneta, crónica primaria]
 ---
 
-Vladimiro Sviatoslávich (h. 958 – 15 de julio de 1015) fue príncipe de Nóvgorod desde 970 y gran príncipe de Kiev hasta su muerte. Según Wikipedia, las Iglesias católica y ortodoxa lo canonizaron como san Vladimiro. Era el hijo menor e ilegítimo de Sviatoslav I, de la dinastía Rúrik, y de Malusha, ama de llaves de su padre. Su tío materno, Dobrynia, fue su tutor y consejero de confianza.
+Vladimiro Sviatoslávich (h. 958 – 15 de julio de 1015) fue príncipe de Nóvgorod desde 970 y gran príncipe de Kiev hasta su muerte. Según las fuentes, las Iglesias católica y ortodoxa lo canonizaron como san Vladimiro. Era el hijo menor e ilegítimo de Sviatoslav I, de la dinastía Rúrik, y de Malusha, ama de llaves de su padre. Su tío materno, Dobrynia, fue su tutor y consejero de confianza.
 
 ## La guerra entre hermanos
 

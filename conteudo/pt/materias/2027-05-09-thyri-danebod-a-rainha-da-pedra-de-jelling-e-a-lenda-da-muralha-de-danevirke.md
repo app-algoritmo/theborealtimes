@@ -18,7 +18,7 @@ Em Jelling, na Jutlândia, a pedra de Jelling 1 diz que Gorm, o Velho, mandou fa
 
 ## O que a pedra diz
 
-Segundo a Wikipédia, Gorm mandou fazer a pedra em memória de Þyri depois que ela morreu. A inscrição a chama de "Danmarkar bót". A expressão é traduzida de várias formas: "adorno da Dinamarca", "força", "salvação" ou "remédio" (Imer, Åhfeldt e Zedig, 2023; Randsborg, 2008). O nome "Danebod" vem dessa expressão, também citada na Jómsvíkinga saga.
+Segundo as fontes, Gorm mandou fazer a pedra em memória de Þyri depois que ela morreu. A inscrição a chama de "Danmarkar bót". A expressão é traduzida de várias formas: "adorno da Dinamarca", "força", "salvação" ou "remédio" (Imer, Åhfeldt e Zedig, 2023; Randsborg, 2008). O nome "Danebod" vem dessa expressão, também citada na Jómsvíkinga saga.
 
 ## Os cronistas
 
@@ -30,7 +30,7 @@ A primeira fase do Danevirke é anterior ao reinado de Þyri: as árvores usadas
 
 ## O que os estudiosos debatem
 
-Imer et al. (2023) e Hollander (1928) argumentam que "Danmarkar bót" pode se referir a Gorm, e não a Þyri, e que a importância dela cresceu depois, nas obras dos cronistas medievais. A Wikipédia diz que essa não é a opinião da maioria. Também se discute se sete pedras rúnicas que a citam se referem à mesma mulher, e se o monte norte de Jelling é o túmulo dela: a datação por anéis de árvore de objetos de madeira dá 959-960 d.C., mas nenhum corpo foi encontrado (Whitbread, 1967; Randsborg, 2008).
+Imer et al. (2023) e Hollander (1928) argumentam que "Danmarkar bót" pode se referir a Gorm, e não a Þyri, e que a importância dela cresceu depois, nas obras dos cronistas medievais. A fonte diz que essa não é a opinião da maioria. Também se discute se sete pedras rúnicas que a citam se referem à mesma mulher, e se o monte norte de Jelling é o túmulo dela: a datação por anéis de árvore de objetos de madeira dá 959-960 d.C., mas nenhum corpo foi encontrado (Whitbread, 1967; Randsborg, 2008).
 
 ## Em resumo
 

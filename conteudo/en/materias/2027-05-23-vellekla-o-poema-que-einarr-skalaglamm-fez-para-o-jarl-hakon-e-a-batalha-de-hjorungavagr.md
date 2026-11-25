@@ -27,7 +27,7 @@ The battle of Hjörungavágr is a semi-legendary naval battle of the late 10th c
 
 ## The commanders
 
-On the Norwegian side were Hákon Sigurðarson, Eric Haakonsson, Sweyn Haakonsson, Skjegge Asbjørnsson and Ragnvald Lodinsson. On the Danish and Jomsviking side, Sigvaldi Strut-Haraldsson, Vagn Åkesson and Búi digri. Wikipedia gives a Norwegian victory.
+On the Norwegian side were Hákon Sigurðarson, Eric Haakonsson, Sweyn Haakonsson, Skjegge Asbjørnsson and Ragnvald Lodinsson. On the Danish and Jomsviking side, Sigvaldi Strut-Haraldsson, Vagn Åkesson and Búi digri. The source gives a Norwegian victory.
 
 ## Sources that disagree
 

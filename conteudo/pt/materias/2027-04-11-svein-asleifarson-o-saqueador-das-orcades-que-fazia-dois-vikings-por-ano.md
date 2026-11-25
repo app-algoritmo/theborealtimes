@@ -23,7 +23,7 @@ A saga diz que ele era "o maior homem das Terras do Oeste, nos tempos antigos ou
 
 ## A origem da vingança
 
-Segundo a Wikipédia, que resume a saga, Svein nasceu no início do século XII, e o pai, Olaf Hrolfsson, foi morto por Olvir Rosta. Svein depois atacou Olvir e matou a avó dele, e Olvir fugiu para as Hébridas. A saga conta ainda que, por volta de 1134, Svein matou o copeiro do conde Paul numa briga durante um jogo de bebida e fugiu para Tiree, onde Holdbodi Hundason o abrigou.
+Segundo as fontes, que resume a saga, Svein nasceu no início do século XII, e o pai, Olaf Hrolfsson, foi morto por Olvir Rosta. Svein depois atacou Olvir e matou a avó dele, e Olvir fugiu para as Hébridas. A saga conta ainda que, por volta de 1134, Svein matou o copeiro do conde Paul numa briga durante um jogo de bebida e fugiu para Tiree, onde Holdbodi Hundason o abrigou.
 
 ## Gales e a ilha de Man
 

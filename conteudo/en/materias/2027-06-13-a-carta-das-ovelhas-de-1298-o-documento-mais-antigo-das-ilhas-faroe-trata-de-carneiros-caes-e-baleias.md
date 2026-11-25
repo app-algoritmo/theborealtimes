@@ -13,7 +13,7 @@ fontes:
 tags: [sheep letter, seyðabrævið, faroe islands, 1298, haakon v, kirkjubøur, medieval law]
 ---
 
-The Seyðabrævið ("Sheep Letter", in Old Norse *sauðabréfit*) is the oldest surviving document of the Faroe Islands. According to Wikipedia, it is a royal decree of 28 June 1298. It deals mainly with sheep farming, but has other subjects and functioned as a kind of constitution.
+The Seyðabrævið ("Sheep Letter", in Old Norse *sauðabréfit*) is the oldest surviving document of the Faroe Islands. According to the sources, it is a royal decree of 28 June 1298. It deals mainly with sheep farming, but has other subjects and functioned as a kind of constitution.
 
 ## Who issued it
 

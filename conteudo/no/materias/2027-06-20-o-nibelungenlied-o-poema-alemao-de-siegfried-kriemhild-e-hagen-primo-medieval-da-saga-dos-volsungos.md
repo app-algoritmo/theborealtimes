@@ -13,7 +13,7 @@ fontes:
 tags: [nibelungenlied, siegfried, kriemhild, hagen, volsungesagaen, middelalderpoesi, nibelungenes skatt]
 ---
 
-Nibelungenlied er et episk dikt på mellomhøytysk, forfattet omkring 1200, trolig i traktene rundt Passau. Forfatteren er anonym. Ifølge Wikipedia bygger det på en eldre muntlig tradisjon med røtter i hendelser og personer fra 400- og 500-tallet, kjent i det meste av det germanskspråklige Europa. Biskop Wolfger von Erla, som styrte fra 1191 til 1204, regnes som en sannsynlig velgjører.
+Nibelungenlied er et episk dikt på mellomhøytysk, forfattet omkring 1200, trolig i traktene rundt Passau. Forfatteren er anonym. Ifølge kildene bygger det på en eldre muntlig tradisjon med røtter i hendelser og personer fra 400- og 500-tallet, kjent i det meste av det germanskspråklige Europa. Biskop Wolfger von Erla, som styrte fra 1191 til 1204, regnes som en sannsynlig velgjører.
 
 ## Manuskriptene
 

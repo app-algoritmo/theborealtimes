@@ -19,11 +19,11 @@ Ormurin Langi, «Ormen lange», er en færøysk ballade, et kvæði, som fortell
 
 ## Hvem som diktet den
 
-Ifølge Wikipedia ble den skrevet omkring 1830 av Jens Christian Djurhuus (1773-1853), en bonde fra Kollafjørður, og har 86 strofer på færøysk. Djurhuus fulgte Snorre Sturlasons beretning og diktet mange ballader om sagaer i romantikken. Hammershaimb roste balladen hans om Olav Tryggvason.
+Ifølge kildene ble den skrevet omkring 1830 av Jens Christian Djurhuus (1773-1853), en bonde fra Kollafjørður, og har 86 strofer på færøysk. Djurhuus fulgte Snorre Sturlasons beretning og diktet mange ballader om sagaer i romantikken. Hammershaimb roste balladen hans om Olav Tryggvason.
 
 ## Historien balladen forteller
 
-Konger fra Sverige og Danmark, sammen med nordmannen Eiríkr Hákonarson, angriper Olav på skipet Ormen lange. Olav taper, og da nederlaget er sikkert, hopper han i sjøen med mennene som er igjen. Balladen legger slaget til Øresund, men Wikipedia sier at stedet er ukjent og at det er tvilsomt om en øy som het Svolder fantes. Kildene om slaget er sagaer skrevet omkring to hundre år senere, og sagaene er upålitelige i detaljene.
+Konger fra Sverige og Danmark, sammen med nordmannen Eiríkr Hákonarson, angriper Olav på skipet Ormen lange. Olav taper, og da nederlaget er sikkert, hopper han i sjøen med mennene som er igjen. Balladen legger slaget til Øresund, men kilden sier at stedet er ukjent og at det er tvilsomt om en øy som het Svolder fantes. Kildene om slaget er sagaer skrevet omkring to hundre år senere, og sagaene er upålitelige i detaljene.
 
 ## Hvordan teksten har kommet fram til i dag
 

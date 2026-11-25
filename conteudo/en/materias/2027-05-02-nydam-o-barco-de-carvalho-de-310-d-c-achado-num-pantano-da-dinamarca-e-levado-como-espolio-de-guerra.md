@@ -22,7 +22,7 @@ Nydam Mose is in Øster Sottrup, in Sundeved, about 8 km from Sønderborg, Denma
 
 ## A sacred bog
 
-In the Iron Age the bog was a "sacred place", according to Wikipedia. Captured weapons and boats were offered to the gods in thanks for victory. Many objects were bent, broken or hacked up in ritual acts, dated to 200 to 400 CE. The site was probably used on different occasions between 200 and 450 CE.
+In the Iron Age the bog was a "sacred place", according to the sources. Captured weapons and boats were offered to the gods in thanks for victory. Many objects were bent, broken or hacked up in ritual acts, dated to 200 to 400 CE. The site was probably used on different occasions between 200 and 450 CE.
 
 ## The first finds
 
@@ -44,7 +44,7 @@ It is the first and largest of the three boats found, and the only one preserved
 
 ## The war of 1864
 
-Engelhardt's work stopped when the Second Schleswig War broke out in early 1864. Some finds were lost. The smaller pine boat, perhaps 19 metres long, was hacked up and used as firewood by troops, and Wikipedia says it was entirely destroyed during the war. Denmark lost the war and part of its territory, and was forced to transfer the Nydam Boat to Prussia.
+Engelhardt's work stopped when the Second Schleswig War broke out in early 1864. Some finds were lost. The smaller pine boat, perhaps 19 metres long, was hacked up and used as firewood by troops, and the source says it was entirely destroyed during the war. Denmark lost the war and part of its territory, and was forced to transfer the Nydam Boat to Prussia.
 
 ## Where it is today
 

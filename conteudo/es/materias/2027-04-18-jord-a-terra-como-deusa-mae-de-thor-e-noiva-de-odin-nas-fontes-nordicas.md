@@ -19,7 +19,7 @@ En nórdico antiguo, *jörð* significa «tierra», y es también el nombre de u
 
 ## Sus padres, según la Gylfaginning
 
-En la Gylfaginning, sección 10, la Edda prosaica cuenta que un gigante llamado Narfi tiene una hija, Nótt, la Noche. Ella se casa con Naglfari y luego con Annar, y la hija de ambos es Jörð, «Tierra». Wikipedia señala que este pasaje varía según el manuscrito. En el manuscrito más antiguo, el U, Jörð es la esposa de Dellingr y madre de Dagr, el Día. En los manuscritos R, W y T, quien ocupa ese papel es Nótt.
+En la Gylfaginning, sección 10, la Edda prosaica cuenta que un gigante llamado Narfi tiene una hija, Nótt, la Noche. Ella se casa con Naglfari y luego con Annar, y la hija de ambos es Jörð, «Tierra». La fuente señala que este pasaje varía según el manuscrito. En el manuscrito más antiguo, el U, Jörð es la esposa de Dellingr y madre de Dagr, el Día. En los manuscritos R, W y T, quien ocupa ese papel es Nótt.
 
 ## La madre de Thor
 
@@ -33,7 +33,7 @@ En la Völuspá, Thor es llamado *mögr Hlóðyniar* y *Fjörgyniar burr*. Los e
 
 ## «Novia de Odín»
 
-En el Skáldskaparmál, sección 90, hay una larga lista de perífrasis para la tierra. Entre ellas, Jörð es «novia de Odín», «hija de Önar» y «madre de Thor», además de «suelo y base del salón de los vientos». En la sección 19, una perífrasis de Frigg la llama «rival de Iord y de Rind». Esto muestra que los poetas pensaban que Odín había tenido un vínculo con Jörð, pero las fuentes no cuentan cómo fue. El estudioso John Lindow, citado en Wikipedia, sostiene que la relación probablemente no era un matrimonio.
+En el Skáldskaparmál, sección 90, hay una larga lista de perífrasis para la tierra. Entre ellas, Jörð es «novia de Odín», «hija de Önar» y «madre de Thor», además de «suelo y base del salón de los vientos». En la sección 19, una perífrasis de Frigg la llama «rival de Iord y de Rind». Esto muestra que los poetas pensaban que Odín había tenido un vínculo con Jörð, pero las fuentes no cuentan cómo fue. El estudioso John Lindow, citado en la fuente, sostiene que la relación probablemente no era un matrimonio.
 
 ## Una diosa que es el suelo
 

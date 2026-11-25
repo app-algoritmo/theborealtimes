@@ -27,7 +27,7 @@ The loom of the poem is made from parts of warriors: entrails serve as warp and 
 
 ## The valkyries
 
-The English Wikipedia article names six of the twelve women: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr and Göndul. These are names of valkyries, the choosers of the slain.
+The English the source article names six of the twelve women: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr and Göndul. These are names of valkyries, the choosers of the slain.
 
 ## Celtic and Norse
 

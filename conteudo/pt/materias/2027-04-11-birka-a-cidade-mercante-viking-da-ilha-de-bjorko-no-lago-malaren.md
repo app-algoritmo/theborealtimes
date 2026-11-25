@@ -19,7 +19,7 @@ Birka ficava em Björkö, "Ilha das Bétulas", no lago Mälaren, a cerca de 30 q
 
 ## Uma cidade que durou dois séculos
 
-A população era, segundo a Wikipédia, de 500 a 1000 pessoas, com cerca de 700 no auge. Há mais de 3 mil túmulos na ilha. A cidade foi abandonada por volta de 975 segundo uma passagem, ou teria morrido por volta de 960 segundo outra, com base nas moedas, e as duas datas não são conciliadas. Sigtuna passou a ser o principal centro comercial do Mälaren mais ou menos na mesma época. Os motivos do declínio são disputados.
+A população era, segundo as fontes, de 500 a 1000 pessoas, com cerca de 700 no auge. Há mais de 3 mil túmulos na ilha. A cidade foi abandonada por volta de 975 segundo uma passagem, ou teria morrido por volta de 960 segundo outra, com base nas moedas, e as duas datas não são conciliadas. Sigtuna passou a ser o principal centro comercial do Mälaren mais ou menos na mesma época. Os motivos do declínio são disputados.
 
 ## O escavador
 
@@ -27,7 +27,7 @@ O entomologista Hjalmar Stolpe escavou a ilha por cerca de duas décadas a parti
 
 ## Ansgar e Rimbert
 
-Em 829, segundo a Wikipédia, embaixadores suecos pediram pregadores cristãos, e Ansgar chegou a Birka. Uma congregação cristã teria sido fundada em 831. A *Vita Ansgarii*, de Rimbert, por volta de 865, é a primeira descrição conhecida de Birka, e a própria Wikipédia observa que as descrições de Rimbert são, na melhor das hipóteses, aproximadas. A primeira tentativa de conversão de Ansgar não teve sucesso.
+Em 829, segundo as fontes, embaixadores suecos pediram pregadores cristãos, e Ansgar chegou a Birka. Uma congregação cristã teria sido fundada em 831. A *Vita Ansgarii*, de Rimbert, por volta de 865, é a primeira descrição conhecida de Birka, e as próprias fontes observam que as descrições de Rimbert são, na melhor das hipóteses, aproximadas. A primeira tentativa de conversão de Ansgar não teve sucesso.
 
 ## Os objetos
 

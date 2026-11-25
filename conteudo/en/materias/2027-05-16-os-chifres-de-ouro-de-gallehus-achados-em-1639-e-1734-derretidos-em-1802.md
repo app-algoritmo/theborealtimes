@@ -19,7 +19,7 @@ In 1639 and 1734, near Møgeltønder in Southern Jutland, two gold horns of the 
 
 ## The two finds
 
-The longer horn was found on 20 July 1639 by a peasant girl, Kirsten Svendsdatter, who saw something sticking out of the ground. She alerted King Christian IV, and the horn passed to the prince, who had it refitted as a drinking horn with a gold pommel at the narrow end (Wikipedia marks that claim as disputed). The shorter horn was found on 21 April 1734 by Erich Lassen, some 15 to 20 metres from the first. Both were kept in the Royal Chamber of Art at Christiansborg.
+The longer horn was found on 20 July 1639 by a peasant girl, Kirsten Svendsdatter, who saw something sticking out of the ground. She alerted King Christian IV, and the horn passed to the prince, who had it refitted as a drinking horn with a gold pommel at the narrow end (the source marks that claim as disputed). The shorter horn was found on 21 April 1734 by Erich Lassen, some 15 to 20 metres from the first. Both were kept in the Royal Chamber of Art at Christiansborg.
 
 ## What they were like
 

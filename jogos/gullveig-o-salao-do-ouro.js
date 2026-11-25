@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "O nome de Gullveig tem a ver com ouro, e a Völuspá a põe sob as lanças, no salão de Hárr. Corra por três pistas. Toque na metade esquerda ou direita da tela, ou use as setas, para trocar de pista. Pegue as moedas de ouro e desvie de as lanças: bater neles é erro. Pegue 14 antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "As lanças venceram",
     "v1": "Gullveig renasceu!",
-    "v2": "Segundo a Wikipédia, na Völuspá Gullveig é atravessada por lanças e queimada três vezes no salão de Hárr, e renasce, passando a se chamar Heiðr. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, na Völuspá Gullveig é atravessada por lanças e queimada três vezes no salão de Hárr, e renasce, passando a se chamar Heiðr. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Coletados",
     "dica": "Toque na esquerda ou na direita para trocar de pista"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "Gullveig's name has to do with gold, and the Völuspá puts her under the spears, in Hárr's hall. Run along three lanes. Tap the left or right half of the screen, or use the arrow keys, to change lane. Collect the gold coins and dodge the spears: hitting them is a mistake. Collect 14 before time runs out. Three mistakes end the game.",
     "perdeu": "The spears won",
     "v1": "Gullveig is reborn!",
-    "v2": "According to Wikipedia, in the Völuspá Gullveig is pierced by spears and burned three times in Hárr's hall, and is reborn, coming to be called Heiðr. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, in the Völuspá Gullveig is pierced by spears and burned three times in Hárr's hall, and is reborn, coming to be called Heiðr. The game itself, with its objects and rules, is invention.",
     "h1": "Collected",
     "dica": "Tap left or right to change lane"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "Navnet Gullveig har med gull å gjøre, og Völuspá setter henne under spydene i Hárrs sal. Løp i tre baner. Trykk på venstre eller høyre halvdel av skjermen, eller bruk piltastene, for å bytte bane. Samle gullmyntene og unngå spydene: å treffe dem er en feil. Samle 14 før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Spydene vant",
     "v1": "Gullveig er gjenfødt!",
-    "v2": "Ifølge Wikipedia gjennomstikkes Gullveig av spyd og brennes tre ganger i Hárrs sal i Völuspá, og gjenfødes og kalles siden Heiðr. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene gjennomstikkes Gullveig av spyd og brennes tre ganger i Hárrs sal i Völuspá, og gjenfødes og kalles siden Heiðr. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Samlet",
     "dica": "Trykk til venstre eller høyre for å bytte bane"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "El nombre de Gullveig tiene que ver con el oro, y la Völuspá la pone bajo las lanzas, en el salón de Hárr. Corre por tres carriles. Toca la mitad izquierda o derecha de la pantalla, o usa las flechas, para cambiar de carril. Recoge las monedas de oro y esquiva las lanzas: chocar con ellos es un error. Recoge 14 antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "Las lanzas ganaron",
     "v1": "¡Gullveig renació!",
-    "v2": "Según Wikipedia, en la Völuspá Gullveig es atravesada por lanzas y quemada tres veces en el salón de Hárr, y renace, pasando a llamarse Heiðr. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, en la Völuspá Gullveig es atravesada por lanzas y quemada tres veces en el salón de Hárr, y renace, pasando a llamarse Heiðr. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Recogidos",
     "dica": "Toca a la izquierda o a la derecha para cambiar de carril"
   }

@@ -22,7 +22,7 @@ El 28 de mayo de 1891, unos cortadores de turba lo encontraron en la pequeña tu
 
 ## Qué es
 
-Mide 69 cm de diámetro y 42 cm de altura, y pesa casi 9 kg. Wikipedia lo llama la mayor obra de plata de la Edad del Hierro conocida en Europa. Está incompleto: se conservan una placa de base, cinco placas interiores, siete exteriores y dos fragmentos de borde. Tiene relieve repujado, dorado, ojos de vidrio en las figuras y soldadura de estaño.
+Mide 69 cm de diámetro y 42 cm de altura, y pesa casi 9 kg. La fuente lo llama la mayor obra de plata de la Edad del Hierro conocida en Europa. Está incompleto: se conservan una placa de base, cinco placas interiores, siete exteriores y dos fragmentos de borde. Tiene relieve repujado, dorado, ojos de vidrio en las figuras y soldadura de estaño.
 
 ## Las imágenes
 
@@ -34,4 +34,4 @@ La datación va de 200 a. C. a 300 d. C., o, más estrechamente, de 150 a 1 a. C
 
 ## En resumen
 
-Wikipedia no menciona ninguna conexión nórdica. El caldero está en el Museo Nacional de Dinamarca, en Copenhague, con réplicas en Irlanda y Francia. Para recoger las placas antes de que la turba las cubra, juega a [Las placas de Gundestrup](/es/juego-las-placas-de-gundestrup/).
+La fuente no menciona ninguna conexión nórdica. El caldero está en el Museo Nacional de Dinamarca, en Copenhague, con réplicas en Irlanda y Francia. Para recoger las placas antes de que la turba las cubra, juega a [Las placas de Gundestrup](/es/juego-las-placas-de-gundestrup/).

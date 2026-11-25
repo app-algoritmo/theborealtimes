@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "O monumento de Hunnestad tinha pedras com imagens, entre elas uma mulher montada num lobo com serpentes. Dezesseis pedras aparecem abertas por alguns segundos e depois se viram. Toque em duas pedras para abri-las: se as imagens forem iguais, o par fica aberto. Se forem diferentes, as duas se fecham e isso é erro. Encontre os 8 pares antes do tempo acabar. Nove erros encerram o jogo.",
     "perdeu": "As pedras se perderam",
     "v1": "Todos os pares achados!",
-    "v2": "Segundo a Wikipédia, o monumento de Hunnestad, na Escânia, tinha oito pedras quando Ole Worm o registrou: cinco com imagens, duas delas também com runas. Foi destruído, provavelmente entre 1782 e 1786, e a DR 285 foi achada numa ponte em 2020. Os pares e as pedras do jogo são invenção.",
+    "v2": "Segundo as fontes, o monumento de Hunnestad, na Escânia, tinha oito pedras quando Ole Worm o registrou: cinco com imagens, duas delas também com runas. Foi destruído, provavelmente entre 1782 e 1786, e a DR 285 foi achada numa ponte em 2020. Os pares e as pedras do jogo são invenção.",
     "h1": "Pares"
   },
   "en": {
@@ -29,7 +29,7 @@ BTJogo.registrar({
     "sub": "The Hunnestad Monument had stones with images, among them a woman riding a wolf with snakes. Sixteen stones appear open for a few seconds and then turn over. Tap two stones to open them: if the images match, the pair stays open. If they differ, both close and that is a mistake. Find the 8 pairs before time runs out. Nine mistakes end the game.",
     "perdeu": "The stones were lost",
     "v1": "All pairs found!",
-    "v2": "According to Wikipedia, the Hunnestad Monument, in Scania, had eight stones when Ole Worm recorded it: five with images, two of them also with runes. It was destroyed, probably between 1782 and 1786, and DR 285 was found in a bridge in 2020. The pairs and the stones of the game are invention.",
+    "v2": "According to the sources, the Hunnestad Monument, in Scania, had eight stones when Ole Worm recorded it: five with images, two of them also with runes. It was destroyed, probably between 1782 and 1786, and DR 285 was found in a bridge in 2020. The pairs and the stones of the game are invention.",
     "h1": "Pairs"
   },
   "no": {
@@ -44,7 +44,7 @@ BTJogo.registrar({
     "sub": "Hunnestad-monumentet hadde steiner med bilder, blant dem en kvinne som rir på en ulv med slanger. Seksten steiner vises åpne i noen sekunder og snus så. Trykk på to steiner for å åpne dem: Hvis bildene er like, blir paret åpent. Hvis de er ulike, lukkes begge, og det er en feil. Finn de 8 parene før tiden er ute. Ni feil avslutter spillet.",
     "perdeu": "Steinene gikk tapt",
     "v1": "Alle parene er funnet!",
-    "v2": "Ifølge Wikipedia hadde Hunnestad-monumentet i Skåne åtte steiner da Ole Worm tegnet det ned: fem med bilder, to av dem også med runer. Det ble ødelagt, trolig mellom 1782 og 1786, og DR 285 ble funnet i en bro i 2020. Parene og steinene i spillet er oppfinnelse.",
+    "v2": "Ifølge kildene hadde Hunnestad-monumentet i Skåne åtte steiner da Ole Worm tegnet det ned: fem med bilder, to av dem også med runer. Det ble ødelagt, trolig mellom 1782 og 1786, og DR 285 ble funnet i en bro i 2020. Parene og steinene i spillet er oppfinnelse.",
     "h1": "Par"
   },
   "es": {
@@ -59,7 +59,7 @@ BTJogo.registrar({
     "sub": "El monumento de Hunnestad tenía piedras con imágenes, entre ellas una mujer montada en un lobo con serpientes. Dieciséis piedras aparecen abiertas durante unos segundos y luego se dan la vuelta. Toca dos piedras para abrirlas: si las imágenes son iguales, la pareja queda abierta. Si son distintas, las dos se cierran y eso es un error. Encuentra las 8 parejas antes de que acabe el tiempo. Nueve errores terminan el juego.",
     "perdeu": "Las piedras se perdieron",
     "v1": "¡Todas las parejas halladas!",
-    "v2": "Según Wikipedia, el monumento de Hunnestad, en Escania, tenía ocho piedras cuando Ole Worm lo registró: cinco con imágenes, dos de ellas también con runas. Fue destruido, probablemente entre 1782 y 1786, y la DR 285 se halló en un puente en 2020. Las parejas y las piedras del juego son invención.",
+    "v2": "Según las fuentes, el monumento de Hunnestad, en Escania, tenía ocho piedras cuando Ole Worm lo registró: cinco con imágenes, dos de ellas también con runas. Fue destruido, probablemente entre 1782 y 1786, y la DR 285 se halló en un puente en 2020. Las parejas y las piedras del juego son invención.",
     "h1": "Parejas"
   }
 },

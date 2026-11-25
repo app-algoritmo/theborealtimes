@@ -33,7 +33,7 @@ O poema usa o *kviðuháttr*, uma variante do *fornyrðislag*. As linhas ímpare
 
 ## Sete partes
 
-A Wikipédia descreve a estrutura assim:
+A fonte descreve a estrutura assim:
 
 - **Estrofes 1 a 4:** Egill luta para achar palavras para a dor e lamenta o fim da sua linhagem. A estrofe 4 introduz a imagem de madeira e árvores que corre pelo poema.
 - **Estrofe 5:** lembra a morte dos pais.
@@ -45,7 +45,7 @@ A Wikipédia descreve a estrutura assim:
 
 ## Os deuses no poema
 
-O poema tem cerca de vinte alusões a deuses e mitos nórdicos, algumas das quais não podem ser totalmente compreendidas. Na estrofe 25, a morte aparece personificada como a deusa Hel, à espera num promontório, imagem que a Wikipédia destaca como especialmente marcante. Alguns estudiosos sugeriram que Egill modelou o poema e a dor dele no mito de Odin chorando o filho Baldr.
+O poema tem cerca de vinte alusões a deuses e mitos nórdicos, algumas das quais não podem ser totalmente compreendidas. Na estrofe 25, a morte aparece personificada como a deusa Hel, à espera num promontório, imagem que a fonte destaca como especialmente marcante. Alguns estudiosos sugeriram que Egill modelou o poema e a dor dele no mito de Odin chorando o filho Baldr.
 
 ## O que dizem os estudiosos
 

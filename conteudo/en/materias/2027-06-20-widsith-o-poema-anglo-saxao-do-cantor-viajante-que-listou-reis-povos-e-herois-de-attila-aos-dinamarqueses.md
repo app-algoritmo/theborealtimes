@@ -13,7 +13,7 @@ fontes:
 tags: [widsith, exeter book, anglo-saxon poetry, eormanric, attila, hrothgar, wicinga cynn]
 ---
 
-Widsith, in Old English *Wīdsīþ*, roughly "far-traveller", is a poem of 143 lines also called "The Traveller's Song". According to Wikipedia, it survives only in the Exeter Book (pages 84v–87r), a late-10th-century manuscript that holds about one-sixth of all surviving Old English verse. The book has been at Exeter Cathedral since it was donated in 1076.
+Widsith, in Old English *Wīdsīþ*, roughly "far-traveller", is a poem of 143 lines also called "The Traveller's Song". According to the sources, it survives only in the Exeter Book (pages 84v–87r), a late-10th-century manuscript that holds about one-sixth of all surviving Old English verse. The book has been at Exeter Cathedral since it was donated in 1076.
 
 ## Three catalogues
 

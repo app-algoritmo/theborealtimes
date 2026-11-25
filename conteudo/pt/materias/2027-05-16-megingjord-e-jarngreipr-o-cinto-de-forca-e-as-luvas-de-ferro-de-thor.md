@@ -19,9 +19,9 @@ Quando se fala dos tesouros de Thor, o martelo Mjölnir vem primeiro. A Edda em 
 
 ## O cinto de força
 
-O nome Megingjörð significa "cinto de poder": megin é força, gjörð é cinto. Segundo Snorri Sturluson, quando Thor o aperta, sua força divina cresce, e a Wikipédia resume o efeito como dobrar a força que ele já tem. Na Gylfaginning, logo depois do Prólogo, Thor "cingiu-se com o cinto de força, e sua força divina aumentou".
+O nome Megingjörð significa "cinto de poder": megin é força, gjörð é cinto. Segundo Snorri Sturluson, quando Thor o aperta, sua força divina cresce, e a fonte resume o efeito como dobrar a força que ele já tem. Na Gylfaginning, logo depois do Prólogo, Thor "cingiu-se com o cinto de força, e sua força divina aumentou".
 
-O cinto também aparece na poesia mais antiga. Na Þórsdrápa, um poema do século X de Eilífr Goðrúnarson, feito a serviço do jarl Hákon Sigurðarson, a estrofe 7 faz referência ao cinto. A Wikipédia traduz a expressão que o poeta usa para Thor como "aquele que se beneficia do grande cinto".
+O cinto também aparece na poesia mais antiga. Na Þórsdrápa, um poema do século X de Eilífr Goðrúnarson, feito a serviço do jarl Hákon Sigurðarson, a estrofe 7 faz referência ao cinto. A fonte traduz a expressão que o poeta usa para Thor como "aquele que se beneficia do grande cinto".
 
 ## As luvas de ferro
 

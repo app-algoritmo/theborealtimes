@@ -23,4 +23,4 @@ The Hunnestad Monument had stones with images, among them a woman riding a wolf 
 
 ## The story behind it
 
-According to Wikipedia, the Hunnestad Monument, in Scania, had eight stones when Ole Worm recorded it: five with images, two of them also with runes. It was destroyed, probably between 1782 and 1786, and DR 285 was found in a bridge in 2020. The pairs and the stones of the game are invention. Read the story in [The Hunnestad Monument: the greatest Viking Age work in Scania, destroyed and rediscovered](/the-hunnestad-monument-the-greatest-viking-age-work/).
+According to the sources, the Hunnestad Monument, in Scania, had eight stones when Ole Worm recorded it: five with images, two of them also with runes. It was destroyed, probably between 1782 and 1786, and DR 285 was found in a bridge in 2020. The pairs and the stones of the game are invention. Read the story in [The Hunnestad Monument: the greatest Viking Age work in Scania, destroyed and rediscovered](/the-hunnestad-monument-the-greatest-viking-age-work/).

@@ -32,7 +32,7 @@ Na Saga dos Völsungos, Sigurd mata Fáfnir e leva do tesouro o elmo, o Ægishj�
 
 ## O sinal moderno
 
-O nome mais tarde foi aplicado a um sinal mágico islandês, um desenho de oito braços que hoje se vende como "Elmo do Terror" em joias e tatuagens. Esse símbolo é um sinal de manuscritos mágicos, muito posterior aos poemas, e a Wikipédia só indica que o nome foi dado a ele depois. Não há desenho de elmo nas fontes medievais.
+O nome mais tarde foi aplicado a um sinal mágico islandês, um desenho de oito braços que hoje se vende como "Elmo do Terror" em joias e tatuagens. Esse símbolo é um sinal de manuscritos mágicos, muito posterior aos poemas, e a fonte só indica que o nome foi dado a ele depois. Não há desenho de elmo nas fontes medievais.
 
 ## Em resumo
 

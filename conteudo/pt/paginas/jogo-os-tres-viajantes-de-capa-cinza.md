@@ -23,4 +23,4 @@ O rei Olavo viaja com Finnr Árnason e Þormóðr Kolbrúnarskáld, os três de 
 
 ## A história por trás
 
-Segundo a Wikipédia, na Völsa þáttr o rei Olavo II viaja com apenas Finnr Árnason e Þormóðr Kolbrúnarskáld, os três de capa cinza para esconder quem são, e os três dizem se chamar Grímr, “encapuzado”. As alturas, a ordem que você repete e as trocas de lugar são invenção. Leia a história em [Völsa þáttr: o rei Olavo e o ritual doméstico do völsi na Flateyjarbók](/pt/volsa-thattr-o-rei-olavo-e-o-ritual-domestico-do-volsi-na-flateyjarbok/).
+Segundo as fontes, na Völsa þáttr o rei Olavo II viaja com apenas Finnr Árnason e Þormóðr Kolbrúnarskáld, os três de capa cinza para esconder quem são, e os três dizem se chamar Grímr, “encapuzado”. As alturas, a ordem que você repete e as trocas de lugar são invenção. Leia a história em [Völsa þáttr: o rei Olavo e o ritual doméstico do völsi na Flateyjarbók](/pt/volsa-thattr-o-rei-olavo-e-o-ritual-domestico-do-volsi-na-flateyjarbok/).

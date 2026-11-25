@@ -19,8 +19,8 @@ card:
 
 ## How to play
 
-According to Wikipedia, the outer layer of the Gallehus horns was built from gold rings. Here you stack the rings. A block slides from side to side. Tap the screen, or press Space, to drop it onto the stone stand. Whatever overhangs falls off and the stack gets narrower, but never below a minimum. Missing the stack completely is a mistake. Stack 10 before time runs out. Three mistakes end the game.
+According to the sources, the outer layer of the Gallehus horns was built from gold rings. Here you stack the rings. A block slides from side to side. Tap the screen, or press Space, to drop it onto the stone stand. Whatever overhangs falls off and the stack gets narrower, but never below a minimum. Missing the stack completely is a mistake. Stack 10 before time runs out. Three mistakes end the game.
 
 ## The story behind it
 
-According to Wikipedia, each Gallehus horn was made of double gold sheet, and the outer layer, of 24-carat gold, was built from rings. The horns were stolen and melted down in 1802. The game itself, with its objects and rules, is invention. Read the story in [The Golden Horns of Gallehus: found in 1639 and 1734, melted down in 1802](/the-golden-horns-of-gallehus-found-in-1639-and-1734-melted/).
+According to the sources, each Gallehus horn was made of double gold sheet, and the outer layer, of 24-carat gold, was built from rings. The horns were stolen and melted down in 1802. The game itself, with its objects and rules, is invention. Read the story in [The Golden Horns of Gallehus: found in 1639 and 1734, melted down in 1802](/the-golden-horns-of-gallehus-found-in-1639-and-1734-melted/).

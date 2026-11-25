@@ -23,4 +23,4 @@ Os pechenegues atacavam Kiev nos tempos de Vladimir. Aqui você defende com o es
 
 ## A história por trás
 
-Segundo a Wikipédia, os pechenegues mataram o pai de Vladimir, Sviatoslav, em 972, e seus ataques a Kiev interromperam a campanha de 992. Os golpes do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Vladimir, o Grande: o príncipe de Kiev que voltou do exílio com um exército de varegues e escolheu a fé de Bizâncio](/pt/vladimir-o-grande-o-principe-de-kiev-que-voltou-do-exilio-com-um-exercito-de-varegues-e-escolheu-a-fe-de-bizancio/).
+Segundo as fontes, os pechenegues mataram o pai de Vladimir, Sviatoslav, em 972, e seus ataques a Kiev interromperam a campanha de 992. Os golpes do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Vladimir, o Grande: o príncipe de Kiev que voltou do exílio com um exército de varegues e escolheu a fé de Bizâncio](/pt/vladimir-o-grande-o-principe-de-kiev-que-voltou-do-exilio-com-um-exercito-de-varegues-e-escolheu-a-fe-de-bizancio/).

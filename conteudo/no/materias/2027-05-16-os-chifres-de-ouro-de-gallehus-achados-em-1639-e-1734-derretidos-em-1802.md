@@ -19,7 +19,7 @@ I 1639 og 1734, nær Møgeltønder i Sønderjylland, ble det funnet to gullhorn 
 
 ## De to funnene
 
-Det lengste hornet ble funnet 20. juli 1639 av en bondejente, Kirsten Svendsdatter, som så noe stikke opp av jorden. Hun varslet kong Christian IV, og hornet gikk til prinsen, som lot det gjøre om til drikkehorn med en gullknapp på den smale enden (Wikipedia merker dette som omstridt). Det korteste hornet ble funnet 21. april 1734 av Erich Lassen, omtrent 15 til 20 meter fra det første. Begge ble oppbevart i Det kongelige kunstkammer på Christiansborg.
+Det lengste hornet ble funnet 20. juli 1639 av en bondejente, Kirsten Svendsdatter, som så noe stikke opp av jorden. Hun varslet kong Christian IV, og hornet gikk til prinsen, som lot det gjøre om til drikkehorn med en gullknapp på den smale enden (kilden merker dette som omstridt). Det korteste hornet ble funnet 21. april 1734 av Erich Lassen, omtrent 15 til 20 meter fra det første. Begge ble oppbevart i Det kongelige kunstkammer på Christiansborg.
 
 ## Hvordan de så ut
 

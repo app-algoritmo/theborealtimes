@@ -19,7 +19,7 @@ Before sky, earth and sea, what was there? In Norse mythology the answer has a n
 
 ## The name
 
-In Old Norse, Ginnungagap is usually translated "gaping abyss" or "yawning void". The first part, *ginnunga-*, is generally tied to a verb meaning "to gape" or "to yawn". But Wikipedia notes that this verb does not occur in Old Norse except in Völuspá verse 3, "gap var ginnunga", which may be a play on the term.
+In Old Norse, Ginnungagap is usually translated "gaping abyss" or "yawning void". The first part, *ginnunga-*, is generally tied to a verb meaning "to gape" or "to yawn". But the source notes that this verb does not occur in Old Norse except in Völuspá verse 3, "gap var ginnunga", which may be a play on the term.
 
 Scholars do not agree on the origin. Ursula Dronke suggested the word was borrowed from Old High German *ginunga*, and notes that Múspell also seems to have been borrowed from that language. Another explanation links the prefix *ginn-* to sacred words, such as *ginn-heilagr* and *ginn-regin*, used of the gods, and *ginn-runa*, used of the runes. In that case Ginnungagap would be a "magical space full of creative power".
 
@@ -39,7 +39,7 @@ Next comes Auðumbla, the cow formed from the rime, who fed Ymir with four strea
 
 ## A name used in other poems
 
-Wikipedia also records that Þjóðólfr of Hvinir plays on the term in his *Haustlöng*, with the phrase "ginnunga vé". Dronke notes this.
+The source also records that Þjóðólfr of Hvinir plays on the term in his *Haustlöng*, with the phrase "ginnunga vé". Dronke notes this.
 
 ## From myth to map
 
@@ -47,7 +47,7 @@ Centuries later, the name left the poems and landed on maps. In the early fiftee
 
 ## What the sources do not say
 
-Wikipedia does not mention, and so this text does not claim, what the void held before the ice and the fire. Snorri describes the meeting of the two extremes, but he does not explain where the Void came from.
+The source does not mention, and so this text does not claim, what the void held before the ice and the fire. Snorri describes the meeting of the two extremes, but he does not explain where the Void came from.
 
 ## In short
 

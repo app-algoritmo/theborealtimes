@@ -27,7 +27,7 @@ La palabra se vincula al nórdico antiguo þula, «letanía», y significa algo 
 
 ## Los tres cuernos
 
-La piedra tiene tres cuernos rayados, posiblemente para beber, entrelazados en triángulo. Wikipedia compara la figura con anillos borromeos incompletos. Un diseño parecido aparece en la piedra de Lillbjärs, en Gotland, junto al valknut, pero la relación entre los dos símbolos se desconoce. La piedra de Snoldelev lleva además una esvástica, un símbolo antiguo anterior a su uso moderno.
+La piedra tiene tres cuernos rayados, posiblemente para beber, entrelazados en triángulo. La fuente compara la figura con anillos borromeos incompletos. Un diseño parecido aparece en la piedra de Lillbjärs, en Gotland, junto al valknut, pero la relación entre los dos símbolos se desconoce. La piedra de Snoldelev lleva además una esvástica, un símbolo antiguo anterior a su uso moderno.
 
 ## Una fecha aproximada
 

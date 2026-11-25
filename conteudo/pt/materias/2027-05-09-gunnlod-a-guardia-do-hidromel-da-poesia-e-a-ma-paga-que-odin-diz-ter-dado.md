@@ -30,7 +30,7 @@ Em Hávamál, a história é contada pelo próprio Odin, e Gunnlöð recebe mais
 
 ## O que as fontes não contam
 
-A Wikipédia não descreve nenhuma punição ou consequência para Gunnlöð além do que a história diz. Em Hávamál, a "má paga" que Odin menciona fica sem explicação. As duas versões divergem em vários detalhes, e nenhuma diz o que foi dela depois.
+A fonte não descreve nenhuma punição ou consequência para Gunnlöð além do que a história diz. Em Hávamál, a "má paga" que Odin menciona fica sem explicação. As duas versões divergem em vários detalhes, e nenhuma diz o que foi dela depois.
 
 ## Em resumo
 

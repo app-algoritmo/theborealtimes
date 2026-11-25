@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Segundo a Crônica Primária, Oleg escondeu guerreiros nos barcos e se apresentou como mercador. Guerreiros de elmo de ferro e mercadores de manto azul caminham até o cais de Kiev. Toque nos guerreiros para detê-los antes que cheguem ao cais. Não toque nos mercadores, que vêm negociar. Um guerreiro que chega ao cais é erro, e tocar num mercador também. Detenha 14 guerreiros antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "Os guerreiros chegaram ao cais",
     "v1": "O cais está seguro!",
-    "v2": "Segundo a Crônica Primária, em 882 Oleg escondeu seus guerreiros nos barcos e mandou dizer a Askold e Dir que era um mercador a caminho da Grécia. Quando eles saíram, os soldados saltaram dos barcos. A Wikipédia lembra que a história é semilendária. Os guerreiros que avançam e o ritmo do jogo são invenção.",
+    "v2": "Segundo a Crônica Primária, em 882 Oleg escondeu seus guerreiros nos barcos e mandou dizer a Askold e Dir que era um mercador a caminho da Grécia. Quando eles saíram, os soldados saltaram dos barcos. A fonte lembra que a história é semilendária. Os guerreiros que avançam e o ritmo do jogo são invenção.",
     "h1": "Guerreiros"
   },
   "en": {
@@ -29,7 +29,7 @@ BTJogo.registrar({
     "sub": "According to the Primary Chronicle, Oleg hid warriors in boats and posed as a merchant. Warriors in iron helmets and merchants in blue cloaks walk toward the quay of Kiev. Tap the warriors to stop them before they reach the quay. Do not tap the merchants, who come to trade. A warrior who reaches the quay is a mistake, and so is tapping a merchant. Stop 14 warriors before time runs out. Three mistakes end the game.",
     "perdeu": "The warriors reached the quay",
     "v1": "The quay is safe!",
-    "v2": "According to the Primary Chronicle, in 882 Oleg hid his warriors in boats and sent word to Askold and Dir that he was a merchant on his way to Greece. When they came out, the soldiers leaped from the boats. Wikipedia reminds us that the story is semi-legendary. The advancing warriors and the pace of the game are invention.",
+    "v2": "According to the Primary Chronicle, in 882 Oleg hid his warriors in boats and sent word to Askold and Dir that he was a merchant on his way to Greece. When they came out, the soldiers leaped from the boats. The source reminds us that the story is semi-legendary. The advancing warriors and the pace of the game are invention.",
     "h1": "Warriors"
   },
   "no": {
@@ -44,7 +44,7 @@ BTJogo.registrar({
     "sub": "Ifølge Nestorkrøniken skjulte Oleg krigere i båtene og utga seg for å være kjøpmann. Krigere med jernhjelm og kjøpmenn i blå kapper går mot kaia i Kiev. Trykk på krigerne for å stoppe dem før de når kaia. Ikke trykk på kjøpmennene, som kommer for å handle. En kriger som når kaia, er en feil, og det er også å trykke på en kjøpmann. Stopp 14 krigere før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Krigerne nådde kaia",
     "v1": "Kaia er trygg!",
-    "v2": "Ifølge Nestorkrøniken skjulte Oleg i 882 krigerne sine i båtene og lot Askold og Dir få vite at han var en kjøpmann på vei til Hellas. Da de kom ut, hoppet soldatene ut av båtene. Wikipedia minner om at historien er halvt legendarisk. Krigerne som rykker fram, og tempoet i spillet er oppfinnelse.",
+    "v2": "Ifølge Nestorkrøniken skjulte Oleg i 882 krigerne sine i båtene og lot Askold og Dir få vite at han var en kjøpmann på vei til Hellas. Da de kom ut, hoppet soldatene ut av båtene. Kilden minner om at historien er halvt legendarisk. Krigerne som rykker fram, og tempoet i spillet er oppfinnelse.",
     "h1": "Krigere"
   },
   "es": {
@@ -59,7 +59,7 @@ BTJogo.registrar({
     "sub": "Según la Crónica Primaria, Oleg escondió guerreros en los barcos y se hizo pasar por mercader. Guerreros con casco de hierro y mercaderes con capa azul caminan hacia el muelle de Kiev. Toca a los guerreros para detenerlos antes de que lleguen al muelle. No toques a los mercaderes, que vienen a comerciar. Un guerrero que llega al muelle es un error, y tocar a un mercader también. Detén a 14 guerreros antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "Los guerreros llegaron al muelle",
     "v1": "¡El muelle está seguro!",
-    "v2": "Según la Crónica Primaria, en 882 Oleg escondió a sus guerreros en los barcos y mandó decir a Askold y Dir que era un mercader de camino a Grecia. Cuando salieron, los soldados saltaron de los barcos. Wikipedia recuerda que la historia es semilegendaria. Los guerreros que avanzan y el ritmo del juego son invención.",
+    "v2": "Según la Crónica Primaria, en 882 Oleg escondió a sus guerreros en los barcos y mandó decir a Askold y Dir que era un mercader de camino a Grecia. Cuando salieron, los soldados saltaron de los barcos. La fuente recuerda que la historia es semilegendaria. Los guerreros que avanzan y el ritmo del juego son invención.",
     "h1": "Guerreros"
   }
 },

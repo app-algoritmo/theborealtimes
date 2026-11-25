@@ -13,7 +13,7 @@ fontes:
 tags: [engelbrekt, bergslagen, dalarna, erik da pomerânia, revolta, arboga, riksdag, suécia]
 ---
 
-Engelbrekt Engelbrektsson (anos 1390 – 4 de maio de 1436) foi um nobre e líder militar sueco de ascendência alemã. Segundo a Wikipédia, tinha uma mina e uma forja em Bergslagen e era da paróquia de Norberg, em Västmanland. A família chegara à Suécia na década de 1360.
+Engelbrekt Engelbrektsson (anos 1390 – 4 de maio de 1436) foi um nobre e líder militar sueco de ascendência alemã. Segundo as fontes, tinha uma mina e uma forja em Bergslagen e era da paróquia de Norberg, em Västmanland. A família chegara à Suécia na década de 1360.
 
 ## As queixas dos mineiros
 

@@ -18,7 +18,7 @@ Quando dois nórdicos discordavam e não havia acordo, podiam resolver a questã
 
 ## O campo
 
-Segundo a Wikipédia, a hólmganga se lutava sobre um couro de boi ou um manto de cerca de 3 metros de lado, preso ao chão com estacas usadas só para isso. Ao redor do couro se riscavam três bordas, cada uma a cerca de 30 centímetros da outra. Estacas de aveleira marcavam os cantos externos. A Saga de Kormák dá a entender que um touro podia ser sacrificado antes, com o couro esticado no chão de luta. A Wikipédia diz que ninguém sabe como as estacas eram colocadas.
+Segundo as fontes, a hólmganga se lutava sobre um couro de boi ou um manto de cerca de 3 metros de lado, preso ao chão com estacas usadas só para isso. Ao redor do couro se riscavam três bordas, cada uma a cerca de 30 centímetros da outra. Estacas de aveleira marcavam os cantos externos. A Saga de Kormák dá a entender que um touro podia ser sacrificado antes, com o couro esticado no chão de luta. A fonte diz que ninguém sabe como as estacas eram colocadas.
 
 ## As regras
 
@@ -32,11 +32,11 @@ Segundo a Wikipédia, a hólmganga se lutava sobre um couro de boi ou um manto d
 
 ## Os duelos mais antigos
 
-Nos primeiros duelos, a luta ia até a morte ou a incapacidade de um dos lutadores. Matar o oponente não era assassinato e não trazia banimento nem pagamento de indenização. Na Noruega, segundo a Saga de Egill, citada na Wikipédia, o vencedor podia reclamar tudo o que o perdedor possuía.
+Nos primeiros duelos, a luta ia até a morte ou a incapacidade de um dos lutadores. Matar o oponente não era assassinato e não trazia banimento nem pagamento de indenização. Na Noruega, segundo a Saga de Egill, citada na fonte, o vencedor podia reclamar tudo o que o perdedor possuía.
 
 ## Os textos
 
-A Wikipédia cita a Saga de Kormák, que descreve o couro, as estacas, as bordas e as hastes de aveleira, e a Saga de Egill, que traz as regras do desafio e dos direitos do vencedor. Menciona também o Västgötalagen, fragmento do século XIII da lei da Västergötland, com normas sobre a hólmganga ou o *einvígi*, o julgamento por combate.
+A fonte cita a Saga de Kormák, que descreve o couro, as estacas, as bordas e as hastes de aveleira, e a Saga de Egill, que traz as regras do desafio e dos direitos do vencedor. Menciona também o Västgötalagen, fragmento do século XIII da lei da Västergötland, com normas sobre a hólmganga ou o *einvígi*, o julgamento por combate.
 
 ## O fim da hólmganga
 

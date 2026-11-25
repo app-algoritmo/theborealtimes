@@ -13,7 +13,7 @@ fontes:
 tags: [franks casket, auzon, weland, runes, old english, northumbria, british museum]
 ---
 
-The Franks Casket, or Auzon Casket, is a small chest of whale bone from the early 8th century, now in the British Museum. According to Wikipedia, scholars generally place its origin in Northumbria. It measures 22.9 cm long, 19 cm wide and 10.9 cm high, and its surfaces are covered with scenes carved with a knife, along with runic inscriptions.
+The Franks Casket, or Auzon Casket, is a small chest of whale bone from the early 8th century, now in the British Museum. According to the sources, scholars generally place its origin in Northumbria. It measures 22.9 cm long, 19 cm wide and 10.9 cm high, and its surfaces are covered with scenes carved with a knife, along with runic inscriptions.
 
 ## From Brioude to London
 

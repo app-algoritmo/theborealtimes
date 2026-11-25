@@ -23,4 +23,4 @@ Hunnestad-monumentet hadde steiner med bilder, blant dem en kvinne som rir på e
 
 ## Historien bak
 
-Ifølge Wikipedia hadde Hunnestad-monumentet i Skåne åtte steiner da Ole Worm tegnet det ned: fem med bilder, to av dem også med runer. Det ble ødelagt, trolig mellom 1782 og 1786, og DR 285 ble funnet i en bro i 2020. Parene og steinene i spillet er oppfinnelse. Les historien i [Hunnestad-monumentet: det største verket fra vikingtiden i Skåne, ødelagt og gjenfunnet](/no/hunnestad-monumentet-det-storste-verket-fra-vikingtiden/).
+Ifølge kildene hadde Hunnestad-monumentet i Skåne åtte steiner da Ole Worm tegnet det ned: fem med bilder, to av dem også med runer. Det ble ødelagt, trolig mellom 1782 og 1786, og DR 285 ble funnet i en bro i 2020. Parene og steinene i spillet er oppfinnelse. Les historien i [Hunnestad-monumentet: det største verket fra vikingtiden i Skåne, ødelagt og gjenfunnet](/no/hunnestad-monumentet-det-storste-verket-fra-vikingtiden/).

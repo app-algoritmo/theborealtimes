@@ -14,7 +14,7 @@ fontes:
 tags: [jordanes, getica, scandza, skandinavia, goterne, suehanerne, 500-tallet]
 ---
 
-Jordanes var en østromersk embetsmann fra 500-tallet, av gotisk avstamning, som skrev på senlatin. Ifølge Wikipedia ble hans mest kjente verk, *Getica*, skrevet i Konstantinopel omkring 551, som et sammendrag av Cassiodors tapte gotiske historie i tolv bind. Han sier at han bare hadde tre dager på å bruke den, og støttet seg derfor mye på hukommelsen.
+Jordanes var en østromersk embetsmann fra 500-tallet, av gotisk avstamning, som skrev på senlatin. Ifølge kildene ble hans mest kjente verk, *Getica*, skrevet i Konstantinopel omkring 551, som et sammendrag av Cassiodors tapte gotiske historie i tolv bind. Han sier at han bare hadde tre dager på å bruke den, og støttet seg derfor mye på hukommelsen.
 
 ## Øya Scandza
 
@@ -22,7 +22,7 @@ Jordanes var en østromersk embetsmann fra 500-tallet, av gotisk avstamning, som
 
 ## Folkene han lister opp
 
-Adogit levde med uavbrutt lys i førti dager og netter midtsommers, og i uavbrutt mørke like lenge midtvinters. *Screrefennae* var jegere og sankere, og Wikipedia identifiserer dem med samene. Suehanerne, vanligvis lest som svear, hadde praktfulle hester og leverte svarteværskinn til det romerske markedet. Daniene, danene, var «av samme stamme» og drev herulerne bort fra landene deres. Listen omfatter også vagoter, gautigoter, ostrogoter, rugier, raumariker og mange andre navn, noen trolig dubletter, siden de kom fra ulike reisende. Rodwulf fra Bohuslän er en av skandinavene som sluttet seg til goterne.
+Adogit levde med uavbrutt lys i førti dager og netter midtsommers, og i uavbrutt mørke like lenge midtvinters. *Screrefennae* var jegere og sankere, og kilden identifiserer dem med samene. Suehanerne, vanligvis lest som svear, hadde praktfulle hester og leverte svarteværskinn til det romerske markedet. Daniene, danene, var «av samme stamme» og drev herulerne bort fra landene deres. Listen omfatter også vagoter, gautigoter, ostrogoter, rugier, raumariker og mange andre navn, noen trolig dubletter, siden de kom fra ulike reisende. Rodwulf fra Bohuslän er en av skandinavene som sluttet seg til goterne.
 
 ## Kom goterne derfra?
 

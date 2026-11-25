@@ -23,4 +23,4 @@ In the saga, Ragnar's men are so struck on seeing Áslaug that they let the brea
 
 ## The story behind it
 
-According to Wikipedia, Ragnar's men saw her bathing and were so struck that they let the bread burn. When Ragnar asked why, they told him about her. The game itself, with its objects and rules, is invention. Read the story in [Áslaug, "Kráka": the daughter of Sigurd and Brynhildr, the harp and the woman who came neither clothed nor naked](/aslaug-kraka-the-daughter-of-sigurd-and-brynhildr-the-harp/).
+According to the sources, Ragnar's men saw her bathing and were so struck that they let the bread burn. When Ragnar asked why, they told him about her. The game itself, with its objects and rules, is invention. Read the story in [Áslaug, "Kráka": the daughter of Sigurd and Brynhildr, the harp and the woman who came neither clothed nor naked](/aslaug-kraka-the-daughter-of-sigurd-and-brynhildr-the-harp/).

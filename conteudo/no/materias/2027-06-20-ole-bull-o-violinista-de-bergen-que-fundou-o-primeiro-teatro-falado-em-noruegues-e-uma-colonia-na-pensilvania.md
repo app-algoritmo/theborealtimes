@@ -13,7 +13,7 @@ fontes:
 tags: [ole bull, fiolin, bergen, det norske theater, oleana, grieg, 1800-tallet]
 ---
 
-Ole Bull ble født 5. februar 1810 i Bergen, den gang en del av Danmark-Norge, som eldst av ti søsken. Ifølge Wikipedia kunne han som 4–5-åring allerede spille på fiolin sangene moren spilte. Som 9-åring var han førstefiolinist i Bergens teaterorkester og solist med Bergens filharmoniske orkester. Faren ville at han skulle bli prest.
+Ole Bull ble født 5. februar 1810 i Bergen, den gang en del av Danmark-Norge, som eldst av ti søsken. Ifølge kildene kunne han som 4–5-åring allerede spille på fiolin sangene moren spilte. Som 9-åring var han førstefiolinist i Bergens teaterorkester og solist med Bergens filharmoniske orkester. Faren ville at han skulle bli prest.
 
 ## Fra stryk på universitetet til Paris
 

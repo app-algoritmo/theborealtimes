@@ -31,7 +31,7 @@ Ifølge Orkneyinga saga utfordret Sigurd Máel Brigte, «tannskjeven», til en k
 
 ## Døden
 
-Sigurd bandt hodet til salen som trofé. En av de fremstående tennene ridset beinet hans, såret infiserte og han døde. Wikipedia noterer at tannen varierer mellom versjonene, og at den mest konkrete kommer fra sagaen.
+Sigurd bandt hodet til salen som trofé. En av de fremstående tennene ridset beinet hans, såret infiserte og han døde. Kilden noterer at tannen varierer mellom versjonene, og at den mest konkrete kommer fra sagaen.
 
 ## Graven og arvingene
 

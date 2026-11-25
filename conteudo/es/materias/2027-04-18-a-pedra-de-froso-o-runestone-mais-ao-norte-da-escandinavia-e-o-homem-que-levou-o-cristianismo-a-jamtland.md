@@ -25,9 +25,9 @@ Parafraseada: Austmaðr, hijo de Guðfastr, hizo levantar esta piedra y construi
 
 ## El hombre y los nombres
 
-Austmaðr significa «hombre del este». Wikipedia lo describe como un hablante del nórdico occidental antiguo, procedente de la Escandinavia continental, y da el nombre de su padre, Guðfastr. Más allá de eso, la página no dice nada de su vida.
+Austmaðr significa «hombre del este». La fuente lo describe como un hablante del nórdico occidental antiguo, procedente de la Escandinavia continental, y da el nombre de su padre, Guðfastr. Más allá de eso, la página no dice nada de su vida.
 
-Los nombres tienen significados. Guðfastr es «fiel a Dios». Ásbjörn es «oso divino». Y Trjónn, que Wikipedia glosa como «hocico», es un nombre específico de Jämtland. Los otros dos nombres, Trjónn y Steinn, son los de los maestros de runas.
+Los nombres tienen significados. Guðfastr es «fiel a Dios». Ásbjörn es «oso divino». Y Trjónn, que la fuente glosa como «hocico», es un nombre específico de Jämtland. Los otros dos nombres, Trjónn y Steinn, son los de los maestros de runas.
 
 ## El puente y la barcaza
 
@@ -35,7 +35,7 @@ La inscripción dice que Ásbjörn construyó el puente, y la piedra estaba en e
 
 ## Por qué importa
 
-Wikipedia dice que la piedra conmemora la cristianización de Jämtland por Austmaðr, en lugar de ser un cenotafio, un recuerdo de alguien enterrado en otro lugar. La página lo describe como único, aunque no cita fuente para ello. También dice que, en todo el mundo, la piedra rúnica más septentrional es la de Kingittorsuaq, en Groenlandia. La de Frösö es la más septentrional de Escandinavia.
+La fuente dice que la piedra conmemora la cristianización de Jämtland por Austmaðr, en lugar de ser un cenotafio, un recuerdo de alguien enterrado en otro lugar. La página lo describe como único, aunque no cita fuente para ello. También dice que, en todo el mundo, la piedra rúnica más septentrional es la de Kingittorsuaq, en Groenlandia. La de Frösö es la más septentrional de Escandinavia.
 
 ## Lo que la piedra no dice
 

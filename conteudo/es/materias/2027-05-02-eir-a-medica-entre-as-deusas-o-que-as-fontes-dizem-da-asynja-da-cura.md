@@ -19,17 +19,17 @@ Entre las diosas nórdicas, pocas tienen tan pocas líneas como Eir. Y sin embar
 
 ## El nombre
 
-En nórdico antiguo, *eir* significa «protección», «ayuda», «misericordia». Wikipedia describe a Eir como una diosa o valquiria asociada a la habilidad médica y la compara con la diosa griega Higía.
+En nórdico antiguo, *eir* significa «protección», «ayuda», «misericordia». La fuente describe a Eir como una diosa o valquiria asociada a la habilidad médica y la compara con la diosa griega Higía.
 
 ## Qué dicen las fuentes
 
-En el **Fjölsvinnsmál**, de la Edda poética, el vigía Fjölsviðr enumera las doncellas que sirven a Menglöð. Entre ellas está Eir. Se sientan en el monte Lyfjaberg, «monte de la curación». Fjölsviðr dice que las ofrendas hechas a esas doncellas traen ayuda y protección contra la peste y el peligro. Wikipedia no señala ahí una función concreta de Eir más allá de su presencia en la lista.
+En el **Fjölsvinnsmál**, de la Edda poética, el vigía Fjölsviðr enumera las doncellas que sirven a Menglöð. Entre ellas está Eir. Se sientan en el monte Lyfjaberg, «monte de la curación». Fjölsviðr dice que las ofrendas hechas a esas doncellas traen ayuda y protección contra la peste y el peligro. La fuente no señala ahí una función concreta de Eir más allá de su presencia en la lista.
 
 En la **Gylfaginning**, en el cap. 35, Hár cita a Eir en tercer lugar entre las dieciséis ásynjur y dice que es «una médica extremadamente buena». No se dice nada más de ella.
 
 En el **Skáldskaparmál**, en el cap. 75, Eir aparece en una lista de nombres de valquirias, pero no en la lista de ásynjur del mismo capítulo.
 
-En la **poesía escáldica**, Eir sirve de kenning para mujer. Wikipedia da ejemplos como «Eir de la riqueza», en la Saga de Gísli, y usos de los poetas del siglo X Kormákr Ögmundarson y Hallfreðr vandræðaskáld. El nombre siguió usándose en kennings de mujer en las rímur.
+En la **poesía escáldica**, Eir sirve de kenning para mujer. La fuente da ejemplos como «Eir de la riqueza», en la Saga de Gísli, y usos de los poetas del siglo X Kormákr Ögmundarson y Hallfreðr vandræðaskáld. El nombre siguió usándose en kennings de mujer en las rímur.
 
 ## Un palo de runas de Bergen
 
@@ -47,7 +47,7 @@ Los estudiosos no coinciden.
 
 ## Lo que las fuentes no dan
 
-No hay ningún mito en que Eir cure a alguien. Wikipedia no registra ningún episodio en que trate a un dios herido. Lo que existe son tres cosas: una frase de Snorri, una lista en el Fjölsvinnsmál y el uso del nombre en versos.
+No hay ningún mito en que Eir cure a alguien. La fuente no registra ningún episodio en que trate a un dios herido. Lo que existe son tres cosas: una frase de Snorri, una lista en el Fjölsvinnsmál y el uso del nombre en versos.
 
 ## En resumen
 

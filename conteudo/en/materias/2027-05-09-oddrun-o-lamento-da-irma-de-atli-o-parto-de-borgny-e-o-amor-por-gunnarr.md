@@ -18,7 +18,7 @@ The Oddrúnargrátr, "lament of Oddrún", is one of the short poems of the Poeti
 
 ## The poem in the manuscript
 
-According to Wikipedia, the poem is anonymous, in fornyrðislag, and thought to be of relatively late composition, perhaps from the eleventh century. In the Codex Regius it comes after Guðrúnarkviða III and before Atlakviða. Bellows notes in his introduction that the base is the German legend of Sigurd and Atli, but Oddrún and the minor figures, Borgný and Vilmundr, are Northern additions.
+According to the sources, the poem is anonymous, in fornyrðislag, and thought to be of relatively late composition, perhaps from the eleventh century. In the Codex Regius it comes after Guðrúnarkviða III and before Atlakviða. Bellows notes in his introduction that the base is the German legend of Sigurd and Atli, but Oddrún and the minor figures, Borgný and Vilmundr, are Northern additions.
 
 ## Borgný cannot give birth
 

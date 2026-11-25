@@ -19,7 +19,7 @@ Few names in the Icelandic sagas stir as many opinions as Hallgerðr langbrók. 
 
 ## Who she was
 
-Wikipedia says Hallgerðr was the daughter of Höskuldr Dala-Kollsson, who lived at Höskuldsstaðir in Laxárdalr. Her mother hardly appears in the narrative. Landnámabók names as her brothers or half-brothers Þorleikr, Olaf the Peacock, Helgi, Þúriðr and Þorgerðr.
+The source says Hallgerðr was the daughter of Höskuldr Dala-Kollsson, who lived at Höskuldsstaðir in Laxárdalr. Her mother hardly appears in the narrative. Landnámabók names as her brothers or half-brothers Þorleikr, Olaf the Peacock, Helgi, Þúriðr and Þorgerðr.
 
 As an adult she had hair "so long that it could veil her whole body". She was tall, which gave her the nickname **langbrók**, "long breeches". Landnámabók gives another, **snúinbrók**, "twisted breeches". She is described as impetuous and wilful. Her foster-father Þjóstólfr, violent and intransigent, is said to have influenced her for the worse.
 
@@ -31,7 +31,7 @@ As an adult she had hair "so long that it could veil her whole body". She was ta
 
 ## The feud with Bergþóra
 
-Wikipedia says Hallgerðr was one of the main instigators of the feud between Gunnar and Njáll Þorgeirsson. She and Njáll's wife, Bergþóra Skarphéðinsdóttir, made escalating retaliatory strikes, sending people to kill members of each other's households.
+The source says Hallgerðr was one of the main instigators of the feud between Gunnar and Njáll Þorgeirsson. She and Njáll's wife, Bergþóra Skarphéðinsdóttir, made escalating retaliatory strikes, sending people to kill members of each other's households.
 
 ## The hair
 
@@ -51,7 +51,7 @@ After Gunnar's death she settles at Grjotá with her son Grani. In the saga, her
 
 ## What the text does not settle
 
-Wikipedia shows that readers disagree. The saga tells the actions, but whoever reads them may see them as malice, as reaction, or as both at once.
+The source shows that readers disagree. The saga tells the actions, but whoever reads them may see them as malice, as reaction, or as both at once.
 
 ## In short
 

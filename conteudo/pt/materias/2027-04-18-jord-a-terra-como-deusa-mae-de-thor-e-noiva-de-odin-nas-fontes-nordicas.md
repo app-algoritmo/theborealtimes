@@ -19,7 +19,7 @@ Em nórdico antigo, *jörð* quer dizer "terra", e é também o nome de uma deus
 
 ## Os pais, segundo a Gylfaginning
 
-Na Gylfaginning, seção 10, a Edda em prosa conta que um gigante chamado Narfi tem uma filha, Nótt, a Noite. Ela casa com Naglfari e depois com Annar, e a filha dos dois é Jörð, "Terra". A Wikipédia observa que esse trecho varia conforme o manuscrito. No manuscrito mais antigo, o U, Jörð é a esposa de Dellingr e mãe de Dagr, o Dia. Nos manuscritos R, W e T, é Nótt quem ocupa esse papel.
+Na Gylfaginning, seção 10, a Edda em prosa conta que um gigante chamado Narfi tem uma filha, Nótt, a Noite. Ela casa com Naglfari e depois com Annar, e a filha dos dois é Jörð, "Terra". A fonte observa que esse trecho varia conforme o manuscrito. No manuscrito mais antigo, o U, Jörð é a esposa de Dellingr e mãe de Dagr, o Dia. Nos manuscritos R, W e T, é Nótt quem ocupa esse papel.
 
 ## A mãe de Thor
 
@@ -33,7 +33,7 @@ Na Völuspá, Thor é chamado de *mögr Hlóðyniar* e de *Fjörgyniar burr*. Os
 
 ## "Noiva de Odin"
 
-No Skáldskaparmál, seção 90, há uma longa lista de perífrases para a terra. Entre elas, Jörð é "noiva de Odin", "filha de Önar" e "mãe de Thor", além de "chão e base do salão dos ventos". Na seção 19, uma perífrase de Frigg a chama de "rival de Iord e de Rind". Isso mostra que os poetas pensavam em Odin como tendo tido uma ligação com Jörð, mas as fontes não contam como foi. O estudioso John Lindow, citado na Wikipédia, argumenta que a relação provavelmente não era um casamento.
+No Skáldskaparmál, seção 90, há uma longa lista de perífrases para a terra. Entre elas, Jörð é "noiva de Odin", "filha de Önar" e "mãe de Thor", além de "chão e base do salão dos ventos". Na seção 19, uma perífrase de Frigg a chama de "rival de Iord e de Rind". Isso mostra que os poetas pensavam em Odin como tendo tido uma ligação com Jörð, mas as fontes não contam como foi. O estudioso John Lindow, citado na fonte, argumenta que a relação provavelmente não era um casamento.
 
 ## Uma deusa que é o chão
 

@@ -13,7 +13,7 @@ fontes:
 tags: [björn jernside, hastein, luni, middelhavet, seinen, vikinger, ragnar lodbrok]
 ---
 
-Björn Jernside (svensk *Björn Järnsida*) er kjent fra to slags kilder. Ifølge Wikipedia nevner samtidige frankiske annaler, som dem fra Saint-Bertin, en vikinghøvding ved navn Björn i Vest-Frankerriket i 855 og 858. Senere fortellinger står for nesten hele slektshistorien: Vilhelm av Jumièges (ca. 1070) er den eldste teksten som beskriver opprinnelsen hans, og Saxo Grammaticus (ca. 1200) gjør ham til konge av Sverige.
+Björn Jernside (svensk *Björn Järnsida*) er kjent fra to slags kilder. Ifølge kildene nevner samtidige frankiske annaler, som dem fra Saint-Bertin, en vikinghøvding ved navn Björn i Vest-Frankerriket i 855 og 858. Senere fortellinger står for nesten hele slektshistorien: Vilhelm av Jumièges (ca. 1070) er den eldste teksten som beskriver opprinnelsen hans, og Saxo Grammaticus (ca. 1200) gjør ham til konge av Sverige.
 
 ## Ragnars sønner
 

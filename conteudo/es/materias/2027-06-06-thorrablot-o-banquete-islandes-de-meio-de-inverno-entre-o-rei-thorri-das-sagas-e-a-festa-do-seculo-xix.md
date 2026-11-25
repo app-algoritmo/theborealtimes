@@ -19,7 +19,7 @@ El Þorrablót es una cena de mediados de invierno de Islandia. El nombre une Þ
 
 ## El rey Þorri en las fuentes antiguas
 
-En la Orkneyinga saga, Þorri aparece como un rey antiguo, descrito como un finn, hijo de Snær, «nieve». Es el trasfondo literario del nombre. En el texto Hversu Noregr byggðist, de la Flateyjarbók, los kvenes, un pueblo del norte, hacían un sacrificio anual a Þorri a mediados del invierno. Pero Wikipedia no dice que ese sacrificio fuera una práctica continua hasta la época moderna.
+En la Orkneyinga saga, Þorri aparece como un rey antiguo, descrito como un finn, hijo de Snær, «nieve». Es el trasfondo literario del nombre. En el texto Hversu Noregr byggðist, de la Flateyjarbók, los kvenes, un pueblo del norte, hacían un sacrificio anual a Þorri a mediados del invierno. Pero la fuente no dice que ese sacrificio fuera una práctica continua hasta la época moderna.
 
 ## La fiesta moderna
 

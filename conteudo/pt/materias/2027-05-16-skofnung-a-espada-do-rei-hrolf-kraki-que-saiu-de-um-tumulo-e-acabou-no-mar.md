@@ -20,7 +20,7 @@ Skofnung é a espada do lendário rei dinamarquês Hrólf Kraki. A Hrólfs saga 
 
 ## Do túmulo à saga
 
-Segundo a Wikipédia, Skeggi de Miðfjörðr foi escolhido por sorteio para arrombar um monte funerário e recuperou Skofnung. Na Laxdœla saga, a espada está com seu filho Eiðr de Áss, e a saga diz que ela fora tirada do monte de Hrólf Kraki. Os estudiosos comparam o episódio a outros em que um herói entra num túmulo e sai com uma arma, como Grettir em outra saga.
+Segundo as fontes, Skeggi de Miðfjörðr foi escolhido por sorteio para arrombar um monte funerário e recuperou Skofnung. Na Laxdœla saga, a espada está com seu filho Eiðr de Áss, e a saga diz que ela fora tirada do monte de Hrólf Kraki. Os estudiosos comparam o episódio a outros em que um herói entra num túmulo e sai com uma arma, como Grettir em outra saga.
 
 ## As regras da espada
 

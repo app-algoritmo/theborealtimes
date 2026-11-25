@@ -13,7 +13,7 @@ fontes:
 tags: [ólavsøka, færøyene, tórshavn, sankt olav, stiklestad, kjededans, kappror, løgting]
 ---
 
-Ólavsøka er Færøyenes største sommerfest. Den varer to dager, 28. og 29. juli, og ifølge Wikipedia er den for de fleste færinger en nasjonal fridag, sammen med flaggdagen 25. april.
+Ólavsøka er Færøyenes største sommerfest. Den varer to dager, 28. og 29. juli, og ifølge kildene er den for de fleste færinger en nasjonal fridag, sammen med flaggdagen 25. april.
 
 ## Navnet
 
@@ -31,6 +31,6 @@ De nasjonale roefinalene er 28. juli og er et av høydepunktene i færøysk idre
 
 ## Kildens begrensninger
 
-Wikipedia-artikkelen advarer om at den trenger flere kilder, og forteller ikke festens historie over tid, bare opprinnelsen til navnet og koblingen til 1030. Nøyaktige tidspunkt, som for kantaten, varierer fra år til år, og fagforeningene har ulike ordninger for fridagen.
+Kilden-artikkelen advarer om at den trenger flere kilder, og forteller ikke festens historie over tid, bare opprinnelsen til navnet og koblingen til 1030. Nøyaktige tidspunkt, som for kantaten, varierer fra år til år, og fagforeningene har ulike ordninger for fridagen.
 
 For å ro i riktig takt, spill [Rytmen i regattaen](/no/spill-rytmen-i-regattaen/).

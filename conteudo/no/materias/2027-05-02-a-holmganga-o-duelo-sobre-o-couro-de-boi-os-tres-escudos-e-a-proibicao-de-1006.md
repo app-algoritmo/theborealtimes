@@ -18,7 +18,7 @@ Når to nordboere var uenige og det ikke var mulig å komme til et forlik, kunne
 
 ## Banen
 
-Ifølge Wikipedia ble hólmgangen utkjempet på en oksehud eller en kappe på omtrent 3 meter på hver side, festet til bakken med staker som bare ble brukt til dette. Rundt huden ble det risset tre kanter, hver omtrent en fot (0,30 m) fra den neste. Hasselstaver markerte de ytre hjørnene. Kormáks saga antyder at en okse kunne ofres på forhånd, med huden utspent over kampplassen. Wikipedia sier at man ikke vet hvordan stakene ble satt.
+Ifølge kildene ble hólmgangen utkjempet på en oksehud eller en kappe på omtrent 3 meter på hver side, festet til bakken med staker som bare ble brukt til dette. Rundt huden ble det risset tre kanter, hver omtrent en fot (0,30 m) fra den neste. Hasselstaver markerte de ytre hjørnene. Kormáks saga antyder at en okse kunne ofres på forhånd, med huden utspent over kampplassen. Kilden sier at man ikke vet hvordan stakene ble satt.
 
 ## Reglene
 
@@ -32,11 +32,11 @@ Ifølge Wikipedia ble hólmgangen utkjempet på en oksehud eller en kappe på om
 
 ## De eldre duellene
 
-I de tidlige duellene sluttet kampen ved at en av kjemperne døde eller ikke kunne fortsette. Å drepe motstanderen var ikke drap og førte ikke til fredløshet eller mannebot. I Norge kunne vinneren, ifølge Egils saga sitert i Wikipedia, kreve alt taperen eide.
+I de tidlige duellene sluttet kampen ved at en av kjemperne døde eller ikke kunne fortsette. Å drepe motstanderen var ikke drap og førte ikke til fredløshet eller mannebot. I Norge kunne vinneren, ifølge Egils saga sitert i kilden, kreve alt taperen eide.
 
 ## Tekstene
 
-Wikipedia siterer Kormáks saga, som beskriver huden, stakene, kantene og hasselstavene, og Egils saga, som gir reglene for utfordringen og vinnerens rettigheter. Den nevner også Västgötalagen, et fragment fra 1200-tallet av den vestgotiske loven, med bestemmelser om hólmgang eller *einvígi*, rettergang ved tvekamp.
+Kilden siterer Kormáks saga, som beskriver huden, stakene, kantene og hasselstavene, og Egils saga, som gir reglene for utfordringen og vinnerens rettigheter. Den nevner også Västgötalagen, et fragment fra 1200-tallet av den vestgotiske loven, med bestemmelser om hólmgang eller *einvígi*, rettergang ved tvekamp.
 
 ## Slutten på hólmgangen
 

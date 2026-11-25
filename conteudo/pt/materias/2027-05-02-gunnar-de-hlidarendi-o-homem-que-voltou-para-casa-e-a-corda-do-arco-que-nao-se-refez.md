@@ -19,7 +19,7 @@ Gunnar Hámundarson é um dos heróis mais lembrados das sagas islandesas, e a c
 
 ## Quem era Gunnar
 
-Gunnar era um chefe do século X, de Hlíðarendi, em Fljótshlíð, no sul da Islândia. Seu melhor amigo e conselheiro era Njáll Þorgeirsson, de Bergþórshvoll. Ele se casou com Hallgerðr Höskuldsdóttir, conhecida como Hallgerðr langbrók. Ela era sua terceira esposa, segundo a Wikipédia, e Njáll via esse casamento como imprudente.
+Gunnar era um chefe do século X, de Hlíðarendi, em Fljótshlíð, no sul da Islândia. Seu melhor amigo e conselheiro era Njáll Þorgeirsson, de Bergþórshvoll. Ele se casou com Hallgerðr Höskuldsdóttir, conhecida como Hallgerðr langbrók. Ela era sua terceira esposa, segundo as fontes, e Njáll via esse casamento como imprudente.
 
 ## O tapa
 

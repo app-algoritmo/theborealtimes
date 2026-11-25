@@ -19,7 +19,7 @@ The Norse reached North America around the year 1000, and the only proven site i
 
 ## The find
 
-According to Wikipedia, the amateur Guy Mellgren said he found the coin on 18 August 1957 at the Goddard site, an old Native American settlement at Naskeag Point on Penobscot Bay, in Brooklin, Maine. The coin was donated to the Maine State Museum in 1974, together with about 30,000 objects from the site.
+According to the sources, the amateur Guy Mellgren said he found the coin on 18 August 1957 at the Goddard site, an old Native American settlement at Naskeag Point on Penobscot Bay, in Brooklin, Maine. The coin was donated to the Maine State Museum in 1974, together with about 30,000 objects from the site.
 
 ## What the coin is
 
@@ -43,7 +43,7 @@ Robert Hoge, of the American Numismatic Society, said in 2006 that the coin "sho
 
 ## What is firmly established
 
-The coin is a Norwegian silver penny of the Olaf Kyrre period, as identified by Skaare. Mellgren said he found it at the Goddard site in 1957, and it was donated to the museum in 1974. The site dates to 1180–1235. The coin's provenance is disputed and its archaeological significance is not clear. Wikipedia says the sources consulted do not resolve whether it is a genuine find, a hoax or a trade item.
+The coin is a Norwegian silver penny of the Olaf Kyrre period, as identified by Skaare. Mellgren said he found it at the Goddard site in 1957, and it was donated to the museum in 1974. The site dates to 1180–1235. The coin's provenance is disputed and its archaeological significance is not clear. The source says the sources consulted do not resolve whether it is a genuine find, a hoax or a trade item.
 
 ## In short
 

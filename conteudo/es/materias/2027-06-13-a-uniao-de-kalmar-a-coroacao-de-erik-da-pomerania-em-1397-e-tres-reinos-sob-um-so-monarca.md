@@ -13,7 +13,7 @@ fontes:
 tags: [unión de kalmar, margarita, erik de pomerania, dinamarca, suecia, noruega, gustavo vasa, baño de sangre de estocolmo]
 ---
 
-La Unión de Kalmar juntó Dinamarca, Suecia (que entonces incluía buena parte de la actual Finlandia) y Noruega bajo un solo monarca. Según Wikipedia, fue diseñada por la reina Margarita de Dinamarca, y cada reino siguió siendo legalmente independiente.
+La Unión de Kalmar juntó Dinamarca, Suecia (que entonces incluía buena parte de la actual Finlandia) y Noruega bajo un solo monarca. Según las fuentes, fue diseñada por la reina Margarita de Dinamarca, y cada reino siguió siendo legalmente independiente.
 
 ## La coronación de 1397
 

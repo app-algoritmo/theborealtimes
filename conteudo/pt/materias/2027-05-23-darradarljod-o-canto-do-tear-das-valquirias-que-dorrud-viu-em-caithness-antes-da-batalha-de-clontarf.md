@@ -27,7 +27,7 @@ O tear do poema é feito de partes de guerreiros: tripas fazem de urdidura e de 
 
 ## As valquírias
 
-O artigo da Wikipédia em inglês nomeia seis das doze mulheres: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr e Göndul. São nomes de valquírias, as escolhedoras dos mortos.
+As fontes nomeiam seis das doze mulheres: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr e Göndul. São nomes de valquírias, as escolhedoras dos mortos.
 
 ## Celta e nórdico
 

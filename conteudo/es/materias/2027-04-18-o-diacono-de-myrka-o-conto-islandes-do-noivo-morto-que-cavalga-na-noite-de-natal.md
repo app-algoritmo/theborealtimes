@@ -35,11 +35,11 @@ El fantasma sigue acechando la noche y molesta a otras personas de la granja. Se
 
 ## El fantasma que se equivoca con el nombre
 
-Wikipedia señala que los fantasmas del folclore islandés suelen hablar en verso, repitiendo la última palabra de cada línea. Se citan dos frases del diácono: «La luna se apaga, la muerte cabalga» y «Espera aquí, Garún, Garún». La explicación del segundo «Garún» es que no puede decir «Guð», la primera parte de su nombre, porque *Guð* significa Dios, y los fantasmas de la leyenda islandesa no pueden decir palabras como Dios o ángel.
+La fuente señala que los fantasmas del folclore islandés suelen hablar en verso, repitiendo la última palabra de cada línea. Se citan dos frases del diácono: «La luna se apaga, la muerte cabalga» y «Espera aquí, Garún, Garún». La explicación del segundo «Garún» es que no puede decir «Guð», la primera parte de su nombre, porque *Guð* significa Dios, y los fantasmas de la leyenda islandesa no pueden decir palabras como Dios o ángel.
 
 ## De dónde viene
 
-El cuento fue publicado por primera vez por Konrad Maurer en 1860, y en islandés por Jón Árnason y Magnús Grímsson en 1862. Se clasifica como ATU 365, «El novio muerto se lleva a su novia», un tipo en el que el amante muerto vuelve en una cabalgata a la luz de la luna para llevar a su amada a la tumba. Wikipedia cita *Lenore* y *Sweet William's Ghost* como obras emparentadas. El origen y el autor del cuento son desconocidos, y se han recogido variantes del tipo tanto en el este como en el oeste de Europa.
+El cuento fue publicado por primera vez por Konrad Maurer en 1860, y en islandés por Jón Árnason y Magnús Grímsson en 1862. Se clasifica como ATU 365, «El novio muerto se lleva a su novia», un tipo en el que el amante muerto vuelve en una cabalgata a la luz de la luna para llevar a su amada a la tumba. La fuente cita *Lenore* y *Sweet William's Ghost* como obras emparentadas. El origen y el autor del cuento son desconocidos, y se han recogido variantes del tipo tanto en el este como en el oeste de Europa.
 
 ## En resumen
 

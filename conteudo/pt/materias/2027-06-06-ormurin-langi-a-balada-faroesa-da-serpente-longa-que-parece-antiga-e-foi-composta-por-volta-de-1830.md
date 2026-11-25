@@ -19,11 +19,11 @@ Ormurin Langi, "a Serpente Longa", é uma balada faroesa, um kvæði, que conta 
 
 ## Quem compôs
 
-Segundo a Wikipédia, foi escrita por volta de 1830 por Jens Christian Djurhuus (1773-1853), um agricultor de Kollafjørður, e tem 86 estrofes em faroês. Djurhuus seguiu o relato de Snorri Sturluson e compôs muitas baladas sobre sagas no período romântico. Hammershaimb elogiou a sua balada sobre Olavo Tryggvason.
+Segundo as fontes, foi escrita por volta de 1830 por Jens Christian Djurhuus (1773-1853), um agricultor de Kollafjørður, e tem 86 estrofes em faroês. Djurhuus seguiu o relato de Snorri Sturluson e compôs muitas baladas sobre sagas no período romântico. Hammershaimb elogiou a sua balada sobre Olavo Tryggvason.
 
 ## A história que a balada conta
 
-Reis da Suécia e da Dinamarca, com o norueguês Eiríkr Hákonarson, atacam Olavo no navio Serpente Longa. Olavo perde, e quando a derrota é certa, pula ao mar com os homens que restam. A balada coloca a batalha no Øresund, mas a Wikipédia diz que o local é desconhecido e que é duvidoso que existisse uma ilha chamada Svolder. As fontes sobre a batalha são das sagas escritas cerca de dois séculos depois, e as sagas não são confiáveis nos detalhes.
+Reis da Suécia e da Dinamarca, com o norueguês Eiríkr Hákonarson, atacam Olavo no navio Serpente Longa. Olavo perde, e quando a derrota é certa, pula ao mar com os homens que restam. A balada coloca a batalha no Øresund, mas a fonte diz que o local é desconhecido e que é duvidoso que existisse uma ilha chamada Svolder. As fontes sobre a batalha são das sagas escritas cerca de dois séculos depois, e as sagas não são confiáveis nos detalhes.
 
 ## Como o texto chegou até hoje
 

@@ -23,4 +23,4 @@ Kong Olav reiser med Finnr Árnason og Þormóðr Kolbrúnarskáld, alle tre i g
 
 ## Historien bak
 
-Ifølge Wikipedia reiser kong Olav II i Völsa þáttr bare med Finnr Árnason og Þormóðr Kolbrúnarskáld, alle tre i grå kapper for å skjule hvem de er, og alle tre sier at de heter Grímr, «den hettekledde». Høydene, rekkefølgen du gjentar, og plassbyttene er oppfinnelse. Les historien i [Völsa þáttr: kong Olav og husritualet med völsi i Flateyjarbók](/no/volsa-thattr-kong-olav-og-husritualet-med-volsi/).
+Ifølge kildene reiser kong Olav II i Völsa þáttr bare med Finnr Árnason og Þormóðr Kolbrúnarskáld, alle tre i grå kapper for å skjule hvem de er, og alle tre sier at de heter Grímr, «den hettekledde». Høydene, rekkefølgen du gjentar, og plassbyttene er oppfinnelse. Les historien i [Völsa þáttr: kong Olav og husritualet med völsi i Flateyjarbók](/no/volsa-thattr-kong-olav-og-husritualet-med-volsi/).

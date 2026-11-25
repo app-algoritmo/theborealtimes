@@ -35,11 +35,11 @@ O fantasma ainda assombra a noite e perturba outras pessoas da fazenda. Um exorc
 
 ## O fantasma que erra o nome
 
-A Wikipédia nota que fantasmas, no folclore islandês, costumam falar em verso, repetindo a última palavra de cada linha. Duas falas do diácono aparecem citadas: "A lua some, a morte cavalga" e "Espera aqui, Garún, Garún". A explicação do segundo "Garún" é que ele não consegue dizer "Guð", a primeira parte do nome dela, porque *Guð* significa Deus, e fantasmas da lenda islandesa não conseguem dizer palavras como Deus ou anjo.
+A fonte nota que fantasmas, no folclore islandês, costumam falar em verso, repetindo a última palavra de cada linha. Duas falas do diácono aparecem citadas: "A lua some, a morte cavalga" e "Espera aqui, Garún, Garún". A explicação do segundo "Garún" é que ele não consegue dizer "Guð", a primeira parte do nome dela, porque *Guð* significa Deus, e fantasmas da lenda islandesa não conseguem dizer palavras como Deus ou anjo.
 
 ## De onde vem
 
-O conto foi publicado pela primeira vez por Konrad Maurer, em 1860, e em islandês por Jón Árnason e Magnús Grímsson, em 1862. É classificado como ATU 365, "O noivo morto leva a noiva", um tipo em que o amante morto volta numa cavalgada ao luar para levar a amada à sepultura. A Wikipédia cita *Lenore* e *Sweet William's Ghost* como obras aparentadas. A origem e o autor do conto são desconhecidos, e variantes do tipo foram coletadas no leste e no oeste da Europa.
+O conto foi publicado pela primeira vez por Konrad Maurer, em 1860, e em islandês por Jón Árnason e Magnús Grímsson, em 1862. É classificado como ATU 365, "O noivo morto leva a noiva", um tipo em que o amante morto volta numa cavalgada ao luar para levar a amada à sepultura. A fonte cita *Lenore* e *Sweet William's Ghost* como obras aparentadas. A origem e o autor do conto são desconhecidos, e variantes do tipo foram coletadas no leste e no oeste da Europa.
 
 ## Em resumo
 

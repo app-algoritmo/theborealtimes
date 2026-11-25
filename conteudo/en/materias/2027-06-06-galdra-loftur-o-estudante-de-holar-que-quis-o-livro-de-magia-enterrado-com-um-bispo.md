@@ -19,7 +19,7 @@ Galdra-Loftur means "Loftur the sorcerer". The man behind the nickname is Loftur
 
 ## What is documented
 
-According to Wikipedia, Loftur was born around 1702, near Hvammsfjörður, in the northwest of Iceland. His father, Þorsteinn Jónsson, was a falconer at Vörðufell, and his mother was called Ásta Loftsdóttir. In 1716 he entered the school at Hólar, where he is said to have developed an interest in galdr, Norse magic. He left in 1722, and sources disagree on whether he graduated or was expelled. What came after is uncertain.
+According to the sources, Loftur was born around 1702, near Hvammsfjörður, in the northwest of Iceland. His father, Þorsteinn Jónsson, was a falconer at Vörðufell, and his mother was called Ásta Loftsdóttir. In 1716 he entered the school at Hólar, where he is said to have developed an interest in galdr, Norse magic. He left in 1722, and sources disagree on whether he graduated or was expelled. What came after is uncertain.
 
 ## The book Rauðskinna
 
@@ -27,7 +27,7 @@ The legend sets Loftur before a book, the Rauðskinna, "red skin", described as 
 
 ## The end of the legend
 
-In one version, the failure drove him mad. He was placed in the care of a priest at Staðarstaður, put out to sea in an old boat and vanished, presumably drowned. It is only one version among several, supported by a single Icelandic website, and Wikipedia gives no independent verification.
+In one version, the failure drove him mad. He was placed in the care of a priest at Staðarstaður, put out to sea in an old boat and vanished, presumably drowned. It is only one version among several, supported by a single Icelandic website, and the source gives no independent verification.
 
 ## The play
 

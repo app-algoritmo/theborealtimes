@@ -25,9 +25,9 @@ Paraphrased: Austmaðr, son of Guðfastr, had this stone raised and a bridge bui
 
 ## The man and the names
 
-Austmaðr means "man from the east". Wikipedia describes him as an Old West Norse speaker from mainland Scandinavia, and gives his father's name, Guðfastr. Beyond that, the page says nothing about his life.
+Austmaðr means "man from the east". The source describes him as an Old West Norse speaker from mainland Scandinavia, and gives his father's name, Guðfastr. Beyond that, the page says nothing about his life.
 
-The names have meanings. Guðfastr is "faithful to God". Ásbjörn is "god bear". And Trjónn, which Wikipedia glosses as "snout", is a name specific to Jämtland. The other two names, Trjónn and Steinn, are those of the rune masters.
+The names have meanings. Guðfastr is "faithful to God". Ásbjörn is "god bear". And Trjónn, which the source glosses as "snout", is a name specific to Jämtland. The other two names, Trjónn and Steinn, are those of the rune masters.
 
 ## The bridge and the ferry
 
@@ -35,7 +35,7 @@ The inscription says Ásbjörn built the bridge, and the stone stood at the cros
 
 ## Why it matters
 
-Wikipedia says the stone commemorates Austmaðr's Christianization of Jämtland rather than being a cenotaph, a memorial to someone buried elsewhere. The page describes this as unique, though it cites no source for that claim. It also says that, in the whole world, the northernmost runestone is the Kingittorsuaq stone in Greenland. The Frösö stone is the northernmost in Scandinavia.
+The source says the stone commemorates Austmaðr's Christianization of Jämtland rather than being a cenotaph, a memorial to someone buried elsewhere. The page describes this as unique, though it cites no source for that claim. It also says that, in the whole world, the northernmost runestone is the Kingittorsuaq stone in Greenland. The Frösö stone is the northernmost in Scandinavia.
 
 ## What the stone does not say
 

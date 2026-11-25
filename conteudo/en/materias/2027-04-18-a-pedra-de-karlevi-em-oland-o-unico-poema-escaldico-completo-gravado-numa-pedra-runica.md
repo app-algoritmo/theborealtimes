@@ -15,7 +15,7 @@ fontes:
 tags: [karlevi stone, öland, runes, dróttkvætt, skaldic poetry, thor, odin, kenning]
 ---
 
-Many runestones say only who had them raised and in memory of whom. The one at Karlevi, on Öland, says more: it carries a stanza of poetry. Wikipedia states that it is a complete stanza, the only one preserved on a runestone, and the oldest record of a skaldic stanza.
+Many runestones say only who had them raised and in memory of whom. The one at Karlevi, on Öland, says more: it carries a stanza of poetry. The source states that it is a complete stanza, the only one preserved on a runestone, and the oldest record of a skaldic stanza.
 
 ## The stone
 
@@ -27,7 +27,7 @@ The prose part names Sibba, called "Goða", son of Fuldar. The stone is thought 
 
 ## The stanza
 
-The verse part is in dróttkvætt, the "lordly metre", the most famous form of skaldic poetry. Wikipedia gives a literal translation, which I summarize here in my own words: the man lying in this mound was followed by great deeds, as most people knew. He is described as a "tree of Þrúðr's battles", that is, a warrior. The stanza then says that a Viðurr (a name of Odin) of the wide sea, more upright and strong in strife, a sea-warrior, will not rule land in Denmark. The meaning of this reference to Denmark is not clear.
+The verse part is in dróttkvætt, the "lordly metre", the most famous form of skaldic poetry. The source gives a literal translation, which I summarize here in my own words: the man lying in this mound was followed by great deeds, as most people knew. He is described as a "tree of Þrúðr's battles", that is, a warrior. The stanza then says that a Viðurr (a name of Odin) of the wide sea, more upright and strong in strife, a sea-warrior, will not rule land in Denmark. The meaning of this reference to Denmark is not clear.
 
 ## The kennings
 
@@ -39,7 +39,7 @@ On the other side there is an inscription that is not runic, possibly "In nomin[
 
 ## What remains open
 
-Wikipedia lists the works on the stone, from Söderberg in 1900–1906 to Thunberg in 2012 and Zilmer in 2005. Among the points without an answer are what the mention of Denmark means, who exactly the man in the mound was and whether the stone was really raised by men who fought at Fýrisvellir.
+The source lists the works on the stone, from Söderberg in 1900–1906 to Thunberg in 2012 and Zilmer in 2005. Among the points without an answer are what the mention of Denmark means, who exactly the man in the mound was and whether the stone was really raised by men who fought at Fýrisvellir.
 
 ## In short
 

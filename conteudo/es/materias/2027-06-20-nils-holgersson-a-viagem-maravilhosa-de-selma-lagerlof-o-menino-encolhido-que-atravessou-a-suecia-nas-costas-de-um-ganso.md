@@ -14,7 +14,7 @@ fontes:
 tags: [nils holgersson, selma lagerlöf, el maravilloso viaje, tomte, gansos, suecia, literatura infantil]
 ---
 
-*Nils Holgerssons underbara resa genom Sverige*, «el maravilloso viaje de Nils Holgersson por Suecia», es una novela de la escritora sueca Selma Lagerlöf. Según Wikipedia, salió en dos libros, en 1906 y 1907, y fue uno de los primeros en usar la nueva ortografía sueca, determinada por una resolución del gobierno del 7 de abril de 1906.
+*Nils Holgerssons underbara resa genom Sverige*, «el maravilloso viaje de Nils Holgersson por Suecia», es una novela de la escritora sueca Selma Lagerlöf. Según las fuentes, salió en dos libros, en 1906 y 1907, y fue uno de los primeros en usar la nueva ortografía sueca, determinada por una resolución del gobierno del 7 de abril de 1906.
 
 ## Un libro de geografía
 
@@ -30,7 +30,7 @@ El libro tiene personajes como Karr y Grayskin, el águila Gorgo, Thumbietot, la
 
 ## Capítulos, recortes y críticas
 
-La edición original de 1906 tenía 21 capítulos, y la de 1907 tenía 34, numerados del 22 al 55. La traducción inglesa de Howard, de 1907 y 1911, recortó algunos capítulos por completo y abrevió otros, y por eso Dalarna, visitada en cuatro capítulos del original, no aparece en ella. También se criticó que el ganso y el niño sobrevuelan Halland en el capítulo 53 sin detenerse, y algunas traducciones añadieron un capítulo sobre la región. A Nils se le suele dibujar con un gorro rojo, lo que Wikipedia llama un error, porque el original describe uno blanco.
+La edición original de 1906 tenía 21 capítulos, y la de 1907 tenía 34, numerados del 22 al 55. La traducción inglesa de Howard, de 1907 y 1911, recortó algunos capítulos por completo y abrevió otros, y por eso Dalarna, visitada en cuatro capítulos del original, no aparece en ella. También se criticó que el ganso y el niño sobrevuelan Halland en el capítulo 53 sin detenerse, y algunas traducciones añadieron un capítulo sobre la región. A Nils se le suele dibujar con un gorro rojo, lo que la fuente llama un error, porque el original describe uno blanco.
 
 ## Un clásico sueco
 

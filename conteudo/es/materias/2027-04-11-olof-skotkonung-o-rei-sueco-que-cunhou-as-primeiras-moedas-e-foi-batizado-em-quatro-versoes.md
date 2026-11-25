@@ -35,7 +35,7 @@ Según la *Heimskringla*, en 1018 Ragnvald Ulfsson y enviados noruegos fueron a 
 
 ## Los hijos y la muerte
 
-Con Edla, Olof tuvo a Emund el Viejo, Astrid y Holmfrid. Con Estrid de los obotritas tuvo a Anund Jacob, que lo sucedió, y a Ingegerd. La cronología de Snorri sitúa una muerte natural en el invierno de 1021 a 1022. Adán de Bremen la sitúa cerca de 1035, lo que la propia Wikipedia llama ciertamente demasiado tarde.
+Con Edla, Olof tuvo a Emund el Viejo, Astrid y Holmfrid. Con Estrid de los obotritas tuvo a Anund Jacob, que lo sucedió, y a Ingegerd. La cronología de Snorri sitúa una muerte natural en el invierno de 1021 a 1022. Adán de Bremen la sitúa cerca de 1035, lo que la propia la fuente llama ciertamente demasiado tarde.
 
 ## En resumen
 

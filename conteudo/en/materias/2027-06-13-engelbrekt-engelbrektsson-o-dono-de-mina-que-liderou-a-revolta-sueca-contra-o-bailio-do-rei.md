@@ -13,7 +13,7 @@ fontes:
 tags: [engelbrekt, bergslagen, dalarna, erik of pomerania, revolt, arboga, riksdag, sweden]
 ---
 
-Engelbrekt Engelbrektsson (1390s – 4 May 1436) was a Swedish nobleman and military leader of German descent. According to Wikipedia, he owned a mine and ironworks in Bergslagen and came from the parish of Norberg, in Västmanland. His family had arrived in Sweden in the 1360s.
+Engelbrekt Engelbrektsson (1390s – 4 May 1436) was a Swedish nobleman and military leader of German descent. According to the sources, he owned a mine and ironworks in Bergslagen and came from the parish of Norberg, in Västmanland. His family had arrived in Sweden in the 1360s.
 
 ## The miners' complaints
 

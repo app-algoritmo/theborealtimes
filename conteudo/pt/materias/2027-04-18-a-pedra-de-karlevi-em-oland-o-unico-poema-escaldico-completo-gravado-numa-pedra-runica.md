@@ -15,7 +15,7 @@ fontes:
 tags: [pedra de karlevi, öland, runas, dróttkvætt, poesia escáldica, thor, odin, kenning]
 ---
 
-Muitas pedras rúnicas dizem só quem a mandou erguer e em memória de quem. A de Karlevi, em Öland, diz mais: traz uma estrofe de poesia. A Wikipédia afirma que é uma estrofe completa, a única conservada numa pedra rúnica, e o registro mais antigo de uma estrofe escáldica.
+Muitas pedras rúnicas dizem só quem a mandou erguer e em memória de quem. A de Karlevi, em Öland, diz mais: traz uma estrofe de poesia. A fonte afirma que é uma estrofe completa, a única conservada numa pedra rúnica, e o registro mais antigo de uma estrofe escáldica.
 
 ## A pedra
 
@@ -27,7 +27,7 @@ A parte em prosa nomeia Sibba, chamado "Goða", filho de Fuldar. Pensa-se que a 
 
 ## A estrofe
 
-A parte em verso está em dróttkvætt, o "metro dos senhores", a forma mais famosa da poesia escáldica. A Wikipédia dá uma tradução literal, que aqui resumo em palavras minhas: o homem que jaz neste monte foi seguido por grandes feitos, como a maioria das pessoas sabia. Ele é descrito como uma "árvore das batalhas de Þrúðr", isto é, um guerreiro. A estrofe diz então que um Viðurr (nome de Odin) do mar largo, mais reto e forte na luta, um guerreiro do mar, não vai governar terra na Dinamarca. O sentido dessa referência à Dinamarca não é claro.
+A parte em verso está em dróttkvætt, o "metro dos senhores", a forma mais famosa da poesia escáldica. A fonte dá uma tradução literal, que aqui resumo em palavras minhas: o homem que jaz neste monte foi seguido por grandes feitos, como a maioria das pessoas sabia. Ele é descrito como uma "árvore das batalhas de Þrúðr", isto é, um guerreiro. A estrofe diz então que um Viðurr (nome de Odin) do mar largo, mais reto e forte na luta, um guerreiro do mar, não vai governar terra na Dinamarca. O sentido dessa referência à Dinamarca não é claro.
 
 ## Os kennings
 
@@ -39,7 +39,7 @@ No outro lado há uma inscrição que não é rúnica, que talvez seja "In nomin
 
 ## O que continua em aberto
 
-A Wikipédia lista as obras sobre a pedra, de Söderberg, em 1900-1906, a Thunberg, em 2012, e Zilmer, em 2005. Entre os pontos sem resposta estão o que quer dizer a menção à Dinamarca, quem era exatamente o homem do monte e se a pedra foi mesmo erguida por homens que lutaram em Fýrisvellir.
+A fonte lista as obras sobre a pedra, de Söderberg, em 1900-1906, a Thunberg, em 2012, e Zilmer, em 2005. Entre os pontos sem resposta estão o que quer dizer a menção à Dinamarca, quem era exatamente o homem do monte e se a pedra foi mesmo erguida por homens que lutaram em Fýrisvellir.
 
 ## Em resumo
 

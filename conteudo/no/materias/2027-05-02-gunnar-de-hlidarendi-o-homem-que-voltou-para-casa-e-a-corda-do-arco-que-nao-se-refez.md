@@ -19,7 +19,7 @@ Gunnar Hámundarson er en av de best husket heltene i islendingesagaene, og den 
 
 ## Hvem Gunnar var
 
-Gunnar var en høvding fra 900-tallet på Hlíðarendi i Fljótshlíð på Sør-Island. Hans beste venn og rådgiver var Njáll Þorgeirsson fra Bergþórshvoll. Han giftet seg med Hallgerðr Höskuldsdóttir, kalt Hallgerðr langbrók. Hun var hans tredje kone, ifølge Wikipedia, og Njáll så på ekteskapet som uklokt.
+Gunnar var en høvding fra 900-tallet på Hlíðarendi i Fljótshlíð på Sør-Island. Hans beste venn og rådgiver var Njáll Þorgeirsson fra Bergþórshvoll. Han giftet seg med Hallgerðr Höskuldsdóttir, kalt Hallgerðr langbrók. Hun var hans tredje kone, ifølge kildene, og Njáll så på ekteskapet som uklokt.
 
 ## Lusken
 

@@ -19,9 +19,9 @@ When Thor's treasures are mentioned, the hammer Mjölnir comes first. The Prose 
 
 ## The belt of strength
 
-The name Megingjörð means "power belt": megin is strength, gjörð is belt. According to Snorri Sturluson, when Thor tightens it his divine strength grows, and Wikipedia sums up the effect as doubling the strength he already has. In the Gylfaginning, right after the Prologue, Thor "girded himself with his belt of strength, and his divine strength grew".
+The name Megingjörð means "power belt": megin is strength, gjörð is belt. According to Snorri Sturluson, when Thor tightens it his divine strength grows, and the source sums up the effect as doubling the strength he already has. In the Gylfaginning, right after the Prologue, Thor "girded himself with his belt of strength, and his divine strength grew".
 
-The belt also appears in older poetry. In the Þórsdrápa, a 10th-century poem by Eilífr Goðrúnarson, made in the service of Jarl Hákon Sigurðarson, stanza 7 refers to the belt. Wikipedia translates the phrase the poet uses for Thor as "he who benefits from the mighty belt".
+The belt also appears in older poetry. In the Þórsdrápa, a 10th-century poem by Eilífr Goðrúnarson, made in the service of Jarl Hákon Sigurðarson, stanza 7 refers to the belt. The source translates the phrase the poet uses for Thor as "he who benefits from the mighty belt".
 
 ## The iron gloves
 

@@ -13,7 +13,7 @@ fontes:
 tags: [carta das ovelhas, seyðabrævið, ilhas faroé, 1298, haakon v, kirkjubøur, direito medieval]
 ---
 
-O Seyðabrævið ("Carta das Ovelhas", em nórdico antigo *sauðabréfit*) é o documento mais antigo que se conserva das Ilhas Faroé. Segundo a Wikipédia, é um decreto real de 28 de junho de 1298. Trata sobretudo da criação de ovelhas, mas tem outros assuntos e funcionou como uma espécie de constituição.
+O Seyðabrævið ("Carta das Ovelhas", em nórdico antigo *sauðabréfit*) é o documento mais antigo que se conserva das Ilhas Faroé. Segundo as fontes, é um decreto real de 28 de junho de 1298. Trata sobretudo da criação de ovelhas, mas tem outros assuntos e funcionou como uma espécie de constituição.
 
 ## Quem o emitiu
 

@@ -27,7 +27,7 @@ A batalha de Hjörungavágr é uma batalha naval semilendária do fim do século
 
 ## Os comandantes
 
-Do lado norueguês estavam Hákon Sigurðarson, Eric Haakonsson, Sweyn Haakonsson, Skjegge Asbjørnsson e Ragnvald Lodinsson. Do lado dinamarquês e jomsviking, Sigvaldi Strut-Haraldsson, Vagn Åkesson e Búi digri. A Wikipédia indica a vitória norueguesa.
+Do lado norueguês estavam Hákon Sigurðarson, Eric Haakonsson, Sweyn Haakonsson, Skjegge Asbjørnsson e Ragnvald Lodinsson. Do lado dinamarquês e jomsviking, Sigvaldi Strut-Haraldsson, Vagn Åkesson e Búi digri. A fonte indica a vitória norueguesa.
 
 ## Fontes que discordam
 

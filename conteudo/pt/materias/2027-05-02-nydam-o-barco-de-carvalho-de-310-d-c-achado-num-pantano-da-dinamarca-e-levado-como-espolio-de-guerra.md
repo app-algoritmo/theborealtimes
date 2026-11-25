@@ -22,7 +22,7 @@ Nydam Mose fica em Øster Sottrup, em Sundeved, a uns 8 km de Sønderborg, na Di
 
 ## Um pântano sagrado
 
-Na Idade do Ferro, o pântano era um "lugar sagrado", segundo a Wikipédia. Armas e barcos capturados eram oferecidos aos deuses em agradecimento pela vitória. Muitos objetos foram entortados, quebrados ou despedaçados em atos rituais, datados de 200 a 400 d.C. O lugar provavelmente foi usado em ocasiões diferentes entre 200 e 450 d.C.
+Na Idade do Ferro, o pântano era um "lugar sagrado", segundo as fontes. Armas e barcos capturados eram oferecidos aos deuses em agradecimento pela vitória. Muitos objetos foram entortados, quebrados ou despedaçados em atos rituais, datados de 200 a 400 d.C. O lugar provavelmente foi usado em ocasiões diferentes entre 200 e 450 d.C.
 
 ## Os primeiros achados
 
@@ -44,7 +44,7 @@ O arqueólogo Conrad Engelhardt escavou o pântano de 1859 a 1863. Achou lanças
 
 ## A guerra de 1864
 
-O trabalho de Engelhardt parou quando a Segunda Guerra de Schleswig começou, no início de 1864. Alguns achados se perderam. O barco menor, de pinho, talvez com 19 metros, foi despedaçado e usado como lenha pelas tropas, e a Wikipédia diz que foi inteiramente destruído durante a guerra. A Dinamarca perdeu a guerra e parte do território, e foi obrigada a entregar o barco de Nydam à Prússia.
+O trabalho de Engelhardt parou quando a Segunda Guerra de Schleswig começou, no início de 1864. Alguns achados se perderam. O barco menor, de pinho, talvez com 19 metros, foi despedaçado e usado como lenha pelas tropas, e a fonte diz que foi inteiramente destruído durante a guerra. A Dinamarca perdeu a guerra e parte do território, e foi obrigada a entregar o barco de Nydam à Prússia.
 
 ## Onde está hoje
 

@@ -18,7 +18,7 @@ Fulla aparece en pocas líneas, pero en lugares sorprendentes: en la introducci�
 
 ## La criada que avisa al rey
 
-Según Wikipedia, en la introducción en prosa del Grímnismál, Frigg envía a su criada Fulla a avisar al rey Geirröd de que un mago, en realidad Odín disfrazado, va a visitarlo. Fulla también da al rey una forma de reconocerlo: ningún perro lo atacará.
+Según las fuentes, en la introducción en prosa del Grímnismál, Frigg envía a su criada Fulla a avisar al rey Geirröd de que un mago, en realidad Odín disfrazado, va a visitarlo. Fulla también da al rey una forma de reconocerlo: ningún perro lo atacará.
 
 ## Lo que dice Snorri
 
@@ -28,7 +28,7 @@ En el capítulo 49, tras la muerte de Baldr y de Nanna, Baldr envía regalos des
 
 ## Oro en los versos
 
-En el Skáldskaparmál, Fulla es una de las ocho ásynjur del banquete de Ægir. Un término poético llama a Frigg «reina de Fulla», y una metáfora del oro es la «cofia de Fulla». Un verso de Eyvindr skáldaspillir habla también de su tocado dorado. Aparece además en una lista de 27 nombres de ásynjur, y Wikipedia dice, citando a Simek, que ya era conocida en la poesía escáldica en el siglo X.
+En el Skáldskaparmál, Fulla es una de las ocho ásynjur del banquete de Ægir. Un término poético llama a Frigg «reina de Fulla», y una metáfora del oro es la «cofia de Fulla». Un verso de Eyvindr skáldaspillir habla también de su tocado dorado. Aparece además en una lista de 27 nombres de ásynjur, y la fuente dice, citando a Simek, que ya era conocida en la poesía escáldica en el siglo X.
 
 ## Volla, en el conjuro alemán
 

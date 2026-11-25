@@ -19,11 +19,11 @@ Ormurin Langi, "the Long Serpent", is a Faroese ballad, a kvæði, that tells of
 
 ## Who composed it
 
-According to Wikipedia, it was written around 1830 by Jens Christian Djurhuus (1773-1853), a farmer at Kollafjørður, and has 86 stanzas in Faroese. Djurhuus followed Snorri Sturluson's account and composed many ballads on sagas in the Romantic period. Hammershaimb praised his ballad on Olaf Tryggvason.
+According to the sources, it was written around 1830 by Jens Christian Djurhuus (1773-1853), a farmer at Kollafjørður, and has 86 stanzas in Faroese. Djurhuus followed Snorri Sturluson's account and composed many ballads on sagas in the Romantic period. Hammershaimb praised his ballad on Olaf Tryggvason.
 
 ## The story the ballad tells
 
-Kings of Sweden and Denmark, with the Norwegian Eiríkr Hákonarson, attack Olaf on his ship the Long Serpent. Olaf loses, and when defeat is certain he leaps into the sea with the men who remain. The ballad places the battle in the Øresund, but Wikipedia says the location is unknown and that it is doubtful an island called Svolder existed. The sources on the battle are sagas written about two centuries later, and the sagas are unreliable in their details.
+Kings of Sweden and Denmark, with the Norwegian Eiríkr Hákonarson, attack Olaf on his ship the Long Serpent. Olaf loses, and when defeat is certain he leaps into the sea with the men who remain. The ballad places the battle in the Øresund, but the source says the location is unknown and that it is doubtful an island called Svolder existed. The sources on the battle are sagas written about two centuries later, and the sagas are unreliable in their details.
 
 ## How the text reached today
 

@@ -32,7 +32,7 @@ Saxo ends with a blow: back in Norway, the two quarrelled and she killed him wit
 
 ## What scholars say
 
-Judith Jesch describes the tales in the first nine books of the Gesta as "generally considered to be largely fictional". English Wikipedia notes that Saxo drew on classical legends of Amazons and on Old Norse, especially Icelandic, sources that have not been clearly identified. His portrayal of warrior women is shaped by his Christian view: shieldmaidens who rejected the expected role would be a sign of the disorder of the pre-Christian world.
+Judith Jesch describes the tales in the first nine books of the Gesta as "generally considered to be largely fictional". English the source notes that Saxo drew on classical legends of Amazons and on Old Norse, especially Icelandic, sources that have not been clearly identified. His portrayal of warrior women is shaped by his Christian view: shieldmaidens who rejected the expected role would be a sign of the disorder of the pre-Christian world.
 
 There is also a hypothesis about who Lagertha might be. Hilda Ellis Davidson considers it possible, and Nora Chadwick thought it very probable, that she is the goddess Þorgerðr Hölgabrúðr, worshipped by Hákon Sigurðarson at Hlaðir. The Old Norse name Hlaðgerðr could come from that link, and the Gaular valley, where Saxo places her, was a centre of the cult. Jesch reads Saxo's phrase about Lagertha "flying round" to the enemy's rear as a sign of kinship with the valkyries.
 

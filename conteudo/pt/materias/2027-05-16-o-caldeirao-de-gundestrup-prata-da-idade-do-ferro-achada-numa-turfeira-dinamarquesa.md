@@ -22,7 +22,7 @@ Em 28 de maio de 1891, cortadores de turfa o acharam na pequena turfeira de Ræv
 
 ## O que é
 
-Mede 69 cm de diâmetro e 42 cm de altura, e pesa quase 9 kg. A Wikipédia o chama de a maior obra de prata da Idade do Ferro conhecida na Europa. Está incompleto: restam uma placa de base, cinco placas internas, sete externas e dois fragmentos de borda. Há relevo repuxado, douração, olhos de vidro nas figuras e solda de estanho.
+Mede 69 cm de diâmetro e 42 cm de altura, e pesa quase 9 kg. A fonte o chama de a maior obra de prata da Idade do Ferro conhecida na Europa. Está incompleto: restam uma placa de base, cinco placas internas, sete externas e dois fragmentos de borda. Há relevo repuxado, douração, olhos de vidro nas figuras e solda de estanho.
 
 ## As imagens
 
@@ -34,4 +34,4 @@ A datação vai de 200 a.C. a 300 d.C., ou, mais estreitamente, de 150 a 1 a.C. 
 
 ## Em resumo
 
-A Wikipédia não menciona ligação nórdica. O caldeirão está no Museu Nacional da Dinamarca, em Copenhague, com réplicas na Irlanda e na França. Para recolher as placas antes que a turfa as cubra, jogue [As placas de Gundestrup](/pt/jogo-as-placas-de-gundestrup/).
+A fonte não menciona ligação nórdica. O caldeirão está no Museu Nacional da Dinamarca, em Copenhague, com réplicas na Irlanda e na França. Para recolher as placas antes que a turfa as cubra, jogue [As placas de Gundestrup](/pt/jogo-as-placas-de-gundestrup/).

@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Os pechenegues atacavam Kiev nos tempos de Vladimir. Aqui você defende com o escudo cada golpe dos cavaleiros pechenegues. Golpes vêm da esquerda, do centro ou da direita. Toque no terço da tela de onde o golpe vem, ou use as setas ou as teclas 1, 2 e 3, para defender. Defender para o lado errado, ou tarde demais, é erro. Defenda 14 golpes antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "O escudo se partiu",
     "v1": "Kiev resistiu!",
-    "v2": "Segundo a Wikipédia, os pechenegues mataram o pai de Vladimir, Sviatoslav, em 972, e seus ataques a Kiev interromperam a campanha de 992. Os golpes do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, os pechenegues mataram o pai de Vladimir, Sviatoslav, em 972, e seus ataques a Kiev interromperam a campanha de 992. Os golpes do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Defesas",
     "dica": "Toque no lado de onde vem o golpe"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "The Pechenegs attacked Kiev in Vladimir's time. Here you block with the shield each blow of the Pecheneg horsemen. Blows come from the left, the centre or the right. Tap the third of the screen the blow comes from, or use the arrow keys or keys 1, 2 and 3, to block. Blocking the wrong side, or too late, is a mistake. Block 14 blows before time runs out. Three mistakes end the game.",
     "perdeu": "The shield broke",
     "v1": "Kiev held!",
-    "v2": "According to Wikipedia, the Pechenegs killed Vladimir's father, Sviatoslav, in 972, and their attacks on Kiev cut short the campaign of 992. The blows in the game are invented. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, the Pechenegs killed Vladimir's father, Sviatoslav, in 972, and their attacks on Kiev cut short the campaign of 992. The blows in the game are invented. The game itself, with its objects and rules, is invention.",
     "h1": "Blocks",
     "dica": "Tap the side the blow comes from"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "Pesjenegene angrep Kiev på Vladimirs tid. Her avverger du med skjoldet hvert slag fra de pesjenegiske rytterne. Slag kommer fra venstre, midten eller høyre. Trykk på den tredjedelen av skjermen slaget kommer fra, eller bruk piltastene eller tastene 1, 2 og 3, for å parere. Å parere feil side, eller for sent, er en feil. Parer 14 slag før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Skjoldet gikk i stykker",
     "v1": "Kiev holdt!",
-    "v2": "Ifølge Wikipedia drepte pesjenegene Vladimirs far, Svjatoslav, i 972, og angrepene deres på Kiev avbrøt toktet i 992. Slagene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene drepte pesjenegene Vladimirs far, Svjatoslav, i 972, og angrepene deres på Kiev avbrøt toktet i 992. Slagene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Parader",
     "dica": "Trykk på siden slaget kommer fra"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "Los pechenegos atacaban Kiev en tiempos de Vladimiro. Aquí paras con el escudo cada golpe de los jinetes pechenegos. Los golpes vienen de la izquierda, del centro o de la derecha. Toca el tercio de la pantalla de donde viene el golpe, o usa las flechas o las teclas 1, 2 y 3, para parar. Parar el lado equivocado, o tarde, es un error. Para 14 golpes antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "El escudo se rompió",
     "v1": "¡Kiev resistió!",
-    "v2": "Según Wikipedia, los pechenegos mataron al padre de Vladimiro, Sviatoslav, en 972, y sus ataques a Kiev interrumpieron la campaña de 992. Los golpes del juego son invención. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, los pechenegos mataron al padre de Vladimiro, Sviatoslav, en 972, y sus ataques a Kiev interrumpieron la campaña de 992. Los golpes del juego son invención. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Paradas",
     "dica": "Toca el lado de donde viene el golpe"
   }

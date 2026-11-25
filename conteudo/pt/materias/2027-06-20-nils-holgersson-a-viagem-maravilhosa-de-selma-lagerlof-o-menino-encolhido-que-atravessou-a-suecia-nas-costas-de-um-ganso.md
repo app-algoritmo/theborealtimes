@@ -14,7 +14,7 @@ fontes:
 tags: [nils holgersson, selma lagerlöf, a viagem maravilhosa, tomte, gansos, suécia, literatura infantil]
 ---
 
-*Nils Holgerssons underbara resa genom Sverige*, "a maravilhosa viagem de Nils Holgersson pela Suécia", é um romance da escritora sueca Selma Lagerlöf. Segundo a Wikipédia, saiu em dois livros, em 1906 e 1907, e foi um dos primeiros a usar a nova ortografia sueca, determinada por uma resolução do governo de 7 de abril de 1906.
+*Nils Holgerssons underbara resa genom Sverige*, "a maravilhosa viagem de Nils Holgersson pela Suécia", é um romance da escritora sueca Selma Lagerlöf. Segundo as fontes, saiu em dois livros, em 1906 e 1907, e foi um dos primeiros a usar a nova ortografia sueca, determinada por uma resolução do governo de 7 de abril de 1906.
 
 ## Um livro de geografia
 
@@ -30,7 +30,7 @@ O livro tem personagens como Karr e Grayskin, a águia Gorgo, Thumbietot, a past
 
 ## Capítulos, cortes e críticas
 
-A edição original de 1906 tinha 21 capítulos, e a de 1907 tinha 34, numerados de 22 a 55. A tradução inglesa de Howard, de 1907 e 1911, cortou alguns capítulos e abreviou outros, e por isso Dalarna, visitada em quatro capítulos do original, não aparece nela. A obra também foi criticada porque o ganso e o menino sobrevoam Halland no capítulo 53 sem parar ali, e algumas traduções acrescentaram um capítulo sobre a região. Nils costuma ser desenhado com um gorro vermelho, o que a Wikipédia chama de erro, porque o original descreve um gorro branco.
+A edição original de 1906 tinha 21 capítulos, e a de 1907 tinha 34, numerados de 22 a 55. A tradução inglesa de Howard, de 1907 e 1911, cortou alguns capítulos e abreviou outros, e por isso Dalarna, visitada em quatro capítulos do original, não aparece nela. A obra também foi criticada porque o ganso e o menino sobrevoam Halland no capítulo 53 sem parar ali, e algumas traduções acrescentaram um capítulo sobre a região. Nils costuma ser desenhado com um gorro vermelho, o que a fonte chama de erro, porque o original descreve um gorro branco.
 
 ## Um clássico sueco
 

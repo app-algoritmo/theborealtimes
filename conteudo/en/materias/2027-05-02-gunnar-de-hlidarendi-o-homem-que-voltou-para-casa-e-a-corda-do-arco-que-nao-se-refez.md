@@ -19,7 +19,7 @@ Gunnar Hámundarson is one of the best remembered heroes of the Icelandic sagas,
 
 ## Who Gunnar was
 
-Gunnar was a tenth-century chieftain of Hlíðarendi, in Fljótshlíð, in southern Iceland. His best friend and adviser was Njáll Þorgeirsson of Bergþórshvoll. He married Hallgerðr Höskuldsdóttir, known as Hallgerðr langbrók. She was his third wife, according to Wikipedia, and Njáll saw the marriage as imprudent.
+Gunnar was a tenth-century chieftain of Hlíðarendi, in Fljótshlíð, in southern Iceland. His best friend and adviser was Njáll Þorgeirsson of Bergþórshvoll. He married Hallgerðr Höskuldsdóttir, known as Hallgerðr langbrók. She was his third wife, according to the sources, and Njáll saw the marriage as imprudent.
 
 ## The slap
 

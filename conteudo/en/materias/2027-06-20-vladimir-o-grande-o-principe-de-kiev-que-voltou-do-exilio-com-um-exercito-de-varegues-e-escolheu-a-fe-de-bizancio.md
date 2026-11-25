@@ -13,7 +13,7 @@ fontes:
 tags: [vladimir the great, kiev, varangians, kievan rus', perun, anna porphyrogenita, primary chronicle]
 ---
 
-Vladimir Sviatoslavich (c. 958 – 15 July 1015) was prince of Novgorod from 970 and grand prince of Kiev until his death. According to Wikipedia, the Catholic and Eastern Orthodox churches both canonised him as Saint Vladimir. He was the youngest, illegitimate son of Sviatoslav I of the Rurik dynasty and of Malusha, his father's housekeeper. His maternal uncle Dobrynya was his tutor and trusted adviser.
+Vladimir Sviatoslavich (c. 958 – 15 July 1015) was prince of Novgorod from 970 and grand prince of Kiev until his death. According to the sources, the Catholic and Eastern Orthodox churches both canonised him as Saint Vladimir. He was the youngest, illegitimate son of Sviatoslav I of the Rurik dynasty and of Malusha, his father's housekeeper. His maternal uncle Dobrynya was his tutor and trusted adviser.
 
 ## The war between brothers
 

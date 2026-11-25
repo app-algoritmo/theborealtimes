@@ -27,11 +27,11 @@ A folha dá o nome do símbolo e afirma que quem o carrega não se perderá em t
 
 ## Os galdrastafir
 
-Os galdrastafir são sinais com supostos efeitos mágicos, conservados em grimórios islandeses, como o Galdrabók, do século XVII em diante. Outros manuscritos citados na Wikipédia são o próprio Huld, um grimório do século XVII em Estocolmo e manuscritos da Biblioteca Nacional, em Reykjavík. Ali ficam também o Ægishjálmur, o "elmo do terror", ligado a causar medo e proteger o guerreiro, e o Vegvísir, ligado ao mau tempo.
+Os galdrastafir são sinais com supostos efeitos mágicos, conservados em grimórios islandeses, como o Galdrabók, do século XVII em diante. Outros manuscritos citados na fonte são o próprio Huld, um grimório do século XVII em Estocolmo e manuscritos da Biblioteca Nacional, em Reykjavík. Ali ficam também o Ægishjálmur, o "elmo do terror", ligado a causar medo e proteger o guerreiro, e o Vegvísir, ligado ao mau tempo.
 
 ## O que é certo e o que é moderno
 
-É certo o manuscrito de 1860, a legenda e o uso de sinais mágicos em grimórios islandeses. Não é certo, e a Wikipédia não sustenta, que se usasse isso na era viking ou na navegação. Os efeitos atribuídos aos sinais são sempre supostos, nunca verificados.
+É certo o manuscrito de 1860, a legenda e o uso de sinais mágicos em grimórios islandeses. Não é certo, e a fonte não sustenta, que se usasse isso na era viking ou na navegação. Os efeitos atribuídos aos sinais são sempre supostos, nunca verificados.
 
 ## Em resumo
 

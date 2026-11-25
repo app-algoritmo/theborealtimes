@@ -32,7 +32,7 @@ En la Saga de los Volsungos, Sigurd mata a Fáfnir y toma del tesoro el yelmo, e
 
 ## El signo moderno
 
-El nombre se aplicó más tarde a un signo mágico islandés, un dibujo de ocho brazos que hoy se vende como «Yelmo del Terror» en joyas y tatuajes. Ese símbolo es un signo de manuscritos mágicos, muy posterior a los poemas, y Wikipedia solo indica que el nombre se le dio después. No hay dibujo de un yelmo en las fuentes medievales.
+El nombre se aplicó más tarde a un signo mágico islandés, un dibujo de ocho brazos que hoy se vende como «Yelmo del Terror» en joyas y tatuajes. Ese símbolo es un signo de manuscritos mágicos, muy posterior a los poemas, y la fuente solo indica que el nombre se le dio después. No hay dibujo de un yelmo en las fuentes medievales.
 
 ## En resumen
 

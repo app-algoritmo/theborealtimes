@@ -14,7 +14,7 @@ fontes:
 tags: [nils holgersson, selma lagerlöf, the wonderful adventures of nils, tomte, geese, sweden, children's literature]
 ---
 
-*Nils Holgerssons underbara resa genom Sverige*, "Nils Holgersson's wonderful journey across Sweden", is a novel by the Swedish writer Selma Lagerlöf. According to Wikipedia, it came out in two books, in 1906 and 1907, and was one of the first to use the new Swedish spelling mandated by a government resolution of 7 April 1906.
+*Nils Holgerssons underbara resa genom Sverige*, "Nils Holgersson's wonderful journey across Sweden", is a novel by the Swedish writer Selma Lagerlöf. According to the sources, it came out in two books, in 1906 and 1907, and was one of the first to use the new Swedish spelling mandated by a government resolution of 7 April 1906.
 
 ## A geography reader
 
@@ -30,7 +30,7 @@ The book has characters such as Karr and Grayskin, the eagle Gorgo, Thumbietot, 
 
 ## Chapters, cuts and criticism
 
-The original 1906 volume had 21 chapters, and the 1907 volume had 34, numbered 22 to 55. Howard's English translation, of 1907 and 1911, cut some chapters entirely and abridged others, and so Dalarna, visited in four chapters of the original, does not appear in it. The book was also criticised because the goose and the boy fly over Halland in chapter 53 without stopping, and some translations added a chapter about the region. Nils is usually drawn wearing a red cap, which Wikipedia calls an error, since the original describes a white one.
+The original 1906 volume had 21 chapters, and the 1907 volume had 34, numbered 22 to 55. Howard's English translation, of 1907 and 1911, cut some chapters entirely and abridged others, and so Dalarna, visited in four chapters of the original, does not appear in it. The book was also criticised because the goose and the boy fly over Halland in chapter 53 without stopping, and some translations added a chapter about the region. Nils is usually drawn wearing a red cap, which the source calls an error, since the original describes a white one.
 
 ## A Swedish classic
 

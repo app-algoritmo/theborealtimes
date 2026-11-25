@@ -23,4 +23,4 @@ I Engelbrekts opprør ødela opprørerne fogdenes slott. Her sprenger du slottst
 
 ## Historien bak
 
-Engelbrekt Engelbrektsson, eier av en gruve i Bergslagen, ledet det svenske opprøret i 1434 mot kong Erik av Pommern, og Wikipedia sier at opprørerne ødela fogdenes slott. Han døde 4. mai 1436. Tårnene og husene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Engelbrekt Engelbrektsson: gruveeieren som ledet det svenske opprøret mot kongens fogd](/no/engelbrekt-engelbrektsson-gruveeieren-som-ledet-det-svenske/).
+Engelbrekt Engelbrektsson, eier av en gruve i Bergslagen, ledet det svenske opprøret i 1434 mot kong Erik av Pommern, og kilden sier at opprørerne ødela fogdenes slott. Han døde 4. mai 1436. Tårnene og husene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Engelbrekt Engelbrektsson: gruveeieren som ledet det svenske opprøret mot kongens fogd](/no/engelbrekt-engelbrektsson-gruveeieren-som-ledet-det-svenske/).

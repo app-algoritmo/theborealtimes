@@ -23,4 +23,4 @@ In the Sonatorrek, the sea opens a breach in the “fence of kin”. Here, the f
 
 ## The story behind it
 
-According to Wikipedia, in stanzas 5 to 12 of the Sonatorrek the sea opens a breach in the “fence of kin”, an image of Egill's grief for Böðvarr. The game itself, with its objects and rules, is invention. Read the story in [Sonatorrek, the irreparable loss of sons: the poem of mourning Egill composed so as not to starve](/sonatorrek-the-irreparable-loss-of-sons-the-poem/).
+According to the sources, in stanzas 5 to 12 of the Sonatorrek the sea opens a breach in the “fence of kin”, an image of Egill's grief for Böðvarr. The game itself, with its objects and rules, is invention. Read the story in [Sonatorrek, the irreparable loss of sons: the poem of mourning Egill composed so as not to starve](/sonatorrek-the-irreparable-loss-of-sons-the-poem/).

@@ -27,11 +27,11 @@ Os homens de Ragnar a veem se banhando. Ficam tão impressionados que deixam o p
 
 ## A prova
 
-Ragnar manda dizer que ela deve chegar até ele nem vestida nem despida, nem em jejum nem alimentada, nem sozinha nem acompanhada. Ela chega envolta numa rede, mordendo uma cebola e acompanhada de um cão. A Wikipédia diz "cebola", e não alho-poró. Impressionado com a esperteza dela, Ragnar a pede em casamento.
+Ragnar manda dizer que ela deve chegar até ele nem vestida nem despida, nem em jejum nem alimentada, nem sozinha nem acompanhada. Ela chega envolta numa rede, mordendo uma cebola e acompanhada de um cão. A fonte diz "cebola", e não alho-poró. Impressionado com a esperteza dela, Ragnar a pede em casamento.
 
 ## O filho sem ossos
 
-A Wikipédia conta que, se Ragnar tivesse seguido o conselho de Áslaug, o filho Ívarr não teria nascido fraco e "sem ossos". Mas Ragnar a levou para a cama logo depois do casamento. O artigo cita só Ívarr entre os filhos.
+A fonte conta que, se Ragnar tivesse seguido o conselho de Áslaug, o filho Ívarr não teria nascido fraco e "sem ossos". Mas Ragnar a levou para a cama logo depois do casamento. O artigo cita só Ívarr entre os filhos.
 
 ## O paralelo com os contos
 

@@ -19,11 +19,11 @@ Ormurin Langi, «la Serpiente Larga», es una balada feroesa, un kvæði, que cu
 
 ## Quién la compuso
 
-Según Wikipedia, fue escrita hacia 1830 por Jens Christian Djurhuus (1773-1853), un agricultor de Kollafjørður, y tiene 86 estrofas en feroés. Djurhuus siguió el relato de Snorri Sturluson y compuso muchas baladas sobre sagas en el periodo romántico. Hammershaimb elogió su balada sobre Olaf Tryggvason.
+Según las fuentes, fue escrita hacia 1830 por Jens Christian Djurhuus (1773-1853), un agricultor de Kollafjørður, y tiene 86 estrofas en feroés. Djurhuus siguió el relato de Snorri Sturluson y compuso muchas baladas sobre sagas en el periodo romántico. Hammershaimb elogió su balada sobre Olaf Tryggvason.
 
 ## La historia que cuenta la balada
 
-Reyes de Suecia y de Dinamarca, con el noruego Eiríkr Hákonarson, atacan a Olaf en su barco, la Serpiente Larga. Olaf pierde, y cuando la derrota es segura, se lanza al mar con los hombres que le quedan. La balada sitúa la batalla en el Øresund, pero Wikipedia dice que el lugar es desconocido y que es dudoso que existiera una isla llamada Svolder. Las fuentes sobre la batalla son sagas escritas unos dos siglos después, y las sagas no son fiables en los detalles.
+Reyes de Suecia y de Dinamarca, con el noruego Eiríkr Hákonarson, atacan a Olaf en su barco, la Serpiente Larga. Olaf pierde, y cuando la derrota es segura, se lanza al mar con los hombres que le quedan. La balada sitúa la batalla en el Øresund, pero la fuente dice que el lugar es desconocido y que es dudoso que existiera una isla llamada Svolder. Las fuentes sobre la batalla son sagas escritas unos dos siglos después, y las sagas no son fiables en los detalles.
 
 ## Cómo llegó el texto hasta hoy
 

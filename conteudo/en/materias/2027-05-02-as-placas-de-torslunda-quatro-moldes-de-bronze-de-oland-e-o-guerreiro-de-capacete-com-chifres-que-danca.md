@@ -18,7 +18,7 @@ Many images we associate with the Vikings come from earlier times. Four bronze p
 
 ## The find
 
-In early 1870, in a burial cairn in Torslunda parish, on the island of Öland in Sweden, four cast bronze dies were found. Wikipedia dates the pieces to the Vendel period, in the sixth and seventh centuries. The infobox gives the sixth to the eighth.
+In early 1870, in a burial cairn in Torslunda parish, on the island of Öland in Sweden, four cast bronze dies were found. The source dates the pieces to the Vendel period, in the sixth and seventh centuries. The infobox gives the sixth to the eighth.
 
 ## What they were for
 
@@ -26,7 +26,7 @@ The dies were not for display. They were made for mass production. Pressing a th
 
 ## What each die shows
 
-The names are traditional labels, according to Wikipedia.
+The names are traditional labels, according to the sources.
 
 1. **Walking warriors with spears**, wearing Germanic boar helmets.
 2. **A dancing man with a horned head-dress** and **a man with a spear wearing a wolfskin**.
@@ -40,15 +40,15 @@ The scenes are presumed to be traditional Germanic mythology. Two points stand o
 - **The missing eye.** The left figure on the dancing-man die is missing its right eye. A laser scan suggests the eye was deliberately struck out in the original used to make the mould. This recalls Odin, and so it is suggested that the figure is he.
 - **The wolf-man.** The man beside him, in a wolfskin, is interpreted as a berserker, specifically an úlfhéðinn, a "wolf warrior", perhaps representing wolf-warriors led by the god of frenzy.
 
-Wikipedia presents these as interpretations, not facts.
+The source presents these as interpretations, not facts.
 
 ## Many foils, one die
 
-Because each die could be pressed against thin metal as many times as wanted, the same scene could appear repeated on many helmets. This is why Wikipedia speaks of mass production and not display.
+Because each die could be pressed against thin metal as many times as wanted, the same scene could appear repeated on many helmets. This is why the source speaks of mass production and not display.
 
 ## The dates
 
-Wikipedia gives two datings: the text speaks of the Vendel period, sixth and seventh centuries, and the infobox of the sixth to the eighth. So it is more prudent to say "between the sixth and eighth centuries".
+The source gives two datings: the text speaks of the Vendel period, sixth and seventh centuries, and the infobox of the sixth to the eighth. So it is more prudent to say "between the sixth and eighth centuries".
 
 ## Where they are
 

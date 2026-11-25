@@ -23,9 +23,9 @@ La Völuspá es el discurso de una vidente, una *völva*. En cierto punto recuer
 
 Fue quemada tres veces y renació tres veces. Y, dice la vidente, aún vive.
 
-Después de quemada, pasó a llamarse **Heiðr**, una völva de mucho saber que realizó grandes hazañas. Según Wikipedia, las traducciones varían. Bellows, Orchard y Lindow usan palabras distintas, y Heiðr aparece como una «bruja de vista larga» en Bellows y como una vidente hábil en la profecía en Lindow.
+Después de quemada, pasó a llamarse **Heiðr**, una völva de mucho saber que realizó grandes hazañas. Según las fuentes, las traducciones varían. Bellows, Orchard y Lindow usan palabras distintas, y Heiðr aparece como una «bruja de vista larga» en Bellows y como una vidente hábil en la profecía en Lindow.
 
-Wikipedia no da el número de la estrofa, pero dice que el trato a Gullveig viene en la estrofa inmediatamente anterior al relato de la guerra entre los Æsir y los Vanir.
+La fuente no da el número de la estrofa, pero dice que el trato a Gullveig viene en la estrofa inmediatamente anterior al relato de la guerra entre los Æsir y los Vanir.
 
 ## El nombre
 
@@ -35,7 +35,7 @@ Heiðr, en forma de adjetivo, significa «brillante, clara». Simek dice que el 
 
 ## Qué proponen los estudiosos
 
-Wikipedia enumera algunas hipótesis y avisa de que son propuestas, no conclusiones firmes.
+La fuente enumera algunas hipótesis y avisa de que son propuestas, no conclusiones firmes.
 
 - **Provocó la guerra.** Como su trato viene justo antes del relato de la guerra, algunos estudiosos creen que pudo causarla. Lindow sugiere que el hecho de que ella llevara el *seiðr*, la magia nórdica, a los Æsir fue una estrategia de guerra o lo que la inició. Lo trata como posible, no como cierto.
 - **Es Freyja.** Turville-Petre, Simek y Lindow han teorizado que Gullveig y Heiðr son Freyja. Orchard señala que Freyja también se asocia al oro y al *seiðr*.
@@ -43,7 +43,7 @@ Wikipedia enumera algunas hipótesis y avisa de que son propuestas, no conclusio
 
 ## Lo que no se sabe
 
-Wikipedia dice sin rodeos que la etimología sigue siendo incierta y que tanto la identificación con Freyja como la idea de que causó la guerra son propuestas. Los pasajes que resume Wikipedia no dicen por qué fue atacada ni por qué volvía a la vida.
+La fuente dice sin rodeos que la etimología sigue siendo incierta y que tanto la identificación con Freyja como la idea de que causó la guerra son propuestas. Los pasajes que resume la fuente no dicen por qué fue atacada ni por qué volvía a la vida.
 
 ## En resumen
 

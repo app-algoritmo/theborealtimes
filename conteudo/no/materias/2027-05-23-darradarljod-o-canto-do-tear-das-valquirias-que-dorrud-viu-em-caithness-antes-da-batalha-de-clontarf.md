@@ -27,7 +27,7 @@ Vevens deler i diktet er laget av deler av krigere: innvoller som renning og isl
 
 ## Valkyrjene
 
-Den engelske Wikipedia-artikkelen nevner seks av de tolv kvinnene: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr og Göndul. Det er navn på valkyrjer, de som velger de falne.
+Den engelske kilden-artikkelen nevner seks av de tolv kvinnene: Hildr, Hjörþrimul, Sanngriðr, Svipul, Guðr og Göndul. Det er navn på valkyrjer, de som velger de falne.
 
 ## Keltisk og norrønt
 

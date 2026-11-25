@@ -23,4 +23,4 @@ Según la Crónica Primaria, Oleg escondió guerreros en los barcos y se hizo pa
 
 ## La historia detrás
 
-Según la Crónica Primaria, en 882 Oleg escondió a sus guerreros en los barcos y mandó decir a Askold y Dir que era un mercader de camino a Grecia. Cuando salieron, los soldados saltaron de los barcos. Wikipedia recuerda que la historia es semilegendaria. Los guerreros que avanzan y el ritmo del juego son invención. Lee la historia en [Askold y Dir: los primeros gobernantes varegos de Kiev y el truco de los falsos mercaderes](/es/askold-y-dir-los-primeros-gobernantes-varegos-de-kiev-y-el/).
+Según la Crónica Primaria, en 882 Oleg escondió a sus guerreros en los barcos y mandó decir a Askold y Dir que era un mercader de camino a Grecia. Cuando salieron, los soldados saltaron de los barcos. La fuente recuerda que la historia es semilegendaria. Los guerreros que avanzan y el ritmo del juego son invención. Lee la historia en [Askold y Dir: los primeros gobernantes varegos de Kiev y el truco de los falsos mercaderes](/es/askold-y-dir-los-primeros-gobernantes-varegos-de-kiev-y-el/).

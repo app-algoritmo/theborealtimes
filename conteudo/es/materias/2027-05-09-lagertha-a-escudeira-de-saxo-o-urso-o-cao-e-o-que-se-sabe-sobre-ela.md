@@ -32,7 +32,7 @@ Saxo termina con un golpe: de regreso en Noruega, los dos se pelearon y ella lo 
 
 ## Lo que dicen los estudiosos
 
-Judith Jesch describe los relatos de los nueve primeros libros de la Gesta como «en gran parte ficticios». La Wikipedia en inglés señala que Saxo se apoyó en leyendas clásicas sobre las amazonas y en fuentes nórdicas, sobre todo islandesas, que no han sido identificadas con claridad. Su retrato de las mujeres guerreras está marcado por su mirada cristiana: las doncellas guerreras que rechazaban el papel esperado serían señal del desorden del mundo precristiano.
+Judith Jesch describe los relatos de los nueve primeros libros de la Gesta como «en gran parte ficticios». La fuente en inglés señala que Saxo se apoyó en leyendas clásicas sobre las amazonas y en fuentes nórdicas, sobre todo islandesas, que no han sido identificadas con claridad. Su retrato de las mujeres guerreras está marcado por su mirada cristiana: las doncellas guerreras que rechazaban el papel esperado serían señal del desorden del mundo precristiano.
 
 También hay una hipótesis sobre quién sería Lagertha. Hilda Ellis Davidson considera posible, y Nora Chadwick consideraba muy probable, que sea la diosa Þorgerðr Hölgabrúðr, venerada por Hákon Sigurðarson en Hlaðir. El nombre nórdico Hlaðgerðr podría venir de esa relación, y el valle de Gaular, donde Saxo la sitúa, fue un centro del culto. Jesch lee la frase de Saxo sobre Lagertha «volando» hasta la retaguardia enemiga como señal de parentesco con las valquirias.
 

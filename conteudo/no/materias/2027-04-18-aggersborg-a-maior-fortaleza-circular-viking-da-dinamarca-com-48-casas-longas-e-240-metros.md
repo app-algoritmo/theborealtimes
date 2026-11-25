@@ -34,15 +34,15 @@ Danmarks Nationalmuseum gravde ut stedet fra 1945 til 1954, og ekstra søkk ble 
 
 ## Treverket
 
-Wikipedia sier at ett hus krevde omkring 66 store eiker, og at hele anlegget trengte omkring 5 000 store eiker. Det er et tall som gir en idé om hva kongen kunne mobilisere.
+Kilden sier at ett hus krevde omkring 66 store eiker, og at hele anlegget trengte omkring 5 000 store eiker. Det er et tall som gir en idé om hva kongen kunne mobilisere.
 
 ## Hva den var til
 
-Det fantes en teori om at den var kaserne eller treningsplass for Svend Tveskjeggs hærer før erobringen av England tidlig på 1000-tallet. Dendrokronologien motbeviste den teorien. Wikipedia sier at den mer sannsynlig var en forsvarsborg ved strategiske handelsveier og/eller en administrativ utpost for den framvoksende staten. Samme side anslår at borgen kunne romme omkring 5 000 soldater, men sier at den nøyaktige bruken fortsatt er uklar.
+Det fantes en teori om at den var kaserne eller treningsplass for Svend Tveskjeggs hærer før erobringen av England tidlig på 1000-tallet. Dendrokronologien motbeviste den teorien. Kilden sier at den mer sannsynlig var en forsvarsborg ved strategiske handelsveier og/eller en administrativ utpost for den framvoksende staten. Samme side anslår at borgen kunne romme omkring 5 000 soldater, men sier at den nøyaktige bruken fortsatt er uklar.
 
 ## Tallene
 
-Det lønner seg å samle tallene på ett sted: 240 meter indre diameter, grøft 8 meter fra vollen, mur på omkring 4 meter, 48 hus på omkring 32,5 ganger 8,5 meter, 4 hovedveier, 30 000 gjenstander funnet på 13 000 utgravde kvadratmeter. Wikipedia sier «omkring» om flere av dem, og verdiene bør leses som arkeologers anslag, ikke som eksakte mål.
+Det lønner seg å samle tallene på ett sted: 240 meter indre diameter, grøft 8 meter fra vollen, mur på omkring 4 meter, 48 hus på omkring 32,5 ganger 8,5 meter, 4 hovedveier, 30 000 gjenstander funnet på 13 000 utgravde kvadratmeter. Kilden sier «omkring» om flere av dem, og verdiene bør leses som arkeologers anslag, ikke som eksakte mål.
 
 ## Kort sagt
 

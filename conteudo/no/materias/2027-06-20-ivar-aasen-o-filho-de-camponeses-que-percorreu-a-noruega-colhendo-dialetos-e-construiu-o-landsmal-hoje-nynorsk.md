@@ -13,7 +13,7 @@ fontes:
 tags: [ivar aasen, landsmål, nynorsk, dialekter, sunnmøre, filologi, norsk språk]
 ---
 
-Ivar Aasen ble født 5. august 1813 på Åsen i Ørsten prestegjeld (i dag Ørsta) på Sunnmøre på Vestlandet, i en bondefamilie. Ifølge Wikipedia døde faren, en småbonde, i 1826, og Aasen arbeidet på gården som barn.
+Ivar Aasen ble født 5. august 1813 på Åsen i Ørsten prestegjeld (i dag Ørsta) på Sunnmøre på Vestlandet, i en bondefamilie. Ifølge kildene døde faren, en småbonde, i 1826, og Aasen arbeidet på gården som barn.
 
 ## En selvlært mann
 

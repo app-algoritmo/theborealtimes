@@ -13,7 +13,7 @@ fontes:
 tags: [birger jarl, stockholm, house of bjälbo, magnus ladulås, medieval sweden, folkungs, mälaren]
 ---
 
-Birger Jarl, also called Birger Magnusson, was a Swedish statesman, regent and *jarl* of the House of Bjälbo. According to Wikipedia, he was born around 1210, probably in Östergötland, and died on 21 October 1266 at Jälbolung in Västergötland. The birth date is uncertain: remains examined in 2002 suggest he was about 50 at death, which points to 1216.
+Birger Jarl, also called Birger Magnusson, was a Swedish statesman, regent and *jarl* of the House of Bjälbo. According to the sources, he was born around 1210, probably in Östergötland, and died on 21 October 1266 at Jälbolung in Västergötland. The birth date is uncertain: remains examined in 2002 suggest he was about 50 at death, which points to 1216.
 
 ## Family and power
 
@@ -29,7 +29,7 @@ Birger led the Second Swedish Crusade to Finland. Erik's Chronicle says he defea
 
 ## Stockholm
 
-By tradition, Birger is credited with founding Stockholm, around 1250. What exists is two carefully dated letters of 1252, the first known mention of the city. They do not describe the site. Suggested motives include limiting the local magnates by controlling access to Lake Mälaren, defending the surrounding lands and creating a trade base for German merchants. Wikipedia calls his direct role speculative.
+By tradition, Birger is credited with founding Stockholm, around 1250. What exists is two carefully dated letters of 1252, the first known mention of the city. They do not describe the site. Suggested motives include limiting the local magnates by controlling access to Lake Mälaren, defending the surrounding lands and creating a trade base for German merchants. The source calls his direct role speculative.
 
 ## Afterwards
 

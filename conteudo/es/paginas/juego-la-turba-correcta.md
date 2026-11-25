@@ -23,4 +23,4 @@ Las sagas dicen que Einarr ganó el nombre de Turba al enseñar a las Órcadas a
 
 ## La historia detrás
 
-Las sagas dicen que Einarr ganó el nombre «Torf», «turba», al introducir la quema de turba por escasez de leña. Wikipedia dice que eso es incorrecto, pues el uso de la turba es anterior a los nórdicos, y que el origen del apodo se desconoce. Los nueve montículos, los brillos y el ritmo del juego son invención. Lee la historia en [Torf-Einarr: el conde de las Órcadas, el apodo de la turba y la multa de sesenta marcos de oro](/es/torf-einarr-el-conde-de-las-orcadas-el-apodo-de-la-turba-y/).
+Las sagas dicen que Einarr ganó el nombre «Torf», «turba», al introducir la quema de turba por escasez de leña. La fuente dice que eso es incorrecto, pues el uso de la turba es anterior a los nórdicos, y que el origen del apodo se desconoce. Los nueve montículos, los brillos y el ritmo del juego son invención. Lee la historia en [Torf-Einarr: el conde de las Órcadas, el apodo de la turba y la multa de sesenta marcos de oro](/es/torf-einarr-el-conde-de-las-orcadas-el-apodo-de-la-turba-y/).

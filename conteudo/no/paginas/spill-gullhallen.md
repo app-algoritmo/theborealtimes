@@ -23,4 +23,4 @@ Navnet Gullveig har med gull å gjøre, og Völuspá setter henne under spydene 
 
 ## Historien bak
 
-Ifølge Wikipedia gjennomstikkes Gullveig av spyd og brennes tre ganger i Hárrs sal i Völuspá, og gjenfødes og kalles siden Heiðr. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Gullveig, hun som ble brent tre ganger: gåten i Völuspá før krigen mellom gudene](/no/gullveig-hun-som-ble-brent-tre-ganger-gaten-i-voluspa/).
+Ifølge kildene gjennomstikkes Gullveig av spyd og brennes tre ganger i Hárrs sal i Völuspá, og gjenfødes og kalles siden Heiðr. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Gullveig, hun som ble brent tre ganger: gåten i Völuspá før krigen mellom gudene](/no/gullveig-hun-som-ble-brent-tre-ganger-gaten-i-voluspa/).

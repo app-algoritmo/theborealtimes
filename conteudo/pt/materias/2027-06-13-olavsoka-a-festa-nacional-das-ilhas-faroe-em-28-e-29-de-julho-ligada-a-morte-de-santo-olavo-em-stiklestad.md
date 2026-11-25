@@ -13,7 +13,7 @@ fontes:
 tags: [ólavsøka, ilhas faroé, tórshavn, santo olavo, stiklestad, dança em corrente, regata, løgting]
 ---
 
-A Ólavsøka é a maior festa de verão das Ilhas Faroé. Dura dois dias, 28 e 29 de julho, e, segundo a Wikipédia, para a maioria dos faroeses é feriado nacional, junto com o Dia da Bandeira, em 25 de abril.
+A Ólavsøka é a maior festa de verão das Ilhas Faroé. Dura dois dias, 28 e 29 de julho, e, segundo as fontes, para a maioria dos faroeses é feriado nacional, junto com o Dia da Bandeira, em 25 de abril.
 
 ## O nome
 
@@ -31,6 +31,6 @@ As finais nacionais de remo são em 28 de julho e estão entre os pontos altos d
 
 ## Limites da fonte
 
-O artigo da Wikipédia avisa que precisa de mais citações, e não conta a história da festa ao longo do tempo, só a origem do nome e a ligação com 1030. Os horários exatos, como o da cantata, variam de ano para ano, e há diferenças entre os sindicatos sobre o dia de folga.
+O artigo da fonte avisa que precisa de mais citações, e não conta a história da festa ao longo do tempo, só a origem do nome e a ligação com 1030. Os horários exatos, como o da cantata, variam de ano para ano, e há diferenças entre os sindicatos sobre o dia de folga.
 
 Para remar no compasso certo, jogue [O ritmo da regata](/pt/jogo-o-ritmo-da-regata/).

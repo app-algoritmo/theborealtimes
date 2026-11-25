@@ -19,7 +19,7 @@ In the sagas of the kings of Norway, Harald Fairhair is the king who unifies the
 
 ## Who she was
 
-According to medieval tradition, Snæfríðr Svásadóttir (also Snjófríðr) was one of the wives of Harald Fairhair. She is described as a Sami woman, and the sagas make her an ancestor of Harald Hardrada. Wikipedia notes that, apart from Ragnhild the Mighty, she is the only wife of Harald named outside Heimskringla.
+According to medieval tradition, Snæfríðr Svásadóttir (also Snjófríðr) was one of the wives of Harald Fairhair. She is described as a Sami woman, and the sagas make her an ancestor of Harald Hardrada. The source notes that, apart from Ragnhild the Mighty, she is the only wife of Harald named outside Heimskringla.
 
 ## The feast
 
@@ -39,11 +39,11 @@ An old man named Þorleifr the Wise persuaded the king to leave the chamber. He 
 
 ## Afterwards
 
-Wikipedia reports that Harald concluded she had been a witch, grew furious and exiled all the sons he had had with her. From then on he was hostile to magicians. When Rǫgnvaldr followed his mother's path, Harald sent his loyal son Eiríkr Bloodaxe to kill him. The page does not describe Harald's recovery beyond this point.
+The source reports that Harald concluded she had been a witch, grew furious and exiled all the sons he had had with her. From then on he was hostile to magicians. When Rǫgnvaldr followed his mother's path, Harald sent his loyal son Eiríkr Bloodaxe to kill him. The page does not describe Harald's recovery beyond this point.
 
 ## The sources
 
-The main story is in Heimskringla, in Haralds saga hins hárfagra, chapters 25 and 26. The legend also appears in Ágrip. Orkneyinga saga mentions her briefly, and the poem Málshattakvæði alludes to her. In Flateyjarbók, the first chapter of Haralds þáttr hárfagra centres on her and credits Harald with the Snæfríðardrápa, a skaldic poem about her. Wikipedia cites Gro Steinsland, *Fornnordisk religion* (2007), on the point that she is a wife of Harald outside Heimskringla. The page has no scholarly discussion of her Sami identity, beyond the description.
+The main story is in Heimskringla, in Haralds saga hins hárfagra, chapters 25 and 26. The legend also appears in Ágrip. Orkneyinga saga mentions her briefly, and the poem Málshattakvæði alludes to her. In Flateyjarbók, the first chapter of Haralds þáttr hárfagra centres on her and credits Harald with the Snæfríðardrápa, a skaldic poem about her. The source cites Gro Steinsland, *Fornnordisk religion* (2007), on the point that she is a wife of Harald outside Heimskringla. The page has no scholarly discussion of her Sami identity, beyond the description.
 
 ## In short
 

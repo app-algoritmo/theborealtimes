@@ -32,7 +32,7 @@ Grønvik lee un naufragio con mal tiempo, una pregunta sobre quién llevó al mu
 
 ## Galdr
 
-Algunos estudiosos proponen que el segundo panel sea una estrofa en galdralag, el metro de los conjuros. Wikipedia señala el parecido con los Conjuros de Merseburgo, y dice que las dos fuentes pueden ser raros ejemplos de galdr precristiano.
+Algunos estudiosos proponen que el segundo panel sea una estrofa en galdralag, el metro de los conjuros. La fuente señala el parecido con los Conjuros de Merseburgo, y dice que las dos fuentes pueden ser raros ejemplos de galdr precristiano.
 
 ## En resumen
 

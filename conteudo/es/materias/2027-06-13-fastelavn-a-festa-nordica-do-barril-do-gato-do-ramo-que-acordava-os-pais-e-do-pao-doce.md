@@ -13,7 +13,7 @@ fontes:
 tags: [fastelavn, slå katten af tønden, barril del gato, fastelavnsbolle, dinamarca, noruega, tradiciones nórdicas]
 ---
 
-El Fastelavn es una fiesta nórdica de la semana anterior a la Cuaresma. Según Wikipedia, cae siempre en domingo entre el 1 de febrero y el 7 de marzo, siete semanas antes del domingo de Pascua, y llega a su punto culminante el martes de Carnaval, víspera del Miércoles de Ceniza.
+El Fastelavn es una fiesta nórdica de la semana anterior a la Cuaresma. Según las fuentes, cae siempre en domingo entre el 1 de febrero y el 7 de marzo, siete semanas antes del domingo de Pascua, y llega a su punto culminante el martes de Carnaval, víspera del Miércoles de Ceniza.
 
 ## El nombre
 

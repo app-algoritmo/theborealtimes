@@ -13,7 +13,7 @@ fontes:
 tags: [widsith, exeter book, angelsaksisk poesi, eormanric, attila, hrothgar, wicinga cynn]
 ---
 
-Widsith, på gammelengelsk *Wīdsīþ*, omtrent «den vidtreiste», er et dikt på 143 vers som også kalles «Den reisendes sang». Ifølge Wikipedia finnes det bare i Exeter Book (side 84v–87r), et manuskript fra slutten av 900-tallet som rommer omkring en sjettedel av all bevart gammelengelsk poesi. Boken har ligget i katedralen i Exeter siden den ble gitt dit i 1076.
+Widsith, på gammelengelsk *Wīdsīþ*, omtrent «den vidtreiste», er et dikt på 143 vers som også kalles «Den reisendes sang». Ifølge kildene finnes det bare i Exeter Book (side 84v–87r), et manuskript fra slutten av 900-tallet som rommer omkring en sjettedel av all bevart gammelengelsk poesi. Boken har ligget i katedralen i Exeter siden den ble gitt dit i 1076.
 
 ## Tre kataloger
 

@@ -23,4 +23,4 @@ In Engelbrekt's revolt, the rebels destroyed the bailiffs' castles. Here you pop
 
 ## The story behind it
 
-Engelbrekt Engelbrektsson, owner of a mine in Bergslagen, led the Swedish revolt of 1434 against King Erik of Pomerania, and Wikipedia says the rebels destroyed bailiffs' castles. He died on 4 May 1436. The towers and houses in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Engelbrekt Engelbrektsson: the mine owner who led the Swedish revolt against the king's bailiff](/engelbrekt-engelbrektsson-the-mine-owner-who-led/).
+Engelbrekt Engelbrektsson, owner of a mine in Bergslagen, led the Swedish revolt of 1434 against King Erik of Pomerania, and the source says the rebels destroyed bailiffs' castles. He died on 4 May 1436. The towers and houses in the game are invented. The game itself, with its objects and rules, is invention. Read the story in [Engelbrekt Engelbrektsson: the mine owner who led the Swedish revolt against the king's bailiff](/engelbrekt-engelbrektsson-the-mine-owner-who-led/).

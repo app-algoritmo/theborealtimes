@@ -19,7 +19,7 @@ Poucos nomes das sagas islandesas despertam tantas opiniões quanto Hallgerðr l
 
 ## Quem era
 
-A Wikipédia diz que Hallgerðr era filha de Höskuldr Dala-Kollsson, que vivia em Höskuldsstaðir, em Laxárdalr. A mãe quase não aparece na narrativa. A Landnámabók nomeia como irmãos, ou meios-irmãos, dela Þorleikr, Olaf Pavão, Helgi, Þúriðr e Þorgerðr.
+A fonte diz que Hallgerðr era filha de Höskuldr Dala-Kollsson, que vivia em Höskuldsstaðir, em Laxárdalr. A mãe quase não aparece na narrativa. A Landnámabók nomeia como irmãos, ou meios-irmãos, dela Þorleikr, Olaf Pavão, Helgi, Þúriðr e Þorgerðr.
 
 Adulta, tinha o cabelo "tão comprido que podia cobrir o corpo inteiro". Era alta, o que lhe deu o apelido **langbrók**, "calça comprida". A Landnámabók dá outro, **snúinbrók**, "calça torcida". É descrita como impetuosa e voluntariosa. O padrasto de criação, Þjóstólfr, violento e inflexível, teria influenciado mal.
 
@@ -31,7 +31,7 @@ Adulta, tinha o cabelo "tão comprido que podia cobrir o corpo inteiro". Era alt
 
 ## A briga com Bergþóra
 
-A Wikipédia diz que Hallgerðr foi uma das principais instigadoras da briga entre Gunnar e Njáll Þorgeirsson. Ela e a esposa de Njáll, Bergþóra Skarphéðinsdóttir, fizeram golpes de retaliação cada vez maiores, mandando matar pessoas da casa uma da outra.
+A fonte diz que Hallgerðr foi uma das principais instigadoras da briga entre Gunnar e Njáll Þorgeirsson. Ela e a esposa de Njáll, Bergþóra Skarphéðinsdóttir, fizeram golpes de retaliação cada vez maiores, mandando matar pessoas da casa uma da outra.
 
 ## O cabelo
 
@@ -51,7 +51,7 @@ Após a morte de Gunnar, ela se instala em Grjotá com o filho Grani. Na saga, a
 
 ## O que o texto não decide
 
-A Wikipédia mostra que os leitores discordam. A saga conta as ações, mas quem as lê pode vê-las como maldade, como reação ou como as duas coisas ao mesmo tempo.
+A fonte mostra que os leitores discordam. A saga conta as ações, mas quem as lê pode vê-las como maldade, como reação ou como as duas coisas ao mesmo tempo.
 
 ## Em resumo
 

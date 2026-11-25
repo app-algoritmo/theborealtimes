@@ -19,8 +19,8 @@ card:
 
 ## Slik spiller du
 
-Ifølge Wikipedia var det ytre laget på Gallehus-hornene bygget av gullringer. Her stabler du ringene. En blokk glir fra side til side. Trykk på skjermen, eller trykk Mellomrom, for å slippe den på steinfoten. Det som henger utenfor, faller av, og stabelen blir smalere, men aldri under et minimum. Å bomme helt er en feil. Stable 10 før tiden er ute. Tre feil avslutter spillet.
+Ifølge kildene var det ytre laget på Gallehus-hornene bygget av gullringer. Her stabler du ringene. En blokk glir fra side til side. Trykk på skjermen, eller trykk Mellomrom, for å slippe den på steinfoten. Det som henger utenfor, faller av, og stabelen blir smalere, men aldri under et minimum. Å bomme helt er en feil. Stable 10 før tiden er ute. Tre feil avslutter spillet.
 
 ## Historien bak
 
-Ifølge Wikipedia var hvert Gallehus-horn laget av dobbelt gullblikk, og det ytre laget, av 24 karat gull, var bygget av ringer. Hornene ble stjålet og smeltet ned i 1802. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Gallehus-hornene av gull: funnet i 1639 og 1734, smeltet ned i 1802](/no/gallehus-hornene-av-gull-funnet-i-1639-og-1734-smeltet-ned/).
+Ifølge kildene var hvert Gallehus-horn laget av dobbelt gullblikk, og det ytre laget, av 24 karat gull, var bygget av ringer. Hornene ble stjålet og smeltet ned i 1802. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Gallehus-hornene av gull: funnet i 1639 og 1734, smeltet ned i 1802](/no/gallehus-hornene-av-gull-funnet-i-1639-og-1734-smeltet-ned/).

@@ -19,9 +19,9 @@ Cuando se habla de los tesoros de Thor, el martillo Mjölnir va primero. La Edda
 
 ## El cinturón de fuerza
 
-El nombre Megingjörð significa «cinturón de poder»: megin es fuerza, gjörð es cinturón. Según Snorri Sturluson, cuando Thor se lo aprieta su fuerza divina crece, y Wikipedia resume el efecto como duplicar la fuerza que ya tiene. En la Gylfaginning, justo después del Prólogo, Thor «se ciñó con su cinturón de fuerza, y su fuerza divina aumentó».
+El nombre Megingjörð significa «cinturón de poder»: megin es fuerza, gjörð es cinturón. Según Snorri Sturluson, cuando Thor se lo aprieta su fuerza divina crece, y la fuente resume el efecto como duplicar la fuerza que ya tiene. En la Gylfaginning, justo después del Prólogo, Thor «se ciñó con su cinturón de fuerza, y su fuerza divina aumentó».
 
-El cinturón aparece también en la poesía más antigua. En la Þórsdrápa, un poema del siglo X de Eilífr Goðrúnarson, compuesto al servicio del jarl Hákon Sigurðarson, la estrofa 7 hace referencia al cinturón. Wikipedia traduce la expresión que el poeta usa para Thor como «el que se beneficia del gran cinturón».
+El cinturón aparece también en la poesía más antigua. En la Þórsdrápa, un poema del siglo X de Eilífr Goðrúnarson, compuesto al servicio del jarl Hákon Sigurðarson, la estrofa 7 hace referencia al cinturón. La fuente traduce la expresión que el poeta usa para Thor como «el que se beneficia del gran cinturón».
 
 ## Los guantes de hierro
 

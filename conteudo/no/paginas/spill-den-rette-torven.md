@@ -23,4 +23,4 @@ Sagaene sier at Einar fikk navnet Torv ved å lære Orknøyene å brenne torv. N
 
 ## Historien bak
 
-Sagaene sier at Einar fikk navnet «Torf», «torv», ved å innføre torvbrenning på grunn av mangel på ved. Wikipedia sier at dette er feil, siden bruk av torv er eldre enn nordboerne, og at opprinnelsen til tilnavnet er ukjent. De ni haugene, skjærene og tempoet i spillet er oppfinnelse. Les historien i [Torv-Einar: jarlen på Orknøyene, torvnavnet og boten på seksti gullmark](/no/torv-einar-jarlen-pa-orknoyene-torvnavnet-og-boten/).
+Sagaene sier at Einar fikk navnet «Torf», «torv», ved å innføre torvbrenning på grunn av mangel på ved. Kilden sier at dette er feil, siden bruk av torv er eldre enn nordboerne, og at opprinnelsen til tilnavnet er ukjent. De ni haugene, skjærene og tempoet i spillet er oppfinnelse. Les historien i [Torv-Einar: jarlen på Orknøyene, torvnavnet og boten på seksti gullmark](/no/torv-einar-jarlen-pa-orknoyene-torvnavnet-og-boten/).

@@ -34,15 +34,15 @@ El Museo Nacional de Dinamarca excavó el sitio de 1945 a 1954, y se estudiaron 
 
 ## La madera
 
-Wikipedia dice que una casa requería unos 66 robles grandes, y que toda la estructura necesitó unos 5.000 robles grandes. Es una cifra que da idea de lo que el rey era capaz de movilizar.
+La fuente dice que una casa requería unos 66 robles grandes, y que toda la estructura necesitó unos 5.000 robles grandes. Es una cifra que da idea de lo que el rey era capaz de movilizar.
 
 ## Para qué servía
 
-Hubo una teoría de que era cuartel o campo de entrenamiento de los ejércitos de Svend Barba Bífida antes de la conquista de Inglaterra, a comienzos del siglo XI. La dendrocronología refutó esa teoría. Wikipedia dice que era más probable que fuera una fortaleza defensiva en rutas comerciales estratégicas y/o un puesto administrativo del Estado naciente. La misma página estima que el fuerte podría albergar unos 5.000 soldados, pero afirma que el uso exacto sigue siendo incierto.
+Hubo una teoría de que era cuartel o campo de entrenamiento de los ejércitos de Svend Barba Bífida antes de la conquista de Inglaterra, a comienzos del siglo XI. La dendrocronología refutó esa teoría. La fuente dice que era más probable que fuera una fortaleza defensiva en rutas comerciales estratégicas y/o un puesto administrativo del Estado naciente. La misma página estima que el fuerte podría albergar unos 5.000 soldados, pero afirma que el uso exacto sigue siendo incierto.
 
 ## Las cifras
 
-Conviene reunir las cifras en un solo lugar: 240 metros de diámetro interior, foso a 8 metros del terraplén, muro de unos 4 metros, 48 casas de unos 32,5 por 8,5 metros, 4 calles principales, 30.000 objetos hallados en 13.000 metros cuadrados excavados. Wikipedia dice «unos» en varias de ellas, y los valores deben leerse como estimaciones de los arqueólogos, no como medidas exactas.
+Conviene reunir las cifras en un solo lugar: 240 metros de diámetro interior, foso a 8 metros del terraplén, muro de unos 4 metros, 48 casas de unos 32,5 por 8,5 metros, 4 calles principales, 30.000 objetos hallados en 13.000 metros cuadrados excavados. La fuente dice «unos» en varias de ellas, y los valores deben leerse como estimaciones de los arqueólogos, no como medidas exactas.
 
 ## En resumen
 

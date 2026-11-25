@@ -13,7 +13,7 @@ fontes:
 tags: [nibelungenlied, siegfried, kriemhild, hagen, völsunga saga, medieval german poetry, nibelung treasure]
 ---
 
-The *Nibelungenlied* is a Middle High German epic poem composed around 1200, most likely in the region of Passau. Its author is anonymous. According to Wikipedia, it draws on an older oral tradition with roots in events and figures of the 5th and 6th centuries, known across most of the Germanic-speaking world. Bishop Wolfger von Erla, who reigned from 1191 to 1204, is considered a likely patron.
+The *Nibelungenlied* is a Middle High German epic poem composed around 1200, most likely in the region of Passau. Its author is anonymous. According to the sources, it draws on an older oral tradition with roots in events and figures of the 5th and 6th centuries, known across most of the Germanic-speaking world. Bishop Wolfger von Erla, who reigned from 1191 to 1204, is considered a likely patron.
 
 ## The manuscripts
 

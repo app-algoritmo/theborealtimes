@@ -18,7 +18,7 @@ Oddrúnargrátr, «Oddruns klage», er et av de korte diktene i den eldre Edda o
 
 ## Diktet i manuskriptet
 
-Ifølge Wikipedia er diktet anonymt, i fornyrðislag og regnet som relativt sent, kanskje fra 1000-tallet. I Codex Regius står det etter Guðrúnarkviða III og før Atlakviða. Bellows noterer i innledningen at grunnlaget er den germanske sagnet om Sigurd og Atle, men at Oddrún og de mindre skikkelsene Borgný og Vilmundr er tilføyelser fra Norden.
+Ifølge kildene er diktet anonymt, i fornyrðislag og regnet som relativt sent, kanskje fra 1000-tallet. I Codex Regius står det etter Guðrúnarkviða III og før Atlakviða. Bellows noterer i innledningen at grunnlaget er den germanske sagnet om Sigurd og Atle, men at Oddrún og de mindre skikkelsene Borgný og Vilmundr er tilføyelser fra Norden.
 
 ## Borgný kan ikke føde
 

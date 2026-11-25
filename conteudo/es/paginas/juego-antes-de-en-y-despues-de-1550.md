@@ -23,4 +23,4 @@ Jón Arason fue decapitado en 1550. Lleva cada frase a la caja correcta: antes d
 
 ## La historia detrás
 
-Jón Arason, obispo católico de Hólar, fue capturado en Sauðafell y decapitado en 1550 con sus hijos Ari y Björn; Wikipedia da la muerte el 7 de noviembre. Las cajas del juego son invención. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Jón Arason, el último obispo católico de Islandia, decapitado en 1550 con dos de sus hijos](/es/jon-arason-el-ultimo-obispo-catolico-de-islandia-decapitado/).
+Jón Arason, obispo católico de Hólar, fue capturado en Sauðafell y decapitado en 1550 con sus hijos Ari y Björn; la fuente da la muerte el 7 de noviembre. Las cajas del juego son invención. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Jón Arason, el último obispo católico de Islandia, decapitado en 1550 con dos de sus hijos](/es/jon-arason-el-ultimo-obispo-catolico-de-islandia-decapitado/).

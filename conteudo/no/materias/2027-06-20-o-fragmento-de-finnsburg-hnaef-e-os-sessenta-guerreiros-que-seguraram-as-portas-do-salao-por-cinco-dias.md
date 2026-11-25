@@ -13,7 +13,7 @@ fontes:
 tags: [finnsburg, hnæf, hengest, beowulf, angelsaksisk poesi, fragment, hickes]
 ---
 
-Finnsburg-fragmentet (også skrevet Finnsburh) er et kort stykke av et heltedikt på gammelengelsk, med stavrim. Ifølge Wikipedia handler det om en kamp der Hnæf og hans seksti følgesvenner er beleiret i «Finns borg» og prøver å holde angriperne unna.
+Finnsburg-fragmentet (også skrevet Finnsburh) er et kort stykke av et heltedikt på gammelengelsk, med stavrim. Ifølge kildene handler det om en kamp der Hnæf og hans seksti følgesvenner er beleiret i «Finns borg» og prøver å holde angriperne unna.
 
 ## En kopi av et tapt blad
 

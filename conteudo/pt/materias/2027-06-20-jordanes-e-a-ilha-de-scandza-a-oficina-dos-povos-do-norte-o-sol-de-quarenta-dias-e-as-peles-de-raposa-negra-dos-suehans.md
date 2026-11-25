@@ -14,7 +14,7 @@ fontes:
 tags: [jordanes, getica, scandza, escandinávia, godos, suehans, séc. vi]
 ---
 
-Jordanes foi um burocrata romano oriental do século VI, de origem gótica, que escreveu em latim tardio. Segundo a Wikipédia, sua obra mais conhecida, a *Getica*, foi escrita em Constantinopla por volta de 551, como resumo da perdida história dos godos em doze volumes de Cassiodoro. Ele diz que teve só três dias para consultá-la, e por isso usou muito a memória.
+Jordanes foi um burocrata romano oriental do século VI, de origem gótica, que escreveu em latim tardio. Segundo as fontes, sua obra mais conhecida, a *Getica*, foi escrita em Constantinopla por volta de 551, como resumo da perdida história dos godos em doze volumes de Cassiodoro. Ele diz que teve só três dias para consultá-la, e por isso usou muito a memória.
 
 ## A ilha de Scandza
 
@@ -22,7 +22,7 @@ A *Getica* abre com uma geografia e uma etnografia do norte. Jordanes chama Scan
 
 ## Os povos que ele lista
 
-Os adogit viviam com luz contínua por quarenta dias e noites no meio do verão, e em escuridão contínua por outros quarenta no meio do inverno. Os *screrefennae* eram caçadores-coletores, e a Wikipédia os identifica com os sámi. Os suehans, em geral lidos como suecos, tinham cavalos esplêndidos e forneciam ao mercado romano peles de raposa negra. Os dani, os dinamarqueses, eram "da mesma estirpe" e expulsaram os hérulos de suas terras. A lista inclui ainda vagoths, gautigoths, ostrogoths, rugii, raumarici e muitos outros nomes, alguns provavelmente duplicados, por vir de viajantes diferentes. Rodwulf, de Bohuslän, é um dos escandinavos que se juntaram aos godos.
+Os adogit viviam com luz contínua por quarenta dias e noites no meio do verão, e em escuridão contínua por outros quarenta no meio do inverno. Os *screrefennae* eram caçadores-coletores, e a fonte os identifica com os sámi. Os suehans, em geral lidos como suecos, tinham cavalos esplêndidos e forneciam ao mercado romano peles de raposa negra. Os dani, os dinamarqueses, eram "da mesma estirpe" e expulsaram os hérulos de suas terras. A lista inclui ainda vagoths, gautigoths, ostrogoths, rugii, raumarici e muitos outros nomes, alguns provavelmente duplicados, por vir de viajantes diferentes. Rodwulf, de Bohuslän, é um dos escandinavos que se juntaram aos godos.
 
 ## Os godos vêm de lá?
 

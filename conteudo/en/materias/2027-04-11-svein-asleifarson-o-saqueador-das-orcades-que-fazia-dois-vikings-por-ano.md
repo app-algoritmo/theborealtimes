@@ -23,7 +23,7 @@ The saga calls him "the greatest man in the Western Lands, in olden times or pre
 
 ## The origin of the revenge
 
-According to Wikipedia, which summarizes the saga, Svein was born in the early twelfth century, and his father, Olaf Hrolfsson, was killed by Olvir Rosta. Svein later attacked Olvir and killed his grandmother, and Olvir fled to the Hebrides. The saga also tells that around 1134 Svein killed Earl Paul's cup-bearer in a quarrel over a drinking game and fled to Tiree, where Holdbodi Hundason sheltered him.
+According to the sources, which summarizes the saga, Svein was born in the early twelfth century, and his father, Olaf Hrolfsson, was killed by Olvir Rosta. Svein later attacked Olvir and killed his grandmother, and Olvir fled to the Hebrides. The saga also tells that around 1134 Svein killed Earl Paul's cup-bearer in a quarrel over a drinking game and fled to Tiree, where Holdbodi Hundason sheltered him.
 
 ## Wales and the Isle of Man
 

@@ -23,4 +23,4 @@ The Karlevi stone, on Öland, has a prose part, a stanza and an inscription on t
 
 ## The story behind it
 
-According to Wikipedia, the Karlevi stone (Öl 1), from the late tenth century, has a prose part that names Sibba, son of Fuldar, a stanza in dróttkvætt and, on the back, a possibly Christian inscription, a cross and a hammer of Thor. The row of phrases, the three boxes and the rhythm of the game are invention. Read the story in [The Karlevi stone on Öland: the only complete skaldic poem carved on a runestone](/the-karlevi-stone-on-oland-the-only-complete-skaldic-poem/).
+According to the sources, the Karlevi stone (Öl 1), from the late tenth century, has a prose part that names Sibba, son of Fuldar, a stanza in dróttkvætt and, on the back, a possibly Christian inscription, a cross and a hammer of Thor. The row of phrases, the three boxes and the rhythm of the game are invention. Read the story in [The Karlevi stone on Öland: the only complete skaldic poem carved on a runestone](/the-karlevi-stone-on-oland-the-only-complete-skaldic-poem/).

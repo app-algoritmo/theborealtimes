@@ -23,4 +23,4 @@ Pesjenegene angrep Kiev på Vladimirs tid. Her avverger du med skjoldet hvert sl
 
 ## Historien bak
 
-Ifølge Wikipedia drepte pesjenegene Vladimirs far, Svjatoslav, i 972, og angrepene deres på Kiev avbrøt toktet i 992. Slagene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Vladimir den store: fyrsten av Kiev som kom tilbake fra eksil med en hær av væringer og valgte Bysants' tro](/no/vladimir-den-store-fyrsten-av-kiev-som-kom-tilbake/).
+Ifølge kildene drepte pesjenegene Vladimirs far, Svjatoslav, i 972, og angrepene deres på Kiev avbrøt toktet i 992. Slagene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Vladimir den store: fyrsten av Kiev som kom tilbake fra eksil med en hær av væringer og valgte Bysants' tro](/no/vladimir-den-store-fyrsten-av-kiev-som-kom-tilbake/).

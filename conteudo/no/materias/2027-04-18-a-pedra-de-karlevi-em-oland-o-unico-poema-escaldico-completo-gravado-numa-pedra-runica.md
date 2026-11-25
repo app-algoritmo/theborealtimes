@@ -15,7 +15,7 @@ fontes:
 tags: [karlevi-steinen, öland, runer, dróttkvætt, skaldediktning, thor, odin, kenning]
 ---
 
-Mange runesteiner sier bare hvem som reiste dem og til minne om hvem. Den i Karlevi på Öland sier mer: den bærer en strofe med poesi. Wikipedia fastslår at det er en komplett strofe, den eneste bevart på en runestein, og den eldste kjente opptegnelsen av en skaldisk strofe.
+Mange runesteiner sier bare hvem som reiste dem og til minne om hvem. Den i Karlevi på Öland sier mer: den bærer en strofe med poesi. Kilden fastslår at det er en komplett strofe, den eneste bevart på en runestein, og den eldste kjente opptegnelsen av en skaldisk strofe.
 
 ## Steinen
 
@@ -27,7 +27,7 @@ Prosadelen nevner Sibba, kalt «Goða», sønn av Fuldar. Steinen antas å være
 
 ## Strofen
 
-Versdelen er i dróttkvætt, «herremålet», den mest berømte formen for skaldekunst. Wikipedia gir en bokstavelig oversettelse, som jeg her sammenfatter med egne ord: mannen som ligger i denne haugen, ble fulgt av store gjerninger, slik de fleste visste. Han beskrives som et «tre av Þrúðrs kamper», altså en kriger. Strofen sier så at en Viðurr (et navn på Odin) av det vide hav, mer rettskaffen og sterk i strid, en sjøkriger, ikke skal styre land i Danmark. Meningen med denne henvisningen til Danmark er ikke klar.
+Versdelen er i dróttkvætt, «herremålet», den mest berømte formen for skaldekunst. Kilden gir en bokstavelig oversettelse, som jeg her sammenfatter med egne ord: mannen som ligger i denne haugen, ble fulgt av store gjerninger, slik de fleste visste. Han beskrives som et «tre av Þrúðrs kamper», altså en kriger. Strofen sier så at en Viðurr (et navn på Odin) av det vide hav, mer rettskaffen og sterk i strid, en sjøkriger, ikke skal styre land i Danmark. Meningen med denne henvisningen til Danmark er ikke klar.
 
 ## Kenningene
 
@@ -39,7 +39,7 @@ På den andre siden er det en innskrift som ikke er runisk, muligens «In nomin[
 
 ## Hva som fortsatt er åpent
 
-Wikipedia lister verkene om steinen, fra Söderberg i 1900–1906 til Thunberg i 2012 og Zilmer i 2005. Blant punktene uten svar er hva omtalen av Danmark betyr, hvem mannen i haugen egentlig var, og om steinen virkelig ble reist av menn som kjempet ved Fýrisvellir.
+Kilden lister verkene om steinen, fra Söderberg i 1900–1906 til Thunberg i 2012 og Zilmer i 2005. Blant punktene uten svar er hva omtalen av Danmark betyr, hvem mannen i haugen egentlig var, og om steinen virkelig ble reist av menn som kjempet ved Fýrisvellir.
 
 ## Kort sagt
 

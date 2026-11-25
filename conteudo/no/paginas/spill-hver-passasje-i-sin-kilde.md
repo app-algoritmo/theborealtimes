@@ -23,4 +23,4 @@ Gunnhild, kongemor, dukker opp i kilder som motsier hverandre. En passasje vises
 
 ## Historien bak
 
-Ifølge Wikipedia gjør Heimskringla Gunnhild til datter av Ozur Toti og knytter henne til to finske trollmenn. I Egils saga prøver brødrene hennes å drepe skalden, som reiser et hestehode på en stolpe. Historia Norwegiae, Laksdøla saga og Jómsvikingesaga gir ulik opprinnelse, kjærlighet og slutt. Rekken av passasjer, de tre boksene og tempoet i spillet er oppfinnelse. Les historien i [Gunnhild, kongemor: hva hver kilde sier om dronningen til Eirik Blodøks](/no/gunnhild-kongemor-hva-hver-kilde-sier-om-dronningen/).
+Ifølge kildene gjør Heimskringla Gunnhild til datter av Ozur Toti og knytter henne til to finske trollmenn. I Egils saga prøver brødrene hennes å drepe skalden, som reiser et hestehode på en stolpe. Historia Norwegiae, Laksdøla saga og Jómsvikingesaga gir ulik opprinnelse, kjærlighet og slutt. Rekken av passasjer, de tre boksene og tempoet i spillet er oppfinnelse. Les historien i [Gunnhild, kongemor: hva hver kilde sier om dronningen til Eirik Blodøks](/no/gunnhild-kongemor-hva-hver-kilde-sier-om-dronningen/).

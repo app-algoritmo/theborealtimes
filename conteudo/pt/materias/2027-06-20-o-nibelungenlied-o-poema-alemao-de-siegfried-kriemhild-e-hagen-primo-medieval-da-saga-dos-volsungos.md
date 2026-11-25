@@ -13,7 +13,7 @@ fontes:
 tags: [nibelungenlied, siegfried, kriemhild, hagen, völsunga saga, poesia medieval alemã, tesouro dos nibelungos]
 ---
 
-O *Nibelungenlied* é um poema épico em alto-alemão médio, composto por volta de 1200, provavelmente na região de Passau. O autor é anônimo. Segundo a Wikipédia, ele recolhe uma tradição oral mais antiga, com raízes em fatos e figuras dos séculos V e VI, conhecida em quase toda a Europa de língua germânica. O bispo Wolfger von Erla, que governou de 1191 a 1204, é visto como um provável patrono.
+O *Nibelungenlied* é um poema épico em alto-alemão médio, composto por volta de 1200, provavelmente na região de Passau. O autor é anônimo. Segundo as fontes, ele recolhe uma tradição oral mais antiga, com raízes em fatos e figuras dos séculos V e VI, conhecida em quase toda a Europa de língua germânica. O bispo Wolfger von Erla, que governou de 1191 a 1204, é visto como um provável patrono.
 
 ## Os manuscritos
 

@@ -17,7 +17,7 @@ Somerled (på mellomirsk *Somairle* eller *Somhairle*, på norrønt *Sumarliði*
 
 ## Usikker opprinnelse
 
-Lite er kjent om ungdommen hans. Han hadde trolig norrøn-gælisk avstamning og kan ha vært født i Nord-Irland. Wikipedia sier at avstamningen er «skjult i uklarhet og myte». Faren oppgis som GilleBride og bestefaren som GilleAdamnan, navn som ser ut til å bekreftes i irske annaler. Slektstavler utover to–tre generasjoner er upålitelige.
+Lite er kjent om ungdommen hans. Han hadde trolig norrøn-gælisk avstamning og kan ha vært født i Nord-Irland. Kilden sier at avstamningen er «skjult i uklarhet og myte». Faren oppgis som GilleBride og bestefaren som GilleAdamnan, navn som ser ut til å bekreftes i irske annaler. Slektstavler utover to–tre generasjoner er upålitelige.
 
 ## Giftermål og opprør
 

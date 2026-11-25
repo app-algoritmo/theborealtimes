@@ -23,7 +23,7 @@ Sagaen kaller ham «den største mannen i Vesterlandene, i gamle dager eller nå
 
 ## Opphavet til hevnen
 
-Ifølge Wikipedia, som gjengir sagaen, ble Svein født tidlig på 1100-tallet, og faren, Olaf Hrolfsson, ble drept av Olvir Rosta. Svein angrep senere Olvir og drepte bestemoren hans, og Olvir flyktet til Hebridene. Sagaen forteller også at Svein omkring 1134 drepte skjenkeren til jarl Paul i et basketak om et drikkespill og flyktet til Tiree, der Holdbodi Hundason ga ham ly.
+Ifølge kildene, som gjengir sagaen, ble Svein født tidlig på 1100-tallet, og faren, Olaf Hrolfsson, ble drept av Olvir Rosta. Svein angrep senere Olvir og drepte bestemoren hans, og Olvir flyktet til Hebridene. Sagaen forteller også at Svein omkring 1134 drepte skjenkeren til jarl Paul i et basketak om et drikkespill og flyktet til Tiree, der Holdbodi Hundason ga ham ly.
 
 ## Wales og Man
 

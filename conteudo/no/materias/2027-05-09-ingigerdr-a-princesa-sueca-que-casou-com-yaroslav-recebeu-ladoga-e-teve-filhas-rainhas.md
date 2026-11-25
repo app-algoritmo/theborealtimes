@@ -17,7 +17,7 @@ Ingigerðr, eller Ingegerd, ble født rundt år 1001, datter av den svenske kong
 
 ## Løftet faren brøt
 
-Ifølge Wikipedia foreslo kong Olav II av Norge i 1015 en kongelig allianse. I 1016 prøvde stormenn fra begge land å ordne giftermålet hans med Ingigerðr. Olof Skötkonung sa først ja, men angret og lovet Olav den andre datteren, Astrid.
+Ifølge kildene foreslo kong Olav II av Norge i 1015 en kongelig allianse. I 1016 prøvde stormenn fra begge land å ordne giftermålet hans med Ingigerðr. Olof Skötkonung sa først ja, men angret og lovet Olav den andre datteren, Astrid.
 
 ## Giftermålet med Jaroslav
 

@@ -13,7 +13,7 @@ fontes:
 tags: [cofre de franks, auzon, weland, runas, inglês antigo, nortúmbria, british museum]
 ---
 
-O Cofre de Franks, ou Cofre de Auzon, é uma caixinha de osso de baleia do início do século VIII, hoje no Museu Britânico. Segundo a Wikipédia, os estudiosos o situam em geral na Nortúmbria. Mede 22,9 cm de comprimento, 19 de largura e 10,9 de altura, e suas superfícies são cobertas de cenas esculpidas a faca, com inscrições em runas.
+O Cofre de Franks, ou Cofre de Auzon, é uma caixinha de osso de baleia do início do século VIII, hoje no Museu Britânico. Segundo as fontes, os estudiosos o situam em geral na Nortúmbria. Mede 22,9 cm de comprimento, 19 de largura e 10,9 de altura, e suas superfícies são cobertas de cenas esculpidas a faca, com inscrições em runas.
 
 ## De Brioude a Londres
 

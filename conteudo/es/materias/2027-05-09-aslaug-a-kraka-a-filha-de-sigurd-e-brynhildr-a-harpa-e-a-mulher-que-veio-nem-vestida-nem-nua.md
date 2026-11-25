@@ -27,11 +27,11 @@ Los hombres de Ragnar la ven bañándose. Quedan tan impresionados que dejan que
 
 ## La prueba
 
-Ragnar manda decir que ella debe llegar ante él ni vestida ni desnuda, ni en ayunas ni alimentada, ni sola ni acompañada. Llega envuelta en una red, mordiendo una cebolla y acompañada de un perro. La Wikipedia dice «cebolla», no puerro. Impresionado por su ingenio, Ragnar le pide la mano.
+Ragnar manda decir que ella debe llegar ante él ni vestida ni desnuda, ni en ayunas ni alimentada, ni sola ni acompañada. Llega envuelta en una red, mordiendo una cebolla y acompañada de un perro. La fuente dice «cebolla», no puerro. Impresionado por su ingenio, Ragnar le pide la mano.
 
 ## El hijo sin huesos
 
-La Wikipedia cuenta que, si Ragnar hubiera seguido el consejo de Áslaug, su hijo Ívarr no habría nacido débil y «sin huesos». Pero Ragnar la llevó a la cama justo después de la boda. El artículo nombra solo a Ívarr entre los hijos.
+La fuente cuenta que, si Ragnar hubiera seguido el consejo de Áslaug, su hijo Ívarr no habría nacido débil y «sin huesos». Pero Ragnar la llevó a la cama justo después de la boda. El artículo nombra solo a Ívarr entre los hijos.
 
 ## El paralelo con los cuentos
 

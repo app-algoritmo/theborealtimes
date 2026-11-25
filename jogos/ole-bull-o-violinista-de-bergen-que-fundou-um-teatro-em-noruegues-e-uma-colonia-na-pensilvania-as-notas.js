@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "Ole Bull foi um violinista que Schumann comparou a Paganini. Aqui você toca nas notas douradas e não toca nas cordas arrebentadas. Toque em as notas douradas assim que aparecer, ou use as teclas 1 a 6. Não toque em as cordas arrebentadas: isso é erro. O que sumir sozinho não pune você. Pegue 12 antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "Você tocou numa corda partida",
     "v1": "O concerto foi um sucesso!",
-    "v2": "Segundo a Wikipédia, Robert Schumann escreveu que Ole Bull se igualava a Paganini em velocidade e clareza. As notas e as cordas do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, Robert Schumann escreveu que Ole Bull se igualava a Paganini em velocidade e clareza. As notas e as cordas do jogo são invenção. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Acertos",
     "dica": "Toque no que aparecer, menos no que não serve"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "Ole Bull was a violinist whom Schumann compared to Paganini. Here you tap the golden notes and do not tap the snapped strings. Tap the golden notes as soon as it appears, or use keys 1 to 6. Do not tap the snapped strings: that is a mistake. Whatever disappears by itself costs you nothing. Get 12 before time runs out. Three mistakes end the game.",
     "perdeu": "You tapped a snapped string",
     "v1": "The concert was a success!",
-    "v2": "According to Wikipedia, Robert Schumann wrote that Ole Bull was on a level with Paganini for speed and clarity. The notes and the strings in the game are invented. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, Robert Schumann wrote that Ole Bull was on a level with Paganini for speed and clarity. The notes and the strings in the game are invented. The game itself, with its objects and rules, is invention.",
     "h1": "Hits",
     "dica": "Tap what appears, except the wrong ones"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "Ole Bull var en fiolinist som Schumann sammenlignet med Paganini. Her trykker du på de gylne notene og ikke på de sprukne strengene. Trykk på de gylne notene så snart det dukker opp, eller bruk tastene 1 til 6. Ikke trykk på de sprukne strengene: det er en feil. Det som forsvinner av seg selv, koster ingenting. Ta 12 før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Du trykket på en sprukken streng",
     "v1": "Konserten var en suksess!",
-    "v2": "Ifølge Wikipedia skrev Robert Schumann at Ole Bull sto på høyde med Paganini i fart og klarhet. Notene og strengene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene skrev Robert Schumann at Ole Bull sto på høyde med Paganini i fart og klarhet. Notene og strengene i spillet er oppfunnet. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Treff",
     "dica": "Trykk på det som dukker opp, unntatt de gale"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "Ole Bull fue un violinista al que Schumann comparó con Paganini. Aquí tocas las notas doradas y no tocas las cuerdas rotas. Toca las notas doradas en cuanto aparezca, o usa las teclas 1 a 6. No toques las cuerdas rotas: eso es un error. Lo que desaparezca solo no te castiga. Consigue 12 antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "Has tocado una cuerda rota",
     "v1": "¡El concierto fue un éxito!",
-    "v2": "Según Wikipedia, Robert Schumann escribió que Ole Bull estaba a la altura de Paganini en velocidad y claridad. Las notas y las cuerdas del juego son invención. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, Robert Schumann escribió que Ole Bull estaba a la altura de Paganini en velocidad y claridad. Las notas y las cuerdas del juego son invención. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Aciertos",
     "dica": "Toca lo que aparezca, menos lo que no sirve"
   }

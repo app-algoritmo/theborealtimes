@@ -13,7 +13,7 @@ fontes:
 tags: [ólavsøka, faroe islands, tórshavn, saint olaf, stiklestad, chain dance, rowing, løgting]
 ---
 
-Ólavsøka is the biggest summer festival in the Faroe Islands. It lasts two days, 28 and 29 July, and, according to Wikipedia, for most Faroese it is a national holiday, alongside Flag Day on 25 April.
+Ólavsøka is the biggest summer festival in the Faroe Islands. It lasts two days, 28 and 29 July, and, according to the sources, for most Faroese it is a national holiday, alongside Flag Day on 25 April.
 
 ## The name
 
@@ -31,6 +31,6 @@ The national rowing finals are on 28 July and are among the highlights of Faroes
 
 ## Limits of the source
 
-The Wikipedia article warns that it needs additional citations, and it does not tell the history of the festival over time, only the origin of the name and the link to 1030. Exact timings, such as that of the cantata, vary from year to year, and unions differ on the day off.
+The the source article warns that it needs additional citations, and it does not tell the history of the festival over time, only the origin of the name and the link to 1030. Exact timings, such as that of the cantata, vary from year to year, and unions differ on the day off.
 
 To row in the right rhythm, play [The rhythm of the regatta](/game-the-rhythm-of-the-regatta/).

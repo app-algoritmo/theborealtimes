@@ -17,7 +17,7 @@ Somerled (en gaélico irlandés medio *Somairle* o *Somhairle*, en nórdico anti
 
 ## Orígenes inciertos
 
-Poco se sabe de su juventud. Probablemente tenía ascendencia nórdico-gaélica y pudo nacer en el norte de Irlanda. Wikipedia dice que su ascendencia está «enmascarada en la oscuridad y el mito». Su padre sería GilleBride y su abuelo GilleAdamnan, nombres que parecen confirmados en los anales irlandeses. Las genealogías más allá de dos o tres generaciones son poco fiables.
+Poco se sabe de su juventud. Probablemente tenía ascendencia nórdico-gaélica y pudo nacer en el norte de Irlanda. La fuente dice que su ascendencia está «enmascarada en la oscuridad y el mito». Su padre sería GilleBride y su abuelo GilleAdamnan, nombres que parecen confirmados en los anales irlandeses. Las genealogías más allá de dos o tres generaciones son poco fiables.
 
 ## Matrimonio y rebelión
 

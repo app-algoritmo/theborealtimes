@@ -19,17 +19,17 @@ Entre as deusas nórdicas, poucas têm tão poucas linhas quanto Eir. E, no enta
 
 ## O nome
 
-Em nórdico antigo, *eir* quer dizer "proteção", "ajuda", "misericórdia". A Wikipédia descreve Eir como uma deusa ou valquíria ligada à habilidade médica e a compara com a deusa grega Hígia.
+Em nórdico antigo, *eir* quer dizer "proteção", "ajuda", "misericórdia". A fonte descreve Eir como uma deusa ou valquíria ligada à habilidade médica e a compara com a deusa grega Hígia.
 
 ## O que dizem as fontes
 
-No **Fjölsvinnsmál**, da Edda Poética, o vigia Fjölsviðr enumera as donzelas que servem Menglöð. Entre elas está Eir. Elas se sentam no monte Lyfjaberg, "monte da cura". Fjölsviðr diz que as ofertas feitas a essas donzelas trazem ajuda e proteção contra a peste e o perigo. A Wikipédia não aponta aí uma função específica de Eir além da presença dela na lista.
+No **Fjölsvinnsmál**, da Edda Poética, o vigia Fjölsviðr enumera as donzelas que servem Menglöð. Entre elas está Eir. Elas se sentam no monte Lyfjaberg, "monte da cura". Fjölsviðr diz que as ofertas feitas a essas donzelas trazem ajuda e proteção contra a peste e o perigo. A fonte não aponta aí uma função específica de Eir além da presença dela na lista.
 
 Na **Gylfaginning**, no cap. 35, Hár cita Eir em terceiro lugar entre as dezesseis ásynjur e diz que ela é "uma médica extremamente boa". Nada mais é dito sobre ela.
 
 No **Skáldskaparmál**, no cap. 75, Eir aparece numa lista de nomes de valquírias, mas não na lista de ásynjur do mesmo capítulo.
 
-Na **poesia escáldica**, Eir serve de kenning para mulher. A Wikipédia dá exemplos como "Eir da riqueza", na Saga de Gísli, e usos dos poetas do século X Kormákr Ögmundarson e Hallfreðr vandræðaskáld. O nome continuou sendo usado em kennings de mulher nas rímur.
+Na **poesia escáldica**, Eir serve de kenning para mulher. A fonte dá exemplos como "Eir da riqueza", na Saga de Gísli, e usos dos poetas do século X Kormákr Ögmundarson e Hallfreðr vandræðaskáld. O nome continuou sendo usado em kennings de mulher nas rímur.
 
 ## Um pau de runas de Bergen
 
@@ -47,7 +47,7 @@ Os estudiosos não concordam.
 
 ## O que as fontes não trazem
 
-Não há mito de Eir curando alguém. A Wikipédia não registra nenhum episódio em que ela trate um deus ferido. O que existe são três coisas: uma frase de Snorri, uma lista no Fjölsvinnsmál e o uso do nome em versos.
+Não há mito de Eir curando alguém. A fonte não registra nenhum episódio em que ela trate um deus ferido. O que existe são três coisas: uma frase de Snorri, uma lista no Fjölsvinnsmál e o uso do nome em versos.
 
 ## Em resumo
 

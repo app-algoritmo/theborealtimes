@@ -19,7 +19,7 @@ Birka stood on Björkö, "Birch Island", in Lake Mälaren, about 30 kilometres w
 
 ## A town that lasted two centuries
 
-The population was, according to Wikipedia, between 500 and 1000 people, with about 700 at its peak. There are more than 3,000 graves on the island. The town was abandoned around 975 according to one passage, or seems to have died out around 960 according to another, based on the coins, and the two dates are not reconciled. Sigtuna became the main trading centre of the Mälaren at about the same time. The reasons for the decline are disputed.
+The population was, according to the sources, between 500 and 1000 people, with about 700 at its peak. There are more than 3,000 graves on the island. The town was abandoned around 975 according to one passage, or seems to have died out around 960 according to another, based on the coins, and the two dates are not reconciled. Sigtuna became the main trading centre of the Mälaren at about the same time. The reasons for the decline are disputed.
 
 ## The excavator
 
@@ -27,7 +27,7 @@ The entomologist Hjalmar Stolpe excavated the island for about two decades from 
 
 ## Ansgar and Rimbert
 
-In 829, according to Wikipedia, Swedish ambassadors asked for Christian preachers, and Ansgar came to Birka. A Christian congregation is said to have been founded in 831. Rimbert's *Vita Ansgarii*, around 865, is the first known description of Birka, and Wikipedia itself notes that Rimbert's descriptions are approximate at best. Ansgar's first attempt at conversion was unsuccessful.
+In 829, according to the sources, Swedish ambassadors asked for Christian preachers, and Ansgar came to Birka. A Christian congregation is said to have been founded in 831. Rimbert's *Vita Ansgarii*, around 865, is the first known description of Birka, and the source itself notes that Rimbert's descriptions are approximate at best. Ansgar's first attempt at conversion was unsuccessful.
 
 ## The objects
 

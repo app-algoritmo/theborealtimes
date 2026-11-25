@@ -23,4 +23,4 @@ O barco de Nydam tem 23 metros e casco de carvalho em tábuas sobrepostas. Aqui,
 
 ## A história por trás
 
-Segundo a Wikipédia, o barco de Nydam tem 23 metros, casco de carvalho em tábuas sobrepostas e 14 pares de remos, e foi datado de 310 a 320 d.C. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Nydam: o barco de carvalho de 310 d.C. achado num pântano da Dinamarca e levado como espólio de guerra](/pt/nydam-o-barco-de-carvalho-de-310-d-c-achado-num-pantano-da-dinamarca-e-levado-como-espolio-de-guerra/).
+Segundo as fontes, o barco de Nydam tem 23 metros, casco de carvalho em tábuas sobrepostas e 14 pares de remos, e foi datado de 310 a 320 d.C. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Nydam: o barco de carvalho de 310 d.C. achado num pântano da Dinamarca e levado como espólio de guerra](/pt/nydam-o-barco-de-carvalho-de-310-d-c-achado-num-pantano-da-dinamarca-e-levado-como-espolio-de-guerra/).

@@ -23,4 +23,4 @@ Las matrices de Torslunda se presionaban contra láminas finas de metal, y salí
 
 ## La historia detrás
 
-Según Wikipedia, las cuatro matrices de bronce de Torslunda estaban hechas para la producción en serie: al presionar láminas finas de metal contra ellas salían láminas idénticas que decoraban cascos. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Las placas de Torslunda: cuatro matrices de bronce de Öland y el guerrero del casco con cuernos que baila](/es/las-placas-de-torslunda-cuatro-matrices-de-bronce-de-oland/).
+Según las fuentes, las cuatro matrices de bronce de Torslunda estaban hechas para la producción en serie: al presionar láminas finas de metal contra ellas salían láminas idénticas que decoraban cascos. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Las placas de Torslunda: cuatro matrices de bronce de Öland y el guerrero del casco con cuernos que baila](/es/las-placas-de-torslunda-cuatro-matrices-de-bronce-de-oland/).

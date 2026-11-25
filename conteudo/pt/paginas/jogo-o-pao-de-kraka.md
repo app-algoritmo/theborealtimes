@@ -23,4 +23,4 @@ Na saga, os homens de Ragnar ficam tão impressionados ao ver Áslaug que deixam
 
 ## A história por trás
 
-Segundo a Wikipédia, os homens de Ragnar a viram se banhando e ficaram tão impressionados que deixaram o pão queimar. Quando Ragnar perguntou o motivo, contaram-lhe sobre ela. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Áslaug, a "Kráka": a filha de Sigurd e Brynhildr, a harpa e a mulher que veio nem vestida nem nua](/pt/aslaug-a-kraka-a-filha-de-sigurd-e-brynhildr-a-harpa-e-a-mulher-que-veio-nem-vestida-nem-nua/).
+Segundo as fontes, os homens de Ragnar a viram se banhando e ficaram tão impressionados que deixaram o pão queimar. Quando Ragnar perguntou o motivo, contaram-lhe sobre ela. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Áslaug, a "Kráka": a filha de Sigurd e Brynhildr, a harpa e a mulher que veio nem vestida nem nua](/pt/aslaug-a-kraka-a-filha-de-sigurd-e-brynhildr-a-harpa-e-a-mulher-que-veio-nem-vestida-nem-nua/).

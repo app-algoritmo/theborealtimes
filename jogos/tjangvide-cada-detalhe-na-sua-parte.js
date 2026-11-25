@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "A pedra de Tjängvide, em Gotland, tem um campo de cima, um campo de baixo e uma inscrição. Cada frase cai do alto. Guie-a até a caixa certa: toque na caixa, ou use as setas e as teclas 1, 2 e 3 (Espaço faz cair mais rápido). Caixa errada, ou frase que chega sem rumo, é erro. Acerte 10 antes do tempo acabar. 3 erros encerram o jogo.",
     "perdeu": "A pedra ficou muda",
     "v1": "Cada detalhe na sua parte!",
-    "v2": "Segundo a Wikipédia, a pedra de Tjängvide (G 110) tem em cima um cavalo de oito patas, um cavaleiro, uma mulher com um chifre de beber e talvez um caçador com arco, embaixo um navio de vela larga e, nas bordas, runas de ramo curto, em memória de um irmão chamado Hjôrulfr ou Jórulfr, nome que significa “lobo da espada”. A fila de detalhes, as três caixas e o ritmo do jogo são invenção.",
+    "v2": "Segundo as fontes, a pedra de Tjängvide (G 110) tem em cima um cavalo de oito patas, um cavaleiro, uma mulher com um chifre de beber e talvez um caçador com arco, embaixo um navio de vela larga e, nas bordas, runas de ramo curto, em memória de um irmão chamado Hjôrulfr ou Jórulfr, nome que significa “lobo da espada”. A fila de detalhes, as três caixas e o ritmo do jogo são invenção.",
     "h1": "Detalhes",
     "bins": [
       "Campo de cima",
@@ -45,7 +45,7 @@ BTJogo.registrar({
     "sub": "The Tjängvide stone, on Gotland, has an upper field, a lower field and an inscription. Each phrase falls from above. Guide it to the right box: tap the box, or use the arrow keys and keys 1, 2 and 3 (Space drops it faster). The wrong box is a mistake. Get 10 right before time runs out. 3 mistakes end the game.",
     "perdeu": "The stone fell silent",
     "v1": "Each detail in its part!",
-    "v2": "According to Wikipedia, the Tjängvide stone (G 110) has above an eight-legged horse, a rider, a woman with a drinking horn and perhaps a hunter with a bow, below a ship with a wide sail and, along the edges, short-twig runes in memory of a brother called Hjôrulfr or Jórulfr, a name meaning \"sword wolf\". The queue of details, the three boxes and the pace of the game are invention.",
+    "v2": "According to the sources, the Tjängvide stone (G 110) has above an eight-legged horse, a rider, a woman with a drinking horn and perhaps a hunter with a bow, below a ship with a wide sail and, along the edges, short-twig runes in memory of a brother called Hjôrulfr or Jórulfr, a name meaning \"sword wolf\". The queue of details, the three boxes and the pace of the game are invention.",
     "h1": "Details",
     "bins": [
       "Upper field",
@@ -76,7 +76,7 @@ BTJogo.registrar({
     "sub": "Tjängvide-steinen på Gotland har et øvre felt, et nedre felt og en innskrift. Hver frase faller ovenfra. Led den til riktig boks: trykk på boksen, eller bruk piltastene og tastene 1, 2 og 3 (mellomrom får den til å falle raskere). Feil boks er en feil. Få 10 riktige før tiden er ute. 3 feil avslutter spillet.",
     "perdeu": "Steinen ble stum",
     "v1": "Hver detalj i sin del!",
-    "v2": "Ifølge Wikipedia har Tjängvide-steinen (G 110) øverst en hest med åtte bein, en rytter, en kvinne med drikkehorn og kanskje en jeger med bue, nederst et skip med bredt seil og, langs kantene, kortkvistrunene til minne om en bror som het Hjôrulfr eller Jórulfr, et navn som betyr «sverdulv». Rekken av detaljer, de tre boksene og tempoet i spillet er oppfinnelse.",
+    "v2": "Ifølge kildene har Tjängvide-steinen (G 110) øverst en hest med åtte bein, en rytter, en kvinne med drikkehorn og kanskje en jeger med bue, nederst et skip med bredt seil og, langs kantene, kortkvistrunene til minne om en bror som het Hjôrulfr eller Jórulfr, et navn som betyr «sverdulv». Rekken av detaljer, de tre boksene og tempoet i spillet er oppfinnelse.",
     "h1": "Detaljer",
     "bins": [
       "Øvre felt",
@@ -107,7 +107,7 @@ BTJogo.registrar({
     "sub": "La piedra de Tjängvide, en Gotland, tiene un campo superior, un campo inferior y una inscripción. Cada frase cae desde arriba. Guíala hasta la caja correcta: toca la caja, o usa las flechas y las teclas 1, 2 y 3 (Espacio la hace caer más rápido). La caja equivocada es un error. Acierta 10 antes de que se acabe el tiempo. 3 errores terminan el juego.",
     "perdeu": "La piedra enmudeció",
     "v1": "¡Cada detalle en su parte!",
-    "v2": "Según Wikipedia, la piedra de Tjängvide (G 110) tiene arriba un caballo de ocho patas, un jinete, una mujer con un cuerno para beber y quizá un cazador con arco, abajo un barco de vela ancha y, en los bordes, runas de rama corta, en memoria de un hermano llamado Hjôrulfr o Jórulfr, nombre que significa «lobo de espada». La fila de detalles, las tres cajas y el ritmo del juego son invención.",
+    "v2": "Según las fuentes, la piedra de Tjängvide (G 110) tiene arriba un caballo de ocho patas, un jinete, una mujer con un cuerno para beber y quizá un cazador con arco, abajo un barco de vela ancha y, en los bordes, runas de rama corta, en memoria de un hermano llamado Hjôrulfr o Jórulfr, nombre que significa «lobo de espada». La fila de detalles, las tres cajas y el ritmo del juego son invención.",
     "h1": "Detalles",
     "bins": [
       "Campo superior",

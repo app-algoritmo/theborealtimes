@@ -23,4 +23,4 @@ Los pechenegos atacaban Kiev en tiempos de Vladimiro. Aquí paras con el escudo 
 
 ## La historia detrás
 
-Según Wikipedia, los pechenegos mataron al padre de Vladimiro, Sviatoslav, en 972, y sus ataques a Kiev interrumpieron la campaña de 992. Los golpes del juego son invención. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Vladimiro el Grande: el príncipe de Kiev que volvió del exilio con un ejército de varegos y eligió la fe de Bizancio](/es/vladimiro-el-grande-el-principe-de-kiev-que-volvio-del/).
+Según las fuentes, los pechenegos mataron al padre de Vladimiro, Sviatoslav, en 972, y sus ataques a Kiev interrumpieron la campaña de 992. Los golpes del juego son invención. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Vladimiro el Grande: el príncipe de Kiev que volvió del exilio con un ejército de varegos y eligió la fe de Bizancio](/es/vladimiro-el-grande-el-principe-de-kiev-que-volvio-del/).

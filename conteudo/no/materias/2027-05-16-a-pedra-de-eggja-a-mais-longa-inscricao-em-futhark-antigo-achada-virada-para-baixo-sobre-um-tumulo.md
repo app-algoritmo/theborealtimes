@@ -32,7 +32,7 @@ Grønvik leser et forlis i dårlig vær, et spørsmål om hvem som førte den d�
 
 ## Galder
 
-Noen forskere foreslår at det andre feltet er en strofe i galdralag, besvergelsenes versemål. Wikipedia peker på likheten med Merseburg-besvergelsene og sier at de to kildene kan være sjeldne eksempler på førkristen galder.
+Noen forskere foreslår at det andre feltet er en strofe i galdralag, besvergelsenes versemål. Kilden peker på likheten med Merseburg-besvergelsene og sier at de to kildene kan være sjeldne eksempler på førkristen galder.
 
 ## Kort sagt
 

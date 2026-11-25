@@ -19,7 +19,7 @@ Entre as histórias que a Morkinskinna guarda sobre o rei Harald Hardrada, há u
 
 ## Quem é Halldór
 
-Halldór Snorrason é filho de Snorri, o chefe (*goði*), e antepassado de Snorri Sturluson. Era amigo de Harald desde antes de ele ser rei, quando os dois serviram na Guarda Varegue de Constantinopla. Entrou ao serviço de Harald depois que este se tornou rei. O texto insiste em tratá-lo como alguém de origem baixa, apesar da família poderosa na Islândia. A Wikipédia diz que Harald desconfiava dele por causa da firmeza de caráter, sobretudo quando Halldór comandava outros homens.
+Halldór Snorrason é filho de Snorri, o chefe (*goði*), e antepassado de Snorri Sturluson. Era amigo de Harald desde antes de ele ser rei, quando os dois serviram na Guarda Varegue de Constantinopla. Entrou ao serviço de Harald depois que este se tornou rei. O texto insiste em tratá-lo como alguém de origem baixa, apesar da família poderosa na Islândia. A fonte diz que Harald desconfiava dele por causa da firmeza de caráter, sobretudo quando Halldór comandava outros homens.
 
 ## O navio e a mentira da guerra
 
@@ -31,7 +31,7 @@ Na corte, Harald zombou da bebida e da lealdade de Halldór, aparentemente para 
 
 ## O navio do rei
 
-Depois do Natal, Harald mandou Halldór embarcar no navio do rei, que bateu enquanto Harald tentava anular as ordens de Halldór. Halldór ameaçou ir embora, mas Bard, um companheiro que fala com bom senso, o convenceu a ficar, com a promessa de pagamento em prata pura e um navio só dele. Svein, dono de um navio, desaprovou as ordens do rei e o levou de volta, e Halldór recuperou o comando. Para encerrar a disputa, Harald comprou o navio e o devolveu a Svein. A própria Wikipédia diz que a redação desse trecho não é clara.
+Depois do Natal, Harald mandou Halldór embarcar no navio do rei, que bateu enquanto Harald tentava anular as ordens de Halldór. Halldór ameaçou ir embora, mas Bard, um companheiro que fala com bom senso, o convenceu a ficar, com a promessa de pagamento em prata pura e um navio só dele. Svein, dono de um navio, desaprovou as ordens do rei e o levou de volta, e Halldór recuperou o comando. Para encerrar a disputa, Harald comprou o navio e o devolveu a Svein. As próprias fontes dizem que a redação desse trecho não é clara.
 
 ## A meia marca
 
@@ -45,10 +45,10 @@ Na estação seguinte, Halldór recebeu uma mensagem que o convidava a voltar à
 
 ## O que os estudiosos veem
 
-A Wikipédia diz que estudiosos usam o conto para argumentar que há laços entre a identidade islandesa e a norueguesa, para sugerir que os noruegueses viam os islandeses como de status baixo e para caracterizar a atitude errática de Harald com dinheiro. Propõe-se também que os laços próximos de Halldór com Harald transmitiram tradições de família através das gerações, e talvez tenham dado material a Snorri Sturluson para a Saga do rei Harald, no Heimskringla.
+A fonte diz que estudiosos usam o conto para argumentar que há laços entre a identidade islandesa e a norueguesa, para sugerir que os noruegueses viam os islandeses como de status baixo e para caracterizar a atitude errática de Harald com dinheiro. Propõe-se também que os laços próximos de Halldór com Harald transmitiram tradições de família através das gerações, e talvez tenham dado material a Snorri Sturluson para a Saga do rei Harald, no Heimskringla.
 
 ## Em resumo
 
-É uma história de um islandês orgulhoso e de um rei miserável: um navio sem tripulação, uma guerra inventada, uma humilhação no Natal e uma espada na cama real por meia marca. O fim é um convite que Halldór lê como ameaça e recusa. A Wikipédia não dá data para o conto nem para a Morkinskinna.
+É uma história de um islandês orgulhoso e de um rei miserável: um navio sem tripulação, uma guerra inventada, uma humilhação no Natal e uma espada na cama real por meia marca. O fim é um convite que Halldór lê como ameaça e recusa. A fonte não dá data para o conto nem para a Morkinskinna.
 
 Para saber quem fez o quê na corte, jogue [Quem fez o quê na corte](/pt/jogo-quem-fez-o-que-na-corte/).

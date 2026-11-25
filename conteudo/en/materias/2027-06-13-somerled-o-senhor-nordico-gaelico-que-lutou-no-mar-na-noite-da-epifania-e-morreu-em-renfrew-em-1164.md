@@ -17,7 +17,7 @@ Somerled (in Middle Irish *Somairle* or *Somhairle*, in Old Norse *Sumarliði*) 
 
 ## Uncertain origins
 
-Little is known of his youth. He probably had Norse-Gaelic ancestry and may have been born in northern Ireland. Wikipedia says his ancestry is "masked in obscurity and myth". His father is given as GilleBride and his grandfather as GilleAdamnan, names that appear to be corroborated in Irish annals. Pedigrees beyond two or three generations are unreliable.
+Little is known of his youth. He probably had Norse-Gaelic ancestry and may have been born in northern Ireland. The source says his ancestry is "masked in obscurity and myth". His father is given as GilleBride and his grandfather as GilleAdamnan, names that appear to be corroborated in Irish annals. Pedigrees beyond two or three generations are unreliable.
 
 ## Marriage and rebellion
 

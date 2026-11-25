@@ -23,4 +23,4 @@ El monumento de Hunnestad tenía piedras con imágenes, entre ellas una mujer mo
 
 ## La historia detrás
 
-Según Wikipedia, el monumento de Hunnestad, en Escania, tenía ocho piedras cuando Ole Worm lo registró: cinco con imágenes, dos de ellas también con runas. Fue destruido, probablemente entre 1782 y 1786, y la DR 285 se halló en un puente en 2020. Las parejas y las piedras del juego son invención. Lee la historia en [El monumento de Hunnestad: la mayor obra de la Era Vikinga en Escania, destruida y redescubierta](/es/el-monumento-de-hunnestad-la-mayor-obra-de-la-era-vikinga/).
+Según las fuentes, el monumento de Hunnestad, en Escania, tenía ocho piedras cuando Ole Worm lo registró: cinco con imágenes, dos de ellas también con runas. Fue destruido, probablemente entre 1782 y 1786, y la DR 285 se halló en un puente en 2020. Las parejas y las piedras del juego son invención. Lee la historia en [El monumento de Hunnestad: la mayor obra de la Era Vikinga en Escania, destruida y redescubierta](/es/el-monumento-de-hunnestad-la-mayor-obra-de-la-era-vikinga/).

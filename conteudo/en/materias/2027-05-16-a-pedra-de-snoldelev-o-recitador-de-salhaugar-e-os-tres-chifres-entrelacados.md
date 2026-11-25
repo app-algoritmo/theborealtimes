@@ -27,7 +27,7 @@ The word is linked to Old Norse þula, "litany", and means something like "recit
 
 ## The three horns
 
-The stone has three horns scratched on it, possibly drinking horns, interlaced in a triangle. Wikipedia compares the figure to incomplete Borromean rings. A similar design appears on the Lillbjärs stone on Gotland, beside the valknut, but the relation between the two symbols is unknown. The Snoldelev stone also bears a swastika, an ancient symbol that predates its modern use.
+The stone has three horns scratched on it, possibly drinking horns, interlaced in a triangle. The source compares the figure to incomplete Borromean rings. A similar design appears on the Lillbjärs stone on Gotland, beside the valknut, but the relation between the two symbols is unknown. The Snoldelev stone also bears a swastika, an ancient symbol that predates its modern use.
 
 ## An approximate date
 

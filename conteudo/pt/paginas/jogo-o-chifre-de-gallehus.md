@@ -19,8 +19,8 @@ card:
 
 ## Como jogar
 
-Segundo a Wikipédia, a camada externa dos chifres de Gallehus era feita de anéis de ouro. Aqui você empilha os anéis. Um bloco vai de um lado a outro. Toque na tela, ou aperte Espaço, para soltá-lo sobre o apoio de pedra. O que sobrar para fora cai, e a pilha fica mais estreita, mas nunca menos que um mínimo. Errar o alvo por completo é erro. Empilhe 10 antes do tempo acabar. Três erros encerram o jogo.
+Segundo as fontes, a camada externa dos chifres de Gallehus era feita de anéis de ouro. Aqui você empilha os anéis. Um bloco vai de um lado a outro. Toque na tela, ou aperte Espaço, para soltá-lo sobre o apoio de pedra. O que sobrar para fora cai, e a pilha fica mais estreita, mas nunca menos que um mínimo. Errar o alvo por completo é erro. Empilhe 10 antes do tempo acabar. Três erros encerram o jogo.
 
 ## A história por trás
 
-Segundo a Wikipédia, cada chifre de Gallehus era feito de lâmina dupla de ouro, e a camada externa, de ouro de 24 quilates, era formada por anéis. Os chifres foram roubados e fundidos em 1802. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Os Chifres de Ouro de Gallehus: achados em 1639 e 1734, derretidos em 1802](/pt/os-chifres-de-ouro-de-gallehus-achados-em-1639-e-1734-derretidos-em-1802/).
+Segundo as fontes, cada chifre de Gallehus era feito de lâmina dupla de ouro, e a camada externa, de ouro de 24 quilates, era formada por anéis. Os chifres foram roubados e fundidos em 1802. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [Os Chifres de Ouro de Gallehus: achados em 1639 e 1734, derretidos em 1802](/pt/os-chifres-de-ouro-de-gallehus-achados-em-1639-e-1734-derretidos-em-1802/).

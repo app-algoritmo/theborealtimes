@@ -30,7 +30,7 @@ I Hávamál forteller Odin selv historien, og Gunnlöð får mer oppmerksomhet e
 
 ## Det kildene ikke forteller
 
-Wikipedia beskriver ingen straff eller konsekvens for Gunnlöð utover det historien sier. I Hávamál blir den «dårlige betalingen» Odin nevner, stående uten forklaring. De to versjonene avviker i flere detaljer, og ingen av dem sier hva som skjedde med henne etterpå.
+Kilden beskriver ingen straff eller konsekvens for Gunnlöð utover det historien sier. I Hávamál blir den «dårlige betalingen» Odin nevner, stående uten forklaring. De to versjonene avviker i flere detaljer, og ingen av dem sier hva som skjedde med henne etterpå.
 
 ## Kort sagt
 

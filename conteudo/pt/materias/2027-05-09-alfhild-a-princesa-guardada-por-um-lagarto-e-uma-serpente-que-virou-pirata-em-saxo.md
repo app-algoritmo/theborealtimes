@@ -18,7 +18,7 @@ Alfhild, ou Alvilda, é outra mulher guerreira de Saxo. Sua história, no livro 
 
 ## O que Saxo conta
 
-Segundo a Wikipédia, Alfhild é uma princesa dos gautas, filha do rei Siward. Seu quarto era guardado por um lagarto e uma serpente, que afastavam os pretendentes indignos. O príncipe dinamarquês Alf venceu os dois guardas, mas Alfhild, aconselhada pela mãe, fugiu vestida de homem e se tornou uma escudeira.
+Segundo as fontes, Alfhild é uma princesa dos gautas, filha do rei Siward. Seu quarto era guardado por um lagarto e uma serpente, que afastavam os pretendentes indignos. O príncipe dinamarquês Alf venceu os dois guardas, mas Alfhild, aconselhada pela mãe, fugiu vestida de homem e se tornou uma escudeira.
 
 Ela comandou uma frota de navios longos, tripulados por jovens piratas, que saqueavam a costa do Báltico. Alf e seu companheiro de Escânia, Borgar, encontraram a frota ao largo do sul da Finlândia. Depois de uma batalha mortal, o elmo de Alfhild caiu e ela foi reconhecida. Alf a abraçou, ela largou as roupas de guerreira, e casaram na Dinamarca.
 
@@ -28,7 +28,7 @@ A história continua com a guerra. Alf, seus irmãos e o pai, o rei Sigar, morre
 
 ## Origem da história
 
-A Wikipédia diz que a versão de Saxo é a mais antiga e foi baseada em "um dos velhos contos ou canções" que ele reuniu. Os detalhes de Saxo situam os eventos no século V, mas essa afirmação tem pedido de fonte no artigo. Há pouca interpretação além disso.
+A fonte diz que a versão de Saxo é a mais antiga e foi baseada em "um dos velhos contos ou canções" que ele reuniu. Os detalhes de Saxo situam os eventos no século V, mas essa afirmação tem pedido de fonte no artigo. Há pouca interpretação além disso.
 
 ## Leituras posteriores
 

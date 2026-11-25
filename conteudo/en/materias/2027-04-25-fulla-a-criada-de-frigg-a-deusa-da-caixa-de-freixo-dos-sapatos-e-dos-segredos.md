@@ -18,7 +18,7 @@ Fulla appears in only a few lines, but in surprising places: in the prose introd
 
 ## The maid who warns the king
 
-According to Wikipedia, in the prose introduction to Grímnismál, Frigg sends her handmaiden Fulla to warn King Geirröd that a magician, really Odin in disguise, will visit him. Fulla also gives the king a way to recognize him: no dog will attack him.
+According to the sources, in the prose introduction to Grímnismál, Frigg sends her handmaiden Fulla to warn King Geirröd that a magician, really Odin in disguise, will visit him. Fulla also gives the king a way to recognize him: no dog will attack him.
 
 ## What Snorri says
 
@@ -28,7 +28,7 @@ In chapter 49, after the death of Baldr and Nanna, Baldr sends gifts from the re
 
 ## Gold in the verses
 
-In Skáldskaparmál, Fulla is one of the eight ásynjur at Ægir's banquet. A poetic term calls Frigg "queen of Fulla", and a kenning for gold is "Fulla's snood". A verse by Eyvindr skáldaspillir also speaks of her golden headgear. She also appears in a list of 27 names of ásynjur, and Wikipedia says, citing Simek, that she was known in skaldic poetry as early as the tenth century.
+In Skáldskaparmál, Fulla is one of the eight ásynjur at Ægir's banquet. A poetic term calls Frigg "queen of Fulla", and a kenning for gold is "Fulla's snood". A verse by Eyvindr skáldaspillir also speaks of her golden headgear. She also appears in a list of 27 names of ásynjur, and the source says, citing Simek, that she was known in skaldic poetry as early as the tenth century.
 
 ## Volla, in the German charm
 

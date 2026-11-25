@@ -14,7 +14,7 @@ fontes:
 tags: [jordanes, getica, scandza, scandinavia, goths, suehans, 6th century]
 ---
 
-Jordanes was a 6th-century Eastern Roman bureaucrat of Gothic descent who wrote in Late Latin. According to Wikipedia, his best-known work, the *Getica*, was written in Constantinople around 551, as a summary of Cassiodorus's lost twelve-volume history of the Goths. He says he had only three days to consult it, and so relied heavily on memory.
+Jordanes was a 6th-century Eastern Roman bureaucrat of Gothic descent who wrote in Late Latin. According to the sources, his best-known work, the *Getica*, was written in Constantinople around 551, as a summary of Cassiodorus's lost twelve-volume history of the Goths. He says he had only three days to consult it, and so relied heavily on memory.
 
 ## The island of Scandza
 
@@ -22,7 +22,7 @@ The *Getica* opens with a geography and ethnography of the North. Jordanes calls
 
 ## The peoples he lists
 
-The Adogit lived in continual light for forty days and nights in midsummer, and in continual darkness for as long in midwinter. The *screrefennae* were hunter-gatherers, and Wikipedia identifies them with the Sami. The Suehans, usually read as Swedes, had splendid horses and supplied black fox skins to the Roman market. The Dani, the Danes, were "of the same stock" and drove the Heruls from their lands. The list also includes Vagoths, Gautigoths, Ostrogoths, Rugii, Raumarici and many other names, some probably duplicates, since they came from different travellers. Rodwulf from Bohuslän is one of the Scandinavians who joined the Goths.
+The Adogit lived in continual light for forty days and nights in midsummer, and in continual darkness for as long in midwinter. The *screrefennae* were hunter-gatherers, and the source identifies them with the Sami. The Suehans, usually read as Swedes, had splendid horses and supplied black fox skins to the Roman market. The Dani, the Danes, were "of the same stock" and drove the Heruls from their lands. The list also includes Vagoths, Gautigoths, Ostrogoths, Rugii, Raumarici and many other names, some probably duplicates, since they came from different travellers. Rodwulf from Bohuslän is one of the Scandinavians who joined the Goths.
 
 ## Did the Goths come from there?
 

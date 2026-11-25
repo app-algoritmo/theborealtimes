@@ -18,7 +18,7 @@ Cuando dos nórdicos discrepaban y no se llegaba a un acuerdo, podían resolver 
 
 ## El campo
 
-Según Wikipedia, la hólmganga se luchaba sobre un cuero de buey o un manto de unos 3 metros por lado, sujeto al suelo con estacas usadas solo para ello. Alrededor del cuero se trazaban tres bordes, cada uno a unos 30 centímetros del siguiente. Varas de avellano marcaban las esquinas exteriores. La Saga de Kormák da a entender que un toro podía sacrificarse antes, con el cuero extendido sobre el terreno de lucha. Wikipedia dice que se desconoce cómo se colocaban las estacas.
+Según las fuentes, la hólmganga se luchaba sobre un cuero de buey o un manto de unos 3 metros por lado, sujeto al suelo con estacas usadas solo para ello. Alrededor del cuero se trazaban tres bordes, cada uno a unos 30 centímetros del siguiente. Varas de avellano marcaban las esquinas exteriores. La Saga de Kormák da a entender que un toro podía sacrificarse antes, con el cuero extendido sobre el terreno de lucha. La fuente dice que se desconoce cómo se colocaban las estacas.
 
 ## Las reglas
 
@@ -32,11 +32,11 @@ Según Wikipedia, la hólmganga se luchaba sobre un cuero de buey o un manto de 
 
 ## Los duelos más antiguos
 
-En los primeros duelos, la lucha terminaba con la muerte o la incapacidad de uno de los luchadores. Matar al oponente no era asesinato y no acarreaba proscripción ni pago de indemnización. En Noruega, según la Saga de Egill, citada en Wikipedia, el vencedor podía reclamar todo lo que poseía el perdedor.
+En los primeros duelos, la lucha terminaba con la muerte o la incapacidad de uno de los luchadores. Matar al oponente no era asesinato y no acarreaba proscripción ni pago de indemnización. En Noruega, según la Saga de Egill, citada en la fuente, el vencedor podía reclamar todo lo que poseía el perdedor.
 
 ## Los textos
 
-Wikipedia cita la Saga de Kormák, que describe el cuero, las estacas, los bordes y las varas de avellano, y la Saga de Egill, que da las reglas del desafío y los derechos del vencedor. Menciona también el Västgötalagen, un fragmento del siglo XIII de la ley de Västergötland, con normas sobre la hólmganga o el *einvígi*, el juicio por combate.
+La fuente cita la Saga de Kormák, que describe el cuero, las estacas, los bordes y las varas de avellano, y la Saga de Egill, que da las reglas del desafío y los derechos del vencedor. Menciona también el Västgötalagen, un fragmento del siglo XIII de la ley de Västergötland, con normas sobre la hólmganga o el *einvígi*, el juicio por combate.
 
 ## El fin de la hólmganga
 

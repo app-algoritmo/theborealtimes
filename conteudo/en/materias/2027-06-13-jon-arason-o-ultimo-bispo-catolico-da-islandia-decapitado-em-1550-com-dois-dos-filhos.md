@@ -13,7 +13,7 @@ fontes:
 tags: [jón arason, hólar, lutheran reformation, iceland, christian iii, sauðafell, skálholt, bishop]
 ---
 
-Jón Arason (1484–1550) was the Catholic bishop of Hólar, in northern Iceland, and a poet. According to Wikipedia, he was executed in his struggle against the Reformation in the country.
+Jón Arason (1484–1550) was the Catholic bishop of Hólar, in northern Iceland, and a poet. According to the sources, he was executed in his struggle against the Reformation in the country.
 
 ## The career
 
@@ -29,7 +29,7 @@ Jón refused to promote Lutheranism, which led to a dispute with King Christian 
 
 ## The capture and the death
 
-At the battle of Sauðafell, Jón and his sons Ari and Björn were captured by Daði Guðmundsson and handed to the king's bailiff. In 1550, the three were beheaded, and Wikipedia gives Jón's death as 7 November, at Skálholt. The bailiff Christian Skriver pronounced the sentence. Skriver was later killed by fishermen, reportedly at the urging of Jón's daughter, Þórunn, and the article sees personal revenge in this, and not only religious conflict.
+At the battle of Sauðafell, Jón and his sons Ari and Björn were captured by Daði Guðmundsson and handed to the king's bailiff. In 1550, the three were beheaded, and the source gives Jón's death as 7 November, at Skálholt. The bailiff Christian Skriver pronounced the sentence. Skriver was later killed by fishermen, reportedly at the urging of Jón's daughter, Þórunn, and the article sees personal revenge in this, and not only religious conflict.
 
 ## The legend and the memory
 

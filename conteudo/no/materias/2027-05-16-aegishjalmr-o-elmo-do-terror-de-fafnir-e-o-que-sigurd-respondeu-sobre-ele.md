@@ -32,7 +32,7 @@ I Völsunga saga dreper Sigurd Fåvne og tar hjelmen fra skatten, Ægishjálmur 
 
 ## Det moderne tegnet
 
-Navnet ble senere brukt om et islandsk magisk tegn, en tegning med åtte armer som i dag selges som «Skrekkhjelm» i smykker og tatoveringer. Det symbolet er et tegn fra magiske manuskripter, mye yngre enn diktene, og Wikipedia sier bare at navnet ble gitt det etterpå. Det finnes ingen tegning av en hjelm i middelalderkildene.
+Navnet ble senere brukt om et islandsk magisk tegn, en tegning med åtte armer som i dag selges som «Skrekkhjelm» i smykker og tatoveringer. Det symbolet er et tegn fra magiske manuskripter, mye yngre enn diktene, og kilden sier bare at navnet ble gitt det etterpå. Det finnes ingen tegning av en hjelm i middelalderkildene.
 
 ## Kort sagt
 

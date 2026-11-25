@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "O rei Olavo viaja com Finnr Árnason e Þormóðr Kolbrúnarskáld, os três de capa cinza e com o nome falso de Grímr. Veja a ordem em que os três viajantes se levantam e brilham. Depois eles trocam de lugar. Quando a seta aparecer, toque nos viajantes na mesma ordem em que brilharam, ou use as teclas 1, 2 e 3 para os lugares da esquerda para a direita. Viajante errado é erro, e a ordem é mostrada de novo. Acerte 8 ordens antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "Os viajantes foram descobertos",
     "v1": "Os três chegaram à fazenda!",
-    "v2": "Segundo a Wikipédia, na Völsa þáttr o rei Olavo II viaja com apenas Finnr Árnason e Þormóðr Kolbrúnarskáld, os três de capa cinza para esconder quem são, e os três dizem se chamar Grímr, “encapuzado”. As alturas, a ordem que você repete e as trocas de lugar são invenção.",
+    "v2": "Segundo as fontes, na Völsa þáttr o rei Olavo II viaja com apenas Finnr Árnason e Þormóðr Kolbrúnarskáld, os três de capa cinza para esconder quem são, e os três dizem se chamar Grímr, “encapuzado”. As alturas, a ordem que você repete e as trocas de lugar são invenção.",
     "h1": "Ordens"
   },
   "en": {
@@ -29,7 +29,7 @@ BTJogo.registrar({
     "sub": "King Olaf travels with Finnr Árnason and Þormóðr Kolbrúnarskáld, all three in grey cloaks and under the false name Grímr. Watch the order in which the three travellers rise and glow. Then they swap places. When the arrow appears, tap the travellers in the same order in which they glowed, or use keys 1, 2 and 3 for the places from left to right. A wrong traveller is a mistake, and the order is shown again. Get 8 orders right before time runs out. Three mistakes end the game.",
     "perdeu": "The travellers were found out",
     "v1": "The three reached the farm!",
-    "v2": "According to Wikipedia, in Völsa þáttr King Olaf II travels with only Finnr Árnason and Þormóðr Kolbrúnarskáld, all three in grey cloaks to hide who they are, and all three say their name is Grímr, \"hooded\". The heights, the order you repeat and the swaps of place are invention.",
+    "v2": "According to the sources, in Völsa þáttr King Olaf II travels with only Finnr Árnason and Þormóðr Kolbrúnarskáld, all three in grey cloaks to hide who they are, and all three say their name is Grímr, \"hooded\". The heights, the order you repeat and the swaps of place are invention.",
     "h1": "Orders"
   },
   "no": {
@@ -44,7 +44,7 @@ BTJogo.registrar({
     "sub": "Kong Olav reiser med Finnr Árnason og Þormóðr Kolbrúnarskáld, alle tre i grå kapper og under det falske navnet Grímr. Se rekkefølgen de tre reisende reiser seg og lyser i. Så bytter de plass. Når pilen dukker opp, trykk på de reisende i samme rekkefølge som de lyste, eller bruk tastene 1, 2 og 3 for plassene fra venstre mot høyre. En feil reisende er en feil, og rekkefølgen vises på nytt. Svar riktig på 8 rekkefølger før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "De reisende ble avslørt",
     "v1": "De tre kom til gården!",
-    "v2": "Ifølge Wikipedia reiser kong Olav II i Völsa þáttr bare med Finnr Árnason og Þormóðr Kolbrúnarskáld, alle tre i grå kapper for å skjule hvem de er, og alle tre sier at de heter Grímr, «den hettekledde». Høydene, rekkefølgen du gjentar, og plassbyttene er oppfinnelse.",
+    "v2": "Ifølge kildene reiser kong Olav II i Völsa þáttr bare med Finnr Árnason og Þormóðr Kolbrúnarskáld, alle tre i grå kapper for å skjule hvem de er, og alle tre sier at de heter Grímr, «den hettekledde». Høydene, rekkefølgen du gjentar, og plassbyttene er oppfinnelse.",
     "h1": "Rekkefølger"
   },
   "es": {
@@ -59,7 +59,7 @@ BTJogo.registrar({
     "sub": "El rey Olaf viaja con Finnr Árnason y Þormóðr Kolbrúnarskáld, los tres con capa gris y bajo el nombre falso de Grímr. Mira el orden en que los tres viajeros se alzan y brillan. Después cambian de lugar. Cuando aparezca la flecha, toca los viajeros en el mismo orden en que brillaron, o usa las teclas 1, 2 y 3 para los lugares de izquierda a derecha. Un viajero equivocado es un error, y el orden se muestra de nuevo. Acierta 8 órdenes antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "Los viajeros fueron descubiertos",
     "v1": "¡Los tres llegaron a la granja!",
-    "v2": "Según Wikipedia, en la Völsa þáttr el rey Olaf II viaja solo con Finnr Árnason y Þormóðr Kolbrúnarskáld, los tres con capa gris para ocultar quiénes son, y los tres dicen llamarse Grímr, «encapuchado». Las alturas, el orden que repites y los cambios de lugar son invención.",
+    "v2": "Según las fuentes, en la Völsa þáttr el rey Olaf II viaja solo con Finnr Árnason y Þormóðr Kolbrúnarskáld, los tres con capa gris para ocultar quiénes son, y los tres dicen llamarse Grímr, «encapuchado». Las alturas, el orden que repites y los cambios de lugar son invención.",
     "h1": "Órdenes"
   }
 },

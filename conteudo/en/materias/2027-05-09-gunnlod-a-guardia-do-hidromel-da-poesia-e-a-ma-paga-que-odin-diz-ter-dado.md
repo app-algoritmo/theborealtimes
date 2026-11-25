@@ -30,7 +30,7 @@ In Hávamál, the story is told by Odin himself, and Gunnlöð gets more attenti
 
 ## What the sources do not tell
 
-Wikipedia describes no punishment or consequence for Gunnlöð beyond what the story says. In Hávamál, the "bad recompense" Odin mentions is left unexplained. The two versions differ in several details, and neither says what became of her afterwards.
+The source describes no punishment or consequence for Gunnlöð beyond what the story says. In Hávamál, the "bad recompense" Odin mentions is left unexplained. The two versions differ in several details, and neither says what became of her afterwards.
 
 ## In short
 

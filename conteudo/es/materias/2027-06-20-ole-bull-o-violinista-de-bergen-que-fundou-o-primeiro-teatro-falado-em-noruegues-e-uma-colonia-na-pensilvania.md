@@ -13,7 +13,7 @@ fontes:
 tags: [ole bull, violín, bergen, det norske theater, oleana, grieg, siglo xix]
 ---
 
-Ole Bull nació el 5 de febrero de 1810 en Bergen, entonces parte de Dinamarca-Noruega, el mayor de diez hermanos. Según Wikipedia, con 4 o 5 años ya tocaba al violín las canciones que tocaba su madre. A los 9 era primer violín de la orquesta del teatro de Bergen y solista de la Orquesta Filarmónica de Bergen. Su padre quería que fuese pastor.
+Ole Bull nació el 5 de febrero de 1810 en Bergen, entonces parte de Dinamarca-Noruega, el mayor de diez hermanos. Según las fuentes, con 4 o 5 años ya tocaba al violín las canciones que tocaba su madre. A los 9 era primer violín de la orquesta del teatro de Bergen y solista de la Orquesta Filarmónica de Bergen. Su padre quería que fuese pastor.
 
 ## Del fracaso en la universidad a París
 

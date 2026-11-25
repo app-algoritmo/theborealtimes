@@ -33,7 +33,7 @@ Diktet bruker *kviðuháttr*, en variant av *fornyrðislag*. Oddetallslinjene ha
 
 ## Sju deler
 
-Wikipedia beskriver oppbygningen slik:
+Kilden beskriver oppbygningen slik:
 
 - **Strofe 1 til 4:** Egill strir for å finne ord for sorgen og beklager at slekta hans tar slutt. Strofe 4 innfører treet og skogen som bilder gjennom diktet.
 - **Strofe 5:** han minnes foreldrenes død.
@@ -45,7 +45,7 @@ Wikipedia beskriver oppbygningen slik:
 
 ## Gudene i diktet
 
-Diktet har omtrent tjue henspillinger på norrøne guder og myter, noen av dem kan ikke forstås helt. I strofe 25 blir døden personifisert som gudinnen Hel som venter på et nes, et bilde Wikipedia framhever som spesielt slående. Noen forskere har antydet at Egill modellerte diktet og sorgen sin på myten om Odin som sørger over sønnen Baldr.
+Diktet har omtrent tjue henspillinger på norrøne guder og myter, noen av dem kan ikke forstås helt. I strofe 25 blir døden personifisert som gudinnen Hel som venter på et nes, et bilde kilden framhever som spesielt slående. Noen forskere har antydet at Egill modellerte diktet og sorgen sin på myten om Odin som sørger over sønnen Baldr.
 
 ## Hva forskerne sier
 

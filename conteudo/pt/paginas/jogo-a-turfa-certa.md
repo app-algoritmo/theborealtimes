@@ -23,4 +23,4 @@ As sagas dizem que Einarr ganhou o nome de Turfa ao ensinar as Órcadas a queima
 
 ## A história por trás
 
-As sagas dizem que Einarr ganhou o nome “Torf”, “turfa”, ao introduzir a queima de turfa por falta de lenha. A Wikipédia diz que isso é incorreto, pois o uso da turfa é anterior aos nórdicos, e que a origem do apelido é desconhecida. Os nove montes, os brilhos e o ritmo do jogo são invenção. Leia a história em [Torf-Einarr: o conde das Órcades, o apelido da turfa e a multa de sessenta marcos de ouro](/pt/torf-einarr-o-conde-das-orcades-o-apelido-da-turfa-e-a-multa-de-sessenta-marcos-de-ouro/).
+As sagas dizem que Einarr ganhou o nome “Torf”, “turfa”, ao introduzir a queima de turfa por falta de lenha. A fonte diz que isso é incorreto, pois o uso da turfa é anterior aos nórdicos, e que a origem do apelido é desconhecida. Os nove montes, os brilhos e o ritmo do jogo são invenção. Leia a história em [Torf-Einarr: o conde das Órcades, o apelido da turfa e a multa de sessenta marcos de ouro](/pt/torf-einarr-o-conde-das-orcades-o-apelido-da-turfa-e-a-multa-de-sessenta-marcos-de-ouro/).

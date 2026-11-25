@@ -20,7 +20,7 @@ Skofnung er sverdet til den legendariske danske kongen Hrólf Kraki. Hrólfs sag
 
 ## Fra graven til sagaen
 
-Ifølge Wikipedia ble Skeggi fra Miðfjörðr trukket ved loddtrekning til å bryte seg inn i en gravhaug, og han tok med seg Skofnung. I Laksdøla saga eies sverdet av sønnen hans, Eiðr fra Áss, og sagaen sier at det var tatt fra Hrólf Krakis haug. Forskerne sammenligner episoden med andre der en helt går inn i en grav og kommer ut med et våpen, som Grette i en annen saga.
+Ifølge kildene ble Skeggi fra Miðfjörðr trukket ved loddtrekning til å bryte seg inn i en gravhaug, og han tok med seg Skofnung. I Laksdøla saga eies sverdet av sønnen hans, Eiðr fra Áss, og sagaen sier at det var tatt fra Hrólf Krakis haug. Forskerne sammenligner episoden med andre der en helt går inn i en grav og kommer ut med et våpen, som Grette i en annen saga.
 
 ## Sverdets regler
 

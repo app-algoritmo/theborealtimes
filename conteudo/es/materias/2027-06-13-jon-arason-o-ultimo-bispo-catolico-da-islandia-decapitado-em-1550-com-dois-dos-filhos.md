@@ -13,7 +13,7 @@ fontes:
 tags: [jón arason, hólar, reforma luterana, islandia, cristián iii, sauðafell, skálholt, obispo]
 ---
 
-Jón Arason (1484–1550) fue obispo católico de Hólar, en el norte de Islandia, y poeta. Según Wikipedia, fue ejecutado en su lucha contra la Reforma en el país.
+Jón Arason (1484–1550) fue obispo católico de Hólar, en el norte de Islandia, y poeta. Según las fuentes, fue ejecutado en su lucha contra la Reforma en el país.
 
 ## La carrera
 
@@ -29,7 +29,7 @@ Jón se negó a promover el luteranismo, lo que lo llevó a una disputa con el r
 
 ## La captura y la muerte
 
-En la batalla de Sauðafell, Jón y sus hijos Ari y Björn fueron capturados por Daði Guðmundsson y entregados al alguacil del rey. En 1550, los tres fueron decapitados, y Wikipedia da la muerte de Jón el 7 de noviembre, en Skálholt. El alguacil Christian Skriver pronunció la sentencia. Skriver fue muerto después por pescadores, al parecer por instigación de la hija de Jón, Þórunn, y el artículo ve en ello una venganza personal, y no solo un conflicto religioso.
+En la batalla de Sauðafell, Jón y sus hijos Ari y Björn fueron capturados por Daði Guðmundsson y entregados al alguacil del rey. En 1550, los tres fueron decapitados, y la fuente da la muerte de Jón el 7 de noviembre, en Skálholt. El alguacil Christian Skriver pronunció la sentencia. Skriver fue muerto después por pescadores, al parecer por instigación de la hija de Jón, Þórunn, y el artículo ve en ello una venganza personal, y no solo un conflicto religioso.
 
 ## La leyenda y la memoria
 

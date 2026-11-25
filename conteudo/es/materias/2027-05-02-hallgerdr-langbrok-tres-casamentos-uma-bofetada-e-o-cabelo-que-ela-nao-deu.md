@@ -19,7 +19,7 @@ Pocos nombres de las sagas islandesas despiertan tantas opiniones como Hallgerð
 
 ## Quién era
 
-Wikipedia dice que Hallgerðr era hija de Höskuldr Dala-Kollsson, que vivía en Höskuldsstaðir, en Laxárdalr. Su madre casi no aparece en la narración. La Landnámabók nombra como hermanos, o medio hermanos, suyos a Þorleikr, Olaf el Pavo Real, Helgi, Þúriðr y Þorgerðr.
+La fuente dice que Hallgerðr era hija de Höskuldr Dala-Kollsson, que vivía en Höskuldsstaðir, en Laxárdalr. Su madre casi no aparece en la narración. La Landnámabók nombra como hermanos, o medio hermanos, suyos a Þorleikr, Olaf el Pavo Real, Helgi, Þúriðr y Þorgerðr.
 
 De adulta tenía el pelo «tan largo que podía cubrirle todo el cuerpo». Era alta, lo que le dio el apodo **langbrók**, «calzón largo». La Landnámabók da otro, **snúinbrók**, «calzón torcido». Se la describe como impetuosa y voluntariosa. Su padre de crianza, Þjóstólfr, violento e inflexible, habría influido en ella para mal.
 
@@ -31,7 +31,7 @@ De adulta tenía el pelo «tan largo que podía cubrirle todo el cuerpo». Era a
 
 ## La riña con Bergþóra
 
-Wikipedia dice que Hallgerðr fue una de las principales instigadoras de la disputa entre Gunnar y Njáll Þorgeirsson. Ella y la esposa de Njáll, Bergþóra Skarphéðinsdóttir, hicieron golpes de represalia cada vez mayores, enviando a matar a gente de la casa de la otra.
+La fuente dice que Hallgerðr fue una de las principales instigadoras de la disputa entre Gunnar y Njáll Þorgeirsson. Ella y la esposa de Njáll, Bergþóra Skarphéðinsdóttir, hicieron golpes de represalia cada vez mayores, enviando a matar a gente de la casa de la otra.
 
 ## El pelo
 
@@ -51,7 +51,7 @@ Tras la muerte de Gunnar, se instala en Grjotá con su hijo Grani. En la saga, s
 
 ## Lo que el texto no decide
 
-Wikipedia muestra que los lectores discrepan. La saga cuenta las acciones, pero quien las lee puede verlas como maldad, como reacción o como ambas a la vez.
+La fuente muestra que los lectores discrepan. La saga cuenta las acciones, pero quien las lee puede verlas como maldad, como reacción o como ambas a la vez.
 
 ## En resumen
 

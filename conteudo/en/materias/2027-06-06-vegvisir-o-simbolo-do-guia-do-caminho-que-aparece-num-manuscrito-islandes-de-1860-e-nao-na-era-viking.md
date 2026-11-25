@@ -27,11 +27,11 @@ The leaf gives the name of the symbol and states that whoever carries it will no
 
 ## The galdrastafir
 
-The galdrastafir are signs with supposed magical effects, preserved in Icelandic grimoires such as the Galdrabók, from the 17th century onward. Other manuscripts cited on Wikipedia are the Huld itself, a 17th-century grimoire in Stockholm and manuscripts of the National Library in Reykjavík. There too are the Ægishjálmur, the "helm of terror", linked to causing fear and protecting the warrior, and the Vegvísir, linked to bad weather.
+The galdrastafir are signs with supposed magical effects, preserved in Icelandic grimoires such as the Galdrabók, from the 17th century onward. Other manuscripts cited on the source are the Huld itself, a 17th-century grimoire in Stockholm and manuscripts of the National Library in Reykjavík. There too are the Ægishjálmur, the "helm of terror", linked to causing fear and protecting the warrior, and the Vegvísir, linked to bad weather.
 
 ## What is certain and what is modern
 
-What is certain is the manuscript of 1860, the caption and the use of magical signs in Icelandic grimoires. What is not certain, and Wikipedia does not support, is that this was used in the Viking Age or in navigation. The effects attributed to the signs are always supposed, never verified.
+What is certain is the manuscript of 1860, the caption and the use of magical signs in Icelandic grimoires. What is not certain, and the source does not support, is that this was used in the Viking Age or in navigation. The effects attributed to the signs are always supposed, never verified.
 
 ## In short
 

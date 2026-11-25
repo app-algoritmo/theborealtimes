@@ -23,4 +23,4 @@ The Nydam boat is 23 metres long, with an oak hull of overlapping planks. Here, 
 
 ## The story behind it
 
-According to Wikipedia, the Nydam boat is 23 metres long, with an oak clinker hull and 14 pairs of oars, and was dated to 310 to 320 CE. The game itself, with its objects and rules, is invention. Read the story in [Nydam: the oak boat of AD 310 found in a Danish bog and taken as a spoil of war](/nydam-the-oak-boat-of-ad-310-found-in-a-danish-bog/).
+According to the sources, the Nydam boat is 23 metres long, with an oak clinker hull and 14 pairs of oars, and was dated to 310 to 320 CE. The game itself, with its objects and rules, is invention. Read the story in [Nydam: the oak boat of AD 310 found in a Danish bog and taken as a spoil of war](/nydam-the-oak-boat-of-ad-310-found-in-a-danish-bog/).

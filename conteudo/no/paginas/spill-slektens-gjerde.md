@@ -23,4 +23,4 @@ I Sonatorrek åpner havet et brudd i «slektens gjerde». Her reises gjerdet på
 
 ## Historien bak
 
-Ifølge Wikipedia åpner havet i strofe 5 til 12 av Sonatorrek et brudd i «slektens gjerde», et bilde på Egills sorg over Böðvarr. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Sonatorrek, det uopprettelige tapet av sønner: sorgdiktet Egill laget for ikke å sulte seg i hjel](/no/sonatorrek-det-uopprettelige-tapet-av-sonner-sorgdiktet/).
+Ifølge kildene åpner havet i strofe 5 til 12 av Sonatorrek et brudd i «slektens gjerde», et bilde på Egills sorg over Böðvarr. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Sonatorrek, det uopprettelige tapet av sønner: sorgdiktet Egill laget for ikke å sulte seg i hjel](/no/sonatorrek-det-uopprettelige-tapet-av-sonner-sorgdiktet/).

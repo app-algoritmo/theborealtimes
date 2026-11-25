@@ -13,7 +13,7 @@ fontes:
 tags: [tordenskjold, peter wessel, dynekilen, den store nordiske krig, karl xii, fredriksten, admiral]
 ---
 
-Peter Jansen Wessel ble født 28. oktober 1690 i Trondheim i Norge, den gang en del av Danmark-Norge. Ifølge Wikipedia var han det tiende barnet til rådmann Jan Wessel, og broren Caspar von Wessel ble kontreadmiral. Han tjente i den dansk-norske marinen i den store nordiske krig mot Sverige og steg fra sekondløytnant til visadmiral.
+Peter Jansen Wessel ble født 28. oktober 1690 i Trondheim i Norge, den gang en del av Danmark-Norge. Ifølge kildene var han det tiende barnet til rådmann Jan Wessel, og broren Caspar von Wessel ble kontreadmiral. Han tjente i den dansk-norske marinen i den store nordiske krig mot Sverige og steg fra sekondløytnant til visadmiral.
 
 ## En vill gutt
 
@@ -35,11 +35,11 @@ I 1716 adlet kong Frederik IV av Danmark-Norge ham og ga ham navnet Tordenskiold
 
 I 1717 fikk han i oppgave å ødelegge den svenske Göteborg-eskadren, men lyktes bare delvis, fordi noen offiserer var illojale. I desember 1718 brakte han Frederik IV beskjeden om Karl XIIs død og ble kontreadmiral. I 1719 inntok han den svenske festningen Carlsten ved Marstrand. 26. september 1719 ødela han en del av Göteborg-eskadren og erobret resten, og ble forfremmet til visadmiral.
 
-En folkelig historie forteller at han ved Marstrand førte den fiendtlige kommandanten forbi mennene sine, som gikk fra blokk til blokk for å se flere ut. Wikipedia sier at dette er en myte, ikke et dokumentert faktum. Herfra kommer uttrykket «Tordenskjolds soldater», brukt om en som fyller flere roller.
+En folkelig historie forteller at han ved Marstrand førte den fiendtlige kommandanten forbi mennene sine, som gikk fra blokk til blokk for å se flere ut. Kilden sier at dette er en myte, ikke et dokumentert faktum. Herfra kommer uttrykket «Tordenskjolds soldater», brukt om en som fyller flere roller.
 
 ## Døden
 
-12. november 1720, 30 år gammel, døde han i en duell med den livlandske obersten Jakob Axel Staël von Holstein, på Sehlwiese i Gleidingen, nær Hildesheim. Striden begynte etter at han hadde anklaget ham for å jukse i spill. Wikipedia påpeker at detaljene om duellen ikke er godt kjent. Liket ble ført til Holmens kirke i København og lagt i en sarkofag i 1819.
+12. november 1720, 30 år gammel, døde han i en duell med den livlandske obersten Jakob Axel Staël von Holstein, på Sehlwiese i Gleidingen, nær Hildesheim. Striden begynte etter at han hadde anklaget ham for å jukse i spill. Kilden påpeker at detaljene om duellen ikke er godt kjent. Liket ble ført til Holmens kirke i København og lagt i en sarkofag i 1819.
 
 ## Minnet
 

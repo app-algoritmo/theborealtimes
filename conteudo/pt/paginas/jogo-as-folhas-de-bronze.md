@@ -23,4 +23,4 @@ Os moldes de Torslunda eram pressionados contra folhas finas de metal, e saíam 
 
 ## A história por trás
 
-Segundo a Wikipédia, os quatro moldes de bronze de Torslunda eram feitos para produção em massa: pressionando folhas finas de metal contra eles, saíam folhas idênticas que decoravam capacetes. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [As placas de Torslunda: quatro moldes de bronze de Öland e o guerreiro de capacete com chifres que dança](/pt/as-placas-de-torslunda-quatro-moldes-de-bronze-de-oland-e-o-guerreiro-de-capacete-com-chifres-que-danca/).
+Segundo as fontes, os quatro moldes de bronze de Torslunda eram feitos para produção em massa: pressionando folhas finas de metal contra eles, saíam folhas idênticas que decoravam capacetes. O jogo em si, com seus objetos e regras, é invenção. Leia a história em [As placas de Torslunda: quatro moldes de bronze de Öland e o guerreiro de capacete com chifres que dança](/pt/as-placas-de-torslunda-quatro-moldes-de-bronze-de-oland-e-o-guerreiro-de-capacete-com-chifres-que-danca/).

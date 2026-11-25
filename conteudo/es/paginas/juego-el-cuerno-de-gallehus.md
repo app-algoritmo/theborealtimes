@@ -19,8 +19,8 @@ card:
 
 ## Cómo jugar
 
-Según Wikipedia, la capa exterior de los cuernos de Gallehus estaba hecha de anillos de oro. Aquí apilas los anillos. Un bloque se desliza de un lado a otro. Toca la pantalla, o pulsa Espacio, para soltarlo sobre el soporte de piedra. Lo que sobresalga cae, y la pila se estrecha, pero nunca por debajo de un mínimo. Fallar del todo es un error. Apila 10 antes de que acabe el tiempo. Tres errores terminan el juego.
+Según las fuentes, la capa exterior de los cuernos de Gallehus estaba hecha de anillos de oro. Aquí apilas los anillos. Un bloque se desliza de un lado a otro. Toca la pantalla, o pulsa Espacio, para soltarlo sobre el soporte de piedra. Lo que sobresalga cae, y la pila se estrecha, pero nunca por debajo de un mínimo. Fallar del todo es un error. Apila 10 antes de que acabe el tiempo. Tres errores terminan el juego.
 
 ## La historia detrás
 
-Según Wikipedia, cada cuerno de Gallehus estaba hecho de lámina doble de oro, y la capa exterior, de oro de 24 quilates, estaba formada por anillos. Los cuernos fueron robados y fundidos en 1802. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Los Cuernos de Oro de Gallehus: hallados en 1639 y 1734, fundidos en 1802](/es/los-cuernos-de-oro-de-gallehus-hallados-en-1639-y-1734/).
+Según las fuentes, cada cuerno de Gallehus estaba hecho de lámina doble de oro, y la capa exterior, de oro de 24 quilates, estaba formada por anillos. Los cuernos fueron robados y fundidos en 1802. El juego en sí, con sus objetos y reglas, es invención. Lee la historia en [Los Cuernos de Oro de Gallehus: hallados en 1639 y 1734, fundidos en 1802](/es/los-cuernos-de-oro-de-gallehus-hallados-en-1639-y-1734/).

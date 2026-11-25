@@ -23,4 +23,4 @@ I hólmgang brukte hver kriger vanligvis tre skjold, og motstanderens slag kunne
 
 ## Historien bak
 
-Ifølge Wikipedia kunne hver kriger i hólmgang bruke et fast antall skjold, vanligvis tre, den utfordrede slo først, og kampen endte normalt ved første blod. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Hólmgangen: duellen på oksehuden, de tre skjoldene og forbudet i 1006](/no/holmgangen-duellen-pa-oksehuden-de-tre-skjoldene/).
+Ifølge kildene kunne hver kriger i hólmgang bruke et fast antall skjold, vanligvis tre, den utfordrede slo først, og kampen endte normalt ved første blod. Selve spillet, med gjenstander og regler, er oppfinnelse. Les historien i [Hólmgangen: duellen på oksehuden, de tre skjoldene og forbudet i 1006](/no/holmgangen-duellen-pa-oksehuden-de-tre-skjoldene/).

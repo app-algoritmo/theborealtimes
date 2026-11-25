@@ -13,7 +13,7 @@ fontes:
 tags: [widsith, libro de exeter, poesía anglosajona, eormanric, atila, hrothgar, wicinga cynn]
 ---
 
-Widsith, en inglés antiguo *Wīdsīþ*, algo así como «el que viaja lejos», es un poema de 143 versos también llamado «El canto del viajero». Según Wikipedia, solo se conserva en el Libro de Exeter (páginas 84v–87r), un manuscrito de finales del siglo X que contiene cerca de una sexta parte de toda la poesía en inglés antiguo que ha llegado hasta nosotros. El libro está en la catedral de Exeter desde que fue donado, en 1076.
+Widsith, en inglés antiguo *Wīdsīþ*, algo así como «el que viaja lejos», es un poema de 143 versos también llamado «El canto del viajero». Según las fuentes, solo se conserva en el Libro de Exeter (páginas 84v–87r), un manuscrito de finales del siglo X que contiene cerca de una sexta parte de toda la poesía en inglés antiguo que ha llegado hasta nosotros. El libro está en la catedral de Exeter desde que fue donado, en 1076.
 
 ## Tres catálogos
 

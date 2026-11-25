@@ -16,7 +16,7 @@ fontes:
 tags: [snorre goði, helgafell, eyrbyggja saga, laxdøla saga, njåls saga, island]
 ---
 
-Snorre goði, født i 963 og død i 1031 ifølge Wikipedia, var en islandsk høvding. *Goði* var tittelen til den som hadde lokal makt og ledet Alltinget. Han er hovedpersonen i *Eyrbyggja saga* og dukker opp i to andre sagaer. Bildet endrer seg fra den ene til den andre.
+Snorre goði, født i 963 og død i 1031 ifølge kildene, var en islandsk høvding. *Goði* var tittelen til den som hadde lokal makt og ledet Alltinget. Han er hovedpersonen i *Eyrbyggja saga* og dukker opp i to andre sagaer. Bildet endrer seg fra den ene til den andre.
 
 ## I Eyrbyggja saga
 

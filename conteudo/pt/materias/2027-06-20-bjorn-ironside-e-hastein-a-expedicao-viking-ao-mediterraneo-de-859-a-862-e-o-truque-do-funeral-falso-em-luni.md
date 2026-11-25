@@ -13,7 +13,7 @@ fontes:
 tags: [björn ironside, hastein, luni, mediterrâneo, sena, vikings, ragnar lodbrok]
 ---
 
-Björn Ironside (em sueco *Björn Järnsida*) é conhecido por dois tipos de fonte. Segundo a Wikipédia, os anais francos contemporâneos, como os de Saint-Bertin, citam um chefe viking chamado Björn na Frância Ocidental em 855 e 858. Os relatos posteriores trazem quase toda a história de família: Guilherme de Jumièges (c. 1070) é o texto mais antigo que descreve suas origens, e Saxo Grammaticus (c. 1200) o faz rei da Suécia.
+Björn Ironside (em sueco *Björn Järnsida*) é conhecido por dois tipos de fonte. Segundo as fontes, os anais francos contemporâneos, como os de Saint-Bertin, citam um chefe viking chamado Björn na Frância Ocidental em 855 e 858. Os relatos posteriores trazem quase toda a história de família: Guilherme de Jumièges (c. 1070) é o texto mais antigo que descreve suas origens, e Saxo Grammaticus (c. 1200) o faz rei da Suécia.
 
 ## Os filhos de Ragnar
 

@@ -19,17 +19,17 @@ Blant de norrøne gudinnene er det få som har så få linjer som Eir. Og likeve
 
 ## Navnet
 
-På norrønt betyr *eir* «beskyttelse», «hjelp», «nåde». Wikipedia beskriver Eir som en gudinne eller valkyrje knyttet til legekunst og sammenligner henne med den greske gudinnen Hygieia.
+På norrønt betyr *eir* «beskyttelse», «hjelp», «nåde». Kilden beskriver Eir som en gudinne eller valkyrje knyttet til legekunst og sammenligner henne med den greske gudinnen Hygieia.
 
 ## Hva kildene sier
 
-I **Fjölsvinnsmál** i den eldre Edda nevner vokteren Fjölsviðr jomfruene som tjener Menglöð. Blant dem er Eir. De sitter på høyden Lyfjaberg, «helbredelsens berg». Fjölsviðr sier at ofringer til disse jomfruene gir hjelp og beskyttelse mot pest og fare. Wikipedia peker ikke på noen bestemt rolle for Eir der, ut over at hun står i lista.
+I **Fjölsvinnsmál** i den eldre Edda nevner vokteren Fjölsviðr jomfruene som tjener Menglöð. Blant dem er Eir. De sitter på høyden Lyfjaberg, «helbredelsens berg». Fjölsviðr sier at ofringer til disse jomfruene gir hjelp og beskyttelse mot pest og fare. Kilden peker ikke på noen bestemt rolle for Eir der, ut over at hun står i lista.
 
 I **Gylfaginning**, kap. 35, nevner Høy Eir som nummer tre blant de seksten åsynjene og sier at hun er «en usedvanlig god lege». Mer sies det ikke om henne.
 
 I **Skáldskaparmál**, kap. 75, står Eir i ei liste over valkyrjenavn, men ikke i lista over åsynjer i samme kapittel.
 
-I **skaldediktningen** brukes Eir som kenning for en kvinne. Wikipedia gir eksempler som «Eir av rikdom» i Gísla saga, og bruk hos 900-tallsskaldene Kormákr Ögmundarson og Hallfreðr vandræðaskáld. Navnet ble brukt i kvinnekenninger også i rímur.
+I **skaldediktningen** brukes Eir som kenning for en kvinne. Kilden gir eksempler som «Eir av rikdom» i Gísla saga, og bruk hos 900-tallsskaldene Kormákr Ögmundarson og Hallfreðr vandræðaskáld. Navnet ble brukt i kvinnekenninger også i rímur.
 
 ## En runepinne fra Bergen
 
@@ -47,7 +47,7 @@ Forskerne er ikke enige.
 
 ## Hva kildene ikke gir
 
-Det finnes ingen myte om at Eir helbreder noen. Wikipedia registrerer ingen episode der hun behandler en såret gud. Det som finnes, er tre ting: en setning av Snorre, ei liste i Fjölsvinnsmál og bruken av navnet i vers.
+Det finnes ingen myte om at Eir helbreder noen. Kilden registrerer ingen episode der hun behandler en såret gud. Det som finnes, er tre ting: en setning av Snorre, ei liste i Fjölsvinnsmál og bruken av navnet i vers.
 
 ## Kort sagt
 

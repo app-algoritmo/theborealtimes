@@ -14,7 +14,7 @@ BTJogo.registrar({
     "sub": "No Sonatorrek, o mar abre uma brecha na “cerca dos parentes”. Aqui, a cerca é levantada de novo, peça por peça. Um bloco vai de um lado a outro. Toque na tela, ou aperte Espaço, para soltá-lo sobre a cerca. O que sobrar para fora cai, e a pilha fica mais estreita, mas nunca menos que um mínimo. Errar o alvo por completo é erro. Empilhe 10 antes do tempo acabar. Três erros encerram o jogo.",
     "perdeu": "O mar levou a cerca",
     "v1": "A cerca está de pé!",
-    "v2": "Segundo a Wikipédia, nas estrofes 5 a 12 do Sonatorrek o mar abre uma brecha na “cerca dos parentes”, imagem da dor de Egill por Böðvarr. O jogo em si, com seus objetos e regras, é invenção.",
+    "v2": "Segundo as fontes, nas estrofes 5 a 12 do Sonatorrek o mar abre uma brecha na “cerca dos parentes”, imagem da dor de Egill por Böðvarr. O jogo em si, com seus objetos e regras, é invenção.",
     "h1": "Níveis",
     "dica": "Toque para soltar o bloco"
   },
@@ -30,7 +30,7 @@ BTJogo.registrar({
     "sub": "In the Sonatorrek, the sea opens a breach in the “fence of kin”. Here, the fence is raised again, piece by piece. A block slides from side to side. Tap the screen, or press Space, to drop it onto the fence. Whatever overhangs falls off and the stack gets narrower, but never below a minimum. Missing the stack completely is a mistake. Stack 10 before time runs out. Three mistakes end the game.",
     "perdeu": "The sea took the fence",
     "v1": "The fence stands again!",
-    "v2": "According to Wikipedia, in stanzas 5 to 12 of the Sonatorrek the sea opens a breach in the “fence of kin”, an image of Egill's grief for Böðvarr. The game itself, with its objects and rules, is invention.",
+    "v2": "According to the sources, in stanzas 5 to 12 of the Sonatorrek the sea opens a breach in the “fence of kin”, an image of Egill's grief for Böðvarr. The game itself, with its objects and rules, is invention.",
     "h1": "Levels",
     "dica": "Tap to drop the block"
   },
@@ -46,7 +46,7 @@ BTJogo.registrar({
     "sub": "I Sonatorrek åpner havet et brudd i «slektens gjerde». Her reises gjerdet på nytt, del for del. En blokk glir fra side til side. Trykk på skjermen, eller trykk Mellomrom, for å slippe den på gjerdet. Det som henger utenfor, faller av, og stabelen blir smalere, men aldri under et minimum. Å bomme helt er en feil. Stable 10 før tiden er ute. Tre feil avslutter spillet.",
     "perdeu": "Havet tok gjerdet",
     "v1": "Gjerdet står igjen!",
-    "v2": "Ifølge Wikipedia åpner havet i strofe 5 til 12 av Sonatorrek et brudd i «slektens gjerde», et bilde på Egills sorg over Böðvarr. Selve spillet, med gjenstander og regler, er oppfinnelse.",
+    "v2": "Ifølge kildene åpner havet i strofe 5 til 12 av Sonatorrek et brudd i «slektens gjerde», et bilde på Egills sorg over Böðvarr. Selve spillet, med gjenstander og regler, er oppfinnelse.",
     "h1": "Nivåer",
     "dica": "Trykk for å slippe blokken"
   },
@@ -62,7 +62,7 @@ BTJogo.registrar({
     "sub": "En el Sonatorrek, el mar abre una brecha en la «cerca de los parientes». Aquí la cerca se levanta de nuevo, pieza a pieza. Un bloque se desliza de un lado a otro. Toca la pantalla, o pulsa Espacio, para soltarlo sobre la cerca. Lo que sobresalga cae, y la pila se estrecha, pero nunca por debajo de un mínimo. Fallar del todo es un error. Apila 10 antes de que acabe el tiempo. Tres errores terminan el juego.",
     "perdeu": "El mar se llevó la cerca",
     "v1": "¡La cerca está en pie!",
-    "v2": "Según Wikipedia, en las estrofas 5 a 12 del Sonatorrek el mar abre una brecha en la «cerca de los parientes», imagen del dolor de Egill por Böðvarr. El juego en sí, con sus objetos y reglas, es invención.",
+    "v2": "Según las fuentes, en las estrofas 5 a 12 del Sonatorrek el mar abre una brecha en la «cerca de los parientes», imagen del dolor de Egill por Böðvarr. El juego en sí, con sus objetos y reglas, es invención.",
     "h1": "Niveles",
     "dica": "Toca para soltar el bloque"
   }

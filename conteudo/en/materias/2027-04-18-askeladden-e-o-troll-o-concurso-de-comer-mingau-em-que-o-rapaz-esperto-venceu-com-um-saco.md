@@ -40,7 +40,7 @@ The boy takes the silver and gold he finds in the hillside and goes home. The mo
 
 Trolls, in the tales of Asbjørnsen and Moe, are usually strong and foolish, and lose to the boy who tricks them with words and devices. Here there are three tests: the squeezed cheese, the spring he offers to carry and the eating contest. In all of them, Askeladden wins without strength, using a false threat, a promise that is too big and a bag. The troll is afraid of what he does not understand, and always believes the boy.
 
-Wikipedia recalls that the Asbjørnsen and Moe collection is called *Norske Folkeeventyr* and that a tale of Askeladden was one of the first to open it. Here, the tale comes from Dasent's translation, which became very well known in English.
+The source recalls that the Asbjørnsen and Moe collection is called *Norske Folkeeventyr* and that a tale of Askeladden was one of the first to open it. Here, the tale comes from Dasent's translation, which became very well known in English.
 
 ## In short
 

@@ -13,7 +13,7 @@ fontes:
 tags: [birger jarl, stockholm, bjälbo-ætten, magnus ladulås, middelalderens sverige, folkungene, mälaren]
 ---
 
-Birger jarl, også kalt Birger Magnusson, var en svensk statsmann, regent og jarl av Bjälbo-ætten. Ifølge Wikipedia ble han født omkring 1210, trolig i Östergötland, og døde 21. oktober 1266 i Jälbolung i Västergötland. Fødselsdatoen er usikker: levninger undersøkt i 2002 tyder på at han var rundt 50 da han døde, noe som peker mot 1216.
+Birger jarl, også kalt Birger Magnusson, var en svensk statsmann, regent og jarl av Bjälbo-ætten. Ifølge kildene ble han født omkring 1210, trolig i Östergötland, og døde 21. oktober 1266 i Jälbolung i Västergötland. Fødselsdatoen er usikker: levninger undersøkt i 2002 tyder på at han var rundt 50 da han døde, noe som peker mot 1216.
 
 ## Familie og makt
 
@@ -29,7 +29,7 @@ Birger ledet det andre svenske korstoget til Finland. *Eriks krønike* sier at h
 
 ## Stockholm
 
-Tradisjonelt får Birger æren for å ha grunnlagt Stockholm, omkring 1250. Det som finnes, er to nøye daterte brev fra 1252, den første kjente omtalen av byen. De beskriver ikke stedet. Foreslåtte motiver er å begrense de lokale stormennene ved å kontrollere adgangen til Mälaren, å forsvare landet omkring og å skape et handelssted for tyske kjøpmenn. Wikipedia kaller hans direkte rolle spekulativ.
+Tradisjonelt får Birger æren for å ha grunnlagt Stockholm, omkring 1250. Det som finnes, er to nøye daterte brev fra 1252, den første kjente omtalen av byen. De beskriver ikke stedet. Foreslåtte motiver er å begrense de lokale stormennene ved å kontrollere adgangen til Mälaren, å forsvare landet omkring og å skape et handelssted for tyske kjøpmenn. Kilden kaller hans direkte rolle spekulativ.
 
 ## Etterpå
 

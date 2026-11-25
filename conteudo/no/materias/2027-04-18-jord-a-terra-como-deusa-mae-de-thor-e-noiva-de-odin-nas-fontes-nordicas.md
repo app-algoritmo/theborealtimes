@@ -19,7 +19,7 @@ På norrønt betyr *jörð* «jord», og det er også navnet på en gudinne. Hun
 
 ## Foreldrene, ifølge Gylfaginning
 
-I Gylfaginning, avsnitt 10, forteller Snorres Edda at en jotun som heter Narfi har en datter, Nótt, Natten. Hun gifter seg med Naglfari og siden med Annar, og datteren deres er Jörð, «Jord». Wikipedia påpeker at dette stedet varierer etter håndskriftet. I det eldste håndskriftet, U, er Jörð hustru til Dellingr og mor til Dagr, Dagen. I håndskriftene R, W og T er det Nótt som har den rollen.
+I Gylfaginning, avsnitt 10, forteller Snorres Edda at en jotun som heter Narfi har en datter, Nótt, Natten. Hun gifter seg med Naglfari og siden med Annar, og datteren deres er Jörð, «Jord». Kilden påpeker at dette stedet varierer etter håndskriftet. I det eldste håndskriftet, U, er Jörð hustru til Dellingr og mor til Dagr, Dagen. I håndskriftene R, W og T er det Nótt som har den rollen.
 
 ## Thors mor
 
@@ -33,7 +33,7 @@ I Völuspá kalles Thor *mögr Hlóðyniar* og *Fjörgyniar burr*. Forskerne for
 
 ## «Odins brud»
 
-I Skáldskaparmál, avsnitt 90, er det en lang liste med omskrivninger for jorden. Blant dem er Jörð «Odins brud», «Önars datter» og «Thors mor», i tillegg til «gulv og grunnlag for vindenes hall». I avsnitt 19 kaller en omskrivning for Frigg henne «Iords og Rinds rival». Det viser at skaldene tenkte seg at Odin hadde hatt en forbindelse med Jörð, men kildene forteller ikke hvordan den kom i stand. Forskeren John Lindow, sitert på Wikipedia, mener at forholdet trolig ikke var et ekteskap.
+I Skáldskaparmál, avsnitt 90, er det en lang liste med omskrivninger for jorden. Blant dem er Jörð «Odins brud», «Önars datter» og «Thors mor», i tillegg til «gulv og grunnlag for vindenes hall». I avsnitt 19 kaller en omskrivning for Frigg henne «Iords og Rinds rival». Det viser at skaldene tenkte seg at Odin hadde hatt en forbindelse med Jörð, men kildene forteller ikke hvordan den kom i stand. Forskeren John Lindow, sitert på kilden, mener at forholdet trolig ikke var et ekteskap.
 
 ## En gudinne som er bakken
 

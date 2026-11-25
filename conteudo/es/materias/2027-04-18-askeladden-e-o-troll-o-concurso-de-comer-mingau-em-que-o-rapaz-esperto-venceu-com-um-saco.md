@@ -40,7 +40,7 @@ El muchacho se lleva la plata y el oro que encuentra en la ladera y vuelve a cas
 
 Los trolls, en los cuentos de Asbjørnsen y Moe, suelen ser fuertes y tontos, y pierden ante el muchacho que los engaña con palabras y trucos. Aquí hay tres pruebas: el queso apretado, el manantial que se ofrece a cargar y el concurso de comer. En todas, Askeladden gana sin fuerza, con una amenaza falsa, una promesa demasiado grande y un saco. El troll teme lo que no entiende, y siempre cree al muchacho.
 
-Wikipedia recuerda que la colección de Asbjørnsen y Moe se llama *Norske Folkeeventyr* y que un cuento de Askeladden fue de los primeros en abrirla. Aquí, el cuento viene de la traducción de Dasent, que se hizo muy conocida en inglés.
+La fuente recuerda que la colección de Asbjørnsen y Moe se llama *Norske Folkeeventyr* y que un cuento de Askeladden fue de los primeros en abrirla. Aquí, el cuento viene de la traducción de Dasent, que se hizo muy conocida en inglés.
 
 ## En resumen
 

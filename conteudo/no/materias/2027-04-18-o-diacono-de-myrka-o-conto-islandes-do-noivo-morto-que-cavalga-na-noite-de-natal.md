@@ -35,11 +35,11 @@ Spøkelset hjemsøker natten og forstyrrer andre på gården. En eksorsist blir 
 
 ## Spøkelset som sier navnet feil
 
-Wikipedia bemerker at spøkelser i islandsk folketro ofte snakker på vers og gjentar det siste ordet i hver linje. To av diakonens replikker er sitert: «Månen blekner, døden rir» og «Vent her, Garún, Garún». Forklaringen på det andre «Garún» er at han ikke kan si «Guð», første del av navnet hennes, fordi *Guð* betyr Gud, og spøkelser i islandsk sagn kan ikke si ord som Gud eller engel.
+Kilden bemerker at spøkelser i islandsk folketro ofte snakker på vers og gjentar det siste ordet i hver linje. To av diakonens replikker er sitert: «Månen blekner, døden rir» og «Vent her, Garún, Garún». Forklaringen på det andre «Garún» er at han ikke kan si «Guð», første del av navnet hennes, fordi *Guð* betyr Gud, og spøkelser i islandsk sagn kan ikke si ord som Gud eller engel.
 
 ## Hvor det kommer fra
 
-Eventyret ble først trykt av Konrad Maurer i 1860, og på islandsk av Jón Árnason og Magnús Grímsson i 1862. Det er klassifisert som ATU 365, «Den døde brudgommen fører bruden bort», en type der den døde elskeren kommer tilbake på en ridetur i måneskinn for å ta den elskede med til graven. Wikipedia nevner *Lenore* og *Sweet William's Ghost* som beslektede verk. Opprinnelsen og forfatteren er ukjent, og varianter av typen er samlet inn både i det østlige og det vestlige Europa.
+Eventyret ble først trykt av Konrad Maurer i 1860, og på islandsk av Jón Árnason og Magnús Grímsson i 1862. Det er klassifisert som ATU 365, «Den døde brudgommen fører bruden bort», en type der den døde elskeren kommer tilbake på en ridetur i måneskinn for å ta den elskede med til graven. Kilden nevner *Lenore* og *Sweet William's Ghost* som beslektede verk. Opprinnelsen og forfatteren er ukjent, og varianter av typen er samlet inn både i det østlige og det vestlige Europa.
 
 ## Kort sagt
 

@@ -13,7 +13,7 @@ fontes:
 tags: [ólavsøka, islas feroe, tórshavn, san olaf, stiklestad, baile en cadena, regata, løgting]
 ---
 
-La Ólavsøka es la mayor fiesta de verano de las Islas Feroe. Dura dos días, el 28 y el 29 de julio, y, según Wikipedia, para la mayoría de los feroeses es fiesta nacional, junto con el Día de la Bandera, el 25 de abril.
+La Ólavsøka es la mayor fiesta de verano de las Islas Feroe. Dura dos días, el 28 y el 29 de julio, y, según las fuentes, para la mayoría de los feroeses es fiesta nacional, junto con el Día de la Bandera, el 25 de abril.
 
 ## El nombre
 
@@ -31,6 +31,6 @@ Las finales nacionales de remo son el 28 de julio y están entre los momentos m�
 
 ## Límites de la fuente
 
-El artículo de Wikipedia advierte de que necesita más citas, y no cuenta la historia de la fiesta a lo largo del tiempo, solo el origen del nombre y el vínculo con 1030. Los horarios exactos, como el de la cantata, varían de un año a otro, y los sindicatos difieren en cuanto al día libre.
+El artículo de la fuente advierte de que necesita más citas, y no cuenta la historia de la fiesta a lo largo del tiempo, solo el origen del nombre y el vínculo con 1030. Los horarios exactos, como el de la cantata, varían de un año a otro, y los sindicatos difieren en cuanto al día libre.
 
 Para remar al ritmo justo, juega a [El ritmo de la regata](/es/juego-el-ritmo-de-la-regata/).
