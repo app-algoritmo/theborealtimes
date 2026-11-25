@@ -386,6 +386,9 @@ def construir():
                 "natureza": meta.get("natureza", ""),
                 "fontes": meta.get("fontes") or [],
                 "tags": meta.get("tags") or [],
+                # O jogo da história: o último link da matéria para uma página de jogo.
+                "jogo_url": next(iter(reversed(re.findall(
+                    r'href="(/(?:(?:pt|no|es)/)?(?:game|jogo|spill|juego)-[^"/]+/)"', html))), ""),
             })
             materias.append((meta, html))
 

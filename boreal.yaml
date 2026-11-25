@@ -137,6 +137,7 @@ pt:
     progresso: meu-progresso
     galeria: galeria
     album: album
+    vr: vr
     reinos: reinos
     glossario: glossario
     personagens: personagens
@@ -908,6 +909,7 @@ en:
     progresso: my-progress
     galeria: gallery
     album: album
+    vr: vr
     reinos: realms
     glossario: glossary
     personagens: characters
@@ -1679,6 +1681,7 @@ en:
     progresso: min-fremgang
     galeria: galleri
     album: album
+    vr: vr
     reinos: rikene
     glossario: ordliste
     personagens: skikkelser
@@ -2450,6 +2453,7 @@ es:
     progresso: mi-progreso
     galeria: galeria
     album: album
+    vr: vr
     reinos: reinos
     glossario: glosario
     personagens: personajes

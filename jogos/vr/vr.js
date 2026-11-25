@@ -375,13 +375,18 @@ document.addEventListener('visibilitychange', function () { if (document.visibil
 
 /* ---------- modos ---------- */
 function esconderOv(s) { $('ov').style.display = s ? 'none' : 'flex'; }
-$('bmono').onclick = function () { acordar(); destravarVoz(); esconderOv(true); ativarGiro().catch(function () {}); };
+function comecar() {
+  if (!inicio) return;
+  lista = CAT.itens.filter(function (x) { return x.s === inicio.s && x.m; }).sort(function (a, b) { return a.n - b.n; });
+  pos = Math.max(0, lista.indexOf(inicio)); inicio = null; cinema();
+}
+$('bmono').onclick = function () { acordar(); destravarVoz(); esconderOv(true); ativarGiro().catch(function () {}); comecar(); };
 $('bvr').onclick = async function () {
   acordar(); destravarVoz(); var ok = false; try { ok = await ativarGiro(); } catch (e) {}
   if (!ok) { $('msg').textContent = TX.gir; }
   estereo = true; esconderOv(true); document.body.classList.add('est'); recentrar(6); tVida = 0; fechaLer();
   var el = document.documentElement; if (el.requestFullscreen) el.requestFullscreen().catch(function () {});
-  tamanho();
+  tamanho(); comecar();
 };
 function sairEstereo() {
   estereo = false; document.body.classList.remove('est'); esconderOv(false);
@@ -424,7 +429,11 @@ function carregarCat() {
     var s = document.createElement('script'); s.src = '/g/catalogo-' + L + '.js'; s.onload = function () { ok(window.BT_CAT); }; s.onerror = erro; document.head.appendChild(s);
   });
 }
-carregarCat().then(function (c) { CAT = c; menu(); }).catch(function () { $('msg').textContent = 'catálogo?'; });
+var H = qs.get('h'), inicio = null;
+carregarCat().then(function (c) {
+  CAT = c; menu();
+  if (H) for (var i = 0; i < c.itens.length; i++) if (c.itens[i].i === H && c.itens[i].m) { inicio = c.itens[i]; $('t1').textContent = inicio.t; break; }
+}).catch(function () { $('msg').textContent = 'catálogo?'; });
 window.__vr = { look: function (y, p) { yaw = y * Math.PI / 180; pitch = p * Math.PI / 180; }, estado: function () { return estado; }, reino: reinoCinema, menu: menu, estereo: function (v) { estereo = !!v; tamanho(); }, cfg: CFG };
 requestAnimationFrame(laco);
 

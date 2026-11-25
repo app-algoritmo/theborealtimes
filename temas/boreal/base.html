@@ -115,6 +115,7 @@
   <a href="{{ idioma.prefixo }}/{{ t.paginas.jogos }}/" class="nav-jogos"{% if nav_jogo or nav_url == idioma.prefixo ~ '/' ~ t.paginas.jogos ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_jogos }}</a>
   <a href="{{ idioma.prefixo }}/{{ t.paginas.galeria }}/"{% if nav_url == idioma.prefixo ~ '/' ~ t.paginas.galeria ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_galeria }}</a>
   <a href="{{ idioma.prefixo }}/{{ t.paginas.album }}/"{% if nav_url == idioma.prefixo ~ '/' ~ t.paginas.album ~ '/' %} aria-current="page"{% endif %}>{{ ui.menu_album }}</a>
+  <a href="{{ idioma.prefixo }}/{{ t.paginas.vr }}/"{% if nav_url == idioma.prefixo ~ '/' ~ t.paginas.vr ~ '/' %} aria-current="page"{% endif %}>VR</a>
   {% for s in secoes %}<a href="{{ idioma.prefixo }}/{{ s.slug }}/" class="nav-{{ nav_cores[loop.index0 % 4] }}"{% if nav_url == idioma.prefixo ~ '/' ~ s.slug ~ '/' or nav_sec == s.nome %} aria-current="page"{% endif %}>{{ s.nome }}</a>{% endfor %}
 </div></nav>
 
@@ -132,6 +133,7 @@
       {% for s in secoes %}<li><a href="{{ idioma.prefixo }}/{{ s.slug }}/">{{ s.nome }}</a></li>{% endfor %}
       <li><a href="{{ idioma.prefixo }}/{{ t.paginas.galeria }}/">{{ ui.menu_galeria }}</a></li>
       <li><a href="{{ idioma.prefixo }}/{{ t.paginas.album }}/">{{ ui.menu_album }}</a></li>
+      <li><a href="{{ idioma.prefixo }}/{{ t.paginas.vr }}/">VR</a></li>
       <li><a href="{{ idioma.prefixo }}/{{ t.paginas.progresso }}/">{{ ui.menu_progresso }}</a></li>
       <li><a href="{{ idioma.prefixo }}/{{ t.paginas.reinos }}/">{{ ui.rodape_reinos }}</a></li>
       <li><a href="{{ idioma.prefixo }}/{{ t.paginas.glossario }}/">{{ ui.rodape_glossario }}</a></li>

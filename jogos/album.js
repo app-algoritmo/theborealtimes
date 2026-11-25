@@ -113,10 +113,10 @@
     completo: 'completo', vol: 'Volumen', conta_t: 'Cuenta'
   });
   /* Realidade aumentada (3D) da figurinha */
-  Object.assign(TXT.pt, { ar_ver: 'Ver em 3D e AR', ar_ilus: 'Ver a ilustração', ar_mesa: 'Ver na sua mesa', ar_dica: 'Gire com o dedo. Em celulares compatíveis, toque em "Ver na sua mesa" e aponte a câmera para uma superfície plana.', ar_erro: 'Não foi possível abrir o 3D agora.' });
-  Object.assign(TXT.en, { ar_ver: 'View in 3D and AR', ar_ilus: 'View the illustration', ar_mesa: 'View on your table', ar_dica: 'Rotate with your finger. On supported phones, tap "View on your table" and point the camera at a flat surface.', ar_erro: 'Could not open the 3D view right now.' });
-  Object.assign(TXT.no, { ar_ver: 'Se i 3D og AR', ar_ilus: 'Se illustrasjonen', ar_mesa: 'Se på bordet ditt', ar_dica: 'Roter med fingeren. På støttede mobiler trykker du «Se på bordet ditt» og peker kameraet mot en flat flate.', ar_erro: 'Kunne ikke åpne 3D-visningen akkurat nå.' });
-  Object.assign(TXT.es, { ar_ver: 'Ver en 3D y RA', ar_ilus: 'Ver la ilustración', ar_mesa: 'Verlo en tu mesa', ar_dica: 'Gira con el dedo. En móviles compatibles, toca «Verlo en tu mesa» y apunta la cámara a una superficie plana.', ar_erro: 'No se pudo abrir la vista 3D ahora.' });
+  Object.assign(TXT.pt, { ar_ver: 'Ver em 3D e AR', ar_ilus: 'Ver a ilustração', ar_mesa: 'Ver na sua mesa', ar_dica: 'Gire com o dedo. Em celulares compatíveis, toque em "Ver na sua mesa" e aponte a câmera para uma superfície plana.', ar_erro: 'Não foi possível abrir o 3D agora.', ar_vr: 'Ver em VR' });
+  Object.assign(TXT.en, { ar_ver: 'View in 3D and AR', ar_ilus: 'View the illustration', ar_mesa: 'View on your table', ar_dica: 'Rotate with your finger. On supported phones, tap "View on your table" and point the camera at a flat surface.', ar_erro: 'Could not open the 3D view right now.', ar_vr: 'View in VR' });
+  Object.assign(TXT.no, { ar_ver: 'Se i 3D og AR', ar_ilus: 'Se illustrasjonen', ar_mesa: 'Se på bordet ditt', ar_dica: 'Roter med fingeren. På støttede mobiler trykker du «Se på bordet ditt» og peker kameraet mot en flat flate.', ar_erro: 'Kunne ikke åpne 3D-visningen akkurat nå.', ar_vr: 'Se i VR' });
+  Object.assign(TXT.es, { ar_ver: 'Ver en 3D y RA', ar_ilus: 'Ver la ilustración', ar_mesa: 'Verlo en tu mesa', ar_dica: 'Gira con el dedo. En móviles compatibles, toca «Verlo en tu mesa» y apunta la cámara a una superficie plana.', ar_erro: 'No se pudo abrir la vista 3D ahora.', ar_vr: 'Ver en VR' });
   var TX = TXT[L] || TXT.en;
   var NATS = []; ITENS.forEach(function (x) { if (x.k && NATS.indexOf(x.k) < 0) NATS.push(x.k); });
 
@@ -343,7 +343,7 @@
         '<div class="sg-info"><p class="sg-sel"><span class="sg-q q' + x.q + '">' + esc(TX.rar[x.q]) + '</span> <span>' + esc(TX.num) + ' ' + pad(x.n) + ' / ' + TOTAL + '</span>' + (possui(x.i) ? ' <span class="sg-tem">✓ ' + esc(TX.tenho) + '</span>' : '') + '</p>' +
         '<h2 id="sg-v-t">' + esc(x.t) + '</h2><p class="sg-reino">' + esc(TX.reinos[x.s]) + (x.k ? ' · ' + esc(x.k) : '') + '</p>' +
         '<p class="sg-res">' + esc(x.r) + '</p>' +
-        (x.ar ? '<p><button type="button" class="sg-btn sg-ar-t">' + esc(TX.ar_ver) + '</button></p>' : '') +
+        (x.ar ? '<p class="sg-ar-linha"><button type="button" class="sg-btn sg-ar-t">' + esc(TX.ar_ver) + '</button><a class="sg-btn" href="/g/vr/?l=' + L + '&h=' + encodeURIComponent(x.i) + '">' + esc(TX.ar_vr) + '</a></p>' : '') +
         '<a class="sg-btn sg-btn-p" href="' + esc(x.u) + '">' + esc(TX.ler) + '</a>' +
         '<p class="sg-cred">Boreal Saga Play</p></div>' +
         (lista.length > 1 ? '<button type="button" class="sg-nav sg-nav-a" aria-label="' + esc(TX.ant) + '">‹</button><button type="button" class="sg-nav sg-nav-p" aria-label="' + esc(TX.prox) + '">›</button>' : '') +
