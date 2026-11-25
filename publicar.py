@@ -609,6 +609,9 @@ def gerar_catalogo(cfg, CAT):
                  "r": x["r"], "s": x["s"], "k": x["n"], "m": x["m"], "a": x["a"], "u": x["u"]}
             if x["c"] != comum:
                 e["c"] = x["c"]
+            # Figurinha em 3D/realidade aumentada: só quando o arquivo existe.
+            if (RAIZ / "jogos" / "ar" / f"{x['i']}.glb").exists():
+                e["ar"] = 1
             saida.append(e)
         # Fundo de cada reino: a imagem do reino, se existir; senão a capa da
         # história mais recente daquela editoria.

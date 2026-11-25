@@ -222,3 +222,8 @@ body.sg-imersivo #saga-app{max-width:1180px;margin:0 auto 40px;background:rgba(1
 
 .sg-volta{min-height:40px;padding:6px 14px;border-radius:999px;border:1px solid var(--fio);background:rgba(255,255,255,.08);font-weight:600;font-size:.85rem}
 .sg-volta:hover,.sg-fs:hover{background:rgba(255,255,255,.16)}
+
+.sg-fig[data-ar]{display:block;position:relative}
+.sg-mv{display:block;width:100%;height:min(52vh,400px);background:transparent;--poster-color:transparent}
+.sg-ar-b{position:absolute;bottom:12px;left:50%;transform:translateX(-50%)}
+.sg-ar-d{margin:0;padding:.5rem .75rem .9rem;font-size:.82rem;opacity:.8;text-align:center}

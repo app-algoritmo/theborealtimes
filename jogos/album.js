@@ -112,6 +112,11 @@
     menu_g: 'Galería', menu_a: 'Álbum', volta_b: 'Volver', fs: 'Pantalla completa', fs_sair: 'Salir de pantalla completa',
     completo: 'completo', vol: 'Volumen', conta_t: 'Cuenta'
   });
+  /* Realidade aumentada (3D) da figurinha */
+  Object.assign(TXT.pt, { ar_ver: 'Ver em 3D e AR', ar_ilus: 'Ver a ilustração', ar_mesa: 'Ver na sua mesa', ar_dica: 'Gire com o dedo. Em celulares compatíveis, toque em "Ver na sua mesa" e aponte a câmera para uma superfície plana.', ar_erro: 'Não foi possível abrir o 3D agora.' });
+  Object.assign(TXT.en, { ar_ver: 'View in 3D and AR', ar_ilus: 'View the illustration', ar_mesa: 'View on your table', ar_dica: 'Rotate with your finger. On supported phones, tap "View on your table" and point the camera at a flat surface.', ar_erro: 'Could not open the 3D view right now.' });
+  Object.assign(TXT.no, { ar_ver: 'Se i 3D og AR', ar_ilus: 'Se illustrasjonen', ar_mesa: 'Se på bordet ditt', ar_dica: 'Roter med fingeren. På støttede mobiler trykker du «Se på bordet ditt» og peker kameraet mot en flat flate.', ar_erro: 'Kunne ikke åpne 3D-visningen akkurat nå.' });
+  Object.assign(TXT.es, { ar_ver: 'Ver en 3D y RA', ar_ilus: 'Ver la ilustración', ar_mesa: 'Verlo en tu mesa', ar_dica: 'Gira con el dedo. En móviles compatibles, toca «Verlo en tu mesa» y apunta la cámara a una superficie plana.', ar_erro: 'No se pudo abrir la vista 3D ahora.' });
   var TX = TXT[L] || TXT.en;
   var NATS = []; ITENS.forEach(function (x) { if (x.k && NATS.indexOf(x.k) < 0) NATS.push(x.k); });
 
@@ -310,6 +315,23 @@
     }
   });
 
+  /* ---------- 3D / realidade aumentada (model-viewer, carregado só ao tocar) ---------- */
+  function carregarMV(cb) {
+    if (window.customElements && customElements.get('model-viewer')) return cb();
+    var s = document.createElement('script'); s.type = 'module'; s.src = '/g/ar/model-viewer.min.js';
+    s.onload = function () { customElements.whenDefined('model-viewer').then(cb); };
+    s.onerror = function () { aviso(TX.ar_erro); };
+    document.head.appendChild(s);
+  }
+  function alternarAR(dlg, x, bt) {
+    var fig = dlg.querySelector('.sg-fig'); if (!fig) return;
+    if (fig.getAttribute('data-ar')) { fig.innerHTML = fig._h; fig.removeAttribute('data-ar'); bt.textContent = TX.ar_ver; return; }
+    carregarMV(function () {
+      fig._h = fig.innerHTML; fig.setAttribute('data-ar', '1'); bt.textContent = TX.ar_ilus;
+      fig.innerHTML = '<model-viewer class="sg-mv" src="/g/ar/' + esc(x.i) + '.glb" alt="' + esc(x.a) + '" ar ar-modes="scene-viewer quick-look" ar-placement="floor" ar-scale="fixed" camera-controls touch-action="pan-y" auto-rotate shadow-intensity="1.2" shadow-softness="0.8" exposure="1.1" interaction-prompt="none" camera-orbit="0deg 78deg auto"><button slot="ar-button" type="button" class="sg-btn sg-btn-p sg-ar-b">' + esc(TX.ar_mesa) + '</button></model-viewer><p class="sg-ar-d">' + esc(TX.ar_dica) + '</p>';
+    });
+  }
+
   /* ---------- visor (lightbox) ---------- */
   function visor(lista, pos) {
     var x0 = lista[pos], dlg = el('div', 'sg-dlg sg-visor'); dlg.setAttribute('role', 'dialog'); dlg.setAttribute('aria-modal', 'true');
@@ -321,12 +343,14 @@
         '<div class="sg-info"><p class="sg-sel"><span class="sg-q q' + x.q + '">' + esc(TX.rar[x.q]) + '</span> <span>' + esc(TX.num) + ' ' + pad(x.n) + ' / ' + TOTAL + '</span>' + (possui(x.i) ? ' <span class="sg-tem">✓ ' + esc(TX.tenho) + '</span>' : '') + '</p>' +
         '<h2 id="sg-v-t">' + esc(x.t) + '</h2><p class="sg-reino">' + esc(TX.reinos[x.s]) + (x.k ? ' · ' + esc(x.k) : '') + '</p>' +
         '<p class="sg-res">' + esc(x.r) + '</p>' +
+        (x.ar ? '<p><button type="button" class="sg-btn sg-ar-t">' + esc(TX.ar_ver) + '</button></p>' : '') +
         '<a class="sg-btn sg-btn-p" href="' + esc(x.u) + '">' + esc(TX.ler) + '</a>' +
         '<p class="sg-cred">Boreal Saga Play</p></div>' +
         (lista.length > 1 ? '<button type="button" class="sg-nav sg-nav-a" aria-label="' + esc(TX.ant) + '">‹</button><button type="button" class="sg-nav sg-nav-p" aria-label="' + esc(TX.prox) + '">›</button>' : '') +
         '</div>';
       dlg.setAttribute('aria-labelledby', 'sg-v-t');
       dlg.querySelector('.sg-x').onclick = fecharDialogo;
+      var bAR = dlg.querySelector('.sg-ar-t'); if (bAR) bAR.onclick = function () { alternarAR(dlg, x, bAR); };
       var a = dlg.querySelector('.sg-nav-a'), p = dlg.querySelector('.sg-nav-p');
       if (a) { a.onclick = function () { ir(-1); }; p.onclick = function () { ir(1); }; }
     }
