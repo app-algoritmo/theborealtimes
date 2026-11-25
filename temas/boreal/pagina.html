@@ -10,9 +10,6 @@
     {% if pagina.olho %}<span class="chapeu">{{ pagina.olho }}</span>{% endif %}
     <h1>{{ pagina.titulo }}</h1>
     {% if pagina.resumo %}<p class="linha-fina">{{ pagina.resumo }}</p>{% endif %}
-    {% if pagina.atualizado %}
-    <div class="assinatura"><span>{{ ui.atualizado }} {{ pagina.atualizado }}</span></div>
-    {% endif %}
   </div>
   <div class="texto texto-editorial">{{ conteudo_html|safe }}</div>
 </article>

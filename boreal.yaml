@@ -109,11 +109,7 @@ pt:
     privacidade: Privacidade
     termos: Termos
     editor: Editor responsável
-    links_jornal:
-      - { rotulo: Quem somos, url: /pt/quem-somos/ }
-      - { rotulo: Princípios editoriais, url: /pt/principios/ }
-      - { rotulo: Correções, url: /pt/correcoes/ }
-      - { rotulo: Fale conosco, url: /pt/contato/ }
+    links_jornal: []
     links_legal:
       - { rotulo: Assinatura, url: /pt/assinatura/ }
       - { rotulo: Termos de uso, url: /pt/termos/ }
@@ -791,7 +787,6 @@ pt:
     vazio: Nenhum texto publicado nesta seção ainda.
     leitura: min de leitura
     natureza: Natureza do texto
-    narrado: Narrado por inteligência artificial
     ouvir: Ouvir
     ouvir_pausar: Pausar
     ouvir_continuar: Continuar
@@ -866,8 +861,6 @@ pt:
       <p>Cada texto declara a sua natureza: história documentada, saga ou fonte
       medieval, mito ou lenda, ou conto original. Quando há fonte, ela vem
       listada no fim.</p>
-      <p>Os textos são narrados por inteligência artificial. O editor
-      responsável é Paulo Fernando de Barros.</p>
 
 en:
   lema: Myths · Sagas · Viking Age · Tales
@@ -884,11 +877,7 @@ en:
     privacidade: Privacy
     termos: Terms
     editor: Responsible editor
-    links_jornal:
-      - { rotulo: About us, url: /about-us/ }
-      - { rotulo: Editorial principles, url: /editorial-principles/ }
-      - { rotulo: Corrections, url: /corrections/ }
-      - { rotulo: Contact us, url: /contact/ }
+    links_jornal: []
     links_legal:
       - { rotulo: Subscription, url: /subscribe/ }
       - { rotulo: Terms of use, url: /terms/ }
@@ -1563,7 +1552,6 @@ en:
     vazio: Nothing published in this section yet.
     leitura: min read
     natureza: Nature of the text
-    narrado: Narrated by artificial intelligence
     ouvir: Listen
     ouvir_pausar: Pause
     ouvir_continuar: Resume
@@ -1638,8 +1626,6 @@ en:
       <p>Every text states its nature: documented history, saga or medieval
       source, myth or legend, or original tale. Where there is a source, it is
       listed at the end.</p>
-      <p>The texts are narrated by artificial intelligence. The responsible
-      editor is Paulo Fernando de Barros.</p>
 
 "no":
   lema: Myter · Sagaer · Vikingtid · Eventyr
@@ -1656,11 +1642,7 @@ en:
     privacidade: Personvern
     termos: Vilkår
     editor: Ansvarlig redaktør
-    links_jornal:
-      - { rotulo: Om oss, url: /no/om-oss/ }
-      - { rotulo: Redaksjonelle prinsipper, url: /no/redaksjonelle-prinsipper/ }
-      - { rotulo: Rettelser, url: /no/rettelser/ }
-      - { rotulo: Kontakt oss, url: /no/kontakt/ }
+    links_jornal: []
     links_legal:
       - { rotulo: Abonnement, url: /no/abonner/ }
       - { rotulo: Bruksvilkår, url: /no/vilkar/ }
@@ -2335,7 +2317,6 @@ en:
     vazio: Ingenting er publisert i denne seksjonen ennå.
     leitura: min lesing
     natureza: Tekstens art
-    narrado: Fortalt av kunstig intelligens
     ouvir: Lytt
     ouvir_pausar: Pause
     ouvir_continuar: Fortsett
@@ -2410,8 +2391,6 @@ en:
       <p>Hver tekst oppgir sin art: dokumentert historie, saga eller
       middelalderkilde, myte eller legende, eller original fortelling. Der det
       finnes en kilde, står den oppført til slutt.</p>
-      <p>Tekstene er fortalt av kunstig intelligens. Ansvarlig redaktør er
-      Paulo Fernando de Barros.</p>
 
 es:
   lema: Mitos · Sagas · Era vikinga · Cuentos
@@ -2428,11 +2407,7 @@ es:
     privacidade: Privacidad
     termos: Términos
     editor: Editor responsable
-    links_jornal:
-      - { rotulo: Quiénes somos, url: /es/quienes-somos/ }
-      - { rotulo: Principios editoriales, url: /es/principios-editoriales/ }
-      - { rotulo: Correcciones, url: /es/correcciones/ }
-      - { rotulo: Contacto, url: /es/contacto/ }
+    links_jornal: []
     links_legal:
       - { rotulo: Suscripción, url: /es/suscripcion/ }
       - { rotulo: Términos de uso, url: /es/terminos/ }
@@ -2844,7 +2819,6 @@ es:
     vazio: Todavía no hay nada publicado en esta sección.
     leitura: min de lectura
     natureza: Naturaleza del texto
-    narrado: Narrado por inteligencia artificial
     ouvir: Escuchar
     ouvir_pausar: Pausar
     ouvir_continuar: Continuar
@@ -2922,5 +2896,3 @@ es:
       <p>Cada texto indica su naturaleza: historia documentada, saga o fuente
       medieval, mito o leyenda, o cuento original. Cuando hay fuente, aparece
       al final.</p>
-      <p>Los textos están narrados por inteligencia artificial. El editor
-      responsable es Paulo Fernando de Barros.</p>

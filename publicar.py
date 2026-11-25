@@ -718,8 +718,7 @@ Elaborado por {s['publicacao_de']} ({s['publicacao_de_url']}), que edita
 jornalismo em português desde {s['casa_desde']}.
 
 ## Como trabalhamos
-Os textos são narrados por inteligência artificial; o editor responsável
-responde pela publicação. Cada texto declara a sua natureza: história
+O editor responsável responde pela publicação. Cada texto declara a sua natureza: história
 documentada, saga ou fonte medieval, mito ou lenda, ou conto original.
 Mito e lenda nunca são apresentados como fato. Ilustrações geradas por IA
 vêm identificadas na legenda.

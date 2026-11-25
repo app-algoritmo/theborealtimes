@@ -16,25 +16,25 @@ var TXT = {
     vr: 'Modo óculos (VR)', mono: 'Explorar na tela (arraste)', aviso: 'No modo óculos: gire o celular para horizontal, encaixe no óculos e olhe para a frente. Para sair, tire o celular e toque na tela.',
     ajuste: 'Ajuste das lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Olhos (cm)', fov: 'Campo de visão', prof: 'Profundidade 3D', padrao: 'Valores padrão', sair: 'Sair',
     reinos: ['Mitos e Deuses', 'Sagas e Reis', 'Era Viking', 'Contos e Folclore'], rar: ['Comum', 'Rara', 'Épica', 'Lendária'],
-    pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'pt-BR', fig: 'Figurinha', voltar: 'Voltar', salao: 'Salão', mais: 'Mais ▶', antes: '◀ Antes', prox: 'Próxima ▶', ant: '◀ Anterior', pag: 'Página', hist: 'histórias',
+    sair: 'Sair', gal: '/pt/galeria/', pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'pt-BR', fig: 'Figurinha', voltar: 'Voltar', salao: 'Salão', mais: 'Mais ▶', antes: '◀ Antes', prox: 'Próxima ▶', ant: '◀ Anterior', pag: 'Página', hist: 'histórias',
     olhe: 'Olhe para a frente. O salão se ajusta em', gir: 'Sem giroscópio neste aparelho.', ler: 'Ler a história no site' },
   en: { titulo: 'Boreal Hall', intro: 'Watch the Boreal Saga Play stories on a giant screen, with narration. Choose with your gaze: aim the dot at the centre and wait.',
     vr: 'Headset mode (VR)', mono: 'Explore on screen (drag)', aviso: 'In headset mode: turn the phone to landscape, slot it into the headset and look straight ahead. To exit, take the phone out and tap the screen.',
     ajuste: 'Lens settings', k1: 'Lens k1', k2: 'Lens k2', ipd: 'Eyes (cm)', fov: 'Field of view', prof: '3D depth', padrao: 'Default values', sair: 'Exit',
     reinos: ['Myths & Gods', 'Sagas & Kings', 'Viking Age', 'Tales & Folklore'], rar: ['Common', 'Rare', 'Epic', 'Legendary'],
-    pausar: 'Pause', cont: 'Resume', menu: 'Realms', vozl: 'en-GB', fig: 'Sticker', voltar: 'Back', salao: 'Hall', mais: 'More ▶', antes: '◀ Previous', prox: 'Next ▶', ant: '◀ Previous', pag: 'Page', hist: 'stories',
+    sair: 'Exit', gal: '/gallery/', pausar: 'Pause', cont: 'Resume', menu: 'Realms', vozl: 'en-GB', fig: 'Sticker', voltar: 'Back', salao: 'Hall', mais: 'More ▶', antes: '◀ Previous', prox: 'Next ▶', ant: '◀ Previous', pag: 'Page', hist: 'stories',
     olhe: 'Look straight ahead. The hall adjusts in', gir: 'No gyroscope on this device.', ler: 'Read the story on the site' },
   no: { titulo: 'Boreal-salen', intro: 'Se historiene fra Boreal Saga Play på en gigantisk skjerm, med fortelling. Velg med blikket: sikt prikken mot midten og vent.',
     vr: 'Brillemodus (VR)', mono: 'Utforsk på skjermen (dra)', aviso: 'I brillemodus: vri telefonen til liggende, sett den i brillen og se rett frem. For å avslutte tar du ut telefonen og trykker på skjermen.',
     ajuste: 'Linseinnstillinger', k1: 'Linse k1', k2: 'Linse k2', ipd: 'Øyne (cm)', fov: 'Synsfelt', prof: '3D-dybde', padrao: 'Standardverdier', sair: 'Avslutt',
     reinos: ['Myter og guder', 'Sagaer og konger', 'Vikingtid', 'Eventyr og folketro'], rar: ['Vanlig', 'Sjelden', 'Episk', 'Legendarisk'],
-    pausar: 'Pause', cont: 'Fortsett', menu: 'Riker', vozl: 'nb-NO', fig: 'Klistremerke', voltar: 'Tilbake', salao: 'Salen', mais: 'Flere ▶', antes: '◀ Forrige', prox: 'Neste ▶', ant: '◀ Forrige', pag: 'Side', hist: 'historier',
+    sair: 'Avslutt', gal: '/no/galleri/', pausar: 'Pause', cont: 'Fortsett', menu: 'Riker', vozl: 'nb-NO', fig: 'Klistremerke', voltar: 'Tilbake', salao: 'Salen', mais: 'Flere ▶', antes: '◀ Forrige', prox: 'Neste ▶', ant: '◀ Forrige', pag: 'Side', hist: 'historier',
     olhe: 'Se rett frem. Salen justeres om', gir: 'Ingen gyroskop på denne enheten.', ler: 'Les historien på nettstedet' },
   es: { titulo: 'Salón Boreal', intro: 'Mira las historias de Boreal Saga Play en una pantalla gigante, con narración. Elige con la mirada: apunta el punto al centro y espera.',
     vr: 'Modo gafas (VR)', mono: 'Explorar en pantalla (arrastra)', aviso: 'En modo gafas: gira el móvil a horizontal, colócalo en las gafas y mira al frente. Para salir, saca el móvil y toca la pantalla.',
     ajuste: 'Ajuste de las lentes', k1: 'Lentes k1', k2: 'Lentes k2', ipd: 'Ojos (cm)', fov: 'Campo de visión', prof: 'Profundidad 3D', padrao: 'Valores por defecto', sair: 'Salir',
     reinos: ['Mitos y Dioses', 'Sagas y Reyes', 'Era Vikinga', 'Cuentos y Folclore'], rar: ['Común', 'Rara', 'Épica', 'Legendaria'],
-    pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'es-ES', fig: 'Cromo', voltar: 'Volver', salao: 'Salón', mais: 'Más ▶', antes: '◀ Antes', prox: 'Siguiente ▶', ant: '◀ Anterior', pag: 'Página', hist: 'historias',
+    sair: 'Salir', gal: '/es/galeria/', pausar: 'Pausar', cont: 'Continuar', menu: 'Reinos', vozl: 'es-ES', fig: 'Cromo', voltar: 'Volver', salao: 'Salón', mais: 'Más ▶', antes: '◀ Antes', prox: 'Siguiente ▶', ant: '◀ Anterior', pag: 'Página', hist: 'historias',
     olhe: 'Mira al frente. El salón se ajusta en', gir: 'Este dispositivo no tiene giroscopio.', ler: 'Leer la historia en el sitio' }
 };
 var TX = TXT[L];
@@ -186,6 +186,15 @@ function botao(txt, wm, hm) {
   });
   return m;
 }
+function botaoSair(txt) {
+  var pw = 256, ph = 96, m = painel(0.42, 0.158, pw, ph, function (g, w, h) {
+    g.strokeStyle = 'rgba(239,233,255,.55)'; g.lineWidth = 3; g.setLineDash([10, 8]);
+    g.beginPath(); g.arc(h / 2, h / 2, h / 2 - 4, Math.PI / 2, Math.PI * 1.5); g.lineTo(w - h / 2, 4); g.arc(w - h / 2, h / 2, h / 2 - 4, -Math.PI / 2, Math.PI / 2); g.closePath(); g.stroke();
+    g.setLineDash([]); g.fillStyle = 'rgba(239,233,255,.8)'; g.font = Math.round(h * 0.38) + 'px system-ui,sans-serif'; g.textAlign = 'center'; g.textBaseline = 'middle'; g.fillText('\u2715  ' + txt, w / 2, h / 2 + 2);
+  });
+  return m;
+}
+function sair() { location.href = TX.gal; }
 function legenda(txt, wm, hm, tam) {
   var pw = 1024, ph = Math.round(1024 * hm / wm);
   return painel(wm, hm, pw, ph, function (g, w, h) {
@@ -252,6 +261,7 @@ function menu() {
     tile.material.color.setScalar(0.78); tile.userData.hl = function (on) { tile.material.color.setScalar(on ? 1 : 0.78); };
     acao(tile, function () { reinoCinema(s); }); dyn.add(tile);
   })(s);
+  var bs = botaoSair(TX.sair); dyn.add(colocar(bs, 0, 0.3, 1.8)); acao(bs, sair);
 }
 function reinoCinema(s) {
   lista = CAT.itens.filter(function (x) { return x.s === s && x.m; }).sort(function (a, b) { return a.n - b.n; });
@@ -269,6 +279,7 @@ function cinema() {
   var bp = botao(TX.pausar, 0.9, 0.3); dyn.add(colocar(bp, 14, 0.3, 1.8));
   acao(bp, function () { mudo = !mudo; if (mudo) pausarVoz(); else tocarVoz(); atualizaPausa(bp); });
   var bm = botao(TX.menu, 0.9, 0.3); dyn.add(colocar(bm, -14, 0.3, 1.8)); acao(bm, menu);
+  var bs = botaoSair(TX.sair); dyn.add(colocar(bs, -36, 0.3, 1.8)); acao(bs, sair);
   falar(x);
 }
 function atualizaPausa(b) {
