@@ -2,7 +2,8 @@
 """Gera a figurinha em 3D (GLB) de cada história para a realidade aumentada.
 
 Uso (dentro da pasta do repositório):
-    python3 ar/gerar_ar.py                 # todas as histórias
+    python3 ar/gerar_ar.py                 # todas as histórias que ainda não têm 3D
+    python3 ar/gerar_ar.py --refazer       # refaz todas, mesmo as que já existem
     python3 ar/gerar_ar.py apelido1 ...    # só as indicadas (apelido = nome da história em /pt/)
 
 Saída: jogos/ar/<apelido>.glb  (cartão 16:9 com a arte da história, moldura
@@ -114,17 +115,21 @@ def historias():
     return out
 
 def main():
-    H = historias(); alvo = sys.argv[1:] or list(H)
+    args = sys.argv[1:]; refazer = "--refazer" in args or bool(args and not args[0].startswith("--"))
+    args = [a for a in args if not a.startswith("--")]
+    H = historias(); alvo = args or list(H); feitos = faltam = 0
     SAIDA.mkdir(parents=True, exist_ok=True)
     for ap in alvo:
         if ap not in H: print("sem história:", ap); continue
+        if not refazer and (SAIDA / f"{ap}.glb").exists(): continue
         arq = IMG / H[ap]
-        if not arq.exists(): print("sem imagem:", ap); continue
+        if not arq.exists(): print("sem imagem:", ap); faltam += 1; continue
         im = Image.open(arq).convert("RGB").resize((1024, 576), Image.LANCZOS)
         b = io.BytesIO(); im.save(b, "JPEG", quality=82, optimize=True)
         dados = glb(ap, b.getvalue(), raridade(ap))
         (SAIDA / f"{ap}.glb").write_bytes(dados)
-        print(f"{ap}.glb  {len(dados)//1024} KB  raridade {raridade(ap)}")
+        feitos += 1
+    print(f"{feitos} figurinha(s) em 3D criada(s); {faltam} sem imagem.")
 
 if __name__ == "__main__":
     main()
