@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+<meta name="robots" content="noindex">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#120a24">
+<title>Salão Boreal VR · Boreal Saga Play</title>
+<style>
+html,body{margin:0;height:100%;background:#0b0618;color:#efe9ff;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;overflow:hidden;overscroll-behavior:none}
+#c{position:fixed;inset:0;width:100%;height:100%;display:block;touch-action:none;outline:none}
+#ov{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;padding:16px;background:rgba(11,6,24,.78);backdrop-filter:blur(6px);z-index:5;overflow:auto}
+#ov .box{max-width:520px;width:100%;background:#1a1033;border:1px solid #5d3fa3;border-radius:16px;padding:20px 22px}
+#ov h1{margin:0 0 4px;font-size:1.5rem}
+#ov p{margin:.4rem 0;line-height:1.45;font-size:.95rem;opacity:.9}
+.b{display:block;width:100%;margin:.55rem 0;padding:.85rem 1rem;border-radius:12px;border:1px solid #6b4bb8;background:#2a1a50;color:#fff;font-size:1.05rem;cursor:pointer}
+.b.p{background:linear-gradient(135deg,#f0c15a,#e0883a);color:#1b1230;border-color:transparent;font-weight:600}
+details{margin-top:.6rem;font-size:.9rem}summary{cursor:pointer;opacity:.85}
+label{display:flex;justify-content:space-between;gap:10px;align-items:center;margin:.4rem 0}input[type=range]{flex:1}
+.lg{margin-top:.8rem;font-size:.85rem;opacity:.85}.lg a{color:#f0c15a;margin-right:10px}
+#sair{position:fixed;top:10px;right:10px;z-index:4;padding:.5rem .8rem;border-radius:10px;border:1px solid #6b4bb8;background:rgba(26,16,51,.8);color:#fff;font-size:.9rem;display:none}
+#msg{position:fixed;left:0;right:0;bottom:12px;text-align:center;font-size:.85rem;opacity:.8;z-index:3;pointer-events:none}
+</style>
+<script type="importmap">{"imports":{"three":"/g/vr/three.module.min.js","three/addons/":"/g/vr/addons/"}}</script>
+</head>
+<body>
+<canvas id="c" tabindex="0"></canvas>
+<button id="sair" type="button" hidden></button>
+<div id="msg"></div>
+<div id="ov"><div class="box">
+  <h1 id="t1"></h1>
+  <p id="t2"></p>
+  <button class="b p" id="bvr" type="button"></button>
+  <button class="b" id="bmono" type="button"></button>
+  <p id="t3" style="font-size:.85rem"></p>
+  <details><summary id="tadj"></summary>
+    <label><span id="l1">Lentes k1</span><input id="k1" type="range" min="0" max="0.8" step="0.01"><output id="o1"></output></label>
+    <label><span id="l2">Lentes k2</span><input id="k2" type="range" min="0" max="0.8" step="0.01"><output id="o2"></output></label>
+    <label><span id="l3">Olhos (cm)</span><input id="ipd" type="range" min="5" max="7.5" step="0.1"><output id="o3"></output></label>
+    <label><span id="l4">Campo de visão</span><input id="fov" type="range" min="60" max="110" step="1"><output id="o4"></output></label>
+    <button class="b" id="breset" type="button"></button>
+  </details>
+  <div class="lg"><a href="?l=pt">Português</a><a href="?l=en">English</a><a href="?l=no">Norsk</a><a href="?l=es">Español</a></div>
+</div></div>
+<script type="module" src="/g/vr/vr.js"></script>
+</body>
+</html>
