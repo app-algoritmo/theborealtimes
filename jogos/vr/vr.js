@@ -366,11 +366,18 @@ canvas.addEventListener('pointerup', function (e) {
   }
 });
 
+/* ---------- manter a tela acesa (o giroscópio não conta como toque) ---------- */
+var trava = null;
+async function acordar() {
+  try { if ('wakeLock' in navigator && !trava) { trava = await navigator.wakeLock.request('screen'); trava.addEventListener('release', function () { trava = null; }); } } catch (e) { trava = null; }
+}
+document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'visible' && estado) acordar(); });
+
 /* ---------- modos ---------- */
 function esconderOv(s) { $('ov').style.display = s ? 'none' : 'flex'; }
-$('bmono').onclick = function () { destravarVoz(); esconderOv(true); ativarGiro().catch(function () {}); };
+$('bmono').onclick = function () { acordar(); destravarVoz(); esconderOv(true); ativarGiro().catch(function () {}); };
 $('bvr').onclick = async function () {
-  destravarVoz(); var ok = false; try { ok = await ativarGiro(); } catch (e) {}
+  acordar(); destravarVoz(); var ok = false; try { ok = await ativarGiro(); } catch (e) {}
   if (!ok) { $('msg').textContent = TX.gir; }
   estereo = true; esconderOv(true); document.body.classList.add('est'); recentrar(6); tVida = 0; fechaLer();
   var el = document.documentElement; if (el.requestFullscreen) el.requestFullscreen().catch(function () {});
