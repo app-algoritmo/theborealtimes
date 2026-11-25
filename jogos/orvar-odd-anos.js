@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Islandsk tradisjon gir Örvar-Oddr omtrent 300 års liv. Tallene i spillet er diktet opp.",
     "h1": "Høyest",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los años de Odd",
+    "sub": "Örvar-Oddr vivió muchos años. Desliza el dedo (o usa las flechas) para mover todos los números. Cuando dos iguales se encuentran, se suman. Llega al número 128 antes de que se acabe el tiempo o de que se llene el tablero.",
+    "perdeu": "Los años se acabaron",
+    "v1": "¡Odd llegó a los 128!",
+    "v2": "La tradición islandesa atribuye a Örvar-Oddr unos 300 años de vida. Los números del juego son invención.",
+    "h1": "Mayor",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

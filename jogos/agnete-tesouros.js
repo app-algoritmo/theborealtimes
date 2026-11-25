@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I balladen bor Agnete på havbunnen med havmannen og vender til slutt tilbake til land. Skattene i spillet er diktet opp.",
     "h1": "Skatter",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los tesoros del fondo del mar",
+    "sub": "Toca una pieza y después una vecina para intercambiarlas (o arrastra). Alinea tres o más piezas iguales, en horizontal o en vertical, para recoger los tesoros. Recoge 50 piezas antes de que se acaben los movimientos o el tiempo.",
+    "perdeu": "La marea se llevó los tesoros",
+    "v1": "¡Los tesoros están recogidos!",
+    "v2": "En la balada, Agnete vive en el fondo del mar con el tritón y acaba volviendo a la tierra. Los tesoros del juego son invención.",
+    "h1": "Tesoros",
+    "h2": "Movimientos"
   }
 },
   criar: function (api) {

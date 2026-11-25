@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Sti",
     "h2": "Sett",
     "dica": "hold for å gå, slipp når øynene lyser"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El sendero de Stállo",
+    "sub": "Mantén el dedo pulsado (o la barra espaciadora) para avanzar por el sendero. Cuando los ojos de Stállo brillen, va a mirar hacia atrás: ¡suelta! Si te ve andando, retrocedes un tramo y cuentas un error. Al tercer error el juego termina. Llega al final del sendero antes de que se acabe el tiempo.",
+    "perdeu": "Stállo te atrapó en el sendero",
+    "v1": "¡Pasaste sin que te vieran!",
+    "v2": "Stállo es un gigante de los cuentos sami. El sendero y la mirada del gigante son invención del juego.",
+    "h1": "Sendero",
+    "h2": "Vistas",
+    "dica": "mantén pulsado para avanzar, suelta cuando los ojos brillen"
   }
 },
   criar: function (api) {

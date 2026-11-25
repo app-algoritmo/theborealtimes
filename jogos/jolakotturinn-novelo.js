@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I islandsk tradisjon slapp den som fikk et nytt plagg før jul unna Julekatten. Ulltråden i spillet er diktet opp.",
     "h1": "Nøster",
     "h2": "Floker"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Ovillos antes que el gato",
+    "sub": "El Gato de Navidad ronda la casa. Guía el hilo de lana y recoge 12 ovillos antes de que llegue. Desliza el dedo (o usa las flechas) para cambiar de dirección. Si el hilo choca con la pared o consigo mismo, se enreda. Al tercer enredo, el juego termina.",
+    "perdeu": "El gato llegó primero",
+    "v1": "¡La ropa nueva está lista!",
+    "v2": "En la tradición islandesa, quien recibía una prenda nueva antes de Navidad se libraba del Gato de Navidad. El hilo de lana del juego es invención.",
+    "h1": "Ovillos",
+    "h2": "Enredos"
   }
 },
   criar: function (api) {

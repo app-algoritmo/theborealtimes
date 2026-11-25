@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Glør",
     "h2": "Tid",
     "dica": "Finn døra"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La antorcha en Helheim",
+    "sub": "Helheim es oscuro y solo la luz de tu antorcha muestra el camino. Arrastra el dedo (o usa las flechas) para moverte. Llega a la puerta antes de que se acabe el tiempo. Cada brasa que recojas da más tiempo y más luz.",
+    "perdeu": "La antorcha se apagó en la oscuridad",
+    "v1": "¡Saliste de Helheim!",
+    "v2": "En la Edda en prosa, Hermóðr cabalga nueve noches en la oscuridad hasta llegar al puente Gjallarbrú. El laberinto es invención del juego.",
+    "h1": "Brasas",
+    "h2": "Tiempo",
+    "dica": "La puerta solo se abre para quien aún tiene luz"
   }
 },
   criar: function (api) {

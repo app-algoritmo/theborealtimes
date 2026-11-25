@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Riktige",
     "h2": "Forsøk",
     "ok": "OK"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los acusados a la puerta",
+    "sub": "Cuatro de los seis acusados esperan a la puerta, en un orden secreto. Toca los rostros para formar una apuesta (o usa las teclas del 1 al 6) y confírmala. Clavija dorada: acierto y en el lugar correcto. Clavija clara: acierto, pero en el lugar equivocado. Descubre el orden en 8 intentos.",
+    "perdeu": "El tribunal se cerró sin respuesta",
+    "v1": "¡Descubriste el orden!",
+    "v2": "En la Saga de Eyrbyggja, el tribunal de la puerta juzgó a los muertos que volvían a la casa de Fróðá. Los acusados del juego son invención.",
+    "h1": "Aciertos",
+    "h2": "Intentos",
+    "ok": "OK"
   }
 },
   criar: function (api) {

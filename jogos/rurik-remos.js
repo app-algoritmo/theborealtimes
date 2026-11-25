@@ -40,6 +40,19 @@ BTJogo.registrar({
     "h1": "Elv",
     "h2": "Støt",
     "dica": "trykk til venstre og høyre, vekselvis"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los remos de Rurik",
+    "sub": "Rurik y los suyos reman río arriba. Toca (o usa las flechas) a la izquierda y a la derecha, alternando, para dar las remadas: cada toque alternado da fuerza total. Repetir el mismo lado da menos fuerza, pero desvía el barco hacia él. La corriente empuja el barco; al tercer golpe contra la orilla, el juego termina. Llega al final del río antes de que se acabe el tiempo.",
+    "perdeu": "El barco quedó atrapado en la orilla",
+    "v1": "¡El río quedó atrás!",
+    "v2": "La Crónica Primaria cuenta que Rurik llegó a Ládoga y Nóvgorod hacia 862. Las remadas del juego son invención.",
+    "h1": "Río",
+    "h2": "Roces",
+    "dica": "toca a la izquierda y a la derecha, alternando"
   }
 },
   criar: function (api) {

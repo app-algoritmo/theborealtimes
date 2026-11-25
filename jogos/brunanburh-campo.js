@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I 937, i slaget ved Brunanburh, beseiret kong Æthelstan en allianse av nordmenn, skotter og briter. Brettet er diktet opp for spillet.",
     "h1": "Stilling",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El campo de Brunanburh",
+    "sub": "Mandas las piezas claras. Toca una casilla marcada para colocar una pieza: todas las piezas oscuras atrapadas en línea entre ella y otra tuya pasan a ser tuyas. Al final gana quien tenga más piezas. Las esquinas valen mucho. El tiempo es limitado. (Teclado: flechas y espacio.)",
+    "perdeu": "El campo se quedó con el enemigo",
+    "v1": "¡El campo es tuyo!",
+    "v2": "En 937, en la batalla de Brunanburh, el rey Æthelstan venció a una alianza de nórdicos, escoceses y britanos. El tablero es invención del juego.",
+    "h1": "Marcador",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

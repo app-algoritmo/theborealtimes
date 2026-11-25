@@ -43,6 +43,20 @@ BTJogo.registrar({
     "h2": "Feil",
     "olhe": "Se",
     "agora": "Din tur"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las llamas de Hervör",
+    "sub": "Cuatro llamas con runas se encienden en un orden. Memorízalo y repítelo tocando las llamas (o usa las flechas, o las teclas del 1 al 4). En cada ronda la secuencia crece. Completa 8 rondas. Al tercer error, el juego termina.",
+    "perdeu": "Las llamas se apagaron",
+    "v1": "¡Llegaste al túmulo!",
+    "v2": "En la Saga de Hervör, las llamas y los fantasmas rondan el túmulo de Angantýr. El orden de las llamas es invención del juego.",
+    "h1": "Rondas",
+    "h2": "Errores",
+    "olhe": "Mira",
+    "agora": "Tu turno"
   }
 },
   criar: function (api) {

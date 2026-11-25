@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Kaupang i Norge var et marked i vikingtiden, nær Larvik. Rutene i spillet er diktet opp.",
     "h1": "Ruter",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El mercado de Kaupang",
+    "sub": "Cuatro mercancías, cuatro puestos en cada fila. Rellena las casillas vacías de modo que ninguna mercancía se repita en ninguna fila ni en ninguna columna. Toca una casilla vacía y después la mercancía (o usa las flechas y las teclas del 1 al 4). Una casilla equivocada cuenta como error, y al tercer error el juego termina.",
+    "perdeu": "Los puestos quedaron en desorden",
+    "v1": "¡El mercado está en orden!",
+    "v2": "Kaupang, en Noruega, fue un mercado de la era vikinga, cerca de Larvik. Los cuadrados del juego son invención.",
+    "h1": "Casillas",
+    "h2": "Errores"
   }
 },
   criar: function (api) {

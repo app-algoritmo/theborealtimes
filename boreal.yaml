@@ -499,6 +499,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_melkorka: jogo-cada-passo-seu-lugar
+    jogo_kveldulf: jogo-os-golpes-da-noite
+    jogo_hjalti: jogo-a-lei-unica
+    jogo_ketill: jogo-o-salao-de-turfa
+    jogo_skule: jogo-as-bandeiras-do-oyrating
+    jogo_naddoddr: jogo-terra-da-neve
+    jogo_eldgja: jogo-fuga-da-fenda-de-fogo
+    jogo_glima: jogo-o-passo-da-glima
+    jogo_suttonhoo: jogo-os-rebites-de-sutton-hoo
+    jogo_gna: jogo-as-mensagens-de-frigg
+    jogo_eljudnir: jogo-o-passo-lento-de-ganglati
+    jogo_mosekonen: jogo-poesia-em-garrafas
+    jogo_svartebok: jogo-cada-formula-sua-caixa
     jogo_skarphedinn: jogo-o-gelo-do-markarfljot
     jogo_karisolm: jogo-cada-momento-um-capitulo
     jogo_gutasaga: jogo-cada-trecho-sua-parte
@@ -1231,6 +1244,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_melkorka: game-each-step-in-its-place
+    jogo_kveldulf: game-the-blows-of-the-night
+    jogo_hjalti: game-the-single-law
+    jogo_ketill: game-the-turf-hall
+    jogo_skule: game-the-banners-of-the-oyrating
+    jogo_naddoddr: game-snowland
+    jogo_eldgja: game-escape-from-the-fire-fissure
+    jogo_glima: game-the-glima-step
+    jogo_suttonhoo: game-the-rivets-of-sutton-hoo
+    jogo_gna: game-frigg-s-messages
+    jogo_eljudnir: game-ganglati-s-slow-step
+    jogo_mosekonen: game-poetry-in-bottles
+    jogo_svartebok: game-one-formula-one-box
     jogo_skarphedinn: game-the-ice-of-the-markarfljot
     jogo_karisolm: game-one-moment-one-chapter
     jogo_gutasaga: game-one-passage-one-part
@@ -1963,6 +1989,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_melkorka: spill-hvert-steg-pa-sin-plass
+    jogo_kveldulf: spill-nattens-slag
+    jogo_hjalti: spill-den-ene-loven
+    jogo_ketill: spill-torvhallen
+    jogo_skule: spill-banneret-pa-oyrating
+    jogo_naddoddr: spill-snoland
+    jogo_eldgja: spill-flukt-fra-ildsprekken
+    jogo_glima: spill-glima-steget
+    jogo_suttonhoo: spill-naglene-pa-sutton-hoo
+    jogo_gna: spill-friggs-bud
+    jogo_eljudnir: spill-ganglatis-langsomme-steg
+    jogo_mosekonen: spill-poesi-pa-flasker
+    jogo_svartebok: spill-en-formel-en-boks
     jogo_skarphedinn: spill-isen-pa-markarfljot
     jogo_karisolm: spill-ett-oyeblikk-ett-kapittel
     jogo_gutasaga: spill-ett-avsnitt-en-del
@@ -2597,6 +2636,32 @@ es:
     jogo_hjadningavig: juego-la-batalla-sin-fin
     jogo_hrungnir: juego-los-fragmentos-de-hrungnir
     jogo_jorvik: juego-las-capas-de-jorvik
+    jogo_melkorka: juego-cada-paso-en-su-lugar
+    jogo_kveldulf: juego-los-golpes-de-la-noche
+    jogo_hjalti: juego-la-ley-unica
+    jogo_ketill: juego-el-salon-de-turba
+    jogo_skule: juego-las-banderas-del-oyrating
+    jogo_naddoddr: juego-tierra-de-nieve
+    jogo_eldgja: juego-huida-de-la-fisura-de-fuego
+    jogo_glima: juego-el-paso-de-la-glima
+    jogo_suttonhoo: juego-los-remaches-de-sutton-hoo
+    jogo_gna: juego-los-mensajes-de-frigg
+    jogo_eljudnir: juego-el-paso-lento-de-ganglati
+    jogo_mosekonen: juego-poesia-en-botellas
+    jogo_svartebok: juego-cada-formula-su-caja
+    jogo_kaupang: juego-el-mercado-de-kaupang
+    jogo_rurik: juego-los-remos-de-rurik
+    jogo_skogsra: juego-la-senora-del-bosque
+    jogo_stallo: juego-el-sendero-de-stallo
+    jogo_agnete: juego-los-tesoros-del-fondo-del-mar
+    jogo_bergtatt: juego-el-salon-de-la-montana
+    jogo_brunanburh: juego-el-campo-de-brunanburh
+    jogo_eyrbyggja: juego-los-acusados-a-la-puerta
+    jogo_hel: juego-la-antorcha-en-helheim
+    jogo_hervor: juego-las-llamas-de-hervor
+    jogo_ingvar: juego-las-runas-en-la-piedra
+    jogo_jolakotturinn: juego-ovillos-antes-que-el-gato
+    jogo_orvar: juego-los-anos-de-odd
   curiosidades: []
   interface:
     capa: Portada

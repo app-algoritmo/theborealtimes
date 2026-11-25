@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I norske sagn kan den som er bergtatt komme tilbake, men forandret. Hallen og steinene er diktet opp for spillet.",
     "h1": "Meter",
     "h2": "Skader"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El salón de la montaña",
+    "sub": "Te han llevado al interior de la montaña. Arrastra el dedo hacia los lados (o usa las flechas) para esquivar las piedras que caen y atraviesa el salón hasta la salida. Cada golpe cuenta como un daño. Al tercer golpe, el juego termina.",
+    "perdeu": "La montaña te atrapó",
+    "v1": "¡Encontraste la salida!",
+    "v2": "En las leyendas noruegas, quien es bergtatt, «llevado por la montaña», puede volver, pero cambia. El salón y las piedras son invención del juego.",
+    "h1": "Metros",
+    "h2": "Golpes"
   }
 },
   criar: function (api) {

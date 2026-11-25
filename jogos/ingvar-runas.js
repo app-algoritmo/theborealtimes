@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Over tjue svenske runesteiner minnes mennene på Ingvars ferd mot øst. Hintene i spillet er diktet opp.",
     "h1": "Runer",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las runas en la piedra",
+    "sub": "Los números de cada fila y de cada columna dicen cuántas casillas seguidas hay que grabar. Toca una casilla para grabar la runa (o usa las flechas y el espacio). Si la casilla es incorrecta, cuenta un error. Al tercer error, el juego termina.",
+    "perdeu": "La piedra se rompió",
+    "v1": "¡La piedra está grabada!",
+    "v2": "Hay más de veinte piedras rúnicas suecas que recuerdan a los hombres de la expedición de Ingvar al este. Las pistas del juego son invención.",
+    "h1": "Runas",
+    "h2": "Errores"
   }
 },
   criar: function (api) {
