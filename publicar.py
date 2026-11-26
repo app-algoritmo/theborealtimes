@@ -714,8 +714,7 @@ Site editado por {s['editora']}, org.nr {s['organizacao_nr']}.
 Editor responsável: {s['editor']}. Sede: {s['local']['cidade']}, Noruega.
 Cobertura: {s['cobertura']}.
 
-Elaborado por {s['publicacao_de']} ({s['publicacao_de_url']}), que edita
-jornalismo em português desde {s['casa_desde']}.
+Desenvolvido por {s['publicacao_de']} ({s['publicacao_de_url']}), inf@dsnorge.com.
 
 ## Como trabalhamos
 O editor responsável responde pela publicação. Cada texto declara a sua natureza: história

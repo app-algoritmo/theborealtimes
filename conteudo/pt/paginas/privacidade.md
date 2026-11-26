@@ -9,7 +9,7 @@ atualizado: novembro de 2026
 
 Digital Solutions - De Barros, org.nr 996 041 468, empresa registrada na Noruega, com sede em Larvik. É ela quem decide como os dados são tratados e responde por eles. Contato para qualquer assunto de privacidade: post@borealtimes.org.
 
-O Boreal Saga Play é elaborado por Duna Press. Como a responsável está na Noruega, vale o GDPR por meio da lei norueguesa de proteção de dados. Para leitores no Brasil vale também a LGPD. As duas leis se aplicam em paralelo, e seguimos a mais protetora em cada ponto.
+O Boreal Saga Play é desenvolvido por DS Norge • Digital Solutions (inf@dsnorge.com). Como a responsável está na Noruega, vale o GDPR por meio da lei norueguesa de proteção de dados. Para leitores no Brasil vale também a LGPD. As duas leis se aplicam em paralelo, e seguimos a mais protetora em cada ponto.
 
 ## 2. Que dados tratamos
 

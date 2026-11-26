@@ -7,7 +7,7 @@ atualizado: november 2026
 
 ## 1. Hvem vi er
 
-Boreal Saga Play er et nettsted med historier fra Skandinavia og Norden, produsert av Duna Press. Eierskap og juridisk representasjon tilhører Digital Solutions - De Barros, org.nr. 996 041 468, et selskap registrert i Norge. Disse vilkårene regulerer tilgangen til nettstedet, spillene og nyhetsbrevet.
+Boreal Saga Play er et nettsted med historier fra Skandinavia og Norden, utviklet av DS Norge • Digital Solutions (inf@dsnorge.com). Eierskap og juridisk representasjon tilhører Digital Solutions - De Barros, org.nr. 996 041 468, et selskap registrert i Norge. Disse vilkårene regulerer tilgangen til nettstedet, spillene og nyhetsbrevet.
 
 Å lese og spille er åpent for alle, uten registrering og uten kostnad.
 

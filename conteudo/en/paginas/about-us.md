@@ -1,6 +1,6 @@
 ---
 titulo: About us
-resumo: Stories of Scandinavia and the Nordic world, narrated by artificial intelligence, in English, Norwegian, Portuguese and Spanish.
+resumo: Stories of Scandinavia and the Nordic world, in English, Norwegian, Portuguese and Spanish.
 olho: The site
 atualizado: November 2026
 ---
@@ -9,11 +9,11 @@ Boreal Saga Play tells stories of the North: myths, sagas, legends, tales and hi
 
 ## The house
 
-Boreal Saga Play is produced by [Duna Press](https://dunapress.org), a publisher founded in 2017 that publishes journalism in Portuguese. Duna Press continues with its daily journalism; the Boreal Saga Play publishes no news.
+Boreal Saga Play is developed by [DS Norge • Digital Solutions](https://dsnorge.com) (inf@dsnorge.com), a company registered in Norway. Boreal Saga Play publishes no news.
 
 ## Who writes
 
-The texts are narrated by artificial intelligence. The responsible editor is Paulo Fernando de Barros, who sets the topics and the rules and answers for what goes online. The details are in the [editorial principles](/editorial-principles/).
+The responsible editor is Paulo Fernando de Barros, who sets the topics and the rules and answers for what goes online. The details are in the [editorial principles](/editorial-principles/).
 
 ## What we don't do
 

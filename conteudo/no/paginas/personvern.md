@@ -9,7 +9,7 @@ atualizado: november 2026
 
 Digital Solutions - De Barros, org.nr. 996 041 468, et selskap registrert i Norge med base i Larvik. Det bestemmer hvordan data behandles og står til ansvar for det. Kontakt for alle personvernspørsmål: post@borealtimes.org.
 
-Boreal Saga Play er produsert av Duna Press. Fordi den behandlingsansvarlige er i Norge, gjelder personvernforordningen (GDPR) gjennom norsk personvernlovgivning. For lesere i Brasil gjelder også LGPD. Begge lovene gjelder parallelt, og vi følger den som beskytter best på hvert punkt.
+Boreal Saga Play er utviklet av DS Norge • Digital Solutions (inf@dsnorge.com). Fordi den behandlingsansvarlige er i Norge, gjelder personvernforordningen (GDPR) gjennom norsk personvernlovgivning. For lesere i Brasil gjelder også LGPD. Begge lovene gjelder parallelt, og vi følger den som beskytter best på hvert punkt.
 
 ## 2. Hvilke data vi behandler
 

@@ -7,10 +7,10 @@
 site:
   nome: Boreal Saga Play
   url: https://borealsagaplay.com
-  publicacao_de: Duna Press
+  publicacao_de: DS Norge • Digital Solutions
   # Nome que aparece no cabeçalho (o nome oficial do site continua sendo "nome").
   marca: Boreal Saga Play
-  publicacao_de_url: https://dunapress.org
+  publicacao_de_url: https://dsnorge.com
   casa_desde: 2017
   editora: DIGITAL SOLUTIONS - DE BARROS
   organizacao_nr: "996 041 468"
@@ -109,7 +109,11 @@ pt:
     privacidade: Privacidade
     termos: Termos
     editor: Editor responsável
-    links_jornal: []
+    links_jornal:
+      - { rotulo: Quem somos, url: /pt/quem-somos/ }
+      - { rotulo: Princípios editoriais, url: /pt/principios/ }
+      - { rotulo: Correções, url: /pt/correcoes/ }
+      - { rotulo: Fale conosco, url: /pt/contato/ }
     links_legal:
       - { rotulo: Assinatura, url: /pt/assinatura/ }
       - { rotulo: Termos de uso, url: /pt/termos/ }
@@ -750,7 +754,7 @@ pt:
     rodape_reinos: Reinos
     rodape_glossario: Glossário
     rodape_personagens: Personagens
-    linha_edicao: Edições Duna Press
+    linha_edicao: Desenvolvido por DS Norge • Digital Solutions
     sobre: Sobre
     assine: Assinar
     ultimas: Ver também
@@ -877,7 +881,11 @@ en:
     privacidade: Privacy
     termos: Terms
     editor: Responsible editor
-    links_jornal: []
+    links_jornal:
+      - { rotulo: About us, url: /about-us/ }
+      - { rotulo: Editorial principles, url: /editorial-principles/ }
+      - { rotulo: Corrections, url: /corrections/ }
+      - { rotulo: Contact us, url: /contact/ }
     links_legal:
       - { rotulo: Subscription, url: /subscribe/ }
       - { rotulo: Terms of use, url: /terms/ }
@@ -1515,7 +1523,7 @@ en:
     rodape_reinos: Realms
     rodape_glossario: Glossary
     rodape_personagens: Characters
-    linha_edicao: Duna Press Editions
+    linha_edicao: Developed by DS Norge • Digital Solutions
     sobre: About
     assine: Subscribe
     ultimas: See also
@@ -1642,7 +1650,11 @@ en:
     privacidade: Personvern
     termos: Vilkår
     editor: Ansvarlig redaktør
-    links_jornal: []
+    links_jornal:
+      - { rotulo: Om oss, url: /no/om-oss/ }
+      - { rotulo: Redaksjonelle prinsipper, url: /no/redaksjonelle-prinsipper/ }
+      - { rotulo: Rettelser, url: /no/rettelser/ }
+      - { rotulo: Kontakt oss, url: /no/kontakt/ }
     links_legal:
       - { rotulo: Abonnement, url: /no/abonner/ }
       - { rotulo: Bruksvilkår, url: /no/vilkar/ }
@@ -2280,7 +2292,7 @@ en:
     rodape_reinos: Rikene
     rodape_glossario: Ordliste
     rodape_personagens: Skikkelser
-    linha_edicao: Duna Press-utgaver
+    linha_edicao: Utviklet av DS Norge • Digital Solutions
     sobre: Om
     assine: Abonner
     ultimas: Se også
@@ -2407,7 +2419,11 @@ es:
     privacidade: Privacidad
     termos: Términos
     editor: Editor responsable
-    links_jornal: []
+    links_jornal:
+      - { rotulo: Quiénes somos, url: /es/quienes-somos/ }
+      - { rotulo: Principios editoriales, url: /es/principios-editoriales/ }
+      - { rotulo: Correcciones, url: /es/correcciones/ }
+      - { rotulo: Contacto, url: /es/contacto/ }
     links_legal:
       - { rotulo: Suscripción, url: /es/suscripcion/ }
       - { rotulo: Términos de uso, url: /es/terminos/ }
@@ -2782,7 +2798,7 @@ es:
     rodape_reinos: Reinos
     rodape_glossario: Glosario
     rodape_personagens: Personajes
-    linha_edicao: Ediciones Duna Press
+    linha_edicao: Desarrollado por DS Norge • Digital Solutions
     sobre: Acerca de
     assine: Suscríbete
     ultimas: Mira también
