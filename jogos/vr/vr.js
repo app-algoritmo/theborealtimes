@@ -273,6 +273,9 @@ function cinema() {
   var stem = x.m.split('/').pop().replace(/\.[a-z0-9]+$/i, ''), prof = vazio;
   telaMesh = telaProf(cor, vazio); dyn.add(telaMesh);
   loadTex.load('/g/vr/prof/' + stem + '.jpg', function (d) { d.colorSpace = THREE.NoColorSpace; if (telaMesh && telaMesh.material.uniforms.cor.value === cor) telaMesh.material.uniforms.dep.value = d; });
+  var mt = loadTex.load('/g/vr/marca.png'); mt.colorSpace = THREE.SRGBColorSpace;
+  var mm2 = new THREE.Mesh(new THREE.PlaneGeometry(0.5, 0.17), new THREE.MeshBasicMaterial({ map: mt, transparent: true, opacity: 0.8, depthTest: false, depthWrite: false }));
+  mm2.renderOrder = 5; dyn.add(colocar(mm2, 0, 0.74, RTELA - 0.08));
   var seta = function (txt, az, f) { var b = botao(txt, 0.5, 0.5); dyn.add(colocar(b, az, EYE, RTELA - 0.05)); acao(b, f); };
   seta('‹', -60, function () { pos = (pos - 1 + lista.length) % lista.length; cinema(); });
   seta('›', 60, function () { pos = (pos + 1) % lista.length; cinema(); });

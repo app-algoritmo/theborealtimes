@@ -104,6 +104,19 @@ def glb(ap, jpeg, q):
     total = 12 + 8 + len(js) + 8 + len(binb)
     return struct.pack("<4sII", b"glTF", 2, total) + struct.pack("<I4s", len(js), b"JSON") + js + struct.pack("<I4s", len(binb), b"BIN\0") + bytes(binb)
 
+MARCA = Path(__file__).resolve().parent / "marca.png"
+
+def com_marca(im):
+    """Marca discreta (capacete + endereço) no centro, na base da arte."""
+    if not MARCA.exists(): return im
+    m = Image.open(MARCA).convert("RGBA")
+    alt = 78                                   # altura da marca na textura de 1024x576
+    m = m.resize((round(m.width * alt / m.height), alt), Image.LANCZOS)
+    m.putalpha(m.split()[3].point(lambda v: int(v * 0.78)))
+    im = im.convert("RGBA")
+    im.alpha_composite(m, ((im.width - m.width) // 2, im.height - m.height - 12))
+    return im.convert("RGB")
+
 def historias():
     out = {}
     for f in sorted((RAIZ / "conteudo" / "pt" / "materias").glob("*.md")):
@@ -125,6 +138,7 @@ def main():
         arq = IMG / H[ap]
         if not arq.exists(): print("sem imagem:", ap); faltam += 1; continue
         im = Image.open(arq).convert("RGB").resize((1024, 576), Image.LANCZOS)
+        im = com_marca(im)
         b = io.BytesIO(); im.save(b, "JPEG", quality=82, optimize=True)
         dados = glb(ap, b.getvalue(), raridade(ap))
         (SAIDA / f"{ap}.glb").write_bytes(dados)
