@@ -339,7 +339,7 @@
       var x = lista[pos], c = cred(x);
       dlg.innerHTML = '<div class="sg-visor-in q' + x.q + '">' +
         '<button type="button" class="sg-x" aria-label="' + esc(TX.fechar) + '">×</button>' +
-        '<figure class="sg-fig">' + (x.m ? '<img src="' + esc(x.m) + '" alt="' + esc(x.a) + '" decoding="async">' : '<span class="sg-semimg big" aria-hidden="true">ᚠ</span>') + '</figure>' +
+        '<figure class="sg-fig">' + (x.m ? '<span class="sg-wm"><img src="' + esc(x.m) + '" alt="' + esc(x.a) + '" decoding="async"><img class="sg-marca" src="/g/vr/marca.png" alt="" aria-hidden="true" decoding="async"></span>' : '<span class="sg-semimg big" aria-hidden="true">ᚠ</span>') + '</figure>' +
         '<div class="sg-info"><p class="sg-sel"><span class="sg-q q' + x.q + '">' + esc(TX.rar[x.q]) + '</span> <span>' + esc(TX.num) + ' ' + pad(x.n) + ' / ' + TOTAL + '</span>' + (possui(x.i) ? ' <span class="sg-tem">✓ ' + esc(TX.tenho) + '</span>' : '') + '</p>' +
         '<h2 id="sg-v-t">' + esc(x.t) + '</h2><p class="sg-reino">' + esc(TX.reinos[x.s]) + (x.k ? ' · ' + esc(x.k) : '') + '</p>' +
         '<p class="sg-res">' + esc(x.r) + '</p>' +

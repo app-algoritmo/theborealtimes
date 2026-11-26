@@ -3,7 +3,7 @@
 {% block descricao %}{{ pagina.resumo|default(t.descricao) }}{% endblock %}
 
 {% block conteudo %}
-<link rel="stylesheet" href="/g/album.css?v=1">
+<link rel="stylesheet" href="/g/album.css?v=2">
 <div class="sg" id="saga" data-modo="{{ pagina.modo }}" data-lang="{{ idioma.curto }}">
   <header class="sg-cab">
     {% if pagina.olho %}<p class="sg-olho">{{ pagina.olho }}</p>{% endif %}
@@ -14,5 +14,5 @@
 </div>
 <script src="/g/catalogo-{{ idioma.curto }}.js?v={{ css_v }}" defer></script>
 <script src="/g/progresso-dados.js?v=1" defer></script>
-<script src="/g/album.js?v=2" defer></script>
+<script src="/g/album.js?v=3" defer></script>
 {% endblock %}

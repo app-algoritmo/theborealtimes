@@ -60,6 +60,8 @@ body.sg-trava{overflow:hidden}
 .sg-visor-in.q3{--qc:var(--q3)}.sg-visor-in.q2{--qc:var(--q2)}.sg-visor-in.q1{--qc:var(--q1)}.sg-visor-in.q0{--qc:rgba(154,166,184,.5)}
 .sg-fig{margin:0;background:var(--noite);display:flex;align-items:center}
 .sg-fig img{width:100%;height:auto;max-height:calc(100dvh - 24px);object-fit:contain;display:block}
+.sg-wm{position:relative;display:block;width:100%}
+.sg-fig .sg-marca{background:none;border:0;box-shadow:none;border-radius:0;position:absolute;left:50%;bottom:3%;width:22%;max-width:150px;height:auto;max-height:none;transform:translateX(-50%);opacity:.8;pointer-events:none;-webkit-user-select:none;user-select:none}
 .sg-info{padding:22px 22px 24px;display:flex;flex-direction:column;gap:10px;align-items:flex-start}
 .sg-info h2{margin:0;font-family:var(--display,Georgia,serif);font-size:1.45rem;line-height:1.2}
 .sg-sel{margin:0;display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:.8rem;color:var(--txt2)}
