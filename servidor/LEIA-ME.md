@@ -19,7 +19,7 @@ Estes arquivos NÃO fazem parte do site na Cloudflare. Eles vão por FTP para o 
 O PHP envia pelo servidor do Domeneshop. Para a mensagem chegar na caixa de entrada, o endereço de
 `de_email` deve ser de um domínio autorizado a enviar por esse servidor. Se a confirmação cair no spam ou
 não chegar, troque `de_email` por um endereço @dsnorge.com e mantenha `responder_para` como
-post@borealtimes.org. Quando a lista crescer, vale ligar SPF, DKIM e DMARC no borealtimes.org ou usar um
+post@borealsagaplay.com. Quando a lista crescer, vale ligar SPF, DKIM e DMARC no borealtimes.org ou usar um
 serviço de envio (Brevo, MailerLite).
 
 ## Enviar uma edição

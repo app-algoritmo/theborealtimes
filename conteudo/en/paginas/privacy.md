@@ -7,9 +7,9 @@ atualizado: November 2026
 
 ## 1. Who is responsible
 
-Digital Solutions - De Barros, org. no. 996 041 468, a company registered in Norway and based in Larvik. It decides how data is processed and answers for it. Contact for any privacy matter: post@borealtimes.org.
+Digital Solutions - De Barros, org. no. 996 041 468, a company registered in Norway and based in Larvik. It decides how data is processed and answers for it. Contact for any privacy matter: post@borealsagaplay.com.
 
-Boreal Saga Play is developed by DS Norge • Digital Solutions (inf@dsnorge.com). Because the controller is in Norway, the GDPR applies through Norwegian data protection law. For readers in Brazil the LGPD applies as well. Both laws apply in parallel, and we follow the more protective one on each point.
+Boreal Saga Play is developed by DS Norge • Digital Solutions (post@borealsagaplay.com). Because the controller is in Norway, the GDPR applies through Norwegian data protection law. For readers in Brazil the LGPD applies as well. Both laws apply in parallel, and we follow the more protective one on each point.
 
 ## 2. What data we process
 
@@ -21,7 +21,7 @@ Boreal Saga Play is developed by DS Norge • Digital Solutions (inf@dsnorge.com
 
 **Advertising.** The site shows Google AdSense ads, which may store identifiers in your browser, depending on the choice you make in the consent window.
 
-**Messages.** If you write to post@borealtimes.org, we use the message and your address only to reply and, where relevant, to correct the content.
+**Messages.** If you write to post@borealsagaplay.com, we use the message and your address only to reply and, where relevant, to correct the content.
 
 We do not process sensitive data and we do not sell personal data.
 
@@ -49,7 +49,7 @@ Unconfirmed sign-ups are deleted within seven days. Confirmed subscribers stay o
 
 ## 7. Your rights
 
-You can ask for access to your data, correction, erasure, restriction, objection, portability and withdrawal of consent. Write to post@borealtimes.org. We answer within thirty days.
+You can ask for access to your data, correction, erasure, restriction, objection, portability and withdrawal of consent. Write to post@borealsagaplay.com. We answer within thirty days.
 
 If you believe we have not respected your rights, you can complain to the Norwegian data protection authority (Datatilsynet) or, if you are in Brazil, to the ANPD.
 

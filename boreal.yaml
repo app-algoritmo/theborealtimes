@@ -810,6 +810,10 @@ pt:
     ouvir_continuar: Continuar
     ouvir_parar: Parar
     compartilhar: Compartilhar
+    ver_ar: Ver em 3D e AR
+    ver_vr: Ver em VR
+    ver_ar_mesa: Ver na sua mesa
+    ver_fechar: Fechar
     link_copiado: Link copiado
     ouvir_lang: pt-BR
     editor: Editor responsável
@@ -1593,6 +1597,10 @@ en:
     ouvir_continuar: Resume
     ouvir_parar: Stop
     compartilhar: Share
+    ver_ar: View in 3D and AR
+    ver_vr: View in VR
+    ver_ar_mesa: View on your table
+    ver_fechar: Close
     link_copiado: Link copied
     ouvir_lang: en-GB
     editor: Responsible editor
@@ -2376,6 +2384,10 @@ en:
     ouvir_continuar: Fortsett
     ouvir_parar: Stopp
     compartilhar: Del
+    ver_ar: Se i 3D og AR
+    ver_vr: Se i VR
+    ver_ar_mesa: Se på bordet ditt
+    ver_fechar: Lukk
     link_copiado: Lenke kopiert
     ouvir_lang: nb-NO
     editor: Ansvarlig redaktør
@@ -2909,6 +2921,10 @@ es:
     ouvir_continuar: Continuar
     ouvir_parar: Detener
     compartilhar: Compartir
+    ver_ar: Ver en 3D y RA
+    ver_vr: Ver en VR
+    ver_ar_mesa: Verlo en tu mesa
+    ver_fechar: Cerrar
     link_copiado: Enlace copiado
     ouvir_lang: es-ES
     editor: Editor responsable

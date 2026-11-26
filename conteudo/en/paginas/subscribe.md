@@ -16,7 +16,7 @@ as:
   ok_texto: "We sent a confirmation email. Open it and click the link to activate your subscription. If you cannot find it, check your spam folder."
   erro_email: "That email does not look valid. Check it and try again."
   erro_aceite: "To receive the newsletter, tick the consent box."
-  erro_geral: "We could not register you right now. Try again in a few minutes or write to post@borealtimes.org."
+  erro_geral: "We could not register you right now. Try again in a few minutes or write to post@borealsagaplay.com."
   confirmado_titulo: "Subscription confirmed"
   confirmado_texto: "All set. The next story will reach your inbox. In the meantime, how about playing an adventure?"
   expirado_titulo: "Invalid or expired link"
@@ -44,4 +44,4 @@ Your email, the language you chose, the date of sign-up and of confirmation, and
 
 ## How to unsubscribe
 
-Every email carries an unsubscribe link at the bottom. If you prefer, write to post@borealtimes.org.
+Every email carries an unsubscribe link at the bottom. If you prefer, write to post@borealsagaplay.com.

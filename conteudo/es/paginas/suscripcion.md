@@ -16,7 +16,7 @@ as:
   ok_texto: "Hemos enviado un correo de confirmación. Ábrelo y pulsa el enlace para activar tu suscripción. Si no lo encuentras, mira en la carpeta de spam."
   erro_email: "Ese correo no parece válido. Revísalo e inténtalo de nuevo."
   erro_aceite: "Para recibir el boletín, marca la casilla de consentimiento."
-  erro_geral: "No hemos podido registrarte ahora mismo. Inténtalo de nuevo en unos minutos o escribe a post@borealtimes.org."
+  erro_geral: "No hemos podido registrarte ahora mismo. Inténtalo de nuevo en unos minutos o escribe a post@borealsagaplay.com."
   confirmado_titulo: "Suscripción confirmada"
   confirmado_texto: "Todo listo. La próxima historia llegará a tu bandeja de entrada. Mientras tanto, ¿qué tal jugar una aventura?"
   expirado_titulo: "Enlace no válido o caducado"
@@ -44,4 +44,4 @@ Tu correo, el idioma que elegiste, la fecha de alta y de confirmación, y la ver
 
 ## Cómo darte de baja
 
-Cada correo lleva un enlace de baja al pie. Si lo prefieres, escribe a post@borealtimes.org.
+Cada correo lleva un enlace de baja al pie. Si lo prefieres, escribe a post@borealsagaplay.com.

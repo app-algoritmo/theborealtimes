@@ -5,7 +5,7 @@ olho: Nettstedet
 atualizado: november 2026
 ---
 
-For alle henvendelser, skriv til **post@borealtimes.org**.
+For alle henvendelser, skriv til **post@borealsagaplay.com**.
 
 ## Forslag og feil
 

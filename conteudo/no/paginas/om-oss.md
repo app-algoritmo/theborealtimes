@@ -9,7 +9,7 @@ Boreal Saga Play forteller historier fra Norden: myter, sagaer, legender, eventy
 
 ## Huset
 
-Boreal Saga Play er utviklet av [DS Norge • Digital Solutions](https://dsnorge.com) (inf@dsnorge.com), et selskap registrert i Norge. Boreal Saga Play publiserer ingen nyheter.
+Boreal Saga Play er utviklet av [DS Norge • Digital Solutions](https://dsnorge.com) (post@borealsagaplay.com), et selskap registrert i Norge. Boreal Saga Play publiserer ingen nyheter.
 
 ## Hvem som skriver
 

@@ -7,7 +7,7 @@ atualizado: novembro de 2026
 
 ## 1. Quem somos
 
-O Boreal Saga Play é um site de histórias da Escandinávia e do mundo nórdico, desenvolvido por DS Norge • Digital Solutions (inf@dsnorge.com). A titularidade e a representação legal são de Digital Solutions - De Barros, org.nr 996 041 468, empresa registrada na Noruega. Estes termos regem o acesso ao site, aos jogos e à newsletter.
+O Boreal Saga Play é um site de histórias da Escandinávia e do mundo nórdico, desenvolvido por DS Norge • Digital Solutions (post@borealsagaplay.com). A titularidade e a representação legal são de Digital Solutions - De Barros, org.nr 996 041 468, empresa registrada na Noruega. Estes termos regem o acesso ao site, aos jogos e à newsletter.
 
 A leitura e os jogos são abertos a qualquer pessoa, sem cadastro e sem custo.
 
@@ -47,4 +47,4 @@ Aplica-se a lei norueguesa. Nada nestes termos afasta as proteções imperativas
 
 ## 10. Contato
 
-post@borealtimes.org
+post@borealsagaplay.com

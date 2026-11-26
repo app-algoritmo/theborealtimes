@@ -16,7 +16,7 @@ as:
   ok_texto: "Vi har sendt en bekreftelses-e-post. Åpne den og klikk på lenken for å aktivere abonnementet. Hvis du ikke finner den, sjekk søppelpostmappen."
   erro_email: "Den e-postadressen ser ikke gyldig ut. Sjekk den og prøv igjen."
   erro_aceite: "For å motta nyhetsbrevet må du krysse av i samtykkeboksen."
-  erro_geral: "Vi kunne ikke registrere deg akkurat nå. Prøv igjen om noen minutter eller skriv til post@borealtimes.org."
+  erro_geral: "Vi kunne ikke registrere deg akkurat nå. Prøv igjen om noen minutter eller skriv til post@borealsagaplay.com."
   confirmado_titulo: "Abonnementet er bekreftet"
   confirmado_texto: "Alt er klart. Den neste historien kommer til innboksen din. Hva med et eventyr i mellomtiden?"
   expirado_titulo: "Ugyldig eller utløpt lenke"
@@ -44,4 +44,4 @@ E-postadressen din, språket du valgte, datoen for påmeldingen og for bekreftel
 
 ## Slik melder du deg av
 
-Hver e-post har en avmeldingslenke nederst. Hvis du foretrekker det, skriv til post@borealtimes.org.
+Hver e-post har en avmeldingslenke nederst. Hvis du foretrekker det, skriv til post@borealsagaplay.com.

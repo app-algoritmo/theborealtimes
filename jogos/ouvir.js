@@ -40,6 +40,7 @@
   function rotulo() {
     rot.textContent = estado === 'tocando' ? L.pausar : estado === 'pausado' ? L.continuar : L.ouvir;
     btn.setAttribute('aria-pressed', estado === 'tocando' ? 'true' : 'false');
+    btn.setAttribute('data-estado', estado); btn.title = rot.textContent;
     stop.hidden = estado === 'parado';
   }
   /* Fala um trecho por vez: cada trecho só começa quando o anterior termina. Nos celulares,

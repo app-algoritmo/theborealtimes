@@ -8,9 +8,9 @@ return [
   'db_senha' => 'SENHA',
 
   // Remetente. Use um endereço de um domínio que o Domeneshop envia (veja LEIA-ME.md)
-  'de_email' => 'post@borealtimes.org',
+  'de_email' => 'post@borealsagaplay.com',
   'de_nome' => 'Boreal Saga Play',
-  'responder_para' => 'post@borealtimes.org',
+  'responder_para' => 'post@borealsagaplay.com',
 
   // Onde este script está publicado (sem barra no fim) e onde fica o site
   'base_url' => 'https://api.dsnorge.com/boreal',

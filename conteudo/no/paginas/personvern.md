@@ -7,9 +7,9 @@ atualizado: november 2026
 
 ## 1. Hvem som er ansvarlig
 
-Digital Solutions - De Barros, org.nr. 996 041 468, et selskap registrert i Norge med base i Larvik. Det bestemmer hvordan data behandles og står til ansvar for det. Kontakt for alle personvernspørsmål: post@borealtimes.org.
+Digital Solutions - De Barros, org.nr. 996 041 468, et selskap registrert i Norge med base i Larvik. Det bestemmer hvordan data behandles og står til ansvar for det. Kontakt for alle personvernspørsmål: post@borealsagaplay.com.
 
-Boreal Saga Play er utviklet av DS Norge • Digital Solutions (inf@dsnorge.com). Fordi den behandlingsansvarlige er i Norge, gjelder personvernforordningen (GDPR) gjennom norsk personvernlovgivning. For lesere i Brasil gjelder også LGPD. Begge lovene gjelder parallelt, og vi følger den som beskytter best på hvert punkt.
+Boreal Saga Play er utviklet av DS Norge • Digital Solutions (post@borealsagaplay.com). Fordi den behandlingsansvarlige er i Norge, gjelder personvernforordningen (GDPR) gjennom norsk personvernlovgivning. For lesere i Brasil gjelder også LGPD. Begge lovene gjelder parallelt, og vi følger den som beskytter best på hvert punkt.
 
 ## 2. Hvilke data vi behandler
 
@@ -21,7 +21,7 @@ Boreal Saga Play er utviklet av DS Norge • Digital Solutions (inf@dsnorge.com)
 
 **Annonsering.** Nettstedet viser Google AdSense-annonser, som kan lagre identifikatorer i nettleseren din, avhengig av valget du tar i samtykkevinduet.
 
-**Meldinger.** Hvis du skriver til post@borealtimes.org, bruker vi meldingen og adressen din bare til å svare og, der det er relevant, til å rette innholdet.
+**Meldinger.** Hvis du skriver til post@borealsagaplay.com, bruker vi meldingen og adressen din bare til å svare og, der det er relevant, til å rette innholdet.
 
 Vi behandler ikke sensitive opplysninger, og vi selger ikke personopplysninger.
 
@@ -49,7 +49,7 @@ Ubekreftede påmeldinger slettes innen sju dager. Bekreftede abonnenter står p�
 
 ## 7. Dine rettigheter
 
-Du kan be om innsyn i dataene dine, retting, sletting, begrensning, innsigelse, dataportabilitet og tilbaketrekking av samtykke. Skriv til post@borealtimes.org. Vi svarer innen tretti dager.
+Du kan be om innsyn i dataene dine, retting, sletting, begrensning, innsigelse, dataportabilitet og tilbaketrekking av samtykke. Skriv til post@borealsagaplay.com. Vi svarer innen tretti dager.
 
 Hvis du mener at vi ikke har respektert rettighetene dine, kan du klage til Datatilsynet eller, hvis du er i Brasil, til ANPD.
 

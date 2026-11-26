@@ -5,7 +5,7 @@ olho: El sitio
 atualizado: noviembre de 2026
 ---
 
-Para cualquier asunto, escribe a **post@borealtimes.org**.
+Para cualquier asunto, escribe a **post@borealsagaplay.com**.
 
 ## Sugerencias y errores
 

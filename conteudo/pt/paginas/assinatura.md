@@ -16,7 +16,7 @@ as:
   ok_texto: "Enviamos um e-mail de confirmação. Abra a mensagem e clique no link para ativar a inscrição. Se não encontrar, olhe a caixa de spam."
   erro_email: "Esse e-mail não parece válido. Confira e tente de novo."
   erro_aceite: "Para receber a newsletter, marque a caixa de aceite."
-  erro_geral: "Não conseguimos registrar agora. Tente de novo em alguns minutos ou escreva para post@borealtimes.org."
+  erro_geral: "Não conseguimos registrar agora. Tente de novo em alguns minutos ou escreva para post@borealsagaplay.com."
   confirmado_titulo: "Inscrição confirmada"
   confirmado_texto: "Tudo certo. A próxima história chega ao seu e-mail. Enquanto isso, que tal jogar uma aventura?"
   expirado_titulo: "Link inválido ou vencido"
@@ -44,4 +44,4 @@ O e-mail, o idioma escolhido, a data da inscrição e da confirmação, e a vers
 
 ## Como cancelar
 
-Todo e-mail traz no fim um link de cancelamento. Se preferir, escreva para post@borealtimes.org.
+Todo e-mail traz no fim um link de cancelamento. Se preferir, escreva para post@borealsagaplay.com.
