@@ -138,6 +138,7 @@ pt:
     galeria: galeria
     album: album
     vr: vr
+    headsets: headsets-compativeis
     reinos: reinos
     glossario: glossario
     personagens: personagens
@@ -907,6 +908,7 @@ en:
     galeria: gallery
     album: album
     vr: vr
+    headsets: compatible-headsets
     reinos: realms
     glossario: glossary
     personagens: characters
@@ -1676,6 +1678,7 @@ en:
     galeria: galleri
     album: album
     vr: vr
+    headsets: kompatible-vr-briller
     reinos: rikene
     glossario: ordliste
     personagens: skikkelser
@@ -2445,6 +2448,7 @@ es:
     galeria: galeria
     album: album
     vr: vr
+    headsets: visores-compatibles
     reinos: reinos
     glossario: glosario
     personagens: personajes
