@@ -66,18 +66,40 @@
 <script type="application/ld+json">{{ jsonld|safe }}</script>
 
 {% if medicao.ga4 %}
-{# Consentimento negado por padrão. A mensagem de privacidade configurada no
-   AdSense é uma CMP certificada pelo Google e atualiza esse estado. #}
+{# Consentimento negado por padrão só no EEE, Reino Unido e Suíça, onde a mensagem
+   de privacidade do AdSense (CMP com TCF) pede a escolha. Fora dessas regiões a
+   medição de audiência fica ativa. Quando a pessoa consente no banner, o script
+   abaixo lê a escolha (TCF) e libera o analytics_storage. #}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ medicao.ga4 }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('consent', 'default', {
     ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
-    analytics_storage: 'denied', wait_for_update: 500
+    analytics_storage: 'denied', wait_for_update: 500,
+    region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IS','IE','IT','LV','LI','LT','LU','MT','NL','NO','PL','PT','RO','SK','SI','ES','SE','GB','CH']
   });
+  gtag('consent', 'default', { analytics_storage: 'granted' });
   gtag('js', new Date());
   gtag('config', '{{ medicao.ga4 }}', { anonymize_ip: true });
+  (function () {
+    var tentativas = 0;
+    function liga() {
+      if (typeof window.__tcfapi !== 'function') {
+        if (++tentativas < 40) setTimeout(liga, 500);
+        return;
+      }
+      window.__tcfapi('addEventListener', 2, function (tc, ok) {
+        if (!ok || !tc) return;
+        if (tc.eventStatus !== 'useractioncomplete' && tc.eventStatus !== 'tcloaded') return;
+        var c = (tc.purpose && tc.purpose.consents) || {};
+        if (c[1] && (c[7] || c[8] || c[9] || c[10])) {
+          gtag('consent', 'update', { analytics_storage: 'granted' });
+        }
+      });
+    }
+    liga();
+  })();
 </script>
 {% endif %}
 
