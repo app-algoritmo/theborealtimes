@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge sagaene krysset kong Sigurd Europa til Jerusalem. Spillet om å knytte kanter er diktet opp.",
     "h1": "Lenke",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El camino de Sigurd",
+    "sub": "Toca una casilla vacía para poner una piedra dorada. Une la orilla de la izquierda con la de la derecha con una cadena de piedras vecinas. El rival, en azul, intenta unir la parte de arriba con la de abajo. Gana quien cierre antes la unión. El tiempo es limitado.",
+    "perdeu": "El rival cerró el camino primero",
+    "v1": "¡Abriste el camino de punta a punta!",
+    "v2": "Según las sagas, el rey Sigurd cruzó Europa hasta Jerusalén. El juego de unir orillas es invención.",
+    "h1": "Unión",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

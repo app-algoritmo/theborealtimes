@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala steller den slavebundne gjeteren Kullervo Ilmarinens buskap. Oppgaven med å drive dyrene inn i innhegningen er diktet opp.",
     "h1": "Flokk",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El rebaño de Kullervo",
+    "sub": "Arrastra el dedo (o usa las flechas / WASD) para mover al pastor. Los animales huyen de ti: ponte detrás de ellos y empújalos hacia el corral de la derecha. Llévalos a los 6 antes de que se acabe el tiempo.",
+    "perdeu": "Se acabó el tiempo",
+    "v1": "¡El rebaño está en el corral!",
+    "v2": "En el Kalevala, el pastor Kullervo, esclavizado, cuida del rebaño de Ilmarinen. La tarea de llevar a los animales al corral es invención.",
+    "h1": "Rebaño",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

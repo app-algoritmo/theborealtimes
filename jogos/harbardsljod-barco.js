@@ -58,6 +58,18 @@ BTJogo.registrar({
     "troll": "Troll",
     "thor": "Tor",
     "warn": "Fare!"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El barco de Hárbarðr",
+    "sub": "Lleva a todos a la otra orilla. Toca a un pasajero para subirlo al barco (o bajarlo) y después ▶ para cruzar. Desafío 1: Thor rema y lleva de uno en uno; sin él, el lobo se come a la cabra y la cabra se come el heno. Desafío 2: tres hombres y tres trols, dos plazas en el barco; en una orilla con hombres, los trols nunca pueden ser más que ellos. Las travesías son limitadas.",
+    "perdeu": "Se acabaron las travesías",
+    "v1": "¡Todos llegaron a la otra orilla!",
+    "v2": "En el Hárbarðsljóð, el barquero se niega a llevar a Thor. El rompecabezas de la travesía es invención.",
+    "h1": "Desafío",
+    "h2": "Travesías"
   }
 },
   criar: function (api) {

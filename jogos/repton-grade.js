@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Repton (Derbyshire) overvintret Den store hæren i 873–874. Tallrutenettet i spillet er diktet opp.",
     "h1": "Fylt",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La cuadrícula de Repton",
+    "sub": "Rellena cada fila, columna y cuadrado de 2×2 con los números del 1 al 4, sin repetir. Toca una casilla vacía y después un número de abajo (✕ borra). Los números repetidos se ponen en rojo. Tiempo limitado.",
+    "perdeu": "Se acabó el tiempo",
+    "v1": "¡La cuadrícula está completa!",
+    "v2": "En Repton (Derbyshire), el Gran Ejército pasó el invierno de 873–874. La cuadrícula numérica del juego es invención.",
+    "h1": "Rellenas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

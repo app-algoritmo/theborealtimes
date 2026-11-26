@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Vǫluspá og hos Snorre får to trestammer gaver av gudene og blir det første paret. Spillet med sammenslåing av blokker er diktet opp.",
     "h1": "Høyeste",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los dones de los dioses",
+    "sub": "Desliza el dedo (o usa las flechas) para mover todos los bloques. Dos bloques iguales se juntan en uno, con el doble de valor. Forma el bloque 128 antes de que se acabe el tiempo.",
+    "perdeu": "No quedaron jugadas o se acabó el tiempo",
+    "v1": "¡Ask y Embla cobraron vida!",
+    "v2": "En la Völuspá y en Snorri, dos troncos reciben dones de los dioses y se convierten en la primera pareja. El juego de juntar bloques es invención.",
+    "h1": "Mayor",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Grímnismál sier Odin i forkledning mange av navnene sine, mellom to bål. Spillet med å samle navn er diktet opp.",
     "h1": "Navn",
     "h2": "Spor"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los nombres de Odín",
+    "sub": "Guía la chispa por el salón. Flechas o WASD, o toca en la dirección que quieras seguir (arrastrar también vale). Cada nombre recogido la hace crecer. Recoge 12 nombres sin tocar las llamas de los bordes ni tu propio rastro.",
+    "perdeu": "La chispa se apagó en las llamas",
+    "v1": "¡Odín reveló todos los nombres!",
+    "v2": "En el Grímnismál, Odín disfrazado dice muchos de sus nombres, entre dos hogueras. El juego de recoger nombres es invención.",
+    "h1": "Nombres",
+    "h2": "Rastro"
   }
 },
   criar: function (api) {

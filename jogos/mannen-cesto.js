@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I eventyret til Asbjørnsen og Moe bytter mannen plass med kona, og alt går galt, til og med kua på taket. Kurvspillet er diktet opp.",
     "h1": "Fanget",
     "h2": "Feil"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El hombre y las tareas de la casa",
+    "sub": "Mueve la cesta (arrastra el dedo o usa ← → / A D) para atrapar lo que cae: pan, leche, lana y huevos. ¡No cojas el cerdo! Recoge 25 objetos antes de cometer 3 errores o de que se acabe el tiempo.",
+    "perdeu": "Tres errores, o se acabó el tiempo",
+    "v1": "¡La casa está en orden!",
+    "v2": "En el cuento de Asbjørnsen y Moe, el marido cambia de lugar con la mujer y todo sale mal, hasta la vaca en el tejado. El juego de la cesta es invención.",
+    "h1": "Recogidos",
+    "h2": "Errores"
   }
 },
   criar: function (api) {

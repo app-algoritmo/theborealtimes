@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Roskildefjorden ble restene av fem senkede skip funnet. Skuddene i spillet er diktet opp.",
     "h1": "Skip",
     "h2": "Skudd"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los cinco barcos del fiordo",
+    "sub": "Hay cinco barcos escondidos en el agua. Toca una casilla para disparar (o usa las flechas y el espacio). Agua es agua; un acierto muestra un casco. Hunde los cinco antes de que se acaben los disparos.",
+    "perdeu": "Se acabaron los disparos",
+    "v1": "¡Encontraste los cinco barcos!",
+    "v2": "En el fiordo de Roskilde se hallaron restos de cinco barcos hundidos. Los disparos del juego son invención.",
+    "h1": "Barcos",
+    "h2": "Disparos"
   }
 },
   criar: function (api) {

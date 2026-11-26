@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Sverres saga forteller om en konges vei til makten i Norge. Brikkene som faller i spillet, er diktet opp.",
     "h1": "Rader",
     "h2": "Haug"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las filas de Sverre",
+    "sub": "Las piezas caen y tú las encajas. Flechas: izquierda y derecha mueven, arriba gira, abajo acelera, espacio la suelta de golpe. En el móvil, usa los botones de abajo. Cada fila completa desaparece. Cierra 6 filas antes de que la pila llegue arriba.",
+    "perdeu": "La pila llegó arriba",
+    "v1": "¡Tus filas están firmes!",
+    "v2": "La Saga de Sverre cuenta el ascenso de un rey de Noruega. Las piezas que caen en el juego son invención.",
+    "h1": "Filas",
+    "h2": "Pila"
   }
 },
   criar: function (api) {

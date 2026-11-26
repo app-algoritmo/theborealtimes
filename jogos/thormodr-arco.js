@@ -40,6 +40,18 @@ BTJogo.registrar({
     "h1": "Skiver",
     "h2": "Piler",
     "w": "Vind"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El arco de Thormod",
+    "sub": "Mueve el puntero (o ↑ ↓) para apuntar. Mantén el toque (o el espacio) para cargar la fuerza y suéltalo para disparar. El viento cambia con cada flecha: fíjate en la bandera. Acierta 5 blancos con 8 flechas.",
+    "perdeu": "Se acabaron las flechas",
+    "v1": "¡Cinco blancos alcanzados!",
+    "v2": "En la Fóstbrœðra saga, Thormod lucha en Stiklestad junto a Olaf y después compone versos. Las flechas del juego son invención.",
+    "h1": "Blancos",
+    "h2": "Flechas"
   }
 },
   criar: function (api) {

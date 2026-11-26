@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Diktet Völuspá fremsies av en seer foran Odin. Runene som kastes i spillet, er diktet opp.",
     "h1": "Runer",
     "h2": "Kast"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las runas de la vidente",
+    "sub": "Apunta con el dedo (o usa las flechas) y toca encima del lanzador (o espacio) para lanzar una runa. Tres o más del mismo color juntas desaparecen, y las que quedan sueltas también caen. Limpia todas las runas antes de que se acaben los lanzamientos.",
+    "perdeu": "Las runas se quedaron sin respuesta",
+    "v1": "¡La vidente guardó silencio!",
+    "v2": "El poema Völuspá lo recita una vidente ante Odín. Las runas que se lanzan en el juego son invención.",
+    "h1": "Runas",
+    "h2": "Lanzamientos"
   }
 },
   criar: function (api) {

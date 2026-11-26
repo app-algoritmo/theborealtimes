@@ -501,6 +501,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_halfs: jogo-os-fatos-de-halfr
+    jogo_asmundar: jogo-os-campeoes-de-hildibrand
+    jogo_egill: jogo-o-banquete-dos-gigantes
+    jogo_hromundar: jogo-dentro-do-tumulo-de-thrainn
+    jogo_ketilhaeng: jogo-os-peixes-de-ketil
+    jogo_grimr: jogo-a-baleia-de-gandvik
+    jogo_ans: jogo-as-flechas-de-litr
+    jogo_hjalmthes: jogo-a-praia-de-hordr
+    jogo_illuga: jogo-o-fogo-de-gridr
+    jogo_sturlaugr: jogo-rumo-a-bjarmaland
+    jogo_gongu: jogo-o-passo-do-caminhante
+    jogo_gautreksson: jogo-o-engenho-de-ullarakr
+    jogo_thorstein: jogo-os-fatos-de-thorsteinn
     jogo_hafli: jogo-os-fatos-de-haflidi
     jogo_lagaboter: jogo-os-livros-da-lei
     jogo_halfdansvarte: jogo-o-gelo-do-lago-rand
@@ -1271,6 +1284,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_halfs: game-halfr-s-facts
+    jogo_asmundar: game-hildibrand-s-champions
+    jogo_egill: game-the-giants-feast
+    jogo_hromundar: game-inside-thrainn-s-mound
+    jogo_ketilhaeng: game-ketil-s-fish
+    jogo_grimr: game-the-whale-of-gandvik
+    jogo_ans: game-litr-s-arrows
+    jogo_hjalmthes: game-hordr-s-beach
+    jogo_illuga: game-gridr-s-fire
+    jogo_sturlaugr: game-to-bjarmaland
+    jogo_gongu: game-the-walker-s-stride
+    jogo_gautreksson: game-the-siege-engine-of-ullarakr
+    jogo_thorstein: game-thorsteinn-s-facts
     jogo_hafli: game-haflidi-s-facts
     jogo_lagaboter: game-the-law-books
     jogo_halfdansvarte: game-the-ice-of-lake-rand
@@ -2041,6 +2067,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_halfs: spill-halfrs-fakta
+    jogo_asmundar: spill-hildibrands-kjemper
+    jogo_egill: spill-jotnenes-gjestebud
+    jogo_hromundar: spill-inne-i-thrainns-haug
+    jogo_ketilhaeng: spill-ketils-fisk
+    jogo_grimr: spill-hvalen-i-gandvik
+    jogo_ans: spill-litrs-piler
+    jogo_hjalmthes: spill-hordrs-strand
+    jogo_illuga: spill-gridrs-ild
+    jogo_sturlaugr: spill-mot-bjarmaland
+    jogo_gongu: spill-vandrerens-skritt
+    jogo_gautreksson: spill-beleiringsmaskinen-ved-ullarakr
+    jogo_thorstein: spill-thorsteinns-fakta
     jogo_hafli: spill-haflidis-fakta
     jogo_lagaboter: spill-lovbokene
     jogo_halfdansvarte: spill-isen-pa-rands-sjoen
@@ -2791,6 +2830,32 @@ es:
     jogo_lindholm: juego-el-contorno-del-barco
     jogo_lewis: juego-el-paseo-del-caballo
     jogo_ran: juego-las-mallas-de-ran
+    jogo_halfs: juego-los-hechos-de-halfr
+    jogo_asmundar: juego-los-campeones-de-hildibrand
+    jogo_egill: juego-el-banquete-de-los-gigantes
+    jogo_hromundar: juego-dentro-del-tumulo-de-thrainn
+    jogo_ketilhaeng: juego-los-peces-de-ketil
+    jogo_grimr: juego-la-ballena-de-gandvik
+    jogo_ans: juego-las-flechas-de-litr
+    jogo_hjalmthes: juego-la-playa-de-hordr
+    jogo_illuga: juego-el-fuego-de-gridr
+    jogo_sturlaugr: juego-rumbo-a-bjarmaland
+    jogo_gongu: juego-el-paso-del-caminante
+    jogo_gautreksson: juego-el-ingenio-de-ullarakr
+    jogo_thorstein: juego-los-hechos-de-thorsteinn
+    jogo_sigurd: juego-el-camino-de-sigurd
+    jogo_skuldelev: juego-los-cinco-barcos-del-fiordo
+    jogo_sverre: juego-las-filas-de-sverre
+    jogo_voluspa: juego-las-runas-de-la-vidente
+    jogo_ask: juego-los-dones-de-los-dioses
+    jogo_thormod: juego-el-arco-de-thormod
+    jogo_grimnir: juego-los-nombres-de-odin
+    jogo_harbard: juego-el-barco-de-harbardr
+    jogo_kullervo: juego-el-rebano-de-kullervo
+    jogo_largs: juego-la-playa-de-largs
+    jogo_mannen: juego-el-hombre-y-las-tareas-de-la-casa
+    jogo_peer: juego-el-salon-del-rey-de-la-montana
+    jogo_repton: juego-la-cuadricula-de-repton
   curiosidades: []
   interface:
     capa: Portada

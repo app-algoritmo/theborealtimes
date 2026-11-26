@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Ibsens Peer Gynt tar Dovregubben Peer med til trollsalen sin. Løpet gjennom salen er diktet opp.",
     "h1": "Strekning",
     "h2": "Liv"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El salón del Rey de la Montaña",
+    "sub": "Peer corre por el salón. Desliza hacia un lado (o toca la mitad izquierda/derecha; flechas o A D) para cambiar de carril y huir de los trols. Recorre 300 m con 3 vidas.",
+    "perdeu": "Los trols atraparon a Peer",
+    "v1": "¡Peer escapó del salón!",
+    "v2": "En Peer Gynt, de Ibsen, el Rey de la Montaña (Dovregubben) lleva a Peer a su salón de trols. La carrera por el salón es invención.",
+    "h1": "Recorrido",
+    "h2": "Vidas"
   }
 },
   criar: function (api) {

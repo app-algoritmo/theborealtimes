@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I 1263 kjempet kong Håkons flåte, hardt rammet av storm, på land ved Largs. Strandforsvaret i spillet er diktet opp.",
     "h1": "Nedskutt",
     "h2": "Skip"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La playa de Largs",
+    "sub": "Desliza el dedo (o usa ← → / A D) para mover tu barco; dispara solo. Derriba los 18 barcos atacantes antes de que lleguen a la playa. Cuidado con sus flechas: tienes 3 barcos.",
+    "perdeu": "La playa fue tomada",
+    "v1": "¡Los atacantes fueron rechazados!",
+    "v2": "En 1263 la flota del rey Haakon, golpeada por las tormentas, combatió en tierra cerca de Largs. La defensa de la playa en el juego es invención.",
+    "h1": "Derribados",
+    "h2": "Barcos"
   }
 },
   criar: function (api) {
