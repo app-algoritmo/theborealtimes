@@ -36,4 +36,4 @@ You can also open a story straight in VR: in the Gallery, open a sticker and tap
 - The cinema uses only the motion sensor of your phone, never the camera or the microphone.
 - As a precaution, we do not recommend it for young children, and we suggest short breaks.
 
-Choosing a headset? See [what to look for in a phone headset](/compatible-headsets/).
+<p style="margin-top:1.6rem"><a style="display:inline-block;padding:12px 22px;border-radius:8px;background:var(--marca);color:#fff;font-weight:700;text-decoration:none" href="/compatible-headsets/">Which headset to use?</a></p>

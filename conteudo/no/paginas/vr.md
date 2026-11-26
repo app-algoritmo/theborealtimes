@@ -36,4 +36,4 @@ Du kan også åpne en historie rett i VR: åpne et klistremerke i galleriet og t
 - Kinoen bruker bare bevegelsessensoren i mobilen, aldri kameraet eller mikrofonen.
 - Som en forholdsregel anbefaler vi det ikke for små barn, og vi foreslår korte pauser.
 
-Skal du velge briller? Se [hva du bør se etter i mobilbriller](/no/kompatible-vr-briller/).
+<p style="margin-top:1.6rem"><a style="display:inline-block;padding:12px 22px;border-radius:8px;background:var(--marca);color:#fff;font-weight:700;text-decoration:none" href="/no/kompatible-vr-briller/">Hvilke briller bør jeg bruke?</a></p>

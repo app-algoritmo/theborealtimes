@@ -36,4 +36,4 @@ Você também pode abrir uma história direto em VR: na Galeria, abra uma figuri
 - O cinema usa só o sensor de movimento do celular, nunca a câmera nem o microfone.
 - Por prudência, não recomendamos para crianças pequenas e sugerimos pausas curtas.
 
-Quer escolher um óculos? Veja [o que procurar num óculos de celular](/pt/headsets-compativeis/).
+<p style="margin-top:1.6rem"><a style="display:inline-block;padding:12px 22px;border-radius:8px;background:var(--marca);color:#fff;font-weight:700;text-decoration:none" href="/pt/headsets-compativeis/">Qual óculos usar?</a></p>

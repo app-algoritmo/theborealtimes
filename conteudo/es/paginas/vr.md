@@ -36,4 +36,4 @@ También puedes abrir una historia directamente en VR: en la Galería, abre un c
 - El cine solo usa el sensor de movimiento del móvil, nunca la cámara ni el micrófono.
 - Por precaución, no lo recomendamos para niños pequeños y sugerimos pausas cortas.
 
-¿Eliges visor? Mira [qué buscar en un visor de móvil](/es/visores-compatibles/).
+<p style="margin-top:1.6rem"><a style="display:inline-block;padding:12px 22px;border-radius:8px;background:var(--marca);color:#fff;font-weight:700;text-decoration:none" href="/es/visores-compatibles/">¿Qué visor usar?</a></p>
