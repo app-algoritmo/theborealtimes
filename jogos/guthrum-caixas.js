@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I 878, etter Edington, ble kong Guthrum døpt nær Wedmore. Kassene og merkene er diktet opp for spillet.",
     "h1": "Nivå",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las cajas de Wedmore",
+    "sub": "Usa las flechas (o toca junto al guerrero) para andar y empujar las cajas hasta las marcas del suelo. Solo se puede empujar, no tirar. Si te atascas, toca ↺ o pulsa R. Supera los 3 niveles en un máximo de 150 segundos.",
+    "perdeu": "Se acabó el tiempo",
+    "v1": "¡Los tres niveles están hechos!",
+    "v2": "En 878, tras Edington, el rey Guthrum fue bautizado cerca de Wedmore. Las cajas y las marcas son un invento del juego.",
+    "h1": "Nivel",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

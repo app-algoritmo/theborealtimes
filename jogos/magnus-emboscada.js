@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Magnus Olavsson ble drept i et bakhold i Irland i 1103. Tallfeltet er diktet opp.",
     "h1": "Trygge",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El campo de emboscadas",
+    "sub": "Toca una casilla para abrirla. Cada número dice cuántas de las 8 casillas vecinas esconden una emboscada. Abre las 54 casillas seguras sin pisar una emboscada. Usa el botón ⚑ para marcar casillas sospechosas.",
+    "perdeu": "Caíste en una emboscada",
+    "v1": "¡Cruzaste el campo!",
+    "v2": "Magnus Olafsson murió en una emboscada en Irlanda en 1103. El campo de números es un invento.",
+    "h1": "Seguras",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

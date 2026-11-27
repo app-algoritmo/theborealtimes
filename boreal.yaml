@@ -501,6 +501,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_tristram: jogo-o-santuario-de-isond
+    jogo_strengleikar: jogo-cada-frase-no-seu-lai
+    jogo_bisclaret: jogo-as-roupas-do-barao
+    jogo_januals: jogo-a-bolsa-que-nunca-esvazia
+    jogo_geitarlauf: jogo-o-nome-na-aveleira
+    jogo_mottuls: jogo-o-manto-da-prova
+    jogo_iven: jogo-o-cavaleiro-da-fonte
+    jogo_parceval: jogo-a-floresta-de-parceval
+    jogo_karlamagnus: jogo-os-dez-ramos
+    jogo_runzival: jogo-a-retaguarda-de-runzival
+    jogo_mirman: jogo-o-conde-hiringr
+    jogo_jarlmann: jogo-o-hringbrot
+    jogo_damusta: jogo-a-pocao-de-alheimr
     jogo_bergbua: jogo-o-poema-de-hallmundr
     jogo_kumlbua: jogo-o-machado-do-morador-do-tumulo
     jogo_orm: jogo-os-fardos-de-feno-de-ormr
@@ -1301,6 +1314,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_tristram: game-isond-s-shrine
+    jogo_strengleikar: game-each-phrase-in-its-lai
+    jogo_bisclaret: game-the-baron-s-clothes
+    jogo_januals: game-the-purse-that-never-empties
+    jogo_geitarlauf: game-the-name-on-the-hazel
+    jogo_mottuls: game-the-cloak-of-the-test
+    jogo_iven: game-the-knight-of-the-fountain
+    jogo_parceval: game-parceval-s-forest
+    jogo_karlamagnus: game-the-ten-branches
+    jogo_runzival: game-the-rearguard-at-runzival
+    jogo_mirman: game-earl-hiringr
+    jogo_jarlmann: game-the-hringbrot
+    jogo_damusta: game-alheimr-s-potion
     jogo_bergbua: game-hallmundr-s-poem
     jogo_kumlbua: game-the-mound-dweller-s-axe
     jogo_orm: game-ormr-s-hay-bundles
@@ -2101,6 +2127,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_tristram: spill-isonds-helligdom
+    jogo_strengleikar: spill-hver-setning-i-sin-lai
+    jogo_bisclaret: spill-baronens-klaer
+    jogo_januals: spill-pungen-som-aldri-tommes
+    jogo_geitarlauf: spill-navnet-pa-hasselen
+    jogo_mottuls: spill-kappen-som-prove
+    jogo_iven: spill-kilderidderen
+    jogo_parceval: spill-parcevals-skog
+    jogo_karlamagnus: spill-de-ti-grenene
+    jogo_runzival: spill-bakre-avdeling-ved-runzival
+    jogo_mirman: spill-jarl-hiringr
+    jogo_jarlmann: spill-hringbrot
+    jogo_damusta: spill-alheimrs-drikk
     jogo_bergbua: spill-hallmundrs-dikt
     jogo_kumlbua: spill-haugboerens-oks
     jogo_orm: spill-ormrs-hoybunter
@@ -2933,6 +2972,32 @@ es:
     jogo_gylfi: juego-el-salon-de-gylfi
     jogo_hyndla: juego-las-antorchas-de-hyndla
     jogo_louhi: juego-el-campo-helado-de-pohjola
+    jogo_tristram: juego-el-santuario-de-isond
+    jogo_strengleikar: juego-cada-frase-en-su-lai
+    jogo_bisclaret: juego-la-ropa-del-baron
+    jogo_januals: juego-la-bolsa-que-nunca-se-vacia
+    jogo_geitarlauf: juego-el-nombre-en-el-avellano
+    jogo_mottuls: juego-el-manto-de-la-prueba
+    jogo_iven: juego-el-caballero-de-la-fuente
+    jogo_parceval: juego-el-bosque-de-parceval
+    jogo_karlamagnus: juego-las-diez-ramas
+    jogo_runzival: juego-la-retaguardia-de-runzival
+    jogo_mirman: juego-el-conde-hiringr
+    jogo_jarlmann: juego-el-hringbrot
+    jogo_damusta: juego-la-pocion-de-alheimr
+    jogo_maeshowe: juego-la-camara-de-maeshowe
+    jogo_magnus-1103: juego-el-campo-de-emboscadas
+    jogo_sigrdrifa: juego-la-runa-de-sigrdrifa
+    jogo_uppsala: juego-el-templo-de-uppsala
+    jogo_aino: juego-las-piedras-del-lago
+    jogo_assandun: juego-el-campo-de-assandun
+    jogo_atli: juego-el-pozo-de-serpientes
+    jogo_aud: juego-la-casa-de-aud
+    jogo_baldr: juego-los-suenos-de-baldr
+    jogo_sinos: juego-las-campanas-de-constantinopla
+    jogo_hringhorni: juego-el-barco-hringhorni
+    jogo_gestumblindi: juego-los-acertijos-de-gestumblindi
+    jogo_guthrum: juego-las-cajas-de-wedmore
   curiosidades: []
   interface:
     capa: Portada

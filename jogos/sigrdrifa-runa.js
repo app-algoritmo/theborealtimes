@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Sigrdrífumál lærer valkyrjen Sigurd runer. Ledetrådrutenettet er diktet opp.",
     "h1": "Rune",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La runa de Sigrdrífa",
+    "sub": "Los números indican cuántas casillas seguidas hay que pintar en cada fila y columna, en orden, con pausas entre los grupos. Toca una casilla para pintarla; vuelve a tocarla para marcar ✕ (vacía) y una vez más para borrarla. Revela la runa antes de que se acabe el tiempo.",
+    "perdeu": "Se acabó el tiempo",
+    "v1": "¡La runa quedó revelada!",
+    "v2": "En el Sigrdrífumál, la valquiria enseña runas a Sigurd. La cuadrícula de pistas es un invento.",
+    "h1": "Runa",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

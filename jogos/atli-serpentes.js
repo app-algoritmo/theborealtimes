@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Atlakviða blir kong Gunnar kastet i en ormegrop. Spillet med å jage dem bort er diktet opp.",
     "h1": "Jaget bort",
     "h2": "Liv"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El pozo de serpientes",
+    "sub": "Las serpientes salen de las 9 aberturas del pozo. Toca cada una antes de que muerda: si muerde, pierdes una de las 3 vidas. Ahuyenta 25 serpientes para llegar a la mañana.",
+    "perdeu": "Las serpientes ganaron",
+    "v1": "¡Ahuyentaste a las serpientes!",
+    "v2": "En el Atlakviða, el rey Gunnar es arrojado a un pozo de serpientes. El juego de ahuyentarlas es un invento.",
+    "h1": "Ahuyentadas",
+    "h2": "Vidas"
   }
 },
   criar: function (api) {

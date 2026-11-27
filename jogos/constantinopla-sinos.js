@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I 860 angrep Rus Konstantinopel. Klokkene og rekkene er diktet opp for spillet.",
     "h1": "Rekke",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las campanas de Constantinopla",
+    "sub": "Las cuatro campanas suenan en un orden. Cuando terminen, toca las campanas en el mismo orden (o usa las teclas 1 a 4). En cada ronda la secuencia crece. Repite 9 toques sin fallar.",
+    "perdeu": "Fallaste el orden de las campanas",
+    "v1": "¡La ciudad oyó las campanas!",
+    "v2": "En 860, los rus atacaron Constantinopla. La tradición de campanas y de secuencias es un invento del juego.",
+    "h1": "Secuencia",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

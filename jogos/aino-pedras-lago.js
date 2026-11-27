@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala kaster Aino seg i sjøen for å slippe unna et giftermål. Hoppespillet på en trekant er diktet opp.",
     "h1": "Igjen",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las piedras del lago",
+    "sub": "Hay 14 marcas ocupadas y 1 vacía en un triángulo. Toca una marca y luego la casilla vacía, al otro lado de una vecina: saltas por encima y retiras la vecina. Deja una sola marca, en un máximo de 150 segundos.",
+    "perdeu": "No se puede continuar",
+    "v1": "¡Solo queda una!",
+    "v2": "En el Kalevala, Aino se arroja al lago para escapar del matrimonio. El juego de saltos en un triángulo es un invento.",
+    "h1": "Quedan",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

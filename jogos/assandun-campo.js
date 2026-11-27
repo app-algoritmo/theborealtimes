@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ved Assandun i 1016 beseiret Knut Edmund Jernside. Marken, gruppene og skuddene er diktet opp for spillet.",
     "h1": "Funnet",
     "h2": "Skudd"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El campo de Assandun",
+    "sub": "Tres grupos de guerreros (de 2, 3 y 3 casillas) están escondidos en un campo de 6 por 6 casillas. Toca una casilla para disparar: una mancha roja es un acierto, un punto es agua. Encuentra los tres grupos con un máximo de 24 disparos.",
+    "perdeu": "Se acabaron los disparos",
+    "v1": "¡Encontraste todos los grupos!",
+    "v2": "En Assandun, en 1016, Canuto venció a Edmundo Costillas de Hierro. El campo, los grupos y los disparos son un invento del juego.",
+    "h1": "Encontrados",
+    "h2": "Disparos"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Adam av Bremen beskrev rundt 1070 et stort tempel i Uppsala. Gåten er diktet opp.",
     "h1": "På plass",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El templo de Uppsala",
+    "sub": "Toca una pieza junto al hueco vacío para deslizarla. Coloca las runas en orden, del 1 al 8, con el hueco vacío en la esquina de abajo a la derecha. Tienes 70 movimientos.",
+    "perdeu": "Se acabaron los movimientos o el tiempo",
+    "v1": "¡Las piezas están en orden!",
+    "v2": "Adán de Bremen describió, hacia 1070, un gran templo en Uppsala. El rompecabezas es un invento.",
+    "h1": "En su sitio",
+    "h2": "Movimientos"
   }
 },
   criar: function (api) {

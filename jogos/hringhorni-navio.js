@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Gylfaginning skyver jotunkvinnen Hyrrokkin Balders skip, Ringhorne, ut i havet. Gåten er diktet opp.",
     "h1": "Framgang",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El barco Hringhorni",
+    "sub": "Toca una pieza para elegirla y toca una casilla libre en la misma fila (o columna) para deslizarla hasta allí. Abre camino para el barco claro y llévalo hasta la salida, a la derecha, en un máximo de 30 movimientos.",
+    "perdeu": "Se acabaron los movimientos o el tiempo",
+    "v1": "¡El barco llegó al mar!",
+    "v2": "En la Gylfaginning, la giganta Hyrrokkin empuja el barco de Baldr, Hringhorni, hacia el mar. El rompecabezas es un invento.",
+    "h1": "Avance",
+    "h2": "Movimientos"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Maeshowe på Orknøyene la vikinger igjen runeinnskrifter på veggene. Den hemmelige rekkefølgen er diktet opp.",
     "h1": "Forsøk",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La cámara de Maeshowe",
+    "sub": "Hay una secuencia secreta de 4 runas, de 6 tipos posibles (pueden repetirse). Toca una runa de abajo para ponerla en la siguiente casilla y toca Probar. Clavija dorada: runa correcta en el lugar correcto. Clavija clara: runa correcta en el lugar equivocado. Tienes 7 intentos.",
+    "perdeu": "Se acabaron los intentos o el tiempo",
+    "v1": "¡Descifraste la secuencia!",
+    "v2": "En Maeshowe, en las islas Orcadas, los vikingos dejaron inscripciones rúnicas en las paredes. La secuencia secreta es un invento.",
+    "h1": "Intentos",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

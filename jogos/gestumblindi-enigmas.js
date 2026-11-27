@@ -223,6 +223,80 @@ BTJogo.registrar({
         "rive"
       ]
     ]
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los acertijos de Gestumblindi",
+    "sub": "Lee cada acertijo y toca la respuesta correcta antes de que se acabe el tiempo de la pregunta. Acierta al menos 8 de los 10 acertijos, con un máximo de 3 fallos. Los acertijos están inventados para el sitio.",
+    "perdeu": "Fallaste demasiado",
+    "v1": "¡Resolviste los acertijos!",
+    "v2": "En la Hervarar saga, Gestumblindi propone acertijos al rey Heidrek. Los acertijos de este juego están inventados para el sitio.",
+    "h1": "Aciertos",
+    "h2": "Fallos",
+    "q": [
+      [
+        "Tiene dientes, pero no muerde; pasa por el pelo del rey.",
+        "peine",
+        "campana",
+        "hacha"
+      ],
+      [
+        "Corre sin tener pies y canta sin tener boca.",
+        "río",
+        "viento",
+        "fuego"
+      ],
+      [
+        "Cuanto más se saca de él, más grande se hace.",
+        "agujero",
+        "barril",
+        "foso de barro"
+      ],
+      [
+        "Sube y baja sin moverse de su sitio.",
+        "escalera",
+        "barco",
+        "caballo"
+      ],
+      [
+        "Tiene un ojo, pero no ve; hace pasar el hilo.",
+        "aguja",
+        "cuervo",
+        "espada"
+      ],
+      [
+        "Es tuyo, pero los demás lo usan más que tú.",
+        "nombre",
+        "caballo",
+        "manto"
+      ],
+      [
+        "Vuela sin alas y llora sin ojos.",
+        "nube",
+        "flecha",
+        "humo de vela"
+      ],
+      [
+        "Llena de agujeros, pero guarda agua.",
+        "esponja",
+        "red",
+        "criba"
+      ],
+      [
+        "Cuanto más seca, más mojada queda.",
+        "toalla",
+        "piedra",
+        "leña"
+      ],
+      [
+        "Tiene cabeza y dientes, pero no es un animal.",
+        "ajo",
+        "peine de hueso",
+        "rastrillo"
+      ]
+    ]
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Laxdæla saga grunnlegger Aud den djuptenkte en gård på Island. Byggingen med stablede planker er diktet opp.",
     "h1": "Planker",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La casa de Aud",
+    "sub": "Una tabla va y viene en lo alto. Toca (o usa la barra espaciadora) para soltarla sobre la anterior: lo que sobresalga se corta. Apila 12 tablas antes de que se acabe el tiempo.",
+    "perdeu": "La tabla cayó o se acabó el tiempo",
+    "v1": "¡La casa está en pie!",
+    "v2": "En la Laxdæla saga, Aud la Profunda funda una granja en Islandia. La construcción con tablas apiladas es un invento.",
+    "h1": "Tablas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

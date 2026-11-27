@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Baldrs draumar rir Odin ned til Hel for å forstå Balders drømmer. Tegnene på kortene er diktet opp.",
     "h1": "Par",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los sueños de Baldr",
+    "sub": "Toca una carta para darle la vuelta y luego otra. Si los dos signos son iguales, el par queda abierto. Encuentra los 6 pares en un máximo de 14 jugadas (cada par de cartas que se da la vuelta cuenta como una jugada).",
+    "perdeu": "Se acabaron las jugadas o el tiempo",
+    "v1": "¡Encontraste todos los pares!",
+    "v2": "En el Baldrs draumar, Odín desciende a Hel para entender los sueños de Baldr. Los signos de las cartas son un invento.",
+    "h1": "Pares",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {
