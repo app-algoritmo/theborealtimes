@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Hyndluljóð tar Freyja med Óttarr til hulen til seeren Hyndla. Faklene og lysgåten er diktet opp.",
     "h1": "Tent",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las antorchas de Hyndla",
+    "sub": "Toca una antorcha para cambiar su estado y el de las cuatro vecinas (encendida o apagada). Enciende las 25 antorchas de la gruta antes de gastar las 12 jugadas.",
+    "perdeu": "Se acabaron las jugadas o el tiempo",
+    "v1": "¡La gruta está toda encendida!",
+    "v2": "En el Hyndluljóð, Freyja lleva a Óttarr a la gruta de la vidente Hyndla. Las antorchas y el rompecabezas de luces son invención.",
+    "h1": "Encendidas",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {

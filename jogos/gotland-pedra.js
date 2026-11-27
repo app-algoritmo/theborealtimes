@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Bildesteinene på Gotland i Sverige viser seilskip fra 400-tallet til 1100-tallet. Fargespillet er diktet opp.",
     "h1": "Malt",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La imagen de Gotland",
+    "sub": "La mancha parte de la esquina de arriba a la izquierda. Toca un color para pintar la mancha con él: se traga las casillas vecinas del mismo color. Pinta toda la imagen de un solo color en un máximo de 18 jugadas.",
+    "perdeu": "Se acabaron las jugadas o el tiempo",
+    "v1": "¡La imagen es de un solo color!",
+    "v2": "Las piedras pintadas de Gotland, en Suecia, muestran barcos de vela entre los siglos V y XII. El juego de colores es invención.",
+    "h1": "Pintadas",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {

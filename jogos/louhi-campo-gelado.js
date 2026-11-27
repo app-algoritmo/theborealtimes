@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala er Louhi herskerinnen i Pohjola, kuldens og nattens land. Bygefeltet er diktet opp.",
     "h1": "Kryssinger",
     "h2": "Liv"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El campo helado de Pohjola",
+    "sub": "Toca encima, debajo o al lado de tu figura para dar un paso (o usa las flechas). Atraviesa las 6 franjas de ráfagas de frío y llega al otro lado 3 veces. Cada ráfaga que te alcanza cuesta una de 3 vidas.",
+    "perdeu": "Se acabaron las vidas o el tiempo",
+    "v1": "¡Cruzaste tres veces!",
+    "v2": "En el Kalevala, Louhi es la señora de Pohjola, tierra del frío y de la noche. El campo de ráfagas es invención.",
+    "h1": "Cruces",
+    "h2": "Vidas"
   }
 },
   criar: function (api) {

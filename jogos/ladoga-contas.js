@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Staraya Ladoga (Aldeigjuborg) var fra 700-tallet et senter for handel og håndverk. Perlespillet er diktet opp.",
     "h1": "Perler",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las cuentas de Ladoga",
+    "sub": "Toca una casilla vacía para poner una cuenta dorada; el adversario pone cuentas azules. Quien alinee primero cinco cuentas, en horizontal, en vertical o en diagonal, gana. Bloquea sus líneas. Tiempo limitado.",
+    "perdeu": "El adversario cerró la línea, o se acabó el tiempo",
+    "v1": "¡Cinco cuentas en línea!",
+    "v2": "Staraya Ladoga (Aldeigjuborg) fue, desde el siglo VIII, un centro de comercio y de oficios. El juego de alinear cuentas es invención.",
+    "h1": "Cuentas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

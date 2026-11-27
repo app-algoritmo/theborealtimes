@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Salme på øya Saaremaa ble skip med krigere og gjenstander gravd ut. Funnbildene i spillet er diktet opp.",
     "h1": "Funn",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los hallazgos de Salme",
+    "sub": "Toca una pieza y luego una vecina (o arrastra) para intercambiarlas. Forma líneas de tres o más iguales para recoger los hallazgos. Recoge 120 en 20 jugadas.",
+    "perdeu": "Se acabaron las jugadas",
+    "v1": "¡Todos los hallazgos recogidos!",
+    "v2": "En Salme, en la isla de Saaremaa, se excavaron barcos con guerreros y objetos. Los dibujos de hallazgos del juego son invención.",
+    "h1": "Hallazgos",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Cuerdale-skatten, funnet i 1840 i England, inneholdt tusenvis av sølvmynter fra mange opphav. Sorteringen i stabler er diktet opp.",
     "h1": "Ferdige stabler",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El tesoro de Cuerdale",
+    "sub": "Toca una pila para coger la moneda de arriba y toca otra pila para soltarla. Solo se puede poner la moneda en una pila vacía o sobre una moneda del mismo color, y cada pila guarda hasta 4. Deja cada origen solo en su pila en un máximo de 45 jugadas.",
+    "perdeu": "Se acabaron las jugadas o el tiempo",
+    "v1": "¡Cada origen está en su pila!",
+    "v2": "El tesoro de Cuerdale, hallado en 1840 en Inglaterra, contenía miles de monedas de plata de varios orígenes. La separación por pilas es invención.",
+    "h1": "Pilas listas",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {

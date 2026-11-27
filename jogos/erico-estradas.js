@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Eirik styrte York, i Nord-England, i 947–948 og 952–954. Veiene i spillet er diktet opp.",
     "h1": "Koblet",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los caminos de York",
+    "sub": "Toca una pieza para girarla. Conecta las 25 piezas con el punto de partida, marcado con una corona, formando una red sin piezas sueltas. Tiempo limitado.",
+    "perdeu": "Se acabó el tiempo",
+    "v1": "¡Toda la red está conectada!",
+    "v2": "Erico gobernó York, en el norte de Inglaterra, en 947–948 y 952–954. Los caminos del juego son invención.",
+    "h1": "Conectadas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

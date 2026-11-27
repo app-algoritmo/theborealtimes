@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I den danske balladen om Herr Oluf inviterer alvene ridderen til å danse til daggry. Spillets melodi er diktet opp.",
     "h1": "Treff",
     "h2": "Pust"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La danza de las elfas",
+    "sub": "Las notas bajan por 4 pistas. Toca la pista (o usa ← ↓ ↑ →) cuando la nota llegue a la línea dorada. Cada acierto llena el aliento; cada nota perdida lo vacía. Baila hasta el final de la canción sin quedarte sin aliento.",
+    "perdeu": "Se acabó el aliento",
+    "v1": "¡Bailaste hasta el amanecer!",
+    "v2": "En la balada danesa de Herr Oluf, las elfas invitan al caballero a bailar hasta el amanecer. La melodía del juego es invención.",
+    "h1": "Aciertos",
+    "h2": "Aliento"
   }
 },
   criar: function (api) {

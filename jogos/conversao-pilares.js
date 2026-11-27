@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I år 1000 bestemte det islandske Altinget at alle skulle ta imot kristendommen. Pilargåten er diktet opp.",
     "h1": "På pilaren",
     "h2": "Trekk"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los cuatro bloques",
+    "sub": "Toca un pilar para coger el bloque de arriba y toca otro pilar para soltarlo. Nunca pongas un bloque mayor sobre uno menor. Lleva los 4 bloques al pilar de la derecha en un máximo de 22 jugadas.",
+    "perdeu": "Se acabaron las jugadas o el tiempo",
+    "v1": "¡Todos los bloques están en el pilar!",
+    "v2": "En el año 1000, el Althing de Islandia decidió que todos aceptarían el cristianismo. El rompecabezas de los pilares es invención.",
+    "h1": "En el pilar",
+    "h2": "Jugadas"
   }
 },
   criar: function (api) {

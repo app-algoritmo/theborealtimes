@@ -501,6 +501,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_bergbua: jogo-o-poema-de-hallmundr
+    jogo_kumlbua: jogo-o-machado-do-morador-do-tumulo
+    jogo_orm: jogo-os-fardos-de-feno-de-ormr
+    jogo_uxafot: jogo-os-trolls-de-heidarskogr
+    jogo_skelkr: jogo-quem-disse-quem-fez
+    jogo_odda: jogo-o-ceu-de-oddi
+    jogo_thorleif: jogo-os-versos-de-thorleifr
+    jogo_gisl: jogo-os-fatos-de-gisl
+    jogo_ivarthattr: jogo-conversar-com-o-rei
+    jogo_helgi: jogo-o-chifre-do-rei
+    jogo_brandkrossi: jogo-os-graos-de-brandkrossi
+    jogo_styrbjorn: jogo-fyrisvellir
+    jogo_hrafnthattr: jogo-a-fuga-de-hrafn
     jogo_halfs: jogo-os-fatos-de-halfr
     jogo_asmundar: jogo-os-campeoes-de-hildibrand
     jogo_egill: jogo-o-banquete-dos-gigantes
@@ -1288,6 +1301,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_bergbua: game-hallmundr-s-poem
+    jogo_kumlbua: game-the-mound-dweller-s-axe
+    jogo_orm: game-ormr-s-hay-bundles
+    jogo_uxafot: game-the-trolls-of-heidarskogr
+    jogo_skelkr: game-who-said-it-who-did
+    jogo_odda: game-oddi-s-sky
+    jogo_thorleif: game-thorleifr-s-verses
+    jogo_gisl: game-gisl-s-facts
+    jogo_ivarthattr: game-talking-with-the-king
+    jogo_helgi: game-the-king-s-horn
+    jogo_brandkrossi: game-brandkrossi-s-grain
+    jogo_styrbjorn: game-fyrisvellir
+    jogo_hrafnthattr: game-hrafn-s-flight
     jogo_halfs: game-halfr-s-facts
     jogo_asmundar: game-hildibrand-s-champions
     jogo_egill: game-the-giants-feast
@@ -2075,6 +2101,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_bergbua: spill-hallmundrs-dikt
+    jogo_kumlbua: spill-haugboerens-oks
+    jogo_orm: spill-ormrs-hoybunter
+    jogo_uxafot: spill-trollene-i-heidarskogr
+    jogo_skelkr: spill-hvem-sa-det-hvem-gjorde
+    jogo_odda: spill-oddis-himmel
+    jogo_thorleif: spill-thorleifrs-vers
+    jogo_gisl: spill-gisls-fakta
+    jogo_ivarthattr: spill-a-snakke-med-kongen
+    jogo_helgi: spill-kongens-horn
+    jogo_brandkrossi: spill-brandkrossis-korn
+    jogo_styrbjorn: spill-fyrisvellir
+    jogo_hrafnthattr: spill-hrafns-flukt
     jogo_halfs: spill-halfrs-fakta
     jogo_asmundar: spill-hildibrands-kjemper
     jogo_egill: spill-jotnenes-gjestebud
@@ -2868,6 +2907,32 @@ es:
     jogo_mannen: juego-el-hombre-y-las-tareas-de-la-casa
     jogo_peer: juego-el-salon-del-rey-de-la-montana
     jogo_repton: juego-la-cuadricula-de-repton
+    jogo_bergbua: juego-el-poema-de-hallmundr
+    jogo_kumlbua: juego-el-hacha-del-morador-del-tumulo
+    jogo_orm: juego-los-fardos-de-heno-de-ormr
+    jogo_uxafot: juego-los-trols-de-heidarskogr
+    jogo_skelkr: juego-quien-lo-dijo-quien-lo-hizo
+    jogo_odda: juego-el-cielo-de-oddi
+    jogo_thorleif: juego-los-versos-de-thorleifr
+    jogo_gisl: juego-los-hechos-de-gisl
+    jogo_ivarthattr: juego-conversar-con-el-rey
+    jogo_helgi: juego-el-cuerno-del-rey
+    jogo_brandkrossi: juego-los-granos-de-brandkrossi
+    jogo_styrbjorn: juego-fyrisvellir
+    jogo_hrafnthattr: juego-la-huida-de-hrafn
+    jogo_ridgeway: juego-la-tabla-de-ridgeway
+    jogo_salme: juego-los-hallazgos-de-salme
+    jogo_ladoga: juego-las-cuentas-de-ladoga
+    jogo_sweyn: juego-la-flota-de-sweyn
+    jogo_ansgar: juego-el-tablero-de-birka
+    jogo_conversao-1000: juego-los-cuatro-bloques
+    jogo_cuerdale: juego-el-tesoro-de-cuerdale
+    jogo_elveskud: juego-la-danza-de-las-elfas
+    jogo_erico: juego-los-caminos-de-york
+    jogo_gotland: juego-la-imagen-de-gotland
+    jogo_gylfi: juego-el-salon-de-gylfi
+    jogo_hyndla: juego-las-antorchas-de-hyndla
+    jogo_louhi: juego-el-campo-helado-de-pohjola
   curiosidades: []
   interface:
     capa: Portada

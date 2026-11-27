@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ifølge Den angelsaksiske krøniken seilte Svend opp Humber og Trent til Gainsborough i 1013. Passeringene i spillet er diktet opp.",
     "h1": "Passeringer",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La flota de Sweyn",
+    "sub": "Toca (o usa la barra espaciadora) para que el barco suba; al soltar, baja solo. Pasa por el hueco entre los bancos de arena, sin tocarlos ni rozar el fondo del río. Completa 12 pasos para llegar a Gainsborough.",
+    "perdeu": "El barco encalló",
+    "v1": "¡La flota llegó a Gainsborough!",
+    "v2": "Según la Crónica anglosajona, Sweyn remontó el Humber y el Trent hasta Gainsborough en 1013. Los pasos del juego son invención.",
+    "h1": "Pasos",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

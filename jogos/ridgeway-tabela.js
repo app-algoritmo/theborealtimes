@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ved Ridgeway Hill (Dorset) ble en massegrav fra vikingtiden funnet. Symbolgåten er diktet opp.",
     "h1": "Fylt",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La tabla de Ridgeway",
+    "sub": "Rellena la cuadrícula con dos símbolos (toca para alternar: vacío → ◯ → ●). Reglas: nunca tres iguales seguidos, ni en horizontal ni en vertical; cada fila y cada columna tienen tres de cada. Las casillas doradas ya vienen rellenas. Los conflictos se ponen en rojo.",
+    "perdeu": "Se acabó el tiempo",
+    "v1": "¡La tabla está completa!",
+    "v2": "En Ridgeway Hill (Dorset) se halló una fosa común de la época vikinga. El rompecabezas de símbolos es invención.",
+    "h1": "Rellenas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

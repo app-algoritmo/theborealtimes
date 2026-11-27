@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ansgar var misjonær i Sverige (Birka) på 800-tallet. Brettspillet er diktet opp.",
     "h1": "Dine",
     "h2": "Rival"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El tablero de Birka",
+    "sub": "Juegas con las fichas claras. Toca una casilla marcada para colocar una ficha: todas las fichas del rival atrapadas en línea recta entre ella y otra tuya pasan a ser tuyas. Al final gana quien tenga más fichas. Tienes 3 minutos.",
+    "perdeu": "El rival se quedó con más fichas, o se acabó el tiempo",
+    "v1": "¡Te quedaste con más fichas!",
+    "v2": "Ansgar fue misionero en Suecia (Birka) en el siglo IX. El juego de tablero es invención.",
+    "h1": "Tuyas",
+    "h2": "Rival"
   }
 },
   criar: function (api) {

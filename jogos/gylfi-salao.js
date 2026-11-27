@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Gylfaginning forsvinner gudenes palass foran kong Gylfe. Spillet med å slå ned murstein er diktet opp.",
     "h1": "Nedslått",
     "h2": "Baller"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El salón de Gylfi",
+    "sub": "Mueve la barra (arrastra el dedo o usa ← →) para que la bola no caiga y derriba todos los ladrillos del salón, que es una ilusión de los dioses. Tienes 3 bolas.",
+    "perdeu": "Se acabaron las bolas",
+    "v1": "¡El salón se deshizo!",
+    "v2": "En la Gylfaginning, el palacio de los dioses desaparece ante el rey Gylfi. El juego de derribar ladrillos es invención.",
+    "h1": "Derribados",
+    "h2": "Bolas"
   }
 },
   criar: function (api) {
