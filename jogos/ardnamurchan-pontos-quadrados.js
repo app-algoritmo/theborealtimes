@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I 2011 fant arkeologer en båtgrav fra 900-tallet ved Ardnamurchan i Skottland. Prikkspillet er diktet opp.",
     "h1": "Ruter",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Los puntos de Swordle Bay",
+    "sub": "Toca entre dos puntos vecinos para trazar una línea. Quien cierra el cuarto lado de un cuadrado se lo queda y juega de nuevo. Cierra más cuadrados que el rival (5 o más, de 9), en un máximo de 120 segundos. Empiezas tú.",
+    "perdeu": "El rival cerró más cuadrados o se acabó el tiempo",
+    "v1": "¡Cerraste más cuadrados!",
+    "v2": "En 2011, unos arqueólogos hallaron en Ardnamurchan, en Escocia, una sepultura en barco del siglo X. El juego de puntos es un invento.",
+    "h1": "Cuadrados",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

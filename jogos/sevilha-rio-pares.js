@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I 844 seilte vikingene opp elven Guadalquivir til Sevilla. Kartet og parene er diktet opp for spillet.",
     "h1": "Par",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El mapa del río",
+    "sub": "Arrastra desde el punto de un color hasta el otro punto del mismo color, pasando por casillas vecinas. Los caminos no pueden cruzarse: un camino nuevo corta el que esté en su trayecto. Une los 5 pares en un máximo de 90 segundos.",
+    "perdeu": "Se acabó el tiempo",
+    "v1": "¡Todos los pares están unidos!",
+    "v2": "En 844, los vikingos remontaron el río Guadalquivir hasta Sevilla. El mapa y los pares son un invento del juego.",
+    "h1": "Pares",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

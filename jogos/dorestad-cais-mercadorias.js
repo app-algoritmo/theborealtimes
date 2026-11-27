@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Dorestad, en handelsby ved nedre Rhinen, ble angrepet av vikinger fra 834. Varebyttet er diktet opp for spillet.",
     "h1": "Varer",
     "h2": "Bytter"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El muelle de Dorestad",
+    "sub": "Toca una mercancía y después una vecina (o arrastra) para intercambiarlas. El intercambio solo vale si junta tres o más iguales, en línea o en columna. Reúne 70 mercancías con 16 intercambios, antes de 150 segundos.",
+    "perdeu": "Se acabaron los intercambios o el tiempo",
+    "v1": "¡El muelle está abastecido!",
+    "v2": "Dorestad, puerto comercial del Bajo Rin, fue atacado por los vikingos a partir de 834. El intercambio de mercancías es un invento del juego.",
+    "h1": "Mercancías",
+    "h2": "Intercambios"
   }
 },
   criar: function (api) {

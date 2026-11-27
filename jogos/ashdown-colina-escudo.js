@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I januar 871 beseiret vestsakserne vikingene ved Ashdown. Spillet med å skyte nedenfra er diktet opp.",
     "h1": "Felt",
     "h2": "Liv"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La colina de Ashdown",
+    "sub": "Arrastra el dedo (o usa ← →) para mover a tu guerrero; lanza una lanza a cada instante. Derriba las 18 figuras que bajan en filas y esquiva sus lanzas. Tienes 3 vidas; no dejes que las filas lleguen a tu altura.",
+    "perdeu": "La colina cayó",
+    "v1": "¡La colina está defendida!",
+    "v2": "En enero de 871, los sajones occidentales vencieron a los vikingos en Ashdown. El juego de lanzar desde abajo es un invento.",
+    "h1": "Derribados",
+    "h2": "Vidas"
   }
 },
   criar: function (api) {

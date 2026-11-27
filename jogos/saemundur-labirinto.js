@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I islandsk folketro flykter Sæmundur fra Svarteskolen uten at djevelen får tak i skyggen hans. Labyrinten er diktet opp for spillet.",
     "h1": "Avstand",
     "h2": "Skygge"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La Escuela Negra",
+    "sub": "Usa las flechas (o mantén el dedo en el lado hacia el que quieres ir) para moverte por el laberinto hasta la salida, abajo a la derecha. Pasados unos segundos, el diablo empieza a perseguir tu sombra y se mueve más rápido que tú. No dejes que la alcance.",
+    "perdeu": "Alcanzaron tu sombra",
+    "v1": "¡Saliste de la Escuela Negra!",
+    "v2": "En el folclore islandés, Sæmundur huye de la Escuela Negra sin dejar que el diablo atrape su sombra. El laberinto es un invento del juego.",
+    "h1": "Distancia",
+    "h2": "Sombra"
   }
 },
   criar: function (api) {

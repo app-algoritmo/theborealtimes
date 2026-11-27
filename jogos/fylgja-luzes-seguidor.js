@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I sagaene er fylgjaen en ånd som følger et menneske. Å lede den til lys er diktet opp for spillet.",
     "h1": "Lys",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El espíritu que sigue",
+    "sub": "Desliza el dedo (o usa las flechas) para conducir al espíritu. Cada luz lo hace crecer. Recoge 12 luces sin tocar los bordes ni el propio cuerpo del espíritu, en un máximo de 120 segundos.",
+    "perdeu": "El espíritu chocó o se acabó el tiempo",
+    "v1": "¡Doce luces recogidas!",
+    "v2": "En las sagas, la fylgja es un espíritu que acompaña a una persona. La conducción de luces es un invento del juego.",
+    "h1": "Luces",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "Ved Örlygsstaðir i 1238 tapte sturlungene mot mennene til Kolbeinn og Gissur. Spillet med brikker på rad er diktet opp.",
     "h1": "Trekk",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El campo de Örlygsstaðir",
+    "sub": "Toca una columna (o usa ← → y espacio) para soltar tu pieza dorada. Alinea cuatro piezas, en horizontal, en vertical o en diagonal, antes de que el rival alinee las suyas. Empiezas tú. Gana en un máximo de 120 segundos.",
+    "perdeu": "El rival alineó cuatro, el tablero se llenó o se acabó el tiempo",
+    "v1": "¡Alineaste cuatro!",
+    "v2": "En Örlygsstaðir, en 1238, los Sturlungar perdieron frente a los hombres de Kolbeinn y Gissur. El juego de alinear piezas es un invento.",
+    "h1": "Jugadas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

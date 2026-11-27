@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Grottasöngr dreier Fenja og Menja kvernen Grotti for kong Fróði. Sammenslåingen av nummererte brikker er diktet opp.",
     "h1": "Størst",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las piedras de Grotti",
+    "sub": "Desliza el dedo (o usa las flechas) para empujar todas las piezas hacia un lado. Dos piezas iguales que se encuentran se funden en una sola, con el doble de valor. Llega a la pieza de 256 en un máximo de 180 segundos.",
+    "perdeu": "Sin jugadas o sin tiempo",
+    "v1": "¡La pieza de 256 está lista!",
+    "v2": "En el Grottasöngr, Fenja y Menja hacen girar el molino Grotti para el rey Fróði. La fusión de piezas numéricas es un invento.",
+    "h1": "Mayor",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

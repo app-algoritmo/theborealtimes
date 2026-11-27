@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Grímnismál flyr Huginn og Muninn hver dag over Midgard. Flukten mellom hindre er diktet opp.",
     "h1": "Åpninger",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La vuelta sobre Midgard",
+    "sub": "Toca la pantalla (o pulsa espacio) para que el cuervo bata las alas; si no tocas, cae. Pasa por las aberturas entre las piedras y los árboles. Cumple 14 aberturas, sin chocar, para completar la vuelta sobre Midgard.",
+    "perdeu": "El cuervo chocó",
+    "v1": "¡La vuelta sobre Midgard está completa!",
+    "v2": "En el Grímnismál, Huginn y Muninn vuelan todos los días sobre Midgard. El vuelo entre obstáculos es un invento.",
+    "h1": "Aberturas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

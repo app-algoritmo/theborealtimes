@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Heimskringla vokter fire vesener Island mot en invasjon. Såespillet er diktet opp.",
     "h1": "Stilling",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "La siembra de los guardianes",
+    "sub": "Toca una de tus 6 casillas (abajo) para coger las piedras y sembrarlas, una por casilla, hacia la derecha y después por las casillas del rival. Si la última cae en tu depósito, juegas de nuevo; si cae en una casilla tuya vacía, capturas las piedras de la casilla opuesta. Guarda más que el rival.",
+    "perdeu": "El rival guardó más",
+    "v1": "¡Guardaste más piedras!",
+    "v2": "En la Heimskringla, cuatro guardianes protegen Islandia de una invasión. El juego de siembra es un invento.",
+    "h1": "Marcador",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Bandamanna saga vinner Ófeigr en sak med list og betalinger. Myntspillet er diktet opp.",
     "h1": "Mynter",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "Las monedas del Althing",
+    "sub": "Hay tres montones de monedas. En tu turno, toca una moneda para llevarte esa y todas las de encima del mismo montón. Quien se lleve la última moneda gana. El rival juega justo después de ti. Gana en un máximo de 90 segundos.",
+    "perdeu": "El rival se llevó la última",
+    "v1": "¡La última moneda es tuya!",
+    "v2": "En la Bandamanna saga, Ófeigr gana un proceso con astucia y pagos. El juego de monedas es un invento.",
+    "h1": "Monedas",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

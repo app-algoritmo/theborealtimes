@@ -501,6 +501,19 @@ pt:
     jogo_leao: jogo-as-runas-do-leao
     jogo_reykjavik: jogo-a-peneira-dos-achados
     jogo_tratado: jogo-pergaminho-selo-e-pena
+    jogo_olafkyrre: jogo-a-igreja-sobre-o-tumulo
+    jogo_magnuscego: jogo-os-golpes-do-escuro
+    jogo_slembe: jogo-a-fuga-pela-floresta
+    jogo_tresirmaos: jogo-inge-sigurd-munn-ou-eystein
+    jogo_oslo1161: jogo-a-noite-de-oslo
+    jogo_breakspear: jogo-os-denarios-do-legado
+    jogo_erlingskakke: jogo-a-floresta-de-rydjokul
+    jogo_eysteinerlendsson: jogo-o-cinzel-na-esteatita
+    jogo_olavugjaeva: jogo-as-provisoes-de-oppland
+    jogo_eysteinmeyla: jogo-a-batalha-de-re
+    jogo_fimreite1184: jogo-os-remos-do-mariusud
+    jogo_haakon3: jogo-haakon-margareta-ou-guttorm
+    jogo_hryggjarstykki: jogo-as-folhas-de-pergaminho
     jogo_tristram: jogo-o-santuario-de-isond
     jogo_strengleikar: jogo-cada-frase-no-seu-lai
     jogo_bisclaret: jogo-as-roupas-do-barao
@@ -1314,6 +1327,19 @@ en:
     jogo_leao: game-the-runes-of-the-lion
     jogo_reykjavik: game-the-sieve-of-finds
     jogo_tratado: game-scroll-seal-and-quill
+    jogo_olafkyrre: game-the-church-over-the-grave
+    jogo_magnuscego: game-blows-from-the-dark
+    jogo_slembe: game-the-flight-through-the-forest
+    jogo_tresirmaos: game-inge-sigurd-munn-or-eystein
+    jogo_oslo1161: game-the-night-of-oslo
+    jogo_breakspear: game-the-legate-s-pence
+    jogo_erlingskakke: game-the-forest-of-rydjokul
+    jogo_eysteinerlendsson: game-the-chisel-on-the-soapstone
+    jogo_olavugjaeva: game-the-provisions-of-oppland
+    jogo_eysteinmeyla: game-the-battle-of-re
+    jogo_fimreite1184: game-the-oars-of-the-mariusud
+    jogo_haakon3: game-haakon-margareta-or-guttorm
+    jogo_hryggjarstykki: game-the-parchment-leaves-2
     jogo_tristram: game-isond-s-shrine
     jogo_strengleikar: game-each-phrase-in-its-lai
     jogo_bisclaret: game-the-baron-s-clothes
@@ -2127,6 +2153,19 @@ en:
     jogo_leao: spill-runene-pa-loven
     jogo_reykjavik: spill-sikten-med-funn
     jogo_tratado: spill-pergament-segl-og-fjaerpenn
+    jogo_olafkyrre: spill-kirken-over-graven
+    jogo_magnuscego: spill-slag-fra-morket
+    jogo_slembe: spill-flukten-gjennom-skogen
+    jogo_tresirmaos: spill-inge-sigurd-munn-eller-eystein
+    jogo_oslo1161: spill-natten-i-oslo
+    jogo_breakspear: spill-legatens-denarer
+    jogo_erlingskakke: spill-skogen-ved-rydjokul
+    jogo_eysteinerlendsson: spill-meiselen-i-kleberstein
+    jogo_olavugjaeva: spill-forsyningene-fra-oppland
+    jogo_eysteinmeyla: spill-slaget-ved-re
+    jogo_fimreite1184: spill-arene-pa-mariusud
+    jogo_haakon3: spill-haakon-margareta-eller-guttorm
+    jogo_hryggjarstykki: spill-pergamentarkene
     jogo_tristram: spill-isonds-helligdom
     jogo_strengleikar: spill-hver-setning-i-sin-lai
     jogo_bisclaret: spill-baronens-klaer
@@ -2998,6 +3037,32 @@ es:
     jogo_hringhorni: juego-el-barco-hringhorni
     jogo_gestumblindi: juego-los-acertijos-de-gestumblindi
     jogo_guthrum: juego-las-cajas-de-wedmore
+    jogo_olafkyrre: juego-la-iglesia-sobre-la-tumba
+    jogo_magnuscego: juego-los-golpes-de-la-oscuridad
+    jogo_slembe: juego-la-huida-por-el-bosque
+    jogo_tresirmaos: juego-inge-sigurd-munn-o-eystein
+    jogo_oslo1161: juego-la-noche-de-oslo
+    jogo_breakspear: juego-los-denarios-del-legado
+    jogo_erlingskakke: juego-el-bosque-de-rydjokul
+    jogo_eysteinerlendsson: juego-el-cincel-en-la-esteatita
+    jogo_olavugjaeva: juego-las-provisiones-de-oppland
+    jogo_eysteinmeyla: juego-la-batalla-de-re
+    jogo_fimreite1184: juego-los-remos-del-mariusud
+    jogo_haakon3: juego-haakon-margareta-o-guttorm
+    jogo_hryggjarstykki: juego-las-hojas-de-pergamino
+    jogo_hymir: juego-el-caldero-de-hymir
+    jogo_landvaettir: juego-la-siembra-de-los-guardianes
+    jogo_saemundur: juego-la-escuela-negra
+    jogo_sevilha: juego-el-mapa-del-rio
+    jogo_ardnamurchan: juego-los-puntos-de-swordle-bay
+    jogo_ashdown: juego-la-colina-de-ashdown
+    jogo_bandamanna: juego-las-monedas-del-althing
+    jogo_dorestad: juego-el-muelle-de-dorestad
+    jogo_fylgja: juego-el-espiritu-que-sigue
+    jogo_grotti: juego-las-piedras-de-grotti
+    jogo_midgard: juego-la-vuelta-sobre-midgard
+    jogo_joukahainen: juego-el-duelo-de-cantos
+    jogo_orlygsstadir: juego-el-campo-de-orlygsstadir
   curiosidades: []
   interface:
     capa: Portada

@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Kalevala utfordrer unge Joukahainen gamle Väinämöinen til en sangduell og taper. Ballen er diktet opp for spillet.",
     "h1": "Poeng",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El duelo de cantos",
+    "sub": "Arrastra el dedo (o usa ← →) para mover tu barra, abajo, y devolver la bola. Si la bola pasa al rival, marcas. Llega a 7 puntos antes que él, en un máximo de 150 segundos.",
+    "perdeu": "El rival llegó a 7 o se acabó el tiempo",
+    "v1": "¡Ganaste el duelo!",
+    "v2": "En el Kalevala, el joven Joukahainen desafía al viejo Väinämöinen a un duelo de cantos y pierde. La bola es un invento del juego.",
+    "h1": "Puntos",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {

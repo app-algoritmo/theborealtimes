@@ -37,6 +37,18 @@ BTJogo.registrar({
     "v2": "I Hymiskviða bærer Tor Hymirs kjele til Ægirs hall. Balansespillet er diktet opp.",
     "h1": "Steg",
     "h2": "Tid"
+  },
+  "es": {
+    "toque": "Toca para empezar",
+    "de_novo": "Toca para intentarlo de nuevo",
+    "jogar": "Toca para jugar otra vez",
+    "titulo": "El caldero de Hymir",
+    "sub": "Mantén pulsado el lado izquierdo o el derecho de la pantalla (o usa ← →) para empujar el caldero de vuelta al centro cuando se incline. Da 36 pasos sin dejar que se vuelque.",
+    "perdeu": "El caldero se volcó",
+    "v1": "¡Llegaste al salón de Ægir!",
+    "v2": "En el Hymiskviða, Thor lleva el caldero de Hymir hasta el salón de Ægir. El juego de equilibrio es un invento.",
+    "h1": "Pasos",
+    "h2": "Tiempo"
   }
 },
   criar: function (api) {
